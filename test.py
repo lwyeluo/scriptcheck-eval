@@ -35,7 +35,7 @@ class TimTest(object):
 		self._results_dir = self._home_dir + "/workspace/tim-results"
 
 		# for each web page, we run 3 rounds
-		self._round = 3
+		self._round = 1
 
 		# create an EMPTY directory to save results
 		execute("rm -rf " + self._results_dir)
