@@ -57,7 +57,12 @@ class TimTest(object):
 		print('>>> FINISH ' + url)
 
 		time.sleep(5)
-		executeWithoutCheckStatus("kill -9 $(ps -ef | grep chrome | awk '{print $2}')")
+		while True:
+			executeWithoutCheckStatus('''kill -9 $(ps -ef | grep "%s" | awk '{print $2}')''' % self._chrome_binary)
+			remain = executeWithoutCheckStatus('ps -ef | grep "%s" | wc -l' % self._chrome_binary)
+			print(remain)
+			if remain.strip("\n") == '2':
+				break
 
 		ret_fd.close()
 
