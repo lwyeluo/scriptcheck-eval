@@ -2,7 +2,8 @@ import time
 import subprocess 
 import os
 import time
-
+import signal
+from threading import Timer
 
 _dir = os.path.dirname(__file__)
 _top_site_dir = os.path.join(_dir, "top-sites")
@@ -39,30 +40,50 @@ class TimTest(object):
 
 		# for each web page, we run 3 rounds
 		self._round = 3
+		self._timeout = 60
 
 		# create an EMPTY directory to save results
 		execute("rm -rf " + self._results_dir + " || true")
 		execute("mkdir -p " + self._results_dir + " || true")
 
+	def timeoutCallback(self, process_node):
+		print("\t\tEnter timeoutCallback")
+		try:
+			os.killpg(process_node.pid, signal.SIGKILL)
+		except Exception as error:
+			print(error)
+
 	def runPerUrl(self, url, ret_filename):
 		ret_fd = open(ret_filename, 'w')
 
-		p = subprocess.Popen([self._chrome_binary, '--remote-debugging-port=9222'], stderr=ret_fd, stdout=ret_fd)
+		process_chrome = subprocess.Popen([self._chrome_binary, '--remote-debugging-port=9222'], stderr=ret_fd, stdout=ret_fd)
 		print('>>> START ' + url)
+		
 		time.sleep(2)
-		print("****************node start********************************* ")
-		ti = subprocess.Popen([self._node_binary, self._node_filename, url], stdout=subprocess.PIPE)
-		print("****************node end*************************************")
-		print(ti.stdout.read())
+
+		process_node = subprocess.Popen([self._node_binary, self._node_filename, url], stdout=subprocess.PIPE, stderr=subprocess.PIPE, preexec_fn=os.setsid)
+		# create a timer
+		my_timer = Timer(self._timeout, self.timeoutCallback, [process_node])
+		my_timer.start()
+
+		stdout, _ = process_node.communicate()
+		if '''result: { type: 'string', value: 'complete' }''' in str(stdout):
+			print("\t\tweb page [%s] is completed!" % url)
+		else:
+			print(stdout)
+			print("\t\tweb page [%s] is TIMEOUT!" % url)
 		print('>>> FINISH ' + url)
 
+		my_timer.cancel()
+
 		time.sleep(5)
-		while True:
-			executeWithoutCheckStatus('''kill -9 $(ps -ef | grep "%s" | awk '{print $2}')''' % self._chrome_binary)
-			remain = executeWithoutCheckStatus('ps -ef | grep "%s" | wc -l' % self._chrome_binary)
-			print(remain)
-			if remain.strip("\n") == '2':
-				break
+		# kill chrome
+		try:
+			print("\t>>> kill Chrome [%d]" % process_chrome.pid)
+			os.kill(process_chrome.pid, signal.SIGKILL)
+			# os.killpg(process_chrome.pid, signal.SIGTERM)
+		except Exception as error:
+			print(error)
 
 		ret_fd.close()
 

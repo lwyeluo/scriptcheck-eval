@@ -20,14 +20,14 @@ async function example() {
 			//await Page.loadEventFired();
 		    result = await Runtime.evaluate({expression: 'document.readyState'});
 			//console.log(result);
-			startTime = process.uptime()
+			//startTime = process.uptime()
 			while(result.result.value != "complete")
 			{
-				curTime = process.uptime()
-				if (curTime - startTime > 60) {
-					console.log(">>> TimeOut ")
-					break
-				}
+				// curTime = process.uptime()
+				// if (curTime - startTime > 60) {
+				// 	console.log(">>> TimeOut ")
+				// 	break
+				// }
 				console.log(result);
 				result = await Runtime.evaluate({expression: 'document.readyState'});
 			}
