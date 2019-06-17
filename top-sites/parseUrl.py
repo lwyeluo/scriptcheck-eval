@@ -13,7 +13,7 @@ for line in _raw_fd.readlines():
 
     final_url = ""
 
-    if arr[3] in ['ok', '403', 'access deniey']:
+    if arr[3] in ['ok', '403']:
         arr[1] = "https://" + arr[1]
     elif arr[3] in ['', 'y'] and arr[2] == '':
         arr[1] = "https://" + arr[1]
