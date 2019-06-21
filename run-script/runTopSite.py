@@ -3,11 +3,21 @@ import subprocess
 import os
 import time
 import signal
+import logging
 from threading import Timer
 
-_dir = os.path.dirname(__file__)
-_top_site_dir = os.path.join(_dir, "top-sites")
+_dir = os.path.abspath(os.path.dirname(__file__))
+_top_site_dir = os.path.join(os.path.dirname(_dir), "top-sites")
 _final_url_filename = os.path.join(_top_site_dir, "final_url")
+_log_filename = os.path.join(_dir, "result.log")
+
+def outputAtConsole():
+    logging.basicConfig(level=logging.DEBUG, format='%(message)s', filename=_log_filename, filemode="w")
+
+    console = logging.StreamHandler()
+    console.setLevel(logging.DEBUG)
+    console.setFormatter(logging.Formatter("%(message)s"))
+    logging.getLogger('').addHandler(console)
 
 # execute a shell command and block!
 def execute(cmd):
@@ -30,11 +40,11 @@ class TimTest(object):
 		self._home_dir = execute("echo $HOME")
 		# get the chrome binary
 		self._chrome_binary = self._home_dir + "/chromium/tick/src/out/Default/chrome"
-		print(self._chrome_binary)
+		logging.info(self._chrome_binary)
 		# get the node binary
 		self._node_binary = "node"
 		# get the nodejs script
-		self._node_filename = "Hello.js"
+		self._node_filename = "checkUrlLoadCompleted.js"
 
 		self._results_dir = self._home_dir + "/workspace/tim-results"
 
@@ -47,17 +57,17 @@ class TimTest(object):
 		execute("mkdir -p " + self._results_dir + " || true")
 
 	def timeoutCallback(self, process_node):
-		print("\t\tEnter timeoutCallback")
+		logging.info("\t\tEnter timeoutCallback")
 		try:
 			os.killpg(process_node.pid, signal.SIGKILL)
 		except Exception as error:
-			print(error)
+			logging.info(error)
 
 	def runPerUrl(self, url, ret_filename):
 		ret_fd = open(ret_filename, 'w')
 
 		process_chrome = subprocess.Popen([self._chrome_binary, '--remote-debugging-port=9222'], stderr=ret_fd, stdout=ret_fd)
-		print('>>> START ' + url)
+		logging.info('>>> START ' + url)
 		
 		time.sleep(2)
 
@@ -68,22 +78,22 @@ class TimTest(object):
 
 		stdout, _ = process_node.communicate()
 		if '''result: { type: 'string', value: 'complete' }''' in str(stdout):
-			print("\t\tweb page [%s] is completed!" % url)
+			logging.info("\t\tweb page [%s] is completed!" % url)
 		else:
-			print(stdout)
-			print("\t\tweb page [%s] is TIMEOUT!" % url)
-		print('>>> FINISH ' + url)
+			logging.info(stdout)
+			logging.info("\t\tweb page [%s] is TIMEOUT!" % url)
+		logging.info('>>> FINISH ' + url)
 
 		my_timer.cancel()
 
 		time.sleep(5)
 		# kill chrome
 		try:
-			print("\t>>> kill Chrome [%d]" % process_chrome.pid)
+			logging.info("\t>>> kill Chrome [%d]" % process_chrome.pid)
 			os.kill(process_chrome.pid, signal.SIGKILL)
 			# os.killpg(process_chrome.pid, signal.SIGTERM)
 		except Exception as error:
-			print(error)
+			logging.info(error)
 
 		ret_fd.close()
 
@@ -96,7 +106,7 @@ class TimTest(object):
 				log = line.strip("\n").split('\t')
 				rank, url = log[0], log[1]
 				domain = url[url.index("://") + 3 : ]
-				print("\n\n\t\t[RANK, URL, DOMAIN] = [%s, %s, %s]\n" % (rank, url, domain))
+				logging.info("\n\n\t\t[RANK, URL, DOMAIN] = [%s, %s, %s]\n" % (rank, url, domain))
 
 				# create the directory for results
 				ret_dir = self._results_dir + "/" + domain
@@ -108,4 +118,5 @@ class TimTest(object):
 			f.close()
 
 if __name__ == '__main__':
+	outputAtConsole()
 	TimTest().run()

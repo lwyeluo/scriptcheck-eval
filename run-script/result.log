@@ -1,0 +1,26 @@
+/home/wluo/chromium/tick/src/out/Default/chrome
+
+
+		[RANK, URL, DOMAIN] = [4, https://baidu.com, baidu.com]
+
+>>> START https://baidu.com
+		web page [https://baidu.com] is completed!
+>>> FINISH https://baidu.com
+	>>> kill Chrome [3403]
+>>> START https://baidu.com
+		web page [https://baidu.com] is completed!
+>>> FINISH https://baidu.com
+	>>> kill Chrome [3521]
+>>> START https://baidu.com
+		web page [https://baidu.com] is completed!
+>>> FINISH https://baidu.com
+	>>> kill Chrome [3637]
+
+
+		[RANK, URL, DOMAIN] = [6, https://www.qq.com, www.qq.com]
+
+>>> START https://www.qq.com
+		web page [https://www.qq.com] is completed!
+>>> FINISH https://www.qq.com
+	>>> kill Chrome [3746]
+>>> START https://www.qq.com
