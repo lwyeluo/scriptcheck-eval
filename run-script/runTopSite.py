@@ -69,8 +69,9 @@ class TimTest(object):
 		process_chrome = subprocess.Popen([self._chrome_binary, '--remote-debugging-port=9222'], stderr=ret_fd, stdout=ret_fd)
 		logging.info('>>> START ' + url)
 		
-		time.sleep(2)
+		time.sleep(5)
 
+		print(self._node_binary, self._node_filename)
 		process_node = subprocess.Popen([self._node_binary, self._node_filename, url], stdout=subprocess.PIPE, stderr=subprocess.PIPE, preexec_fn=os.setsid)
 		# create a timer
 		my_timer = Timer(self._timeout, self.timeoutCallback, [process_node])

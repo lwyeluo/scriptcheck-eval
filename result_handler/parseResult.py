@@ -61,6 +61,7 @@ class Parse(object):
         f = open(file_name, "r", encoding="ISO-8859-1")
 
         vuln_frames = []
+        vuln_cross_origin_frames = []
 
         for line in f.readlines():
             line = line.strip("\n")
@@ -76,14 +77,22 @@ class Parse(object):
                 if len(frames) < 2:
                     continue
                 vuln_frames.append(frames)
+                origins = []
+                for frame in frames:
+                    if frame['origin'] not in origins:
+                        origins.append(frame['origin'])
+                    if len(origins) > 1:
+                        vuln_cross_origin_frames.append(frames)
+                        break
 
         f.close()
 
-        return vuln_frames
+        return vuln_frames, vuln_cross_origin_frames
 
     def run(self):
 
-        total_websites, tested_websites, vuln_websites = 0, 0, 0
+        total_websites, tested_websites, vuln_websites, vuln_cross_origin_websites = 0, 0, 0, 0
+        vuln_cross_origin = []
 
         with open(self._final_url_filename, 'r') as f:
             lines = f.readlines()
@@ -104,26 +113,35 @@ class Parse(object):
                 ret_dir = os.path.join(self._results_dir, domain)
                 if os.path.exists(ret_dir) and os.path.isdir(ret_dir):
                     files = os.listdir(ret_dir)
-                    is_vuln = False
+                    is_vuln, is_cross_origin_vuln = False, False
                     for ret_file in files:
-                        vuln_frames = self.handle(os.path.join(ret_dir, ret_file))
+                        vuln_frames, vuln_cross_origin_frames = self.handle(os.path.join(ret_dir, ret_file))
                         if vuln_frames:
                             [logging.info(frame) for frame in vuln_frames]
                             is_vuln = True
+                        if vuln_cross_origin_frames:
+                            is_cross_origin_vuln = True
+                            logging.info("!!!!!!!!!!!!! CROSS_ORIGIN_VULN !!!!!!!!!!!!!")
                     
                     if is_vuln:
                         vuln_websites += 1
+                    if is_cross_origin_vuln:
+                        vuln_cross_origin_websites += 1
+                        vuln_cross_origin.append(domain)
 				
             f.close()
 
-        return total_websites, tested_websites, vuln_websites
+        return total_websites, tested_websites, vuln_websites, vuln_cross_origin_websites, vuln_cross_origin
 
 if __name__ == '__main__':
     outputAtConsole()
 
-    total_websites, tested_websites, vuln_websites = Parse().run()
+    total_websites, tested_websites, vuln_websites, vuln_cross_origin_websites, vuln_cross_origin = Parse().run()
 
     logging.info("\n\n\t\t[FINAL RESULTS]")
-    logging.info("total_websites, tested_websites, vuln_websites = %d, %d, %d " %
-        (total_websites, tested_websites, vuln_websites))
+    logging.info("total_websites, tested_websites, vuln_websites, vuln_cross_origin_websites = %d, %d, %d, %d " %
+        (total_websites, tested_websites, vuln_websites, vuln_cross_origin_websites))
     logging.info("vuln_rate = vuln/tested = %f%%" % ((vuln_websites / tested_websites) * 100))
+    logging.info("vuln_rate(cross_origin) = vuln(cross)/tested = %f%%" % ((vuln_cross_origin_websites / tested_websites) * 100))
+    logging.info("vuln_cross_origin_sites:")
+    logging.info(str("\t".join(vuln_cross_origin)))
