@@ -4,9 +4,12 @@ import time
 import re
 import logging
 
+from finalResult import FinalResult, FinalResultList
+
 _dir = os.path.abspath(os.path.dirname(__file__))
 _top_site_dir = os.path.join(os.path.dirname(_dir), "top-sites")
 _log_filename = os.path.join(_dir, "result.log")
+_result_dir = os.path.join(_dir, "tim-results")
 print(_top_site_dir)
 
 def outputAtConsole():
@@ -34,9 +37,7 @@ def getTime():
 
 class Parse(object):
     def __init__(self):
-        self._home_dir = execute("echo $HOME")
-
-        self._results_dir = self._home_dir + "/workspace/tim-results"
+        self._results_dir = _result_dir
 
         self._final_url_filename = os.path.join(_top_site_dir, "final_url")
 
@@ -57,11 +58,12 @@ class Parse(object):
         return ret
 
     def handle(self, file_name):
-        logging.info(">>> HANDLE %s" % file_name)
+        print(">>> HANDLE %s" % file_name)
         f = open(file_name, "r", encoding="ISO-8859-1")
 
-        vuln_frames = []
-        vuln_cross_origin_frames = []
+        vuln_frames = [] # the frame chain whose size >= 2
+        vuln_cross_origin_frames = [] # the frame chain which has multiple origins
+        max_len_of_frame_chain = 0 # the max length of frame chains
 
         for line in f.readlines():
             line = line.strip("\n")
@@ -74,9 +76,15 @@ class Parse(object):
                 if frame_chain == "":
                     continue
                 frames = self.matchFrameChain(frame_chain)
+                # update the max size of frame chain
+                if len(frames) > max_len_of_frame_chain:
+                    max_len_of_frame_chain = len(frames)
+                # for frame chain whose size is 1, we ignore it
                 if len(frames) < 2:
                     continue
+                # record frame chain whose size >= 2
                 vuln_frames.append(frames)
+                # record frame chain which has multiple origins
                 origins = []
                 for frame in frames:
                     if frame['origin'] not in origins:
@@ -87,61 +95,59 @@ class Parse(object):
 
         f.close()
 
-        return vuln_frames, vuln_cross_origin_frames
+        return vuln_frames, vuln_cross_origin_frames, max_len_of_frame_chain
 
     def run(self):
 
-        total_websites, tested_websites, vuln_websites, vuln_cross_origin_websites = 0, 0, 0, 0
-        vuln_cross_origin = []
+        final_results = [] # store the final results
 
         with open(self._final_url_filename, 'r') as f:
             lines = f.readlines()
             for line in lines:
 
-                total_websites += 1
-
-                if line[0] == '#':
-                    continue
                 log = line.strip("\n").split('\t')
                 rank, url = log[0], log[1]
-                domain = url[url.index("://") + 3 : ]
-                logging.info("\n\n\t\t[RANK, URL, DOMAIN] = [%s, %s, %s]\n" % (rank, url, domain))
+                idx = url.find("://")
+                if idx >= 0:
+                    domain = url[idx + 3 : ]
+                else:
+                    domain = url
 
-                tested_websites += 1
+                if rank[0] == '#':
+                    ret = FinalResult(domain=domain, reachable=False, rank=rank[1:], url=url)
+                    final_results.append(ret)
+                    continue
+                
+                print("\n\n\t\t[RANK, URL, DOMAIN] = [%s, %s, %s]\n" % (rank, url, domain))
                 
                 # load all logs for that domain
                 ret_dir = os.path.join(self._results_dir, domain)
                 if os.path.exists(ret_dir) and os.path.isdir(ret_dir):
                     files = os.listdir(ret_dir)
-                    is_vuln, is_cross_origin_vuln = False, False
+
+                    ret = FinalResult(domain=domain, reachable=True, rank=rank, url=url)
+
                     for ret_file in files:
-                        vuln_frames, vuln_cross_origin_frames = self.handle(os.path.join(ret_dir, ret_file))
-                        if vuln_frames:
-                            [logging.info(frame) for frame in vuln_frames]
-                            is_vuln = True
-                        if vuln_cross_origin_frames:
-                            is_cross_origin_vuln = True
-                            logging.info("!!!!!!!!!!!!! CROSS_ORIGIN_VULN !!!!!!!!!!!!!")
-                    
-                    if is_vuln:
-                        vuln_websites += 1
-                    if is_cross_origin_vuln:
-                        vuln_cross_origin_websites += 1
-                        vuln_cross_origin.append(domain)
+                        vuln_frames, vuln_cross_origin_frames, max_len_of_frame_chain = self.handle(os.path.join(ret_dir, ret_file))
+
+                        ret.appendMaxFrameChain(max_len_of_frame_chain)
+                        ret.appendCrossOriginFrameChains(vuln_cross_origin_frames)
+                        ret.appendResultFileName(ret_file)
+
+                    ret.collectMetadata()
+                    final_results.append(ret)
 				
             f.close()
 
-        return total_websites, tested_websites, vuln_websites, vuln_cross_origin_websites, vuln_cross_origin
+        return final_results
 
 if __name__ == '__main__':
     outputAtConsole()
 
-    total_websites, tested_websites, vuln_websites, vuln_cross_origin_websites, vuln_cross_origin = Parse().run()
+    final_results = Parse().run()
 
-    logging.info("\n\n\t\t[FINAL RESULTS]")
-    logging.info("total_websites, tested_websites, vuln_websites, vuln_cross_origin_websites = %d, %d, %d, %d " %
-        (total_websites, tested_websites, vuln_websites, vuln_cross_origin_websites))
-    logging.info("vuln_rate = vuln/tested = %f%%" % ((vuln_websites / tested_websites) * 100))
-    logging.info("vuln_rate(cross_origin) = vuln(cross)/tested = %f%%" % ((vuln_cross_origin_websites / tested_websites) * 100))
-    logging.info("vuln_cross_origin_sites:")
-    logging.info(str("\t".join(vuln_cross_origin)))
+    # log
+    output = FinalResultList(final_results, logging)
+    output.printRawDataTable()
+    output.printDistributionTable()
+    output.printCrossOriginDomains()

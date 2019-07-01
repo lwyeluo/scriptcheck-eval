@@ -10,6 +10,8 @@ _dir = os.path.abspath(os.path.dirname(__file__))
 _top_site_dir = os.path.join(os.path.dirname(_dir), "top-sites")
 _final_url_filename = os.path.join(_top_site_dir, "final_url")
 _log_filename = os.path.join(_dir, "result.log")
+_result_handler_dir = os.path.join(os.path.dirname(_dir), "result_handler")
+_result_log_dir = os.path.join(_result_handler_dir, "tim-results")
 
 def outputAtConsole():
     logging.basicConfig(level=logging.DEBUG, format='%(message)s', filename=_log_filename, filemode="w")
@@ -46,7 +48,7 @@ class TimTest(object):
 		# get the nodejs script
 		self._node_filename = "checkUrlLoadCompleted.js"
 
-		self._results_dir = self._home_dir + "/workspace/tim-results"
+		self._results_dir = _result_log_dir
 
 		# for each web page, we run 3 rounds
 		self._round = 3
