@@ -64,6 +64,8 @@ class Parse(object):
         vuln_frames = [] # the frame chain whose size >= 2
         vuln_cross_origin_frames = [] # the frame chain which has multiple origins
         max_len_of_frame_chain = 0 # the max length of frame chains
+        max_len_of_cross_origin_frame_chain = 0
+        larger_cross_origin_frame_chain = ''
 
         for line in f.readlines():
             line = line.strip("\n")
@@ -91,11 +93,15 @@ class Parse(object):
                         origins.append(frame['origin'])
                     if len(origins) > 1:
                         vuln_cross_origin_frames.append(frames)
+                        # update the max size of cross-origin frame chain
+                        if len(frames) > max_len_of_cross_origin_frame_chain:
+                            max_len_of_cross_origin_frame_chain = len(frames)
+                            larger_cross_origin_frame_chain = frame_chain
                         break
 
         f.close()
 
-        return vuln_frames, vuln_cross_origin_frames, max_len_of_frame_chain
+        return vuln_frames, vuln_cross_origin_frames, max_len_of_frame_chain, max_len_of_cross_origin_frame_chain, larger_cross_origin_frame_chain
 
     def run(self):
 
@@ -128,9 +134,12 @@ class Parse(object):
                     ret = FinalResult(domain=domain, reachable=True, rank=rank, url=url)
 
                     for ret_file in files:
-                        vuln_frames, vuln_cross_origin_frames, max_len_of_frame_chain = self.handle(os.path.join(ret_dir, ret_file))
+                        vuln_frames, vuln_cross_origin_frames, max_len_of_frame_chain, max_len_of_cross_origin_frame_chain, \
+                            larger_cross_origin_frame_chain = self.handle(os.path.join(ret_dir, ret_file))
 
-                        ret.appendMaxFrameChain(max_len_of_frame_chain)
+                        ret.appendMaxLenFrameChain(max_len_of_frame_chain)
+                        ret.appendMaxLenCrossOriginFrameChain(max_len_of_cross_origin_frame_chain)
+                        ret.appendLargerLCrossOriginFrameChain(larger_cross_origin_frame_chain)
                         ret.appendCrossOriginFrameChains(vuln_cross_origin_frames)
                         ret.appendResultFileName(ret_file)
 
@@ -151,3 +160,4 @@ if __name__ == '__main__':
     output.printRawDataTable()
     output.printDistributionTable()
     output.printCrossOriginDomains()
+    output.printDistributionOfCrossOriginDomains()
