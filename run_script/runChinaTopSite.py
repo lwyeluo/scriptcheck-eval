@@ -5,7 +5,7 @@ import os
 from utils.executor import *
 from run_script.run import RunUrl
 
-from run_script import _result_log_dir, _dir, outputAtConsole
+from run_script import _result_log_dir, _dir
 
 
 class TimTest(object):
@@ -16,9 +16,8 @@ class TimTest(object):
 		self._top_site_dir = os.path.join(os.path.dirname(_dir), "top_sites_china")
 		self._final_url_filename = os.path.join(self._top_site_dir, "final_url")
 
-		# for each web page, we run 3 rounds
-		self._round = 3
-		self._timeout = 60
+		# for each web page, we run 1 round(s)
+		self._round = 1
 
 		# create an EMPTY directory to save results
 		execute("rm -rf " + self._results_dir + " || true")
@@ -46,6 +45,5 @@ class TimTest(object):
 
 
 def run():
-	outputAtConsole()
 	TimTest().run()
 

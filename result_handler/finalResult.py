@@ -1,5 +1,5 @@
 # coding=utf-8
-
+import logging
 
 class FinalResult(object):
 
@@ -118,7 +118,7 @@ class FinalResult(object):
     def convertToStr(self):
         return str(self.convertToDict())
 
-    def print(self, logging):
+    def print(self):
         data = str(self.rank) + '\t' + self.domain + '\t' + self.url + '\t' + str(self.reachable)
         if self.max_frame_chain:
             data += '\t' + '\t'.join([str(size) for size in self.max_frame_chain])
@@ -134,19 +134,19 @@ class FinalResult(object):
         
         logging.info(data)
 
-    def printReachable(self, logging):
+    def printReachable(self):
         if self.reachable:
-            self.print(logging)
+            self.print()
 
     @classmethod
-    def printTag(cls, logging):
+    def printTag(cls):
         basic_tag = "rank\tdomain\turl\treachable\tmax_frame_chain\t\t\thas_vuln_frame_chain\t\t\thas_cross_origin_frame_chain\t\t\tfile_names\t\t\t"
         max_tag = "largest\tis_vuln\tis_cross_origin_vuln\tfile_name\t"
         logging.info("\n" + basic_tag + max_tag + "\n")
 
 class FinalResultList(object):
 
-    def __init__(self, results, logging):
+    def __init__(self, results):
         self._results = results
         self._log = logging
         # the distribution of frame chains
@@ -204,9 +204,9 @@ class FinalResultList(object):
         self._log.info("####      TABLE for RAW DATA       ####")
         self._log.info("#######################################")
 
-        FinalResult.printTag(self._log)
+        FinalResult.printTag()
         for ret in self._results:
-            ret.printReachable(self._log)
+            ret.printReachable()
 
     def printDistributionTable(self):
         self._log.info("\n\n")

@@ -28,4 +28,6 @@ logging.info(_chrome_binary)
 # get the node binary
 _node_binary = "node"
 # get the nodejs script
-_node_filename = "checkUrlLoadCompleted.js"
+_node_filename = os.path.join(_dir, "checkUrlLoadCompleted.js")
+# timeout for each webpage
+_timeout = 60
