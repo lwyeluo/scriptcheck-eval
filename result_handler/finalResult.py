@@ -1,10 +1,11 @@
 # coding=utf-8
 
+
 class FinalResult(object):
 
-    def __init__(self, domain = '', reachable = False, rank = -1, url = '', 
-        max_frame_chain = None, max_cross_origin_frame_chain = None, larger_cross_origin_frame_chain = None, 
-        cross_origin_frame_chains = None):
+    def __init__(self, domain='', reachable=False, rank=-1, url='',
+                 max_frame_chain=None, max_cross_origin_frame_chain=None, larger_cross_origin_frame_chain=None,
+                 cross_origin_frame_chains=None):
         self.domain = domain
         self.reachable = reachable
         self.rank = rank
@@ -72,7 +73,7 @@ class FinalResult(object):
         self.is_vuln, self.is_cross_origin_vuln = False, False
         for i in range(0, len(self.max_frame_chain)):
             if self.max_frame_chain[i] > self.largest_len_frame_chain or \
-                (self.max_frame_chain[i] == self.largest_len_frame_chain and self.has_cross_origin_frame_chains[i]):
+                    (self.max_frame_chain[i] == self.largest_len_frame_chain and self.has_cross_origin_frame_chains[i]):
                 self.largest_len_frame_chain = self.max_frame_chain[i]
                 self.largest_len_cross_origin_frame_chain = self.max_cross_origin_frame_chain[i]
                 self.largest_cross_origin_frame_chain = self.larger_cross_origin_frame_chain[i]
@@ -149,11 +150,11 @@ class FinalResultList(object):
         self._results = results
         self._log = logging
         # the distribution of frame chains
-        self._dist_frame_chain = {} # {sizeOfFrameChain: Domains}
-        self._dist_cross_origin_frame_chain = {} # {sizeOfFrameChain: CrossOriginDomains}
-        self._dist_cross_origin = {} # {sizeOfCrossOriginFrameChain: CrossOriginDomains}
+        self._dist_frame_chain = {}  # {sizeOfFrameChain: Domains}
+        self._dist_cross_origin_frame_chain = {}  # {sizeOfFrameChain: CrossOriginDomains}
+        self._dist_cross_origin = {}  # {sizeOfCrossOriginFrameChain: CrossOriginDomains}
         # domains which has cross-origin frame chains
-        self._domains_with_cross_origin_fc = {} # {domain: {'filename': filename, 'sizeOfCrossOriginFC': sizeOfCrossOriginFC}
+        self._domains_with_cross_origin_fc = {}  # {domain: {'filename': filename, 'sizeOfCrossOriginFC': sizeOfCrossOriginFC}
         # number of tested_websites
         self._tested_websites = 0
 
@@ -234,8 +235,8 @@ class FinalResultList(object):
         self._log.info("#######################################")
 
         vuln_size = len(self._domains_with_cross_origin_fc)
-        self._log.info('The probability is %d/%d=%f%%' % (vuln_size, self._tested_websites, \
-            vuln_size / self._tested_websites * 100))
+        self._log.info('The probability is %d/%d=%f%%' % (vuln_size, self._tested_websites,
+                                                          vuln_size / self._tested_websites * 100))
         self._log.info('\ndomain\tlengthOfCrossOriginFC\tlargestCrossOriginFC\tfilename')
         for k, v in self._domains_with_cross_origin_fc.items():
             self._log.info("%s\t%s\t%s\t%s" % (k, str(v['sizeOfCrossOriginFC']), v['largestCrossOriginFC'], v['filename']))
@@ -250,8 +251,8 @@ class FinalResultList(object):
         keys = sorted(self._dist_cross_origin.keys())
         for k in keys:
             v = self._dist_cross_origin[k]
-            d = str(k) + '\t' + str(len(v)) # length\t#domains
-            d += '\t' + ','.join(v) # \tdomains
+            d = str(k) + '\t' + str(len(v))  # length\t#domains
+            d += '\t' + ','.join(v)  # \t domains
             self._log.info(d)
 
 
