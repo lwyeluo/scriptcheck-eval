@@ -1,5 +1,6 @@
+# coding=utf-8
+
 import os
-import logging
 
 from result_handler.finalResult import FinalResult, FinalResultList
 from result_handler.parseLog import ParseLog
@@ -61,15 +62,12 @@ class Parse(object):
 
 
 def run():
-	final_results = Parse().run()
+	results = Parse().run()
 
 	# log
-	output = FinalResultList(final_results)
+	output = FinalResultList(results)
 	output.printRawDataTable()
 	output.printDistributionTable()
 	output.printCrossOriginDomains()
 	output.printDistributionOfCrossOriginDomains()
 
-
-if __name__ == '__main__':
-	run()
