@@ -1,273 +1,239 @@
 # coding=utf-8
 
-import re
 import os
-
-
-# represent for a series of frame chain
-class FrameChain(object):
-    def __init__(self):
-        self.frames = []  # all frames in that frame chain
-        self.frame_ids = []  # all frame ids in that frame chain
-        self.chain = ""  # the final frame chain
-
-    def isEmpty(self):
-        return self.frames == []
-
-    def append(self, frame_info):
-        frame_id = frame_info['id']
-        if frame_id in self.frame_ids:
-            # here may be a problem if the current frame_info is not the same as the previous one
-            #  do it later...
-            pass
-        else:
-            self.frame_ids.append(frame_id)
-        self.frames.append(frame_info)
-
-    def recordJSStack(self, js_stack):
-        self.frames[-1]['js_stack'] = js_stack
-
-    def matchFrameChain(self, chain):
-        ret = []
-        reg = "-(\d{1,}):(\d{1,})_([^\s/]+://[^\s/]+/)(.*)"
-        m = re.match(reg, chain)
-        if m:
-            process_id, frame_id, origin, remain = m.group(1), m.group(2), m.group(3), m.group(4)
-            ret.append({
-                'process_id': process_id,
-                'id': frame_id,
-                'origin': origin
-            })
-            if remain != "":
-                ret += self.matchFrameChain(remain)
-        return ret
-
-    def recordChain(self, chain):
-        # 1. record the chain
-        self.chain = chain
-
-        # 2. update the origins for each frame in that frame chain
-        frames = self.matchFrameChain(self.chain)
-
-        if not frames:
-            # here means that we cannot extract information from chain
-            self.frames = []
-            return
-
-        if len(frames) != len(self.frames):
-            raise Exception("Failed to parse frame chain: %s, %s" % (str(self.frames), str(frames)))
-
-        for i in range(0, len(frames)):
-            if self.frames[i]['id'] != frames[i]['id']:
-                raise Exception("Failed to parse frame chain: %s <--> %s" % (self.frames[i], frames[i]))
-            self.frames[i]['origin'] = frames[i]['origin']
-
-    def getChain(self):
-        return self.chain
-
-    def getFramesInfo(self):
-        return self.frames
-
-    def length(self):
-        return len(self.frames)
-
-    def print(self):
-        for frame in self.frames:
-            print(str(frame))
+from result_handler.frameChain import FrameChain
+from result_handler.vulnWebPage import VulnWebPage
 
 
 class ParseLog(object):
-    def __init__(self, file_name, is_debug=False):
-        self.file_name = file_name
+	def __init__(self, file_name, domain, url='', rank=-1, is_debug=False):
+		self.domain = domain
+		self.url = url
+		self.rank = rank
+		self.file_name = file_name
 
-        # some indicators
-        self._feature_frame_chain = "updated frame chain: [num, frameChain, subject, last, " \
-                                    "function_name, source_code] = "
-        self._feature_metadata = "metadata is [subject_url, domain, routing_id, frame_chain_length, " \
-                                 "parent_origin, parent_domain] = "
-        self._feature_js_stack = ">>> BindingSecurity::PrintStack. stack is "
+		# some indicators
+		self._feature_frame_chain = "updated frame chain: [num, frameChain, subject, last, " \
+									"function_name, source_code] = "
+		self._feature_metadata = "metadata is [subject_url, domain, routing_id, frame_chain_length, " \
+								 "parent_origin, parent_domain] = "
+		self._feature_js_stack = ">>> BindingSecurity::PrintStack. stack is "
 
-        # save the results
-        self.vuln_frames = []  # the frame chain whose size >= 2
-        self.vuln_cross_origin_frames = []  # the frame chain which has multiple origins
-        self.max_len_of_frame_chain = 0  # the max length of frame chains
-        self.max_len_of_cross_origin_frame_chain = 0
-        self.larger_cross_origin_frame_chain = ''
+		# save the results
+		self.vuln_frames = []  # the frame chain whose size >= 2
+		self.max_len_of_frame_chain = 0  # the max length of frame chains
 
-        # the content in that log
-        self.content = None
-        # the current line index for parsing
-        self.idx = -1
+		# the content in that log
+		self.content = None
+		# the current line index for parsing
+		self.idx = -1
 
-        self.is_debug = is_debug
+		self.is_debug = is_debug
 
-        self.handle()
+		# parse information from that log
+		self.handle()
+		# compute the |VulnWebPage|
+		self.vuln_web_page = self.compute()
 
-    def getVulnFrames(self):
-        return self.vuln_frames
+	def getVulnWebPage(self):
+		return self.vuln_web_page
 
-    def getVulnCorssOriginFrames(self):
-        return self.vuln_cross_origin_frames
+	def completeCurrentFrameChain(self, chain, frame_chain):
+		frame_chain.recordChain(chain)
 
-    def getMaxLengthOfFrameChain(self):
-        return self.max_len_of_frame_chain
+	def handleFeatureMetadata(self, line, frame_chain):
+		line = line[line.index(self._feature_metadata):]
+		_, _, remain = line.partition("=")
+		if remain == "":
+			raise Exception("Bad format for metadata: " + line)
 
-    def getMaxLengthOfCrossOriginFrameChain(self):
-        return self.max_len_of_cross_origin_frame_chain
+		# get the subject url and domain
+		info = remain.split('", ')
+		url = info[0][2:]
+		domain = info[1][1:]
 
-    def getLargerCrossOriginFrameChain(self):
-        return self.larger_cross_origin_frame_chain
+		remain = info[2]
+		info = remain.split(',')
+		if len(info) != 4:
+			raise Exception("Bad format for metadata: " + line)
 
-    def completeCurrentFrameChain(self, chain, frame_chain):
-        frame_chain.recordChain(chain)
+		frame_info = {
+			'url': url,
+			'domain': domain,
+			'id': info[0].strip(' ').strip('"'),
+			'parent_origin': info[2].strip(' ').strip('"'),
+			'parent_domain': info[3].strip(' ').strip('"').strip('\n'),
+		}
 
-    def handleFeatureMetadata(self, line, frame_chain):
-        line = line[line.index(self._feature_metadata):]
-        _, _, remain = line.partition("=")
-        if remain == "":
-            raise Exception("Bad format for metadata: " + line)
+		frame_chain.append(frame_info)
 
-        # get the subject url and domain
-        info = remain.split('", ')
-        url = info[0][2:]
-        domain = info[1][1:]
+	def handleFeatureJSStack(self, line, frame_chain):
+		stack = []
+		while True:
+			self.idx += 1
+			next_line = self.content[self.idx]
+			if self._feature_frame_chain in next_line:
+				self.idx -= 1
+				break
 
-        remain = info[2]
-        info = remain.split(',')
-        if len(info) != 4:
-            raise Exception("Bad format for metadata: " + line)
+			if next_line == '\n':
+				break
 
-        frame_info = {
-            'url': url,
-            'domain': domain,
-            'id': info[0].strip(' ').strip('"'),
-            'parent_origin': info[2].strip(' ').strip('"'),
-            'parent_domain': info[3].strip(' ').strip('"').strip('\n'),
-        }
+			stack.append(next_line.strip('\n').strip('\t').strip(' '))
 
-        frame_chain.append(frame_info)
+		frame_chain.recordJSStack(stack)
 
-    def handleFeatureJSStack(self, line, frame_chain):
-        stack = []
-        while True:
-            self.idx += 1
-            next_line = self.content[self.idx]
-            if self._feature_frame_chain in next_line:
-                self.idx -= 1
-                break
+	def handleFeatureFrameChain(self, line, frame_chain):
 
-            if next_line == '\n':
-                break
+		chain = ""
 
-            stack.append(next_line.strip('\n').strip('\t').strip(' '))
+		# handle all frames in that series of frame chain
+		while self.idx < self.length - 1:
+			line = line[line.index(self._feature_frame_chain):]
+			_, _, remain = line.partition("=")
+			if remain == "":
+				raise Exception("Bad format for frame chain: " + line)
 
-        frame_chain.recordJSStack(stack)
+			info = remain.split(',')
+			chain_len = int(info[0].strip(' '))
 
-    def handleFeatureFrameChain(self, line, frame_chain):
+			# here is the next series of frame chain, so we should complete the
+			#  current one and decrease self.idx with 1
+			if chain_len == 1 and not frame_chain.isEmpty():
+				break
 
-        chain = ""
+			chain = info[1].strip(' ')
 
-        if self.is_debug:
-            print("begin....")
+			# here we begin to update the current series of frame chain
 
-        # handle all frames in that series of frame chain
-        while self.idx < self.length - 1:
-            line = line[line.index(self._feature_frame_chain):]
-            _, _, remain = line.partition("=")
-            if remain == "":
-                raise Exception("Bad format for frame chain: " + line)
+			# 1. collect the metadata and JS stack
+			while self.idx < self.length - 1:
+				self.idx += 1
+				line = self.content[self.idx]
 
-            info = remain.split(',')
-            chain_len = int(info[0].strip(' '))
+				# here we are in the next frame in current series frame chain
+				if self._feature_frame_chain in line:
+					break
 
-            # here is the next series of frame chain, so we should complete the
-            #  current one and decrease self.idx with 1
-            if chain_len == 1 and not frame_chain.isEmpty():
-                break
+				# get the metadata and JS stack for that frame
+				if self._feature_metadata in line:
+					self.handleFeatureMetadata(line, frame_chain)
+				elif self._feature_js_stack in line:
+					self.handleFeatureJSStack(line, frame_chain)
 
-            chain = info[1].strip(' ')
+		# here is |the end of the log| or |the end of the current series of frame chain|
+		self.completeCurrentFrameChain(chain, frame_chain)
+		self.idx -= 1
 
-            # here we begin to update the current series of frame chain
+	def handle(self):
+		print(">>> HANDLE %s" % self.file_name)
+		f = open(self.file_name, "r", encoding="ISO-8859-1")
 
-            # 1. collect the metadata and JS stack
-            while self.idx < self.length - 1:
-                self.idx += 1
-                line = self.content[self.idx]
+		self.content = f.readlines()
+		self.idx, self.length = -1, len(self.content)
+		while self.idx < self.length - 1:
+			self.idx += 1
+			line = self.content[self.idx].strip("\n")
 
-                # here we are in the next frame in current series frame chain
-                if self._feature_frame_chain in line:
-                    break
+			# here is a frame chain
+			if self._feature_frame_chain in line:
 
-                # get the metadata and JS stack for that frame
-                if self._feature_metadata in line:
-                    self.handleFeatureMetadata(line, frame_chain)
-                elif self._feature_js_stack in line:
-                    self.handleFeatureJSStack(line, frame_chain)
+				# extract the series of frame chain in that line
+				chain = FrameChain()
+				self.handleFeatureFrameChain(line, chain)
 
-        # here is |the end of the log| or |the end of the current series of frame chain|
-        self.completeCurrentFrameChain(chain, frame_chain)
-        if self.is_debug:
-            print(chain, self.content[self.idx])
-        self.idx -= 1
+				if chain.isEmpty():
+					continue
 
-    def handle(self):
-        print(">>> HANDLE %s" % self.file_name)
-        f = open(self.file_name, "r", encoding="ISO-8859-1")
+				# update the max size of frame chain
+				if chain.length() > self.max_len_of_frame_chain:
+					self.max_len_of_frame_chain = chain.length()
+				# for frame chain whose size is 1, we ignore it
+				if chain.length() < 2:
+					continue
+				# record frame chain whose size >= 2
+				frames = chain.getFramesInfo()
+				self.vuln_frames.append({
+					'frames': frames,
+					'chain': chain.getChain()
+				})
 
-        self.content = f.readlines()
-        self.idx, self.length = -1, len(self.content)
-        while self.idx < self.length - 1:
-            self.idx += 1
-            line = self.content[self.idx].strip("\n")
+		f.close()
 
-            # here is a frame chain
-            if self._feature_frame_chain in line:
+	# when two frames in a frame chain have different features
+	def hasDifferentFeatures(self, frame0, frame1):
+		# Feature 1: they have different effective domains
+		domain0, domain1 = frame0['domain'], frame1['domain']
+		if domain0 != domain1:
+			return True
 
-                # extract the series of frame chain in that line
-                chain = FrameChain()
-                self.handleFeatureFrameChain(line, chain)
+		# Feature 2: they have different parent frames but not the top frame
+		parent_origin0, parent_origin1 = frame0['parent_origin'], frame1['parent_origin']
+		parent_domain0, parent_domain1 = frame0['parent_domain'], frame1['parent_domain']
+		if parent_origin0 == '' or parent_origin1 == '':
+			# here one of them is the top frame
+			domain = parent_domain0 + parent_domain1
+			return self.domain not in domain
 
-                if chain.isEmpty():
-                    continue
+		if parent_origin0 != parent_origin1:
+			return True
 
-                # update the max size of frame chain
-                if chain.length() > self.max_len_of_frame_chain:
-                    self.max_len_of_frame_chain = chain.length()
-                # for frame chain whose size is 1, we ignore it
-                if chain.length() < 2:
-                    continue
-                # record frame chain whose size >= 2
-                frames = chain.getFramesInfo()
-                self.vuln_frames.append(frames)
+		if parent_domain0 != parent_domain1:
+			return True
 
-                if self.is_debug:
-                    print(frames)
+	# compute the derived information for frame chains, i.e. the |VulnWebPage|
+	def compute(self):
+		webpage = VulnWebPage(domain=self.domain, reachable=True, rank=self.rank, url=self.url)
 
-                # record frame chain which has multiple origins
-                origins = []
-                for frame in frames:
-                    if frame['origin'] not in origins:
-                        origins.append(frame['origin'])
-                    if len(origins) > 1:
-                        self.vuln_cross_origin_frames.append(frames)
-                        # update the max size of cross-origin frame chain
-                        if len(frames) > self.max_len_of_cross_origin_frame_chain:
-                            self.max_len_of_cross_origin_frame_chain = len(frames)
-                            self.larger_cross_origin_frame_chain = chain.getChain()
-                        break
+		# append the file name
+		webpage.appendResultFileName(self.file_name)
 
-        f.close()
+		# append the vuln frame chains
+		webpage.appendVulnFrameChain(self.vuln_frames)
+
+		# compute the |vuln_frame_chain_with_stack|
+		vuln_frame_chain_with_stack = []
+		for frame_chain in self.vuln_frames:
+			for frame in frame_chain['frames']:
+				if 'js_stack' in frame.keys() and frame['js_stack']:
+					vuln_frame_chain_with_stack.append(frame_chain)
+					break
+
+		webpage.appendVulnFrameChainWithJSStack(vuln_frame_chain_with_stack)
+
+		# compute the |vuln_frame_chain_with_diff_features|
+		vuln_frame_chain_with_diff_features = []
+		for frame_chain in vuln_frame_chain_with_stack:
+			for i in range(0, len(frame_chain) - 1):
+				# get the two consecutive frames
+				frame0 = frame_chain['frames'][i]
+				frame1 = frame_chain['frames'][i+1]
+
+				# whether they has different features
+				if self.hasDifferentFeatures(frame0, frame1):
+					vuln_frame_chain_with_diff_features.append(frame_chain)
+					break
+
+		webpage.appendVulnFrameChainWithDiffFeatures(vuln_frame_chain_with_diff_features)
+
+		# compute by webpage itself
+		webpage.compute()
+
+		print("\tThe length is ", webpage.len_for_vuln_frame_chain, webpage.len_for_vuln_frame_chain_with_stack,
+			  webpage.len_for_vuln_frame_chain_with_diff_features)
+
+		return webpage
 
 
 def test(domain="yahoo.com"):
-    from result_handler import _result_dir
+	from result_handler import _result_dir
 
-    ret_dir = os.path.join(_result_dir, domain)
-    if os.path.exists(ret_dir) and os.path.isdir(ret_dir):
-        files = os.listdir(ret_dir)
-        for ret_file in files:
-            parser = ParseLog(os.path.join(ret_dir, ret_file), is_debug=True)
-            print(parser.getMaxLengthOfFrameChain(), parser.getMaxLengthOfCrossOriginFrameChain())
-            print(parser.getLargerCrossOriginFrameChain())
-            print(parser.getVulnCorssOriginFrames())
-            print(parser.getVulnFrames())
+	ret_dir = os.path.join(_result_dir, domain)
+	if os.path.exists(ret_dir) and os.path.isdir(ret_dir):
+		files = os.listdir(ret_dir)
+		for ret_file in files:
+			parser = ParseLog(os.path.join(ret_dir, ret_file), domain=domain, is_debug=True)
+			webpage = parser.getVulnWebPage()
+			print(webpage.vuln_frame_chain)
+			print(webpage.vuln_frame_chain_with_stack)
+			print(webpage.vuln_frame_chain_with_diff_features)

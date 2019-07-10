@@ -2,7 +2,8 @@
 
 import os
 
-from result_handler.finalResult import FinalResult, FinalResultList
+from result_handler.vulnWebPage import VulnWebPage
+from result_handler.finalResult import FinalResultList
 from result_handler.parseLog import ParseLog
 from result_handler import _result_dir, _top_site_dir
 
@@ -15,7 +16,7 @@ class Parse(object):
 
 	def run(self):
 
-		final_results = []  # store the final results
+		web_page_data = []  # store the final results
 
 		with open(self._final_url_filename, 'r') as f:
 			lines = f.readlines()
@@ -30,8 +31,8 @@ class Parse(object):
 					domain = url
 
 				if rank[0] == '#':
-					ret = FinalResult(domain=domain, reachable=False, rank=rank[1:], url=url)
-					final_results.append(ret)
+					ret = VulnWebPage(domain=domain, reachable=False, rank=rank[1:], url=url)
+					web_page_data.append(ret)
 					continue
 
 				print("\n\n\t\t[RANK, URL, DOMAIN] = [%s, %s, %s]\n" % (rank, url, domain))
@@ -41,33 +42,30 @@ class Parse(object):
 				if os.path.exists(ret_dir) and os.path.isdir(ret_dir):
 					files = os.listdir(ret_dir)
 
-					ret = FinalResult(domain=domain, reachable=True, rank=rank, url=url)
+					# here actually we only have one file. If there are too many files, we need to
+					#  change something, do it later!
+					if len(files) != 1:
+						raise Exception("Now we only support run one test for each webpage")
 
 					for ret_file in files:
 						# parse that log
-						parser = ParseLog(os.path.join(ret_dir, ret_file))
+						parser = ParseLog(os.path.join(ret_dir, ret_file), domain=domain,
+										  rank=rank, url=url)
 						# record the parser result
-						ret.appendMaxLenFrameChain(parser.getMaxLengthOfFrameChain())
-						ret.appendMaxLenCrossOriginFrameChain(parser.getMaxLengthOfCrossOriginFrameChain())
-						ret.appendLargerLCrossOriginFrameChain(parser.getLargerCrossOriginFrameChain())
-						ret.appendCrossOriginFrameChains(parser.getVulnCorssOriginFrames())
-						ret.appendResultFileName(ret_file)
-
-					ret.collectMetadata()
-					final_results.append(ret)
+						web_page_data.append(parser.getVulnWebPage())
 
 			f.close()
 
-		return final_results
+		return web_page_data
 
 
 def run():
-	results = Parse().run()
+	web_page_data = Parse().run()
 
 	# log
-	output = FinalResultList(results)
+	output = FinalResultList(web_page_data)
 	output.printRawDataTable()
 	output.printDistributionTable()
-	output.printCrossOriginDomains()
-	output.printDistributionOfCrossOriginDomains()
-
+	output.printDistributionTableWithJSStack()
+	output.printDistributionTableWithDiffFeatures()
+	output.printInfoOfVulnWebpages()
