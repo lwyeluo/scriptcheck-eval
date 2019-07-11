@@ -5,45 +5,61 @@ import os
 from utils.executor import *
 from run_script.run import RunUrl
 
-from run_script import _result_log_dir, _dir
+from run_script import _result_log_dir_for_china, _dir
 
 
 class TimTest(object):
-	def __init__(self):
+	def __init__(self, machine_index):
 
-		self._results_dir = _result_log_dir
+		self._results_dir = _result_log_dir_for_china
 
 		self._top_site_dir = os.path.join(os.path.dirname(_dir), "top_sites_china")
-		self._final_url_filename = os.path.join(self._top_site_dir, "final_url")
+		self._raw_domain_filename = os.path.join(self._top_site_dir, "topsites")
+		self._webpage_dir = os.path.join(self._top_site_dir, "result")
 
-		# for each web page, we run 1 round(s)
-		self._round = 1
+		self._split_dir = os.path.join(self._top_site_dir, "domain-split")
+		self._domain_filename = os.path.join(self._split_dir, "sites-%d" % machine_index)
+
+		self.machine_index = machine_index
 
 		# create an EMPTY directory to save results
 		execute("rm -rf " + self._results_dir + " || true")
 		execute("mkdir -p " + self._results_dir + " || true")
 
-	def run(self):
-		with open(self._final_url_filename, 'r') as f:
-			lines = f.readlines()
-			for line in lines:
-				if line[0] == '#':
-					continue
-				log = line.strip("\n").split('\t')
-				rank, url = log[0], log[1]
-				domain = url[url.index("://") + 3:]
-				logging.info("\n\n\t\t[RANK, URL, DOMAIN] = [%s, %s, %s]\n" % (rank, url, domain))
+	def runPerDomain(self, domain, url_file_name):
+		logging.info("\n\n\t\t[DOMAIN] = [%s]\n" % domain)
 
-				# create the directory for results
-				ret_dir = self._results_dir + "/" + domain
-				execute("mkdir -p " + ret_dir)
+		# create the directory for results
+		ret_dir = self._results_dir + "/" + domain
+		execute("mkdir -p " + ret_dir)
+
+		# list all urls
+		with open(url_file_name, 'r') as f_url:
+			for url in f_url.readlines():
+				url = url.strip('\n').strip(' ')
 
 				# run that url
-				for i in range(0, self._round):
-					RunUrl(url, ret_dir + "/" + getTime())
+				RunUrl(url, ret_dir + "/" + url.replace('/', ','))
+
+			f_url.close()
+
+	def run(self):
+		print(">>> domain file name is " + self._domain_filename)
+		with open(self._domain_filename, 'r') as f:
+			lines = f.readlines()
+			for line in lines:
+				domain = line.strip("\n").strip(' ')
+
+				# open the file containing urls for that domain
+				url_file_name = os.path.join(self._webpage_dir, domain)
+				if not os.path.isfile(url_file_name):
+					raise Exception("We cannot find url for " + domain)
+
+				self.runPerDomain(domain, url_file_name)
+
 			f.close()
 
 
-def run():
-	TimTest().run()
+def run(machine_index):
+	TimTest(machine_index).run()
 

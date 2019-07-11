@@ -6,7 +6,8 @@ import logging
 _dir = os.path.abspath(os.path.dirname(__file__))
 _top_site_dir = os.path.join(os.path.dirname(_dir), "top_sites")
 _log_filename = os.path.join(os.path.dirname(_dir), "result-parse-log.log")
-_result_dir = os.path.join(_dir, "tim-results")
+_result_alexa_dir = os.path.join(_dir, "tim-results")
+_result_china_dir = os.path.join(_dir, "tim-results-china")
 print(_top_site_dir)
 
 

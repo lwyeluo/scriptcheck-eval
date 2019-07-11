@@ -1,10 +1,13 @@
 node_modules
 package-lock.json
 result.log.*
+result-run-script.log
 
 top_sites_china/result/
+top_sites_china/domain-split/
 
 result_handler/tim-results/
+result_handler/tim-results-china/
 __pycache__/
 .DS_Store
 .idea/

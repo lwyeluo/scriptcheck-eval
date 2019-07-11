@@ -1,0 +1,436 @@
+
+
+
+#######################################
+####      TABLE for RAW DATA       ####
+#######################################
+
+rank	domain	url	reachable	len_for_vuln_frame_chain	len_with_stack	len_final	filename
+
+4	baidu.com	https://baidu.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/baidu.com/2019-07-10 09:08:26
+6	www.qq.com	https://www.qq.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.qq.com/2019-07-10 09:08:53
+7	taobao.com	https://taobao.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/taobao.com/2019-07-10 09:10:04
+8	amazon.com	https://amazon.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/amazon.com/2019-07-10 09:11:14
+9	tmall.com	https://tmall.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/tmall.com/2019-07-10 09:12:24
+10	vk.com	https://vk.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/vk.com/2019-07-10 09:13:34
+11	yahoo.com	https://yahoo.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/yahoo.com/2019-07-10 09:14:44
+13	sohu.com	https://sohu.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/sohu.com/2019-07-10 09:15:54
+14	www.jd.com	https://www.jd.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.jd.com/2019-07-10 09:17:04
+17	live.com	https://live.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/live.com/2019-07-10 09:18:14
+18	sina.com.cn	https://sina.com.cn	True	9	9	9	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/sina.com.cn/2019-07-10 09:18:59
+19	weibo.com	https://weibo.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/weibo.com/2019-07-10 09:20:09
+20	netflix.com	https://netflix.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/netflix.com/2019-07-10 09:20:27
+23	login.tmall.com	https://login.tmall.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/login.tmall.com/2019-07-10 09:21:18
+24	360.cn	https://360.cn	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/360.cn/2019-07-10 09:22:28
+26	yahoo.co.jp	https://yahoo.co.jp	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/yahoo.co.jp/2019-07-10 09:23:21
+27	mail.ru	https://mail.ru	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/mail.ru/2019-07-10 09:24:10
+28	www.alipay.com	https://www.alipay.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.alipay.com/2019-07-10 09:25:20
+29	yandex.ru	https://yandex.ru	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/yandex.ru/2019-07-10 09:25:40
+30	aliexpress.com	https://aliexpress.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/aliexpress.com/2019-07-10 09:26:50
+31	bing.com	https://bing.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/bing.com/2019-07-10 09:28:00
+32	pages.tmall.com	https://pages.tmall.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/pages.tmall.com/2019-07-10 09:28:21
+33	microsoft.com	https://microsoft.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/microsoft.com/2019-07-10 09:28:44
+34	naver.com	https://naver.com	True	7	7	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/naver.com/2019-07-10 09:29:33
+36	csdn.net	https://csdn.net	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/csdn.net/2019-07-10 09:30:14
+37	ebay.com	https://ebay.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ebay.com/2019-07-10 09:31:24
+38	imdb.com	https://imdb.com	True	3	3	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/imdb.com/2019-07-10 09:32:16
+40	bilibili.com	https://bilibili.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/bilibili.com/2019-07-10 09:33:26
+42	fandom.com	https://fandom.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/fandom.com/2019-07-10 09:34:36
+43	linkedin.com	https://linkedin.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/linkedin.com/2019-07-10 09:35:46
+48	www.soso.com	https://www.soso.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.soso.com/2019-07-10 09:36:05
+50	www.hao123.com	https://www.hao123.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.hao123.com/2019-07-10 09:36:24
+51	github.com	https://github.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/github.com/2019-07-10 09:37:34
+53	wordpress.com	https://wordpress.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/wordpress.com/2019-07-10 09:38:34
+54	msn.com	https://msn.com	True	5	5	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/msn.com/2019-07-10 09:39:31
+55	apple.com	https://apple.com	True	3	3	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/apple.com/2019-07-10 09:40:41
+57	paypal.com	https://paypal.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/paypal.com/2019-07-10 09:41:40
+58	zhihu.com	https://zhihu.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/zhihu.com/2019-07-10 09:42:36
+59	hotstar.com	https://hotstar.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/hotstar.com/2019-07-10 09:43:27
+62	stackoverflow.com	https://stackoverflow.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/stackoverflow.com/2019-07-10 09:44:37
+63	163.com	https://163.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/163.com/2019-07-10 09:45:47
+64	roblox.com	https://roblox.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/roblox.com/2019-07-10 09:46:05
+65	so.com	https://so.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/so.com/2019-07-10 09:46:23
+66	popads.net	https://popads.net	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/popads.net/2019-07-10 09:46:49
+68	amazon.in	https://amazon.in	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/amazon.in/2019-07-10 09:47:10
+69	booking.com	https://booking.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/booking.com/2019-07-10 09:48:20
+70	office.com	https://office.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/office.com/2019-07-10 09:49:12
+74	detail.tmall.com	https://detail.tmall.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/detail.tmall.com/2019-07-10 09:49:49
+75	amazon.de	https://amazon.de	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/amazon.de/2019-07-10 09:50:13
+77	adobe.com	https://adobe.com	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/adobe.com/2019-07-10 09:51:23
+78	iqiyi.com	https://iqiyi.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/iqiyi.com/2019-07-10 09:52:33
+79	amazon.co.uk	https://amazon.co.uk	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/amazon.co.uk/2019-07-10 09:53:43
+86	douyu.com	https://douyu.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/douyu.com/2019-07-10 09:54:53
+89	www.tianya.cn	https://www.tianya.cn	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.tianya.cn/2019-07-10 09:55:17
+92	cricbuzz.com	https://cricbuzz.com	True	9	9	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/cricbuzz.com/2019-07-10 09:55:36
+94	craigslist.org	https://craigslist.org	True	10	10	10	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/craigslist.org/2019-07-10 09:56:46
+96	ebay.de	https://ebay.de	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ebay.de/2019-07-10 09:57:26
+97	sogou.com	https://sogou.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/sogou.com/2019-07-10 09:58:25
+98	babytree.com	https://babytree.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/babytree.com/2019-07-10 09:58:51
+99	espn.com	https://espn.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/espn.com/2019-07-10 09:59:15
+100	spotify.com	https://spotify.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/spotify.com/2019-07-10 09:59:44
+101	cnblogs.com	https://cnblogs.com	True	21	21	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/cnblogs.com/2019-07-10 10:00:54
+102	gloyah.net	https://gloyah.net	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/gloyah.net/2019-07-10 10:02:04
+105	avito.ru	https://avito.ru	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/avito.ru/2019-07-10 10:02:43
+109	gamepedia.com	https://gamepedia.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/gamepedia.com/2019-07-10 10:03:53
+111	onlinesbi.com	https://onlinesbi.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/onlinesbi.com/2019-07-10 10:05:03
+112	mediafire.com	https://mediafire.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/mediafire.com/2019-07-10 10:05:32
+113	cnn.com	https://cnn.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/cnn.com/2019-07-10 10:06:42
+115	www.amazonaws.com	https://www.amazonaws.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.amazonaws.com/2019-07-10 10:07:52
+116	fc2.com	https://fc2.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/fc2.com/2019-07-10 10:08:12
+117	nih.gov	https://nih.gov	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/nih.gov/2019-07-10 10:09:22
+119	stackexchange.com	https://stackexchange.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/stackexchange.com/2019-07-10 10:10:32
+120	etsy.com	https://etsy.com	True	2	2	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/etsy.com/2019-07-10 10:11:42
+122	www.globo.com	https://www.globo.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.globo.com/2019-07-10 10:12:52
+124	youporn.com	https://youporn.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/youporn.com/2019-07-10 10:14:02
+125	steampowered.com	https://steampowered.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/steampowered.com/2019-07-10 10:15:12
+126	chase.com	https://chase.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/chase.com/2019-07-10 10:16:22
+129	softonic.com	https://softonic.com	True	23	23	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/softonic.com/2019-07-10 10:17:03
+130	hulu.com	https://hulu.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/hulu.com/2019-07-10 10:18:13
+131	researchgate.net	https://researchgate.net	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/researchgate.net/2019-07-10 10:19:23
+132	www.walmart.com	https://www.walmart.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.walmart.com/2019-07-10 10:20:06
+133	vimeo.com	https://vimeo.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/vimeo.com/2019-07-10 10:21:16
+136	panda.tv	https://panda.tv	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/panda.tv/2019-07-10 10:22:26
+137	uol.com.br	https://uol.com.br	True	5	5	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/uol.com.br/2019-07-10 10:22:45
+140	ebay.co.uk	https://ebay.co.uk	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ebay.co.uk/2019-07-10 10:23:55
+143	flipkart.com	https://flipkart.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/flipkart.com/2019-07-10 10:25:05
+148	kinopoisk.ru	https://kinopoisk.ru	True	7	7	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/kinopoisk.ru/2019-07-10 10:26:15
+149	onlinevideoconverter.com	https://onlinevideoconverter.com	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/onlinevideoconverter.com/2019-07-10 10:27:25
+150	zhanqi.tv	https://zhanqi.tv	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/zhanqi.tv/2019-07-10 10:27:54
+151	instructure.com	https://instructure.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/instructure.com/2019-07-10 10:28:38
+152	www.china.com.cn	http://www.china.com.cn	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.china.com.cn/2019-07-10 10:29:48
+154	indeed.com	https://indeed.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/indeed.com/2019-07-10 10:30:58
+156	jianshu.com	https://jianshu.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/jianshu.com/2019-07-10 10:31:23
+158	www.caijing.com.cn	https://www.caijing.com.cn	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.caijing.com.cn/2019-07-10 10:31:54
+159	1688.com	https://1688.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/1688.com/2019-07-10 10:32:27
+160	douban.com	https://douban.com	True	5	5	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/douban.com/2019-07-10 10:33:37
+163	mercadolivre.com.br	https://mercadolivre.com.br	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/mercadolivre.com.br/2019-07-10 10:34:47
+164	openload.co	https://openload.co	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/openload.co/2019-07-10 10:35:15
+166	wikihow.com	https://wikihow.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/wikihow.com/2019-07-10 10:36:25
+168	www.digikala.com	https://www.digikala.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.digikala.com/2019-07-10 10:37:35
+169	www.w3schools.com	https://www.w3schools.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.w3schools.com/2019-07-10 10:38:45
+170	cnet.com	https://cnet.com	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/cnet.com/2019-07-10 10:39:21
+171	zillow.com	https://zillow.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/zillow.com/2019-07-10 10:40:20
+172	yelp.com	https://yelp.com	True	3	3	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/yelp.com/2019-07-10 10:41:30
+174	www.espncricinfo.com	https://www.espncricinfo.com	True	13	13	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.espncricinfo.com/2019-07-10 10:42:39
+178	amazon.it	https://amazon.it	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/amazon.it/2019-07-10 10:43:49
+179	speedtest.net	https://speedtest.net	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/speedtest.net/2019-07-10 10:44:59
+181	op.gg	https://op.gg	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/op.gg/2019-07-10 10:46:09
+182	godaddy.com	https://godaddy.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/godaddy.com/2019-07-10 10:47:19
+183	exoclick.com	https://exoclick.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/exoclick.com/2019-07-10 10:47:44
+184	3dmgame.com	https://3dmgame.com	True	3	3	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/3dmgame.com/2019-07-10 10:48:41
+185	canva.com	https://canva.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/canva.com/2019-07-10 10:49:38
+186	alibaba.com	https://alibaba.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/alibaba.com/2019-07-10 10:50:23
+187	weather.com	https://weather.com	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/weather.com/2019-07-10 10:51:33
+188	tripadvisor.com	https://tripadvisor.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/tripadvisor.com/2019-07-10 10:52:34
+190	gamespot.com	https://gamespot.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/gamespot.com/2019-07-10 10:53:44
+191	crunchyroll.com	https://crunchyroll.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/crunchyroll.com/2019-07-10 10:54:54
+192	primevideo.com	https://primevideo.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/primevideo.com/2019-07-10 10:55:58
+193	www.sciencedirect.com	https://www.sciencedirect.com	True	5	5	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.sciencedirect.com/2019-07-10 10:56:29
+194	ebay-kleinanzeigen.de	https://ebay-kleinanzeigen.de	True	5	5	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ebay-kleinanzeigen.de/2019-07-10 10:57:09
+196	rutracker.org	https://rutracker.org	True	95	95	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/rutracker.org/2019-07-10 10:58:19
+198	indiatimes.com	https://indiatimes.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/indiatimes.com/2019-07-10 10:59:29
+200	www.ikea.com	https://www.ikea.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.ikea.com/2019-07-10 11:00:39
+202	udemy.com	https://udemy.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/udemy.com/2019-07-10 11:01:49
+203	www.dmm.co.jp	https://www.dmm.co.jp	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.dmm.co.jp/2019-07-10 11:02:33
+204	gamersky.com	https://gamersky.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/gamersky.com/2019-07-10 11:03:35
+206	airbnb.com	https://airbnb.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/airbnb.com/2019-07-10 11:03:52
+207	amazon.es	https://amazon.es	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/amazon.es/2019-07-10 11:05:02
+208	rambler.ru	https://rambler.ru	True	5	5	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/rambler.ru/2019-07-10 11:06:12
+209	indoxxi.tube	https://indoxxi.tube	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/indoxxi.tube/2019-07-10 11:07:22
+210	eastday.com	https://eastday.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/eastday.com/2019-07-10 11:07:59
+213	kissanime.ru	https://kissanime.ru	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/kissanime.ru/2019-07-10 11:09:01
+214	www.huanqiu.com	https://www.huanqiu.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.huanqiu.com/2019-07-10 11:09:26
+216	tistory.com	https://tistory.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/tistory.com/2019-07-10 11:09:51
+217	ouo.io	https://ouo.io	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ouo.io/2019-07-10 11:11:01
+218	quizlet.com	https://quizlet.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/quizlet.com/2019-07-10 11:11:24
+220	livejournal.com	https://livejournal.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/livejournal.com/2019-07-10 11:12:32
+221	bankofamerica.com	https://bankofamerica.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/bankofamerica.com/2019-07-10 11:13:42
+222	xbox.com	https://xbox.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/xbox.com/2019-07-10 11:14:14
+223	bestbuy.com	https://bestbuy.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/bestbuy.com/2019-07-10 11:15:24
+226	www.homedepot.com	https://www.homedepot.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.homedepot.com/2019-07-10 11:16:04
+228	amazon.ca	https://amazon.ca	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/amazon.ca/2019-07-10 11:16:23
+231	ign.com	https://ign.com	True	11	11	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ign.com/2019-07-10 11:17:33
+232	kakaku.com	https://kakaku.com	True	13	13	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/kakaku.com/2019-07-10 11:18:02
+233	allegro.pl	https://allegro.pl	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/allegro.pl/2019-07-10 11:19:12
+234	genius.com	https://genius.com	True	5	5	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/genius.com/2019-07-10 11:20:22
+235	academia.edu	https://academia.edu	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/academia.edu/2019-07-10 11:21:32
+236	baike.com	https://baike.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/baike.com/2019-07-10 11:22:09
+237	redtube.com	https://redtube.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/redtube.com/2019-07-10 11:23:09
+238	freepik.com	https://freepik.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/freepik.com/2019-07-10 11:24:05
+239	patreon.com	https://patreon.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/patreon.com/2019-07-10 11:25:15
+240	www.rednet.cn	https://www.rednet.cn	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.rednet.cn/2019-07-10 11:26:25
+241	wetransfer.com	https://wetransfer.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/wetransfer.com/2019-07-10 11:27:35
+242	savefrom.net	https://savefrom.net	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/savefrom.net/2019-07-10 11:28:03
+246	uod2quk646.com	https://uod2quk646.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/uod2quk646.com/2019-07-10 11:29:13
+248	sarkariresult.com	https://sarkariresult.com	True	3	3	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/sarkariresult.com/2019-07-10 11:29:33
+249	wellsfargo.com	https://wellsfargo.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/wellsfargo.com/2019-07-10 11:29:56
+250	www.xfinity.com	https://www.xfinity.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.xfinity.com/2019-07-10 11:31:06
+253	buzzfeed.com	https://buzzfeed.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/buzzfeed.com/2019-07-10 11:32:12
+254	myshopify.com	https://myshopify.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/myshopify.com/2019-07-10 11:33:22
+256	ameblo.jp	https://ameblo.jp	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ameblo.jp/2019-07-10 11:33:41
+257	utorrent.com	https://utorrent.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/utorrent.com/2019-07-10 11:34:42
+258	mgid.com	https://mgid.com	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/mgid.com/2019-07-10 11:35:16
+259	foxnews.com	https://foxnews.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/foxnews.com/2019-07-10 11:36:26
+260	rt.com	https://rt.com	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/rt.com/2019-07-10 11:37:36
+261	youdao.com	https://youdao.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/youdao.com/2019-07-10 11:38:46
+262	aliyun.com	https://aliyun.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/aliyun.com/2019-07-10 11:39:10
+263	namu.wiki	https://namu.wiki	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/namu.wiki/2019-07-10 11:40:20
+265	cnki.net	https://cnki.net	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/cnki.net/2019-07-10 11:41:30
+266	trello.com	https://trello.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/trello.com/2019-07-10 11:42:00
+267	getawesome1.com	https://getawesome1.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/getawesome1.com/2019-07-10 11:42:46
+268	wikimedia.org	https://wikimedia.org	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/wikimedia.org/2019-07-10 11:43:06
+269	siteadvisor.com	https://siteadvisor.com	True	89	89	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/siteadvisor.com/2019-07-10 11:43:25
+270	zol.com.cn	https://zol.com.cn	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/zol.com.cn/2019-07-10 11:44:35
+271	cjl58f3agc.com	https://cjl58f3agc.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/cjl58f3agc.com/2019-07-10 11:45:45
+272	irctc.co.in	https://irctc.co.in	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/irctc.co.in/2019-07-10 11:46:05
+273	fiverr.com	https://fiverr.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/fiverr.com/2019-07-10 11:47:15
+276	l6b587txj1.com	https://l6b587txj1.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/l6b587txj1.com/2019-07-10 11:48:25
+277	marca.com	https://marca.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/marca.com/2019-07-10 11:48:44
+278	rarbg.to	https://rarbg.to	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/rarbg.to/2019-07-10 11:49:54
+279	yy.com	https://yy.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/yy.com/2019-07-10 11:50:18
+280	www.playstation.com	https://www.playstation.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.playstation.com/2019-07-10 11:51:28
+282	animeflv.net	https://animeflv.net	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/animeflv.net/2019-07-10 11:51:47
+283	bnsjb1ab1e.com	https://bnsjb1ab1e.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/bnsjb1ab1e.com/2019-07-10 11:52:06
+284	userapi.com	https://userapi.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/userapi.com/2019-07-10 11:52:26
+285	4l7wg5kf3z.com	https://4l7wg5kf3z.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/4l7wg5kf3z.com/2019-07-10 11:53:05
+286	myornamenti.com	https://myornamenti.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/myornamenti.com/2019-07-10 11:53:25
+287	yr9n47004g.com	https://yr9n47004g.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/yr9n47004g.com/2019-07-10 11:53:45
+288	0byv9mgbn0.com	https://0byv9mgbn0.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/0byv9mgbn0.com/2019-07-10 11:54:04
+289	gmidkz5tgm.com	https://gmidkz5tgm.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/gmidkz5tgm.com/2019-07-10 11:54:22
+290	16yp1ji92a.com	https://16yp1ji92a.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/16yp1ji92a.com/2019-07-10 11:54:42
+291	65vk1fba34.com	https://65vk1fba34.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/65vk1fba34.com/2019-07-10 11:55:02
+292	salesforce.com	https://salesforce.com	True	3	3	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/salesforce.com/2019-07-10 11:55:21
+293	susm0q6jys.com	https://susm0q6jys.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/susm0q6jys.com/2019-07-10 11:56:31
+294	mnoa6ez1eq.com	https://mnoa6ez1eq.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/mnoa6ez1eq.com/2019-07-10 11:56:51
+295	nyaa.si	https://nyaa.si	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/nyaa.si/2019-07-10 11:57:10
+297	lordfilms.tv	https://lordfilms.tv	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/lordfilms.tv/2019-07-10 11:57:48
+299	www.force.com	https://www.force.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.force.com/2019-07-10 11:58:26
+303	zippyshare.com	https://zippyshare.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/zippyshare.com/2019-07-10 11:59:36
+304	leboncoin.fr	https://leboncoin.fr	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/leboncoin.fr/2019-07-10 12:00:02
+306	gismeteo.ru	https://gismeteo.ru	True	3	3	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/gismeteo.ru/2019-07-10 12:01:12
+307	slack.com	https://slack.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/slack.com/2019-07-10 12:02:23
+308	doublepimp.com	https://doublepimp.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/doublepimp.com/2019-07-10 12:03:33
+309	samsung.com	https://samsung.com	True	7	7	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/samsung.com/2019-07-10 12:04:10
+310	divar.ir	https://divar.ir	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/divar.ir/2019-07-10 12:05:20
+311	ria.ru	https://ria.ru	True	3	3	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ria.ru/2019-07-10 12:06:15
+312	target.com	https://target.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/target.com/2019-07-10 12:07:25
+313	asos.com	https://asos.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/asos.com/2019-07-10 12:08:35
+314	qj.com.cn	https://qj.com.cn	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/qj.com.cn/2019-07-10 12:09:08
+315	nexusmods.com	https://nexusmods.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/nexusmods.com/2019-07-10 12:10:18
+316	geeksforgeeks.org	https://geeksforgeeks.org	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/geeksforgeeks.org/2019-07-10 12:11:28
+317	outbrain.com	https://outbrain.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/outbrain.com/2019-07-10 12:12:39
+318	youku.com	https://youku.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/youku.com/2019-07-10 12:13:49
+319	subscene.com	https://subscene.com	True	5	5	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/subscene.com/2019-07-10 12:14:59
+320	olx.ua	https://olx.ua	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/olx.ua/2019-07-10 12:16:09
+321	myanimelist.net	https://myanimelist.net	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/myanimelist.net/2019-07-10 12:17:19
+322	aol.com	https://aol.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/aol.com/2019-07-10 12:18:29
+323	taboola.com	https://taboola.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/taboola.com/2019-07-10 12:19:39
+324	forbes.com	https://forbes.com	True	9	9	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/forbes.com/2019-07-10 12:20:49
+325	shopify.com	https://shopify.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/shopify.com/2019-07-10 12:21:59
+326	healthline.com	https://healthline.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/healthline.com/2019-07-10 12:23:09
+327	weebly.com	https://weebly.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/weebly.com/2019-07-10 12:24:19
+328	shaparak.ir	https://shaparak.ir	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/shaparak.ir/2019-07-10 12:25:29
+329	so3ody.com	https://so3ody.com	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/so3ody.com/2019-07-10 12:26:03
+330	amazon.cn	https://amazon.cn	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/amazon.cn/2019-07-10 12:27:13
+331	www.pathofexile.com	https://www.pathofexile.com	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.pathofexile.com/2019-07-10 12:28:19
+332	verystream.com	https://verystream.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/verystream.com/2019-07-10 12:29:29
+333	leagueoflegends.com	https://leagueoflegends.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/leagueoflegends.com/2019-07-10 12:29:49
+334	list.tmall.com	https://list.tmall.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/list.tmall.com/2019-07-10 12:30:57
+336	accuweather.com	https://accuweather.com	True	9	9	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/accuweather.com/2019-07-10 12:32:07
+338	theverge.com	https://theverge.com	True	9	9	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/theverge.com/2019-07-10 12:33:17
+339	gtarcade.com	https://gtarcade.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/gtarcade.com/2019-07-10 12:34:27
+340	pixabay.com	https://pixabay.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/pixabay.com/2019-07-10 12:35:37
+341	sourceforge.net	https://sourceforge.net	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/sourceforge.net/2019-07-10 12:36:47
+342	www.livedoor.com	http://www.livedoor.com	True	13	13	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.livedoor.com/2019-07-10 12:37:57
+343	yandex.kz	https://yandex.kz	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/yandex.kz/2019-07-10 12:38:56
+344	ultimate-guitar.com	https://ultimate-guitar.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ultimate-guitar.com/2019-07-10 12:40:06
+345	pikabu.ru	https://pikabu.ru	True	3	3	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/pikabu.ru/2019-07-10 12:41:16
+346	mercadolibre.com.ar	https://mercadolibre.com.ar	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/mercadolibre.com.ar/2019-07-10 12:42:26
+347	slickdeals.net	https://slickdeals.net	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/slickdeals.net/2019-07-10 12:43:03
+348	techradar.com	https://techradar.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/techradar.com/2019-07-10 12:44:13
+349	b3z29k1uxb.com	https://b3z29k1uxb.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/b3z29k1uxb.com/2019-07-10 12:45:23
+351	www.cambridge.org	https://www.cambridge.org	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.cambridge.org/2019-07-10 12:45:42
+352	grammarly.com	https://grammarly.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/grammarly.com/2019-07-10 12:46:01
+353	www.goodreads.com	https://www.goodreads.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.goodreads.com/2019-07-10 12:47:11
+355	www.51sole.com	https://www.51sole.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.51sole.com/2019-07-10 12:47:49
+356	smzdm.com	https://smzdm.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/smzdm.com/2019-07-10 12:48:59
+357	gazeta.ru	https://gazeta.ru	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/gazeta.ru/2019-07-10 12:50:09
+358	ali213.net	https://ali213.net	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ali213.net/2019-07-10 12:51:19
+359	lenta.ru	https://lenta.ru	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/lenta.ru/2019-07-10 12:52:29
+360	wix.com	https://wix.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/wix.com/2019-07-10 12:53:39
+361	ibps.in	https://ibps.in	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ibps.in/2019-07-10 12:54:49
+362	orange.fr	https://orange.fr	True	5	5	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/orange.fr/2019-07-10 12:55:59
+363	yao.tmall.com	https://yao.tmall.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/yao.tmall.com/2019-07-10 12:57:09
+364	capitalone.com	https://capitalone.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/capitalone.com/2019-07-10 12:58:19
+365	americanexpress.com	https://americanexpress.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/americanexpress.com/2019-07-10 12:59:29
+366	wordpress.org	https://wordpress.org	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/wordpress.org/2019-07-10 13:00:39
+367	wordreference.com	https://wordreference.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/wordreference.com/2019-07-10 13:01:08
+368	mi.com	https://mi.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/mi.com/2019-07-10 13:01:32
+369	mercadolibre.com.mx	https://mercadolibre.com.mx	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/mercadolibre.com.mx/2019-07-10 13:01:50
+372	www.asus.com	https://www.asus.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.asus.com/2019-07-10 13:02:20
+373	www.360doc.com	http://www.360doc.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.360doc.com/2019-07-10 13:03:31
+377	cinecalidad.to	https://cinecalidad.to	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/cinecalidad.to/2019-07-10 13:04:20
+378	pornhublive.com	https://pornhublive.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/pornhublive.com/2019-07-10 13:05:30
+380	dytt8.net	https://dytt8.net	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/dytt8.net/2019-07-10 13:06:12
+381	olx.pl	https://olx.pl	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/olx.pl/2019-07-10 13:06:47
+383	springer.com	https://springer.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/springer.com/2019-07-10 13:07:57
+384	discogs.com	https://discogs.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/discogs.com/2019-07-10 13:08:48
+385	files.wordpress.com	https://files.wordpress.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/files.wordpress.com/2019-07-10 13:09:56
+386	hp.com	https://hp.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/hp.com/2019-07-10 13:10:42
+388	weblio.jp	https://weblio.jp	True	3	3	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/weblio.jp/2019-07-10 13:11:52
+389	www.mlb.com	https://www.mlb.com	True	3	3	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.mlb.com/2019-07-10 13:12:47
+390	studfiles.net	https://studfiles.net	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/studfiles.net/2019-07-10 13:13:57
+392	epicgames.com	https://epicgames.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/epicgames.com/2019-07-10 13:15:07
+393	hdfcbank.com	https://hdfcbank.com	True	3	3	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/hdfcbank.com/2019-07-10 13:16:17
+394	evernote.com	https://evernote.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/evernote.com/2019-07-10 13:17:27
+396	norton.com	https://norton.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/norton.com/2019-07-10 13:17:52
+397	elsevier.com	https://elsevier.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/elsevier.com/2019-07-10 13:18:08
+398	coinmarketcap.com	https://coinmarketcap.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/coinmarketcap.com/2019-07-10 13:19:11
+399	ecosia.org	https://ecosia.org	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ecosia.org/2019-07-10 13:20:21
+400	goo.ne.jp	https://goo.ne.jp	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/goo.ne.jp/2019-07-10 13:21:04
+401	thesaurus.com	https://thesaurus.com	True	13	13	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/thesaurus.com/2019-07-10 13:21:40
+402	www.jrj.com.cn	https://www.jrj.com.cn	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.jrj.com.cn/2019-07-10 13:22:50
+403	gearbest.com	https://gearbest.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/gearbest.com/2019-07-10 13:24:00
+404	souq.com	https://souq.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/souq.com/2019-07-10 13:25:10
+405	office365.com	https://office365.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/office365.com/2019-07-10 13:25:39
+406	onet.pl	https://onet.pl	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/onet.pl/2019-07-10 13:26:49
+408	billdesk.com	https://billdesk.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/billdesk.com/2019-07-10 13:27:52
+409	nike.com	https://nike.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/nike.com/2019-07-10 13:28:12
+411	dell.com	https://dell.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/dell.com/2019-07-10 13:28:49
+412	as.com	https://as.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/as.com/2019-07-10 13:29:59
+414	3c.tmall.com	https://3c.tmall.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/3c.tmall.com/2019-07-10 13:31:09
+415	ecleneue.com	https://ecleneue.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ecleneue.com/2019-07-10 13:32:19
+416	icloud.com	https://icloud.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/icloud.com/2019-07-10 13:33:04
+417	popcash.net	https://popcash.net	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/popcash.net/2019-07-10 13:34:06
+418	zendesk.com	https://zendesk.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/zendesk.com/2019-07-10 13:34:45
+419	ndtv.com	https://ndtv.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ndtv.com/2019-07-10 13:35:55
+420	ilovepdf.com	https://ilovepdf.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ilovepdf.com/2019-07-10 13:36:31
+421	hatenablog.com	https://hatenablog.com	True	3	3	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/hatenablog.com/2019-07-10 13:36:56
+422	rpgmasterleague.com	https://rpgmasterleague.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/rpgmasterleague.com/2019-07-10 13:38:06
+423	wowhead.com	https://wowhead.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/wowhead.com/2019-07-10 13:38:25
+424	wp.pl	https://wp.pl	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/wp.pl/2019-07-10 13:39:35
+425	sahibinden.com	https://sahibinden.com	True	13	13	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/sahibinden.com/2019-07-10 13:40:45
+427	ea.com	https://ea.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ea.com/2019-07-10 13:41:55
+428	ivi.ru	https://ivi.ru	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ivi.ru/2019-07-10 13:43:05
+429	pelisplus.co	https://pelisplus.co	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/pelisplus.co/2019-07-10 13:44:15
+430	archiveofourown.org	https://archiveofourown.org	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/archiveofourown.org/2019-07-10 13:44:57
+431	wiktionary.org	https://wiktionary.org	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/wiktionary.org/2019-07-10 13:46:07
+432	blackboard.com	https://blackboard.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/blackboard.com/2019-07-10 13:46:26
+434	internetdownloadmanager.com	http://internetdownloadmanager.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/internetdownloadmanager.com/2019-07-10 13:47:36
+435	citi.com	https://citi.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/citi.com/2019-07-10 13:47:55
+436	lowes.com	https://lowes.com	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/lowes.com/2019-07-10 13:49:05
+437	2345.com	https://2345.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/2345.com/2019-07-10 13:50:15
+438	eyny.com	https://eyny.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/eyny.com/2019-07-10 13:51:25
+439	nhentai.net	https://nhentai.net	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/nhentai.net/2019-07-10 13:52:07
+440	drom.ru	https://drom.ru	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/drom.ru/2019-07-10 13:52:39
+441	yadi.sk	https://yadi.sk	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/yadi.sk/2019-07-10 13:53:15
+442	cimaclub.com	https://cimaclub.com	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/cimaclub.com/2019-07-10 13:53:51
+443	expedia.com	https://expedia.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/expedia.com/2019-07-10 13:55:01
+444	smallpdf.com	https://smallpdf.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/smallpdf.com/2019-07-10 13:56:11
+445	seasonvar.ru	http://seasonvar.ru	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/seasonvar.ru/2019-07-10 13:56:33
+446	banggood.com	https://banggood.com	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/banggood.com/2019-07-10 13:57:43
+447	gamer.com.tw	https://gamer.com.tw	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/gamer.com.tw/2019-07-10 13:58:53
+448	upwork.com	https://upwork.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/upwork.com/2019-07-10 14:00:03
+449	sonyliv.com	https://sonyliv.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/sonyliv.com/2019-07-10 14:01:13
+450	www.cnzz.com	https://www.cnzz.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.cnzz.com/2019-07-10 14:02:28
+451	go.com	http://go.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/go.com/2019-07-10 14:02:59
+452	behance.net	https://behance.net	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/behance.net/2019-07-10 14:04:09
+454	uptobox.com	https://uptobox.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/uptobox.com/2019-07-10 14:04:48
+455	intuit.com	https://intuit.com	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/intuit.com/2019-07-10 14:05:31
+456	rutor.info	http://rutor.info	True	83	83	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/rutor.info/2019-07-10 14:06:41
+457	www.dmm.com	https://www.dmm.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.dmm.com/2019-07-10 14:07:51
+458	ebay.it	https://ebay.it	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/ebay.it/2019-07-10 14:09:01
+460	usps.com	https://usps.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/usps.com/2019-07-10 14:10:00
+461	themeforest.net	https://themeforest.net	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/themeforest.net/2019-07-10 14:11:03
+462	flvto.biz	https://flvto.biz	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/flvto.biz/2019-07-10 14:12:13
+463	battle.net	https://battle.net	True	2	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/battle.net/2019-07-10 14:13:23
+464	docin.com	https://docin.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/docin.com/2019-07-10 14:14:33
+465	free.fr	https://free.fr	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/free.fr/2019-07-10 14:15:06
+466	convert2mp3.net	http://convert2mp3.net	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/convert2mp3.net/2019-07-10 14:16:16
+467	www.repubblica.it	https://www.repubblica.it	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.repubblica.it/2019-07-10 14:16:35
+468	gmx.net	https://gmx.net	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/gmx.net/2019-07-10 14:17:46
+470	wish.com	https://wish.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/wish.com/2019-07-10 14:18:56
+472	bitly.com	https://bitly.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/bitly.com/2019-07-10 14:20:06
+473	hotels.com	https://hotels.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/hotels.com/2019-07-10 14:20:53
+474	eporner.com	https://eporner.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/eporner.com/2019-07-10 14:22:03
+475	chess.com	https://chess.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/chess.com/2019-07-10 14:22:40
+476	mit.edu	https://mit.edu	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/mit.edu/2019-07-10 14:23:09
+478	pcgamer.com	https://pcgamer.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/pcgamer.com/2019-07-10 14:23:39
+479	yespornplease.com	https://yespornplease.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/yespornplease.com/2019-07-10 14:24:50
+480	freejobalert.com	http://freejobalert.com	True	99	99	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/freejobalert.com/2019-07-10 14:26:00
+482	drive2.ru	https://drive2.ru	True	3	3	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/drive2.ru/2019-07-10 14:27:10
+483	webmd.com	https://webmd.com	True	7	7	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/webmd.com/2019-07-10 14:28:20
+484	www.bzw315.com	https://www.bzw315.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.bzw315.com/2019-07-10 14:29:30
+485	filehippo.com	https://filehippo.com	True	3	3	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/filehippo.com/2019-07-10 14:30:40
+486	icicibank.com	https://icicibank.com	True	9	9	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/icicibank.com/2019-07-10 14:31:50
+488	www.huya.com	https://www.huya.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/www.huya.com/2019-07-10 14:33:00
+489	kp.ru	https://kp.ru	True	3	3	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/kp.ru/2019-07-10 14:34:10
+490	glassdoor.com	https://glassdoor.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/glassdoor.com/2019-07-10 14:35:20
+494	wiley.com	https://wiley.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/wiley.com/2019-07-10 14:36:30
+496	gome.com.cn	https://gome.com.cn	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/gome.com.cn/2019-07-10 14:37:40
+497	usatoday.com	https://usatoday.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/usatoday.com/2019-07-10 14:38:29
+498	xbombo.com	https://xbombo.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/xbombo.com/2019-07-10 14:39:39
+499	pirateproxy.lat	https://pirateproxy.lat	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/pirateproxy.lat/2019-07-10 14:40:05
+500	91jm.com	http://91jm.com	True	1	0	0	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/91jm.com/2019-07-10 14:40:26
+
+
+
+#######################################
+# TABLE for frame chain distribution  #
+#######################################
+length	#webpages	webpages
+1	265	https://baidu.com,https://www.qq.com,https://taobao.com,https://amazon.com,https://tmall.com,https://vk.com,https://yahoo.com,https://sohu.com,https://www.jd.com,https://weibo.com,https://netflix.com,https://login.tmall.com,https://360.cn,https://mail.ru,https://www.alipay.com,https://yandex.ru,https://aliexpress.com,https://bing.com,https://pages.tmall.com,https://csdn.net,https://ebay.com,https://bilibili.com,https://fandom.com,https://linkedin.com,https://www.soso.com,https://www.hao123.com,https://github.com,https://paypal.com,https://zhihu.com,https://hotstar.com,https://stackoverflow.com,https://163.com,https://roblox.com,https://so.com,https://popads.net,https://amazon.in,https://booking.com,https://office.com,https://detail.tmall.com,https://amazon.de,https://iqiyi.com,https://amazon.co.uk,https://douyu.com,https://www.tianya.cn,https://ebay.de,https://sogou.com,https://babytree.com,https://espn.com,https://gloyah.net,https://avito.ru,https://gamepedia.com,https://onlinesbi.com,https://mediafire.com,https://www.amazonaws.com,https://fc2.com,https://nih.gov,https://stackexchange.com,https://www.globo.com,https://youporn.com,https://steampowered.com,https://chase.com,https://hulu.com,https://researchgate.net,https://www.walmart.com,https://vimeo.com,https://panda.tv,https://ebay.co.uk,https://flipkart.com,https://zhanqi.tv,https://instructure.com,http://www.china.com.cn,https://indeed.com,https://jianshu.com,https://www.caijing.com.cn,https://1688.com,https://openload.co,https://wikihow.com,https://www.digikala.com,https://www.w3schools.com,https://zillow.com,https://amazon.it,https://speedtest.net,https://godaddy.com,https://exoclick.com,https://canva.com,https://alibaba.com,https://tripadvisor.com,https://gamespot.com,https://crunchyroll.com,https://primevideo.com,https://indiatimes.com,https://www.ikea.com,https://udemy.com,https://www.dmm.co.jp,https://gamersky.com,https://airbnb.com,https://indoxxi.tube,https://eastday.com,https://kissanime.ru,https://www.huanqiu.com,https://tistory.com,https://ouo.io,https://quizlet.com,https://livejournal.com,https://bankofamerica.com,https://www.homedepot.com,https://allegro.pl,https://academia.edu,https://baike.com,https://freepik.com,https://patreon.com,https://www.rednet.cn,https://wetransfer.com,https://savefrom.net,https://uod2quk646.com,https://wellsfargo.com,https://buzzfeed.com,https://myshopify.com,https://ameblo.jp,https://utorrent.com,https://foxnews.com,https://youdao.com,https://aliyun.com,https://cnki.net,https://trello.com,https://getawesome1.com,https://wikimedia.org,https://zol.com.cn,https://cjl58f3agc.com,https://irctc.co.in,https://fiverr.com,https://l6b587txj1.com,https://marca.com,https://rarbg.to,https://yy.com,https://www.playstation.com,https://animeflv.net,https://bnsjb1ab1e.com,https://userapi.com,https://4l7wg5kf3z.com,https://myornamenti.com,https://yr9n47004g.com,https://0byv9mgbn0.com,https://gmidkz5tgm.com,https://16yp1ji92a.com,https://65vk1fba34.com,https://susm0q6jys.com,https://mnoa6ez1eq.com,https://nyaa.si,https://www.force.com,https://zippyshare.com,https://leboncoin.fr,https://doublepimp.com,https://divar.ir,https://target.com,https://asos.com,https://qj.com.cn,https://nexusmods.com,https://youku.com,https://olx.ua,https://aol.com,https://taboola.com,https://shopify.com,https://healthline.com,https://weebly.com,https://shaparak.ir,https://verystream.com,https://list.tmall.com,https://gtarcade.com,https://pixabay.com,https://yandex.kz,https://ultimate-guitar.com,https://techradar.com,https://b3z29k1uxb.com,https://www.cambridge.org,https://www.goodreads.com,https://www.51sole.com,https://smzdm.com,https://ali213.net,https://lenta.ru,https://wix.com,https://ibps.in,https://yao.tmall.com,https://americanexpress.com,https://wordpress.org,https://wordreference.com,https://mi.com,https://www.asus.com,http://www.360doc.com,https://cinecalidad.to,https://pornhublive.com,https://dytt8.net,https://olx.pl,https://discogs.com,https://hp.com,https://studfiles.net,https://epicgames.com,https://evernote.com,https://norton.com,https://coinmarketcap.com,https://ecosia.org,https://goo.ne.jp,https://www.jrj.com.cn,https://gearbest.com,https://souq.com,https://onet.pl,https://billdesk.com,https://nike.com,https://as.com,https://3c.tmall.com,https://ecleneue.com,https://icloud.com,https://popcash.net,https://ndtv.com,https://ilovepdf.com,https://rpgmasterleague.com,https://wowhead.com,https://wp.pl,https://ea.com,https://ivi.ru,https://pelisplus.co,https://archiveofourown.org,https://wiktionary.org,https://blackboard.com,http://internetdownloadmanager.com,https://citi.com,https://2345.com,https://eyny.com,https://drom.ru,https://yadi.sk,https://expedia.com,https://smallpdf.com,http://seasonvar.ru,https://gamer.com.tw,https://upwork.com,https://sonyliv.com,https://www.cnzz.com,http://go.com,https://behance.net,https://uptobox.com,https://www.dmm.com,https://ebay.it,https://usps.com,https://docin.com,https://free.fr,http://convert2mp3.net,https://www.repubblica.it,https://gmx.net,https://wish.com,https://bitly.com,https://hotels.com,https://eporner.com,https://chess.com,https://mit.edu,https://pcgamer.com,https://yespornplease.com,https://www.bzw315.com,https://www.huya.com,https://glassdoor.com,https://wiley.com,https://gome.com.cn,https://usatoday.com,https://xbombo.com,https://pirateproxy.lat,http://91jm.com
+2	32	https://live.com,https://yahoo.co.jp,https://microsoft.com,https://wordpress.com,https://spotify.com,https://cnn.com,https://etsy.com,https://amazon.es,https://xbox.com,https://bestbuy.com,https://amazon.ca,https://redtube.com,https://www.xfinity.com,https://slack.com,https://outbrain.com,https://myanimelist.net,https://amazon.cn,https://leagueoflegends.com,https://sourceforge.net,https://slickdeals.net,https://grammarly.com,https://capitalone.com,https://springer.com,https://files.wordpress.com,https://elsevier.com,https://office365.com,https://dell.com,https://zendesk.com,https://nhentai.net,https://intuit.com,https://themeforest.net,https://battle.net
+3	16	https://imdb.com,https://apple.com,https://yelp.com,https://3dmgame.com,https://sarkariresult.com,https://salesforce.com,https://gismeteo.ru,https://ria.ru,https://pikabu.ru,https://weblio.jp,https://www.mlb.com,https://hdfcbank.com,https://hatenablog.com,https://drive2.ru,https://filehippo.com,https://kp.ru
+5	9	https://msn.com,https://uol.com.br,https://douban.com,https://www.sciencedirect.com,https://ebay-kleinanzeigen.de,https://rambler.ru,https://genius.com,https://subscene.com,https://orange.fr
+7	4	https://naver.com,https://kinopoisk.ru,https://samsung.com,https://webmd.com
+9	6	https://sina.com.cn,https://cricbuzz.com,https://forbes.com,https://accuweather.com,https://theverge.com,https://icicibank.com
+10	1	https://craigslist.org
+11	1	https://ign.com
+13	5	https://www.espncricinfo.com,https://kakaku.com,http://www.livedoor.com,https://thesaurus.com,https://sahibinden.com
+21	1	https://cnblogs.com
+23	1	https://softonic.com
+83	1	http://rutor.info
+89	1	https://siteadvisor.com
+95	1	https://rutracker.org
+99	21	https://adobe.com,https://onlinevideoconverter.com,https://mercadolivre.com.br,https://cnet.com,https://op.gg,https://weather.com,https://mgid.com,https://rt.com,https://namu.wiki,https://lordfilms.tv,https://geeksforgeeks.org,https://so3ody.com,https://www.pathofexile.com,https://mercadolibre.com.ar,https://gazeta.ru,https://mercadolibre.com.mx,https://lowes.com,https://cimaclub.com,https://banggood.com,https://flvto.biz,http://freejobalert.com
+
+
+
+#######################################################
+# TABLE for frame chain (with JS stack) distribution  #
+#######################################################
+length	#webpages	webpages
+2	1	https://etsy.com
+3	16	https://imdb.com,https://apple.com,https://yelp.com,https://3dmgame.com,https://sarkariresult.com,https://salesforce.com,https://gismeteo.ru,https://ria.ru,https://pikabu.ru,https://weblio.jp,https://www.mlb.com,https://hdfcbank.com,https://hatenablog.com,https://drive2.ru,https://filehippo.com,https://kp.ru
+5	9	https://msn.com,https://uol.com.br,https://douban.com,https://www.sciencedirect.com,https://ebay-kleinanzeigen.de,https://rambler.ru,https://genius.com,https://subscene.com,https://orange.fr
+7	4	https://naver.com,https://kinopoisk.ru,https://samsung.com,https://webmd.com
+9	6	https://sina.com.cn,https://cricbuzz.com,https://forbes.com,https://accuweather.com,https://theverge.com,https://icicibank.com
+10	1	https://craigslist.org
+11	1	https://ign.com
+13	5	https://www.espncricinfo.com,https://kakaku.com,http://www.livedoor.com,https://thesaurus.com,https://sahibinden.com
+21	1	https://cnblogs.com
+23	1	https://softonic.com
+83	1	http://rutor.info
+89	1	https://siteadvisor.com
+95	1	https://rutracker.org
+99	21	https://adobe.com,https://onlinevideoconverter.com,https://mercadolivre.com.br,https://cnet.com,https://op.gg,https://weather.com,https://mgid.com,https://rt.com,https://namu.wiki,https://lordfilms.tv,https://geeksforgeeks.org,https://so3ody.com,https://www.pathofexile.com,https://mercadolibre.com.ar,https://gazeta.ru,https://mercadolibre.com.mx,https://lowes.com,https://cimaclub.com,https://banggood.com,https://flvto.biz,http://freejobalert.com
+
+
+
+############################################################
+# TABLE for frame chain (with diff features) distribution  #
+############################################################
+length	#webpages	webpages
+9	1	https://sina.com.cn
+10	1	https://craigslist.org
+
+
+
+#######################################
+# Information for vuln webpages #
+#######################################
+
+Url	filename	MaxLengthOfFrameChain	MaxVulnFrameChain
+https://craigslist.org	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/craigslist.org/2019-07-10 09:56:46	10	-5:6_https://www.craigslist.org/-5:3_https://beijing.craigslist.org/-5:6_https://www.craigslist.org/-5:3_https://beijing.craigslist.org/-5:6_https://www.craigslist.org/-5:3_https://beijing.craigslist.org/-5:6_https://www.craigslist.org/-5:3_https://beijing.craigslist.org/-5:6_https://www.craigslist.org/-5:3_https://beijing.craigslist.org/
+https://sina.com.cn	/home/wluo/workspace/tim-evaluate/result_handler/tim-results/sina.com.cn/2019-07-10 09:18:59	9	-5:7_https://d2.sina.com.cn/-5:3_https://www.sina.com.cn/-5:7_https://d2.sina.com.cn/-5:3_https://www.sina.com.cn/-5:7_https://d2.sina.com.cn/-5:3_https://www.sina.com.cn/-5:7_https://d2.sina.com.cn/-5:3_https://www.sina.com.cn/-5:7_https://d2.sina.com.cn/
