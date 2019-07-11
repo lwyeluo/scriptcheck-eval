@@ -6,6 +6,7 @@ from utils.executor import *
 from run_script.run import RunUrl
 
 from run_script import _result_log_dir_for_china, _dir
+from top_sites_china import _max_webpage_in_one_domain
 
 
 class TimTest(object):
@@ -35,8 +36,14 @@ class TimTest(object):
 
 		# list all urls
 		with open(url_file_name, 'r') as f_url:
-			for url in f_url.readlines():
-				url = url.strip('\n').strip(' ')
+			urls = f_url.readlines()
+			for i in range(0, len(urls)):
+
+				# for each domain, we only handle the maximum webpages
+				if i >= _max_webpage_in_one_domain:
+					break
+
+				url = urls[i].strip('\n').strip(' ')
 
 				# run that url
 				RunUrl(url, ret_dir + "/" + url.replace('/', ','))

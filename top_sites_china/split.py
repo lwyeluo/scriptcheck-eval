@@ -2,7 +2,7 @@
 
 import os
 import math
-from top_sites_china import _split_dir, _domain_filename, _webpages_dir
+from top_sites_china import _split_dir, _domain_filename, _webpages_dir, _max_webpage_in_one_domain
 from utils.executor import execute
 
 
@@ -30,11 +30,10 @@ def split(number_of_machines):
 
     print(url_nums)
 
-    # for each domain, we only handle at most |max_webpage_in_one_domain| webpages
-    max_webpage_in_one_domain = 20
+    # for each domain, we only handle at most |_max_webpage_in_one_domain| webpages
     webpage_nums = []
     for num in url_nums:
-        num = num if num < max_webpage_in_one_domain else max_webpage_in_one_domain
+        num = num if num < _max_webpage_in_one_domain else _max_webpage_in_one_domain
         webpage_nums.append(num)
 
     # 2. calculate the number of webpages each machine should handle
