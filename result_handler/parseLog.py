@@ -157,6 +157,9 @@ class ParseLog(object):
 				elif self._feature_set_domain in line:
 					self.handleFeatureSetDomain(line, frame_chain, has_collected_metadata)
 
+			if not has_collected_metadata and self.idx >= self.length - 1:
+				return
+
 		# here is |the end of the log| or |the end of the current series of frame chain|
 		self.completeCurrentFrameChain(chain, frame_chain)
 		if self.idx != self.length - 1:
@@ -286,9 +289,9 @@ class ParseLog(object):
 
 
 def test(domain="yahoo.com"):
-	from result_handler import _result_dir
+	from result_handler import _result_alexa_dir
 
-	ret_dir = os.path.join(_result_dir, domain)
+	ret_dir = os.path.join(_result_alexa_dir, domain)
 	if os.path.exists(ret_dir) and os.path.isdir(ret_dir):
 		files = os.listdir(ret_dir)
 		for ret_file in files:

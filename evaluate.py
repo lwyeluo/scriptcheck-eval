@@ -56,4 +56,5 @@ if __name__ == '__main__':
 
 		test_log(args.parse_log_with_filename)
 
+	print("\n")
 	print(args)
