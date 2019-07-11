@@ -15,8 +15,8 @@ class ParseLog(object):
 		# some indicators
 		self._feature_frame_chain = "updated frame chain: [num, frameChain, subject, last, " \
 									"function_name, source_code] = "
-		self._feature_metadata = "metadata is [subject_url, domain, routing_id, frame_chain_length, " \
-								 "parent_origin, parent_domain] = "
+		self._feature_metadata = "metadata is [subject_url, domain, routing_id, frame_chain_length," \
+								 " parent_origin, parent_domain, parent_routing_id] = "
 		self._feature_js_stack = ">>> BindingSecurity::PrintStack. stack is "
 
 		# save the results
@@ -41,7 +41,11 @@ class ParseLog(object):
 	def completeCurrentFrameChain(self, chain, frame_chain):
 		frame_chain.recordChain(chain)
 
-	def handleFeatureMetadata(self, line, frame_chain):
+	def handleFeatureMetadata(self, line, frame_chain, has_collected_metadata):
+		if has_collected_metadata:
+			# the metadata has been collected, but we find another metadata
+			#  meaning that the previous one is not correct
+			frame_chain.removeTail()
 		line = line[line.index(self._feature_metadata):]
 		_, _, remain = line.partition("=")
 		if remain == "":
@@ -54,7 +58,7 @@ class ParseLog(object):
 
 		remain = info[2]
 		info = remain.split(',')
-		if len(info) != 4:
+		if len(info) != 5:
 			raise Exception("Bad format for metadata: " + line)
 
 		frame_info = {
@@ -63,6 +67,7 @@ class ParseLog(object):
 			'id': info[0].strip(' ').strip('"'),
 			'parent_origin': info[2].strip(' ').strip('"'),
 			'parent_domain': info[3].strip(' ').strip('"').strip('\n'),
+			'parent_id': info[4].strip(' ').strip('"').strip('\n'),
 		}
 
 		frame_chain.append(frame_info)
@@ -87,6 +92,9 @@ class ParseLog(object):
 
 		chain = ""
 
+		if self.is_debug:
+			print(">>> begin, line is: %s" % self.content[self.idx])
+
 		# handle all frames in that series of frame chain
 		while self.idx < self.length - 1:
 			line = line[line.index(self._feature_frame_chain):]
@@ -107,6 +115,7 @@ class ParseLog(object):
 			# here we begin to update the current series of frame chain
 
 			# 1. collect the metadata and JS stack
+			has_collected_metadata = False
 			while self.idx < self.length - 1:
 				self.idx += 1
 				line = self.content[self.idx]
@@ -117,13 +126,18 @@ class ParseLog(object):
 
 				# get the metadata and JS stack for that frame
 				if self._feature_metadata in line:
-					self.handleFeatureMetadata(line, frame_chain)
+					self.handleFeatureMetadata(line, frame_chain, has_collected_metadata)
+					has_collected_metadata = True
 				elif self._feature_js_stack in line:
 					self.handleFeatureJSStack(line, frame_chain)
 
 		# here is |the end of the log| or |the end of the current series of frame chain|
 		self.completeCurrentFrameChain(chain, frame_chain)
-		self.idx -= 1
+		if self.idx != self.length - 1:
+			self.idx -= 1
+
+		if self.is_debug:
+			print(">>> end, line is: %s" % self.content[self.idx])
 
 	def handle(self):
 		print(">>> HANDLE %s" % self.file_name)
@@ -170,7 +184,13 @@ class ParseLog(object):
 		if domain0 != domain1:
 			return True
 
-		# Feature 2: they have different parent frames but not the top frame
+		# Feature 2: they have different parent frames but not the parent-child relationship
+		parent_id0, parent_id1 = frame0['parent_id'], frame1['parent_id']
+		id0, id1 = frame0['id'], frame1['id']
+		if id0 == parent_id1 or id1 == parent_id0:
+			# here means that one is the other's parent frame
+			return False
+
 		parent_origin0, parent_origin1 = frame0['parent_origin'], frame1['parent_origin']
 		parent_domain0, parent_domain1 = frame0['parent_domain'], frame1['parent_domain']
 		if parent_origin0 == '' or parent_origin1 == '':
@@ -178,11 +198,13 @@ class ParseLog(object):
 			domain = parent_domain0 + parent_domain1
 			return self.domain not in domain
 
-		if parent_origin0 != parent_origin1:
-			return True
+		# if parent_origin0 != parent_origin1:
+		# 	return True
 
 		if parent_domain0 != parent_domain1:
 			return True
+
+		return False
 
 	# compute the derived information for frame chains, i.e. the |VulnWebPage|
 	def compute(self):
@@ -214,6 +236,8 @@ class ParseLog(object):
 
 				# whether they has different features
 				if self.hasDifferentFeatures(frame0, frame1) and self.hasJSStack(frame1):
+					if self.is_debug:
+						print("\n!!!! We found a vuln frame chain: %s, %s\n" % (str(frame0), str(frame1)))
 					vuln_frame_chain_with_diff_features.append(frame_chain)
 					break
 
@@ -237,6 +261,6 @@ def test(domain="yahoo.com"):
 		for ret_file in files:
 			parser = ParseLog(os.path.join(ret_dir, ret_file), domain=domain, is_debug=True)
 			webpage = parser.getVulnWebPage()
-			print(webpage.vuln_frame_chain)
-			print(webpage.vuln_frame_chain_with_stack)
-			print(webpage.vuln_frame_chain_with_diff_features)
+			print(webpage.len_for_vuln_frame_chain)
+			print(webpage.len_for_vuln_frame_chain_with_stack)
+			print(webpage.len_for_vuln_frame_chain_with_diff_features)

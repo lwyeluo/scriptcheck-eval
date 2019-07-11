@@ -23,6 +23,9 @@ class FrameChain(object):
             self.frame_ids.append(frame_id)
         self.frames.append(frame_info)
 
+    def removeTail(self):
+        return self.frames.pop()
+
     def recordJSStack(self, js_stack):
         self.frames[-1]['js_stack'] = js_stack
 
