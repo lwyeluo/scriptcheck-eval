@@ -18,6 +18,7 @@ class ParseLog(object):
 		self._feature_metadata = "metadata is [subject_url, domain, routing_id, frame_chain_length," \
 								 " parent_origin, parent_domain, parent_routing_id] = "
 		self._feature_js_stack = ">>> BindingSecurity::PrintStack. stack is "
+		self._feature_set_domain = ">>> Document::setDomain. [old, new] = "
 
 		# save the results
 		self.vuln_frames = []  # the frame chain whose size >= 2
@@ -88,6 +89,28 @@ class ParseLog(object):
 
 		frame_chain.recordJSStack(stack)
 
+	def handleFeatureSetDomain(self, line, frame_chain, has_collected_metadata):
+		if not has_collected_metadata:
+			raise Exception("You are setting domain before collecting metadata. line is " + line)
+
+		line = line[line.index(self._feature_set_domain):]
+		_, _, remain = line.partition("=")
+		if remain == "":
+			raise Exception("Bad format for setting domain: " + line)
+
+		info = remain.split(',')
+		if len(info) != 2:
+			raise Exception("Bad format for setting domain: " + line)
+
+		old_domain = info[0].strip('\n').strip(' ').strip('"')
+		new_domain = info[1].strip('\n').strip(' ').strip('"')
+
+		frame_chain.updateTail({
+			'set_domain': new_domain,
+			# here the webpage exploits the Chrome's vuln in document.domain
+			'is_domain_vuln': (len(new_domain) > len(old_domain))
+		})
+
 	def handleFeatureFrameChain(self, line, frame_chain):
 
 		chain = ""
@@ -130,6 +153,9 @@ class ParseLog(object):
 					has_collected_metadata = True
 				elif self._feature_js_stack in line:
 					self.handleFeatureJSStack(line, frame_chain)
+				# if we set domain at that moment
+				elif self._feature_set_domain in line:
+					self.handleFeatureSetDomain(line, frame_chain, has_collected_metadata)
 
 		# here is |the end of the log| or |the end of the current series of frame chain|
 		self.completeCurrentFrameChain(chain, frame_chain)
@@ -179,8 +205,15 @@ class ParseLog(object):
 
 	# when two frames in a frame chain have different features
 	def hasDifferentFeatures(self, frame0, frame1):
+
 		# Feature 1: they have different effective domains
 		domain0, domain1 = frame0['domain'], frame1['domain']
+		# if frame0 has set its domain, update domain0
+		if 'set_domain' in frame0.keys():
+			if frame0['is_domain_vuln']:
+				return True
+			domain0 = frame0['set_domain']
+
 		if domain0 != domain1:
 			return True
 
@@ -229,7 +262,7 @@ class ParseLog(object):
 		# compute the |vuln_frame_chain_with_diff_features|
 		vuln_frame_chain_with_diff_features = []
 		for frame_chain in vuln_frame_chain_with_stack:
-			for i in range(0, len(frame_chain) - 1):
+			for i in range(0, len(frame_chain['frames']) - 1):
 				# get the two consecutive frames
 				frame0 = frame_chain['frames'][i]
 				frame1 = frame_chain['frames'][i+1]
@@ -264,3 +297,10 @@ def test(domain="yahoo.com"):
 			print(webpage.len_for_vuln_frame_chain)
 			print(webpage.len_for_vuln_frame_chain_with_stack)
 			print(webpage.len_for_vuln_frame_chain_with_diff_features)
+
+def test_log(log_file_name):
+	parser = ParseLog(log_file_name, domain="", is_debug=True)
+	webpage = parser.getVulnWebPage()
+	print(webpage.len_for_vuln_frame_chain)
+	print(webpage.len_for_vuln_frame_chain_with_stack)
+	print(webpage.len_for_vuln_frame_chain_with_diff_features)

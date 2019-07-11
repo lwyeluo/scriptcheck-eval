@@ -10,6 +10,7 @@ if __name__ == '__main__':
 	parser.add_argument('--parse-log', '-p', action='store_true', help="Parse the Chrome's logs")
 	parser.add_argument('--test-parse-log', '-t', type=str, const="yahoo.com", nargs="?",
 						help="Test the parser for Chrome's logs. The domain is [TEST_PARSE_LOG]")
+	parser.add_argument('--parse-log-with-filename', '-f', type=str, help="Parse the result for a give log")
 
 	args = parser.parse_args()
 
@@ -29,3 +30,7 @@ if __name__ == '__main__':
 		from result_handler.parseLog import test
 
 		test(args.test_parse_log)
+	elif args.parse_log_with_filename:
+		from result_handler.parseLog import test_log
+
+		test_log(args.parse_log_with_filename)
