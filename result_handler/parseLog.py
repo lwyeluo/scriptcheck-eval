@@ -160,6 +160,9 @@ class ParseLog(object):
 
 		f.close()
 
+	def hasJSStack(self, frame):
+		return 'js_stack' in frame.keys() and frame['js_stack']
+
 	# when two frames in a frame chain have different features
 	def hasDifferentFeatures(self, frame0, frame1):
 		# Feature 1: they have different effective domains
@@ -195,7 +198,7 @@ class ParseLog(object):
 		vuln_frame_chain_with_stack = []
 		for frame_chain in self.vuln_frames:
 			for frame in frame_chain['frames']:
-				if 'js_stack' in frame.keys() and frame['js_stack']:
+				if self.hasJSStack(frame):
 					vuln_frame_chain_with_stack.append(frame_chain)
 					break
 
@@ -210,7 +213,7 @@ class ParseLog(object):
 				frame1 = frame_chain['frames'][i+1]
 
 				# whether they has different features
-				if self.hasDifferentFeatures(frame0, frame1):
+				if self.hasDifferentFeatures(frame0, frame1) and self.hasJSStack(frame1):
 					vuln_frame_chain_with_diff_features.append(frame_chain)
 					break
 
