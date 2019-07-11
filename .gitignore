@@ -2,7 +2,7 @@ node_modules
 package-lock.json
 result.log.*
 
-top_sites_china
+top_sites_china/result/
 
 result_handler/tim-results/
 __pycache__/
