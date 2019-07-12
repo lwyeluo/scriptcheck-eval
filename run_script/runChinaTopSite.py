@@ -46,7 +46,10 @@ class TimTest(object):
 				url = urls[i].strip('\n').strip(' ')
 
 				# run that url
-				RunUrl(url, ret_dir + "/" + url.replace('/', ','))
+				filename = url.replace('/', ',')
+				if len(filename) > 20:
+					filename = url[:20]
+				RunUrl(url, ret_dir + "/" + filename)
 
 			f_url.close()
 
