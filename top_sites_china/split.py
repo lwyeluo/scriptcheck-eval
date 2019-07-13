@@ -76,7 +76,7 @@ def split(number_of_machines):
         execute("touch %s" % filename)
 
         end = start + domain_per_machine[i]
-        domain_at_machine = domains[start:end]
+        domain_at_machine = sites[start:end]
         start = end
 
         with open(filename, 'w') as f:
