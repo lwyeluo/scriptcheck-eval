@@ -80,5 +80,5 @@ def split(number_of_machines):
         start = end
 
         with open(filename, 'w') as f:
-            f.write(''.join(domain_at_machine))
+            f.write('\n'.join(domain_at_machine))
             f.close()
