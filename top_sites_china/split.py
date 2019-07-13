@@ -9,13 +9,18 @@ from utils.executor import execute
 def split(number_of_machines):
     # 1. load the number of webpages for each domain
     url_nums = []
-    domains = []
+    sites = []  # the sites has webpages
     with open(_domain_filename, 'r') as f:
         domains = f.readlines()
         for line in domains:
             domain = line.strip("\n").strip(' ')
 
             webpage_filename = os.path.join(_webpages_dir, domain)
+
+            if not os.path.exists(webpage_filename):
+                continue
+
+            sites.append(domain)
 
             # get the row number of that file
             with open(webpage_filename, 'r') as f_url:
@@ -28,7 +33,10 @@ def split(number_of_machines):
 
     f.close()
 
-    print(url_nums)
+    print(len(sites), len(url_nums))
+    for i in range(0, len(sites)):
+        print("%s: %d" % (sites[i], url_nums[i]), end="\t")
+    print("")
 
     # for each domain, we only handle at most |_max_webpage_in_one_domain| webpages
     webpage_nums = []
