@@ -26,11 +26,12 @@ class RunUrl(object):
 	def run(self):
 		ret_fd = open(self.ret_filename, 'w')
 
+		print(_chrome_binary)
 		process_chrome = subprocess.Popen([_chrome_binary, '--remote-debugging-port=9222'], stderr=ret_fd,
 										  stdout=ret_fd)
 		logging.info('>>> START ' + self.url)
 
-		time.sleep(5)
+		time.sleep(10)
 
 		print(_node_binary, _node_filename)
 		process_node = subprocess.Popen([_node_binary, _node_filename, self.url], stdout=subprocess.PIPE,

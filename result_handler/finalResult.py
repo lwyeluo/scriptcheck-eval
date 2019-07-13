@@ -129,3 +129,9 @@ class FinalResultList(object):
 			d = k + '\t' + v['filename'] + '\t' + v['length']  # url \t filename \t length
 			d += '\t' + str(v['MaxVulnFrameChain'])  # \t MaxVulnFrameChain
 			self._log.info(d)
+
+		number_of_tested_webpages = len(self._results)
+		number_of_vuln_webpages = len(self._webpages_with_vuln_frame_chain)
+		self._log.info("\n\nRATE: number_of_vuln_webpages/number_of_tested_webpages = %d, %d, %f%%" %
+					   (number_of_vuln_webpages, number_of_tested_webpages,
+						number_of_vuln_webpages / number_of_tested_webpages * 100))

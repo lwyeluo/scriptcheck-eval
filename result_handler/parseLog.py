@@ -57,6 +57,9 @@ class ParseLog(object):
 		url = info[0][2:]
 		domain = info[1][1:]
 
+		if url.find("chrome-search://") == 0:
+			return False
+
 		remain = info[2]
 		info = remain.split(',')
 		if len(info) != 5:
@@ -72,6 +75,8 @@ class ParseLog(object):
 		}
 
 		frame_chain.append(frame_info)
+
+		return True
 
 	def handleFeatureJSStack(self, line, frame_chain):
 		stack = []
@@ -119,6 +124,7 @@ class ParseLog(object):
 			print(">>> begin, line is: %s" % self.content[self.idx])
 
 		# handle all frames in that series of frame chain
+		invalid_frame_chain = False
 		while self.idx < self.length - 1:
 			line = line[line.index(self._feature_frame_chain):]
 			_, _, remain = line.partition("=")
@@ -130,7 +136,7 @@ class ParseLog(object):
 
 			# here is the next series of frame chain, so we should complete the
 			#  current one and decrease self.idx with 1
-			if chain_len == 1 and not frame_chain.isEmpty():
+			if chain_len == 1 and (invalid_frame_chain or not frame_chain.isEmpty()):
 				break
 
 			chain = info[1].strip(' ')
@@ -147,21 +153,29 @@ class ParseLog(object):
 				if self._feature_frame_chain in line:
 					break
 
+				if invalid_frame_chain:
+					continue
+
 				# get the metadata and JS stack for that frame
 				if self._feature_metadata in line:
-					self.handleFeatureMetadata(line, frame_chain, has_collected_metadata)
-					has_collected_metadata = True
+					if self.handleFeatureMetadata(line, frame_chain, has_collected_metadata):
+						has_collected_metadata = True
+					else:
+						invalid_frame_chain = True
 				elif self._feature_js_stack in line:
 					self.handleFeatureJSStack(line, frame_chain)
 				# if we set domain at that moment
 				elif self._feature_set_domain in line:
 					self.handleFeatureSetDomain(line, frame_chain, has_collected_metadata)
 
-			if not has_collected_metadata and self.idx >= self.length - 1:
+			if not invalid_frame_chain and not has_collected_metadata and self.idx >= self.length - 1:
 				return
 
 		# here is |the end of the log| or |the end of the current series of frame chain|
-		self.completeCurrentFrameChain(chain, frame_chain)
+		if len(frame_chain.frames) > 1:
+			print("!!!!!!!!" + chain + "\n\t\t" + str(frame_chain.frames) + "\n\n")
+		if not invalid_frame_chain:
+			self.completeCurrentFrameChain(chain, frame_chain)
 		if self.idx != self.length - 1:
 			self.idx -= 1
 
@@ -229,6 +243,9 @@ class ParseLog(object):
 
 		parent_origin0, parent_origin1 = frame0['parent_origin'], frame1['parent_origin']
 		parent_domain0, parent_domain1 = frame0['parent_domain'], frame1['parent_domain']
+
+		print(parent_origin0, ", ", parent_origin1)
+		print(parent_domain0, ", ", parent_domain1)
 		if parent_origin0 == '' or parent_origin1 == '':
 			# here one of them is the top frame
 			domain = parent_domain0 + parent_domain1
@@ -301,8 +318,8 @@ def test(domain="yahoo.com"):
 			print(webpage.len_for_vuln_frame_chain_with_stack)
 			print(webpage.len_for_vuln_frame_chain_with_diff_features)
 
-def test_log(log_file_name):
-	parser = ParseLog(log_file_name, domain="", is_debug=True)
+def test_log(log_file_name, domain):
+	parser = ParseLog(log_file_name, domain=domain, is_debug=True)
 	webpage = parser.getVulnWebPage()
 	print(webpage.len_for_vuln_frame_chain)
 	print(webpage.len_for_vuln_frame_chain_with_stack)
