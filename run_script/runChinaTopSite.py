@@ -2,10 +2,11 @@
 
 import logging
 import os
+import random
 from utils.executor import *
 from run_script.run import RunUrl
 
-from run_script import _result_log_dir_for_china, _dir
+from run_script import _result_log_dir_for_china, _dir, _random_sample
 from top_sites_china import _max_webpage_in_one_domain
 
 
@@ -49,6 +50,7 @@ class TimTest(object):
 				filename = url.replace('/', ',')
 				if len(filename) > 20:
 					filename = filename[:20]
+				filename += ''.join(random.sample(_random_sample, 10))
 				RunUrl(url, ret_dir + "/" + filename)
 
 			f_url.close()

@@ -2,6 +2,7 @@
 
 import os
 import logging
+import string
 from utils.executor import execute
 
 _dir = os.path.abspath(os.path.dirname(__file__))
@@ -32,3 +33,6 @@ _node_binary = "node"
 _node_filename = os.path.join(_dir, "checkUrlLoadCompleted.js")
 # timeout for each webpage
 _timeout = 60
+
+# for randomize the file name
+_random_sample = string.ascii_letters + string.digits
