@@ -628,7 +628,7 @@ rank	domain	url	reachable	len_for_vuln_frame_chain	len_with_stack	len_final	file
 -1	yandex.ru	https://yandex.ru/th	True	1	0	0	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/yandex.ru/https:,,yandex.ru,th
 -1	yandex.ru	https://yandex.com/c	True	99	99	0	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/yandex.ru/https:,,yandex.com,c
 -1	yandex.ru	https://collections.	True	1	0	0	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/yandex.ru/https:,,collections.
--1	yandex.ru	https://rasp.yandex.	True	99	99	2	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/yandex.ru/https:,,rasp.yandex.
+-1	yandex.ru	https://rasp.yandex.	True	99	99	0	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/yandex.ru/https:,,rasp.yandex.
 -1	yandex.ru	https://translate.ya	True	2	0	0	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/yandex.ru/https:,,translate.ya
 -1	yandex.ru	https://news.yandex.	True	99	99	0	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/yandex.ru/https:,,news.yandex.
 -1	yandex.ru	https://tv.yandex.ru	True	3	3	0	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/yandex.ru/https:,,tv.yandex.ru
@@ -2738,7 +2738,7 @@ rank	domain	url	reachable	len_for_vuln_frame_chain	len_with_stack	len_final	file
 -1	hexun.com	http://caidao.hexun.	True	1	0	0	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/hexun.com/http:,,caidao.hexun.
 -1	hexun.com	http://stock.hexun.c	True	1	0	0	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/hexun.com/http:,,stock.hexun.c
 -1	hexun.com	http://trust.hexun.c	True	1	0	0	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/hexun.com/http:,,trust.hexun.c
--1	hexun.com	http://funds.hexun.c	True	3	3	3	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/hexun.com/http:,,funds.hexun.c
+-1	hexun.com	http://funds.hexun.c	True	3	3	0	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/hexun.com/http:,,funds.hexun.c
 -1	hexun.com	http://news.hexun.co	True	1	0	0	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/hexun.com/http:,,news.hexun.co
 -1	hexun.com	http://i.hexun.com	True	1	0	0	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/hexun.com/http:,,i.hexun.com
 -1	hexun.com	https://auto.hexun.c	True	1	0	0	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/hexun.com/https:,,auto.hexun.c
@@ -3992,8 +3992,8 @@ length	#webpages	webpages
 # TABLE for frame chain (with diff features) distribution  #
 ############################################################
 length	#webpages	webpages
-2	9	https://rasp.yandex.,http://www.chewen.com/model50/,http://www.chewen.com/journal/201603/854847.html,http://www.chewen.com/journal/201907/875210.html,http://www.chewen.com/journal/201906/874940.html,http://www.chewen.com/model68/,http://www.chewen.com/journal/201311/712158.html,http://www.chewen.com/about/links.html,http://ask.chewen.com/3249111.html
-3	2	http://funds.hexun.c,https://blog.csdn.net/BENDAXIANNMD
+2	8	http://www.chewen.com/model50/,http://www.chewen.com/journal/201603/854847.html,http://www.chewen.com/journal/201907/875210.html,http://www.chewen.com/journal/201906/874940.html,http://www.chewen.com/model68/,http://www.chewen.com/journal/201311/712158.html,http://www.chewen.com/about/links.html,http://ask.chewen.com/3249111.html
+3	1	https://blog.csdn.net/BENDAXIANNMD
 5	1	http://www.3000.com/
 99	1	https://www.yahoo.com/lifestyle/horoscope/cancer/daily-20190710.html
 
@@ -4004,9 +4004,7 @@ length	#webpages	webpages
 #######################################
 
 Url	filename	MaxLengthOfFrameChain	MaxVulnFrameChain
-https://rasp.yandex.	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/yandex.ru/https:,,rasp.yandex.	2	-5:3_https://rasp.yandex.ru/-5:5_https://yastatic.net/
 https://www.yahoo.com/lifestyle/horoscope/cancer/daily-20190710.html	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/yahoo.com/https:,,www.yahoo.com,lifestyle,horoscope,cancer,daily-20190710.html	99	-5:8_https://s.yimg.com/-5:23_https://s.yimg.com/-5:8_https://s.yimg.com/-5:23_https://s.yimg.com/-5:8_https://s.yimg.com/-5:23_https://s.yimg.com/-5:8_https://s.yimg.com/-5:23_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:11_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:11_https://s.yimg.com/-5:8_https://s.yimg.com/-5:11_https://s.yimg.com/-5:8_https://s.yimg.com/-5:11_https://s.yimg.com/-5:8_https://s.yimg.com/-5:11_https://s.yimg.com/-5:8_https://s.yimg.com/-5:11_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:11_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:11_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:24_https://s.yimg.com/-5:8_https://s.yimg.com/-5:24_https://s.yimg.com/-5:8_https://s.yimg.com/-5:24_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/-5:16_https://s.yimg.com/-5:8_https://s.yimg.com/
-http://funds.hexun.c	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/hexun.com/http:,,funds.hexun.c	3	-5:3_http://funds.hexun.com/-5:5_https://h10hxsame.hexun.com/-5:3_http://funds.hexun.com/
 http://www.3000.com/	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/4399.com/http:,,www.3000.com,	5	-5:6_http://www.3000.com/-5:3_http://www.3000.com/-5:6_http://www.3000.com/-5:4_http://api.3000test.com/-5:3_http://www.3000.com/
 http://www.chewen.com/model50/	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/chewen.com/http:,,www.chewen.com,model50,	2	-5:6_http://www.chewen.com/-5:3_http://www.chewen.com/
 http://www.chewen.com/journal/201603/854847.html	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/chewen.com/http:,,www.chewen.com,journal,201603,854847.html	2	-5:7_http://www.chewen.com/-5:3_http://www.chewen.com/
@@ -4019,4 +4017,4 @@ http://ask.chewen.com/3249111.html	/Users/lwyeluo/Workspaces/lab-project/browser
 https://blog.csdn.net/BENDAXIANNMD	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/result_handler/tim-results-china/csdn.net/https:,,blog.csdn.net,BENDAXIANNMD	3	-5:4_https://edu.csdn.net/-5:3_https://blog.csdn.net/-5:4_https://edu.csdn.net/
 
 
-RATE: number_of_vuln_webpages/number_of_tested_webpages = 13, 3887, 0.334448%
+RATE: number_of_vuln_webpages/number_of_tested_webpages = 11, 3887, 0.282995%

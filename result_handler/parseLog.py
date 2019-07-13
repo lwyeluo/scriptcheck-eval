@@ -19,6 +19,7 @@ class ParseLog(object):
 								 " parent_origin, parent_domain, parent_routing_id] = "
 		self._feature_js_stack = ">>> BindingSecurity::PrintStack. stack is "
 		self._feature_set_domain = ">>> Document::setDomain. [old, new] = "
+		self._feature_triggered_by_event = ">>> [Listener] EventTarget::FireEventListeners. [event, url] = "
 
 		# save the results
 		self.vuln_frames = []  # the frame chain whose size >= 2
@@ -42,7 +43,7 @@ class ParseLog(object):
 	def completeCurrentFrameChain(self, chain, frame_chain):
 		frame_chain.recordChain(chain)
 
-	def handleFeatureMetadata(self, line, frame_chain, has_collected_metadata):
+	def handleFeatureMetadata(self, line, frame_chain, has_collected_metadata, triggered_by_event=None):
 		if has_collected_metadata:
 			# the metadata has been collected, but we find another metadata
 			#  meaning that the previous one is not correct
@@ -73,6 +74,8 @@ class ParseLog(object):
 			'parent_domain': info[3].strip(' ').strip('"').strip('\n'),
 			'parent_id': info[4].strip(' ').strip('"').strip('\n'),
 		}
+		if triggered_by_event:
+			frame_info['triggered_by_event'] = triggered_by_event
 
 		frame_chain.append(frame_info)
 
@@ -116,6 +119,20 @@ class ParseLog(object):
 			'is_domain_vuln': (len(new_domain) > len(old_domain))
 		})
 
+	def handleFeatureTriggeredByEvent(self, line):
+		line = line[line.index(self._feature_triggered_by_event):]
+		_, _, remain = line.partition("=")
+		if remain == "":
+			raise Exception("Bad format for firing events: " + line)
+
+		info = remain.split('"')
+		event = info[1].strip(' ')
+		if self.is_debug:
+			print("line EVENT [%s] %s" % (event, line))
+		if event in ["load", "readystatechange", "unload"]:
+			return event
+		return None
+
 	def handleFeatureFrameChain(self, line, frame_chain):
 
 		chain = ""
@@ -124,7 +141,12 @@ class ParseLog(object):
 			print(">>> begin, line is: %s" % self.content[self.idx])
 
 		# handle all frames in that series of frame chain
+
+		# when the url starts with chrome-search://, meaning that the web page has not been loaded.
+		#  We use invalid_frame_chain to record that situation
 		invalid_frame_chain = False
+		# A frame chain can be triggered by onload/onreadstatechange... we record that information
+		is_triggered_by_event = None
 		while self.idx < self.length - 1:
 			line = line[line.index(self._feature_frame_chain):]
 			_, _, remain = line.partition("=")
@@ -158,8 +180,9 @@ class ParseLog(object):
 
 				# get the metadata and JS stack for that frame
 				if self._feature_metadata in line:
-					if self.handleFeatureMetadata(line, frame_chain, has_collected_metadata):
+					if self.handleFeatureMetadata(line, frame_chain, has_collected_metadata, is_triggered_by_event):
 						has_collected_metadata = True
+						is_triggered_by_event = None
 					else:
 						invalid_frame_chain = True
 				elif self._feature_js_stack in line:
@@ -167,6 +190,8 @@ class ParseLog(object):
 				# if we set domain at that moment
 				elif self._feature_set_domain in line:
 					self.handleFeatureSetDomain(line, frame_chain, has_collected_metadata)
+				elif self._feature_triggered_by_event in line:
+					is_triggered_by_event = self.handleFeatureTriggeredByEvent(line)
 
 			if not invalid_frame_chain and not has_collected_metadata and self.idx >= self.length - 1:
 				return
@@ -222,6 +247,11 @@ class ParseLog(object):
 
 	# when two frames in a frame chain have different features
 	def hasDifferentFeatures(self, frame0, frame1):
+
+		if 'triggered_by_event' in frame1.keys():
+			if self.is_debug:
+				print("They are triggered by event [%s]" % frame1['triggered_by_event'])
+			return False
 
 		# Feature 1: they have different effective domains
 		domain0, domain1 = frame0['domain'], frame1['domain']
@@ -285,7 +315,7 @@ class ParseLog(object):
 			for i in range(0, len(frame_chain['frames']) - 1):
 				# get the two consecutive frames
 				frame0 = frame_chain['frames'][i]
-				frame1 = frame_chain['frames'][i+1]
+				frame1 = frame_chain['frames'][i + 1]
 
 				# whether they has different features
 				if self.hasDifferentFeatures(frame0, frame1) and self.hasJSStack(frame1):
@@ -317,6 +347,7 @@ def test(domain="yahoo.com"):
 			print(webpage.len_for_vuln_frame_chain)
 			print(webpage.len_for_vuln_frame_chain_with_stack)
 			print(webpage.len_for_vuln_frame_chain_with_diff_features)
+
 
 def test_log(log_file_name, domain):
 	parser = ParseLog(log_file_name, domain=domain, is_debug=True)
