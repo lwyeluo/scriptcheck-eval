@@ -21,7 +21,7 @@ class FindSubDomain(object):
 		self.threads = 40
 		self.ports = "80,443"
 		self.verbose = True
-		self.enable_bruteforce = False
+		self.enable_bruteforce = True
 
 	def run(self):
 		print(">>> parse the sub-domains for %s" % self.domain)
