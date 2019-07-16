@@ -9,6 +9,9 @@ top_sites_china/domain-split/
 result_handler/tim-results/
 result_handler/tim-results-china/
 result_handler/tim-results-log/
+result_handler/tim-results-china-*
+
 __pycache__/
 .DS_Store
 .idea/
+*.pyc
