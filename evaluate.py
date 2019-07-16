@@ -20,10 +20,16 @@ if __name__ == '__main__':
 						help="Parse the result for a give log. Use it with -d.")
 	parser.add_argument('--parse-log-with-domain', '-d', type=str, metavar="DOMAIN",
 						help="Parse the result for a give domain. Use it with -f.")
+	parser.add_argument('--subdomains', action='store_true',
+						help='Parse the sub-domains for a given domain. Use it with -d')
 
 	args = parser.parse_args()
 
-	if args.parse_log:
+	if args.subdomains:
+		from url_list.findSubDomains import run
+
+		run(args.parse_log_with_domain)
+	elif args.parse_log:
 
 		if args.parse_log == 'Alexa':
 			from result_handler import parseAlexaResult
@@ -57,6 +63,8 @@ if __name__ == '__main__':
 		from result_handler.parseLog import test_log
 
 		test_log(args.parse_log_with_filename, args.parse_log_with_domain)
+
+
 
 	print("\n")
 	print(args)

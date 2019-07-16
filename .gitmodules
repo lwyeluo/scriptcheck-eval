@@ -1,3 +1,3 @@
-[submodule "subdomain-tracker"]
-	path = subdomain-tracker
+[submodule "subdomain_tracker"]
+	path = subdomain_tracker
 	url = https://gitlab.com/luowu/Sublist3r.git

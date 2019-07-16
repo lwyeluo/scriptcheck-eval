@@ -1,4 +1,24 @@
-## for China top 500 sites
+## install
+
+```
+git pull origin master
+# or git clone ...
+git submodule update --init --recursive
+
+cd subdomain-tracker
+pip3 install -r requirements.txt
+cd ../
+```
+
+### for sub-domains
+
+```
+python3 evaluate.py -d blog.csdn.net --subdomains
+```
+
+## run
+
+### for China top 500 sites
 
 ```
 npm install chrome-remote-interface
@@ -17,15 +37,4 @@ python3 evaluate.py -c ID
 
 # parse the log
 python3 evaluate.py -p China
-```
-
-## for sub-domains
-
-```
-domain=chinacloudsites.cn
-
-# get the subdomains
-cd subdomain-tracker
-pip install -r requirements.txt
-python sublist3r.py -b -t 16 -d $domain -o url_list/subdomains/$domain -v
 ```
