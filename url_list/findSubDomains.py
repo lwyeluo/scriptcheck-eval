@@ -19,24 +19,16 @@ class FindSubDomain(object):
 		self.output_filename = os.path.join(filepath, "raw_subdomains")
 
 		self.threads = 40
-		self.ports = "80,443"
+		self.ports = None
 		self.verbose = True
 		self.enable_bruteforce = True
 
 	def run(self):
 		print(">>> parse the sub-domains for %s" % self.domain)
 		subdomains = sublist3r.main(self.domain, self.threads,
-									None, self.ports, silent=False,
+									self.output_filename, self.ports, silent=False,
 									verbose=self.verbose,
 									enable_bruteforce=self.enable_bruteforce, engines=None)
-
-		print(">>> record the results")
-		with open(self.output_filename, 'w') as f:
-			if self.ports and type(subdomains) is dict:
-				for subdomain, ports in subdomains.items():
-					f.write("%s\t%s\n" % (subdomain, ','.join(ports)))
-
-			f.close()
 		print(">>> done!")
 
 
