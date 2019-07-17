@@ -3,7 +3,6 @@
 ```
 git pull origin master
 # or git clone ...
-git submodule update --init --recursive
 
 cd subdomain-tracker
 pip3 install -r requirements.txt
@@ -16,11 +15,11 @@ pip3 install threadpool
 
 ```
 # get subdomains
-python3 evaluate.py -d blog.csdn.net --subdomains
+python3 evaluate.py --parse-subdomains -d blog.csdn.net
 # get the home pages for these subdomains
 python3 evaluate.py --parse-homepage -d blog.csdn.net
 # crawler urls for these subdomains
-...
+TODO
 ```
 
 ## run

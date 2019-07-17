@@ -25,12 +25,16 @@ if __name__ == '__main__':
 	parser.add_argument('--parse-log-with-domain', '-d', type=str, metavar="DOMAIN",
 						help="Parse the result for a give domain. Use it with -f.")
 
-	# --subdomains -d DOMAIN
-	parser.add_argument('--subdomains', action='store_true',
+	# --parse-subdomains -d DOMAIN
+	parser.add_argument('--parse-subdomains', action='store_true',
 						help='Parse the sub-domains for a given domain. Use it with -d')
 	# --parse-homepage -d DOMAIN | --parse-homepage -f LIST_FILE
 	parser.add_argument('--parse-homepage', action='store_true',
 						help='Parse the homepage-list for a DOMAIN (with -d) or site-list (with -f)')
+
+	# --run-subdomains -d DOMAIN
+	parser.add_argument('--run-subdomains', action='store_true',
+						help="Run the subdomain's url-list for a DOMAIN (with -d)")
 
 	args = parser.parse_args()
 
@@ -46,14 +50,24 @@ if __name__ == '__main__':
 		else:
 			raise Exception("Please use '--parse-url -d DOMAIN' or '--parse-url -f LIST_FILE' ")
 
-	elif args.subdomains:
-		# --subdomains -d DOMAIN
+	elif args.parse_subdomains:
+		# --parse-subdomains -d DOMAIN
 		if not args.parse_log_with_domain:
-			raise Exception("Please use --subdomains -d DOMAIN")
+			raise Exception("Please use --parse-subdomains -d DOMAIN")
 
 		from url_list.findSubDomains import run
 
 		run(args.parse_log_with_domain)
+
+	elif args.run_subdomains:
+		# --run-subdomains -d DOMAIN
+		if not args.parse_log_with_domain:
+			raise Exception("Please use --run-subdomains -d DOMAIN")
+
+		from run_script.runSubDomains import run
+
+		run(args.parse_log_with_domain)
+
 	elif args.parse_log:
 		# -p China|Alexa
 

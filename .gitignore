@@ -11,6 +11,8 @@ result_handler/tim-results-china/
 result_handler/tim-results-log/
 result_handler/tim-results-china-*
 
+url_list/subdomains/*/results/
+
 __pycache__/
 .DS_Store
 .idea/
