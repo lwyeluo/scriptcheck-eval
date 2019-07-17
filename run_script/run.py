@@ -6,7 +6,7 @@ import os
 from threading import Timer
 from utils.executor import *
 
-from run_script import _chrome_binary, _node_binary, _node_filename, _timeout
+from run_script import _chrome_binary, _node_binary, _node_filename, _timeout, _timeout_for_node
 
 
 class RunUrl(object):
@@ -16,9 +16,9 @@ class RunUrl(object):
 
 		# some features logged by _node_filename
 		self.features_completed = '''result: { type: 'string', value: 'complete' }'''
-		self.features_no_subframes = "\\n@@@@@@@@@@NO subframes"
+		self.features_no_subframes = "@@@@@@@@@@NO subframes"
 		self.features_parent_frame = "\\n##########"
-		self.features_child_frame = "\\n**********"
+		self.features_child_frame = "**********"
 
 		# the information for frames
 		self.frame_info = {}  # {'parent': {'url': url, 'domain': domain}, 'frameID': {'url': url, 'domain': domain}}
@@ -69,7 +69,7 @@ class RunUrl(object):
 		time.sleep(10)
 
 		print(_node_binary, _node_filename)
-		process_node = subprocess.Popen([_node_binary, _node_filename, self.url], stdout=subprocess.PIPE,
+		process_node = subprocess.Popen([_node_binary, _node_filename, self.url, str(_timeout_for_node)], stdout=subprocess.PIPE,
 										stderr=subprocess.PIPE, preexec_fn=os.setsid)
 		# create a timer
 		my_timer = Timer(_timeout, self.timeoutCallback, [process_node])
@@ -78,10 +78,13 @@ class RunUrl(object):
 		stdout, _ = process_node.communicate()
 		if self.features_completed in str(stdout):
 			logging.info("\t\tweb page [%s] is completed!" % self.url)
-			# collect the url and domains for all (same-origin) frames
-			self.collectInformationForFrames(str(stdout))
 		else:
+			# print(str(stdout))
 			logging.info("\t\tweb page [%s] is TIMEOUT!" % self.url)
+
+		# collect the url and domains for all (same-origin) frames
+		self.collectInformationForFrames(str(stdout))
+
 		logging.info('>>> FINISH ' + self.url)
 
 		my_timer.cancel()

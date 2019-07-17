@@ -41,7 +41,7 @@ class RunSubDomains(object):
                 r = RunUrl(url, self._results_dir + "/" + filename)
 
                 # collect the frame info for that url. See |RunUrl.frame_info|
-                logging.info(r.frame_info)
+                logging.info("######## frame info is: " + str(r.frame_info))
                 if r.frame_info and len(r.frame_info.keys()) > 1:
                     logging.info("\t\t---> Multiple FRAMES")
 

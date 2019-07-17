@@ -36,7 +36,8 @@ _node_binary = "node"
 # get the nodejs script, which checks the loading status and gets domains for all same-origin frames
 _node_filename = os.path.join(_dir, "find_subframes.js")
 # timeout for each webpage
-_timeout = 60
+_timeout = 180
+_timeout_for_node = 10
 
 # for randomize the file name
 _random_sample = string.ascii_letters + string.digits
