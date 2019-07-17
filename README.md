@@ -13,7 +13,12 @@ cd ../
 ### for sub-domains
 
 ```
+# get subdomains
 python3 evaluate.py -d blog.csdn.net --subdomains
+# get the home pages for these subdomains
+python3 evaluate.py --parse-homepage -d blog.csdn.net
+# crawler urls for these subdomains
+...
 ```
 
 ## run

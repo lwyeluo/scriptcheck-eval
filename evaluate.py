@@ -28,14 +28,14 @@ if __name__ == '__main__':
 	# --subdomains -d DOMAIN
 	parser.add_argument('--subdomains', action='store_true',
 						help='Parse the sub-domains for a given domain. Use it with -d')
-	# --parse-url -d DOMAIN | --parse-url -f LIST_FILE
-	parser.add_argument('--parse-url', action='store_true',
-						help='Parse the url-list for a DOMAIN (with -d) or site-list (with -f)')
+	# --parse-homepage -d DOMAIN | --parse-homepage -f LIST_FILE
+	parser.add_argument('--parse-homepage', action='store_true',
+						help='Parse the homepage-list for a DOMAIN (with -d) or site-list (with -f)')
 
 	args = parser.parse_args()
 
-	if args.parse_url:
-		# --parse-url -d DOMAIN | --parse-url -f LIST_FILE
+	if args.parse_homepage:
+		# --parse-homepage -d DOMAIN | --parse-homepage -f LIST_FILE
 		if args.parse_log_with_domain:
 			from url_crawler.subdomains import run
 
