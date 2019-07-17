@@ -8,6 +8,8 @@ git submodule update --init --recursive
 cd subdomain-tracker
 pip3 install -r requirements.txt
 cd ../
+
+pip3 install threadpool
 ```
 
 ### for sub-domains
