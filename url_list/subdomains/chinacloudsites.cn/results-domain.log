@@ -1,0 +1,2411 @@
+/home/wluo/chromium/tick/src/out/Default/chrome
+>>> initial file name is /home/wluo/workspace/tim-evaluate/url_list/subdomains/chinacloudsites.cn/reachable_subdomains
+[url, filename] = https://120.chinacloudsites.cn, https:,,120.chinacloudsites.cnMkH8hCDmlS
+>>> START https://120.chinacloudsites.cn
+		web page [https://120.chinacloudsites.cn] is completed!
+>>> FINISH https://120.chinacloudsites.cn
+	>>> kill Chrome [18699]
+######## frame info is: {'main': {'domain': '120.chinacloudsites.cn', 'url': 'https://120.chinacloudsites.cn/'}}
+[url, filename] = https://adminportal.chinacloudsites.cn, https:,,adminportal.chinacloudQCINcRfeZM
+>>> START https://adminportal.chinacloudsites.cn
+		web page [https://adminportal.chinacloudsites.cn] is completed!
+>>> FINISH https://adminportal.chinacloudsites.cn
+	>>> kill Chrome [18815]
+######## frame info is: {'main': {'domain': 'adminportal.chinacloudsites.cn', 'url': 'https://adminportal.chinacloudsites.cn/Admin/Start'}}
+[url, filename] = https://adtest.chinacloudsites.cn, https:,,adtest.chinacloudsitesnNciho1a4e
+>>> START https://adtest.chinacloudsites.cn
+		web page [https://adtest.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://adtest.chinacloudsites.cn
+	>>> kill Chrome [18938]
+######## frame info is: {'main': {'domain': 'adtest.chinacloudsites.cn', 'url': 'https://adtest.chinacloudsites.cn/'}}
+[url, filename] = https://ams.chinacloudsites.cn, https:,,ams.chinacloudsites.cnnEoNrzCRHD
+>>> START https://ams.chinacloudsites.cn
+		web page [https://ams.chinacloudsites.cn] is completed!
+>>> FINISH https://ams.chinacloudsites.cn
+	>>> kill Chrome [19063]
+######## frame info is: {'main': {'domain': 'ams.chinacloudsites.cn', 'url': 'https://ams.chinacloudsites.cn/login/login.php'}}
+[url, filename] = https://analytics.chinacloudsites.cn, https:,,analytics.chinacloudsi3HwmceUVna
+>>> START https://analytics.chinacloudsites.cn
+		web page [https://analytics.chinacloudsites.cn] is completed!
+>>> FINISH https://analytics.chinacloudsites.cn
+	>>> kill Chrome [19185]
+######## frame info is: {'main': {'domain': 'analytics.chinacloudsites.cn', 'url': 'https://analytics.chinacloudsites.cn/'}}
+[url, filename] = https://android.chinacloudsites.cn, https:,,android.chinacloudsitewaZSWMNj8i
+>>> START https://android.chinacloudsites.cn
+		web page [https://android.chinacloudsites.cn] is completed!
+>>> FINISH https://android.chinacloudsites.cn
+	>>> kill Chrome [19299]
+######## frame info is: {'main': {'domain': 'android.chinacloudsites.cn', 'url': 'https://android.chinacloudsites.cn/'}}
+[url, filename] = https://admin1.chinacloudsites.cn, https:,,admin1.chinacloudsiteseKTU3lfSW5
+>>> START https://admin1.chinacloudsites.cn
+		web page [https://admin1.chinacloudsites.cn] is completed!
+>>> FINISH https://admin1.chinacloudsites.cn
+	>>> kill Chrome [19415]
+######## frame info is: {'main': {'domain': '40.73.117.211', 'url': 'http://40.73.117.211:1888/sso1/wwpbaseobjects.seclogin.aspx?returnUrl=http%3a%2f%2f40.73.117.211%3a1888%2fadmin'}}
+[url, filename] = https://01.chinacloudsites.cn, https:,,01.chinacloudsites.cnhRAmZbHiPa
+>>> START https://01.chinacloudsites.cn
+		web page [https://01.chinacloudsites.cn] is completed!
+>>> FINISH https://01.chinacloudsites.cn
+	>>> kill Chrome [19583]
+######## frame info is: {'main': {'domain': '01.chinacloudsites.cn', 'url': 'https://01.chinacloudsites.cn/Login.aspx'}}
+[url, filename] = https://233.chinacloudsites.cn, https:,,233.chinacloudsites.cnpG4UHayWjt
+>>> START https://233.chinacloudsites.cn
+		web page [https://233.chinacloudsites.cn] is completed!
+>>> FINISH https://233.chinacloudsites.cn
+	>>> kill Chrome [19700]
+######## frame info is: {'main': {'domain': '233.chinacloudsites.cn', 'url': 'https://233.chinacloudsites.cn/'}}
+[url, filename] = https://aptest.chinacloudsites.cn, https:,,aptest.chinacloudsitesxcVDzdrGjK
+>>> START https://aptest.chinacloudsites.cn
+		web page [https://aptest.chinacloudsites.cn] is completed!
+>>> FINISH https://aptest.chinacloudsites.cn
+	>>> kill Chrome [19814]
+######## frame info is: {'main': {'domain': 'aptest.chinacloudsites.cn', 'url': 'https://aptest.chinacloudsites.cn/'}}
+[url, filename] = https://app.chinacloudsites.cn, https:,,app.chinacloudsites.cn35rEKMAcWH
+>>> START https://app.chinacloudsites.cn
+		web page [https://app.chinacloudsites.cn] is completed!
+>>> FINISH https://app.chinacloudsites.cn
+	>>> kill Chrome [19934]
+######## frame info is: {'main': {'domain': 'app.chinacloudsites.cn', 'url': 'https://app.chinacloudsites.cn/'}}
+[url, filename] = https://auth1.chinacloudsites.cn, https:,,auth1.chinacloudsites.yjC3pV9erb
+>>> START https://auth1.chinacloudsites.cn
+		web page [https://auth1.chinacloudsites.cn] is completed!
+>>> FINISH https://auth1.chinacloudsites.cn
+	>>> kill Chrome [20050]
+######## frame info is: {'main': {'domain': 'auth1.chinacloudsites.cn', 'url': 'https://auth1.chinacloudsites.cn/'}}
+[url, filename] = https://bee.chinacloudsites.cn, https:,,bee.chinacloudsites.cn5buDAchWj6
+>>> START https://bee.chinacloudsites.cn
+		web page [https://bee.chinacloudsites.cn] is completed!
+>>> FINISH https://bee.chinacloudsites.cn
+	>>> kill Chrome [20165]
+######## frame info is: {'main': {'domain': 'bee.chinacloudsites.cn', 'url': 'https://bee.chinacloudsites.cn/#/my'}}
+[url, filename] = https://beef.chinacloudsites.cn, https:,,beef.chinacloudsites.c0CK63xhOYX
+>>> START https://beef.chinacloudsites.cn
+		web page [https://beef.chinacloudsites.cn] is completed!
+>>> FINISH https://beef.chinacloudsites.cn
+	>>> kill Chrome [20286]
+######## frame info is: {'main': {'domain': 'beef.chinacloudsites.cn', 'url': 'https://beef.chinacloudsites.cn/'}}
+[url, filename] = https://automation.chinacloudsites.cn, https:,,automation.chinacloudsQaHx2W5Y7V
+>>> START https://automation.chinacloudsites.cn
+		web page [https://automation.chinacloudsites.cn] is completed!
+>>> FINISH https://automation.chinacloudsites.cn
+	>>> kill Chrome [20409]
+######## frame info is: {'main': {'domain': 'automation.chinacloudsites.cn', 'url': 'https://automation.chinacloudsites.cn/'}}
+[url, filename] = https://batch.chinacloudsites.cn, https:,,batch.chinacloudsites.f0r8tohebu
+>>> START https://batch.chinacloudsites.cn
+		web page [https://batch.chinacloudsites.cn] is completed!
+>>> FINISH https://batch.chinacloudsites.cn
+	>>> kill Chrome [20530]
+######## frame info is: {'main': {'domain': 'batch.chinacloudsites.cn', 'url': 'https://batch.chinacloudsites.cn/Account/Login?ReturnUrl=%2F'}}
+[url, filename] = https://anthony.chinacloudsites.cn, https:,,anthony.chinacloudsitezIuS5xQyGF
+>>> START https://anthony.chinacloudsites.cn
+		web page [https://anthony.chinacloudsites.cn] is completed!
+>>> FINISH https://anthony.chinacloudsites.cn
+	>>> kill Chrome [20647]
+######## frame info is: {'main': {'domain': 'anthony.chinacloudsites.cn', 'url': 'https://anthony.chinacloudsites.cn/'}}
+[url, filename] = https://account.chinacloudsites.cn, https:,,account.chinacloudsitebpC7odSvhO
+>>> START https://account.chinacloudsites.cn
+		web page [https://account.chinacloudsites.cn] is completed!
+>>> FINISH https://account.chinacloudsites.cn
+	>>> kill Chrome [20764]
+######## frame info is: {'main': {'domain': 'account.chinacloudsites.cn', 'url': 'https://account.chinacloudsites.cn/'}}
+[url, filename] = https://3d.chinacloudsites.cn, https:,,3d.chinacloudsites.cn78GjLSzFUn
+>>> START https://3d.chinacloudsites.cn
+		web page [https://3d.chinacloudsites.cn] is completed!
+>>> FINISH https://3d.chinacloudsites.cn
+	>>> kill Chrome [20880]
+######## frame info is: {'main': {'domain': '3d.chinacloudsites.cn', 'url': 'https://3d.chinacloudsites.cn/'}}
+[url, filename] = https://algo.chinacloudsites.cn, https:,,algo.chinacloudsites.cy4LAiSeg1l
+>>> START https://algo.chinacloudsites.cn
+		web page [https://algo.chinacloudsites.cn] is completed!
+>>> FINISH https://algo.chinacloudsites.cn
+	>>> kill Chrome [21018]
+######## frame info is: {'main': {'domain': 'algo.chinacloudsites.cn', 'url': 'https://algo.chinacloudsites.cn/login?ReturnUrl=%2F'}}
+[url, filename] = https://123.chinacloudsites.cn, https:,,123.chinacloudsites.cnFKesx0EWAQ
+>>> START https://123.chinacloudsites.cn
+		web page [https://123.chinacloudsites.cn] is completed!
+>>> FINISH https://123.chinacloudsites.cn
+	>>> kill Chrome [21131]
+######## frame info is: {'main': {'domain': '123.chinacloudsites.cn', 'url': 'https://123.chinacloudsites.cn/'}}
+[url, filename] = https://biz.chinacloudsites.cn, https:,,biz.chinacloudsites.cnMQlHSzZD2d
+>>> START https://biz.chinacloudsites.cn
+		web page [https://biz.chinacloudsites.cn] is completed!
+>>> FINISH https://biz.chinacloudsites.cn
+	>>> kill Chrome [21249]
+######## frame info is: {'main': {'domain': 'biz.chinacloudsites.cn', 'url': 'https://biz.chinacloudsites.cn/Account/Login?ReturnUrl=%2F'}}
+[url, filename] = https://ability.chinacloudsites.cn, https:,,ability.chinacloudsiteR6l52eZMnJ
+>>> START https://ability.chinacloudsites.cn
+		web page [https://ability.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://ability.chinacloudsites.cn
+	>>> kill Chrome [21362]
+######## frame info is: {'main': {'domain': 'ability.chinacloudsites.cn', 'url': 'https://ability.chinacloudsites.cn/'}}
+[url, filename] = https://adserver.chinacloudsites.cn, https:,,adserver.chinacloudsit3nTGqcxmX2
+>>> START https://adserver.chinacloudsites.cn
+		web page [https://adserver.chinacloudsites.cn] is completed!
+>>> FINISH https://adserver.chinacloudsites.cn
+	>>> kill Chrome [21499]
+######## frame info is: {'main': {'domain': 'adserver.chinacloudsites.cn', 'url': 'https://adserver.chinacloudsites.cn/www/admin/index.php'}}
+[url, filename] = https://abc.chinacloudsites.cn, https:,,abc.chinacloudsites.cnVFWltrpiGU
+>>> START https://abc.chinacloudsites.cn
+		web page [https://abc.chinacloudsites.cn] is completed!
+>>> FINISH https://abc.chinacloudsites.cn
+	>>> kill Chrome [21617]
+######## frame info is: {'main': {'domain': 'abc.chinacloudsites.cn', 'url': 'https://abc.chinacloudsites.cn/'}}
+[url, filename] = https://10010.chinacloudsites.cn, https:,,10010.chinacloudsites.y52HgaVqmF
+>>> START https://10010.chinacloudsites.cn
+		web page [https://10010.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://10010.chinacloudsites.cn
+	>>> kill Chrome [21730]
+######## frame info is: {'main': {'domain': 'www.icsmf.com', 'url': 'http://www.icsmf.com/'}, '0': {'domain': '', 'url': ''}}
+		---> Multiple FRAMES
+[url, filename] = https://bees.chinacloudsites.cn, https:,,bees.chinacloudsites.cQjr2OvCH0x
+>>> START https://bees.chinacloudsites.cn
+		web page [https://bees.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://bees.chinacloudsites.cn
+	>>> kill Chrome [21862]
+######## frame info is: {'main': {'domain': 'bees.chinacloudsites.cn', 'url': 'https://bees.chinacloudsites.cn/#/login?redirect=%2Fmy'}}
+[url, filename] = https://111.chinacloudsites.cn, https:,,111.chinacloudsites.cnvuMAbqtaZX
+>>> START https://111.chinacloudsites.cn
+		web page [https://111.chinacloudsites.cn] is completed!
+>>> FINISH https://111.chinacloudsites.cn
+	>>> kill Chrome [21981]
+######## frame info is: {'main': {'domain': '111.chinacloudsites.cn', 'url': 'https://111.chinacloudsites.cn/'}}
+[url, filename] = https://announce.chinacloudsites.cn, https:,,announce.chinacloudsitboAjDGHIEP
+>>> START https://announce.chinacloudsites.cn
+		Enter timeoutCallback
+		web page [https://announce.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://announce.chinacloudsites.cn
+	>>> kill Chrome [22102]
+######## frame info is: {}
+[url, filename] = https://boss.chinacloudsites.cn, https:,,boss.chinacloudsites.cMDGHPElf7U
+>>> START https://boss.chinacloudsites.cn
+		web page [https://boss.chinacloudsites.cn] is completed!
+>>> FINISH https://boss.chinacloudsites.cn
+	>>> kill Chrome [22235]
+######## frame info is: {'main': {'domain': 'boss.chinacloudsites.cn', 'url': 'https://boss.chinacloudsites.cn/'}}
+[url, filename] = https://ai.chinacloudsites.cn, https:,,ai.chinacloudsites.cnhn1EomT8pB
+>>> START https://ai.chinacloudsites.cn
+		web page [https://ai.chinacloudsites.cn] is completed!
+>>> FINISH https://ai.chinacloudsites.cn
+	>>> kill Chrome [22356]
+######## frame info is: {'main': {'domain': 'ai.chinacloudsites.cn', 'url': 'https://ai.chinacloudsites.cn/'}}
+[url, filename] = https://blabla.chinacloudsites.cn, https:,,blabla.chinacloudsites9hdZDJwl7x
+>>> START https://blabla.chinacloudsites.cn
+		web page [https://blabla.chinacloudsites.cn] is completed!
+>>> FINISH https://blabla.chinacloudsites.cn
+	>>> kill Chrome [22483]
+######## frame info is: {'main': {'domain': 'blabla.chinacloudsites.cn', 'url': 'https://blabla.chinacloudsites.cn/'}}
+[url, filename] = https://aa.chinacloudsites.cn, https:,,aa.chinacloudsites.cnHgUwqS0l51
+>>> START https://aa.chinacloudsites.cn
+		web page [https://aa.chinacloudsites.cn] is completed!
+>>> FINISH https://aa.chinacloudsites.cn
+	>>> kill Chrome [22602]
+######## frame info is: {'main': {'domain': 'aa.chinacloudsites.cn', 'url': 'https://aa.chinacloudsites.cn/'}}
+[url, filename] = https://asdf.chinacloudsites.cn, https:,,asdf.chinacloudsites.ccRi59jpyGT
+>>> START https://asdf.chinacloudsites.cn
+		web page [https://asdf.chinacloudsites.cn] is completed!
+>>> FINISH https://asdf.chinacloudsites.cn
+	>>> kill Chrome [22714]
+######## frame info is: {'main': {'domain': 'asdf.chinacloudsites.cn', 'url': 'https://asdf.chinacloudsites.cn/'}}
+[url, filename] = https://bom.chinacloudsites.cn, https:,,bom.chinacloudsites.cnO4KWXRDVZa
+>>> START https://bom.chinacloudsites.cn
+		web page [https://bom.chinacloudsites.cn] is completed!
+>>> FINISH https://bom.chinacloudsites.cn
+	>>> kill Chrome [22827]
+######## frame info is: {'main': {'domain': 'bom.chinacloudsites.cn', 'url': 'https://bom.chinacloudsites.cn/'}}
+[url, filename] = https://c1.chinacloudsites.cn, https:,,c1.chinacloudsites.cnoAMK4Q6Zni
+>>> START https://c1.chinacloudsites.cn
+		web page [https://c1.chinacloudsites.cn] is completed!
+>>> FINISH https://c1.chinacloudsites.cn
+	>>> kill Chrome [23006]
+######## frame info is: {'main': {'domain': 'c1.chinacloudsites.cn', 'url': 'https://c1.chinacloudsites.cn/'}}
+[url, filename] = https://article.chinacloudsites.cn, https:,,article.chinacloudsiteeEnBy89Z45
+>>> START https://article.chinacloudsites.cn
+		web page [https://article.chinacloudsites.cn] is completed!
+>>> FINISH https://article.chinacloudsites.cn
+	>>> kill Chrome [23135]
+######## frame info is: {'main': {'domain': 'article.chinacloudsites.cn', 'url': 'https://article.chinacloudsites.cn/'}}
+[url, filename] = https://beian.chinacloudsites.cn, https:,,beian.chinacloudsites.gF2fEMqsZb
+>>> START https://beian.chinacloudsites.cn
+		web page [https://beian.chinacloudsites.cn] is completed!
+>>> FINISH https://beian.chinacloudsites.cn
+	>>> kill Chrome [23249]
+######## frame info is: {'main': {'domain': 'beian.chinacloudsites.cn', 'url': 'https://beian.chinacloudsites.cn/'}}
+[url, filename] = https://aad.chinacloudsites.cn, https:,,aad.chinacloudsites.cnkPDz4NWKid
+>>> START https://aad.chinacloudsites.cn
+		web page [https://aad.chinacloudsites.cn] is completed!
+>>> FINISH https://aad.chinacloudsites.cn
+	>>> kill Chrome [23363]
+######## frame info is: {'main': {'domain': 'aad.chinacloudsites.cn', 'url': 'https://aad.chinacloudsites.cn/'}}
+[url, filename] = https://cashier.chinacloudsites.cn, https:,,cashier.chinacloudsitedq9P1062ly
+>>> START https://cashier.chinacloudsites.cn
+		web page [https://cashier.chinacloudsites.cn] is completed!
+>>> FINISH https://cashier.chinacloudsites.cn
+	>>> kill Chrome [23482]
+######## frame info is: {'main': {'domain': 'cashier.chinacloudsites.cn', 'url': 'https://cashier.chinacloudsites.cn/web/#/'}}
+[url, filename] = https://bs1.chinacloudsites.cn, https:,,bs1.chinacloudsites.cn3AkKxHbGig
+>>> START https://bs1.chinacloudsites.cn
+		web page [https://bs1.chinacloudsites.cn] is completed!
+>>> FINISH https://bs1.chinacloudsites.cn
+	>>> kill Chrome [23597]
+######## frame info is: {'main': {'domain': 'bs1.chinacloudsites.cn', 'url': 'https://bs1.chinacloudsites.cn/Home/Login'}}
+[url, filename] = https://camp.chinacloudsites.cn, https:,,camp.chinacloudsites.cMUwe7Wxzmo
+>>> START https://camp.chinacloudsites.cn
+		web page [https://camp.chinacloudsites.cn] is completed!
+>>> FINISH https://camp.chinacloudsites.cn
+	>>> kill Chrome [23715]
+######## frame info is: {'main': {'domain': 'camp.chinacloudsites.cn', 'url': 'https://camp.chinacloudsites.cn/#/'}}
+[url, filename] = https://cache.chinacloudsites.cn, https:,,cache.chinacloudsites.k1OJ8cLx9a
+>>> START https://cache.chinacloudsites.cn
+		web page [https://cache.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://cache.chinacloudsites.cn
+	>>> kill Chrome [23836]
+######## frame info is: {'main': {'domain': 'cache.chinacloudsites.cn', 'url': 'https://cache.chinacloudsites.cn/'}}
+[url, filename] = https://cbox.chinacloudsites.cn, https:,,cbox.chinacloudsites.cQ4YVoUX980
+>>> START https://cbox.chinacloudsites.cn
+		web page [https://cbox.chinacloudsites.cn] is completed!
+>>> FINISH https://cbox.chinacloudsites.cn
+	>>> kill Chrome [23955]
+######## frame info is: {'main': {'domain': 'cbox.chinacloudsites.cn', 'url': 'https://cbox.chinacloudsites.cn/'}}
+[url, filename] = https://abb.chinacloudsites.cn, https:,,abb.chinacloudsites.cnmuSq0By4Zs
+>>> START https://abb.chinacloudsites.cn
+		web page [https://abb.chinacloudsites.cn] is completed!
+>>> FINISH https://abb.chinacloudsites.cn
+	>>> kill Chrome [24067]
+######## frame info is: {'main': {'domain': 'abb.chinacloudsites.cn', 'url': 'https://abb.chinacloudsites.cn/'}}
+[url, filename] = https://beijing.chinacloudsites.cn, https:,,beijing.chinacloudsiteCR7ixGogrQ
+>>> START https://beijing.chinacloudsites.cn
+		web page [https://beijing.chinacloudsites.cn] is completed!
+>>> FINISH https://beijing.chinacloudsites.cn
+	>>> kill Chrome [24180]
+######## frame info is: {'main': {'domain': 'beijing.chinacloudsites.cn', 'url': 'https://beijing.chinacloudsites.cn/'}}
+[url, filename] = https://cerberus.chinacloudsites.cn, https:,,cerberus.chinacloudsitR2jlg71VLU
+>>> START https://cerberus.chinacloudsites.cn
+		web page [https://cerberus.chinacloudsites.cn] is completed!
+>>> FINISH https://cerberus.chinacloudsites.cn
+	>>> kill Chrome [24296]
+######## frame info is: {'main': {'domain': 'cerberus.chinacloudsites.cn', 'url': 'https://cerberus.chinacloudsites.cn/'}}
+[url, filename] = https://bcegc.chinacloudsites.cn, https:,,bcegc.chinacloudsites.yNcCV7sUd3
+>>> START https://bcegc.chinacloudsites.cn
+		web page [https://bcegc.chinacloudsites.cn] is completed!
+>>> FINISH https://bcegc.chinacloudsites.cn
+	>>> kill Chrome [24413]
+######## frame info is: {'main': {'domain': 'bcegc.chinacloudsites.cn', 'url': 'https://bcegc.chinacloudsites.cn/'}}
+[url, filename] = https://bot.chinacloudsites.cn, https:,,bot.chinacloudsites.cnPKSxvVn56f
+>>> START https://bot.chinacloudsites.cn
+		web page [https://bot.chinacloudsites.cn] is completed!
+>>> FINISH https://bot.chinacloudsites.cn
+	>>> kill Chrome [24531]
+######## frame info is: {'main': {'domain': 'bot.chinacloudsites.cn', 'url': 'https://bot.chinacloudsites.cn/'}}
+[url, filename] = https://bj.chinacloudsites.cn, https:,,bj.chinacloudsites.cnBeuaPfbOmq
+>>> START https://bj.chinacloudsites.cn
+		web page [https://bj.chinacloudsites.cn] is completed!
+>>> FINISH https://bj.chinacloudsites.cn
+	>>> kill Chrome [24643]
+######## frame info is: {'main': {'domain': 'bj.chinacloudsites.cn', 'url': 'https://bj.chinacloudsites.cn/'}}
+[url, filename] = https://ca.chinacloudsites.cn, https:,,ca.chinacloudsites.cnQwmyOxMV4z
+>>> START https://ca.chinacloudsites.cn
+		web page [https://ca.chinacloudsites.cn] is completed!
+>>> FINISH https://ca.chinacloudsites.cn
+	>>> kill Chrome [24757]
+######## frame info is: {'main': {'domain': 'ca.chinacloudsites.cn', 'url': 'https://ca.chinacloudsites.cn/'}}
+[url, filename] = https://center.chinacloudsites.cn, https:,,center.chinacloudsites7eBmidFWVu
+>>> START https://center.chinacloudsites.cn
+		web page [https://center.chinacloudsites.cn] is completed!
+>>> FINISH https://center.chinacloudsites.cn
+	>>> kill Chrome [24872]
+######## frame info is: {'main': {'domain': 'center.chinacloudsites.cn', 'url': 'https://center.chinacloudsites.cn/'}}
+[url, filename] = https://charts.chinacloudsites.cn, https:,,charts.chinacloudsitesoaEAseHZO9
+>>> START https://charts.chinacloudsites.cn
+		web page [https://charts.chinacloudsites.cn] is completed!
+>>> FINISH https://charts.chinacloudsites.cn
+	>>> kill Chrome [24989]
+######## frame info is: {'main': {'domain': 'charts.chinacloudsites.cn', 'url': 'https://charts.chinacloudsites.cn/'}}
+[url, filename] = https://18.chinacloudsites.cn, https:,,18.chinacloudsites.cn6K4ASbO5HU
+>>> START https://18.chinacloudsites.cn
+		web page [https://18.chinacloudsites.cn] is completed!
+>>> FINISH https://18.chinacloudsites.cn
+	>>> kill Chrome [25105]
+######## frame info is: {'main': {'domain': '18.chinacloudsites.cn', 'url': 'https://18.chinacloudsites.cn/'}}
+[url, filename] = https://ch.chinacloudsites.cn, https:,,ch.chinacloudsites.cnNW5j41IB39
+>>> START https://ch.chinacloudsites.cn
+		web page [https://ch.chinacloudsites.cn] is completed!
+>>> FINISH https://ch.chinacloudsites.cn
+	>>> kill Chrome [25216]
+######## frame info is: {'main': {'domain': 'ch.chinacloudsites.cn', 'url': 'https://ch.chinacloudsites.cn/login.html'}}
+[url, filename] = https://appapi.chinacloudsites.cn, https:,,appapi.chinacloudsiteshJ9jPAcRzV
+>>> START https://appapi.chinacloudsites.cn
+		web page [https://appapi.chinacloudsites.cn] is completed!
+>>> FINISH https://appapi.chinacloudsites.cn
+	>>> kill Chrome [25338]
+######## frame info is: {'main': {'domain': 'appapi.chinacloudsites.cn', 'url': 'https://appapi.chinacloudsites.cn/'}}
+[url, filename] = https://chf.chinacloudsites.cn, https:,,chf.chinacloudsites.cncMzVSjuX5E
+>>> START https://chf.chinacloudsites.cn
+		web page [https://chf.chinacloudsites.cn] is completed!
+>>> FINISH https://chf.chinacloudsites.cn
+	>>> kill Chrome [25452]
+######## frame info is: {'main': {'domain': 'chf.chinacloudsites.cn', 'url': 'https://chf.chinacloudsites.cn/'}}
+[url, filename] = https://cef.chinacloudsites.cn, https:,,cef.chinacloudsites.cnTj4egO5IS1
+>>> START https://cef.chinacloudsites.cn
+		web page [https://cef.chinacloudsites.cn] is completed!
+>>> FINISH https://cef.chinacloudsites.cn
+	>>> kill Chrome [25571]
+######## frame info is: {'main': {'domain': 'www.azure.cn', 'url': 'https://www.azure.cn/zh-cn/home/features/customer-engagement-fabric/'}}
+[url, filename] = https://class.chinacloudsites.cn, https:,,class.chinacloudsites.K2mNqreZfd
+>>> START https://class.chinacloudsites.cn
+		web page [https://class.chinacloudsites.cn] is completed!
+>>> FINISH https://class.chinacloudsites.cn
+	>>> kill Chrome [25690]
+######## frame info is: {'main': {'domain': 'class.chinacloudsites.cn', 'url': 'https://class.chinacloudsites.cn/'}}
+[url, filename] = https://ckwww.chinacloudsites.cn, https:,,ckwww.chinacloudsites.dlBUt1cDpq
+>>> START https://ckwww.chinacloudsites.cn
+		web page [https://ckwww.chinacloudsites.cn] is completed!
+>>> FINISH https://ckwww.chinacloudsites.cn
+	>>> kill Chrome [25808]
+######## frame info is: {'3': {'domain': 'ckwww.chinacloudsites.cn', 'url': 'https://ckwww.chinacloudsites.cn/'}, '0': {'domain': 'ckwww.chinacloudsites.cn', 'url': 'https://ckwww.chinacloudsites.cn/'}, '2': {'domain': '', 'url': ''}, '1': {'domain': 'ckwww.chinacloudsites.cn', 'url': 'https://ckwww.chinacloudsites.cn/'}, '4': {'domain': 'ckwww.chinacloudsites.cn', 'url': 'about:blank'}, 'main': {'domain': 'ckwww.chinacloudsites.cn', 'url': 'https://ckwww.chinacloudsites.cn/'}}
+		---> Multiple FRAMES
+[url, filename] = https://appserv.chinacloudsites.cn, https:,,appserv.chinacloudsiteqArSxBLQc1
+>>> START https://appserv.chinacloudsites.cn
+		web page [https://appserv.chinacloudsites.cn] is completed!
+>>> FINISH https://appserv.chinacloudsites.cn
+	>>> kill Chrome [25926]
+######## frame info is: {'main': {'domain': 'appserv.chinacloudsites.cn', 'url': 'https://appserv.chinacloudsites.cn/'}}
+[url, filename] = https://blossom.chinacloudsites.cn, https:,,blossom.chinacloudsitePd2k9HzjE7
+>>> START https://blossom.chinacloudsites.cn
+		web page [https://blossom.chinacloudsites.cn] is completed!
+>>> FINISH https://blossom.chinacloudsites.cn
+	>>> kill Chrome [26041]
+######## frame info is: {'main': {'domain': 'jllpoc.oktapreview.com', 'url': 'https://jllpoc.oktapreview.com/login/login.htm?fromURI=%2Fapp%2Fjllpocuat_blossomuatsamlap_1%2Fexkfurn61oEkCpa6W0h7%2Fsso%2Fsaml%3FSAMLRequest%3DnVNNj9owEP0rke8kMbsQrQWsaGhVpG2LIG2lXpBxhsXFsV2PA%252By%252FrxNIxaHLgVOsmTdf772Mnk%252BVig7gUBo9JjROyfNkhLxSlk1rv9NL%252BFMD%252BijANLI2MSa108xwlMg0rwCZF2w1%252FfLC%252BnHKrDPeCKNINJ%252BNyfrhMcvo4EGkafY0KDebwXDYJ9GPbmCoCEDEGuYaPdc%252BhFL61EuzHs0KSln6yAb9OEvpLxItLq0%252FSF1K%252FXp7j80ZhOxzUSx6i2%252BrgkRTRHA%252BDM6NxroCtwJ3kAK%252BL1%252FGZOe9ZUmyUQbRVLHYSc2FMnWJ0gPGQifKvEqdCK7Uhos9iWaBmADy7SVNOYb630pZI2Kz99w6OEg4xsJUCbf2kqq5X1%252BGhGfDKLdrmsBpvw33DKn5uM8tH%252F5Md1kSQEmDIGdNWMuUuxLjNge8u5dMuvVunDdKrmZ0Jvgams5nC6OkeLvHBJ%252BMq7h%252FH01j2kZk2du2UAYVl2palg4Qg2RKmWPugHsYE%252B9qIEm32sWaULZGDZJ6ON1l1NxUljuJjYxw4sJ3dF83zlVgcwnbe8i%252FCRNMNK1DeBE%252BR%252BPKxucgwmGF4xqtcf4izf%252F2mZxz79DxL3v9M0%252F%252BAg%253D%253D'}, '0': {'domain': 'undefined', 'url': 'about:blank'}}
+		---> Multiple FRAMES
+[url, filename] = https://appserver.chinacloudsites.cn, https:,,appserver.chinacloudsioErjYNFeR2
+>>> START https://appserver.chinacloudsites.cn
+		web page [https://appserver.chinacloudsites.cn] is completed!
+>>> FINISH https://appserver.chinacloudsites.cn
+	>>> kill Chrome [26184]
+######## frame info is: {'main': {'domain': 'appserver.chinacloudsites.cn', 'url': 'https://appserver.chinacloudsites.cn/'}}
+[url, filename] = https://cms.chinacloudsites.cn, https:,,cms.chinacloudsites.cnmYCg5cWnNJ
+>>> START https://cms.chinacloudsites.cn
+		web page [https://cms.chinacloudsites.cn] is completed!
+>>> FINISH https://cms.chinacloudsites.cn
+	>>> kill Chrome [26297]
+######## frame info is: {'main': {'domain': 'cms.chinacloudsites.cn', 'url': 'https://cms.chinacloudsites.cn/Login/Login/Index'}}
+[url, filename] = https://ck.chinacloudsites.cn, https:,,ck.chinacloudsites.cny1mE792Bkj
+>>> START https://ck.chinacloudsites.cn
+		web page [https://ck.chinacloudsites.cn] is completed!
+>>> FINISH https://ck.chinacloudsites.cn
+	>>> kill Chrome [26412]
+######## frame info is: {'main': {'domain': 'ck.chinacloudsites.cn', 'url': 'https://ck.chinacloudsites.cn/'}}
+[url, filename] = https://apps.chinacloudsites.cn, https:,,apps.chinacloudsites.cIHz5kcmbrs
+>>> START https://apps.chinacloudsites.cn
+		web page [https://apps.chinacloudsites.cn] is completed!
+>>> FINISH https://apps.chinacloudsites.cn
+	>>> kill Chrome [26534]
+######## frame info is: {'main': {'domain': 'apps.chinacloudsites.cn', 'url': 'https://apps.chinacloudsites.cn/'}}
+[url, filename] = https://china.chinacloudsites.cn, https:,,china.chinacloudsites.QKB7YC13bt
+>>> START https://china.chinacloudsites.cn
+		web page [https://china.chinacloudsites.cn] is completed!
+>>> FINISH https://china.chinacloudsites.cn
+	>>> kill Chrome [26707]
+######## frame info is: {'main': {'domain': 'china.chinacloudsites.cn', 'url': 'https://china.chinacloudsites.cn/'}}
+[url, filename] = https://color.chinacloudsites.cn, https:,,color.chinacloudsites.ygSUH4eVaj
+>>> START https://color.chinacloudsites.cn
+		web page [https://color.chinacloudsites.cn] is completed!
+>>> FINISH https://color.chinacloudsites.cn
+	>>> kill Chrome [26823]
+######## frame info is: {'main': {'domain': 'color.chinacloudsites.cn', 'url': 'https://color.chinacloudsites.cn/'}}
+[url, filename] = https://comment.chinacloudsites.cn, https:,,comment.chinacloudsiteMHN3sAtOc1
+>>> START https://comment.chinacloudsites.cn
+		web page [https://comment.chinacloudsites.cn] is completed!
+>>> FINISH https://comment.chinacloudsites.cn
+	>>> kill Chrome [26949]
+######## frame info is: {'main': {'domain': 'comment.chinacloudsites.cn', 'url': 'https://comment.chinacloudsites.cn/'}}
+[url, filename] = https://abel.chinacloudsites.cn, https:,,abel.chinacloudsites.chIETj9kN43
+>>> START https://abel.chinacloudsites.cn
+		web page [https://abel.chinacloudsites.cn] is completed!
+>>> FINISH https://abel.chinacloudsites.cn
+	>>> kill Chrome [27066]
+######## frame info is: {'main': {'domain': 'abel.chinacloudsites.cn', 'url': 'https://abel.chinacloudsites.cn/'}}
+[url, filename] = https://cloud.chinacloudsites.cn, https:,,cloud.chinacloudsites.6aOienXIVu
+>>> START https://cloud.chinacloudsites.cn
+		web page [https://cloud.chinacloudsites.cn] is completed!
+>>> FINISH https://cloud.chinacloudsites.cn
+	>>> kill Chrome [27189]
+######## frame info is: {'main': {'domain': 'cloud.chinacloudsites.cn', 'url': 'https://cloud.chinacloudsites.cn/'}}
+[url, filename] = https://client.chinacloudsites.cn, https:,,client.chinacloudsitesxDruby2BVd
+>>> START https://client.chinacloudsites.cn
+		Enter timeoutCallback
+		web page [https://client.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://client.chinacloudsites.cn
+	>>> kill Chrome [27303]
+######## frame info is: {}
+[url, filename] = https://crm-test.chinacloudsites.cn, https:,,crm-test.chinacloudsitpXOT3FHePD
+>>> START https://crm-test.chinacloudsites.cn
+		web page [https://crm-test.chinacloudsites.cn] is completed!
+>>> FINISH https://crm-test.chinacloudsites.cn
+	>>> kill Chrome [27441]
+######## frame info is: {'main': {'domain': 'crm-test.chinacloudsites.cn', 'url': 'https://crm-test.chinacloudsites.cn/'}}
+[url, filename] = https://auth.chinacloudsites.cn, https:,,auth.chinacloudsites.cgYbh2CM9pj
+>>> START https://auth.chinacloudsites.cn
+		web page [https://auth.chinacloudsites.cn] is completed!
+>>> FINISH https://auth.chinacloudsites.cn
+	>>> kill Chrome [27563]
+######## frame info is: {'main': {'domain': 'auth.chinacloudsites.cn', 'url': 'https://auth.chinacloudsites.cn/'}}
+[url, filename] = https://culture.chinacloudsites.cn, https:,,culture.chinacloudsiterJ9KlIOP5A
+>>> START https://culture.chinacloudsites.cn
+		web page [https://culture.chinacloudsites.cn] is completed!
+>>> FINISH https://culture.chinacloudsites.cn
+	>>> kill Chrome [27684]
+######## frame info is: {'main': {'domain': 'culture.chinacloudsites.cn', 'url': 'https://culture.chinacloudsites.cn/'}}
+[url, filename] = https://coupon.chinacloudsites.cn, https:,,coupon.chinacloudsitesXNYTpB4mtz
+>>> START https://coupon.chinacloudsites.cn
+		web page [https://coupon.chinacloudsites.cn] is completed!
+>>> FINISH https://coupon.chinacloudsites.cn
+	>>> kill Chrome [27799]
+######## frame info is: {'main': {'domain': 'coupon.chinacloudsites.cn', 'url': 'https://coupon.chinacloudsites.cn/'}}
+[url, filename] = https://coredashboardcn.chinacloudsites.cn, https:,,coredashboardcn.chinacz4xDUpLvfC
+>>> START https://coredashboardcn.chinacloudsites.cn
+		Enter timeoutCallback
+		web page [https://coredashboardcn.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://coredashboardcn.chinacloudsites.cn
+	>>> kill Chrome [27913]
+######## frame info is: {}
+[url, filename] = https://corpweb.chinacloudsites.cn, https:,,corpweb.chinacloudsite6FiIdscuAX
+>>> START https://corpweb.chinacloudsites.cn
+		web page [https://corpweb.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://corpweb.chinacloudsites.cn
+	>>> kill Chrome [28062]
+######## frame info is: {'2': {'domain': '', 'url': ''}, '1': {'domain': 'corpweb.chinacloudsites.cn', 'url': 'https://corpweb.chinacloudsites.cn/'}, '3': {'domain': 'corpweb.chinacloudsites.cn', 'url': 'about:blank'}, 'main': {'domain': 'corpweb.chinacloudsites.cn', 'url': 'https://corpweb.chinacloudsites.cn/'}, '0': {'domain': 'corpweb.chinacloudsites.cn', 'url': 'https://corpweb.chinacloudsites.cn/'}}
+		---> Multiple FRAMES
+[url, filename] = https://cq.chinacloudsites.cn, https:,,cq.chinacloudsites.cn82YPECNSUf
+>>> START https://cq.chinacloudsites.cn
+		web page [https://cq.chinacloudsites.cn] is completed!
+>>> FINISH https://cq.chinacloudsites.cn
+	>>> kill Chrome [28188]
+######## frame info is: {'main': {'domain': 'cq.chinacloudsites.cn', 'url': 'https://cq.chinacloudsites.cn/'}}
+[url, filename] = https://cookbook.chinacloudsites.cn, https:,,cookbook.chinacloudsitkyjgc9ViEa
+>>> START https://cookbook.chinacloudsites.cn
+		web page [https://cookbook.chinacloudsites.cn] is completed!
+>>> FINISH https://cookbook.chinacloudsites.cn
+	>>> kill Chrome [28306]
+######## frame info is: {'main': {'domain': 'cookbook.chinacloudsites.cn', 'url': 'https://cookbook.chinacloudsites.cn/index.html'}}
+[url, filename] = https://ctc.chinacloudsites.cn, https:,,ctc.chinacloudsites.cnYe6zsnQmT7
+>>> START https://ctc.chinacloudsites.cn
+		web page [https://ctc.chinacloudsites.cn] is completed!
+>>> FINISH https://ctc.chinacloudsites.cn
+	>>> kill Chrome [28429]
+######## frame info is: {'main': {'domain': 'ctc.chinacloudsites.cn', 'url': 'https://ctc.chinacloudsites.cn/portal'}}
+[url, filename] = https://cloudtest.chinacloudsites.cn, https:,,cloudtest.chinacloudsi8Sw5UzybZ4
+>>> START https://cloudtest.chinacloudsites.cn
+		web page [https://cloudtest.chinacloudsites.cn] is completed!
+>>> FINISH https://cloudtest.chinacloudsites.cn
+	>>> kill Chrome [28547]
+######## frame info is: {'main': {'domain': 'cloudtest.chinacloudsites.cn', 'url': 'https://cloudtest.chinacloudsites.cn/'}}
+[url, filename] = https://campaign.chinacloudsites.cn, https:,,campaign.chinacloudsit1kcLTmfCxq
+>>> START https://campaign.chinacloudsites.cn
+		web page [https://campaign.chinacloudsites.cn] is completed!
+>>> FINISH https://campaign.chinacloudsites.cn
+	>>> kill Chrome [28667]
+######## frame info is: {'main': {'domain': 'campaign.chinacloudsites.cn', 'url': 'https://campaign.chinacloudsites.cn/'}}
+[url, filename] = https://crc.chinacloudsites.cn, https:,,crc.chinacloudsites.cnkqpKuExQIl
+>>> START https://crc.chinacloudsites.cn
+		web page [https://crc.chinacloudsites.cn] is completed!
+>>> FINISH https://crc.chinacloudsites.cn
+	>>> kill Chrome [28781]
+######## frame info is: {'main': {'domain': 'crc.chinacloudsites.cn', 'url': 'https://crc.chinacloudsites.cn/'}}
+[url, filename] = https://collect.chinacloudsites.cn, https:,,collect.chinacloudsiteq4kLaGMx7Y
+>>> START https://collect.chinacloudsites.cn
+		web page [https://collect.chinacloudsites.cn] is completed!
+>>> FINISH https://collect.chinacloudsites.cn
+	>>> kill Chrome [28898]
+######## frame info is: {'main': {'domain': 'collect.chinacloudsites.cn', 'url': 'https://collect.chinacloudsites.cn/'}}
+[url, filename] = https://dealer.chinacloudsites.cn, https:,,dealer.chinacloudsitesex5HvqcPwp
+>>> START https://dealer.chinacloudsites.cn
+		web page [https://dealer.chinacloudsites.cn] is completed!
+>>> FINISH https://dealer.chinacloudsites.cn
+	>>> kill Chrome [29022]
+######## frame info is: {'main': {'domain': 'dealer.chinacloudsites.cn', 'url': 'https://dealer.chinacloudsites.cn/'}}
+[url, filename] = https://challenger.chinacloudsites.cn, https:,,challenger.chinacloudsPNosfwjBJK
+>>> START https://challenger.chinacloudsites.cn
+		web page [https://challenger.chinacloudsites.cn] is completed!
+>>> FINISH https://challenger.chinacloudsites.cn
+	>>> kill Chrome [29144]
+######## frame info is: {'main': {'domain': 'challenger.chinacloudsites.cn', 'url': 'https://challenger.chinacloudsites.cn/index.html?'}}
+[url, filename] = https://abbott.chinacloudsites.cn, https:,,abbott.chinacloudsitesHPFxICLSyT
+>>> START https://abbott.chinacloudsites.cn
+		web page [https://abbott.chinacloudsites.cn] is completed!
+>>> FINISH https://abbott.chinacloudsites.cn
+	>>> kill Chrome [29258]
+######## frame info is: {'main': {'domain': 'abbott.chinacloudsites.cn', 'url': 'https://abbott.chinacloudsites.cn/'}}
+[url, filename] = https://congress.chinacloudsites.cn, https:,,congress.chinacloudsitJIWblfq80U
+>>> START https://congress.chinacloudsites.cn
+		web page [https://congress.chinacloudsites.cn] is completed!
+>>> FINISH https://congress.chinacloudsites.cn
+	>>> kill Chrome [29379]
+######## frame info is: {'main': {'domain': 'congress.chinacloudsites.cn', 'url': 'https://congress.chinacloudsites.cn/'}}
+[url, filename] = https://cluster.chinacloudsites.cn, https:,,cluster.chinacloudsiteJiDq5Qg7KU
+>>> START https://cluster.chinacloudsites.cn
+		web page [https://cluster.chinacloudsites.cn] is completed!
+>>> FINISH https://cluster.chinacloudsites.cn
+	>>> kill Chrome [29492]
+######## frame info is: {'main': {'domain': 'cluster.chinacloudsites.cn', 'url': 'https://cluster.chinacloudsites.cn/login.php'}}
+[url, filename] = https://chat1.chinacloudsites.cn, https:,,chat1.chinacloudsites.G7eXEaKOpz
+>>> START https://chat1.chinacloudsites.cn
+		web page [https://chat1.chinacloudsites.cn] is completed!
+>>> FINISH https://chat1.chinacloudsites.cn
+	>>> kill Chrome [29609]
+######## frame info is: {'main': {'domain': 'chat1.chinacloudsites.cn', 'url': 'https://chat1.chinacloudsites.cn/'}}
+[url, filename] = https://cx.chinacloudsites.cn, https:,,cx.chinacloudsites.cnU5pbLhtYTA
+>>> START https://cx.chinacloudsites.cn
+		web page [https://cx.chinacloudsites.cn] is completed!
+>>> FINISH https://cx.chinacloudsites.cn
+	>>> kill Chrome [29778]
+######## frame info is: {'main': {'domain': 'cx.chinacloudsites.cn', 'url': 'https://cx.chinacloudsites.cn/'}}
+[url, filename] = https://digitalmedia.chinacloudsites.cn, https:,,digitalmedia.chinaclouCdvD9wbjco
+>>> START https://digitalmedia.chinacloudsites.cn
+		Enter timeoutCallback
+		web page [https://digitalmedia.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://digitalmedia.chinacloudsites.cn
+	>>> kill Chrome [29898]
+######## frame info is: {}
+[url, filename] = https://demoweb.chinacloudsites.cn, https:,,demoweb.chinacloudsiteYG4WyOaj5l
+>>> START https://demoweb.chinacloudsites.cn
+		web page [https://demoweb.chinacloudsites.cn] is completed!
+>>> FINISH https://demoweb.chinacloudsites.cn
+	>>> kill Chrome [30023]
+######## frame info is: {'main': {'domain': 'demoweb.chinacloudsites.cn', 'url': 'https://demoweb.chinacloudsites.cn/'}}
+[url, filename] = https://calc.chinacloudsites.cn, https:,,calc.chinacloudsites.ceVPWc4fSzB
+>>> START https://calc.chinacloudsites.cn
+		web page [https://calc.chinacloudsites.cn] is completed!
+>>> FINISH https://calc.chinacloudsites.cn
+	>>> kill Chrome [30147]
+######## frame info is: {'main': {'domain': 'calc.chinacloudsites.cn', 'url': 'https://calc.chinacloudsites.cn/'}}
+[url, filename] = https://demo.chinacloudsites.cn, https:,,demo.chinacloudsites.cYy1WFN9QiS
+>>> START https://demo.chinacloudsites.cn
+		web page [https://demo.chinacloudsites.cn] is completed!
+>>> FINISH https://demo.chinacloudsites.cn
+	>>> kill Chrome [30261]
+######## frame info is: {'main': {'domain': 'demo.chinacloudsites.cn', 'url': 'https://demo.chinacloudsites.cn/Home/Login'}}
+[url, filename] = https://design.chinacloudsites.cn, https:,,design.chinacloudsites2SdsaiFDbv
+>>> START https://design.chinacloudsites.cn
+		Enter timeoutCallback
+		web page [https://design.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://design.chinacloudsites.cn
+	>>> kill Chrome [30380]
+######## frame info is: {}
+[url, filename] = https://dictionary.chinacloudsites.cn, https:,,dictionary.chinacloudsF7ys0gAdvu
+>>> START https://dictionary.chinacloudsites.cn
+		web page [https://dictionary.chinacloudsites.cn] is completed!
+>>> FINISH https://dictionary.chinacloudsites.cn
+	>>> kill Chrome [30511]
+######## frame info is: {'main': {'domain': 'dictionary.chinacloudsites.cn', 'url': 'https://dictionary.chinacloudsites.cn/'}}
+[url, filename] = https://chat2.chinacloudsites.cn, https:,,chat2.chinacloudsites.TrtGEpcqRx
+>>> START https://chat2.chinacloudsites.cn
+		web page [https://chat2.chinacloudsites.cn] is completed!
+>>> FINISH https://chat2.chinacloudsites.cn
+	>>> kill Chrome [30627]
+######## frame info is: {'main': {'domain': 'chat2.chinacloudsites.cn', 'url': 'https://chat2.chinacloudsites.cn/'}}
+[url, filename] = https://bcp.chinacloudsites.cn, https:,,bcp.chinacloudsites.cnBEP9oJ6tzh
+>>> START https://bcp.chinacloudsites.cn
+		web page [https://bcp.chinacloudsites.cn] is completed!
+>>> FINISH https://bcp.chinacloudsites.cn
+	>>> kill Chrome [30739]
+######## frame info is: {'main': {'domain': 'login.partner.microsoftonline.cn', 'url': 'https://login.partner.microsoftonline.cn/e080385b-9f8c-40ac-baad-0bf941f2a6a7/oauth2/authorize?client_id=705612e5-195a-42f4-96de-4031a4d037ed&redirect_uri=https%3A%2F%2Fbcp.chinacloudsites.cn%2FHome%2FIndex&response_type=id_token&scope=openid%20profile&response_mode=form_post&nonce=636989611305655759.MDMxNTYyZDgtZmFiNy00ODNhLWFhY2UtNWIxNGE3MWY2NDFkNWU3MDE1YzUtOWZlOC00NzgzLWJmMTUtYWU0MzQ5ZjI4MjBi&state=CfDJ8AXyUEh-0phIkhNDcqwP57TZzzFyxn50sIN1PYPY4rV2VPmkLEZh3svSgf8e7cOMctgMO3s3HUKdEKmccZtzycfzZesdFkEMvcBBtWadXNYPpxgak-ZdF3uinLpmhCWGk4WYpJiy_IRBQ3sCr4MZvFME8eI99MXUbqQLvnv7pQcBNYBLtw9ZwwXA8qG38WjBL31GhFU6xkEEtpdcStPBiP-kw3DvJAkziLh972ZzjRyc2kS-1rCfVakZVbHydiBhmmKS-ya5lwpuv2iK3lb_w9qYvVINlUtbnfJkrgXd6UR1VKMpx07kZPu_1mYLk2gN_lGIEWlka7EC0bx7cb-0WjM&x-client-SKU=ID_NETSTANDARD1_4&x-client-ver=5.2.0.0'}}
+[url, filename] = https://credit.chinacloudsites.cn, https:,,credit.chinacloudsites4Y0O1eGuZd
+>>> START https://credit.chinacloudsites.cn
+		web page [https://credit.chinacloudsites.cn] is completed!
+>>> FINISH https://credit.chinacloudsites.cn
+	>>> kill Chrome [30876]
+######## frame info is: {'main': {'domain': 'credit.chinacloudsites.cn', 'url': 'https://credit.chinacloudsites.cn/#login'}}
+[url, filename] = https://do.chinacloudsites.cn, https:,,do.chinacloudsites.cnxzsTUSFJnh
+>>> START https://do.chinacloudsites.cn
+		web page [https://do.chinacloudsites.cn] is completed!
+>>> FINISH https://do.chinacloudsites.cn
+	>>> kill Chrome [30993]
+######## frame info is: {'main': {'domain': 'do.chinacloudsites.cn', 'url': 'https://do.chinacloudsites.cn/'}}
+[url, filename] = https://ddd.chinacloudsites.cn, https:,,ddd.chinacloudsites.cnLHZPS6lmh7
+>>> START https://ddd.chinacloudsites.cn
+		web page [https://ddd.chinacloudsites.cn] is completed!
+>>> FINISH https://ddd.chinacloudsites.cn
+	>>> kill Chrome [31111]
+######## frame info is: {'main': {'domain': 'ddd.chinacloudsites.cn', 'url': 'https://ddd.chinacloudsites.cn/'}}
+[url, filename] = https://dts.chinacloudsites.cn, https:,,dts.chinacloudsites.cnZ12FRoXBC0
+>>> START https://dts.chinacloudsites.cn
+		web page [https://dts.chinacloudsites.cn] is completed!
+>>> FINISH https://dts.chinacloudsites.cn
+	>>> kill Chrome [31223]
+######## frame info is: {'main': {'domain': 'dts.chinacloudsites.cn', 'url': 'https://dts.chinacloudsites.cn/'}}
+[url, filename] = https://cfm.chinacloudsites.cn, https:,,cfm.chinacloudsites.cnvfc3KdWgmq
+>>> START https://cfm.chinacloudsites.cn
+		web page [https://cfm.chinacloudsites.cn] is completed!
+>>> FINISH https://cfm.chinacloudsites.cn
+	>>> kill Chrome [31342]
+######## frame info is: {'main': {'domain': 'cfm.chinacloudsites.cn', 'url': 'https://cfm.chinacloudsites.cn/home'}}
+[url, filename] = https://dev.chinacloudsites.cn, https:,,dev.chinacloudsites.cnUN0acRSs45
+>>> START https://dev.chinacloudsites.cn
+		web page [https://dev.chinacloudsites.cn] is completed!
+>>> FINISH https://dev.chinacloudsites.cn
+	>>> kill Chrome [31457]
+######## frame info is: {'main': {'domain': 'dev.chinacloudsites.cn', 'url': 'https://dev.chinacloudsites.cn/'}}
+[url, filename] = https://door.chinacloudsites.cn, https:,,door.chinacloudsites.cICG0Y3N7EJ
+>>> START https://door.chinacloudsites.cn
+		web page [https://door.chinacloudsites.cn] is completed!
+>>> FINISH https://door.chinacloudsites.cn
+	>>> kill Chrome [31578]
+######## frame info is: {'main': {'domain': 'door.chinacloudsites.cn', 'url': 'https://door.chinacloudsites.cn/'}}
+[url, filename] = https://datong.chinacloudsites.cn, https:,,datong.chinacloudsitesfujKsenHM6
+>>> START https://datong.chinacloudsites.cn
+		web page [https://datong.chinacloudsites.cn] is completed!
+>>> FINISH https://datong.chinacloudsites.cn
+	>>> kill Chrome [31692]
+######## frame info is: {'main': {'domain': 'login.partner.microsoftonline.cn', 'url': 'https://login.partner.microsoftonline.cn/143ce15d-e9f9-4264-9604-f8a384800a7c/oauth2/authorize?client_id=2bbeecf4-87fb-4bff-b41f-de0faf3c6a77&redirect_uri=https%3a%2f%2fdatong.chinacloudsites.cn&response_mode=form_post&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3dvfdUisX47qU6XJT6lRYhl7cN3J4bwfWRc8gtYHIsISUW7NSG4EH7cq4gdYCAsG5x5mU5k2y7pnI4YuiDWzLItQxI9TY1GIVldw9IyikGLoch5BM1nb33dbsJa7ogJ-VTqHAJgpnnr791SMXZ_yPZqBE2XhEzHhqcMEP_KOhstDFhPQGfXLz6nx9RLuVVNp57LofpIuiIeS1JwpGXsheEaoTTBStah_e1oW3b_-GaXRs&nonce=636989615939211773.ODJiOTdjZTgtMThiNS00ZDgxLWFmYzgtYmE0ZWQ0ODAwNjFjMWFjZWQ5YjctM2JiYy00YWRkLTljZTAtZjZjYzQyNjgwYzg2&x-client-SKU=ID_NET&x-client-ver=1.0.40306.1554'}}
+[url, filename] = https://develop.chinacloudsites.cn, https:,,develop.chinacloudsitedpElVmhaDv
+>>> START https://develop.chinacloudsites.cn
+		web page [https://develop.chinacloudsites.cn] is completed!
+>>> FINISH https://develop.chinacloudsites.cn
+	>>> kill Chrome [31827]
+######## frame info is: {'main': {'domain': 'develop.chinacloudsites.cn', 'url': 'https://develop.chinacloudsites.cn/'}}
+[url, filename] = https://abp.chinacloudsites.cn, https:,,abp.chinacloudsites.cnIHSVjsrhtM
+>>> START https://abp.chinacloudsites.cn
+		web page [https://abp.chinacloudsites.cn] is completed!
+>>> FINISH https://abp.chinacloudsites.cn
+	>>> kill Chrome [31939]
+######## frame info is: {'main': {'domain': 'abp.chinacloudsites.cn', 'url': 'https://abp.chinacloudsites.cn/Account/Login?ReturnUrl=%2F'}}
+[url, filename] = https://dis.chinacloudsites.cn, https:,,dis.chinacloudsites.cnzMbGqCnWE2
+>>> START https://dis.chinacloudsites.cn
+		web page [https://dis.chinacloudsites.cn] is completed!
+>>> FINISH https://dis.chinacloudsites.cn
+	>>> kill Chrome [32062]
+######## frame info is: {'main': {'domain': 'dis.chinacloudsites.cn', 'url': 'https://dis.chinacloudsites.cn/'}}
+[url, filename] = https://ebook.chinacloudsites.cn, https:,,ebook.chinacloudsites.pXabjW3902
+>>> START https://ebook.chinacloudsites.cn
+		web page [https://ebook.chinacloudsites.cn] is completed!
+>>> FINISH https://ebook.chinacloudsites.cn
+	>>> kill Chrome [32181]
+######## frame info is: {'main': {'domain': 'ebook.chinacloudsites.cn', 'url': 'https://ebook.chinacloudsites.cn/'}}
+[url, filename] = https://duty.chinacloudsites.cn, https:,,duty.chinacloudsites.ctZ7PaYGwrv
+>>> START https://duty.chinacloudsites.cn
+		web page [https://duty.chinacloudsites.cn] is completed!
+>>> FINISH https://duty.chinacloudsites.cn
+	>>> kill Chrome [32307]
+######## frame info is: {'main': {'domain': 'duty.chinacloudsites.cn', 'url': 'https://duty.chinacloudsites.cn/'}}
+[url, filename] = https://dx.chinacloudsites.cn, https:,,dx.chinacloudsites.cn2HcUODaxdr
+>>> START https://dx.chinacloudsites.cn
+		Enter timeoutCallback
+		web page [https://dx.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://dx.chinacloudsites.cn
+	>>> kill Chrome [32422]
+######## frame info is: {}
+[url, filename] = https://elab.chinacloudsites.cn, https:,,elab.chinacloudsites.cPaeJdboxLM
+>>> START https://elab.chinacloudsites.cn
+		web page [https://elab.chinacloudsites.cn] is completed!
+>>> FINISH https://elab.chinacloudsites.cn
+	>>> kill Chrome [32624]
+######## frame info is: {'main': {'domain': 'elab.chinacloudsites.cn', 'url': 'https://elab.chinacloudsites.cn/Account/Login?ReturnUrl=%2f'}}
+[url, filename] = https://ceshi.chinacloudsites.cn, https:,,ceshi.chinacloudsites.Rbn4qSYgBj
+>>> START https://ceshi.chinacloudsites.cn
+		web page [https://ceshi.chinacloudsites.cn] is completed!
+>>> FINISH https://ceshi.chinacloudsites.cn
+	>>> kill Chrome [313]
+######## frame info is: {'main': {'domain': 'ceshi.chinacloudsites.cn', 'url': 'https://ceshi.chinacloudsites.cn/'}}
+[url, filename] = https://edge.chinacloudsites.cn, https:,,edge.chinacloudsites.c7tgRFB2uPK
+>>> START https://edge.chinacloudsites.cn
+		web page [https://edge.chinacloudsites.cn] is completed!
+>>> FINISH https://edge.chinacloudsites.cn
+	>>> kill Chrome [431]
+######## frame info is: {'main': {'domain': 'edge.chinacloudsites.cn', 'url': 'https://quantium-accounts.chinacloudsites.cn/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Djs%26redirect_uri%3Dhttps%253A%252F%252Fedge.chinacloudsites.cn%252Fcallback%26response_type%3Did_token%2520token%26scope%3Dopenid%2520profile%2520api1%26state%3D80d1037c8d0e48709e3c8d14becadd37%26nonce%3D1f535040b9954df98ef1849678d9c912'}}
+[url, filename] = https://edu.chinacloudsites.cn, https:,,edu.chinacloudsites.cn7zQ3PFREhi
+>>> START https://edu.chinacloudsites.cn
+		web page [https://edu.chinacloudsites.cn] is completed!
+>>> FINISH https://edu.chinacloudsites.cn
+	>>> kill Chrome [552]
+######## frame info is: {'main': {'domain': 'edu.chinacloudsites.cn', 'url': 'https://edu.chinacloudsites.cn/#/'}}
+[url, filename] = https://bluetooth.chinacloudsites.cn, https:,,bluetooth.chinacloudsiNB2oiGfbaQ
+>>> START https://bluetooth.chinacloudsites.cn
+		web page [https://bluetooth.chinacloudsites.cn] is completed!
+>>> FINISH https://bluetooth.chinacloudsites.cn
+	>>> kill Chrome [668]
+######## frame info is: {'main': {'domain': 'bluetooth.chinacloudsites.cn', 'url': 'https://bluetooth.chinacloudsites.cn/'}}
+[url, filename] = https://dual.chinacloudsites.cn, https:,,dual.chinacloudsites.cbfYDpOumEg
+>>> START https://dual.chinacloudsites.cn
+		web page [https://dual.chinacloudsites.cn] is completed!
+>>> FINISH https://dual.chinacloudsites.cn
+	>>> kill Chrome [808]
+######## frame info is: {'main': {'domain': 'login.partner.microsoftonline.cn', 'url': 'https://login.partner.microsoftonline.cn/3e48e1fb-7c8b-4018-a7a5-54fb448549f7/oauth2/authorize?client_id=e19d7288-ca08-4ec6-b9c4-24e587c4efdc&redirect_uri=https%3A%2F%2Fdual.chinacloudsites.cn%2Fsignin-oidc&response_type=id_token&scope=openid%20profile&response_mode=form_post&nonce=636989625061600569.NmM1NWU2ZmMtMDc3OC00NjM2LWE5MzItZDViZDQwZmYzYTY0NmUxOGIyY2YtYTY4ZC00NGJiLTlkMzEtOTVjOTI4ZDg5NTQz&state=CfDJ8O8cUiBF2cdGjjI7eNef608niXnbU1MB4KdaMuyH3C5aYTS6jLyp14orfdSSA55vqKEzG_VbV-T3e7dr5Kp2-vvOlLQHY3bNj8DH_L_mP4gL9-H35hsTqeIfOwZeQI3OiSBxcDrRRflI80YmWK3yGIufd7-TQEX2hTZ7YIvsVKrlPhQZL5jBX0PVFhSNZBmRwucffh80JnlIwBX4KTXylAQLC8UlChot3jcZbo_mkH7qUqSwrz26PDTOHIFOHPIyHZJgGs_l8bn5VTi3uKl-I7DA0hDXF9RIYpBL0FhuN7p397qbufrx-jhNWv6kJU9MP5_9aYY9PjSqlGKRbLaR7fTdcGYTtxk2LcfPh8kRIGng&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=5.3.0.0'}}
+[url, filename] = https://evaluation.chinacloudsites.cn, https:,,evaluation.chinaclouds9cMuf3Ilev
+>>> START https://evaluation.chinacloudsites.cn
+		web page [https://evaluation.chinacloudsites.cn] is completed!
+>>> FINISH https://evaluation.chinacloudsites.cn
+	>>> kill Chrome [955]
+######## frame info is: {'main': {'domain': 'evaluation.chinacloudsites.cn', 'url': 'https://evaluation.chinacloudsites.cn/'}}
+[url, filename] = https://email.chinacloudsites.cn, https:,,email.chinacloudsites.xNQLBSX7aG
+>>> START https://email.chinacloudsites.cn
+		web page [https://email.chinacloudsites.cn] is completed!
+>>> FINISH https://email.chinacloudsites.cn
+	>>> kill Chrome [1083]
+######## frame info is: {'main': {'domain': 'email.chinacloudsites.cn', 'url': 'https://email.chinacloudsites.cn/'}}
+[url, filename] = https://exam.chinacloudsites.cn, https:,,exam.chinacloudsites.c4dFpXkSBT9
+>>> START https://exam.chinacloudsites.cn
+		web page [https://exam.chinacloudsites.cn] is completed!
+>>> FINISH https://exam.chinacloudsites.cn
+	>>> kill Chrome [1201]
+######## frame info is: {'main': {'domain': 'exam.chinacloudsites.cn', 'url': 'https://exam.chinacloudsites.cn/'}}
+[url, filename] = https://devops.chinacloudsites.cn, https:,,devops.chinacloudsitesRhuLfQ0dBP
+>>> START https://devops.chinacloudsites.cn
+		web page [https://devops.chinacloudsites.cn] is completed!
+>>> FINISH https://devops.chinacloudsites.cn
+	>>> kill Chrome [1325]
+######## frame info is: {'main': {'domain': 'devops.chinacloudsites.cn', 'url': 'https://devops.chinacloudsites.cn/'}}
+[url, filename] = https://flask.chinacloudsites.cn, https:,,flask.chinacloudsites.iAGjdZC5W9
+>>> START https://flask.chinacloudsites.cn
+		web page [https://flask.chinacloudsites.cn] is completed!
+>>> FINISH https://flask.chinacloudsites.cn
+	>>> kill Chrome [1469]
+######## frame info is: {'main': {'domain': 'flask.chinacloudsites.cn', 'url': 'https://flask.chinacloudsites.cn/'}}
+[url, filename] = https://etest.chinacloudsites.cn, https:,,etest.chinacloudsites.xecWs7t5uX
+>>> START https://etest.chinacloudsites.cn
+		web page [https://etest.chinacloudsites.cn] is completed!
+>>> FINISH https://etest.chinacloudsites.cn
+	>>> kill Chrome [1598]
+######## frame info is: {'main': {'domain': 'etest.chinacloudsites.cn', 'url': 'https://etest.chinacloudsites.cn/Account/Login?ReturnUrl=%2f'}}
+[url, filename] = https://form.chinacloudsites.cn, https:,,form.chinacloudsites.coTI10RGCZm
+>>> START https://form.chinacloudsites.cn
+		web page [https://form.chinacloudsites.cn] is completed!
+>>> FINISH https://form.chinacloudsites.cn
+	>>> kill Chrome [1721]
+######## frame info is: {'main': {'domain': 'form.chinacloudsites.cn', 'url': 'https://form.chinacloudsites.cn/Account/Login?returnUrl=https://form.chinacloudsites.cn/'}}
+[url, filename] = https://crash.chinacloudsites.cn, https:,,crash.chinacloudsites.xzDLCp9g3T
+>>> START https://crash.chinacloudsites.cn
+		web page [https://crash.chinacloudsites.cn] is completed!
+>>> FINISH https://crash.chinacloudsites.cn
+	>>> kill Chrome [1880]
+######## frame info is: {'main': {'domain': 'crash.chinacloudsites.cn', 'url': 'https://crash.chinacloudsites.cn/'}}
+[url, filename] = https://flow.chinacloudsites.cn, https:,,flow.chinacloudsites.c7PGm2uveUk
+>>> START https://flow.chinacloudsites.cn
+		web page [https://flow.chinacloudsites.cn] is completed!
+>>> FINISH https://flow.chinacloudsites.cn
+	>>> kill Chrome [2003]
+######## frame info is: {'main': {'domain': 'flow.chinacloudsites.cn', 'url': 'https://flow.chinacloudsites.cn/Authentication/Login?ReturnUrl=%2f'}}
+[url, filename] = https://eps.chinacloudsites.cn, https:,,eps.chinacloudsites.cnnuQfvgGpIV
+>>> START https://eps.chinacloudsites.cn
+		web page [https://eps.chinacloudsites.cn] is completed!
+>>> FINISH https://eps.chinacloudsites.cn
+	>>> kill Chrome [2192]
+######## frame info is: {'main': {'domain': 'eps.chinacloudsites.cn', 'url': 'https://eps.chinacloudsites.cn/login.aspx?ReturnUrl=%2f'}}
+[url, filename] = https://gaia.chinacloudsites.cn, https:,,gaia.chinacloudsites.cJvu079OFpr
+>>> START https://gaia.chinacloudsites.cn
+		web page [https://gaia.chinacloudsites.cn] is completed!
+>>> FINISH https://gaia.chinacloudsites.cn
+	>>> kill Chrome [2414]
+######## frame info is: {'main': {'domain': 'gaia.chinacloudsites.cn', 'url': 'https://gaia.chinacloudsites.cn/'}}
+[url, filename] = https://gas.chinacloudsites.cn, https:,,gas.chinacloudsites.cnZCRV0DkUbh
+>>> START https://gas.chinacloudsites.cn
+		web page [https://gas.chinacloudsites.cn] is completed!
+>>> FINISH https://gas.chinacloudsites.cn
+	>>> kill Chrome [2559]
+######## frame info is: {'main': {'domain': 'gas.chinacloudsites.cn', 'url': 'https://gas.chinacloudsites.cn/'}}
+[url, filename] = https://geoip.chinacloudsites.cn, https:,,geoip.chinacloudsites.okOXAyCE6P
+>>> START https://geoip.chinacloudsites.cn
+		web page [https://geoip.chinacloudsites.cn] is completed!
+>>> FINISH https://geoip.chinacloudsites.cn
+	>>> kill Chrome [2679]
+######## frame info is: {'main': {'domain': 'geoip.chinacloudsites.cn', 'url': 'https://geoip.chinacloudsites.cn/'}}
+[url, filename] = https://fairy.chinacloudsites.cn, https:,,fairy.chinacloudsites.IXSy0WUR2J
+>>> START https://fairy.chinacloudsites.cn
+		web page [https://fairy.chinacloudsites.cn] is completed!
+>>> FINISH https://fairy.chinacloudsites.cn
+	>>> kill Chrome [2794]
+######## frame info is: {'main': {'domain': 'fairy.chinacloudsites.cn', 'url': 'https://fairy.chinacloudsites.cn/'}}
+[url, filename] = https://forum.chinacloudsites.cn, https:,,forum.chinacloudsites.891vcamdeQ
+>>> START https://forum.chinacloudsites.cn
+		web page [https://forum.chinacloudsites.cn] is completed!
+>>> FINISH https://forum.chinacloudsites.cn
+	>>> kill Chrome [2908]
+######## frame info is: {'main': {'domain': 'forum.10010.org', 'url': 'http://forum.10010.org/'}}
+[url, filename] = https://face.chinacloudsites.cn, https:,,face.chinacloudsites.cOY0Ju12TLF
+>>> START https://face.chinacloudsites.cn
+		web page [https://face.chinacloudsites.cn] is completed!
+>>> FINISH https://face.chinacloudsites.cn
+	>>> kill Chrome [3042]
+######## frame info is: {'main': {'domain': 'face.chinacloudsites.cn', 'url': 'https://face.chinacloudsites.cn/'}}
+[url, filename] = https://gu.chinacloudsites.cn, https:,,gu.chinacloudsites.cnhu9Glx8Tit
+>>> START https://gu.chinacloudsites.cn
+		web page [https://gu.chinacloudsites.cn] is completed!
+>>> FINISH https://gu.chinacloudsites.cn
+	>>> kill Chrome [3156]
+######## frame info is: {'main': {'domain': 'gu.chinacloudsites.cn', 'url': 'https://gu.chinacloudsites.cn/#/user/login'}}
+[url, filename] = https://dict.chinacloudsites.cn, https:,,dict.chinacloudsites.ct6i7eGf29j
+>>> START https://dict.chinacloudsites.cn
+		web page [https://dict.chinacloudsites.cn] is completed!
+>>> FINISH https://dict.chinacloudsites.cn
+	>>> kill Chrome [3275]
+######## frame info is: {'main': {'domain': 'dict.chinacloudsites.cn', 'url': 'https://dict.chinacloudsites.cn/'}}
+[url, filename] = https://convert.chinacloudsites.cn, https:,,convert.chinacloudsiteOeKc1jq0zl
+>>> START https://convert.chinacloudsites.cn
+		web page [https://convert.chinacloudsites.cn] is completed!
+>>> FINISH https://convert.chinacloudsites.cn
+	>>> kill Chrome [3391]
+######## frame info is: {'main': {'domain': 'convert.chinacloudsites.cn', 'url': 'https://convert.chinacloudsites.cn/'}}
+[url, filename] = https://eric.chinacloudsites.cn, https:,,eric.chinacloudsites.cUp2NdbROri
+>>> START https://eric.chinacloudsites.cn
+		web page [https://eric.chinacloudsites.cn] is completed!
+>>> FINISH https://eric.chinacloudsites.cn
+	>>> kill Chrome [3526]
+######## frame info is: {'main': {'domain': 'eric.chinacloudsites.cn', 'url': 'https://eric.chinacloudsites.cn/'}}
+[url, filename] = https://hd2.chinacloudsites.cn, https:,,hd2.chinacloudsites.cnvDSliOjLQI
+>>> START https://hd2.chinacloudsites.cn
+		web page [https://hd2.chinacloudsites.cn] is completed!
+>>> FINISH https://hd2.chinacloudsites.cn
+	>>> kill Chrome [3639]
+######## frame info is: {'main': {'domain': 'hd2.chinacloudsites.cn', 'url': 'https://hd2.chinacloudsites.cn/'}}
+[url, filename] = https://executor.chinacloudsites.cn, https:,,executor.chinacloudsitb3wfzM4hti
+>>> START https://executor.chinacloudsites.cn
+		web page [https://executor.chinacloudsites.cn] is completed!
+>>> FINISH https://executor.chinacloudsites.cn
+	>>> kill Chrome [3761]
+######## frame info is: {'main': {'domain': 'executor.chinacloudsites.cn', 'url': 'https://executor.chinacloudsites.cn/'}}
+[url, filename] = https://gt.chinacloudsites.cn, https:,,gt.chinacloudsites.cnLNyCsK0Flh
+>>> START https://gt.chinacloudsites.cn
+		web page [https://gt.chinacloudsites.cn] is completed!
+>>> FINISH https://gt.chinacloudsites.cn
+	>>> kill Chrome [3877]
+######## frame info is: {'main': {'domain': 'gt.chinacloudsites.cn', 'url': 'https://gt.chinacloudsites.cn/Account/Login'}}
+[url, filename] = https://hama.chinacloudsites.cn, https:,,hama.chinacloudsites.cRvkPrHEtno
+>>> START https://hama.chinacloudsites.cn
+		web page [https://hama.chinacloudsites.cn] is completed!
+>>> FINISH https://hama.chinacloudsites.cn
+	>>> kill Chrome [3998]
+######## frame info is: {'main': {'domain': 'hama.chinacloudsites.cn', 'url': 'https://hama.chinacloudsites.cn/'}}
+[url, filename] = https://helio.chinacloudsites.cn, https:,,helio.chinacloudsites.GM1Uhb9i8d
+>>> START https://helio.chinacloudsites.cn
+		web page [https://helio.chinacloudsites.cn] is completed!
+>>> FINISH https://helio.chinacloudsites.cn
+	>>> kill Chrome [4176]
+######## frame info is: {'main': {'domain': 'helio.chinacloudsites.cn', 'url': 'https://helio.chinacloudsites.cn/'}}
+[url, filename] = https://hongying.chinacloudsites.cn, https:,,hongying.chinacloudsit0qiSdwcV8Q
+>>> START https://hongying.chinacloudsites.cn
+		web page [https://hongying.chinacloudsites.cn] is completed!
+>>> FINISH https://hongying.chinacloudsites.cn
+	>>> kill Chrome [4303]
+######## frame info is: {'main': {'domain': 'hongying.chinacloudsites.cn', 'url': 'https://hongying.chinacloudsites.cn/#/login?redir=~2Fjob'}}
+[url, filename] = https://gb1.chinacloudsites.cn, https:,,gb1.chinacloudsites.cn60kVyTqSJW
+>>> START https://gb1.chinacloudsites.cn
+		web page [https://gb1.chinacloudsites.cn] is completed!
+>>> FINISH https://gb1.chinacloudsites.cn
+	>>> kill Chrome [4418]
+######## frame info is: {'main': {'domain': 'gb1.chinacloudsites.cn', 'url': 'https://gb1.chinacloudsites.cn/'}}
+[url, filename] = https://gbc.chinacloudsites.cn, https:,,gbc.chinacloudsites.cnJZI6tdSkwq
+>>> START https://gbc.chinacloudsites.cn
+		web page [https://gbc.chinacloudsites.cn] is completed!
+>>> FINISH https://gbc.chinacloudsites.cn
+	>>> kill Chrome [4531]
+######## frame info is: {'main': {'domain': 'open.weixin.qq.com', 'url': 'https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxf7536a83438c4419&redirect_uri=https%3A%2F%2Fgbc.chinacloudsites.cn%2Fgbs%2Foauth%2FUserInfoCallback%3FreturnUrl%3D%2F&response_type=code&scope=snsapi_userinfo&state=CxCore-165&connect_redirect=1#wechat_redirect'}}
+[url, filename] = https://connect.chinacloudsites.cn, https:,,connect.chinacloudsiteu9kaJhLd86
+>>> START https://connect.chinacloudsites.cn
+		Enter timeoutCallback
+		web page [https://connect.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://connect.chinacloudsites.cn
+	>>> kill Chrome [4656]
+######## frame info is: {}
+[url, filename] = https://document.chinacloudsites.cn, https:,,document.chinacloudsitFsEVW2UGnl
+>>> START https://document.chinacloudsites.cn
+		web page [https://document.chinacloudsites.cn] is completed!
+>>> FINISH https://document.chinacloudsites.cn
+	>>> kill Chrome [4789]
+######## frame info is: {'main': {'domain': 'document.chinacloudsites.cn', 'url': 'https://document.chinacloudsites.cn/'}}
+[url, filename] = https://hisp.chinacloudsites.cn, https:,,hisp.chinacloudsites.c0g67JIScub
+>>> START https://hisp.chinacloudsites.cn
+		web page [https://hisp.chinacloudsites.cn] is completed!
+>>> FINISH https://hisp.chinacloudsites.cn
+	>>> kill Chrome [4904]
+######## frame info is: {'main': {'domain': 'hisp.chinacloudsites.cn', 'url': 'https://hisp.chinacloudsites.cn/'}}
+[url, filename] = https://hello.chinacloudsites.cn, https:,,hello.chinacloudsites.u6qw7mOY1b
+>>> START https://hello.chinacloudsites.cn
+		web page [https://hello.chinacloudsites.cn] is completed!
+>>> FINISH https://hello.chinacloudsites.cn
+	>>> kill Chrome [5024]
+######## frame info is: {'main': {'domain': 'hello.chinacloudsites.cn', 'url': 'https://hello.chinacloudsites.cn/'}}
+[url, filename] = https://dm.chinacloudsites.cn, https:,,dm.chinacloudsites.cnuUGjOwB0oQ
+>>> START https://dm.chinacloudsites.cn
+		web page [https://dm.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://dm.chinacloudsites.cn
+	>>> kill Chrome [5147]
+######## frame info is: {}
+[url, filename] = https://hotel.chinacloudsites.cn, https:,,hotel.chinacloudsites.5fd31Ur7PQ
+>>> START https://hotel.chinacloudsites.cn
+		web page [https://hotel.chinacloudsites.cn] is completed!
+>>> FINISH https://hotel.chinacloudsites.cn
+	>>> kill Chrome [5247]
+######## frame info is: {'main': {'domain': 'lanxess3.chinacloudapp.cn', 'url': 'http://lanxess3.chinacloudapp.cn/login.aspx?AppLink=http%3a%2f%2fhotel.chinacloudsites.cn%2f&CallbackURL=https%3a%2f%2fhotel.chinacloudsites.cn%2f'}}
+[url, filename] = https://cust.chinacloudsites.cn, https:,,cust.chinacloudsites.cbN4ipOUWS7
+>>> START https://cust.chinacloudsites.cn
+		web page [https://cust.chinacloudsites.cn] is completed!
+>>> FINISH https://cust.chinacloudsites.cn
+	>>> kill Chrome [5377]
+######## frame info is: {'main': {'domain': 'login.partner.microsoftonline.cn', 'url': 'https://login.partner.microsoftonline.cn/143ce15d-e9f9-4264-9604-f8a384800a7c/oauth2/authorize?client_id=a044d3e1-a417-4498-83f7-9dd1034a9953&redirect_uri=https%3a%2f%2fcust.chinacloudsites.cn&response_mode=form_post&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3dh2i3l5ZHn0Ug7ZmE9Y-ochEZnWOq8N8SquvTcMhK8VY9LeAknxtUQyJKZAk5yk1VS4c-5NY90SGHVEBzYC8UvvIhyKe8gkYMCo9BM2RaseGAOoGJ6Om8ytV-cH3ofj0-QnT9mHyjXhZTjWP8v9Snshh3eXb9WlgRo8eILlnL7bWtC8tpMU_toDbakj1P3l6xD6Z1s2mLZL5eZOcE5xFHmOGPXo0sKHD29B62-KAEOlY&nonce=636989647617290950.ZjNhNjllZjAtMmNlYy00Njc4LWJlM2UtYWJmODUzZjFiNjA4OWZjYTcyMzQtM2ZlNS00MGFjLWJiYTktZjM1OTNmZGZlZDA5&x-client-SKU=ID_NET&x-client-ver=1.0.40306.1554'}}
+[url, filename] = https://giftcard.chinacloudsites.cn, https:,,giftcard.chinacloudsitGeMWSZYiok
+>>> START https://giftcard.chinacloudsites.cn
+		web page [https://giftcard.chinacloudsites.cn] is completed!
+>>> FINISH https://giftcard.chinacloudsites.cn
+	>>> kill Chrome [5502]
+######## frame info is: {'main': {'domain': 'giftcard.chinacloudsites.cn', 'url': 'https://giftcard.chinacloudsites.cn/'}}
+[url, filename] = https://insurance.chinacloudsites.cn, https:,,insurance.chinacloudsinhzCodA7kO
+>>> START https://insurance.chinacloudsites.cn
+		web page [https://insurance.chinacloudsites.cn] is completed!
+>>> FINISH https://insurance.chinacloudsites.cn
+	>>> kill Chrome [5634]
+######## frame info is: {'main': {'domain': 'insurance.chinacloudsites.cn', 'url': 'https://insurance.chinacloudsites.cn/'}}
+[url, filename] = https://incubator.chinacloudsites.cn, https:,,incubator.chinacloudsidf8lHj9WQI
+>>> START https://incubator.chinacloudsites.cn
+		web page [https://incubator.chinacloudsites.cn] is completed!
+>>> FINISH https://incubator.chinacloudsites.cn
+	>>> kill Chrome [5748]
+######## frame info is: {'main': {'domain': 'incubator.chinacloudsites.cn', 'url': 'https://incubator.chinacloudsites.cn/'}}
+[url, filename] = https://infocenter.chinacloudsites.cn, https:,,infocenter.chinacloudst06Z18XUuy
+>>> START https://infocenter.chinacloudsites.cn
+		web page [https://infocenter.chinacloudsites.cn] is completed!
+>>> FINISH https://infocenter.chinacloudsites.cn
+	>>> kill Chrome [5866]
+######## frame info is: {'main': {'domain': 'infocenter.chinacloudsites.cn', 'url': 'https://infocenter.chinacloudsites.cn/'}}
+[url, filename] = https://gs.chinacloudsites.cn, https:,,gs.chinacloudsites.cnIFyLgP8Rt5
+>>> START https://gs.chinacloudsites.cn
+		web page [https://gs.chinacloudsites.cn] is completed!
+>>> FINISH https://gs.chinacloudsites.cn
+	>>> kill Chrome [5983]
+######## frame info is: {'main': {'domain': 'gs.chinacloudsites.cn', 'url': 'https://gs.chinacloudsites.cn/'}}
+[url, filename] = https://gitlab.chinacloudsites.cn, https:,,gitlab.chinacloudsitesi3cluhHDTr
+>>> START https://gitlab.chinacloudsites.cn
+		web page [https://gitlab.chinacloudsites.cn] is completed!
+>>> FINISH https://gitlab.chinacloudsites.cn
+	>>> kill Chrome [6102]
+######## frame info is: {'main': {'domain': 'gitlab.chinacloudsites.cn', 'url': 'https://gitlab.chinacloudsites.cn/'}}
+[url, filename] = https://egret.chinacloudsites.cn, https:,,egret.chinacloudsites.zrYnGAVhmM
+>>> START https://egret.chinacloudsites.cn
+		web page [https://egret.chinacloudsites.cn] is completed!
+>>> FINISH https://egret.chinacloudsites.cn
+	>>> kill Chrome [6214]
+######## frame info is: {'main': {'domain': 'egret.chinacloudsites.cn', 'url': 'https://egret.chinacloudsites.cn/'}}
+[url, filename] = https://heal.chinacloudsites.cn, https:,,heal.chinacloudsites.cjWe7BEJrMG
+>>> START https://heal.chinacloudsites.cn
+		web page [https://heal.chinacloudsites.cn] is completed!
+>>> FINISH https://heal.chinacloudsites.cn
+	>>> kill Chrome [6340]
+######## frame info is: {'main': {'domain': 'heal.chinacloudsites.cn', 'url': 'https://heal.chinacloudsites.cn/'}}
+[url, filename] = https://jarvis.chinacloudsites.cn, https:,,jarvis.chinacloudsiteslqSwno3TBa
+>>> START https://jarvis.chinacloudsites.cn
+		web page [https://jarvis.chinacloudsites.cn] is completed!
+>>> FINISH https://jarvis.chinacloudsites.cn
+	>>> kill Chrome [6453]
+######## frame info is: {'main': {'domain': 'jarvis.chinacloudsites.cn', 'url': 'https://jarvis.chinacloudsites.cn/'}}
+[url, filename] = https://hiring.chinacloudsites.cn, https:,,hiring.chinacloudsitessF0AgRO9vX
+>>> START https://hiring.chinacloudsites.cn
+		web page [https://hiring.chinacloudsites.cn] is completed!
+>>> FINISH https://hiring.chinacloudsites.cn
+	>>> kill Chrome [6569]
+######## frame info is: {'main': {'domain': 'hiring.chinacloudsites.cn', 'url': 'https://hiring.chinacloudsites.cn/'}}
+[url, filename] = https://it.chinacloudsites.cn, https:,,it.chinacloudsites.cnRNyWUtgqfa
+>>> START https://it.chinacloudsites.cn
+		web page [https://it.chinacloudsites.cn] is completed!
+>>> FINISH https://it.chinacloudsites.cn
+	>>> kill Chrome [6683]
+######## frame info is: {'main': {'domain': 'it.chinacloudsites.cn', 'url': 'https://it.chinacloudsites.cn/'}}
+[url, filename] = https://iis.chinacloudsites.cn, https:,,iis.chinacloudsites.cnhj3Q8yJcEu
+>>> START https://iis.chinacloudsites.cn
+		web page [https://iis.chinacloudsites.cn] is completed!
+>>> FINISH https://iis.chinacloudsites.cn
+	>>> kill Chrome [6796]
+######## frame info is: {'main': {'domain': 'iis.chinacloudsites.cn', 'url': 'https://iis.chinacloudsites.cn/'}}
+[url, filename] = https://ice.chinacloudsites.cn, https:,,ice.chinacloudsites.cn7VRs34BAzw
+>>> START https://ice.chinacloudsites.cn
+		web page [https://ice.chinacloudsites.cn] is completed!
+>>> FINISH https://ice.chinacloudsites.cn
+	>>> kill Chrome [6910]
+######## frame info is: {'main': {'domain': 'ice.chinacloudsites.cn', 'url': 'https://ice.chinacloudsites.cn/'}}
+[url, filename] = https://ibc.chinacloudsites.cn, https:,,ibc.chinacloudsites.cnQAoumDOK6t
+>>> START https://ibc.chinacloudsites.cn
+		web page [https://ibc.chinacloudsites.cn] is completed!
+>>> FINISH https://ibc.chinacloudsites.cn
+	>>> kill Chrome [7026]
+######## frame info is: {'main': {'domain': 'ibc.chinacloudsites.cn', 'url': 'https://ibc.chinacloudsites.cn/'}}
+[url, filename] = https://iep.chinacloudsites.cn, https:,,iep.chinacloudsites.cniBuGbQxd5S
+>>> START https://iep.chinacloudsites.cn
+		web page [https://iep.chinacloudsites.cn] is completed!
+>>> FINISH https://iep.chinacloudsites.cn
+	>>> kill Chrome [7155]
+######## frame info is: {'main': {'domain': 'iep.chinacloudsites.cn', 'url': 'https://iep.chinacloudsites.cn/Login'}}
+[url, filename] = https://gx.chinacloudsites.cn, https:,,gx.chinacloudsites.cnHVOvofkDpj
+>>> START https://gx.chinacloudsites.cn
+		web page [https://gx.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://gx.chinacloudsites.cn
+	>>> kill Chrome [7279]
+######## frame info is: {}
+[url, filename] = https://gps.chinacloudsites.cn, https:,,gps.chinacloudsites.cnga4flNdow1
+>>> START https://gps.chinacloudsites.cn
+		web page [https://gps.chinacloudsites.cn] is completed!
+>>> FINISH https://gps.chinacloudsites.cn
+	>>> kill Chrome [7433]
+######## frame info is: {'main': {'domain': 'gps.chinacloudsites.cn', 'url': 'https://gps.chinacloudsites.cn/'}}
+[url, filename] = https://fixit.chinacloudsites.cn, https:,,fixit.chinacloudsites.IusXAVaJY2
+>>> START https://fixit.chinacloudsites.cn
+		web page [https://fixit.chinacloudsites.cn] is completed!
+>>> FINISH https://fixit.chinacloudsites.cn
+	>>> kill Chrome [7556]
+######## frame info is: {'main': {'domain': 'fixit.chinacloudsites.cn', 'url': 'https://fixit.chinacloudsites.cn/'}}
+[url, filename] = https://invest.chinacloudsites.cn, https:,,invest.chinacloudsitesIzSOlGZhmy
+>>> START https://invest.chinacloudsites.cn
+		web page [https://invest.chinacloudsites.cn] is completed!
+>>> FINISH https://invest.chinacloudsites.cn
+	>>> kill Chrome [7670]
+######## frame info is: {'main': {'domain': 'invest.chinacloudsites.cn', 'url': 'https://invest.chinacloudsites.cn/'}}
+[url, filename] = https://knowledgebase.chinacloudsites.cn, https:,,knowledgebase.chinaclo8BFd63Nzav
+>>> START https://knowledgebase.chinacloudsites.cn
+		web page [https://knowledgebase.chinacloudsites.cn] is completed!
+>>> FINISH https://knowledgebase.chinacloudsites.cn
+	>>> kill Chrome [7788]
+######## frame info is: {'main': {'domain': 'knowledgebase.chinacloudsites.cn', 'url': 'https://knowledgebase.chinacloudsites.cn/'}}
+[url, filename] = https://iam.chinacloudsites.cn, https:,,iam.chinacloudsites.cnCQ3F4Ss0jT
+>>> START https://iam.chinacloudsites.cn
+		web page [https://iam.chinacloudsites.cn] is completed!
+>>> FINISH https://iam.chinacloudsites.cn
+	>>> kill Chrome [7902]
+######## frame info is: {'main': {'domain': 'iam.chinacloudsites.cn', 'url': 'https://iam.chinacloudsites.cn/'}}
+[url, filename] = https://homepage.chinacloudsites.cn, https:,,homepage.chinacloudsit7yNkPivrnR
+>>> START https://homepage.chinacloudsites.cn
+		web page [https://homepage.chinacloudsites.cn] is completed!
+>>> FINISH https://homepage.chinacloudsites.cn
+	>>> kill Chrome [8018]
+######## frame info is: {'main': {'domain': 'homepage.chinacloudsites.cn', 'url': 'https://homepage.chinacloudsites.cn/'}}
+[url, filename] = https://ledvance.chinacloudsites.cn, https:,,ledvance.chinacloudsit9tWvmScriy
+>>> START https://ledvance.chinacloudsites.cn
+		web page [https://ledvance.chinacloudsites.cn] is completed!
+>>> FINISH https://ledvance.chinacloudsites.cn
+	>>> kill Chrome [8132]
+######## frame info is: {'main': {'domain': 'ledvance.chinacloudsites.cn', 'url': 'https://ledvance.chinacloudsites.cn/'}}
+[url, filename] = https://m1.chinacloudsites.cn, https:,,m1.chinacloudsites.cn0p6LkhaGMv
+>>> START https://m1.chinacloudsites.cn
+		web page [https://m1.chinacloudsites.cn] is completed!
+>>> FINISH https://m1.chinacloudsites.cn
+	>>> kill Chrome [8254]
+######## frame info is: {'main': {'domain': 'm1.chinacloudsites.cn', 'url': 'https://m1.chinacloudsites.cn/'}}
+[url, filename] = https://mar.chinacloudsites.cn, https:,,mar.chinacloudsites.cnDw37vr2fM1
+>>> START https://mar.chinacloudsites.cn
+		web page [https://mar.chinacloudsites.cn] is completed!
+>>> FINISH https://mar.chinacloudsites.cn
+	>>> kill Chrome [8373]
+######## frame info is: {'main': {'domain': 'mar.chinacloudsites.cn', 'url': 'https://mar.chinacloudsites.cn/'}}
+[url, filename] = https://jk.chinacloudsites.cn, https:,,jk.chinacloudsites.cnRYIy17UVGo
+>>> START https://jk.chinacloudsites.cn
+		web page [https://jk.chinacloudsites.cn] is completed!
+>>> FINISH https://jk.chinacloudsites.cn
+	>>> kill Chrome [8493]
+######## frame info is: {'main': {'domain': 'jk.chinacloudsites.cn', 'url': 'https://jk.chinacloudsites.cn/'}}
+[url, filename] = https://matrix.chinacloudsites.cn, https:,,matrix.chinacloudsitesYNDqcg0AX4
+>>> START https://matrix.chinacloudsites.cn
+		web page [https://matrix.chinacloudsites.cn] is completed!
+>>> FINISH https://matrix.chinacloudsites.cn
+	>>> kill Chrome [8610]
+######## frame info is: {'main': {'domain': 'matrix.chinacloudsites.cn', 'url': 'https://matrix.chinacloudsites.cn/'}}
+[url, filename] = https://lt.chinacloudsites.cn, https:,,lt.chinacloudsites.cn8Jx5oy4adR
+>>> START https://lt.chinacloudsites.cn
+		web page [https://lt.chinacloudsites.cn] is completed!
+>>> FINISH https://lt.chinacloudsites.cn
+	>>> kill Chrome [8726]
+######## frame info is: {'main': {'domain': 'lt.chinacloudsites.cn', 'url': 'https://lt.chinacloudsites.cn/Account/Login?ReturnUrl=%2F'}}
+[url, filename] = https://logging.chinacloudsites.cn, https:,,logging.chinacloudsiteHvnuBLSEqg
+>>> START https://logging.chinacloudsites.cn
+		web page [https://logging.chinacloudsites.cn] is completed!
+>>> FINISH https://logging.chinacloudsites.cn
+	>>> kill Chrome [8841]
+######## frame info is: {'main': {'domain': 'logging.chinacloudsites.cn', 'url': 'https://logging.chinacloudsites.cn/'}}
+[url, filename] = https://jimmy.chinacloudsites.cn, https:,,jimmy.chinacloudsites.3pRy85IWzt
+>>> START https://jimmy.chinacloudsites.cn
+		web page [https://jimmy.chinacloudsites.cn] is completed!
+>>> FINISH https://jimmy.chinacloudsites.cn
+	>>> kill Chrome [8958]
+######## frame info is: {'main': {'domain': 'jimmy.chinacloudsites.cn', 'url': 'https://jimmy.chinacloudsites.cn/'}}
+[url, filename] = https://market.chinacloudsites.cn, https:,,market.chinacloudsitesw3oMjtBf02
+>>> START https://market.chinacloudsites.cn
+		web page [https://market.chinacloudsites.cn] is completed!
+>>> FINISH https://market.chinacloudsites.cn
+	>>> kill Chrome [9073]
+######## frame info is: {'main': {'domain': 'market.chinacloudsites.cn', 'url': 'https://market.chinacloudsites.cn/'}}
+[url, filename] = https://leads.chinacloudsites.cn, https:,,leads.chinacloudsites.AoWp2NqitJ
+>>> START https://leads.chinacloudsites.cn
+		web page [https://leads.chinacloudsites.cn] is completed!
+>>> FINISH https://leads.chinacloudsites.cn
+	>>> kill Chrome [9191]
+######## frame info is: {'main': {'domain': 'leads.chinacloudsites.cn', 'url': 'https://leads.chinacloudsites.cn/Admin/User/Login?returnUrl=https://leads.chinacloudsites.cn/Admin/Activity/Index'}}
+[url, filename] = https://leader.chinacloudsites.cn, https:,,leader.chinacloudsitesIC8ZdJKpMg
+>>> START https://leader.chinacloudsites.cn
+		web page [https://leader.chinacloudsites.cn] is completed!
+>>> FINISH https://leader.chinacloudsites.cn
+	>>> kill Chrome [9303]
+######## frame info is: {'main': {'domain': 'login.partner.microsoftonline.cn', 'url': 'https://login.partner.microsoftonline.cn/143ce15d-e9f9-4264-9604-f8a384800a7c/oauth2/authorize?client_id=7da7d304-bf74-48d5-9499-588bca15aeff&redirect_uri=https%3a%2f%2fleader.chinacloudsites.cn&response_mode=form_post&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3dwyPcuXlndDsIx_G_bZhld9UWy35eIIms2NGTWf_uOYPbsGYmowSEZ4E4CPutCkuUcyRBew3oNVf2kyPft8M6i0tjCFDliKaRWt4Of-uREDDwcvuGXoNU0W8in2xUBx4Rod1sGNZghfPjUjqIhozRzotz3zSQiuckjiQBMIxdeDLeAFjx-XH4brEEyos9iwSVuBM1KuSRFcVUVIAxBSpnHjuyCiTwOFtVWnEM90blBHI&nonce=636989667719303663.NzIwNGFlZTAtZTBiYy00MGFhLTk4ZjYtMTYwNjdjMDg1N2I5NjdhODQ1NzQtNWZmZi00MTYwLTk5MGQtMjExNjU3MzU3OGY2&x-client-SKU=ID_NET&x-client-ver=1.0.40306.1554'}}
+[url, filename] = https://lighthouse.chinacloudsites.cn, https:,,lighthouse.chinacloudsO2bmtwW483
+>>> START https://lighthouse.chinacloudsites.cn
+		web page [https://lighthouse.chinacloudsites.cn] is completed!
+>>> FINISH https://lighthouse.chinacloudsites.cn
+	>>> kill Chrome [9432]
+######## frame info is: {'main': {'domain': 'lighthouse.chinacloudsites.cn', 'url': 'https://lighthouse.chinacloudsites.cn/'}}
+[url, filename] = https://jr.chinacloudsites.cn, https:,,jr.chinacloudsites.cnbHNfFDz9J3
+>>> START https://jr.chinacloudsites.cn
+		web page [https://jr.chinacloudsites.cn] is completed!
+>>> FINISH https://jr.chinacloudsites.cn
+	>>> kill Chrome [9547]
+######## frame info is: {'main': {'domain': 'jr.chinacloudsites.cn', 'url': 'https://jr.chinacloudsites.cn/Manage/'}}
+[url, filename] = https://meeting.chinacloudsites.cn, https:,,meeting.chinacloudsiteMahxYqUJ2P
+>>> START https://meeting.chinacloudsites.cn
+		web page [https://meeting.chinacloudsites.cn] is completed!
+>>> FINISH https://meeting.chinacloudsites.cn
+	>>> kill Chrome [9667]
+######## frame info is: {'main': {'domain': 'meeting.chinacloudsites.cn', 'url': 'https://meeting.chinacloudsites.cn/'}}
+[url, filename] = https://data.chinacloudsites.cn, https:,,data.chinacloudsites.cwHCT38rJIX
+>>> START https://data.chinacloudsites.cn
+		web page [https://data.chinacloudsites.cn] is completed!
+>>> FINISH https://data.chinacloudsites.cn
+	>>> kill Chrome [9790]
+######## frame info is: {'main': {'domain': 'data.chinacloudsites.cn', 'url': 'https://data.chinacloudsites.cn/'}}
+[url, filename] = https://m2.chinacloudsites.cn, https:,,m2.chinacloudsites.cnWvMGzDfQnt
+>>> START https://m2.chinacloudsites.cn
+		web page [https://m2.chinacloudsites.cn] is completed!
+>>> FINISH https://m2.chinacloudsites.cn
+	>>> kill Chrome [9904]
+######## frame info is: {'main': {'domain': 'm2.chinacloudsites.cn', 'url': 'https://m2.chinacloudsites.cn/'}}
+[url, filename] = https://md.chinacloudsites.cn, https:,,md.chinacloudsites.cnPlx7pZHQtV
+>>> START https://md.chinacloudsites.cn
+		web page [https://md.chinacloudsites.cn] is completed!
+>>> FINISH https://md.chinacloudsites.cn
+	>>> kill Chrome [10028]
+######## frame info is: {'main': {'domain': 'md.chinacloudsites.cn', 'url': 'https://md.chinacloudsites.cn/'}}
+[url, filename] = https://icm.chinacloudsites.cn, https:,,icm.chinacloudsites.cnRf9Dn5r8Bi
+>>> START https://icm.chinacloudsites.cn
+		web page [https://icm.chinacloudsites.cn] is completed!
+>>> FINISH https://icm.chinacloudsites.cn
+	>>> kill Chrome [10143]
+######## frame info is: {'main': {'domain': 'icm.chinacloudsites.cn', 'url': 'https://icm.chinacloudsites.cn/'}}
+[url, filename] = https://hub.chinacloudsites.cn, https:,,hub.chinacloudsites.cn6a4v0CsZqV
+>>> START https://hub.chinacloudsites.cn
+		web page [https://hub.chinacloudsites.cn] is completed!
+>>> FINISH https://hub.chinacloudsites.cn
+	>>> kill Chrome [10264]
+######## frame info is: {'main': {'domain': 'hub.chinacloudsites.cn', 'url': 'https://hub.chinacloudsites.cn/Account/Login?ReturnUrl=%2F'}}
+[url, filename] = https://merchant.chinacloudsites.cn, https:,,merchant.chinacloudsit0fOtqUKikd
+>>> START https://merchant.chinacloudsites.cn
+		web page [https://merchant.chinacloudsites.cn] is completed!
+>>> FINISH https://merchant.chinacloudsites.cn
+	>>> kill Chrome [10377]
+######## frame info is: {'main': {'domain': 'merchant.chinacloudsites.cn', 'url': 'https://merchant.chinacloudsites.cn/#/login?redirect=%2F'}}
+[url, filename] = https://harvest.chinacloudsites.cn, https:,,harvest.chinacloudsiteYlHDhOXk4p
+>>> START https://harvest.chinacloudsites.cn
+		web page [https://harvest.chinacloudsites.cn] is completed!
+>>> FINISH https://harvest.chinacloudsites.cn
+	>>> kill Chrome [10501]
+######## frame info is: {'main': {'domain': 'authn.jll.com', 'url': 'https://authn.jll.com/'}}
+[url, filename] = https://mk.chinacloudsites.cn, https:,,mk.chinacloudsites.cnqjgk3wzIRX
+>>> START https://mk.chinacloudsites.cn
+		web page [https://mk.chinacloudsites.cn] is completed!
+>>> FINISH https://mk.chinacloudsites.cn
+	>>> kill Chrome [10632]
+######## frame info is: {'main': {'domain': 'mk.chinacloudsites.cn', 'url': 'https://mk.chinacloudsites.cn/'}}
+[url, filename] = https://knowledge.chinacloudsites.cn, https:,,knowledge.chinacloudsieSvEMWbxKt
+>>> START https://knowledge.chinacloudsites.cn
+		web page [https://knowledge.chinacloudsites.cn] is completed!
+>>> FINISH https://knowledge.chinacloudsites.cn
+	>>> kill Chrome [10802]
+######## frame info is: {'main': {'domain': 'login.partner.microsoftonline.cn', 'url': 'https://login.partner.microsoftonline.cn/common/oauth2/authorize?response_type=code&client_id=5cccfe83-7f70-451e-80ec-1fa9dfe6def1&redirect_uri=http://knowledge.chinacloudsites.cn/Login'}}
+[url, filename] = https://mms.chinacloudsites.cn, https:,,mms.chinacloudsites.cnJz82lLxGap
+>>> START https://mms.chinacloudsites.cn
+		web page [https://mms.chinacloudsites.cn] is completed!
+>>> FINISH https://mms.chinacloudsites.cn
+	>>> kill Chrome [10939]
+######## frame info is: {'main': {'domain': 'mms.chinacloudsites.cn', 'url': 'https://mms.chinacloudsites.cn/User/Index'}}
+[url, filename] = https://interaction.chinacloudsites.cn, https:,,interaction.chinacloudkp9uAQeVyY
+>>> START https://interaction.chinacloudsites.cn
+		web page [https://interaction.chinacloudsites.cn] is completed!
+>>> FINISH https://interaction.chinacloudsites.cn
+	>>> kill Chrome [11054]
+######## frame info is: {'main': {'domain': 'interaction.chinacloudsites.cn', 'url': 'https://interaction.chinacloudsites.cn/'}}
+[url, filename] = https://movie.chinacloudsites.cn, https:,,movie.chinacloudsites.ALBzg8YRNb
+>>> START https://movie.chinacloudsites.cn
+		web page [https://movie.chinacloudsites.cn] is completed!
+>>> FINISH https://movie.chinacloudsites.cn
+	>>> kill Chrome [11169]
+######## frame info is: {'main': {'domain': '', 'url': 'https://movie.chinacloudsites.cn/'}}
+[url, filename] = https://milkyway.chinacloudsites.cn, https:,,milkyway.chinacloudsitOS5adMnz6x
+>>> START https://milkyway.chinacloudsites.cn
+		web page [https://milkyway.chinacloudsites.cn] is completed!
+>>> FINISH https://milkyway.chinacloudsites.cn
+	>>> kill Chrome [11286]
+######## frame info is: {'main': {'domain': '', 'url': 'https://milkyway.chinacloudsites.cn/'}}
+[url, filename] = https://montage.chinacloudsites.cn, https:,,montage.chinacloudsiteoxnEY9Gadt
+>>> START https://montage.chinacloudsites.cn
+		web page [https://montage.chinacloudsites.cn] is completed!
+>>> FINISH https://montage.chinacloudsites.cn
+	>>> kill Chrome [11409]
+######## frame info is: {'main': {'domain': 'montage.chinacloudsites.cn', 'url': 'https://montage.chinacloudsites.cn/'}}
+[url, filename] = https://monitor.chinacloudsites.cn, https:,,monitor.chinacloudsitehTFXdfExOG
+>>> START https://monitor.chinacloudsites.cn
+		web page [https://monitor.chinacloudsites.cn] is completed!
+>>> FINISH https://monitor.chinacloudsites.cn
+	>>> kill Chrome [11525]
+######## frame info is: {'main': {'domain': 'monitor.chinacloudsites.cn', 'url': 'https://monitor.chinacloudsites.cn/welcome'}}
+[url, filename] = https://mss.chinacloudsites.cn, https:,,mss.chinacloudsites.cnNtFpMu8YWk
+>>> START https://mss.chinacloudsites.cn
+		web page [https://mss.chinacloudsites.cn] is completed!
+>>> FINISH https://mss.chinacloudsites.cn
+	>>> kill Chrome [11653]
+######## frame info is: {'main': {'domain': 'mss.chinacloudsites.cn', 'url': 'https://mss.chinacloudsites.cn/alogin?rel=https://mss.chinacloudsites.cn/'}}
+[url, filename] = https://iot.chinacloudsites.cn, https:,,iot.chinacloudsites.cnO8BgSyU5G9
+>>> START https://iot.chinacloudsites.cn
+		web page [https://iot.chinacloudsites.cn] is completed!
+>>> FINISH https://iot.chinacloudsites.cn
+	>>> kill Chrome [11777]
+######## frame info is: {'main': {'domain': 'iot.chinacloudsites.cn', 'url': 'https://iot.chinacloudsites.cn/'}}
+[url, filename] = https://ip.chinacloudsites.cn, https:,,ip.chinacloudsites.cnptXuYZmB29
+>>> START https://ip.chinacloudsites.cn
+		web page [https://ip.chinacloudsites.cn] is completed!
+>>> FINISH https://ip.chinacloudsites.cn
+	>>> kill Chrome [11903]
+######## frame info is: {'main': {'domain': 'ip.chinacloudsites.cn', 'url': 'https://ip.chinacloudsites.cn/'}}
+[url, filename] = https://itservice.chinacloudsites.cn, https:,,itservice.chinacloudsiaEV14dh7PA
+>>> START https://itservice.chinacloudsites.cn
+		web page [https://itservice.chinacloudsites.cn] is completed!
+>>> FINISH https://itservice.chinacloudsites.cn
+	>>> kill Chrome [12028]
+######## frame info is: {'main': {'domain': 'itservice.chinacloudsites.cn', 'url': 'https://itservice.chinacloudsites.cn/'}}
+[url, filename] = https://modules.chinacloudsites.cn, https:,,modules.chinacloudsiterJ7IjcEX59
+>>> START https://modules.chinacloudsites.cn
+		web page [https://modules.chinacloudsites.cn] is completed!
+>>> FINISH https://modules.chinacloudsites.cn
+	>>> kill Chrome [12147]
+######## frame info is: {'main': {'domain': 'modules.chinacloudsites.cn', 'url': 'https://modules.chinacloudsites.cn/'}}
+[url, filename] = https://minisite.chinacloudsites.cn, https:,,minisite.chinacloudsitZB0gcXDM2P
+>>> START https://minisite.chinacloudsites.cn
+		web page [https://minisite.chinacloudsites.cn] is completed!
+>>> FINISH https://minisite.chinacloudsites.cn
+	>>> kill Chrome [12268]
+######## frame info is: {'main': {'domain': 'minisite.chinacloudsites.cn', 'url': 'https://minisite.chinacloudsites.cn/'}}
+[url, filename] = https://mu.chinacloudsites.cn, https:,,mu.chinacloudsites.cnyTGi1A8vwd
+>>> START https://mu.chinacloudsites.cn
+		web page [https://mu.chinacloudsites.cn] is completed!
+>>> FINISH https://mu.chinacloudsites.cn
+	>>> kill Chrome [12383]
+######## frame info is: {'main': {'domain': 'mu.chinacloudsites.cn', 'url': 'https://mu.chinacloudsites.cn/Identity/Account/Login?ReturnUrl=%2F'}}
+[url, filename] = https://myschool.chinacloudsites.cn, https:,,myschool.chinacloudsitO6BoUEvglC
+>>> START https://myschool.chinacloudsites.cn
+		web page [https://myschool.chinacloudsites.cn] is completed!
+>>> FINISH https://myschool.chinacloudsites.cn
+	>>> kill Chrome [12503]
+######## frame info is: {'main': {'domain': 'myschool.chinacloudsites.cn', 'url': 'https://myschool.chinacloudsites.cn/Account/Login'}}
+[url, filename] = https://mshop.chinacloudsites.cn, https:,,mshop.chinacloudsites.JztZPveCMG
+>>> START https://mshop.chinacloudsites.cn
+		web page [https://mshop.chinacloudsites.cn] is completed!
+>>> FINISH https://mshop.chinacloudsites.cn
+	>>> kill Chrome [12621]
+######## frame info is: {'main': {'domain': 'mshop.chinacloudsites.cn', 'url': 'https://mshop.chinacloudsites.cn/'}}
+[url, filename] = https://nem.chinacloudsites.cn, https:,,nem.chinacloudsites.cn5hdYvP4S7l
+>>> START https://nem.chinacloudsites.cn
+		web page [https://nem.chinacloudsites.cn] is completed!
+>>> FINISH https://nem.chinacloudsites.cn
+	>>> kill Chrome [12739]
+######## frame info is: {'main': {'domain': 'nem.chinacloudsites.cn', 'url': 'https://nem.chinacloudsites.cn/Account/Login?returnUrl=https://nem.chinacloudsites.cn/'}}
+[url, filename] = https://miniserver.chinacloudsites.cn, https:,,miniserver.chinaclouds1F29a6lGjx
+>>> START https://miniserver.chinacloudsites.cn
+		web page [https://miniserver.chinacloudsites.cn] is completed!
+>>> FINISH https://miniserver.chinacloudsites.cn
+	>>> kill Chrome [12857]
+######## frame info is: {'main': {'domain': 'miniserver.chinacloudsites.cn', 'url': 'https://miniserver.chinacloudsites.cn/'}}
+[url, filename] = https://novartis.chinacloudsites.cn, https:,,novartis.chinacloudsit8R4rFbimkH
+>>> START https://novartis.chinacloudsites.cn
+		web page [https://novartis.chinacloudsites.cn] is completed!
+>>> FINISH https://novartis.chinacloudsites.cn
+	>>> kill Chrome [12976]
+######## frame info is: {'main': {'domain': 'novartis.chinacloudsites.cn', 'url': 'https://novartis.chinacloudsites.cn/wechatError.html'}}
+[url, filename] = https://mobiletest.chinacloudsites.cn, https:,,mobiletest.chinacloudsgOksLPu3Fq
+>>> START https://mobiletest.chinacloudsites.cn
+		web page [https://mobiletest.chinacloudsites.cn] is completed!
+>>> FINISH https://mobiletest.chinacloudsites.cn
+	>>> kill Chrome [13104]
+######## frame info is: {'main': {'domain': 'mobiletest.chinacloudsites.cn', 'url': 'https://mobiletest.chinacloudsites.cn/'}}
+[url, filename] = https://ips.chinacloudsites.cn, https:,,ips.chinacloudsites.cnkTdZu7DVFi
+>>> START https://ips.chinacloudsites.cn
+		web page [https://ips.chinacloudsites.cn] is completed!
+>>> FINISH https://ips.chinacloudsites.cn
+	>>> kill Chrome [13222]
+######## frame info is: {'main': {'domain': 'ips.chinacloudsites.cn', 'url': 'https://ips.chinacloudsites.cn/'}}
+[url, filename] = https://mpp.chinacloudsites.cn, https:,,mpp.chinacloudsites.cnKV9JhgE4QA
+>>> START https://mpp.chinacloudsites.cn
+		web page [https://mpp.chinacloudsites.cn] is completed!
+>>> FINISH https://mpp.chinacloudsites.cn
+	>>> kill Chrome [13347]
+######## frame info is: {'main': {'domain': 'mpp.chinacloudsites.cn', 'url': 'https://mpp.chinacloudsites.cn/MiniPrograms/Create'}}
+[url, filename] = https://oc.chinacloudsites.cn, https:,,oc.chinacloudsites.cneZoyEkf3VQ
+>>> START https://oc.chinacloudsites.cn
+		web page [https://oc.chinacloudsites.cn] is completed!
+>>> FINISH https://oc.chinacloudsites.cn
+	>>> kill Chrome [13469]
+######## frame info is: {'main': {'domain': 'oc.chinacloudsites.cn', 'url': 'https://oc.chinacloudsites.cn/'}}
+[url, filename] = https://node1.chinacloudsites.cn, https:,,node1.chinacloudsites.jLPymuwIX2
+>>> START https://node1.chinacloudsites.cn
+		web page [https://node1.chinacloudsites.cn] is completed!
+>>> FINISH https://node1.chinacloudsites.cn
+	>>> kill Chrome [13590]
+######## frame info is: {'main': {'domain': 'node1.chinacloudsites.cn', 'url': 'https://node1.chinacloudsites.cn/'}}
+[url, filename] = https://notification.chinacloudsites.cn, https:,,notification.chinaclouxEoW0RHa8k
+>>> START https://notification.chinacloudsites.cn
+		web page [https://notification.chinacloudsites.cn] is completed!
+>>> FINISH https://notification.chinacloudsites.cn
+	>>> kill Chrome [13714]
+######## frame info is: {'main': {'domain': 'notification.chinacloudsites.cn', 'url': 'https://notification.chinacloudsites.cn/Account/Login?ReturnUrl=%2F'}}
+[url, filename] = https://myapp.chinacloudsites.cn, https:,,myapp.chinacloudsites.yQVktRBp60
+>>> START https://myapp.chinacloudsites.cn
+		web page [https://myapp.chinacloudsites.cn] is completed!
+>>> FINISH https://myapp.chinacloudsites.cn
+	>>> kill Chrome [13833]
+######## frame info is: {'main': {'domain': 'myapp.chinacloudsites.cn', 'url': 'https://myapp.chinacloudsites.cn/'}}
+[url, filename] = https://ocr.chinacloudsites.cn, https:,,ocr.chinacloudsites.cntEU6hc2gDn
+>>> START https://ocr.chinacloudsites.cn
+		web page [https://ocr.chinacloudsites.cn] is completed!
+>>> FINISH https://ocr.chinacloudsites.cn
+	>>> kill Chrome [13954]
+######## frame info is: {'main': {'domain': 'ocr.chinacloudsites.cn', 'url': 'https://ocr.chinacloudsites.cn/'}}
+[url, filename] = https://nancy.chinacloudsites.cn, https:,,nancy.chinacloudsites.YHR9XQGm6O
+>>> START https://nancy.chinacloudsites.cn
+		web page [https://nancy.chinacloudsites.cn] is completed!
+>>> FINISH https://nancy.chinacloudsites.cn
+	>>> kill Chrome [14129]
+######## frame info is: {'main': {'domain': 'nancy.chinacloudsites.cn', 'url': 'https://nancy.chinacloudsites.cn/'}}
+[url, filename] = https://ordering.chinacloudsites.cn, https:,,ordering.chinacloudsitsmFRk5QUXC
+>>> START https://ordering.chinacloudsites.cn
+		web page [https://ordering.chinacloudsites.cn] is completed!
+>>> FINISH https://ordering.chinacloudsites.cn
+	>>> kill Chrome [14244]
+######## frame info is: {'main': {'domain': '', 'url': 'https://ordering.chinacloudsites.cn/swagger/'}}
+[url, filename] = https://lib.chinacloudsites.cn, https:,,lib.chinacloudsites.cnkqXHiajeFd
+>>> START https://lib.chinacloudsites.cn
+		web page [https://lib.chinacloudsites.cn] is completed!
+>>> FINISH https://lib.chinacloudsites.cn
+	>>> kill Chrome [14371]
+######## frame info is: {'main': {'domain': 'lib.chinacloudsites.cn', 'url': 'https://lib.chinacloudsites.cn/'}}
+[url, filename] = https://iptv.chinacloudsites.cn, https:,,iptv.chinacloudsites.ca18MCNgUzL
+>>> START https://iptv.chinacloudsites.cn
+		web page [https://iptv.chinacloudsites.cn] is completed!
+>>> FINISH https://iptv.chinacloudsites.cn
+	>>> kill Chrome [14487]
+######## frame info is: {'main': {'domain': 'iptv.chinacloudsites.cn', 'url': 'https://iptv.chinacloudsites.cn/Manage/Default/'}}
+[url, filename] = https://p2p.chinacloudsites.cn, https:,,p2p.chinacloudsites.cnh3CNufMGcb
+>>> START https://p2p.chinacloudsites.cn
+		web page [https://p2p.chinacloudsites.cn] is completed!
+>>> FINISH https://p2p.chinacloudsites.cn
+	>>> kill Chrome [14606]
+######## frame info is: {'main': {'domain': 'p2p.chinacloudsites.cn', 'url': 'https://p2p.chinacloudsites.cn/'}}
+[url, filename] = https://nodejs.chinacloudsites.cn, https:,,nodejs.chinacloudsites8fJr1ePaFi
+>>> START https://nodejs.chinacloudsites.cn
+		web page [https://nodejs.chinacloudsites.cn] is completed!
+>>> FINISH https://nodejs.chinacloudsites.cn
+	>>> kill Chrome [14727]
+######## frame info is: {'main': {'domain': 'nodejs.chinacloudsites.cn', 'url': 'https://nodejs.chinacloudsites.cn/'}}
+[url, filename] = https://oxford.chinacloudsites.cn, https:,,oxford.chinacloudsitespQYVXzIjFb
+>>> START https://oxford.chinacloudsites.cn
+		web page [https://oxford.chinacloudsites.cn] is completed!
+>>> FINISH https://oxford.chinacloudsites.cn
+	>>> kill Chrome [14846]
+######## frame info is: {'main': {'domain': 'oxford.chinacloudsites.cn', 'url': 'https://oxford.chinacloudsites.cn/'}}
+[url, filename] = https://papi.chinacloudsites.cn, https:,,papi.chinacloudsites.c7APG30fzwF
+>>> START https://papi.chinacloudsites.cn
+		web page [https://papi.chinacloudsites.cn] is completed!
+>>> FINISH https://papi.chinacloudsites.cn
+	>>> kill Chrome [14969]
+######## frame info is: {'main': {'domain': 'papi.chinacloudsites.cn', 'url': 'https://papi.chinacloudsites.cn/'}}
+[url, filename] = https://nk.chinacloudsites.cn, https:,,nk.chinacloudsites.cndsZwEAQ3hL
+>>> START https://nk.chinacloudsites.cn
+		web page [https://nk.chinacloudsites.cn] is completed!
+>>> FINISH https://nk.chinacloudsites.cn
+	>>> kill Chrome [15084]
+######## frame info is: {'main': {'domain': 'nk.chinacloudsites.cn', 'url': 'https://nk.chinacloudsites.cn/'}}
+[url, filename] = https://pgs.chinacloudsites.cn, https:,,pgs.chinacloudsites.cngynsT14PSr
+>>> START https://pgs.chinacloudsites.cn
+		web page [https://pgs.chinacloudsites.cn] is completed!
+>>> FINISH https://pgs.chinacloudsites.cn
+	>>> kill Chrome [15205]
+######## frame info is: {'main': {'domain': 'pgs.chinacloudsites.cn', 'url': 'https://pgs.chinacloudsites.cn/'}}
+[url, filename] = http://parkingdata.chinacloudsites.cn, http:,,parkingdata.chinacloudsvBXChJxlGL
+>>> START http://parkingdata.chinacloudsites.cn
+		web page [http://parkingdata.chinacloudsites.cn] is completed!
+>>> FINISH http://parkingdata.chinacloudsites.cn
+	>>> kill Chrome [15320]
+######## frame info is: {'main': {'domain': 'parkingdata.chinacloudsites.cn', 'url': 'http://parkingdata.chinacloudsites.cn/'}}
+[url, filename] = https://php.chinacloudsites.cn, https:,,php.chinacloudsites.cnfkOERlK0DS
+>>> START https://php.chinacloudsites.cn
+		web page [https://php.chinacloudsites.cn] is completed!
+>>> FINISH https://php.chinacloudsites.cn
+	>>> kill Chrome [15442]
+######## frame info is: {'main': {'domain': 'php.chinacloudsites.cn', 'url': 'https://php.chinacloudsites.cn/'}}
+[url, filename] = https://pac.chinacloudsites.cn, https:,,pac.chinacloudsites.cnYyNfUkEpvW
+>>> START https://pac.chinacloudsites.cn
+		web page [https://pac.chinacloudsites.cn] is completed!
+>>> FINISH https://pac.chinacloudsites.cn
+	>>> kill Chrome [15556]
+######## frame info is: {'main': {'domain': 'pac.chinacloudsites.cn', 'url': 'https://pac.chinacloudsites.cn/'}}
+[url, filename] = https://pdf.chinacloudsites.cn, https:,,pdf.chinacloudsites.cnrw1HvUPiTI
+>>> START https://pdf.chinacloudsites.cn
+		web page [https://pdf.chinacloudsites.cn] is completed!
+>>> FINISH https://pdf.chinacloudsites.cn
+	>>> kill Chrome [15673]
+######## frame info is: {'main': {'domain': 'pdf.chinacloudsites.cn', 'url': 'https://pdf.chinacloudsites.cn/'}}
+[url, filename] = https://myweb.chinacloudsites.cn, https:,,myweb.chinacloudsites.rgsW4Z8abx
+>>> START https://myweb.chinacloudsites.cn
+		web page [https://myweb.chinacloudsites.cn] is completed!
+>>> FINISH https://myweb.chinacloudsites.cn
+	>>> kill Chrome [15795]
+######## frame info is: {'main': {'domain': 'myweb.chinacloudsites.cn', 'url': 'https://myweb.chinacloudsites.cn/'}}
+[url, filename] = https://ppd.chinacloudsites.cn, https:,,ppd.chinacloudsites.cnuIDCWdaGpl
+>>> START https://ppd.chinacloudsites.cn
+		web page [https://ppd.chinacloudsites.cn] is completed!
+>>> FINISH https://ppd.chinacloudsites.cn
+	>>> kill Chrome [15913]
+######## frame info is: {'main': {'domain': 'ppd.chinacloudsites.cn', 'url': 'https://ppd.chinacloudsites.cn/'}}
+[url, filename] = https://producer.chinacloudsites.cn, https:,,producer.chinacloudsitY4OiMaSUqL
+>>> START https://producer.chinacloudsites.cn
+		web page [https://producer.chinacloudsites.cn] is completed!
+>>> FINISH https://producer.chinacloudsites.cn
+	>>> kill Chrome [16033]
+######## frame info is: {'main': {'domain': 'producer.chinacloudsites.cn', 'url': 'https://producer.chinacloudsites.cn/Account/Login?ReturnUrl=%2F'}}
+[url, filename] = https://playground.chinacloudsites.cn, https:,,playground.chinacloudsePdIBG7l2q
+>>> START https://playground.chinacloudsites.cn
+		web page [https://playground.chinacloudsites.cn] is completed!
+>>> FINISH https://playground.chinacloudsites.cn
+	>>> kill Chrome [16149]
+######## frame info is: {'main': {'domain': 'playground.chinacloudsites.cn', 'url': 'https://playground.chinacloudsites.cn/'}}
+[url, filename] = https://oracle.chinacloudsites.cn, https:,,oracle.chinacloudsitesu4i6bPcWXv
+>>> START https://oracle.chinacloudsites.cn
+		web page [https://oracle.chinacloudsites.cn] is completed!
+>>> FINISH https://oracle.chinacloudsites.cn
+	>>> kill Chrome [16267]
+######## frame info is: {'main': {'domain': 'oracle.chinacloudsites.cn', 'url': 'https://oracle.chinacloudsites.cn/'}, '0': {'domain': '', 'url': ''}}
+		---> Multiple FRAMES
+[url, filename] = https://prod.chinacloudsites.cn, https:,,prod.chinacloudsites.c7DNsjal6BW
+>>> START https://prod.chinacloudsites.cn
+		web page [https://prod.chinacloudsites.cn] is completed!
+>>> FINISH https://prod.chinacloudsites.cn
+	>>> kill Chrome [16393]
+######## frame info is: {'main': {'domain': 'prod.chinacloudsites.cn', 'url': 'https://prod.chinacloudsites.cn/'}}
+[url, filename] = https://prototype.chinacloudsites.cn, https:,,prototype.chinacloudsiSHTlgFXKv2
+>>> START https://prototype.chinacloudsites.cn
+		web page [https://prototype.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://prototype.chinacloudsites.cn
+	>>> kill Chrome [16508]
+######## frame info is: {'2': {'domain': 'prototype.chinacloudsites.cn', 'url': 'about:blank'}, '1': {'domain': 'prototype.chinacloudsites.cn', 'url': 'about:blank'}, '3': {'domain': 'prototype.chinacloudsites.cn', 'url': 'about:blank'}, 'main': {'domain': 'prototype.chinacloudsites.cn', 'url': 'https://prototype.chinacloudsites.cn/'}, '0': {'domain': '', 'url': ''}}
+		---> Multiple FRAMES
+[url, filename] = https://pb.chinacloudsites.cn, https:,,pb.chinacloudsites.cnxV324JYkhf
+>>> START https://pb.chinacloudsites.cn
+		web page [https://pb.chinacloudsites.cn] is completed!
+>>> FINISH https://pb.chinacloudsites.cn
+	>>> kill Chrome [16637]
+######## frame info is: {'main': {'domain': 'pb.chinacloudsites.cn', 'url': 'https://pb.chinacloudsites.cn/'}}
+[url, filename] = https://pineapple.chinacloudsites.cn, https:,,pineapple.chinacloudsi8k2rNWxgeG
+>>> START https://pineapple.chinacloudsites.cn
+		web page [https://pineapple.chinacloudsites.cn] is completed!
+>>> FINISH https://pineapple.chinacloudsites.cn
+	>>> kill Chrome [16755]
+######## frame info is: {'main': {'domain': 'pineapple.chinacloudsites.cn', 'url': 'https://pineapple.chinacloudsites.cn/'}}
+[url, filename] = https://open.chinacloudsites.cn, https:,,open.chinacloudsites.cDN1ISEJfzg
+>>> START https://open.chinacloudsites.cn
+		web page [https://open.chinacloudsites.cn] is completed!
+>>> FINISH https://open.chinacloudsites.cn
+	>>> kill Chrome [16876]
+######## frame info is: {'main': {'domain': 'open.chinacloudsites.cn', 'url': 'https://open.chinacloudsites.cn/'}}
+[url, filename] = https://pgw.chinacloudsites.cn, https:,,pgw.chinacloudsites.cnxiBCGo78zM
+>>> START https://pgw.chinacloudsites.cn
+		web page [https://pgw.chinacloudsites.cn] is completed!
+>>> FINISH https://pgw.chinacloudsites.cn
+	>>> kill Chrome [16992]
+######## frame info is: {'main': {'domain': 'pgw.chinacloudsites.cn', 'url': 'https://pgw.chinacloudsites.cn/'}}
+[url, filename] = https://poc.chinacloudsites.cn, https:,,poc.chinacloudsites.cn8we5qOxUu3
+>>> START https://poc.chinacloudsites.cn
+		web page [https://poc.chinacloudsites.cn] is completed!
+>>> FINISH https://poc.chinacloudsites.cn
+	>>> kill Chrome [17161]
+######## frame info is: {'main': {'domain': 'poc.chinacloudsites.cn', 'url': 'https://poc.chinacloudsites.cn/'}}
+[url, filename] = https://picture.chinacloudsites.cn, https:,,picture.chinacloudsitefSmL9wQedP
+>>> START https://picture.chinacloudsites.cn
+		web page [https://picture.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://picture.chinacloudsites.cn
+	>>> kill Chrome [17283]
+######## frame info is: {}
+[url, filename] = https://pso.chinacloudsites.cn, https:,,pso.chinacloudsites.cndasDWCYuIb
+>>> START https://pso.chinacloudsites.cn
+		web page [https://pso.chinacloudsites.cn] is completed!
+>>> FINISH https://pso.chinacloudsites.cn
+	>>> kill Chrome [17376]
+######## frame info is: {'main': {'domain': 'pso.chinacloudsites.cn', 'url': 'https://pso.chinacloudsites.cn/'}}
+[url, filename] = https://orchard.chinacloudsites.cn, https:,,orchard.chinacloudsitep4gWBdNYSo
+>>> START https://orchard.chinacloudsites.cn
+		web page [https://orchard.chinacloudsites.cn] is completed!
+>>> FINISH https://orchard.chinacloudsites.cn
+	>>> kill Chrome [17487]
+######## frame info is: {'main': {'domain': 'orchard.chinacloudsites.cn', 'url': 'https://orchard.chinacloudsites.cn/'}}
+[url, filename] = https://icloud.chinacloudsites.cn, https:,,icloud.chinacloudsitesiY89MkZBpt
+>>> START https://icloud.chinacloudsites.cn
+		web page [https://icloud.chinacloudsites.cn] is completed!
+>>> FINISH https://icloud.chinacloudsites.cn
+	>>> kill Chrome [17606]
+######## frame info is: {'main': {'domain': 'icloud.chinacloudsites.cn', 'url': 'https://icloud.chinacloudsites.cn/'}}
+[url, filename] = https://pulse.chinacloudsites.cn, https:,,pulse.chinacloudsites.4uOAgTfYPQ
+>>> START https://pulse.chinacloudsites.cn
+		web page [https://pulse.chinacloudsites.cn] is completed!
+>>> FINISH https://pulse.chinacloudsites.cn
+	>>> kill Chrome [17729]
+######## frame info is: {'main': {'domain': 'pulse.chinacloudsites.cn', 'url': 'https://pulse.chinacloudsites.cn/'}}
+[url, filename] = https://qm.chinacloudsites.cn, https:,,qm.chinacloudsites.cnns0maIerH9
+>>> START https://qm.chinacloudsites.cn
+		web page [https://qm.chinacloudsites.cn] is completed!
+>>> FINISH https://qm.chinacloudsites.cn
+	>>> kill Chrome [17858]
+######## frame info is: {'main': {'domain': 'qm.chinacloudsites.cn', 'url': 'https://qm.chinacloudsites.cn/Account/Login'}}
+[url, filename] = https://registration.chinacloudsites.cn, https:,,registration.chinaclou6RaG1Kq74y
+>>> START https://registration.chinacloudsites.cn
+		web page [https://registration.chinacloudsites.cn] is completed!
+>>> FINISH https://registration.chinacloudsites.cn
+	>>> kill Chrome [17975]
+######## frame info is: {'main': {'domain': 'registration.chinacloudsites.cn', 'url': 'https://registration.chinacloudsites.cn/'}}
+[url, filename] = https://qr.chinacloudsites.cn, https:,,qr.chinacloudsites.cnwL570S2PJX
+>>> START https://qr.chinacloudsites.cn
+		web page [https://qr.chinacloudsites.cn] is completed!
+>>> FINISH https://qr.chinacloudsites.cn
+	>>> kill Chrome [18105]
+######## frame info is: {'main': {'domain': 'qr.chinacloudsites.cn', 'url': 'https://qr.chinacloudsites.cn/CraftsManPay/Alipaybrowser'}}
+[url, filename] = https://restaurant.chinacloudsites.cn, https:,,restaurant.chinaclouds5qZhd0DgkK
+>>> START https://restaurant.chinacloudsites.cn
+		Enter timeoutCallback
+		web page [https://restaurant.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://restaurant.chinacloudsites.cn
+	>>> kill Chrome [18218]
+######## frame info is: {}
+[url, filename] = https://poa.chinacloudsites.cn, https:,,poa.chinacloudsites.cniHVnRAg2Xr
+>>> START https://poa.chinacloudsites.cn
+		web page [https://poa.chinacloudsites.cn] is completed!
+>>> FINISH https://poa.chinacloudsites.cn
+	>>> kill Chrome [18357]
+######## frame info is: {'main': {'domain': 'login.microsoftonline.com', 'url': 'https://login.microsoftonline.com/anruichina.com/oauth2/authorize?client_id=cebb3fa3-31c6-4f8e-aa19-a43f0e8f141b&response_type=id_token&redirect_uri=https://poa.anruichina.com/index.aspx&response_mode=form_post&scope=openid&state=12345&nonce=b0402880-7ade-4f73-aebc-cbe54dcc7a80'}}
+[url, filename] = https://node.chinacloudsites.cn, https:,,node.chinacloudsites.ciGe97jYQwu
+>>> START https://node.chinacloudsites.cn
+		web page [https://node.chinacloudsites.cn] is completed!
+>>> FINISH https://node.chinacloudsites.cn
+	>>> kill Chrome [18487]
+######## frame info is: {'main': {'domain': 'node.chinacloudsites.cn', 'url': 'https://node.chinacloudsites.cn/'}}
+[url, filename] = https://redstone.chinacloudsites.cn, https:,,redstone.chinacloudsitSWoHI9RbKE
+>>> START https://redstone.chinacloudsites.cn
+		web page [https://redstone.chinacloudsites.cn] is completed!
+>>> FINISH https://redstone.chinacloudsites.cn
+	>>> kill Chrome [18609]
+######## frame info is: {'main': {'domain': 'passport.sinoglass.com', 'url': 'https://passport.sinoglass.com/?appid=73626362&state=bedovgttj01rdevscmcyuckl&returl=https%3a%2f%2fredstone.chinacloudsites.cn%2fLogin.aspx'}}
+[url, filename] = https://raise.chinacloudsites.cn, https:,,raise.chinacloudsites.daZtLjbJKH
+>>> START https://raise.chinacloudsites.cn
+		web page [https://raise.chinacloudsites.cn] is completed!
+>>> FINISH https://raise.chinacloudsites.cn
+	>>> kill Chrome [18741]
+######## frame info is: {'main': {'domain': 'raise.chinacloudsites.cn', 'url': 'https://login.microsoftonline.com/66c65d8a-9158-4521-a2d8-664963db48e4/oauth2/authorize?response_type=id_token&client_id=4687bbb0-d8a4-437d-9efe-aff3de4eccce&redirect_uri=https%3A%2F%2Fraise.chinacloudsites.cn%2F&state=9949d56f-6d9b-45dc-9017-d7672954d612&client-request-id=2edadc65-6a1e-4dc7-9a86-e0c29e48e5c8&x-client-SKU=Js&x-client-Ver=1.0.17&nonce=bd98dd31-137f-49dd-a11a-113da8bbe4d3'}}
+[url, filename] = https://o2o.chinacloudsites.cn, https:,,o2o.chinacloudsites.cn1UXGRSwp6q
+>>> START https://o2o.chinacloudsites.cn
+		web page [https://o2o.chinacloudsites.cn] is completed!
+>>> FINISH https://o2o.chinacloudsites.cn
+	>>> kill Chrome [18859]
+######## frame info is: {'main': {'domain': 'o2o.chinacloudsites.cn', 'url': 'https://o2o.chinacloudsites.cn/'}}
+[url, filename] = https://painting.chinacloudsites.cn, https:,,painting.chinacloudsitLh6uepM4q5
+>>> START https://painting.chinacloudsites.cn
+		web page [https://painting.chinacloudsites.cn] is completed!
+>>> FINISH https://painting.chinacloudsites.cn
+	>>> kill Chrome [18976]
+######## frame info is: {'main': {'domain': 'login.microsoftonline.com', 'url': 'https://login.microsoftonline.com/e3098686-8093-4cba-87aa-dc0e0d4df8b5/oauth2/authorize?response_type=code+id_token&redirect_uri=https%3A%2F%2Fpainting.chinacloudsites.cn%2F.auth%2Flogin%2Faad%2Fcallback&client_id=f61806fe-244f-48e9-9b6f-aa3412414476&scope=openid+profile+email&response_mode=form_post&nonce=91476694f21a4828bb43f05e1eadecae_20190717150351&state=redir%3D%252F'}}
+[url, filename] = https://py.chinacloudsites.cn, https:,,py.chinacloudsites.cnWLZYfzN1Hg
+>>> START https://py.chinacloudsites.cn
+		web page [https://py.chinacloudsites.cn] is completed!
+>>> FINISH https://py.chinacloudsites.cn
+	>>> kill Chrome [19114]
+######## frame info is: {'main': {'domain': 'py.chinacloudsites.cn', 'url': 'https://py.chinacloudsites.cn/'}}
+[url, filename] = https://qm2.chinacloudsites.cn, https:,,qm2.chinacloudsites.cnRTISaJP2w4
+>>> START https://qm2.chinacloudsites.cn
+		web page [https://qm2.chinacloudsites.cn] is completed!
+>>> FINISH https://qm2.chinacloudsites.cn
+	>>> kill Chrome [19233]
+######## frame info is: {'main': {'domain': 'qm2.chinacloudsites.cn', 'url': 'https://qm2.chinacloudsites.cn/Account/Login'}}
+[url, filename] = https://qa.chinacloudsites.cn, https:,,qa.chinacloudsites.cnfJIl9Q85Wu
+>>> START https://qa.chinacloudsites.cn
+		web page [https://qa.chinacloudsites.cn] is completed!
+>>> FINISH https://qa.chinacloudsites.cn
+	>>> kill Chrome [19357]
+######## frame info is: {'main': {'domain': 'qa.chinacloudsites.cn', 'url': 'https://qa.chinacloudsites.cn/'}}
+[url, filename] = https://prodtest.chinacloudsites.cn, https:,,prodtest.chinacloudsitJoRHGPSbnv
+>>> START https://prodtest.chinacloudsites.cn
+		web page [https://prodtest.chinacloudsites.cn] is completed!
+>>> FINISH https://prodtest.chinacloudsites.cn
+	>>> kill Chrome [19474]
+######## frame info is: {'main': {'domain': 'prodtest.chinacloudsites.cn', 'url': 'https://prodtest.chinacloudsites.cn/'}}
+[url, filename] = https://sap.chinacloudsites.cn, https:,,sap.chinacloudsites.cnb5No30ghRc
+>>> START https://sap.chinacloudsites.cn
+		web page [https://sap.chinacloudsites.cn] is completed!
+>>> FINISH https://sap.chinacloudsites.cn
+	>>> kill Chrome [19592]
+######## frame info is: {'main': {'domain': 'sap.chinacloudsites.cn', 'url': 'https://sap.chinacloudsites.cn/'}}
+[url, filename] = http://learn2.chinacloudsites.cn, http:,,learn2.chinacloudsites.xoQYFPOrUZ
+>>> START http://learn2.chinacloudsites.cn
+		web page [http://learn2.chinacloudsites.cn] is completed!
+>>> FINISH http://learn2.chinacloudsites.cn
+	>>> kill Chrome [19708]
+######## frame info is: {'main': {'domain': 'learn2.chinacloudsites.cn', 'url': 'http://learn2.chinacloudsites.cn/'}}
+[url, filename] = https://s2.chinacloudsites.cn, https:,,s2.chinacloudsites.cnl5c9gEhfvY
+>>> START https://s2.chinacloudsites.cn
+		web page [https://s2.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://s2.chinacloudsites.cn
+	>>> kill Chrome [19833]
+######## frame info is: {'main': {'domain': 's2.chinacloudsites.cn', 'url': 'https://s2.chinacloudsites.cn/'}}
+[url, filename] = https://secure.chinacloudsites.cn, https:,,secure.chinacloudsitesv6gXnGpNMD
+>>> START https://secure.chinacloudsites.cn
+		web page [https://secure.chinacloudsites.cn] is completed!
+>>> FINISH https://secure.chinacloudsites.cn
+	>>> kill Chrome [19957]
+######## frame info is: {'main': {'domain': 'secure.chinacloudsites.cn', 'url': 'https://secure.chinacloudsites.cn/'}}
+[url, filename] = https://piwik.chinacloudsites.cn, https:,,piwik.chinacloudsites.8roFi0Npcl
+>>> START https://piwik.chinacloudsites.cn
+		web page [https://piwik.chinacloudsites.cn] is completed!
+>>> FINISH https://piwik.chinacloudsites.cn
+	>>> kill Chrome [20072]
+######## frame info is: {'main': {'domain': 'piwik.chinacloudsites.cn', 'url': 'https://piwik.chinacloudsites.cn/'}}
+[url, filename] = https://moonchatserviceprod.chinacloudsites.cn, https:,,moonchatserviceprod.chMwdVHOZFhr
+>>> START https://moonchatserviceprod.chinacloudsites.cn
+		web page [https://moonchatserviceprod.chinacloudsites.cn] is completed!
+>>> FINISH https://moonchatserviceprod.chinacloudsites.cn
+	>>> kill Chrome [20251]
+######## frame info is: {'main': {'domain': 'moonchatserviceprod.chinacloudsites.cn', 'url': 'https://moonchatserviceprod.chinacloudsites.cn/'}}
+[url, filename] = https://sg.chinacloudsites.cn, https:,,sg.chinacloudsites.cn1TjdwrZXSA
+>>> START https://sg.chinacloudsites.cn
+		web page [https://sg.chinacloudsites.cn] is completed!
+>>> FINISH https://sg.chinacloudsites.cn
+	>>> kill Chrome [20366]
+######## frame info is: {'main': {'domain': 'sg.chinacloudsites.cn', 'url': 'https://sg.chinacloudsites.cn/'}}
+[url, filename] = https://scs.chinacloudsites.cn, https:,,scs.chinacloudsites.cn8b7Zq0DVHP
+>>> START https://scs.chinacloudsites.cn
+		web page [https://scs.chinacloudsites.cn] is completed!
+>>> FINISH https://scs.chinacloudsites.cn
+	>>> kill Chrome [20480]
+######## frame info is: {'main': {'domain': 'scs.chinacloudsites.cn', 'url': 'https://scs.chinacloudsites.cn/Login.html'}}
+[url, filename] = https://rails.chinacloudsites.cn, https:,,rails.chinacloudsites.uTZG2NKdQ9
+>>> START https://rails.chinacloudsites.cn
+		web page [https://rails.chinacloudsites.cn] is completed!
+>>> FINISH https://rails.chinacloudsites.cn
+	>>> kill Chrome [20598]
+######## frame info is: {'main': {'domain': 'rails.chinacloudsites.cn', 'url': 'https://rails.chinacloudsites.cn/'}}
+[url, filename] = https://run.chinacloudsites.cn, https:,,run.chinacloudsites.cn0HN2aFLBgM
+>>> START https://run.chinacloudsites.cn
+		web page [https://run.chinacloudsites.cn] is completed!
+>>> FINISH https://run.chinacloudsites.cn
+	>>> kill Chrome [20716]
+######## frame info is: {'main': {'domain': 'run.chinacloudsites.cn', 'url': 'https://run.chinacloudsites.cn/'}}
+[url, filename] = https://sina.chinacloudsites.cn, https:,,sina.chinacloudsites.cSITEu7a2g5
+>>> START https://sina.chinacloudsites.cn
+		web page [https://sina.chinacloudsites.cn] is completed!
+>>> FINISH https://sina.chinacloudsites.cn
+	>>> kill Chrome [20833]
+######## frame info is: {'main': {'domain': 'sina.chinacloudsites.cn', 'url': 'https://sina.chinacloudsites.cn/'}}
+[url, filename] = https://skyline.chinacloudsites.cn, https:,,skyline.chinacloudsitecBF6bW4VvU
+>>> START https://skyline.chinacloudsites.cn
+		web page [https://skyline.chinacloudsites.cn] is completed!
+>>> FINISH https://skyline.chinacloudsites.cn
+	>>> kill Chrome [20974]
+######## frame info is: {'main': {'domain': 'skyline.chinacloudsites.cn', 'url': 'https://skyline.chinacloudsites.cn/'}}
+[url, filename] = https://silk.chinacloudsites.cn, https:,,silk.chinacloudsites.cDlgH0zXB5o
+>>> START https://silk.chinacloudsites.cn
+		web page [https://silk.chinacloudsites.cn] is completed!
+>>> FINISH https://silk.chinacloudsites.cn
+	>>> kill Chrome [21093]
+######## frame info is: {'main': {'domain': 'silk.chinacloudsites.cn', 'url': 'https://silk.chinacloudsites.cn/'}}
+[url, filename] = https://shr.chinacloudsites.cn, https:,,shr.chinacloudsites.cn0UcPILNRqs
+>>> START https://shr.chinacloudsites.cn
+		web page [https://shr.chinacloudsites.cn] is completed!
+>>> FINISH https://shr.chinacloudsites.cn
+	>>> kill Chrome [21214]
+######## frame info is: {'main': {'domain': 'shr.chinacloudsites.cn', 'url': 'https://shr.chinacloudsites.cn/'}}
+[url, filename] = https://silkroad.chinacloudsites.cn, https:,,silkroad.chinacloudsitEOSJYHbilW
+>>> START https://silkroad.chinacloudsites.cn
+		web page [https://silkroad.chinacloudsites.cn] is completed!
+>>> FINISH https://silkroad.chinacloudsites.cn
+	>>> kill Chrome [21333]
+######## frame info is: {'main': {'domain': 'silkroad.chinacloudsites.cn', 'url': 'https://silkroad.chinacloudsites.cn/'}}
+[url, filename] = https://school.chinacloudsites.cn, https:,,school.chinacloudsitesCkDtNWJvmf
+>>> START https://school.chinacloudsites.cn
+		web page [https://school.chinacloudsites.cn] is completed!
+>>> FINISH https://school.chinacloudsites.cn
+	>>> kill Chrome [21456]
+######## frame info is: {'main': {'domain': 'school.chinacloudsites.cn', 'url': 'https://school.chinacloudsites.cn/'}}
+[url, filename] = https://sda.chinacloudsites.cn, https:,,sda.chinacloudsites.cnmAsMhHxCSn
+>>> START https://sda.chinacloudsites.cn
+		web page [https://sda.chinacloudsites.cn] is completed!
+>>> FINISH https://sda.chinacloudsites.cn
+	>>> kill Chrome [21570]
+######## frame info is: {'main': {'domain': 'sda.chinacloudsites.cn', 'url': 'https://sda.chinacloudsites.cn/'}}
+[url, filename] = https://speed.chinacloudsites.cn, https:,,speed.chinacloudsites.ojPdipSVNZ
+>>> START https://speed.chinacloudsites.cn
+		web page [https://speed.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://speed.chinacloudsites.cn
+	>>> kill Chrome [21682]
+######## frame info is: {'main': {'domain': 'speed.chinacloudsites.cn', 'url': 'https://speed.chinacloudsites.cn/'}, '0': {'domain': 'speed.chinacloudsites.cn', 'url': 'about:blank'}}
+		---> Multiple FRAMES
+[url, filename] = https://sso.chinacloudsites.cn, https:,,sso.chinacloudsites.cnq3rv0lfSWI
+>>> START https://sso.chinacloudsites.cn
+		web page [https://sso.chinacloudsites.cn] is completed!
+>>> FINISH https://sso.chinacloudsites.cn
+	>>> kill Chrome [21805]
+######## frame info is: {'main': {'domain': 'sso.chinacloudsites.cn', 'url': 'https://sso.chinacloudsites.cn/Account/Login?ReturnUrl=%2F'}}
+[url, filename] = https://sq.chinacloudsites.cn, https:,,sq.chinacloudsites.cnriIec8NshH
+>>> START https://sq.chinacloudsites.cn
+		web page [https://sq.chinacloudsites.cn] is completed!
+>>> FINISH https://sq.chinacloudsites.cn
+	>>> kill Chrome [21920]
+######## frame info is: {'main': {'domain': 'sq.chinacloudsites.cn', 'url': 'https://sq.chinacloudsites.cn/'}}
+[url, filename] = https://software.chinacloudsites.cn, https:,,software.chinacloudsitCK8N0FoEIa
+>>> START https://software.chinacloudsites.cn
+		web page [https://software.chinacloudsites.cn] is completed!
+>>> FINISH https://software.chinacloudsites.cn
+	>>> kill Chrome [22037]
+######## frame info is: {'main': {'domain': 'software.chinacloudsites.cn', 'url': 'https://software.chinacloudsites.cn/'}}
+[url, filename] = https://sms.chinacloudsites.cn, https:,,sms.chinacloudsites.cnk1JvQGiug6
+>>> START https://sms.chinacloudsites.cn
+		web page [https://sms.chinacloudsites.cn] is completed!
+>>> FINISH https://sms.chinacloudsites.cn
+	>>> kill Chrome [22159]
+######## frame info is: {'main': {'domain': 'sms.chinacloudsites.cn', 'url': 'https://sms.chinacloudsites.cn/Account/Login?ReturnUrl=%2F'}}
+[url, filename] = https://mini.chinacloudsites.cn, https:,,mini.chinacloudsites.cHJNUklx4Dn
+>>> START https://mini.chinacloudsites.cn
+		web page [https://mini.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://mini.chinacloudsites.cn
+	>>> kill Chrome [22275]
+######## frame info is: {'main': {'domain': 'frontdev.myjob500.com', 'url': 'http://frontdev.myjob500.com/Abouts/Error'}, '0': {'domain': '', 'url': ''}}
+		---> Multiple FRAMES
+[url, filename] = https://ops.chinacloudsites.cn, https:,,ops.chinacloudsites.cnhqWys6p5wz
+>>> START https://ops.chinacloudsites.cn
+		web page [https://ops.chinacloudsites.cn] is completed!
+>>> FINISH https://ops.chinacloudsites.cn
+	>>> kill Chrome [22409]
+######## frame info is: {'main': {'domain': 'ops.chinacloudsites.cn', 'url': 'https://ops.chinacloudsites.cn/'}}
+[url, filename] = https://reports.chinacloudsites.cn, https:,,reports.chinacloudsiterObZKMcPA4
+>>> START https://reports.chinacloudsites.cn
+		web page [https://reports.chinacloudsites.cn] is completed!
+>>> FINISH https://reports.chinacloudsites.cn
+	>>> kill Chrome [22525]
+######## frame info is: {'main': {'domain': 'reports.chinacloudsites.cn', 'url': 'https://reports.chinacloudsites.cn/'}}
+[url, filename] = https://storelocator.chinacloudsites.cn, https:,,storelocator.chinaclouxGXIF3b0h7
+>>> START https://storelocator.chinacloudsites.cn
+		web page [https://storelocator.chinacloudsites.cn] is completed!
+>>> FINISH https://storelocator.chinacloudsites.cn
+	>>> kill Chrome [22655]
+######## frame info is: {'main': {'domain': 'storelocator.chinacloudsites.cn', 'url': 'https://storelocator.chinacloudsites.cn/'}}
+[url, filename] = https://model.chinacloudsites.cn, https:,,model.chinacloudsites.R9DYLTVzfB
+>>> START https://model.chinacloudsites.cn
+		web page [https://model.chinacloudsites.cn] is completed!
+>>> FINISH https://model.chinacloudsites.cn
+	>>> kill Chrome [22773]
+######## frame info is: {'main': {'domain': 'model.chinacloudsites.cn', 'url': 'https://model.chinacloudsites.cn/'}}
+[url, filename] = https://supermarket.chinacloudsites.cn, https:,,supermarket.chinacloudwu9dn6cZh2
+>>> START https://supermarket.chinacloudsites.cn
+		web page [https://supermarket.chinacloudsites.cn] is completed!
+>>> FINISH https://supermarket.chinacloudsites.cn
+	>>> kill Chrome [22900]
+######## frame info is: {'main': {'domain': 'supermarket.chinacloudsites.cn', 'url': 'https://supermarket.chinacloudsites.cn/#!/Login'}}
+[url, filename] = https://ssr.chinacloudsites.cn, https:,,ssr.chinacloudsites.cnpCI8FnzUiZ
+>>> START https://ssr.chinacloudsites.cn
+		web page [https://ssr.chinacloudsites.cn] is completed!
+>>> FINISH https://ssr.chinacloudsites.cn
+	>>> kill Chrome [23028]
+######## frame info is: {'main': {'domain': 'ssr.chinacloudsites.cn', 'url': 'https://ssr.chinacloudsites.cn/'}}
+[url, filename] = https://renewal.chinacloudsites.cn, https:,,renewal.chinacloudsitedwJuKvnmBX
+>>> START https://renewal.chinacloudsites.cn
+		web page [https://renewal.chinacloudsites.cn] is completed!
+>>> FINISH https://renewal.chinacloudsites.cn
+	>>> kill Chrome [23148]
+######## frame info is: {'main': {'domain': 'renewal.chinacloudsites.cn', 'url': 'https://renewal.chinacloudsites.cn/'}}
+[url, filename] = https://sharing.chinacloudsites.cn, https:,,sharing.chinacloudsitezaym0qjWr8
+>>> START https://sharing.chinacloudsites.cn
+		web page [https://sharing.chinacloudsites.cn] is completed!
+>>> FINISH https://sharing.chinacloudsites.cn
+	>>> kill Chrome [23266]
+######## frame info is: {'main': {'domain': 'sharing.chinacloudsites.cn', 'url': 'https://sharing.chinacloudsites.cn/'}}
+[url, filename] = https://t2.chinacloudsites.cn, https:,,t2.chinacloudsites.cnaDQFNZjdY1
+>>> START https://t2.chinacloudsites.cn
+		web page [https://t2.chinacloudsites.cn] is completed!
+>>> FINISH https://t2.chinacloudsites.cn
+	>>> kill Chrome [23436]
+######## frame info is: {'main': {'domain': 't2.chinacloudsites.cn', 'url': 'https://t2.chinacloudsites.cn/login'}}
+[url, filename] = https://supplierportal.chinacloudsites.cn, https:,,supplierportal.chinaclm6tXOFSuRP
+>>> START https://supplierportal.chinacloudsites.cn
+		web page [https://supplierportal.chinacloudsites.cn] is completed!
+>>> FINISH https://supplierportal.chinacloudsites.cn
+	>>> kill Chrome [23564]
+######## frame info is: {'main': {'domain': 'supplierportal.chinacloudsites.cn', 'url': 'https://supplierportal.chinacloudsites.cn/Account/Login?ReturnUrl=%2F'}}
+[url, filename] = https://sh.chinacloudsites.cn, https:,,sh.chinacloudsites.cn4b0RBKoUCA
+>>> START https://sh.chinacloudsites.cn
+		web page [https://sh.chinacloudsites.cn] is completed!
+>>> FINISH https://sh.chinacloudsites.cn
+	>>> kill Chrome [23681]
+######## frame info is: {'main': {'domain': 'sh.chinacloudsites.cn', 'url': 'https://sh.chinacloudsites.cn/'}}
+[url, filename] = http://order.chinacloudsites.cn, http:,,order.chinacloudsites.c5IupG4MnN1
+>>> START http://order.chinacloudsites.cn
+		web page [http://order.chinacloudsites.cn] is completed!
+>>> FINISH http://order.chinacloudsites.cn
+	>>> kill Chrome [23801]
+######## frame info is: {'main': {'domain': 'authentication.magicloud.cn', 'url': 'https://authentication.magicloud.cn/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fclient_id%3Dmagicloud-order-china%26redirect_uri%3Dhttps%253A%252F%252Forder.magicloud.cn%252Fstatic%252Fsignin-callback.html%26response_type%3Did_token%2520token%26scope%3Dopenid%2520profile%2520email%2520progman.authserver.api%26state%3D1db542c5b73f4b7cb0fd54b3fbd2c63d%26nonce%3D4e8f6387288d459f985fd0b52d27aa13'}}
+[url, filename] = https://redemption.chinacloudsites.cn, https:,,redemption.chinacloudsWogF5tvCpe
+>>> START https://redemption.chinacloudsites.cn
+		web page [https://redemption.chinacloudsites.cn] is completed!
+>>> FINISH https://redemption.chinacloudsites.cn
+	>>> kill Chrome [23920]
+######## frame info is: {'main': {'domain': 'redemption.chinacloudsites.cn', 'url': 'https://redemption.chinacloudsites.cn/'}}
+[url, filename] = https://teach.chinacloudsites.cn, https:,,teach.chinacloudsites.uqileN3SsL
+>>> START https://teach.chinacloudsites.cn
+		web page [https://teach.chinacloudsites.cn] is completed!
+>>> FINISH https://teach.chinacloudsites.cn
+	>>> kill Chrome [24037]
+######## frame info is: {'2': {'domain': 'teach.chinacloudsites.cn', 'url': 'https://teach.chinacloudsites.cn/main.html'}, '1': {'domain': 'teach.chinacloudsites.cn', 'url': 'https://teach.chinacloudsites.cn/left.html'}, 'main': {'domain': 'teach.chinacloudsites.cn', 'url': 'https://teach.chinacloudsites.cn/'}, '0': {'domain': 'teach.chinacloudsites.cn', 'url': 'https://teach.chinacloudsites.cn/top.html'}}
+		---> Multiple FRAMES
+[url, filename] = https://target.chinacloudsites.cn, https:,,target.chinacloudsitesrZwEVncvD9
+>>> START https://target.chinacloudsites.cn
+		web page [https://target.chinacloudsites.cn] is completed!
+>>> FINISH https://target.chinacloudsites.cn
+	>>> kill Chrome [24151]
+######## frame info is: {'main': {'domain': 'target.chinacloudsites.cn', 'url': 'https://target.chinacloudsites.cn/'}}
+[url, filename] = http://microbiology.chinacloudsites.cn, http:,,microbiology.chinacloudT6yoV548gj
+>>> START http://microbiology.chinacloudsites.cn
+		web page [http://microbiology.chinacloudsites.cn] is completed!
+>>> FINISH http://microbiology.chinacloudsites.cn
+	>>> kill Chrome [24268]
+######## frame info is: {'main': {'domain': 'microbiology.chinacloudsites.cn', 'url': 'http://microbiology.chinacloudsites.cn/'}}
+[url, filename] = https://shanghai.chinacloudsites.cn, https:,,shanghai.chinacloudsitHUxW1P6egN
+>>> START https://shanghai.chinacloudsites.cn
+		web page [https://shanghai.chinacloudsites.cn] is completed!
+>>> FINISH https://shanghai.chinacloudsites.cn
+	>>> kill Chrome [24384]
+######## frame info is: {'main': {'domain': 'shanghai.chinacloudsites.cn', 'url': 'https://shanghai.chinacloudsites.cn/'}}
+[url, filename] = https://sss.chinacloudsites.cn, https:,,sss.chinacloudsites.cnXecr4Rm9lU
+>>> START https://sss.chinacloudsites.cn
+		web page [https://sss.chinacloudsites.cn] is completed!
+>>> FINISH https://sss.chinacloudsites.cn
+	>>> kill Chrome [24501]
+######## frame info is: {'main': {'domain': 'sss.chinacloudsites.cn', 'url': 'https://sss.chinacloudsites.cn/'}}
+[url, filename] = https://supply.chinacloudsites.cn, https:,,supply.chinacloudsitesk4iQLlUmBf
+>>> START https://supply.chinacloudsites.cn
+		web page [https://supply.chinacloudsites.cn] is completed!
+>>> FINISH https://supply.chinacloudsites.cn
+	>>> kill Chrome [24627]
+######## frame info is: {'main': {'domain': 'supply.chinacloudsites.cn', 'url': 'https://supply.chinacloudsites.cn/'}}
+[url, filename] = https://tcm.chinacloudsites.cn, https:,,tcm.chinacloudsites.cnnolg14A2rp
+>>> START https://tcm.chinacloudsites.cn
+		web page [https://tcm.chinacloudsites.cn] is completed!
+>>> FINISH https://tcm.chinacloudsites.cn
+	>>> kill Chrome [24742]
+######## frame info is: {'main': {'domain': 'tcm.chinacloudsites.cn', 'url': 'https://tcm.chinacloudsites.cn/#/login'}}
+[url, filename] = https://test-wx.chinacloudsites.cn, https:,,test-wx.chinacloudsiteTdP6KuHsvn
+>>> START https://test-wx.chinacloudsites.cn
+		web page [https://test-wx.chinacloudsites.cn] is completed!
+>>> FINISH https://test-wx.chinacloudsites.cn
+	>>> kill Chrome [24865]
+######## frame info is: {'main': {'domain': 'test-wx.chinacloudsites.cn', 'url': 'https://test-wx.chinacloudsites.cn/signin'}}
+[url, filename] = https://stest.chinacloudsites.cn, https:,,stest.chinacloudsites.npHVoNDYLa
+>>> START https://stest.chinacloudsites.cn
+		web page [https://stest.chinacloudsites.cn] is completed!
+>>> FINISH https://stest.chinacloudsites.cn
+	>>> kill Chrome [24979]
+######## frame info is: {'main': {'domain': 'stest.chinacloudsites.cn', 'url': 'https://stest.chinacloudsites.cn/'}}
+[url, filename] = https://sgs.chinacloudsites.cn, https:,,sgs.chinacloudsites.cnnvikBJxz6R
+>>> START https://sgs.chinacloudsites.cn
+		web page [https://sgs.chinacloudsites.cn] is completed!
+>>> FINISH https://sgs.chinacloudsites.cn
+	>>> kill Chrome [25097]
+######## frame info is: {'main': {'domain': 'sts.sgs.net', 'url': 'https://sts.sgs.net/adfs/ls?wa=wsignin1.0&wtrealm=https%3a%2f%2fsgs.edenyun.com&wreply=https%3a%2f%2fsgs.edenyun.com%2fFederatedAuthentication%2fProcessToken%3fReturnUrl%3d%2f'}}
+[url, filename] = https://testapi.chinacloudsites.cn, https:,,testapi.chinacloudsiteSTzOnqw82h
+>>> START https://testapi.chinacloudsites.cn
+		web page [https://testapi.chinacloudsites.cn] is completed!
+>>> FINISH https://testapi.chinacloudsites.cn
+	>>> kill Chrome [25226]
+######## frame info is: {'main': {'domain': 'testapi.chinacloudsites.cn', 'url': 'https://testapi.chinacloudsites.cn/'}}
+[url, filename] = https://testdns.chinacloudsites.cn, https:,,testdns.chinacloudsite7fmopCkMu0
+>>> START https://testdns.chinacloudsites.cn
+		web page [https://testdns.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://testdns.chinacloudsites.cn
+	>>> kill Chrome [25343]
+######## frame info is: {'main': {'domain': 'testdns.chinacloudsites.cn', 'url': 'https://testdns.chinacloudsites.cn/'}}
+[url, filename] = https://spring.chinacloudsites.cn, https:,,spring.chinacloudsitesYVagv3hKLe
+>>> START https://spring.chinacloudsites.cn
+		web page [https://spring.chinacloudsites.cn] is completed!
+>>> FINISH https://spring.chinacloudsites.cn
+	>>> kill Chrome [25460]
+######## frame info is: {'main': {'domain': 'spring.chinacloudsites.cn', 'url': 'https://spring.chinacloudsites.cn/'}}
+[url, filename] = https://social.chinacloudsites.cn, https:,,social.chinacloudsitesHjJIRoE2Mc
+>>> START https://social.chinacloudsites.cn
+		web page [https://social.chinacloudsites.cn] is completed!
+>>> FINISH https://social.chinacloudsites.cn
+	>>> kill Chrome [25577]
+######## frame info is: {'main': {'domain': 'social.chinacloudsites.cn', 'url': 'https://social.chinacloudsites.cn/Account/Login?ReturnUrl=%2F'}}
+[url, filename] = https://test.chinacloudsites.cn, https:,,test.chinacloudsites.cLGYZ1Uhd3J
+>>> START https://test.chinacloudsites.cn
+		web page [https://test.chinacloudsites.cn] is completed!
+>>> FINISH https://test.chinacloudsites.cn
+	>>> kill Chrome [25708]
+######## frame info is: {'main': {'domain': 'test.chinacloudsites.cn', 'url': 'https://test.chinacloudsites.cn/'}}
+[url, filename] = https://support3.chinacloudsites.cn, https:,,support3.chinacloudsit7LyX94uTgl
+>>> START https://support3.chinacloudsites.cn
+		web page [https://support3.chinacloudsites.cn] is completed!
+>>> FINISH https://support3.chinacloudsites.cn
+	>>> kill Chrome [25834]
+######## frame info is: {'main': {'domain': 'support3.chinacloudsites.cn', 'url': 'https://support3.chinacloudsites.cn/login'}}
+[url, filename] = https://testshop.chinacloudsites.cn, https:,,testshop.chinacloudsitQwGdeF4DsT
+>>> START https://testshop.chinacloudsites.cn
+		web page [https://testshop.chinacloudsites.cn] is completed!
+>>> FINISH https://testshop.chinacloudsites.cn
+	>>> kill Chrome [25953]
+######## frame info is: {'main': {'domain': 'testshop.chinacloudsites.cn', 'url': 'https://testshop.chinacloudsites.cn/'}}
+[url, filename] = https://testsite.chinacloudsites.cn, https:,,testsite.chinacloudsitWvhazC7NJA
+>>> START https://testsite.chinacloudsites.cn
+		web page [https://testsite.chinacloudsites.cn] is completed!
+>>> FINISH https://testsite.chinacloudsites.cn
+	>>> kill Chrome [26076]
+######## frame info is: {'main': {'domain': 'testsite.chinacloudsites.cn', 'url': 'https://testsite.chinacloudsites.cn/'}}
+[url, filename] = https://ted.chinacloudsites.cn, https:,,ted.chinacloudsites.cn2xsPOnjbL5
+>>> START https://ted.chinacloudsites.cn
+		web page [https://ted.chinacloudsites.cn] is completed!
+>>> FINISH https://ted.chinacloudsites.cn
+	>>> kill Chrome [26196]
+######## frame info is: {'main': {'domain': 'ted.chinacloudsites.cn', 'url': 'https://ted.chinacloudsites.cn/'}}
+[url, filename] = https://tc.chinacloudsites.cn, https:,,tc.chinacloudsites.cnr7IUpZvEw1
+>>> START https://tc.chinacloudsites.cn
+		web page [https://tc.chinacloudsites.cn] is completed!
+>>> FINISH https://tc.chinacloudsites.cn
+	>>> kill Chrome [26372]
+######## frame info is: {'main': {'domain': 'open.weixin.qq.com', 'url': 'https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxc58d65f63c3c47c0&redirect_uri=https%3A%2F%2Ftc.chinacloudsites.cn%2F%2Fwx%2Foauth%2FLoginCallback&response_type=code&scope=snsapi_userinfo&state=755ce9ed-0260-42d5-b1b8-180041f1dd8f&connect_redirect=1#wechat_redirect'}}
+[url, filename] = https://test11.chinacloudsites.cn, https:,,test11.chinacloudsites5X8tJrkjxf
+>>> START https://test11.chinacloudsites.cn
+		web page [https://test11.chinacloudsites.cn] is completed!
+>>> FINISH https://test11.chinacloudsites.cn
+	>>> kill Chrome [26502]
+######## frame info is: {'main': {'domain': 'test11.chinacloudsites.cn', 'url': 'https://test11.chinacloudsites.cn/'}}
+[url, filename] = https://test2.chinacloudsites.cn, https:,,test2.chinacloudsites.BEhsbxKa3v
+>>> START https://test2.chinacloudsites.cn
+		web page [https://test2.chinacloudsites.cn] is completed!
+>>> FINISH https://test2.chinacloudsites.cn
+	>>> kill Chrome [26618]
+######## frame info is: {'main': {'domain': 'test2.chinacloudsites.cn', 'url': 'https://test2.chinacloudsites.cn/'}}
+[url, filename] = https://template.chinacloudsites.cn, https:,,template.chinacloudsitme3pHIDslW
+>>> START https://template.chinacloudsites.cn
+		web page [https://template.chinacloudsites.cn] is completed!
+>>> FINISH https://template.chinacloudsites.cn
+	>>> kill Chrome [26739]
+######## frame info is: {'main': {'domain': 'template.chinacloudsites.cn', 'url': 'https://template.chinacloudsites.cn/'}}
+[url, filename] = https://tjuda.chinacloudsites.cn, https:,,tjuda.chinacloudsites.NXPGBAK1CV
+>>> START https://tjuda.chinacloudsites.cn
+		web page [https://tjuda.chinacloudsites.cn] is completed!
+>>> FINISH https://tjuda.chinacloudsites.cn
+	>>> kill Chrome [26855]
+######## frame info is: {'main': {'domain': 'tjuda.chinacloudsites.cn', 'url': 'https://tjuda.chinacloudsites.cn/'}}
+[url, filename] = https://testapp.chinacloudsites.cn, https:,,testapp.chinacloudsiteAq4oaLunpy
+>>> START https://testapp.chinacloudsites.cn
+		web page [https://testapp.chinacloudsites.cn] is completed!
+>>> FINISH https://testapp.chinacloudsites.cn
+	>>> kill Chrome [26980]
+######## frame info is: {'main': {'domain': 'testapp.chinacloudsites.cn', 'url': 'https://testapp.chinacloudsites.cn/'}}
+[url, filename] = https://test1.chinacloudsites.cn, https:,,test1.chinacloudsites.5kNqhRXgsc
+>>> START https://test1.chinacloudsites.cn
+		web page [https://test1.chinacloudsites.cn] is completed!
+>>> FINISH https://test1.chinacloudsites.cn
+	>>> kill Chrome [27095]
+######## frame info is: {'main': {'domain': 'test1.chinacloudsites.cn', 'url': 'https://test1.chinacloudsites.cn/'}}
+[url, filename] = https://shop.chinacloudsites.cn, https:,,shop.chinacloudsites.cfy7sUP0nIm
+>>> START https://shop.chinacloudsites.cn
+		web page [https://shop.chinacloudsites.cn] is completed!
+>>> FINISH https://shop.chinacloudsites.cn
+	>>> kill Chrome [27213]
+######## frame info is: {'main': {'domain': 'shop.chinacloudsites.cn', 'url': 'https://shop.chinacloudsites.cn/'}}
+[url, filename] = https://test123.chinacloudsites.cn, https:,,test123.chinacloudsiteRZSmd5JAb9
+>>> START https://test123.chinacloudsites.cn
+		web page [https://test123.chinacloudsites.cn] is completed!
+>>> FINISH https://test123.chinacloudsites.cn
+	>>> kill Chrome [27329]
+######## frame info is: {'main': {'domain': 'test123.chinacloudsites.cn', 'url': 'https://test123.chinacloudsites.cn/'}}
+[url, filename] = https://scan.chinacloudsites.cn, https:,,scan.chinacloudsites.cdsN61goZqz
+>>> START https://scan.chinacloudsites.cn
+		web page [https://scan.chinacloudsites.cn] is completed!
+>>> FINISH https://scan.chinacloudsites.cn
+	>>> kill Chrome [27449]
+######## frame info is: {'main': {'domain': 'scan.chinacloudsites.cn', 'url': 'https://scan.chinacloudsites.cn/'}}
+[url, filename] = https://textile.chinacloudsites.cn, https:,,textile.chinacloudsiteTGtluPzv9a
+>>> START https://textile.chinacloudsites.cn
+		web page [https://textile.chinacloudsites.cn] is completed!
+>>> FINISH https://textile.chinacloudsites.cn
+	>>> kill Chrome [27568]
+######## frame info is: {'main': {'domain': 'textile.chinacloudsites.cn', 'url': 'https://textile.chinacloudsites.cn/'}}
+[url, filename] = https://test02.chinacloudsites.cn, https:,,test02.chinacloudsitesfZWl36xyXN
+>>> START https://test02.chinacloudsites.cn
+		web page [https://test02.chinacloudsites.cn] is completed!
+>>> FINISH https://test02.chinacloudsites.cn
+	>>> kill Chrome [27685]
+######## frame info is: {'main': {'domain': 'test02.chinacloudsites.cn', 'url': 'https://test02.chinacloudsites.cn/'}}
+[url, filename] = https://tsc.chinacloudsites.cn, https:,,tsc.chinacloudsites.cndhRFrvZuy6
+>>> START https://tsc.chinacloudsites.cn
+		web page [https://tsc.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://tsc.chinacloudsites.cn
+	>>> kill Chrome [27808]
+######## frame info is: {'main': {'domain': 'tsc.chinacloudsites.cn', 'url': 'https://tsc.chinacloudsites.cn/cn/'}}
+[url, filename] = https://ups.chinacloudsites.cn, https:,,ups.chinacloudsites.cnBkWwC2ValE
+>>> START https://ups.chinacloudsites.cn
+		web page [https://ups.chinacloudsites.cn] is completed!
+>>> FINISH https://ups.chinacloudsites.cn
+	>>> kill Chrome [27928]
+######## frame info is: {'main': {'domain': 'ups.chinacloudsites.cn', 'url': 'https://ups.chinacloudsites.cn/#/'}}
+[url, filename] = https://tl.chinacloudsites.cn, https:,,tl.chinacloudsites.cnM0mTL53gWb
+>>> START https://tl.chinacloudsites.cn
+		web page [https://tl.chinacloudsites.cn] is completed!
+>>> FINISH https://tl.chinacloudsites.cn
+	>>> kill Chrome [28050]
+######## frame info is: {'main': {'domain': 'tl.chinacloudsites.cn', 'url': 'https://tl.chinacloudsites.cn/'}}
+[url, filename] = https://vg.chinacloudsites.cn, https:,,vg.chinacloudsites.cnZDKvXgq3uR
+>>> START https://vg.chinacloudsites.cn
+		web page [https://vg.chinacloudsites.cn] is completed!
+>>> FINISH https://vg.chinacloudsites.cn
+	>>> kill Chrome [28168]
+######## frame info is: {'main': {'domain': 'vg.chinacloudsites.cn', 'url': 'https://vg.chinacloudsites.cn/pc/'}}
+[url, filename] = https://testvm.chinacloudsites.cn, https:,,testvm.chinacloudsitesESTko8NJ9j
+>>> START https://testvm.chinacloudsites.cn
+		web page [https://testvm.chinacloudsites.cn] is completed!
+>>> FINISH https://testvm.chinacloudsites.cn
+	>>> kill Chrome [28289]
+######## frame info is: {'main': {'domain': 'testvm.chinacloudsites.cn', 'url': 'https://testvm.chinacloudsites.cn/'}}
+[url, filename] = https://vista.chinacloudsites.cn, https:,,vista.chinacloudsites.ObU4GozSVX
+>>> START https://vista.chinacloudsites.cn
+		web page [https://vista.chinacloudsites.cn] is completed!
+>>> FINISH https://vista.chinacloudsites.cn
+	>>> kill Chrome [28406]
+######## frame info is: {'main': {'domain': 'vistaidentity.chinacloudsites.cn', 'url': 'https://vistaidentity.chinacloudsites.cn/account/login?returnUrl=%2Fconnect%2Fauthorize%2Flogin%3Fclient_id%3DMembership.MVC%26redirect_uri%3Dhttps%253A%252F%252Fvista.chinacloudsites.cn%252Fsignin-oidc%26response_type%3Dcode%2520id_token%26scope%3Dopenid%2520profile%2520Membership.API%26response_mode%3Dform_post%26nonce%3D636989777424613991.YThiN2NmMTgtOWQ4Mi00ZThiLWJhY2UtNzZjYzMwOTVjMzdjMjE3Yzk5NGYtNjg0MC00MzNlLTlhZTMtZmIwMTE3MGQxYzZk%26state%3DCfDJ8Geoh0aV2EdAlJdjnAuBHTanRozyna6QgfpeVSH_lFqq9mnbueHs3Heue5wH9Z1us7eOFpUnI8cL7XQFQSkYtR-Q2d4QnDEERzh3fU7S-cYNduuEI_LYy7LpKmRdH_db0q-2Sc_-nWMiZfSRhahzGOZEvjY9t-1q9AkQ_LlCKmcXewN4Pm4TYtgn96gZWfWA5o-OzRlCrgKtFTMesCC3llGXtUx3jWzUFHqsSSI0WG-DWg1_keLqQiW11edbdK4yZKtKQFY_DDokX89QlWL32ZPJ4ortsytP9r_PXbY6DdS6smvFVhU2RK8xZg_hEOdGJfT2HoWemSglSb-EfFTgxI6uU3ry2QEs24qwV--dLJ_A'}}
+[url, filename] = https://tools.chinacloudsites.cn, https:,,tools.chinacloudsites.n9oI6rRcyH
+>>> START https://tools.chinacloudsites.cn
+		web page [https://tools.chinacloudsites.cn] is completed!
+>>> FINISH https://tools.chinacloudsites.cn
+	>>> kill Chrome [28536]
+######## frame info is: {'main': {'domain': 'tools.chinacloudsites.cn', 'url': 'https://tools.chinacloudsites.cn/'}}
+[url, filename] = https://testweb.chinacloudsites.cn, https:,,testweb.chinacloudsiteQ6oxU5C9rG
+>>> START https://testweb.chinacloudsites.cn
+		web page [https://testweb.chinacloudsites.cn] is completed!
+>>> FINISH https://testweb.chinacloudsites.cn
+	>>> kill Chrome [28649]
+######## frame info is: {'main': {'domain': 'testweb.chinacloudsites.cn', 'url': 'https://testweb.chinacloudsites.cn/'}}
+[url, filename] = https://startup.chinacloudsites.cn, https:,,startup.chinacloudsitecwXBbC3j5f
+>>> START https://startup.chinacloudsites.cn
+		web page [https://startup.chinacloudsites.cn] is completed!
+>>> FINISH https://startup.chinacloudsites.cn
+	>>> kill Chrome [28767]
+######## frame info is: {'main': {'domain': 'startup.chinacloudsites.cn', 'url': 'https://startup.chinacloudsites.cn/'}}
+[url, filename] = https://tobacco.chinacloudsites.cn, https:,,tobacco.chinacloudsiteAFTpuSdV8l
+>>> START https://tobacco.chinacloudsites.cn
+		web page [https://tobacco.chinacloudsites.cn] is completed!
+>>> FINISH https://tobacco.chinacloudsites.cn
+	>>> kill Chrome [28882]
+######## frame info is: {'main': {'domain': 'tobacco.chinacloudsites.cn', 'url': 'https://tobacco.chinacloudsites.cn/'}}
+[url, filename] = https://tool.chinacloudsites.cn, https:,,tool.chinacloudsites.c9BsGhc4F5z
+>>> START https://tool.chinacloudsites.cn
+		web page [https://tool.chinacloudsites.cn] is completed!
+>>> FINISH https://tool.chinacloudsites.cn
+	>>> kill Chrome [29002]
+######## frame info is: {'main': {'domain': 'tool.chinacloudsites.cn', 'url': 'https://tool.chinacloudsites.cn/'}}
+[url, filename] = https://uf.chinacloudsites.cn, https:,,uf.chinacloudsites.cn2WPRMgTv4b
+>>> START https://uf.chinacloudsites.cn
+		web page [https://uf.chinacloudsites.cn] is completed!
+>>> FINISH https://uf.chinacloudsites.cn
+	>>> kill Chrome [29116]
+######## frame info is: {'main': {'domain': 'uf.chinacloudsites.cn', 'url': 'https://uf.chinacloudsites.cn/'}}
+[url, filename] = https://vms.chinacloudsites.cn, https:,,vms.chinacloudsites.cns2R4HFEzMC
+>>> START https://vms.chinacloudsites.cn
+		web page [https://vms.chinacloudsites.cn] is completed!
+>>> FINISH https://vms.chinacloudsites.cn
+	>>> kill Chrome [29234]
+######## frame info is: {'main': {'domain': 'vms.chinacloudsites.cn', 'url': 'https://vms.chinacloudsites.cn/'}}
+[url, filename] = https://ttt.chinacloudsites.cn, https:,,ttt.chinacloudsites.cn0WJEX4ismv
+>>> START https://ttt.chinacloudsites.cn
+		web page [https://ttt.chinacloudsites.cn] is completed!
+>>> FINISH https://ttt.chinacloudsites.cn
+	>>> kill Chrome [29357]
+######## frame info is: {'main': {'domain': 'ttt.chinacloudsites.cn', 'url': 'https://ttt.chinacloudsites.cn/'}}
+[url, filename] = https://web-server.chinacloudsites.cn, https:,,web-server.chinacloudszwRNu08K3L
+>>> START https://web-server.chinacloudsites.cn
+		web page [https://web-server.chinacloudsites.cn] is completed!
+>>> FINISH https://web-server.chinacloudsites.cn
+	>>> kill Chrome [29528]
+######## frame info is: {'main': {'domain': 'web-server.chinacloudsites.cn', 'url': 'https://web-server.chinacloudsites.cn/'}}
+[url, filename] = https://webapp.chinacloudsites.cn, https:,,webapp.chinacloudsitess213pz5jBw
+>>> START https://webapp.chinacloudsites.cn
+		web page [https://webapp.chinacloudsites.cn] is completed!
+>>> FINISH https://webapp.chinacloudsites.cn
+	>>> kill Chrome [29655]
+######## frame info is: {'1': {'domain': '', 'url': ''}, 'main': {'domain': 'webapp.chinacloudsites.cn', 'url': 'https://webapp.chinacloudsites.cn/'}, '0': {'domain': 'webapp.chinacloudsites.cn', 'url': 'about:blank'}}
+		---> Multiple FRAMES
+[url, filename] = https://web3.chinacloudsites.cn, https:,,web3.chinacloudsites.cB7afNQngLU
+>>> START https://web3.chinacloudsites.cn
+		web page [https://web3.chinacloudsites.cn] is completed!
+>>> FINISH https://web3.chinacloudsites.cn
+	>>> kill Chrome [29777]
+######## frame info is: {'main': {'domain': 'web3.chinacloudsites.cn', 'url': 'https://web3.chinacloudsites.cn/'}}
+[url, filename] = https://showcase.chinacloudsites.cn, https:,,showcase.chinacloudsit76qmRn0wzG
+>>> START https://showcase.chinacloudsites.cn
+		web page [https://showcase.chinacloudsites.cn] is completed!
+>>> FINISH https://showcase.chinacloudsites.cn
+	>>> kill Chrome [29893]
+######## frame info is: {'main': {'domain': 'login.microsoftonline.com', 'url': 'https://login.microsoftonline.com/cookiesdisabled'}}
+[url, filename] = https://t1.chinacloudsites.cn, https:,,t1.chinacloudsites.cnHdPSlyu97X
+>>> START https://t1.chinacloudsites.cn
+		web page [https://t1.chinacloudsites.cn] is completed!
+>>> FINISH https://t1.chinacloudsites.cn
+	>>> kill Chrome [30023]
+######## frame info is: {'main': {'domain': 't1.chinacloudsites.cn', 'url': 'https://t1.chinacloudsites.cn/'}}
+[url, filename] = https://wcf.chinacloudsites.cn, https:,,wcf.chinacloudsites.cnRwn1LW52Dd
+>>> START https://wcf.chinacloudsites.cn
+		web page [https://wcf.chinacloudsites.cn] is completed!
+>>> FINISH https://wcf.chinacloudsites.cn
+	>>> kill Chrome [30143]
+######## frame info is: {'main': {'domain': 'wcf.chinacloudsites.cn', 'url': 'https://wcf.chinacloudsites.cn/'}}
+[url, filename] = https://vnet.chinacloudsites.cn, https:,,vnet.chinacloudsites.cK9lpIe1hBx
+>>> START https://vnet.chinacloudsites.cn
+		web page [https://vnet.chinacloudsites.cn] is completed!
+>>> FINISH https://vnet.chinacloudsites.cn
+	>>> kill Chrome [30259]
+######## frame info is: {'main': {'domain': 'vnet.chinacloudsites.cn', 'url': 'https://vnet.chinacloudsites.cn/'}}
+[url, filename] = https://webdemo.chinacloudsites.cn, https:,,webdemo.chinacloudsitedlHNwaD0L3
+>>> START https://webdemo.chinacloudsites.cn
+		web page [https://webdemo.chinacloudsites.cn] is completed!
+>>> FINISH https://webdemo.chinacloudsites.cn
+	>>> kill Chrome [30371]
+######## frame info is: {'main': {'domain': 'webdemo.chinacloudsites.cn', 'url': 'https://webdemo.chinacloudsites.cn/'}}
+[url, filename] = https://webapp01.chinacloudsites.cn, https:,,webapp01.chinacloudsitctxnBMXrL7
+>>> START https://webapp01.chinacloudsites.cn
+		web page [https://webapp01.chinacloudsites.cn] is completed!
+>>> FINISH https://webapp01.chinacloudsites.cn
+	>>> kill Chrome [30488]
+######## frame info is: {'main': {'domain': 'webapp01.chinacloudsites.cn', 'url': 'https://webapp01.chinacloudsites.cn/'}}
+[url, filename] = https://websrv.chinacloudsites.cn, https:,,websrv.chinacloudsitesYrJAUOKucR
+>>> START https://websrv.chinacloudsites.cn
+		web page [https://websrv.chinacloudsites.cn] is completed!
+>>> FINISH https://websrv.chinacloudsites.cn
+	>>> kill Chrome [30611]
+######## frame info is: {'main': {'domain': 'websrv.chinacloudsites.cn', 'url': 'https://websrv.chinacloudsites.cn/'}}
+[url, filename] = https://webclient.chinacloudsites.cn, https:,,webclient.chinacloudsiXp6qm1jUHd
+>>> START https://webclient.chinacloudsites.cn
+		web page [https://webclient.chinacloudsites.cn] is TIMEOUT!
+>>> FINISH https://webclient.chinacloudsites.cn
+	>>> kill Chrome [30727]
+######## frame info is: {'main': {'domain': 'webclient.chinacloudsites.cn', 'url': 'https://webclient.chinacloudsites.cn/'}, '0': {'domain': 'webclient.chinacloudsites.cn', 'url': 'about:blank'}}
+		---> Multiple FRAMES
+[url, filename] = https://wa.chinacloudsites.cn, https:,,wa.chinacloudsites.cnT0DIJM9ZWY
+>>> START https://wa.chinacloudsites.cn
+		web page [https://wa.chinacloudsites.cn] is completed!
+>>> FINISH https://wa.chinacloudsites.cn
+	>>> kill Chrome [30860]
+######## frame info is: {'main': {'domain': 'wa.chinacloudsites.cn', 'url': 'https://wa.chinacloudsites.cn/'}}
+[url, filename] = https://tv.chinacloudsites.cn, https:,,tv.chinacloudsites.cnFM18sCcQt2
+>>> START https://tv.chinacloudsites.cn
+		web page [https://tv.chinacloudsites.cn] is completed!
+>>> FINISH https://tv.chinacloudsites.cn
+	>>> kill Chrome [30982]
+######## frame info is: {'main': {'domain': 'tv.chinacloudsites.cn', 'url': 'https://tv.chinacloudsites.cn/'}}
+[url, filename] = https://webtest.chinacloudsites.cn, https:,,webtest.chinacloudsiteg8CQYrt7um
+>>> START https://webtest.chinacloudsites.cn
+		web page [https://webtest.chinacloudsites.cn] is completed!
+>>> FINISH https://webtest.chinacloudsites.cn
+	>>> kill Chrome [31101]
+######## frame info is: {'main': {'domain': 'webtest.chinacloudsites.cn', 'url': 'https://webtest.chinacloudsites.cn/'}}
+[url, filename] = https://wechat.chinacloudsites.cn, https:,,wechat.chinacloudsitesaiCwskOKZf
+>>> START https://wechat.chinacloudsites.cn
+		web page [https://wechat.chinacloudsites.cn] is completed!
+>>> FINISH https://wechat.chinacloudsites.cn
+	>>> kill Chrome [31223]
+######## frame info is: {'main': {'domain': 'wechat.chinacloudsites.cn', 'url': 'https://wechat.chinacloudsites.cn/'}}
+[url, filename] = https://wenhua.chinacloudsites.cn, https:,,wenhua.chinacloudsitessjaEM7JG4W
+>>> START https://wenhua.chinacloudsites.cn
+		web page [https://wenhua.chinacloudsites.cn] is completed!
+>>> FINISH https://wenhua.chinacloudsites.cn
+	>>> kill Chrome [31336]
+######## frame info is: {'main': {'domain': 'wenhua.chinacloudsites.cn', 'url': 'https://wenhua.chinacloudsites.cn/'}}
+[url, filename] = https://webboard.chinacloudsites.cn, https:,,webboard.chinacloudsit6LYBWElNxF
+>>> START https://webboard.chinacloudsites.cn
+		web page [https://webboard.chinacloudsites.cn] is completed!
+>>> FINISH https://webboard.chinacloudsites.cn
+	>>> kill Chrome [31459]
+######## frame info is: {'main': {'domain': 'webboard.chinacloudsites.cn', 'url': 'https://webboard.chinacloudsites.cn/'}}
+[url, filename] = https://webservice.chinacloudsites.cn, https:,,webservice.chinacloudspV4GXa2zEv
+>>> START https://webservice.chinacloudsites.cn
+		web page [https://webservice.chinacloudsites.cn] is completed!
+>>> FINISH https://webservice.chinacloudsites.cn
+	>>> kill Chrome [31582]
+######## frame info is: {'main': {'domain': 'webservice.chinacloudsites.cn', 'url': 'https://webservice.chinacloudsites.cn/'}}
+[url, filename] = https://website.chinacloudsites.cn, https:,,website.chinacloudsiteZ7TIKq4OBv
+>>> START https://website.chinacloudsites.cn
+		web page [https://website.chinacloudsites.cn] is completed!
+>>> FINISH https://website.chinacloudsites.cn
+	>>> kill Chrome [31695]
+######## frame info is: {'main': {'domain': 'website.chinacloudsites.cn', 'url': 'https://website.chinacloudsites.cn/'}}
+[url, filename] = https://weixin.chinacloudsites.cn, https:,,weixin.chinacloudsitesqpfASID45M
+>>> START https://weixin.chinacloudsites.cn
+		web page [https://weixin.chinacloudsites.cn] is completed!
+>>> FINISH https://weixin.chinacloudsites.cn
+	>>> kill Chrome [31815]
+######## frame info is: {'main': {'domain': 'weixin.chinacloudsites.cn', 'url': 'https://weixin.chinacloudsites.cn/'}}
+[url, filename] = https://weba.chinacloudsites.cn, https:,,weba.chinacloudsites.cJLjVWqC5E4
+>>> START https://weba.chinacloudsites.cn
+		web page [https://weba.chinacloudsites.cn] is completed!
+>>> FINISH https://weba.chinacloudsites.cn
+	>>> kill Chrome [31930]
+######## frame info is: {'main': {'domain': 'weba.chinacloudsites.cn', 'url': 'https://weba.chinacloudsites.cn/'}}
+[url, filename] = https://wine.chinacloudsites.cn, https:,,wine.chinacloudsites.cvnqmCxKtWQ
+>>> START https://wine.chinacloudsites.cn
+		web page [https://wine.chinacloudsites.cn] is completed!
+>>> FINISH https://wine.chinacloudsites.cn
+	>>> kill Chrome [32047]
+######## frame info is: {'main': {'domain': 'wine.chinacloudsites.cn', 'url': 'https://wine.chinacloudsites.cn/'}}
+[url, filename] = https://star.chinacloudsites.cn, https:,,star.chinacloudsites.cZr6WxnMkTz
+>>> START https://star.chinacloudsites.cn
+		web page [https://star.chinacloudsites.cn] is completed!
+>>> FINISH https://star.chinacloudsites.cn
+	>>> kill Chrome [32173]
+######## frame info is: {'main': {'domain': 'star.chinacloudsites.cn', 'url': 'https://star.chinacloudsites.cn/'}}
+[url, filename] = https://workplace.chinacloudsites.cn, https:,,workplace.chinacloudsirwbyXNUq2z
+>>> START https://workplace.chinacloudsites.cn
+		web page [https://workplace.chinacloudsites.cn] is completed!
+>>> FINISH https://workplace.chinacloudsites.cn
+	>>> kill Chrome [32288]
+######## frame info is: {'main': {'domain': 'workplace.chinacloudsites.cn', 'url': 'https://workplace.chinacloudsites.cn/'}}
+[url, filename] = https://vsc.chinacloudsites.cn, https:,,vsc.chinacloudsites.cnNckCKgV6Ea
+>>> START https://vsc.chinacloudsites.cn
+		web page [https://vsc.chinacloudsites.cn] is completed!
+>>> FINISH https://vsc.chinacloudsites.cn
+	>>> kill Chrome [32463]
+######## frame info is: {'main': {'domain': 'vsc.chinacloudsites.cn', 'url': 'https://vsc.chinacloudsites.cn/'}}
+[url, filename] = https://wind.chinacloudsites.cn, https:,,wind.chinacloudsites.cc59uKnGNBF
+>>> START https://wind.chinacloudsites.cn
+		web page [https://wind.chinacloudsites.cn] is completed!
+>>> FINISH https://wind.chinacloudsites.cn
+	>>> kill Chrome [32580]
+######## frame info is: {'main': {'domain': 'wind.chinacloudsites.cn', 'url': 'https://wind.chinacloudsites.cn/Account/Login?ReturnUrl=%2F'}}
+[url, filename] = https://timesheet.chinacloudsites.cn, https:,,timesheet.chinacloudsiD69XYLTPbl
+>>> START https://timesheet.chinacloudsites.cn
+		web page [https://timesheet.chinacloudsites.cn] is completed!
+>>> FINISH https://timesheet.chinacloudsites.cn
+	>>> kill Chrome [32724]
+######## frame info is: {'main': {'domain': 'timesheet.chinacloudsites.cn', 'url': 'https://timesheet.chinacloudsites.cn/'}}
+[url, filename] = https://wp.chinacloudsites.cn, https:,,wp.chinacloudsites.cnz2pOU3AW68
+>>> START https://wp.chinacloudsites.cn
+		web page [https://wp.chinacloudsites.cn] is completed!
+>>> FINISH https://wp.chinacloudsites.cn
+	>>> kill Chrome [403]
+######## frame info is: {'main': {'domain': 'wp.chinacloudsites.cn', 'url': 'https://wp.chinacloudsites.cn/'}}
+[url, filename] = https://wpm.chinacloudsites.cn, https:,,wpm.chinacloudsites.cndr527Nn08P
+>>> START https://wpm.chinacloudsites.cn
+		web page [https://wpm.chinacloudsites.cn] is completed!
+>>> FINISH https://wpm.chinacloudsites.cn
+	>>> kill Chrome [528]
+######## frame info is: {'main': {'domain': 'wpm.chinacloudsites.cn', 'url': 'https://wpm.chinacloudsites.cn/'}}
+[url, filename] = https://testing123.chinacloudsites.cn, https:,,testing123.chinacloudsBIwkMWc0QT
+>>> START https://testing123.chinacloudsites.cn
+		web page [https://testing123.chinacloudsites.cn] is completed!
+>>> FINISH https://testing123.chinacloudsites.cn
+	>>> kill Chrome [647]
+######## frame info is: {'main': {'domain': 'testing123.chinacloudsites.cn', 'url': 'https://testing123.chinacloudsites.cn/'}}
+[url, filename] = https://xmh.chinacloudsites.cn, https:,,xmh.chinacloudsites.cn9PMNem4vQ2
+>>> START https://xmh.chinacloudsites.cn
+		web page [https://xmh.chinacloudsites.cn] is completed!
+>>> FINISH https://xmh.chinacloudsites.cn
+	>>> kill Chrome [784]
+######## frame info is: {'main': {'domain': 'xmh.chinacloudsites.cn', 'url': 'https://xmh.chinacloudsites.cn/'}}
+[url, filename] = https://ym.chinacloudsites.cn, https:,,ym.chinacloudsites.cn19lEOH3Bv6
+>>> START https://ym.chinacloudsites.cn
+		web page [https://ym.chinacloudsites.cn] is completed!
+>>> FINISH https://ym.chinacloudsites.cn
+	>>> kill Chrome [923]
+######## frame info is: {'main': {'domain': 'ym.chinacloudsites.cn', 'url': 'https://ym.chinacloudsites.cn/'}}
+[url, filename] = https://ysc.chinacloudsites.cn, https:,,ysc.chinacloudsites.cn9KegdUz6Vn
+>>> START https://ysc.chinacloudsites.cn
+		web page [https://ysc.chinacloudsites.cn] is completed!
+>>> FINISH https://ysc.chinacloudsites.cn
+	>>> kill Chrome [1074]
+######## frame info is: {'main': {'domain': 'ysc.chinacloudsites.cn', 'url': 'https://ysc.chinacloudsites.cn/Admin/Login'}}
+[url, filename] = https://ssotest.chinacloudsites.cn, https:,,ssotest.chinacloudsiteQuMGejJORT
+>>> START https://ssotest.chinacloudsites.cn
+		web page [https://ssotest.chinacloudsites.cn] is completed!
+>>> FINISH https://ssotest.chinacloudsites.cn
+	>>> kill Chrome [1197]
+######## frame info is: {'main': {'domain': 'login.microsoftonline.com', 'url': 'https://login.microsoftonline.com/c1eb5112-7946-4c9d-bc57-40040cfe3a91/oauth2/authorize?client_id=e4263c34-421b-41be-a67e-c0068d545051&redirect_uri=https%3A%2F%2Fssotest.chinacloudsites.cn%2F&response_mode=form_post&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DRrOx0XcXpPK8148XZGJmkWs5KfVzeCYXxehTl3_9g-eLa84-w8rWB54T9Sj-lUVB4_zYJ3y3DO_mr-EkCeNpGEh0Czel1WLaU_V_BSXIqoBAbYW13JVWzk3_fjhoyePa0A0syqPY344zjLdml0PE-SZ5sReNoYaQ38eO926CwAMUO2g3RAt1P9rk-LzdznnQgKqxX8dCemeni4mez0gFqCA-2BadOdcUNwVi0AjmJ84&nonce=636989809042018241.ODNhMDY1ZmItODAwZi00MDAwLWJkOWUtNjRhYWRjZjIzMTVmYWI3YjY0ZjctNjFmZC00NjIzLThhM2EtNDkwNmMzZDdkNzVi&x-client-SKU=ID_NET451&x-client-ver=5.2.1.0'}}
+[url, filename] = https://thales.chinacloudsites.cn, https:,,thales.chinacloudsiteszUhsKctn1w
+>>> START https://thales.chinacloudsites.cn
+		web page [https://thales.chinacloudsites.cn] is completed!
+>>> FINISH https://thales.chinacloudsites.cn
+	>>> kill Chrome [1335]
+######## frame info is: {'main': {'domain': 'login.partner.microsoftonline.cn', 'url': 'https://login.partner.microsoftonline.cn/f6fe6e1b-67f5-4b93-ad26-ac16f61c9158/oauth2/authorize?client_id=f1824d67-3fed-4e3e-a4f9-45f00de6f050&redirect_uri=https%3a%2f%2fthales.chinacloudsites.cn%2f&response_mode=form_post&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3d2r7NgVSt-KCohngHaEnAt7SUn8-dicI3eUiwC67OLZXiQeekoavj_j-J5VeNBq4BSpQcN4y05VHvAAwQXSJcApRmD_1IRBWw2qzu0eYe8jaFk6_kQIO7YOIA2OhliRToqpC2Iy37KPa0m5br9LKtO1rNucOrmeXw0-0LBexTqOCkyH7u7kSHxaHRkxhrQzV_SfkAKqJRkGZpMR30_OYO9duUcV3829-7pFBRNAxlmS0&nonce=636989809872914804.NTgyNGY3OWUtYmFkOS00NDNiLWIzNDQtNzlkMDMwMWI4MzA4YTFkNjZjODItYzVlYS00YzhlLTgxNjUtODAxMzBjODA0OTUx&x-client-SKU=ID_NET&x-client-ver=1.0.40306.1554'}}
+[url, filename] = https://ywc.chinacloudsites.cn, https:,,ywc.chinacloudsites.cnuCKSI6ex8G
+>>> START https://ywc.chinacloudsites.cn
+		web page [https://ywc.chinacloudsites.cn] is completed!
+>>> FINISH https://ywc.chinacloudsites.cn
+	>>> kill Chrome [1491]
+######## frame info is: {'main': {'domain': 'ywc.chinacloudsites.cn', 'url': 'https://ywc.chinacloudsites.cn/'}, '0': {'domain': 'ywc.chinacloudsites.cn', 'url': 'about:blank'}}
+		---> Multiple FRAMES
+[url, filename] = https://yun.chinacloudsites.cn, https:,,yun.chinacloudsites.cnIa1L2zifMv
+>>> START https://yun.chinacloudsites.cn
+		web page [https://yun.chinacloudsites.cn] is completed!
+>>> FINISH https://yun.chinacloudsites.cn
+	>>> kill Chrome [1643]
+######## frame info is: {'main': {'domain': 'yun.chinacloudsites.cn', 'url': 'https://yun.chinacloudsites.cn/'}}
+[url, filename] = https://yy.chinacloudsites.cn, https:,,yy.chinacloudsites.cnW8uGdbC9Mx
+>>> START https://yy.chinacloudsites.cn
+		web page [https://yy.chinacloudsites.cn] is completed!
+>>> FINISH https://yy.chinacloudsites.cn
+	>>> kill Chrome [1774]
+######## frame info is: {'main': {'domain': 'yy.chinacloudsites.cn', 'url': 'https://yy.chinacloudsites.cn/'}}
+[url, filename] = https://zapp.chinacloudsites.cn, https:,,zapp.chinacloudsites.cU2Jip4zkCP
+>>> START https://zapp.chinacloudsites.cn
+		web page [https://zapp.chinacloudsites.cn] is completed!
+>>> FINISH https://zapp.chinacloudsites.cn
+	>>> kill Chrome [1920]
+######## frame info is: {'main': {'domain': 'zapp.chinacloudsites.cn', 'url': 'https://zapp.chinacloudsites.cn/'}}
+[url, filename] = https://volkswagen.chinacloudsites.cn, https:,,volkswagen.chinacloudsxKvjMQOCeP
+>>> START https://volkswagen.chinacloudsites.cn
+		Enter timeoutCallback
+		web page [https://volkswagen.chinacloudsites.cn] is completed!
+>>> FINISH https://volkswagen.chinacloudsites.cn
+	>>> kill Chrome [2042]
+######## frame info is: {}
+[url, filename] = https://timer.chinacloudsites.cn, https:,,timer.chinacloudsites.S2mr1HyMk8
+>>> START https://timer.chinacloudsites.cn
+		web page [https://timer.chinacloudsites.cn] is completed!
+>>> FINISH https://timer.chinacloudsites.cn
+	>>> kill Chrome [2337]
+######## frame info is: {'main': {'domain': 'timer.chinacloudsites.cn', 'url': 'https://timer.chinacloudsites.cn/'}}
+[url, filename] = https://proportal.chinacloudsites.cn, https:,,proportal.chinacloudsiVznDZR0IlQ
+>>> START https://proportal.chinacloudsites.cn
+		web page [https://proportal.chinacloudsites.cn] is completed!
+>>> FINISH https://proportal.chinacloudsites.cn
+	>>> kill Chrome [2507]
+######## frame info is: {'main': {'domain': 'proportal.chinacloudsites.cn', 'url': 'https://proportal.chinacloudsites.cn/'}}
+[url, filename] = https://yamaha.chinacloudsites.cn, https:,,yamaha.chinacloudsitesEl7feOb486
+>>> START https://yamaha.chinacloudsites.cn
+		web page [https://yamaha.chinacloudsites.cn] is completed!
+>>> FINISH https://yamaha.chinacloudsites.cn
+	>>> kill Chrome [2637]
+######## frame info is: {'main': {'domain': 'login.partner.microsoftonline.cn', 'url': 'https://login.partner.microsoftonline.cn/bda1a290-3664-4fdd-952d-ab71cc710e0d/oauth2/authorize?client_id=4f942af8-04bd-45a6-a7ca-03376a1cfa8d&response_mode=form_post&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DGuDvCQoXJDF-9J-qA-yqWsl4_dlXgqgkCJAJK-_M4mehwoh8fyRRsEUeNTPBaRg6CnQRY1AQoA05VH6EIPUwPB0e0ca5yTOzKG0QfuKLudRqa-B_4TRBy_sHZknDVTXVIwmFxmjGU4RrElxEgfuWWw&nonce=636989817612645046.ZjQ3MGYxNzUtMDhiNC00NGQxLTg1MGQtZGUwZmE4ZjY1MTk5ODg4OThmNjktZTNmNC00NTUzLWExMGUtMThiMWEzNmM4YjFj&x-client-SKU=ID_NET451&x-client-ver=5.2.1.0'}}
+[url, filename] = https://webapp2.chinacloudsites.cn, https:,,webapp2.chinacloudsitetACMbJIxrR
+>>> START https://webapp2.chinacloudsites.cn
+		web page [https://webapp2.chinacloudsites.cn] is completed!
+>>> FINISH https://webapp2.chinacloudsites.cn
+	>>> kill Chrome [2769]
+######## frame info is: {'main': {'domain': 'webapp2.chinacloudsites.cn', 'url': 'https://webapp2.chinacloudsites.cn/'}}
+[url, filename] = https://web0.chinacloudsites.cn, https:,,web0.chinacloudsites.cl6ryPZHLxT
+>>> START https://web0.chinacloudsites.cn
+		web page [https://web0.chinacloudsites.cn] is completed!
+>>> FINISH https://web0.chinacloudsites.cn
+	>>> kill Chrome [2886]
+######## frame info is: {'main': {'domain': 'web0.chinacloudsites.cn', 'url': 'https://web0.chinacloudsites.cn/'}}
+[url, filename] = https://zs.chinacloudsites.cn, https:,,zs.chinacloudsites.cnPLzRixve7d
+>>> START https://zs.chinacloudsites.cn
+		web page [https://zs.chinacloudsites.cn] is completed!
+>>> FINISH https://zs.chinacloudsites.cn
+	>>> kill Chrome [3067]
+######## frame info is: {'main': {'domain': 'zs.chinacloudsites.cn', 'url': 'https://zs.chinacloudsites.cn/'}}

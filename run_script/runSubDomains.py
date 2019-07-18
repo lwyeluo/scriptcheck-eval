@@ -6,7 +6,7 @@ import random
 from utils.executor import *
 from run_script.run import RunUrl
 
-from run_script import _subdomains_dir, _random_sample
+from run_script import _subdomains_dir, _random_sample, _log_filename
 
 
 class RunSubDomains(object):
@@ -17,6 +17,7 @@ class RunSubDomains(object):
         self._homepage_file = os.path.join(self._homepage_dir, "reachable_subdomains")
         # to save the Chrome's logs
         self._results_dir = os.path.join(self._homepage_dir, "results")
+        self._results_log_filename = os.path.join(self._homepage_dir, "results-domain.log")
 
         # create an EMPTY directory to save results
         execute("rm -rf " + self._results_dir + " || true")
@@ -46,6 +47,10 @@ class RunSubDomains(object):
                     logging.info("\t\t---> Multiple FRAMES")
 
             f.close()
+
+        # save logs
+        execute("cp %s %s" % (_log_filename, self._results_log_filename))
+
 
 
 def run(domain):

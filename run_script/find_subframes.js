@@ -4,6 +4,7 @@
 argv = process.argv
 console.log("***********************************i am in**********************************")
 const CDP = require('chrome-remote-interface');
+
 async function example() {
     let client;
 
@@ -14,7 +15,7 @@ async function example() {
 			// connect to endpoint
 			client = await CDP();
 			// extract domains
-			const {Network, Page, Runtime} = client;
+			const {Network, Page, Runtime, Target} = client;
 			// setup handlers
 			Network.requestWillBeSent((params) => {
 				console.log(params.request.url);
@@ -40,44 +41,48 @@ async function example() {
 				console.log(result);
 			}
 			console.log(result);
-			//find message of subframes
-			// console.log("**********url is : " + argv[2]);
-			//result = await Runtime.evaluate({expression: ''});
-			result_domain = await Runtime.evaluate({expression: 'document.domain'});
-			result_href = await Runtime.evaluate({expression: 'window.location.href'});
-			//console.log(result_href);
-			//console.log(result_domain);
-			console.log("##########\t" + result_href.result.value + "\t" + result_domain.result.value + "\tparent frame");
-			result_subframes_length = await Runtime.evaluate({expression: 'window.frames.length'});
-			if (result_subframes_length.result.value == 0)
-			{
-				console.log("@@@@@@@@@@NO subframes");
+
+			console.log(">>> Prepare to get frames's information");
+
+			// save the results for frames
+			var frames_info = {};
+			var received_message_id = -1;
+
+			// 1. register the message receiver function
+			Target.receivedMessageFromTarget(function (args) {
+				console.log(">>> receive");
+				console.log(args);
+				var url = frames_info[args.targetId]['url'];
+				var data = JSON.parse(args.message);
+				var domain = data.result.result.value;
+				console.log("******\t" + args.targetId + "\t" + url + "\t" + domain);
+				console.log(data.id);
+				received_message_id = data.id;
+			});
+			// 2. get all target ids
+			var target_ids = await Target.getTargets();
+			var max_id = target_ids.targetInfos.length - 1;
+			for(var i = 0; i < max_id; i ++) {
+				frames_info[target_ids.targetInfos[i].targetId] = {
+					"url": target_ids.targetInfos[i].url,
+				};
 			}
-			else {
-				//console.log("*****Parent frame has  " + result_subframes_length.result.value + " subframes");
-				for (var i = 0; i < result_subframes_length.result.value; i++) {
-					//console.log("********************************* in for*****************");
-					var str_frame_url = "window.frames[" + i + "].location.href";
-					result_subframes_href = await Runtime.evaluate({expression: str_frame_url});
-					//console.log("*************************??????????????????????")
-					//console.log(result_subframes_href);
-					//console.log("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^");
-					//console.log(result_subframes_href.result.exceptionDetails.exceptionId);
-					//console.log("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^");
-					//console.log(result_subframes_href.result.className);
-					//result_subframes_href = await Runtime.evaluate({expression: 'window.frames[i].location.href'});
-					if (result_subframes_href.exceptionDetails) {
-						console.log("**********\t" + i + "\t\t\tsubframe No");
-						continue;
-					}
-					var str_frame_domain = "window.frames[" + i + "].document.domain";
-					result_subframes_domain = await Runtime.evaluate({expression: str_frame_domain});
-					// result_subframes_domain = await Runtime.evaluate({expression: 'window.frames[i].document.domain'});
-					console.log("**********\t" + i + "\t" + result_subframes_href.result.value + "\t" + result_subframes_domain.result.value + "\tsubframe Yes");
-					//console.log("**************"+ i + "******** ");
-					//console.log(result_subframes_href);
-				}
+
+			// 3. get the domains for all frames
+			for(var i = 0; i < max_id; i ++) {
+				console.log(target_ids.targetInfos[i].url);
+				target_id = target_ids.targetInfos[i].targetId;
+				// 2. attach to target
+				var session_id = await Target.attachToTarget({targetId: target_id});
+				console.log(session_id);
+				msg = `{"id": ` + i + `, "method": "Runtime.evaluate",
+					"params": {"expression": "console.log(document.domain);document.domain"}}`;
+				console.log(">>> send message " + i);
+				await Target.sendMessageToTarget({
+					sessionId: session_id.sessionId, message: msg
+				});
 			}
+
 		} catch (err) {
 			console.error(err);
 		} finally {

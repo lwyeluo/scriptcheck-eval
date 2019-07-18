@@ -16,9 +16,8 @@ class RunUrl(object):
 
 		# some features logged by _node_filename
 		self.features_completed = '''result: { type: 'string', value: 'complete' }'''
-		self.features_no_subframes = "@@@@@@@@@@NO subframes"
-		self.features_parent_frame = "\\n##########"
-		self.features_child_frame = "**********"
+		self.features_collect_frame_info = '''>>> Prepare to get frames's information'''
+		self.features_frame_info = "******"
 
 		# the information for frames
 		self.frame_info = {}  # {'parent': {'url': url, 'domain': domain}, 'frameID': {'url': url, 'domain': domain}}
@@ -34,9 +33,9 @@ class RunUrl(object):
 
 	# collect the url and domains for all (same-origin) frames
 	def collectInformationForFrames(self, logs):
-
-		if self.features_parent_frame in logs:
-			info = logs[logs.find(self.features_parent_frame):].strip('\\n').split('\\n')
+		print(logs)
+		if self.features_collect_frame_info in logs:
+			info = logs[logs.find(self.features_collect_frame_info):].strip('\\n').split('\\n')
 
 			# info[0] is the information for parent frame
 			parent_info = info[0].split('\\t')
@@ -47,11 +46,8 @@ class RunUrl(object):
 
 			for i in range(1, len(info)):
 				data = info[i]
-				if self.features_no_subframes in data:
-					# we have no sub-frames, so we return
-					return
-				if self.features_child_frame in data:
-					# parse the information for child frame
+				if self.features_frame_info in data:
+					# parse the information for frame
 					child_info = data.split("\\t")
 					self.frame_info[child_info[1]] = {
 						'url': child_info[2],
