@@ -4,7 +4,7 @@ import pprint
 
 from aiohttp import web
 
-from chromewhip.chrome import ChromewhipException
+from chromewhip.chromewhip.chrome import ChromewhipException
 
 
 def json_error(message):

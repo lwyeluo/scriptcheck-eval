@@ -10,9 +10,9 @@ import time
 from aiohttp import web
 import yaml
 
-from chromewhip.chrome import Chrome
-from chromewhip.middleware import error_middleware
-from chromewhip.routes import setup_routes
+from chromewhip.chromewhip.chrome import Chrome
+from chromewhip.chromewhip.middleware import error_middleware
+from chromewhip.chromewhip.routes import setup_routes
 
 
 log = logging.getLogger(__name__)

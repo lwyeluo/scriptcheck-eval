@@ -9,9 +9,9 @@ import websockets
 import websockets.protocol
 import websockets.exceptions
 
-from chromewhip import helpers
-from chromewhip.base import SyncAdder
-from chromewhip.protocol import page, runtime, target, input, inspector, browser, accessibility
+from chromewhip.chromewhip import helpers
+from chromewhip.chromewhip.base import SyncAdder
+from chromewhip.chromewhip.protocol import page, runtime, target, input, inspector, browser, accessibility
 
 TIMEOUT_S = 25
 MAX_PAYLOAD_SIZE_BYTES = 2 ** 23
@@ -195,13 +195,13 @@ class ChromeTab(metaclass=SyncAdder):
                 self._send_log.error(msg)
                 raise ProtocolError(msg)
 
-            if recv_validator:
-                self._send_log.debug('Validating recv payload for id=%s...' % request['id'])
-                ack_result = recv_validator(ack_payload['result'])
-                self._send_log.debug('Successful recv validation for id=%s...' % request['id'])
-                ack_payload['result'] = ack_result
-            else:
-                ack_result = ack_payload['result']
+            # if recv_validator:
+            #     self._send_log.debug('Validating recv payload for id=%s...' % request['id'])
+            #     ack_result = recv_validator(ack_payload['result'])
+            #     self._send_log.debug('Successful recv validation for id=%s...' % request['id'])
+            #     ack_payload['result'] = ack_result
+            # else:
+            ack_result = ack_payload['result']
 
             result['ack'] = ack_payload
 
@@ -226,10 +226,15 @@ class ChromeTab(metaclass=SyncAdder):
                 try:
                     # TODO: put in a `strict` flag so that we can catch differences between the protocol spec and the
                     # underlying implementation.
-                    cleaned_hash_input_dict = {k: v for k, v in hash_input_dict.items() if k in trigger_event_cls.hashable}
-                    hash_ = trigger_event_cls.build_hash(**cleaned_hash_input_dict)
+                    hash_ = ""
+                    if trigger_event_cls.js_name == 'Target.receivedMessageFromTarget':
+                        hash_ = trigger_event_cls.build_hash(sessionId=request['params']['sessionId'],
+                                                             targetId=request['params']['targetId'])
+                    else:
+                        cleaned_hash_input_dict = {k: v for k, v in hash_input_dict.items() if k in trigger_event_cls.hashable}
+                        hash_ = trigger_event_cls.build_hash(**cleaned_hash_input_dict)
                 except TypeError:
-                    raise TypeError(f'Event "{trigger_event_cls.js_name}" hash cannot be built with "{hash_input_dict}"')
+                    raise TypeError('Event "{trigger_event_cls.js_name}" hash cannot be built with "{hash_input_dict}"')
                 event = self._event_payloads.get(hash_)
                 if not event:
                     self._send_log.debug('Waiting for event with hash "%s"...' % hash_)

@@ -9,7 +9,7 @@ and `data/js_protocol.json` as inputs! Please do not modify this file.
 import logging
 from typing import Any, Optional, Union
 
-from chromewhip.helpers import PayloadMixin, BaseEvent, ChromeTypeBase
+from chromewhip.chromewhip.helpers import PayloadMixin, BaseEvent, ChromeTypeBase
 
 log = logging.getLogger(__name__)
 
@@ -470,7 +470,7 @@ class ReceivedMessageFromTargetEvent(BaseEvent):
     def build_hash(cls, targetId, sessionId):
         kwargs = locals()
         kwargs.pop('cls')
-        serialized_id_params = ','.join(['='.join([p, str(v)]) for p, v in kwargs.items()])
+        serialized_id_params = ','.join(['='.join([p, str(v)]) for p, v in sorted(kwargs.items())])
         h = '{}:{}'.format(cls.js_name, serialized_id_params)
         log.debug('generated hash = %s' % h)
         return h

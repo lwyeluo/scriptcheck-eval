@@ -78,7 +78,7 @@ def json_to_event(payload) -> BaseEvent:
     except ValueError:
         log.error('invalid method name "%s", must contain a module and event joined with a "."' % payload['method'])
         return None
-    module_name = 'chromewhip.protocol.%s' % prot_name.lower()
+    module_name = 'chromewhip.chromewhip.protocol.%s' % prot_name.lower()
     try:
         prot_module = sys.modules[module_name]
     except KeyError:

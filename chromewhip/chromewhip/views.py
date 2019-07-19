@@ -5,7 +5,7 @@ import logging
 from bs4 import BeautifulSoup
 from aiohttp import web
 
-from chromewhip.protocol import page, emulation, browser, dom, runtime
+from chromewhip.chromewhip.protocol import page, emulation, browser, dom, runtime
 
 BS = functools.partial(BeautifulSoup, features="lxml")
 

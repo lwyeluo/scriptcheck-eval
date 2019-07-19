@@ -1,4 +1,4 @@
-from chromewhip.views import render_html, render_png
+from chromewhip.chromewhip.views import render_html, render_png
 
 
 def setup_routes(app):
