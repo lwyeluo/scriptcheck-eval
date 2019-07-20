@@ -43,8 +43,8 @@ if __name__ == '__main__':
 	'''
 		Run Script
 	'''
-	# -a
-	parser.add_argument('--run-alexa-top-sites', '-a', action='store_true', help='Run the Alexa top sites')
+	# --run-alexa-top-sites
+	parser.add_argument('--run-alexa-top-sites', action='store_true', help='Run the Alexa top sites')
 	# -c MACHINE_ID
 	parser.add_argument('--run-china-top-sites', '-c', type=int, metavar="MACHINE_INDEX",
 						help='Run the China top sites')
@@ -143,7 +143,7 @@ if __name__ == '__main__':
 		run(args.domain)
 
 	elif args.run_alexa_top_sites:
-		# -a
+		# --run-alexa-top-sites
 		from run_script import runTopSite
 
 		runTopSite.run()

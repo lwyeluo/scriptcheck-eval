@@ -36,6 +36,8 @@ sudo pip3 install -r requirements.txt
 cd ../
 
 sudo pip3 install threadpool
+
+npm install chrome-remote-interface
 ```
 
 ### for sub-domains
@@ -47,15 +49,26 @@ python3 evaluate.py --parse-subdomains -d blog.csdn.net
 python3 evaluate.py --parse-homepage -d blog.csdn.net
 # crawler urls for these subdomains
 TODO
+# run the urls
+python3 evaluate.py --run-subdomains -d blog.csdn.net
+# parse the logs
+python3 evaluate.py --parse-log-for-subdomains -d blog.csdn.net
+# or
+python3 evaluate.py --parse-log-for-subdomains --all
 ```
 
-## run
+### for Alexa top sites
+
+```
+# get the home pages
+python3 evaluate.py --parse-homepage --Alexa
+# run the urls
+python3 evaluate.py --run-alexa-top-sites
+```
 
 ### for China top 500 sites
 
 ```
-npm install chrome-remote-interface
-
 # extract the url list
 cd top_sites_china
 unrar x result_cn.rar

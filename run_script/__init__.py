@@ -15,6 +15,9 @@ _result_log_dir_for_china = os.path.join(_result_handler_dir, "tim-results-china
 _url_list_dir = os.path.join(os.path.dirname(_dir), 'url_list')
 _subdomains_dir = os.path.join(_url_list_dir, "subdomains")
 
+# for Alexa topsites
+_topsites_dir = os.path.join(_url_list_dir, "topsitesAlexa")
+
 
 def outputAtConsole():
 	logging.basicConfig(level=logging.DEBUG, format='%(message)s', filename=_log_filename, filemode="w")

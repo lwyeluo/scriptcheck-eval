@@ -12,6 +12,7 @@ result_handler/tim-results-log/
 result_handler/tim-results-china-*
 
 url_list/subdomains/*/results/
+url_list/topsitesAlexa/results/
 
 __pycache__/
 .DS_Store
