@@ -17,7 +17,7 @@ class RunUrl(object):
 		# some features logged by _node_filename
 		self.features_completed = '''result: { type: 'string', value: 'complete' }'''
 		self.features_collect_frame_info = '''>>> Prepare to get frames's information'''
-		self.features_frame_info = "******"
+		self.features_frame_info = "**********"
 
 		# the information for frames
 		self.frame_info = {}  # {'parent': {'url': url, 'domain': domain}, 'frameID': {'url': url, 'domain': domain}}
@@ -33,22 +33,18 @@ class RunUrl(object):
 
 	# collect the url and domains for all (same-origin) frames
 	def collectInformationForFrames(self, logs):
-		print(logs)
+		# print(logs)
 		if self.features_collect_frame_info in logs:
 			info = logs[logs.find(self.features_collect_frame_info):].strip('\\n').split('\\n')
 
-			# info[0] is the information for parent frame
-			parent_info = info[0].split('\\t')
-			self.frame_info['main'] = {
-				'url': parent_info[1],
-				'domain': parent_info[2]
-			}
-
 			for i in range(1, len(info)):
-				data = info[i]
+				data = info[i].strip('\\t')
 				if self.features_frame_info in data:
 					# parse the information for frame
 					child_info = data.split("\\t")
+					if len(child_info) != 5:
+						logging.info("[ERROR] we failed to parse %s" % data)
+						continue
 					self.frame_info[child_info[1]] = {
 						'url': child_info[2],
 						'domain': child_info[3]
