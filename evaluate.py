@@ -9,6 +9,7 @@ if __name__ == '__main__':
 		Helper
 	'''
 	parser.add_argument('--domain', '-d', type=str, metavar="DOMAIN", help="The domain.")
+	parser.add_argument('--all', action='store_true', help="All possible targets.")
 
 	'''
 		Handle URL List
@@ -32,6 +33,10 @@ if __name__ == '__main__':
 	# -f LOG_FILE -d DOMAIN
 	parser.add_argument('--parse-log-with-filename', '-f', type=str, metavar="LOG_FILENAME",
 						help="Parse the result for a give log. Use it with -d.")
+	# --parse-log-for-subdomains -d DOMAIN
+	# --parse-log-for-subdomains --all
+	parser.add_argument('--parse-log-for-subdomains', action='store_true',
+						help="Parse the subdomains' logs for a give DOMAIN (with -d) or ALL domains (with --all)")
 
 	'''
 		Run Script
@@ -54,6 +59,9 @@ if __name__ == '__main__':
 
 	args = parser.parse_args()
 
+	####################################################
+	#	Handle URL List
+	####################################################
 	if args.parse_homepage:
 		# --parse-homepage -d DOMAIN | --parse-homepage -f LIST_FILE
 		if args.domain:
@@ -75,14 +83,15 @@ if __name__ == '__main__':
 
 		run(args.domain)
 
-	elif args.run_subdomains:
-		# --run-subdomains -d DOMAIN
-		if not args.domain:
-			raise Exception("Please use --run-subdomains -d DOMAIN")
+	elif args.split_china_webpage:
+		# -s NUMBER_OF_MACHINE
+		from top_sites_china.split import split
 
-		from run_script.runSubDomains import run
+		split(args.split_china_webpage)
 
-		run(args.domain)
+	####################################################
+	#	Parse Log
+	####################################################
 
 	elif args.parse_log:
 		# -p China|Alexa
@@ -96,6 +105,37 @@ if __name__ == '__main__':
 
 			parseChinaResult.run()
 
+	elif args.parse_log_with_filename and args.domain:
+		# -f LOG_FILE -d DOMAIN
+		from result_handler.parseLog import test_log
+
+		test_log(args.parse_log_with_filename, args.domain)
+
+	elif args.parse_log_for_subdomains:
+		from url_list.parseSubdomainsResult import run
+
+		if args.domain:
+			# --parse-log-for-subdomains -d DOMAIN
+			run(args.domain, is_all=False)
+		elif args.all:
+			# --parse-log-for-subdomains --all
+			run(None, is_all=True)
+		else:
+			raise Exception("Please use '--parse-log-for-subdomains -d DOMAIN' "
+							"or '--parse-log-for-subdomains --all'")
+
+	####################################################
+	#	Run Script
+	####################################################
+	elif args.run_subdomains:
+		# --run-subdomains -d DOMAIN
+		if not args.domain:
+			raise Exception("Please use --run-subdomains -d DOMAIN")
+
+		from run_script.runSubDomains import run
+
+		run(args.domain)
+
 	elif args.run_alexa_top_sites:
 		# -a
 		from run_script import runTopSite
@@ -108,22 +148,16 @@ if __name__ == '__main__':
 
 		runChinaTopSite.run(args.run_china_top_sites)
 
-	elif args.split_china_webpage:
-		# -s NUMBER_OF_MACHINE
-		from top_sites_china.split import split
-
-		split(args.split_china_webpage)
+	####################################################
+	#	Test
+	####################################################
 
 	elif args.test_parse_log:
 		# -t DOMAIN
 		from result_handler.parseLog import test
 
 		test(args.test_parse_log)
-	elif args.parse_log_with_filename and args.domain:
-		# -f LOG_FILE -d DOMAIN
-		from result_handler.parseLog import test_log
 
-		test_log(args.parse_log_with_filename, args.domain)
 
 	print("\n")
 	print(args)
