@@ -10,6 +10,7 @@ if __name__ == '__main__':
 	'''
 	parser.add_argument('--domain', '-d', type=str, metavar="DOMAIN", help="The domain.")
 	parser.add_argument('--all', action='store_true', help="All possible targets.")
+	parser.add_argument('--Alexa', action='store_true', help="For Alexa top sites.")
 
 	'''
 		Handle URL List
@@ -17,9 +18,10 @@ if __name__ == '__main__':
 	# --parse-subdomains -d DOMAIN
 	parser.add_argument('--parse-subdomains', action='store_true',
 						help='Parse the sub-domains for a given domain. Use it with -d')
-	# --parse-homepage -d DOMAIN | --parse-homepage -f LIST_FILE
+	# --parse-homepage -d DOMAIN | --parse-homepage -f LIST_FILE | --parse-homepage --Alexa
 	parser.add_argument('--parse-homepage', action='store_true',
-						help='Parse the homepage-list for a DOMAIN (with -d) or site-list (with -f)')
+						help='For subdomains, parse the homepage-list for a DOMAIN (with -d) or site-list (with -f).'
+							 'For top sites, use with --Alexa')
 	# -s NUMBER_OF_MACHINE
 	parser.add_argument('--split-china-webpage', '-s', type=int, metavar="NUMBER_OF_MACHINES",
 						help='Split the China webpages for multiple machines')
@@ -63,7 +65,7 @@ if __name__ == '__main__':
 	#	Handle URL List
 	####################################################
 	if args.parse_homepage:
-		# --parse-homepage -d DOMAIN | --parse-homepage -f LIST_FILE
+		# --parse-homepage -d DOMAIN | --parse-homepage -f LIST_FILE | --parse-homepage --Alexa
 		if args.domain:
 			from url_crawler.subdomains import run
 
@@ -71,6 +73,10 @@ if __name__ == '__main__':
 		elif args.parse_log_with_filename:
 			# TODO
 			pass
+		elif args.Alexa:
+			from url_crawler.topsitesAlexa import run
+
+			run()
 		else:
 			raise Exception("Please use '--parse-url -d DOMAIN' or '--parse-url -f LIST_FILE' ")
 
