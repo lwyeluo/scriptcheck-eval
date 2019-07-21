@@ -1,0 +1,10 @@
+http://ec2-52-42-131-0.us-west-2.compute.amazonaws.com/2d-boxes
+http://ec2-52-42-131-0.us-west-2.compute.amazonaws.com/careers
+http://ec2-52-42-131-0.us-west-2.compute.amazonaws.com/sensor-fusion-segmentation
+http://ec2-52-42-131-0.us-west-2.compute.amazonaws.com/3d-cuboids
+http://ec2-52-42-131-0.us-west-2.compute.amazonaws.com/video-annotation
+http://ec2-52-42-131-0.us-west-2.compute.amazonaws.com/ocr-transcription
+http://ec2-52-42-131-0.us-west-2.compute.amazonaws.com/
+http://ec2-52-42-131-0.us-west-2.compute.amazonaws.com/blog
+http://ec2-52-42-131-0.us-west-2.compute.amazonaws.com/comparison
+http://ec2-52-42-131-0.us-west-2.compute.amazonaws.com/sensor-fusion-cuboids

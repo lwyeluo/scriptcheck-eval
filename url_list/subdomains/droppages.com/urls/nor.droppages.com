@@ -1,0 +1,10 @@
+https://nor.droppages.com/termssitemap
+https://nor.droppages.com/terms
+https://nor.droppages.com/termsAbout+us
+https://nor.droppages.com/termsContact+us
+https://nor.droppages.com/
+https://nor.droppages.com/sitemap
+https://nor.droppages.com/Sample+Syntax
+https://nor.droppages.com/Contact+us
+https://nor.droppages.com/About+us
+https://nor.droppages.com/News

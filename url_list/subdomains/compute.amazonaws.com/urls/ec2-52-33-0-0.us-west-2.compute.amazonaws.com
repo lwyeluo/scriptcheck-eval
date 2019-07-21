@@ -1,0 +1,10 @@
+http://ec2-52-33-0-0.us-west-2.compute.amazonaws.com/zh-cnzh-cnabout
+http://ec2-52-33-0-0.us-west-2.compute.amazonaws.com/zh-cnzh-cncontact
+http://ec2-52-33-0-0.us-west-2.compute.amazonaws.com/zh-cncontact
+http://ec2-52-33-0-0.us-west-2.compute.amazonaws.com/zh-cncase
+http://ec2-52-33-0-0.us-west-2.compute.amazonaws.com/zh-cnzh-cn
+http://ec2-52-33-0-0.us-west-2.compute.amazonaws.com/zh-cn
+http://ec2-52-33-0-0.us-west-2.compute.amazonaws.com/zh-cnproduct
+http://ec2-52-33-0-0.us-west-2.compute.amazonaws.com/
+http://ec2-52-33-0-0.us-west-2.compute.amazonaws.com/en
+http://ec2-52-33-0-0.us-west-2.compute.amazonaws.com/zh-cnabout

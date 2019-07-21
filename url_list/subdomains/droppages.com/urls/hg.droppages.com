@@ -1,0 +1,10 @@
+https://hg.droppages.com/sitemapAbout+usHistory
+https://hg.droppages.com/Contact+us
+https://hg.droppages.com/Sample+Syntax
+https://hg.droppages.com/sitemapAbout+us
+https://hg.droppages.com/sitemapsitemap
+https://hg.droppages.com/sitemap
+https://hg.droppages.com/News
+https://hg.droppages.com/
+https://hg.droppages.com/About+us
+https://hg.droppages.com/terms

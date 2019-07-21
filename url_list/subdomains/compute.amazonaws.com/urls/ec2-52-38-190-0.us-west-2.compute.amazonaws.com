@@ -1,0 +1,10 @@
+http://ec2-52-38-190-0.us-west-2.compute.amazonaws.com/staticv2imagesdh-wwxkz-2019.pdffawuduba.html
+http://ec2-52-38-190-0.us-west-2.compute.amazonaws.com/staticv2imagesdh-wwxkz-2019.pdf
+http://ec2-52-38-190-0.us-west-2.compute.amazonaws.com/fawuduba.htmlstaticv2imagesdh-wwxkz-2019.pdf
+http://ec2-52-38-190-0.us-west-2.compute.amazonaws.com/aboutduba.html
+http://ec2-52-38-190-0.us-west-2.compute.amazonaws.com/fawuduba.htmlaboutduba.html
+http://ec2-52-38-190-0.us-west-2.compute.amazonaws.com/staticv2imagesdh-wwxkz-2019.pdfstaticv2imagesdh-wwxkz-2019.pdf
+http://ec2-52-38-190-0.us-west-2.compute.amazonaws.com/fawuduba.html
+http://ec2-52-38-190-0.us-west-2.compute.amazonaws.com/staticv2imagesdh-wwxkz-2019.pdfaboutduba.html
+http://ec2-52-38-190-0.us-west-2.compute.amazonaws.com/fawuduba.htmlfawuduba.html
+http://ec2-52-38-190-0.us-west-2.compute.amazonaws.com/

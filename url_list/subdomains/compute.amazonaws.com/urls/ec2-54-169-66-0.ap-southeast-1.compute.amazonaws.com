@@ -1,0 +1,10 @@
+http://ec2-54-169-66-0.ap-southeast-1.compute.amazonaws.com/regdown
+http://ec2-54-169-66-0.ap-southeast-1.compute.amazonaws.com/cn
+http://ec2-54-169-66-0.ap-southeast-1.compute.amazonaws.com/reg
+http://ec2-54-169-66-0.ap-southeast-1.compute.amazonaws.com/cncn
+http://ec2-54-169-66-0.ap-southeast-1.compute.amazonaws.com/cncnreg
+http://ec2-54-169-66-0.ap-southeast-1.compute.amazonaws.com/down
+http://ec2-54-169-66-0.ap-southeast-1.compute.amazonaws.com/
+http://ec2-54-169-66-0.ap-southeast-1.compute.amazonaws.com/cncnlogin
+http://ec2-54-169-66-0.ap-southeast-1.compute.amazonaws.com/cncndown
+http://ec2-54-169-66-0.ap-southeast-1.compute.amazonaws.com/login

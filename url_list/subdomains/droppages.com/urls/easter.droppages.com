@@ -1,0 +1,10 @@
+https://easter.droppages.com/Newsterms
+https://easter.droppages.com/Contact+us
+https://easter.droppages.com/
+https://easter.droppages.com/NewsAbout+us
+https://easter.droppages.com/News
+https://easter.droppages.com/NewsSample+Syntax
+https://easter.droppages.com/sitemap
+https://easter.droppages.com/terms
+https://easter.droppages.com/Sample+Syntax
+https://easter.droppages.com/About+us

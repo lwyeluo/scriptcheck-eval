@@ -1,0 +1,10 @@
+http://ec2-3-9-167-100.eu-west-2.compute.amazonaws.com/tech-news
+http://ec2-3-9-167-100.eu-west-2.compute.amazonaws.com/tech-news?tags=News+And+Tips
+http://ec2-3-9-167-100.eu-west-2.compute.amazonaws.com/contact-us
+http://ec2-3-9-167-100.eu-west-2.compute.amazonaws.com/tech-news?tags=Data
+http://ec2-3-9-167-100.eu-west-2.compute.amazonaws.com/terms-conditions
+http://ec2-3-9-167-100.eu-west-2.compute.amazonaws.com/tech-newsarticlesmartphones-of-the-future-a-glimpse-into-foldable-phones
+http://ec2-3-9-167-100.eu-west-2.compute.amazonaws.com/tech-news?tags=Apps
+http://ec2-3-9-167-100.eu-west-2.compute.amazonaws.com/privacy-policy
+http://ec2-3-9-167-100.eu-west-2.compute.amazonaws.com/
+http://ec2-3-9-167-100.eu-west-2.compute.amazonaws.com/supportopt-out

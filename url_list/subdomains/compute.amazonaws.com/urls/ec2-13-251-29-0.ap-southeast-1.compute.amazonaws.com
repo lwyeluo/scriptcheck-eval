@@ -1,0 +1,10 @@
+http://ec2-13-251-29-0.ap-southeast-1.compute.amazonaws.com/en5-ways-to-enhance-your-diving-skills
+http://ec2-13-251-29-0.ap-southeast-1.compute.amazonaws.com/encustomised-wetsuit-vs-normal-wetsuit
+http://ec2-13-251-29-0.ap-southeast-1.compute.amazonaws.com/diving-courses
+http://ec2-13-251-29-0.ap-southeast-1.compute.amazonaws.com/enthe-scuba-certification-levels-advanced
+http://ec2-13-251-29-0.ap-southeast-1.compute.amazonaws.com/enthe-scuba-certification-levels-rescue
+http://ec2-13-251-29-0.ap-southeast-1.compute.amazonaws.com/
+http://ec2-13-251-29-0.ap-southeast-1.compute.amazonaws.com/ensafety-diving-practice
+http://ec2-13-251-29-0.ap-southeast-1.compute.amazonaws.com/categoryarticles
+http://ec2-13-251-29-0.ap-southeast-1.compute.amazonaws.com/enwalking-shark
+http://ec2-13-251-29-0.ap-southeast-1.compute.amazonaws.com/en10-facts-about-indonesia-and-her-ocean

@@ -1,0 +1,10 @@
+http://ec2-3-120-53-0.eu-central-1.compute.amazonaws.com/
+http://ec2-3-120-53-0.eu-central-1.compute.amazonaws.com/quickcardtrial
+http://ec2-3-120-53-0.eu-central-1.compute.amazonaws.com/resetpasswordquickcard
+http://ec2-3-120-53-0.eu-central-1.compute.amazonaws.com/trial
+http://ec2-3-120-53-0.eu-central-1.compute.amazonaws.com/resetpassword
+http://ec2-3-120-53-0.eu-central-1.compute.amazonaws.com/quickcard
+http://ec2-3-120-53-0.eu-central-1.compute.amazonaws.com/resetpasswordresetpassword
+http://ec2-3-120-53-0.eu-central-1.compute.amazonaws.com/quickcardresetpassword
+http://ec2-3-120-53-0.eu-central-1.compute.amazonaws.com/quickcardquickcard
+http://ec2-3-120-53-0.eu-central-1.compute.amazonaws.com/resetpasswordtrial

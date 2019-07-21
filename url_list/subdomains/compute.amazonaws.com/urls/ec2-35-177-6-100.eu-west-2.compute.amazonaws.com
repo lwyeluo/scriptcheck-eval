@@ -1,0 +1,10 @@
+http://ec2-35-177-6-100.eu-west-2.compute.amazonaws.com/user/enquiries
+http://ec2-35-177-6-100.eu-west-2.compute.amazonaws.com/home/tnc
+http://ec2-35-177-6-100.eu-west-2.compute.amazonaws.com/home/contactus
+http://ec2-35-177-6-100.eu-west-2.compute.amazonaws.com/home/mywishlist
+http://ec2-35-177-6-100.eu-west-2.compute.amazonaws.com/
+http://ec2-35-177-6-100.eu-west-2.compute.amazonaws.com/manual
+http://ec2-35-177-6-100.eu-west-2.compute.amazonaws.com/home/
+http://ec2-35-177-6-100.eu-west-2.compute.amazonaws.com/home/register
+http://ec2-35-177-6-100.eu-west-2.compute.amazonaws.com/home/login
+http://ec2-35-177-6-100.eu-west-2.compute.amazonaws.com/diamonds

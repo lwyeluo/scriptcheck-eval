@@ -1,0 +1,10 @@
+https://raul.droppages.com/sitemapAbout+usHistory
+https://raul.droppages.com/sitemapAbout+usWhat+we+do
+https://raul.droppages.com/sitemap
+https://raul.droppages.com/News
+https://raul.droppages.com/Sample+Syntax
+https://raul.droppages.com/Contact+us
+https://raul.droppages.com/El+meu+centre
+https://raul.droppages.com/
+https://raul.droppages.com/About+us
+https://raul.droppages.com/terms

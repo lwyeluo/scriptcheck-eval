@@ -1,0 +1,10 @@
+http://ec2-18-185-202-0.eu-central-1.compute.amazonaws.com/currentActivity.action
+http://ec2-18-185-202-0.eu-central-1.compute.amazonaws.com/currentActivity.actionpluginsservletidentity-federation-for-awsaws-console-login
+http://ec2-18-185-202-0.eu-central-1.compute.amazonaws.com/forgotPassword.action
+http://ec2-18-185-202-0.eu-central-1.compute.amazonaws.com/
+http://ec2-18-185-202-0.eu-central-1.compute.amazonaws.com/allProjects.action
+http://ec2-18-185-202-0.eu-central-1.compute.amazonaws.com/deployviewAllDeploymentProjects.action
+http://ec2-18-185-202-0.eu-central-1.compute.amazonaws.com/about.action
+http://ec2-18-185-202-0.eu-central-1.compute.amazonaws.com/pluginsservletidentity-federation-for-awsaws-console-login
+http://ec2-18-185-202-0.eu-central-1.compute.amazonaws.com/pluginsdeploycustomDeploymentSetupForm.action
+http://ec2-18-185-202-0.eu-central-1.compute.amazonaws.com/allPlans.action

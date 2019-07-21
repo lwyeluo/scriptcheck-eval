@@ -1,0 +1,10 @@
+https://ec2-18-191-170-95.us-east-2.compute.amazonaws.com/docsapiindex.html
+https://ec2-18-191-170-95.us-east-2.compute.amazonaws.com/
+https://ec2-18-191-170-95.us-east-2.compute.amazonaws.com/docsrealm-howto.html
+https://ec2-18-191-170-95.us-east-2.compute.amazonaws.com/managerhtml
+https://ec2-18-191-170-95.us-east-2.compute.amazonaws.com/docsjndi-datasource-examples-howto.html
+https://ec2-18-191-170-95.us-east-2.compute.amazonaws.com/managerstatus
+https://ec2-18-191-170-95.us-east-2.compute.amazonaws.com/docs
+https://ec2-18-191-170-95.us-east-2.compute.amazonaws.com/docschangelog.html
+https://ec2-18-191-170-95.us-east-2.compute.amazonaws.com/docsdeployer-howto.html
+https://ec2-18-191-170-95.us-east-2.compute.amazonaws.com/docscluster-howto.html

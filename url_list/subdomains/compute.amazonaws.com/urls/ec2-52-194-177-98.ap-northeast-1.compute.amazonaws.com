@@ -1,0 +1,10 @@
+https://ec2-52-194-177-98.ap-northeast-1.compute.amazonaws.com/docs
+https://ec2-52-194-177-98.ap-northeast-1.compute.amazonaws.com/docssetup.html
+https://ec2-52-194-177-98.ap-northeast-1.compute.amazonaws.com/docsmanager-howto.html
+https://ec2-52-194-177-98.ap-northeast-1.compute.amazonaws.com/docsapiindex.html
+https://ec2-52-194-177-98.ap-northeast-1.compute.amazonaws.com/docsappdev
+https://ec2-52-194-177-98.ap-northeast-1.compute.amazonaws.com/docsconfig
+https://ec2-52-194-177-98.ap-northeast-1.compute.amazonaws.com/
+https://ec2-52-194-177-98.ap-northeast-1.compute.amazonaws.com/managerhtml
+https://ec2-52-194-177-98.ap-northeast-1.compute.amazonaws.com/docsdeployer-howto.html
+https://ec2-52-194-177-98.ap-northeast-1.compute.amazonaws.com/docscluster-howto.html

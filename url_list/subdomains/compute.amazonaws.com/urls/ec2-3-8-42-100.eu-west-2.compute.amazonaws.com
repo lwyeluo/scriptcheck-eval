@@ -1,0 +1,10 @@
+http://ec2-3-8-42-100.eu-west-2.compute.amazonaws.com/login.jsp?os_destination=%2Fdefault.jspsecureAboutPage.jspa
+http://ec2-3-8-42-100.eu-west-2.compute.amazonaws.com/secureAboutPage.jspa
+http://ec2-3-8-42-100.eu-west-2.compute.amazonaws.com/login.jsp?os_destination=%2Fdefault.jspsecureCreateIssue!default.jspa
+http://ec2-3-8-42-100.eu-west-2.compute.amazonaws.com/login.jsp?os_destination=%2Fdefault.jsp
+http://ec2-3-8-42-100.eu-west-2.compute.amazonaws.com/secureViewKeyboardShortcuts!default.jspa
+http://ec2-3-8-42-100.eu-west-2.compute.amazonaws.com/secureAboutPage.jspasecureAboutPage.jspa
+http://ec2-3-8-42-100.eu-west-2.compute.amazonaws.com/secureJiraCreditsPage!default.jspa
+http://ec2-3-8-42-100.eu-west-2.compute.amazonaws.com/secureDashboard.jspa
+http://ec2-3-8-42-100.eu-west-2.compute.amazonaws.com/
+http://ec2-3-8-42-100.eu-west-2.compute.amazonaws.com/secureCreateIssue!default.jspa

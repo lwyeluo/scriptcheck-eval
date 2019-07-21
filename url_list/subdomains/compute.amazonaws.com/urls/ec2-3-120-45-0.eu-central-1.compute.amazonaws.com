@@ -1,0 +1,10 @@
+http://ec2-3-120-45-0.eu-central-1.compute.amazonaws.com/#curriculum#curriculum
+http://ec2-3-120-45-0.eu-central-1.compute.amazonaws.com/#curriculumen
+http://ec2-3-120-45-0.eu-central-1.compute.amazonaws.com/#curriculum#aboutUs
+http://ec2-3-120-45-0.eu-central-1.compute.amazonaws.com/#aboutUs
+http://ec2-3-120-45-0.eu-central-1.compute.amazonaws.com/en
+http://ec2-3-120-45-0.eu-central-1.compute.amazonaws.com/#curriculumar
+http://ec2-3-120-45-0.eu-central-1.compute.amazonaws.com/#aboutUsen
+http://ec2-3-120-45-0.eu-central-1.compute.amazonaws.com/
+http://ec2-3-120-45-0.eu-central-1.compute.amazonaws.com/#curriculum
+http://ec2-3-120-45-0.eu-central-1.compute.amazonaws.com/ar

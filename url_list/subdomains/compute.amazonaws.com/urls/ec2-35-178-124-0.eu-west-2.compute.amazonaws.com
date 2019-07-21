@@ -1,0 +1,10 @@
+http://ec2-35-178-124-0.eu-west-2.compute.amazonaws.com/memorybox
+http://ec2-35-178-124-0.eu-west-2.compute.amazonaws.com/privacy
+http://ec2-35-178-124-0.eu-west-2.compute.amazonaws.com/customerservice
+http://ec2-35-178-124-0.eu-west-2.compute.amazonaws.com/terms
+http://ec2-35-178-124-0.eu-west-2.compute.amazonaws.com/faq
+http://ec2-35-178-124-0.eu-west-2.compute.amazonaws.com/about
+http://ec2-35-178-124-0.eu-west-2.compute.amazonaws.com/vault
+http://ec2-35-178-124-0.eu-west-2.compute.amazonaws.com/contact
+http://ec2-35-178-124-0.eu-west-2.compute.amazonaws.com/what-we-do
+http://ec2-35-178-124-0.eu-west-2.compute.amazonaws.com/

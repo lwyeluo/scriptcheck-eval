@@ -1,0 +1,1 @@
+https://receipt.droppages.com/

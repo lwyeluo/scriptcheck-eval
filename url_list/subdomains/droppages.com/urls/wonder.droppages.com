@@ -1,0 +1,10 @@
+https://wonder.droppages.com/sitemap
+https://wonder.droppages.com/sitemapAbout+usHistory
+https://wonder.droppages.com/sitemapSitemap
+https://wonder.droppages.com/sitemapAbout+usTeam
+https://wonder.droppages.com/About+us
+https://wonder.droppages.com/News
+https://wonder.droppages.com/Sample+Syntax
+https://wonder.droppages.com/terms
+https://wonder.droppages.com/
+https://wonder.droppages.com/Contact+us

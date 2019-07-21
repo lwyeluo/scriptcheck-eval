@@ -1,0 +1,10 @@
+https://ec2-52-56-217-100.eu-west-2.compute.amazonaws.com/searchPage
+https://ec2-52-56-217-100.eu-west-2.compute.amazonaws.com/offers/NewYork
+https://ec2-52-56-217-100.eu-west-2.compute.amazonaws.com/offers/Toronto
+https://ec2-52-56-217-100.eu-west-2.compute.amazonaws.com/password/reset
+https://ec2-52-56-217-100.eu-west-2.compute.amazonaws.com/offers/Dhaka
+https://ec2-52-56-217-100.eu-west-2.compute.amazonaws.com/offers/Detroit
+https://ec2-52-56-217-100.eu-west-2.compute.amazonaws.com/offers/Istanbul
+https://ec2-52-56-217-100.eu-west-2.compute.amazonaws.com/admin
+https://ec2-52-56-217-100.eu-west-2.compute.amazonaws.com/offers/Jeddah
+http://ec2-52-56-217-100.eu-west-2.compute.amazonaws.com/

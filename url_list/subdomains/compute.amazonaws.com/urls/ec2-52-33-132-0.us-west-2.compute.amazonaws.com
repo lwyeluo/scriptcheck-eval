@@ -1,0 +1,10 @@
+http://ec2-52-33-132-0.us-west-2.compute.amazonaws.com/privacycorporateacquisitions
+http://ec2-52-33-132-0.us-west-2.compute.amazonaws.com/privacysupportcontact.html
+http://ec2-52-33-132-0.us-west-2.compute.amazonaws.com/privacy
+http://ec2-52-33-132-0.us-west-2.compute.amazonaws.com/
+http://ec2-52-33-132-0.us-west-2.compute.amazonaws.com/newsroom
+http://ec2-52-33-132-0.us-west-2.compute.amazonaws.com/privacyaocomdocsindustrieslife-sciencesai-revolution-multivigilance-brief.pdf
+http://ec2-52-33-132-0.us-west-2.compute.amazonaws.com/usersconfirmationnew
+http://ec2-52-33-132-0.us-west-2.compute.amazonaws.com/userspasswordnew
+http://ec2-52-33-132-0.us-west-2.compute.amazonaws.com/tos
+http://ec2-52-33-132-0.us-west-2.compute.amazonaws.com/usersunlocknew

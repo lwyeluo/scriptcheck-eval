@@ -1,0 +1,9 @@
+http://ec2-54-190-230-0.us-west-2.compute.amazonaws.com/auth/facebook
+http://ec2-54-190-230-0.us-west-2.compute.amazonaws.com/
+http://ec2-54-190-230-0.us-west-2.compute.amazonaws.com/register
+http://ec2-54-190-230-0.us-west-2.compute.amazonaws.com/about
+http://ec2-54-190-230-0.us-west-2.compute.amazonaws.com/auth/google
+http://ec2-54-190-230-0.us-west-2.compute.amazonaws.com/contact
+http://ec2-54-190-230-0.us-west-2.compute.amazonaws.com
+http://ec2-54-190-230-0.us-west-2.compute.amazonaws.com/login
+http://ec2-54-190-230-0.us-west-2.compute.amazonaws.com/forgot-password

@@ -1,0 +1,10 @@
+http://ec2-34-220-132-0.us-west-2.compute.amazonaws.com/projects?jump=welcome
+http://ec2-34-220-132-0.us-west-2.compute.amazonaws.com/projects?jump=welcomeactivity
+http://ec2-34-220-132-0.us-west-2.compute.amazonaws.com/projects
+http://ec2-34-220-132-0.us-west-2.compute.amazonaws.com/projects?jump=welcomeprojects?jump=projects
+http://ec2-34-220-132-0.us-west-2.compute.amazonaws.com/projects?jump=welcomeissuesgantt
+http://ec2-34-220-132-0.us-west-2.compute.amazonaws.com/login
+http://ec2-34-220-132-0.us-west-2.compute.amazonaws.com/settingspluginscrum
+http://ec2-34-220-132-0.us-west-2.compute.amazonaws.com/bitnamiindex.html
+http://ec2-34-220-132-0.us-west-2.compute.amazonaws.com/search
+http://ec2-34-220-132-0.us-west-2.compute.amazonaws.com/
