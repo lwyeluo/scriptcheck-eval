@@ -81,6 +81,8 @@ class CrawlerImpl(object):
 				if return_url not in urls:
 					urls.add(return_url)
 					url_q.put(return_url)
+				if len(urls) >= self.max_url_num:
+					break
 
 		output_filepath = os.path.join(results_dir, domain)
 		with open(output_filepath, "w") as f:
@@ -139,7 +141,7 @@ class Crawler(object):
 '''
 def run(domain, type):
 	filepath = None
-	max_url_num = 100
+	max_url_num = 50
 	if type == 'SubDomain':
 		if not domain:
 			raise Exception("The DOMAIN for SubDomain should not be None")
