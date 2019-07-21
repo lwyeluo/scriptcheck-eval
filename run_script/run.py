@@ -58,7 +58,7 @@ class RunUrl(object):
 										  stdout=ret_fd)
 		logging.info('>>> START ' + self.url)
 
-		time.sleep(10)
+		time.sleep(5)
 
 		print(_node_binary, _node_filename)
 		process_node = subprocess.Popen([_node_binary, _node_filename, self.url, str(_timeout_for_node)], stdout=subprocess.PIPE,
@@ -81,7 +81,7 @@ class RunUrl(object):
 
 		my_timer.cancel()
 
-		time.sleep(5)
+		time.sleep(2)
 		# kill chrome
 		try:
 			logging.info("\t>>> kill Chrome [%d]" % process_chrome.pid)

@@ -11,8 +11,8 @@ from url_crawler import _subdomains_dir, _topsites_alexa_dir
 
 class CrawlerImpl(object):
 
-	def __init__(self):
-		self.max_url_num = 100
+	def __init__(self, max_url_num):
+		self.max_url_num = max_url_num
 
 		self.headers = {
 			'pragma': "no-cache",
@@ -93,9 +93,11 @@ class Crawler(object):
 
 	'''
 	@file_for_home_pages: the file saving the list for home pages
+	@max_url_num
 	'''
-	def __init__(self, filepath_for_home_pages):
+	def __init__(self, filepath_for_home_pages, max_url_num=100):
 		self.input_file = filepath_for_home_pages
+		self.max_url_num = max_url_num
 
 		self.thread_num = 40
 
@@ -125,7 +127,7 @@ class Crawler(object):
 			f.close()
 
 		pool = threadpool.ThreadPool(self.thread_num)
-		tasks = threadpool.makeRequests(CrawlerImpl().get_domain_url, task_args)
+		tasks = threadpool.makeRequests(CrawlerImpl(self.max_url_num).get_domain_url, task_args)
 		for task in tasks:
 			pool.putRequest(task)
 		pool.wait()
@@ -137,6 +139,7 @@ class Crawler(object):
 '''
 def run(domain, type):
 	filepath = None
+	max_url_num = 100
 	if type == 'SubDomain':
 		if not domain:
 			raise Exception("The DOMAIN for SubDomain should not be None")
@@ -149,6 +152,7 @@ def run(domain, type):
 
 	elif type == 'Alexa':
 		filepath = os.path.join(_topsites_alexa_dir, "reachable_domains")
+		max_url_num = 10
 
 	elif type == 'China':
 		raise Exception("TO DO it later")
@@ -157,7 +161,7 @@ def run(domain, type):
 		raise Exception("Filepath does not exist. %s", filepath)
 
 	# run
-	crawler = Crawler(filepath)
+	crawler = Crawler(filepath, max_url_num)
 	crawler.run()
 
 
