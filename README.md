@@ -63,7 +63,7 @@ python3 evaluate.py --parse-log-for-subdomains --all
 # get the home pages
 python3 evaluate.py --parse-homepage --Alexa
 # crawl urls
-python3 evaluate.py --crawl-url -d blog.csdn.net
+python3 evaluate.py --crawl-url --Alexa
 # run the urls
 python3 evaluate.py --run-alexa-top-sites
 ```
