@@ -47,8 +47,8 @@ npm install chrome-remote-interface
 python3 evaluate.py --parse-subdomains -d blog.csdn.net
 # get the home pages for these subdomains
 python3 evaluate.py --parse-homepage -d blog.csdn.net
-# crawler urls for these subdomains
-TODO
+# crawl urls for these subdomains
+python3 evaluate.py --crawl-url -d blog.csdn.net
 # run the urls
 python3 evaluate.py --run-subdomains -d blog.csdn.net
 # parse the logs
@@ -62,6 +62,8 @@ python3 evaluate.py --parse-log-for-subdomains --all
 ```
 # get the home pages
 python3 evaluate.py --parse-homepage --Alexa
+# crawl urls
+python3 evaluate.py --crawl-url -d blog.csdn.net
 # run the urls
 python3 evaluate.py --run-alexa-top-sites
 ```

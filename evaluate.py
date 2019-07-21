@@ -25,6 +25,10 @@ if __name__ == '__main__':
 	# -s NUMBER_OF_MACHINE
 	parser.add_argument('--split-china-webpage', '-s', type=int, metavar="NUMBER_OF_MACHINES",
 						help='Split the China webpages for multiple machines')
+	# --crawl-url -d DOMAIN | --crawl-url --Alexa
+	parser.add_argument('--crawl-url', action='store_true',
+						help='For subdomains, crawl urls for a DOMAIN (with -d).'
+							 'For top sites, use with --Alexa')
 
 	'''
 		Parse Log
@@ -77,6 +81,19 @@ if __name__ == '__main__':
 			from url_crawler.topsitesAlexa import run
 
 			run()
+		else:
+			raise Exception("Please use '--parse-url -d DOMAIN' or '--parse-url -f LIST_FILE' ")
+
+	elif args.crawl_url:
+		# --crawl-url -d DOMAIN | --crawl-url --Alexa
+		if args.domain:
+			from url_crawler.crawler import run
+
+			run(args.domain, type="SubDomain")
+		elif args.Alexa:
+			from url_crawler.crawler import run
+
+			run(None, type='Alexa')
 		else:
 			raise Exception("Please use '--parse-url -d DOMAIN' or '--parse-url -f LIST_FILE' ")
 
