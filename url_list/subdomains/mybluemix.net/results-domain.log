@@ -1,0 +1,2194 @@
+/home/sc/chromium/tick/src/out/Default/chrome
+>>> initial file name is /home/sc/workspace/tim-evaluate/url_list/subdomains/mybluemix.net/reachable_subdomains
+[url, filename] = https://mybluemix.net, https:,,mybluemix.nethYTmSa2kig
+>>> START https://mybluemix.net
+		web page [https://mybluemix.net] is completed!
+>>> FINISH https://mybluemix.net
+	>>> kill Chrome [31570]
+######## frame info is: {'s': {'url': 'https://cloud.ibm.com/docs', 'domain': 'cloud.ibm.com'}, 's-0': {'url': 'https://cloud.ibm.com/docs', 'domain': 'cloud.ibm.com'}, 's-1': {'url': 'about:blank', 'domain': 'cloud.ibm.com'}, 's-2': {'url': 'about:blank', 'domain': 'cloud.ibm.com'}, 's-3': {'url': 'about:blank', 'domain': 'cloud.ibm.com'}, 's-4': {'url': 'https://cloud.ibm.com/docs', 'domain': 'cloud.ibm.com'}}
+		---> Multiple FRAMES
+[url, filename] = https://3c.mybluemix.net, https:,,3c.mybluemix.netHL4Isq9ebZ
+>>> START https://3c.mybluemix.net
+		web page [https://3c.mybluemix.net] is completed!
+>>> FINISH https://3c.mybluemix.net
+	>>> kill Chrome [31716]
+######## frame info is: {'s': {'url': 'https://3c.mybluemix.net/', 'domain': '3c.mybluemix.net'}}
+[url, filename] = https://711.mybluemix.net, https:,,711.mybluemix.net7v0sIFEaM3
+>>> START https://711.mybluemix.net
+		web page [https://711.mybluemix.net] is completed!
+>>> FINISH https://711.mybluemix.net
+	>>> kill Chrome [31845]
+######## frame info is: {'s': {'url': 'https://711.mybluemix.net/', 'domain': '711.mybluemix.net'}}
+[url, filename] = https://aai.mybluemix.net, https:,,aai.mybluemix.net5QVbIrDgj8
+>>> START https://aai.mybluemix.net
+		web page [https://aai.mybluemix.net] is completed!
+>>> FINISH https://aai.mybluemix.net
+	>>> kill Chrome [31970]
+######## frame info is: {'s': {'url': 'https://aai.mybluemix.net/', 'domain': 'aai.mybluemix.net'}}
+[url, filename] = https://abba.mybluemix.net, https:,,abba.mybluemix.netZNCdF3rSqL
+>>> START https://abba.mybluemix.net
+		web page [https://abba.mybluemix.net] is completed!
+>>> FINISH https://abba.mybluemix.net
+	>>> kill Chrome [32095]
+######## frame info is: {'s': {'url': 'https://abba.mybluemix.net/', 'domain': 'abba.mybluemix.net'}}
+[url, filename] = https://abacus.mybluemix.net, https:,,abacus.mybluemix.nethDPm02bItV
+>>> START https://abacus.mybluemix.net
+		web page [https://abacus.mybluemix.net] is completed!
+>>> FINISH https://abacus.mybluemix.net
+	>>> kill Chrome [32222]
+######## frame info is: {'s': {'url': 'https://abacus.mybluemix.net/', 'domain': 'abacus.mybluemix.net'}}
+[url, filename] = https://advice.mybluemix.net, https:,,advice.mybluemix.netea6PuJFcSB
+>>> START https://advice.mybluemix.net
+		web page [https://advice.mybluemix.net] is completed!
+>>> FINISH https://advice.mybluemix.net
+	>>> kill Chrome [32349]
+######## frame info is: {'s': {'url': 'https://advice.mybluemix.net/', 'domain': 'advice.mybluemix.net'}}
+[url, filename] = https://afer.mybluemix.net, https:,,afer.mybluemix.net4BYHhQKiSU
+>>> START https://afer.mybluemix.net
+		web page [https://afer.mybluemix.net] is completed!
+>>> FINISH https://afer.mybluemix.net
+	>>> kill Chrome [32473]
+######## frame info is: {'s': {'url': 'https://afer.mybluemix.net/', 'domain': 'afer.mybluemix.net'}}
+[url, filename] = https://affiliates.mybluemix.net, https:,,affiliates.mybluemix.nmZBh3DgCVJ
+>>> START https://affiliates.mybluemix.net
+		web page [https://affiliates.mybluemix.net] is TIMEOUT!
+>>> FINISH https://affiliates.mybluemix.net
+	>>> kill Chrome [32600]
+######## frame info is: {'s': {'url': 'https://affiliates.mybluemix.net/explorer/', 'domain': 'affiliates.mybluemix.net'}}
+[url, filename] = https://adam.mybluemix.net, https:,,adam.mybluemix.netN3fEi5njxk
+>>> START https://adam.mybluemix.net
+		web page [https://adam.mybluemix.net] is completed!
+>>> FINISH https://adam.mybluemix.net
+	>>> kill Chrome [32730]
+######## frame info is: {'s': {'url': 'https://adam.mybluemix.net/', 'domain': 'adam.mybluemix.net'}}
+[url, filename] = https://aimee.mybluemix.net, https:,,aimee.mybluemix.netqs1akTAbBK
+>>> START https://aimee.mybluemix.net
+		web page [https://aimee.mybluemix.net] is completed!
+>>> FINISH https://aimee.mybluemix.net
+	>>> kill Chrome [398]
+######## frame info is: {'s': {'url': 'https://aimee.mybluemix.net/', 'domain': 'aimee.mybluemix.net'}}
+[url, filename] = https://akr.mybluemix.net, https:,,akr.mybluemix.netDWGhaCNj17
+>>> START https://akr.mybluemix.net
+		web page [https://akr.mybluemix.net] is completed!
+>>> FINISH https://akr.mybluemix.net
+	>>> kill Chrome [531]
+######## frame info is: {'s': {'url': 'https://akr.mybluemix.net/', 'domain': 'akr.mybluemix.net'}}
+[url, filename] = https://akuma.mybluemix.net, https:,,akuma.mybluemix.netUwecYgQ2i0
+>>> START https://akuma.mybluemix.net
+		web page [https://akuma.mybluemix.net] is completed!
+>>> FINISH https://akuma.mybluemix.net
+	>>> kill Chrome [657]
+######## frame info is: {'s': {'url': 'https://akuma.mybluemix.net/', 'domain': 'akuma.mybluemix.net'}}
+[url, filename] = https://alba.mybluemix.net, https:,,alba.mybluemix.netcaCdE408Pz
+>>> START https://alba.mybluemix.net
+		web page [https://alba.mybluemix.net] is completed!
+>>> FINISH https://alba.mybluemix.net
+	>>> kill Chrome [792]
+######## frame info is: {'s': {'url': 'https://alba.mybluemix.net/#/main/dashboard', 'domain': 'alba.mybluemix.net'}}
+[url, filename] = https://amelia.mybluemix.net, https:,,amelia.mybluemix.netYlyKTPaox3
+>>> START https://amelia.mybluemix.net
+		web page [https://amelia.mybluemix.net] is completed!
+>>> FINISH https://amelia.mybluemix.net
+	>>> kill Chrome [937]
+######## frame info is: {'s': {'url': 'https://amelia.mybluemix.net/', 'domain': 'amelia.mybluemix.net'}}
+[url, filename] = https://apex.mybluemix.net, https:,,apex.mybluemix.netcwdCA8HFjT
+>>> START https://apex.mybluemix.net
+		web page [https://apex.mybluemix.net] is completed!
+>>> FINISH https://apex.mybluemix.net
+	>>> kill Chrome [1080]
+######## frame info is: {'s': {'url': 'https://apex.mybluemix.net/', 'domain': 'apex.mybluemix.net'}}
+[url, filename] = https://apk.mybluemix.net, https:,,apk.mybluemix.net2v7n6W5XEb
+>>> START https://apk.mybluemix.net
+		web page [https://apk.mybluemix.net] is completed!
+>>> FINISH https://apk.mybluemix.net
+	>>> kill Chrome [1267]
+######## frame info is: {'s': {'url': 'https://apk.mybluemix.net/', 'domain': 'apk.mybluemix.net'}}
+[url, filename] = https://app-dev.mybluemix.net, https:,,app-dev.mybluemix.netOJzVcSBTX3
+>>> START https://app-dev.mybluemix.net
+		web page [https://app-dev.mybluemix.net] is completed!
+>>> FINISH https://app-dev.mybluemix.net
+	>>> kill Chrome [1498]
+######## frame info is: {'s': {'url': 'https://app-dev.mybluemix.net/', 'domain': 'app-dev.mybluemix.net'}}
+[url, filename] = https://armstrong.mybluemix.net, https:,,armstrong.mybluemix.nen2Xpuf9Ky7
+>>> START https://armstrong.mybluemix.net
+		web page [https://armstrong.mybluemix.net] is completed!
+>>> FINISH https://armstrong.mybluemix.net
+	>>> kill Chrome [1672]
+######## frame info is: {'s': {'url': 'https://armstrong.mybluemix.net/', 'domain': 'armstrong.mybluemix.net'}}
+[url, filename] = https://arjuna.mybluemix.net, https:,,arjuna.mybluemix.net41raDRgQKG
+>>> START https://arjuna.mybluemix.net
+		web page [https://arjuna.mybluemix.net] is completed!
+>>> FINISH https://arjuna.mybluemix.net
+	>>> kill Chrome [1843]
+######## frame info is: {'s': {'url': 'https://arjuna.mybluemix.net/', 'domain': 'arjuna.mybluemix.net'}}
+[url, filename] = https://art.mybluemix.net, https:,,art.mybluemix.netFDbGrs9t01
+>>> START https://art.mybluemix.net
+		web page [https://art.mybluemix.net] is completed!
+>>> FINISH https://art.mybluemix.net
+	>>> kill Chrome [1989]
+######## frame info is: {'s': {'url': 'https://art.mybluemix.net/', 'domain': 'art.mybluemix.net'}}
+[url, filename] = https://astro.mybluemix.net, https:,,astro.mybluemix.netBaQgSTK0rs
+>>> START https://astro.mybluemix.net
+		web page [https://astro.mybluemix.net] is completed!
+>>> FINISH https://astro.mybluemix.net
+	>>> kill Chrome [2118]
+######## frame info is: {'s': {'url': 'https://astro.mybluemix.net/', 'domain': 'astro.mybluemix.net'}}
+[url, filename] = https://armageddon.mybluemix.net, https:,,armageddon.mybluemix.nUt2Ldqgr0s
+>>> START https://armageddon.mybluemix.net
+		web page [https://armageddon.mybluemix.net] is completed!
+>>> FINISH https://armageddon.mybluemix.net
+	>>> kill Chrome [2253]
+######## frame info is: {'s': {'url': 'https://armageddon.mybluemix.net/', 'domain': 'armageddon.mybluemix.net'}}
+[url, filename] = https://atlanta.mybluemix.net, https:,,atlanta.mybluemix.netVpac3rP6kQ
+>>> START https://atlanta.mybluemix.net
+		web page [https://atlanta.mybluemix.net] is completed!
+>>> FINISH https://atlanta.mybluemix.net
+	>>> kill Chrome [2380]
+######## frame info is: {'s': {'url': 'https://atlanta.mybluemix.net/', 'domain': 'atlanta.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://avenger.mybluemix.net, https:,,avenger.mybluemix.netS1qMXOmJrd
+>>> START https://avenger.mybluemix.net
+		web page [https://avenger.mybluemix.net] is completed!
+>>> FINISH https://avenger.mybluemix.net
+	>>> kill Chrome [2512]
+######## frame info is: {'s': {'url': 'https://avenger.mybluemix.net/', 'domain': 'avenger.mybluemix.net'}}
+[url, filename] = https://axa.mybluemix.net, https:,,axa.mybluemix.net0Q7avExVie
+>>> START https://axa.mybluemix.net
+		web page [https://axa.mybluemix.net] is completed!
+>>> FINISH https://axa.mybluemix.net
+	>>> kill Chrome [2647]
+######## frame info is: {'s': {'url': 'https://axa.mybluemix.net/', 'domain': 'axa.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://b1.mybluemix.net, https:,,b1.mybluemix.netEe3ibhpvW1
+>>> START https://b1.mybluemix.net
+		web page [https://b1.mybluemix.net] is completed!
+>>> FINISH https://b1.mybluemix.net
+	>>> kill Chrome [2775]
+######## frame info is: {'s': {'url': 'https://b1.mybluemix.net/', 'domain': 'b1.mybluemix.net'}}
+[url, filename] = https://babs.mybluemix.net, https:,,babs.mybluemix.netpRvbE0UlQI
+>>> START https://babs.mybluemix.net
+		Enter timeoutCallback
+		web page [https://babs.mybluemix.net] is TIMEOUT!
+>>> FINISH https://babs.mybluemix.net
+	>>> kill Chrome [2913]
+######## frame info is: {}
+[url, filename] = https://badges.mybluemix.net, https:,,badges.mybluemix.netjzGYqALEyX
+>>> START https://badges.mybluemix.net
+		web page [https://badges.mybluemix.net] is completed!
+>>> FINISH https://badges.mybluemix.net
+	>>> kill Chrome [3058]
+######## frame info is: {'s': {'url': 'https://badges.mybluemix.net/', 'domain': 'badges.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://backup.mybluemix.net, https:,,backup.mybluemix.netjMIQFGtyC6
+>>> START https://backup.mybluemix.net
+		web page [https://backup.mybluemix.net] is completed!
+>>> FINISH https://backup.mybluemix.net
+	>>> kill Chrome [3189]
+######## frame info is: {'s': {'url': 'https://backup.mybluemix.net/', 'domain': 'backup.mybluemix.net'}}
+[url, filename] = https://baxter.mybluemix.net, https:,,baxter.mybluemix.netmiwQT0lyHj
+>>> START https://baxter.mybluemix.net
+		web page [https://baxter.mybluemix.net] is completed!
+>>> FINISH https://baxter.mybluemix.net
+	>>> kill Chrome [3344]
+######## frame info is: {'s': {'url': 'https://baxter.mybluemix.net/', 'domain': 'baxter.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://bb8.mybluemix.net, https:,,bb8.mybluemix.netZvd9kNEB4U
+>>> START https://bb8.mybluemix.net
+		web page [https://bb8.mybluemix.net] is completed!
+>>> FINISH https://bb8.mybluemix.net
+	>>> kill Chrome [3472]
+######## frame info is: {'s': {'url': 'https://bb8.mybluemix.net/', 'domain': 'bb8.mybluemix.net'}}
+[url, filename] = https://bct.mybluemix.net, https:,,bct.mybluemix.netiqsxIAlBOz
+>>> START https://bct.mybluemix.net
+		web page [https://bct.mybluemix.net] is completed!
+>>> FINISH https://bct.mybluemix.net
+	>>> kill Chrome [3597]
+######## frame info is: {'s': {'url': 'https://bct.mybluemix.net/', 'domain': 'bct.mybluemix.net'}}
+[url, filename] = https://bell.mybluemix.net, https:,,bell.mybluemix.netRrnI7JDKTo
+>>> START https://bell.mybluemix.net
+		web page [https://bell.mybluemix.net] is completed!
+>>> FINISH https://bell.mybluemix.net
+	>>> kill Chrome [3722]
+######## frame info is: {'s': {'url': 'https://bell.mybluemix.net/', 'domain': 'bell.mybluemix.net'}}
+[url, filename] = https://bento.mybluemix.net, https:,,bento.mybluemix.netFOqBacbhdS
+>>> START https://bento.mybluemix.net
+		web page [https://bento.mybluemix.net] is completed!
+>>> FINISH https://bento.mybluemix.net
+	>>> kill Chrome [3850]
+######## frame info is: {'s': {'url': 'https://bento.mybluemix.net/', 'domain': 'bento.mybluemix.net'}}
+[url, filename] = https://berkshire.mybluemix.net, https:,,berkshire.mybluemix.neH0aVDfSkAo
+>>> START https://berkshire.mybluemix.net
+		web page [https://berkshire.mybluemix.net] is completed!
+>>> FINISH https://berkshire.mybluemix.net
+	>>> kill Chrome [3976]
+######## frame info is: {'s': {'url': 'https://berkshire.mybluemix.net/', 'domain': 'berkshire.mybluemix.net'}}
+[url, filename] = https://bilder.mybluemix.net, https:,,bilder.mybluemix.netmD8kRSi6oJ
+>>> START https://bilder.mybluemix.net
+		web page [https://bilder.mybluemix.net] is completed!
+>>> FINISH https://bilder.mybluemix.net
+	>>> kill Chrome [4103]
+######## frame info is: {'s': {'url': 'https://bilder.mybluemix.net/', 'domain': 'bilder.mybluemix.net'}}
+[url, filename] = https://birch.mybluemix.net, https:,,birch.mybluemix.netuelk4JRxy9
+>>> START https://birch.mybluemix.net
+		web page [https://birch.mybluemix.net] is completed!
+>>> FINISH https://birch.mybluemix.net
+	>>> kill Chrome [4231]
+######## frame info is: {'s': {'url': 'https://birch.mybluemix.net/', 'domain': 'birch.mybluemix.net'}}
+[url, filename] = https://bna.mybluemix.net, https:,,bna.mybluemix.net9bEGnHzCAR
+>>> START https://bna.mybluemix.net
+		web page [https://bna.mybluemix.net] is completed!
+>>> FINISH https://bna.mybluemix.net
+	>>> kill Chrome [4359]
+######## frame info is: {'s': {'url': 'https://bna.mybluemix.net/', 'domain': 'bna.mybluemix.net'}}
+[url, filename] = https://bongo.mybluemix.net, https:,,bongo.mybluemix.netodz3vTxL2p
+>>> START https://bongo.mybluemix.net
+		web page [https://bongo.mybluemix.net] is completed!
+>>> FINISH https://bongo.mybluemix.net
+	>>> kill Chrome [4484]
+######## frame info is: {'s': {'url': 'https://bongo.mybluemix.net/', 'domain': 'bongo.mybluemix.net'}}
+[url, filename] = https://boris.mybluemix.net, https:,,boris.mybluemix.netQsLcp6nBIk
+>>> START https://boris.mybluemix.net
+		web page [https://boris.mybluemix.net] is completed!
+>>> FINISH https://boris.mybluemix.net
+	>>> kill Chrome [4611]
+######## frame info is: {'s': {'url': 'https://boris.mybluemix.net/', 'domain': 'boris.mybluemix.net'}}
+[url, filename] = https://btc.mybluemix.net, https:,,btc.mybluemix.netzwWlV1J4r5
+>>> START https://btc.mybluemix.net
+		web page [https://btc.mybluemix.net] is completed!
+>>> FINISH https://btc.mybluemix.net
+	>>> kill Chrome [4740]
+######## frame info is: {'s': {'url': 'https://btc.mybluemix.net/', 'domain': 'btc.mybluemix.net'}}
+[url, filename] = https://butterfly.mybluemix.net, https:,,butterfly.mybluemix.neSGK9Nhvglx
+>>> START https://butterfly.mybluemix.net
+		web page [https://butterfly.mybluemix.net] is completed!
+>>> FINISH https://butterfly.mybluemix.net
+	>>> kill Chrome [4866]
+######## frame info is: {'s': {'url': 'https://butterfly.mybluemix.net/', 'domain': 'butterfly.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://cac.mybluemix.net, https:,,cac.mybluemix.netRqwi1tIfz8
+>>> START https://cac.mybluemix.net
+		web page [https://cac.mybluemix.net] is completed!
+>>> FINISH https://cac.mybluemix.net
+	>>> kill Chrome [4993]
+######## frame info is: {'s': {'url': 'https://cac.mybluemix.net/', 'domain': 'cac.mybluemix.net'}}
+[url, filename] = https://camera2.mybluemix.net, https:,,camera2.mybluemix.netTAKUDbXqic
+>>> START https://camera2.mybluemix.net
+		web page [https://camera2.mybluemix.net] is completed!
+>>> FINISH https://camera2.mybluemix.net
+	>>> kill Chrome [5119]
+######## frame info is: {'s': {'url': 'https://camera2.mybluemix.net/', 'domain': 'camera2.mybluemix.net'}}
+[url, filename] = https://cape.mybluemix.net, https:,,cape.mybluemix.netanSC9cGdUA
+>>> START https://cape.mybluemix.net
+		web page [https://cape.mybluemix.net] is completed!
+>>> FINISH https://cape.mybluemix.net
+	>>> kill Chrome [5244]
+######## frame info is: {'s': {'url': 'https://cape.mybluemix.net/', 'domain': 'cape.mybluemix.net'}}
+[url, filename] = https://capacity.mybluemix.net, https:,,capacity.mybluemix.netEb9K2VitAY
+>>> START https://capacity.mybluemix.net
+		web page [https://capacity.mybluemix.net] is completed!
+>>> FINISH https://capacity.mybluemix.net
+	>>> kill Chrome [5424]
+######## frame info is: {'s': {'url': 'https://capacity.mybluemix.net/', 'domain': 'capacity.mybluemix.net'}}
+[url, filename] = https://carbon.mybluemix.net, https:,,carbon.mybluemix.netXB7rmZxY2s
+>>> START https://carbon.mybluemix.net
+		web page [https://carbon.mybluemix.net] is completed!
+>>> FINISH https://carbon.mybluemix.net
+	>>> kill Chrome [5549]
+######## frame info is: {'s': {'url': 'https://carbon.mybluemix.net/', 'domain': 'carbon.mybluemix.net'}}
+[url, filename] = https://carla.mybluemix.net, https:,,carla.mybluemix.netPVGFAn2U0b
+>>> START https://carla.mybluemix.net
+		web page [https://carla.mybluemix.net] is completed!
+>>> FINISH https://carla.mybluemix.net
+	>>> kill Chrome [5678]
+######## frame info is: {'s': {'url': 'https://carla.mybluemix.net/', 'domain': 'carla.mybluemix.net'}}
+[url, filename] = https://carnival.mybluemix.net, https:,,carnival.mybluemix.netfzP9KcrpQu
+>>> START https://carnival.mybluemix.net
+		web page [https://carnival.mybluemix.net] is completed!
+>>> FINISH https://carnival.mybluemix.net
+	>>> kill Chrome [5807]
+######## frame info is: {'s': {'url': 'https://carnival.mybluemix.net/', 'domain': 'carnival.mybluemix.net'}}
+[url, filename] = https://cascade.mybluemix.net, https:,,cascade.mybluemix.net71VqhOLTlu
+>>> START https://cascade.mybluemix.net
+		web page [https://cascade.mybluemix.net] is completed!
+>>> FINISH https://cascade.mybluemix.net
+	>>> kill Chrome [5933]
+######## frame info is: {'s': {'url': 'https://cascade.mybluemix.net/', 'domain': 'cascade.mybluemix.net'}}
+[url, filename] = https://cc.mybluemix.net, https:,,cc.mybluemix.neti3jSNRvdtX
+>>> START https://cc.mybluemix.net
+		web page [https://cc.mybluemix.net] is completed!
+>>> FINISH https://cc.mybluemix.net
+	>>> kill Chrome [6060]
+######## frame info is: {'s': {'url': 'https://cc.mybluemix.net/', 'domain': 'cc.mybluemix.net'}}
+[url, filename] = https://ce.mybluemix.net, https:,,ce.mybluemix.netTJyd9VxHk7
+>>> START https://ce.mybluemix.net
+		web page [https://ce.mybluemix.net] is completed!
+>>> FINISH https://ce.mybluemix.net
+	>>> kill Chrome [6207]
+######## frame info is: {'s': {'url': 'https://ce.mybluemix.net/login', 'domain': 'ce.mybluemix.net'}}
+[url, filename] = https://chat.mybluemix.net, https:,,chat.mybluemix.netYumRpzVorJ
+>>> START https://chat.mybluemix.net
+		web page [https://chat.mybluemix.net] is completed!
+>>> FINISH https://chat.mybluemix.net
+	>>> kill Chrome [6335]
+######## frame info is: {'s': {'url': 'https://chat.mybluemix.net/', 'domain': 'chat.mybluemix.net'}}
+[url, filename] = https://chris.mybluemix.net, https:,,chris.mybluemix.netn0iQGomKIj
+>>> START https://chris.mybluemix.net
+		web page [https://chris.mybluemix.net] is completed!
+>>> FINISH https://chris.mybluemix.net
+	>>> kill Chrome [6464]
+######## frame info is: {'s': {'url': 'https://chris.mybluemix.net/', 'domain': 'chris.mybluemix.net'}}
+[url, filename] = https://cleaning.mybluemix.net, https:,,cleaning.mybluemix.netV4DnBYtMjU
+>>> START https://cleaning.mybluemix.net
+		web page [https://cleaning.mybluemix.net] is completed!
+>>> FINISH https://cleaning.mybluemix.net
+	>>> kill Chrome [6592]
+######## frame info is: {'s': {'url': 'https://cleaning.mybluemix.net/', 'domain': 'cleaning.mybluemix.net'}}
+[url, filename] = https://clean.mybluemix.net, https:,,clean.mybluemix.netYzW692iOlp
+>>> START https://clean.mybluemix.net
+		web page [https://clean.mybluemix.net] is completed!
+>>> FINISH https://clean.mybluemix.net
+	>>> kill Chrome [6719]
+######## frame info is: {'s': {'url': 'https://clean.mybluemix.net/', 'domain': 'clean.mybluemix.net'}}
+[url, filename] = https://clima.mybluemix.net, https:,,clima.mybluemix.netcNaM1Y6x3z
+>>> START https://clima.mybluemix.net
+		web page [https://clima.mybluemix.net] is completed!
+>>> FINISH https://clima.mybluemix.net
+	>>> kill Chrome [6846]
+######## frame info is: {'s': {'url': 'https://clima.mybluemix.net/', 'domain': 'clima.mybluemix.net'}}
+[url, filename] = https://cne.mybluemix.net, https:,,cne.mybluemix.net6tOMg78RDh
+>>> START https://cne.mybluemix.net
+		web page [https://cne.mybluemix.net] is completed!
+>>> FINISH https://cne.mybluemix.net
+	>>> kill Chrome [6974]
+######## frame info is: {'s': {'url': 'https://cne.mybluemix.net/', 'domain': 'cne.mybluemix.net'}}
+[url, filename] = https://cognitivesecuritywhitepaper.mybluemix.net, https:,,cognitivesecuritywhiteoMLcIi9ANp
+>>> START https://cognitivesecuritywhitepaper.mybluemix.net
+		web page [https://cognitivesecuritywhitepaper.mybluemix.net] is TIMEOUT!
+>>> FINISH https://cognitivesecuritywhitepaper.mybluemix.net
+	>>> kill Chrome [7098]
+######## frame info is: {'s': {'url': 'https://cognitivesecuritywhitepaper.mybluemix.net/', 'domain': 'cognitivesecuritywhitepaper.mybluemix.net'}}
+[url, filename] = https://compras.mybluemix.net, https:,,compras.mybluemix.netuYDmNoMA8C
+>>> START https://compras.mybluemix.net
+		web page [https://compras.mybluemix.net] is completed!
+>>> FINISH https://compras.mybluemix.net
+	>>> kill Chrome [7239]
+######## frame info is: {'s': {'url': 'https://compras.mybluemix.net/login', 'domain': 'compras.mybluemix.net'}}
+[url, filename] = https://compass.mybluemix.net, https:,,compass.mybluemix.netBnQ3mZIUP4
+>>> START https://compass.mybluemix.net
+		web page [https://compass.mybluemix.net] is completed!
+>>> FINISH https://compass.mybluemix.net
+	>>> kill Chrome [7366]
+######## frame info is: {'s': {'url': 'https://compass.mybluemix.net/', 'domain': 'compass.mybluemix.net'}}
+[url, filename] = https://concepts.mybluemix.net, https:,,concepts.mybluemix.net9VoywCnpYq
+>>> START https://concepts.mybluemix.net
+		web page [https://concepts.mybluemix.net] is completed!
+>>> FINISH https://concepts.mybluemix.net
+	>>> kill Chrome [7502]
+######## frame info is: {'s': {'url': 'https://concepts.mybluemix.net/', 'domain': 'concepts.mybluemix.net'}}
+[url, filename] = https://concorde.mybluemix.net, https:,,concorde.mybluemix.netA2nrvIdjmW
+>>> START https://concorde.mybluemix.net
+		web page [https://concorde.mybluemix.net] is completed!
+>>> FINISH https://concorde.mybluemix.net
+	>>> kill Chrome [7627]
+######## frame info is: {'s': {'url': 'https://concorde.mybluemix.net/', 'domain': 'concorde.mybluemix.net'}}
+[url, filename] = https://apiconnect-eu-gb-stage1.uk-south.containers.mybluemix.net, https:,,apiconnect-eu-gb-stageU45JtPnsRb
+>>> START https://apiconnect-eu-gb-stage1.uk-south.containers.mybluemix.net
+		web page [https://apiconnect-eu-gb-stage1.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://apiconnect-eu-gb-stage1.uk-south.containers.mybluemix.net
+	>>> kill Chrome [7753]
+######## frame info is: {'s': {'url': 'https://apiconnect-eu-gb-stage1.uk-south.containers.mybluemix.net/', 'domain': 'apiconnect-eu-gb-stage1.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://btwlsk8-411122.uk-south.containers.mybluemix.net, https:,,btwlsk8-411122.uk-sout6WoeODtkHU
+>>> START https://btwlsk8-411122.uk-south.containers.mybluemix.net
+		web page [https://btwlsk8-411122.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://btwlsk8-411122.uk-south.containers.mybluemix.net
+	>>> kill Chrome [7882]
+######## frame info is: {'s': {'url': 'https://btwlsk8-411122.uk-south.containers.mybluemix.net/', 'domain': 'btwlsk8-411122.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://cluster0.uk-south.containers.mybluemix.net, https:,,cluster0.uk-south.cont1R3mEXpZMu
+>>> START https://cluster0.uk-south.containers.mybluemix.net
+		web page [https://cluster0.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://cluster0.uk-south.containers.mybluemix.net
+	>>> kill Chrome [8008]
+######## frame info is: {'s': {'url': 'https://cluster0.uk-south.containers.mybluemix.net/', 'domain': 'cluster0.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://cis-prod-lon02.uk-south.containers.mybluemix.net, https:,,cis-prod-lon02.uk-soutOHNbiIj2Xl
+>>> START https://cis-prod-lon02.uk-south.containers.mybluemix.net
+		web page [https://cis-prod-lon02.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://cis-prod-lon02.uk-south.containers.mybluemix.net
+	>>> kill Chrome [8133]
+######## frame info is: {'s': {'url': 'https://cis-prod-lon02.uk-south.containers.mybluemix.net/', 'domain': 'cis-prod-lon02.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://cis-stage-lon04.uk-south.containers.mybluemix.net, https:,,cis-stage-lon04.uk-souLtGu4XZUd0
+>>> START https://cis-stage-lon04.uk-south.containers.mybluemix.net
+		web page [https://cis-stage-lon04.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://cis-stage-lon04.uk-south.containers.mybluemix.net
+	>>> kill Chrome [8261]
+######## frame info is: {'s': {'url': 'https://cis-stage-lon04.uk-south.containers.mybluemix.net/', 'domain': 'cis-stage-lon04.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://daas-lon02.uk-south.containers.mybluemix.net, https:,,daas-lon02.uk-south.co407aOiZksH
+>>> START https://daas-lon02.uk-south.containers.mybluemix.net
+		web page [https://daas-lon02.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://daas-lon02.uk-south.containers.mybluemix.net
+	>>> kill Chrome [8386]
+######## frame info is: {'s': {'url': 'https://daas-lon02.uk-south.containers.mybluemix.net/', 'domain': 'daas-lon02.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://daas-lon04.uk-south.containers.mybluemix.net, https:,,daas-lon04.uk-south.coSjopZ8fi5h
+>>> START https://daas-lon04.uk-south.containers.mybluemix.net
+		web page [https://daas-lon04.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://daas-lon04.uk-south.containers.mybluemix.net
+	>>> kill Chrome [8510]
+######## frame info is: {'s': {'url': 'https://daas-lon04.uk-south.containers.mybluemix.net/', 'domain': 'daas-lon04.uk-south.containers.mybluemix.net'}}
+[url, filename] = http://garecluster5.uk-south.containers.mybluemix.net, http:,,garecluster5.uk-south.cBEYOhLy4UW
+>>> START http://garecluster5.uk-south.containers.mybluemix.net
+		web page [http://garecluster5.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH http://garecluster5.uk-south.containers.mybluemix.net
+	>>> kill Chrome [8638]
+######## frame info is: {'s': {'url': 'http://garecluster5.uk-south.containers.mybluemix.net/', 'domain': 'garecluster5.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://edcc-picv3.uk-south.containers.mybluemix.net, https:,,edcc-picv3.uk-south.coLMoRHgVhAd
+>>> START https://edcc-picv3.uk-south.containers.mybluemix.net
+		web page [https://edcc-picv3.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://edcc-picv3.uk-south.containers.mybluemix.net
+	>>> kill Chrome [8762]
+######## frame info is: {'s': {'url': 'https://edcc-picv3.uk-south.containers.mybluemix.net/', 'domain': 'edcc-picv3.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://eugb-prod-hub0.uk-south.containers.mybluemix.net, https:,,eugb-prod-hub0.uk-sout52TRy0CN64
+>>> START https://eugb-prod-hub0.uk-south.containers.mybluemix.net
+		web page [https://eugb-prod-hub0.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://eugb-prod-hub0.uk-south.containers.mybluemix.net
+	>>> kill Chrome [8886]
+######## frame info is: {'s': {'url': 'https://eugb-prod-hub0.uk-south.containers.mybluemix.net/', 'domain': 'eugb-prod-hub0.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://eugb-prod-sat0.uk-south.containers.mybluemix.net, https:,,eugb-prod-sat0.uk-soutW4vE1QSPt2
+>>> START https://eugb-prod-sat0.uk-south.containers.mybluemix.net
+		web page [https://eugb-prod-sat0.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://eugb-prod-sat0.uk-south.containers.mybluemix.net
+	>>> kill Chrome [9012]
+######## frame info is: {'s': {'url': 'https://eugb-prod-sat0.uk-south.containers.mybluemix.net/', 'domain': 'eugb-prod-sat0.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://ghost-prestage-lon02.uk-south.containers.mybluemix.net, https:,,ghost-prestage-lon02.ux91aXC4Fgy
+>>> START https://ghost-prestage-lon02.uk-south.containers.mybluemix.net
+		web page [https://ghost-prestage-lon02.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://ghost-prestage-lon02.uk-south.containers.mybluemix.net
+	>>> kill Chrome [9138]
+######## frame info is: {'s': {'url': 'https://ghost-prestage-lon02.uk-south.containers.mybluemix.net/', 'domain': 'ghost-prestage-lon02.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://iam-am-prod-eu-gb-lon02.uk-south.containers.mybluemix.net, https:,,iam-am-prod-eu-gb-lon0PDhYU0OFCG
+>>> START https://iam-am-prod-eu-gb-lon02.uk-south.containers.mybluemix.net
+		web page [https://iam-am-prod-eu-gb-lon02.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://iam-am-prod-eu-gb-lon02.uk-south.containers.mybluemix.net
+	>>> kill Chrome [9264]
+######## frame info is: {'s': {'url': 'https://iam-am-prod-eu-gb-lon02.uk-south.containers.mybluemix.net/', 'domain': 'iam-am-prod-eu-gb-lon02.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://iam-am-prod-eu-gb-lon04.uk-south.containers.mybluemix.net, https:,,iam-am-prod-eu-gb-lon0x0gmef9BQs
+>>> START https://iam-am-prod-eu-gb-lon04.uk-south.containers.mybluemix.net
+		web page [https://iam-am-prod-eu-gb-lon04.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://iam-am-prod-eu-gb-lon04.uk-south.containers.mybluemix.net
+	>>> kill Chrome [9389]
+######## frame info is: {'s': {'url': 'https://iam-am-prod-eu-gb-lon04.uk-south.containers.mybluemix.net/', 'domain': 'iam-am-prod-eu-gb-lon04.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://keyprotect-prod-lon04.uk-south.containers.mybluemix.net, https:,,keyprotect-prod-lon04.LsxHwoEcPZ
+>>> START https://keyprotect-prod-lon04.uk-south.containers.mybluemix.net
+		web page [https://keyprotect-prod-lon04.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://keyprotect-prod-lon04.uk-south.containers.mybluemix.net
+	>>> kill Chrome [9517]
+######## frame info is: {'s': {'url': 'https://keyprotect-prod-lon04.uk-south.containers.mybluemix.net/', 'domain': 'keyprotect-prod-lon04.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://keyprotect-prod-lon02.uk-south.containers.mybluemix.net, https:,,keyprotect-prod-lon02.iDRhTCekL1
+>>> START https://keyprotect-prod-lon02.uk-south.containers.mybluemix.net
+		web page [https://keyprotect-prod-lon02.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://keyprotect-prod-lon02.uk-south.containers.mybluemix.net
+	>>> kill Chrome [9642]
+######## frame info is: {'s': {'url': 'https://keyprotect-prod-lon02.uk-south.containers.mybluemix.net/', 'domain': 'keyprotect-prod-lon02.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://iam-id-prelon02-xij1.uk-south.containers.mybluemix.net, https:,,iam-id-prelon02-xij1.uq0S4e7Z2XP
+>>> START https://iam-id-prelon02-xij1.uk-south.containers.mybluemix.net
+		web page [https://iam-id-prelon02-xij1.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://iam-id-prelon02-xij1.uk-south.containers.mybluemix.net
+	>>> kill Chrome [9768]
+######## frame info is: {'s': {'url': 'https://iam-id-prelon02-xij1.uk-south.containers.mybluemix.net/', 'domain': 'iam-id-prelon02-xij1.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://k8s-prod-lon04.uk-south.containers.mybluemix.net, https:,,k8s-prod-lon04.uk-soutRPGCshA6DI
+>>> START https://k8s-prod-lon04.uk-south.containers.mybluemix.net
+		web page [https://k8s-prod-lon04.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://k8s-prod-lon04.uk-south.containers.mybluemix.net
+	>>> kill Chrome [9895]
+######## frame info is: {'s': {'url': 'https://k8s-prod-lon04.uk-south.containers.mybluemix.net/', 'domain': 'k8s-prod-lon04.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://kube-broker-eu-gb-01.uk-south.containers.mybluemix.net, https:,,kube-broker-eu-gb-01.uoYuEVeG5LX
+>>> START https://kube-broker-eu-gb-01.uk-south.containers.mybluemix.net
+		web page [https://kube-broker-eu-gb-01.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://kube-broker-eu-gb-01.uk-south.containers.mybluemix.net
+	>>> kill Chrome [10020]
+######## frame info is: {'s': {'url': 'https://kube-broker-eu-gb-01.uk-south.containers.mybluemix.net/', 'domain': 'kube-broker-eu-gb-01.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://keyprotect-tooling-lon02-2.uk-south.containers.mybluemix.net, https:,,keyprotect-tooling-lontRaMdJF0sC
+>>> START https://keyprotect-tooling-lon02-2.uk-south.containers.mybluemix.net
+		web page [https://keyprotect-tooling-lon02-2.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://keyprotect-tooling-lon02-2.uk-south.containers.mybluemix.net
+	>>> kill Chrome [10144]
+######## frame info is: {'s': {'url': 'https://keyprotect-tooling-lon02-2.uk-south.containers.mybluemix.net/', 'domain': 'keyprotect-tooling-lon02-2.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://koneiotplatform-cluster1.uk-south.containers.mybluemix.net, https:,,koneiotplatform-clusteCqzDJAsW0f
+>>> START https://koneiotplatform-cluster1.uk-south.containers.mybluemix.net
+		web page [https://koneiotplatform-cluster1.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://koneiotplatform-cluster1.uk-south.containers.mybluemix.net
+	>>> kill Chrome [10271]
+######## frame info is: {'s': {'url': 'https://koneiotplatform-cluster1.uk-south.containers.mybluemix.net/', 'domain': 'koneiotplatform-cluster1.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://kube-logs-kc-eu-gb-01.uk-south.containers.mybluemix.net, https:,,kube-logs-kc-eu-gb-01.Wb5f9AI2JF
+>>> START https://kube-logs-kc-eu-gb-01.uk-south.containers.mybluemix.net
+		web page [https://kube-logs-kc-eu-gb-01.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://kube-logs-kc-eu-gb-01.uk-south.containers.mybluemix.net
+	>>> kill Chrome [10398]
+######## frame info is: {'s': {'url': 'https://kube-logs-kc-eu-gb-01.uk-south.containers.mybluemix.net/', 'domain': 'kube-logs-kc-eu-gb-01.uk-south.containers.mybluemix.net'}}
+[url, filename] = http://mycluster-416142.uk-south.containers.mybluemix.net, http:,,mycluster-416142.uk-souIZM26QO4BS
+>>> START http://mycluster-416142.uk-south.containers.mybluemix.net
+		web page [http://mycluster-416142.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH http://mycluster-416142.uk-south.containers.mybluemix.net
+	>>> kill Chrome [10523]
+######## frame info is: {'s': {'url': 'http://mycluster-416142.uk-south.containers.mybluemix.net/', 'domain': 'mycluster-416142.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://publiccloud-lon02.uk-south.containers.mybluemix.net, https:,,publiccloud-lon02.uk-sbovm3FZs0G
+>>> START https://publiccloud-lon02.uk-south.containers.mybluemix.net
+		web page [https://publiccloud-lon02.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://publiccloud-lon02.uk-south.containers.mybluemix.net
+	>>> kill Chrome [10647]
+######## frame info is: {'s': {'url': 'https://publiccloud-lon02.uk-south.containers.mybluemix.net/', 'domain': 'publiccloud-lon02.uk-south.containers.mybluemix.net'}}
+[url, filename] = http://mycluster-182620.uk-south.containers.mybluemix.net, http:,,mycluster-182620.uk-souo35ArBENdp
+>>> START http://mycluster-182620.uk-south.containers.mybluemix.net
+		web page [http://mycluster-182620.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH http://mycluster-182620.uk-south.containers.mybluemix.net
+	>>> kill Chrome [10774]
+######## frame info is: {'s': {'url': 'http://mycluster-182620.uk-south.containers.mybluemix.net/', 'domain': 'mycluster-182620.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://controle.mybluemix.net, https:,,controle.mybluemix.net5EbnI7d9Hp
+>>> START https://controle.mybluemix.net
+		web page [https://controle.mybluemix.net] is completed!
+>>> FINISH https://controle.mybluemix.net
+	>>> kill Chrome [10899]
+######## frame info is: {'s': {'url': 'https://controle.mybluemix.net/', 'domain': 'controle.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://conversion.mybluemix.net, https:,,conversion.mybluemix.nl7OMGjIQAh
+>>> START https://conversion.mybluemix.net
+		web page [https://conversion.mybluemix.net] is completed!
+>>> FINISH https://conversion.mybluemix.net
+	>>> kill Chrome [11027]
+######## frame info is: {'s': {'url': 'https://conversion.mybluemix.net/', 'domain': 'conversion.mybluemix.net'}}
+[url, filename] = https://convergence.mybluemix.net, https:,,convergence.mybluemix.ZabC3ErU86
+>>> START https://convergence.mybluemix.net
+		web page [https://convergence.mybluemix.net] is completed!
+>>> FINISH https://convergence.mybluemix.net
+	>>> kill Chrome [11153]
+######## frame info is: {'s': {'url': 'https://convergence.mybluemix.net/', 'domain': 'convergence.mybluemix.net'}}
+[url, filename] = https://coop.mybluemix.net, https:,,coop.mybluemix.netpciKwhStQT
+>>> START https://coop.mybluemix.net
+		web page [https://coop.mybluemix.net] is completed!
+>>> FINISH https://coop.mybluemix.net
+	>>> kill Chrome [11280]
+######## frame info is: {'s': {'url': 'https://coop.mybluemix.net/', 'domain': 'coop.mybluemix.net'}}
+[url, filename] = https://eugb-prod-sat1.uk-south.containers.mybluemix.net, https:,,eugb-prod-sat1.uk-soutWCeUL0kY2S
+>>> START https://eugb-prod-sat1.uk-south.containers.mybluemix.net
+		web page [https://eugb-prod-sat1.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH https://eugb-prod-sat1.uk-south.containers.mybluemix.net
+	>>> kill Chrome [11407]
+######## frame info is: {'s': {'url': 'https://eugb-prod-sat1.uk-south.containers.mybluemix.net/', 'domain': 'eugb-prod-sat1.uk-south.containers.mybluemix.net'}}
+[url, filename] = http://devex-prd-lon02.uk-south.containers.mybluemix.net, http:,,devex-prd-lon02.uk-soutFN8zV6I7lt
+>>> START http://devex-prd-lon02.uk-south.containers.mybluemix.net
+		web page [http://devex-prd-lon02.uk-south.containers.mybluemix.net] is completed!
+>>> FINISH http://devex-prd-lon02.uk-south.containers.mybluemix.net
+	>>> kill Chrome [11535]
+######## frame info is: {'s': {'url': 'http://devex-prd-lon02.uk-south.containers.mybluemix.net/', 'domain': 'devex-prd-lon02.uk-south.containers.mybluemix.net'}}
+[url, filename] = https://csweb.mybluemix.net, https:,,csweb.mybluemix.nettqk5lOsH1y
+>>> START https://csweb.mybluemix.net
+		web page [https://csweb.mybluemix.net] is completed!
+>>> FINISH https://csweb.mybluemix.net
+	>>> kill Chrome [11669]
+######## frame info is: {'s': {'url': 'https://csweb.mybluemix.net/#/login', 'domain': 'csweb.mybluemix.net'}}
+[url, filename] = https://customercenter.mybluemix.net, https:,,customercenter.mybluemluWUZK92Fk
+>>> START https://customercenter.mybluemix.net
+		web page [https://customercenter.mybluemix.net] is completed!
+>>> FINISH https://customercenter.mybluemix.net
+	>>> kill Chrome [11802]
+######## frame info is: {'s': {'url': 'https://customercenter.mybluemix.net/', 'domain': 'customercenter.mybluemix.net'}}
+[url, filename] = https://cyrus.mybluemix.net, https:,,cyrus.mybluemix.nettgRbHackmq
+>>> START https://cyrus.mybluemix.net
+		web page [https://cyrus.mybluemix.net] is completed!
+>>> FINISH https://cyrus.mybluemix.net
+	>>> kill Chrome [11928]
+######## frame info is: {'s': {'url': 'https://cyrus.mybluemix.net/', 'domain': 'cyrus.mybluemix.net'}}
+[url, filename] = https://d1.mybluemix.net, https:,,d1.mybluemix.net9jHb1ork3R
+>>> START https://d1.mybluemix.net
+		web page [https://d1.mybluemix.net] is completed!
+>>> FINISH https://d1.mybluemix.net
+	>>> kill Chrome [12061]
+######## frame info is: {'s': {'url': 'https://d1.mybluemix.net/', 'domain': 'd1.mybluemix.net'}}
+[url, filename] = https://d4.mybluemix.net, https:,,d4.mybluemix.netgdSI42oWv5
+>>> START https://d4.mybluemix.net
+		web page [https://d4.mybluemix.net] is completed!
+>>> FINISH https://d4.mybluemix.net
+	>>> kill Chrome [12192]
+######## frame info is: {'s': {'url': 'https://d4.mybluemix.net/', 'domain': 'd4.mybluemix.net'}}
+[url, filename] = https://da01.mybluemix.net, https:,,da01.mybluemix.netk53ZKbDqNy
+>>> START https://da01.mybluemix.net
+		web page [https://da01.mybluemix.net] is completed!
+>>> FINISH https://da01.mybluemix.net
+	>>> kill Chrome [12328]
+######## frame info is: {'s': {'url': 'https://da01.mybluemix.net/', 'domain': 'da01.mybluemix.net'}}
+[url, filename] = https://dance.mybluemix.net, https:,,dance.mybluemix.nethPsZgtE4Rz
+>>> START https://dance.mybluemix.net
+		web page [https://dance.mybluemix.net] is completed!
+>>> FINISH https://dance.mybluemix.net
+	>>> kill Chrome [12457]
+######## frame info is: {'s': {'url': 'https://dance.mybluemix.net/', 'domain': 'dance.mybluemix.net'}}
+[url, filename] = https://dean.mybluemix.net, https:,,dean.mybluemix.netfs0yWGuSoL
+>>> START https://dean.mybluemix.net
+		web page [https://dean.mybluemix.net] is completed!
+>>> FINISH https://dean.mybluemix.net
+	>>> kill Chrome [12584]
+######## frame info is: {'s': {'url': 'https://dean.mybluemix.net/', 'domain': 'dean.mybluemix.net'}}
+[url, filename] = https://deborah.mybluemix.net, https:,,deborah.mybluemix.netAozwGJIaH6
+>>> START https://deborah.mybluemix.net
+		web page [https://deborah.mybluemix.net] is completed!
+>>> FINISH https://deborah.mybluemix.net
+	>>> kill Chrome [12712]
+######## frame info is: {'s': {'url': 'https://deborah.mybluemix.net/', 'domain': 'deborah.mybluemix.net'}}
+[url, filename] = https://delicious.mybluemix.net, https:,,delicious.mybluemix.newcxdo0LHRu
+>>> START https://delicious.mybluemix.net
+		web page [https://delicious.mybluemix.net] is completed!
+>>> FINISH https://delicious.mybluemix.net
+	>>> kill Chrome [12848]
+######## frame info is: {'s': {'url': 'https://delicious.mybluemix.net/', 'domain': 'delicious.mybluemix.net'}}
+[url, filename] = https://desenv.mybluemix.net, https:,,desenv.mybluemix.netVwHxEPdgnW
+>>> START https://desenv.mybluemix.net
+		web page [https://desenv.mybluemix.net] is completed!
+>>> FINISH https://desenv.mybluemix.net
+	>>> kill Chrome [12976]
+######## frame info is: {'s': {'url': 'https://desenv.mybluemix.net/', 'domain': 'desenv.mybluemix.net'}}
+[url, filename] = https://dialog.mybluemix.net, https:,,dialog.mybluemix.netHaDGuL4PeO
+>>> START https://dialog.mybluemix.net
+		web page [https://dialog.mybluemix.net] is completed!
+>>> FINISH https://dialog.mybluemix.net
+	>>> kill Chrome [13104]
+######## frame info is: {'s': {'url': 'https://dialog.mybluemix.net/', 'domain': 'dialog.mybluemix.net'}}
+[url, filename] = https://dispatch.mybluemix.net, https:,,dispatch.mybluemix.net7BCdE9b2Vu
+>>> START https://dispatch.mybluemix.net
+		web page [https://dispatch.mybluemix.net] is completed!
+>>> FINISH https://dispatch.mybluemix.net
+	>>> kill Chrome [13229]
+######## frame info is: {'s': {'url': 'https://dispatch.mybluemix.net/', 'domain': 'dispatch.mybluemix.net'}}
+[url, filename] = https://distance.mybluemix.net, https:,,distance.mybluemix.netXDrhZ8NPS0
+>>> START https://distance.mybluemix.net
+		web page [https://distance.mybluemix.net] is TIMEOUT!
+>>> FINISH https://distance.mybluemix.net
+	>>> kill Chrome [13357]
+######## frame info is: {'s': {'url': 'https://distance.mybluemix.net/', 'domain': 'distance.mybluemix.net'}, 's-0': {'url': 'about:blank', 'domain': 'distance.mybluemix.net'}}
+		---> Multiple FRAMES
+[url, filename] = https://dump.mybluemix.net, https:,,dump.mybluemix.net3h8aDYfySZ
+>>> START https://dump.mybluemix.net
+		web page [https://dump.mybluemix.net] is completed!
+>>> FINISH https://dump.mybluemix.net
+	>>> kill Chrome [13489]
+######## frame info is: {'s': {'url': 'https://dump.mybluemix.net/', 'domain': 'dump.mybluemix.net'}}
+[url, filename] = https://dwarf.mybluemix.net, https:,,dwarf.mybluemix.netUl4yvu1C8P
+>>> START https://dwarf.mybluemix.net
+		web page [https://dwarf.mybluemix.net] is completed!
+>>> FINISH https://dwarf.mybluemix.net
+	>>> kill Chrome [13618]
+######## frame info is: {'s': {'url': 'https://dwarf.mybluemix.net/', 'domain': 'dwarf.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://dx.mybluemix.net, https:,,dx.mybluemix.netL4FCwKplGg
+>>> START https://dx.mybluemix.net
+		web page [https://dx.mybluemix.net] is completed!
+>>> FINISH https://dx.mybluemix.net
+	>>> kill Chrome [13747]
+######## frame info is: {'s': {'url': 'https://dx.mybluemix.net/', 'domain': 'dx.mybluemix.net'}}
+[url, filename] = https://dynamics.mybluemix.net, https:,,dynamics.mybluemix.net8f2o7y43ZT
+>>> START https://dynamics.mybluemix.net
+		web page [https://dynamics.mybluemix.net] is completed!
+>>> FINISH https://dynamics.mybluemix.net
+	>>> kill Chrome [13872]
+######## frame info is: {'s': {'url': 'https://dynamics.mybluemix.net/', 'domain': 'dynamics.mybluemix.net'}}
+[url, filename] = https://e123.mybluemix.net, https:,,e123.mybluemix.netnrINVejkq4
+>>> START https://e123.mybluemix.net
+		web page [https://e123.mybluemix.net] is completed!
+>>> FINISH https://e123.mybluemix.net
+	>>> kill Chrome [13997]
+######## frame info is: {'s': {'url': 'https://e123.mybluemix.net/', 'domain': 'e123.mybluemix.net'}}
+[url, filename] = https://ead.mybluemix.net, https:,,ead.mybluemix.netKySmujXpge
+>>> START https://ead.mybluemix.net
+		web page [https://ead.mybluemix.net] is completed!
+>>> FINISH https://ead.mybluemix.net
+	>>> kill Chrome [14124]
+######## frame info is: {'s': {'url': 'https://ead.mybluemix.net/', 'domain': 'ead.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://echelon.mybluemix.net, https:,,echelon.mybluemix.netC64PnrhiW0
+>>> START https://echelon.mybluemix.net
+		web page [https://echelon.mybluemix.net] is completed!
+>>> FINISH https://echelon.mybluemix.net
+	>>> kill Chrome [14249]
+######## frame info is: {'s': {'url': 'https://echelon.mybluemix.net/', 'domain': 'echelon.mybluemix.net'}}
+[url, filename] = https://elias.mybluemix.net, https:,,elias.mybluemix.net3fKY1hJqI9
+>>> START https://elias.mybluemix.net
+		web page [https://elias.mybluemix.net] is completed!
+>>> FINISH https://elias.mybluemix.net
+	>>> kill Chrome [14374]
+######## frame info is: {'s': {'url': 'https://elias.mybluemix.net/', 'domain': 'elias.mybluemix.net'}}
+[url, filename] = https://elo.mybluemix.net, https:,,elo.mybluemix.netRpFUiWN32V
+>>> START https://elo.mybluemix.net
+		web page [https://elo.mybluemix.net] is completed!
+>>> FINISH https://elo.mybluemix.net
+	>>> kill Chrome [14501]
+######## frame info is: {'s': {'url': 'https://elo.mybluemix.net/', 'domain': 'elo.mybluemix.net'}}
+[url, filename] = https://elvis.mybluemix.net, https:,,elvis.mybluemix.netx2d0DKCZmX
+>>> START https://elvis.mybluemix.net
+		web page [https://elvis.mybluemix.net] is completed!
+>>> FINISH https://elvis.mybluemix.net
+	>>> kill Chrome [14627]
+######## frame info is: {'s': {'url': 'https://elvis.mybluemix.net/', 'domain': 'elvis.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://ely.mybluemix.net, https:,,ely.mybluemix.netyiASreXnTD
+>>> START https://ely.mybluemix.net
+		web page [https://ely.mybluemix.net] is completed!
+>>> FINISH https://ely.mybluemix.net
+	>>> kill Chrome [14809]
+######## frame info is: {'s': {'url': 'https://ely.mybluemix.net/', 'domain': 'ely.mybluemix.net'}}
+[url, filename] = https://encuestas.mybluemix.net, https:,,encuestas.mybluemix.ne9SWYv7Rn1E
+>>> START https://encuestas.mybluemix.net
+		web page [https://encuestas.mybluemix.net] is TIMEOUT!
+>>> FINISH https://encuestas.mybluemix.net
+	>>> kill Chrome [14938]
+######## frame info is: {'s': {'url': 'https://encuestas.mybluemix.net/', 'domain': 'encuestas.mybluemix.net'}}
+[url, filename] = https://enjoy.mybluemix.net, https:,,enjoy.mybluemix.netldmRhaQUOk
+>>> START https://enjoy.mybluemix.net
+		web page [https://enjoy.mybluemix.net] is completed!
+>>> FINISH https://enjoy.mybluemix.net
+	>>> kill Chrome [15071]
+######## frame info is: {'s': {'url': 'https://enjoy.mybluemix.net/', 'domain': 'enjoy.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://environment.mybluemix.net, https:,,environment.mybluemix.vAZ95O27gJ
+>>> START https://environment.mybluemix.net
+		web page [https://environment.mybluemix.net] is completed!
+>>> FINISH https://environment.mybluemix.net
+	>>> kill Chrome [15196]
+######## frame info is: {'s': {'url': 'https://environment.mybluemix.net/', 'domain': 'environment.mybluemix.net'}}
+[url, filename] = https://engage.mybluemix.net, https:,,engage.mybluemix.netkEVpJd7iRw
+>>> START https://engage.mybluemix.net
+		web page [https://engage.mybluemix.net] is completed!
+>>> FINISH https://engage.mybluemix.net
+	>>> kill Chrome [15321]
+######## frame info is: {'s': {'url': 'https://idaas.iam.ibm.com/idaas/oidc/endpoint/default/authorize?scope=openid&response_type=code&redirect_uri=https://engage-support-bp.mybluemix.net/isc/sts/engage/LoginIdaas&client_id=NWNkYjNiNTktNTRlNC00', 'domain': 'idaas.iam.ibm.com'}}
+[url, filename] = https://eol.mybluemix.net, https:,,eol.mybluemix.netOgNGYm39eZ
+>>> START https://eol.mybluemix.net
+		web page [https://eol.mybluemix.net] is completed!
+>>> FINISH https://eol.mybluemix.net
+	>>> kill Chrome [15463]
+######## frame info is: {'s': {'url': 'https://eol.mybluemix.net/login', 'domain': 'eol.mybluemix.net'}}
+[url, filename] = https://epm.mybluemix.net, https:,,epm.mybluemix.netTsQy1IHOda
+>>> START https://epm.mybluemix.net
+		web page [https://epm.mybluemix.net] is completed!
+>>> FINISH https://epm.mybluemix.net
+	>>> kill Chrome [15593]
+######## frame info is: {'s': {'url': 'https://epm.mybluemix.net/', 'domain': 'epm.mybluemix.net'}}
+[url, filename] = https://estat.mybluemix.net, https:,,estat.mybluemix.netd8oKzqjayp
+>>> START https://estat.mybluemix.net
+		web page [https://estat.mybluemix.net] is completed!
+>>> FINISH https://estat.mybluemix.net
+	>>> kill Chrome [15720]
+######## frame info is: {'s': {'url': 'https://estat.mybluemix.net/', 'domain': 'estat.mybluemix.net'}}
+[url, filename] = https://esl.mybluemix.net, https:,,esl.mybluemix.netk8OrmAvVYi
+>>> START https://esl.mybluemix.net
+		web page [https://esl.mybluemix.net] is completed!
+>>> FINISH https://esl.mybluemix.net
+	>>> kill Chrome [15847]
+######## frame info is: {'s': {'url': 'https://esl.mybluemix.net/', 'domain': 'esl.mybluemix.net'}}
+[url, filename] = https://et.mybluemix.net, https:,,et.mybluemix.netzjt5JFGNCd
+>>> START https://et.mybluemix.net
+		web page [https://et.mybluemix.net] is completed!
+>>> FINISH https://et.mybluemix.net
+	>>> kill Chrome [15972]
+######## frame info is: {'s': {'url': 'https://et.mybluemix.net/', 'domain': 'et.mybluemix.net'}}
+[url, filename] = https://eval.mybluemix.net, https:,,eval.mybluemix.netH9Qol1sO4I
+>>> START https://eval.mybluemix.net
+		web page [https://eval.mybluemix.net] is completed!
+>>> FINISH https://eval.mybluemix.net
+	>>> kill Chrome [16102]
+######## frame info is: {'s': {'url': 'https://eval.mybluemix.net/', 'domain': 'eval.mybluemix.net'}}
+[url, filename] = https://explore.mybluemix.net, https:,,explore.mybluemix.netuQF7BwYvk8
+>>> START https://explore.mybluemix.net
+		web page [https://explore.mybluemix.net] is TIMEOUT!
+>>> FINISH https://explore.mybluemix.net
+	>>> kill Chrome [16227]
+######## frame info is: {'s': {'url': 'https://explore.mybluemix.net/', 'domain': 'explore.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}, 's-1': {'url': 'Not same domain', 'domain': 'Not same domain'}, 's-2': {'url': 'Not same domain', 'domain': 'Not same domain'}, 's-3': {'url': 'Not same domain', 'domain': 'Not same domain'}, 's-4': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://f5.mybluemix.net, https:,,f5.mybluemix.nete8756nhHBU
+>>> START https://f5.mybluemix.net
+		web page [https://f5.mybluemix.net] is completed!
+>>> FINISH https://f5.mybluemix.net
+	>>> kill Chrome [16361]
+######## frame info is: {'s': {'url': 'https://f5.mybluemix.net/', 'domain': 'f5.mybluemix.net'}}
+[url, filename] = https://fal.mybluemix.net, https:,,fal.mybluemix.net0iAzomOUEJ
+>>> START https://fal.mybluemix.net
+		web page [https://fal.mybluemix.net] is completed!
+>>> FINISH https://fal.mybluemix.net
+	>>> kill Chrome [16488]
+######## frame info is: {'s': {'url': 'https://fal.mybluemix.net/', 'domain': 'fal.mybluemix.net'}}
+[url, filename] = https://farmer.mybluemix.net, https:,,farmer.mybluemix.net4JBmMca0r1
+>>> START https://farmer.mybluemix.net
+		web page [https://farmer.mybluemix.net] is completed!
+>>> FINISH https://farmer.mybluemix.net
+	>>> kill Chrome [16614]
+######## frame info is: {'s': {'url': 'https://farmer.mybluemix.net/', 'domain': 'farmer.mybluemix.net'}}
+[url, filename] = https://fashion.mybluemix.net, https:,,fashion.mybluemix.netJXZjenhfDu
+>>> START https://fashion.mybluemix.net
+		web page [https://fashion.mybluemix.net] is completed!
+>>> FINISH https://fashion.mybluemix.net
+	>>> kill Chrome [16744]
+######## frame info is: {'s': {'url': 'https://fashion.mybluemix.net/', 'domain': 'fashion.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://ffc.mybluemix.net, https:,,ffc.mybluemix.netgzCn8V7LZ2
+>>> START https://ffc.mybluemix.net
+		web page [https://ffc.mybluemix.net] is completed!
+>>> FINISH https://ffc.mybluemix.net
+	>>> kill Chrome [16872]
+######## frame info is: {'s': {'url': 'https://ffc.mybluemix.net/', 'domain': 'ffc.mybluemix.net'}}
+[url, filename] = https://fileserver.mybluemix.net, https:,,fileserver.mybluemix.nBQksLaWOCq
+>>> START https://fileserver.mybluemix.net
+		web page [https://fileserver.mybluemix.net] is completed!
+>>> FINISH https://fileserver.mybluemix.net
+	>>> kill Chrome [16997]
+######## frame info is: {'s': {'url': 'https://fileserver.mybluemix.net/', 'domain': 'fileserver.mybluemix.net'}}
+[url, filename] = https://ford.mybluemix.net, https:,,ford.mybluemix.netlMV8vdU3qS
+>>> START https://ford.mybluemix.net
+		web page [https://ford.mybluemix.net] is completed!
+>>> FINISH https://ford.mybluemix.net
+	>>> kill Chrome [17122]
+######## frame info is: {'s': {'url': 'https://ford.mybluemix.net/', 'domain': 'ford.mybluemix.net'}}
+[url, filename] = https://frankie.mybluemix.net, https:,,frankie.mybluemix.netYRcu0wavth
+>>> START https://frankie.mybluemix.net
+		web page [https://frankie.mybluemix.net] is completed!
+>>> FINISH https://frankie.mybluemix.net
+	>>> kill Chrome [17250]
+######## frame info is: {'s': {'url': 'https://frankie.mybluemix.net/', 'domain': 'frankie.mybluemix.net'}}
+[url, filename] = https://freyja.mybluemix.net, https:,,freyja.mybluemix.netazQUJLlPkK
+>>> START https://freyja.mybluemix.net
+		web page [https://freyja.mybluemix.net] is completed!
+>>> FINISH https://freyja.mybluemix.net
+	>>> kill Chrome [17376]
+######## frame info is: {'s': {'url': 'https://freyja.mybluemix.net/', 'domain': 'freyja.mybluemix.net'}}
+[url, filename] = https://fusion.mybluemix.net, https:,,fusion.mybluemix.netBwd8uCjcmk
+>>> START https://fusion.mybluemix.net
+		web page [https://fusion.mybluemix.net] is completed!
+>>> FINISH https://fusion.mybluemix.net
+	>>> kill Chrome [17502]
+######## frame info is: {'s': {'url': 'https://fusion.mybluemix.net/', 'domain': 'fusion.mybluemix.net'}}
+[url, filename] = https://fx.mybluemix.net, https:,,fx.mybluemix.nethUoG2gMO1E
+>>> START https://fx.mybluemix.net
+		web page [https://fx.mybluemix.net] is completed!
+>>> FINISH https://fx.mybluemix.net
+	>>> kill Chrome [17631]
+######## frame info is: {'s': {'url': 'https://fx.mybluemix.net/', 'domain': 'fx.mybluemix.net'}}
+[url, filename] = https://gargamel.mybluemix.net, https:,,gargamel.mybluemix.netIeWt0xyLvM
+>>> START https://gargamel.mybluemix.net
+		web page [https://gargamel.mybluemix.net] is completed!
+>>> FINISH https://gargamel.mybluemix.net
+	>>> kill Chrome [17755]
+######## frame info is: {'s': {'url': 'https://gargamel.mybluemix.net/', 'domain': 'gargamel.mybluemix.net'}}
+[url, filename] = https://gil.mybluemix.net, https:,,gil.mybluemix.netGu5KESD13Q
+>>> START https://gil.mybluemix.net
+		web page [https://gil.mybluemix.net] is completed!
+>>> FINISH https://gil.mybluemix.net
+	>>> kill Chrome [17879]
+######## frame info is: {'s': {'url': 'https://gil.mybluemix.net/', 'domain': 'gil.mybluemix.net'}}
+[url, filename] = https://golden.mybluemix.net, https:,,golden.mybluemix.netWrbKIR6qoD
+>>> START https://golden.mybluemix.net
+		web page [https://golden.mybluemix.net] is completed!
+>>> FINISH https://golden.mybluemix.net
+	>>> kill Chrome [18006]
+######## frame info is: {'s': {'url': 'https://golden.mybluemix.net/', 'domain': 'golden.mybluemix.net'}}
+[url, filename] = https://gomez.mybluemix.net, https:,,gomez.mybluemix.net6MFDsqYECK
+>>> START https://gomez.mybluemix.net
+		web page [https://gomez.mybluemix.net] is completed!
+>>> FINISH https://gomez.mybluemix.net
+	>>> kill Chrome [18131]
+######## frame info is: {'s': {'url': 'https://gomez.mybluemix.net/', 'domain': 'gomez.mybluemix.net'}}
+[url, filename] = https://gpi.mybluemix.net, https:,,gpi.mybluemix.netNXu2dnw4EU
+>>> START https://gpi.mybluemix.net
+		web page [https://gpi.mybluemix.net] is completed!
+>>> FINISH https://gpi.mybluemix.net
+	>>> kill Chrome [18256]
+######## frame info is: {'s': {'url': 'https://gpi.mybluemix.net/', 'domain': 'gpi.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://groopy.mybluemix.net, https:,,groopy.mybluemix.netxyj9qEwKf2
+>>> START https://groopy.mybluemix.net
+		web page [https://groopy.mybluemix.net] is completed!
+>>> FINISH https://groopy.mybluemix.net
+	>>> kill Chrome [18384]
+######## frame info is: {'s': {'url': 'https://identity.flickr.com/login?redir=%2Fservices%2Foauth%2Fauthorize%3Foauth_token%3D72157709774277971-1291b9a2820689f2%26perms%3Dwrite', 'domain': 'identity.flickr.com'}}
+[url, filename] = https://growth.mybluemix.net, https:,,growth.mybluemix.netmFuTG7O8n2
+>>> START https://growth.mybluemix.net
+		web page [https://growth.mybluemix.net] is completed!
+>>> FINISH https://growth.mybluemix.net
+	>>> kill Chrome [18517]
+######## frame info is: {'s': {'url': 'https://growth.mybluemix.net/', 'domain': 'growth.mybluemix.net'}}
+[url, filename] = https://guidelines.mybluemix.net, https:,,guidelines.mybluemix.nbE63m941Gp
+>>> START https://guidelines.mybluemix.net
+		web page [https://guidelines.mybluemix.net] is completed!
+>>> FINISH https://guidelines.mybluemix.net
+	>>> kill Chrome [18647]
+######## frame info is: {'s': {'url': 'https://guidelines.mybluemix.net/#/', 'domain': 'guidelines.mybluemix.net'}}
+[url, filename] = https://h1.mybluemix.net, https:,,h1.mybluemix.netA7eI2yS6Pw
+>>> START https://h1.mybluemix.net
+		web page [https://h1.mybluemix.net] is completed!
+>>> FINISH https://h1.mybluemix.net
+	>>> kill Chrome [18779]
+######## frame info is: {'s': {'url': 'https://h1.mybluemix.net/', 'domain': 'h1.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://hama.mybluemix.net, https:,,hama.mybluemix.netwHlhByYMo0
+>>> START https://hama.mybluemix.net
+		web page [https://hama.mybluemix.net] is completed!
+>>> FINISH https://hama.mybluemix.net
+	>>> kill Chrome [18906]
+######## frame info is: {'s': {'url': 'https://hama.mybluemix.net/', 'domain': 'hama.mybluemix.net'}}
+[url, filename] = https://hannah.mybluemix.net, https:,,hannah.mybluemix.netcZJe51dbmz
+>>> START https://hannah.mybluemix.net
+		web page [https://hannah.mybluemix.net] is completed!
+>>> FINISH https://hannah.mybluemix.net
+	>>> kill Chrome [19033]
+######## frame info is: {'s': {'url': 'https://hannah.mybluemix.net/', 'domain': 'hannah.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://hcp.mybluemix.net, https:,,hcp.mybluemix.net7qwhDVRXpQ
+>>> START https://hcp.mybluemix.net
+		web page [https://hcp.mybluemix.net] is completed!
+>>> FINISH https://hcp.mybluemix.net
+	>>> kill Chrome [19158]
+######## frame info is: {'s': {'url': 'https://hcp.mybluemix.net/', 'domain': 'hcp.mybluemix.net'}}
+[url, filename] = https://he.mybluemix.net, https:,,he.mybluemix.netB2zYgQEnfy
+>>> START https://he.mybluemix.net
+		web page [https://he.mybluemix.net] is completed!
+>>> FINISH https://he.mybluemix.net
+	>>> kill Chrome [19289]
+######## frame info is: {'s': {'url': 'https://he.mybluemix.net/', 'domain': 'he.mybluemix.net'}}
+[url, filename] = https://herbarium.mybluemix.net, https:,,herbarium.mybluemix.netBWdor4knh
+>>> START https://herbarium.mybluemix.net
+		web page [https://herbarium.mybluemix.net] is completed!
+>>> FINISH https://herbarium.mybluemix.net
+	>>> kill Chrome [19416]
+######## frame info is: {'s': {'url': 'https://herbarium.mybluemix.net/', 'domain': 'herbarium.mybluemix.net'}}
+[url, filename] = https://hk2.mybluemix.net, https:,,hk2.mybluemix.netSVnv5szD2U
+>>> START https://hk2.mybluemix.net
+		web page [https://hk2.mybluemix.net] is completed!
+>>> FINISH https://hk2.mybluemix.net
+	>>> kill Chrome [19540]
+######## frame info is: {'s': {'url': 'https://hk2.mybluemix.net/', 'domain': 'hk2.mybluemix.net'}}
+[url, filename] = https://hmc.mybluemix.net, https:,,hmc.mybluemix.netLYO94HBjlC
+>>> START https://hmc.mybluemix.net
+		web page [https://hmc.mybluemix.net] is completed!
+>>> FINISH https://hmc.mybluemix.net
+	>>> kill Chrome [19666]
+######## frame info is: {'s': {'url': 'https://hmc.mybluemix.net/', 'domain': 'hmc.mybluemix.net'}}
+[url, filename] = https://hn.mybluemix.net, https:,,hn.mybluemix.net4fjzYT9dgZ
+>>> START https://hn.mybluemix.net
+		web page [https://hn.mybluemix.net] is completed!
+>>> FINISH https://hn.mybluemix.net
+	>>> kill Chrome [19793]
+######## frame info is: {'s': {'url': 'https://hn.mybluemix.net/', 'domain': 'hn.mybluemix.net'}}
+[url, filename] = https://hso.mybluemix.net, https:,,hso.mybluemix.netyo6CafrqIN
+>>> START https://hso.mybluemix.net
+		web page [https://hso.mybluemix.net] is completed!
+>>> FINISH https://hso.mybluemix.net
+	>>> kill Chrome [19920]
+######## frame info is: {'s': {'url': 'https://hso.mybluemix.net/', 'domain': 'hso.mybluemix.net'}}
+[url, filename] = https://hugo.mybluemix.net, https:,,hugo.mybluemix.net8WDfP7QciG
+>>> START https://hugo.mybluemix.net
+		web page [https://hugo.mybluemix.net] is completed!
+>>> FINISH https://hugo.mybluemix.net
+	>>> kill Chrome [20046]
+######## frame info is: {'s': {'url': 'https://hugo.mybluemix.net/', 'domain': 'hugo.mybluemix.net'}}
+[url, filename] = https://hyperion.mybluemix.net, https:,,hyperion.mybluemix.netX86Kx5rSQz
+>>> START https://hyperion.mybluemix.net
+		web page [https://hyperion.mybluemix.net] is completed!
+>>> FINISH https://hyperion.mybluemix.net
+	>>> kill Chrome [20174]
+######## frame info is: {'s': {'url': 'https://hyperion.mybluemix.net/provision', 'domain': 'hyperion.mybluemix.net'}}
+[url, filename] = https://iago.mybluemix.net, https:,,iago.mybluemix.netUfX2AOqQT1
+>>> START https://iago.mybluemix.net
+		web page [https://iago.mybluemix.net] is completed!
+>>> FINISH https://iago.mybluemix.net
+	>>> kill Chrome [20302]
+######## frame info is: {'s': {'url': 'https://iago.mybluemix.net/', 'domain': 'iago.mybluemix.net'}}
+[url, filename] = https://ice.mybluemix.net, https:,,ice.mybluemix.netGEvFlRk0fT
+>>> START https://ice.mybluemix.net
+		web page [https://ice.mybluemix.net] is completed!
+>>> FINISH https://ice.mybluemix.net
+	>>> kill Chrome [20428]
+######## frame info is: {'s': {'url': 'https://ice.mybluemix.net/', 'domain': 'ice.mybluemix.net'}}
+[url, filename] = https://im.mybluemix.net, https:,,im.mybluemix.net8zNWhUaMrl
+>>> START https://im.mybluemix.net
+		web page [https://im.mybluemix.net] is completed!
+>>> FINISH https://im.mybluemix.net
+	>>> kill Chrome [20557]
+######## frame info is: {'s': {'url': 'https://im.mybluemix.net/', 'domain': 'im.mybluemix.net'}}
+[url, filename] = https://ihc.mybluemix.net, https:,,ihc.mybluemix.netEvRTNSGYal
+>>> START https://ihc.mybluemix.net
+		web page [https://ihc.mybluemix.net] is completed!
+>>> FINISH https://ihc.mybluemix.net
+	>>> kill Chrome [20682]
+######## frame info is: {'s': {'url': 'https://ihc.mybluemix.net/', 'domain': 'ihc.mybluemix.net'}}
+[url, filename] = https://invoice.mybluemix.net, https:,,invoice.mybluemix.netZPYvg5Ru9C
+>>> START https://invoice.mybluemix.net
+		web page [https://invoice.mybluemix.net] is completed!
+>>> FINISH https://invoice.mybluemix.net
+	>>> kill Chrome [20806]
+######## frame info is: {'s': {'url': 'https://invoice.mybluemix.net/', 'domain': 'invoice.mybluemix.net'}}
+[url, filename] = https://isabella.mybluemix.net, https:,,isabella.mybluemix.net6rHzZxdBD9
+>>> START https://isabella.mybluemix.net
+		web page [https://isabella.mybluemix.net] is completed!
+>>> FINISH https://isabella.mybluemix.net
+	>>> kill Chrome [20933]
+######## frame info is: {'s': {'url': 'https://isabella.mybluemix.net/', 'domain': 'isabella.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://ist.mybluemix.net, https:,,ist.mybluemix.netgNuQZfekjb
+>>> START https://ist.mybluemix.net
+		web page [https://ist.mybluemix.net] is completed!
+>>> FINISH https://ist.mybluemix.net
+	>>> kill Chrome [21059]
+######## frame info is: {'s': {'url': 'https://ist.mybluemix.net/', 'domain': 'ist.mybluemix.net'}}
+[url, filename] = https://iweb.mybluemix.net, https:,,iweb.mybluemix.netkj2Uw0XzlK
+>>> START https://iweb.mybluemix.net
+		web page [https://iweb.mybluemix.net] is completed!
+>>> FINISH https://iweb.mybluemix.net
+	>>> kill Chrome [21186]
+######## frame info is: {'s': {'url': 'https://iweb.mybluemix.net/', 'domain': 'iweb.mybluemix.net'}}
+[url, filename] = https://jamie.mybluemix.net, https:,,jamie.mybluemix.netfxnAGjJs94
+>>> START https://jamie.mybluemix.net
+		web page [https://jamie.mybluemix.net] is completed!
+>>> FINISH https://jamie.mybluemix.net
+	>>> kill Chrome [21314]
+######## frame info is: {'s': {'url': 'https://jamie.mybluemix.net/', 'domain': 'jamie.mybluemix.net'}}
+[url, filename] = https://jawa.mybluemix.net, https:,,jawa.mybluemix.netxFodV2ih6T
+>>> START https://jawa.mybluemix.net
+		web page [https://jawa.mybluemix.net] is completed!
+>>> FINISH https://jawa.mybluemix.net
+	>>> kill Chrome [21438]
+######## frame info is: {'s': {'url': 'https://jawa.mybluemix.net/', 'domain': 'jawa.mybluemix.net'}}
+[url, filename] = https://jeep.mybluemix.net, https:,,jeep.mybluemix.net8WYFUbNlJ9
+>>> START https://jeep.mybluemix.net
+		web page [https://jeep.mybluemix.net] is completed!
+>>> FINISH https://jeep.mybluemix.net
+	>>> kill Chrome [21564]
+######## frame info is: {'s': {'url': 'https://jeep.mybluemix.net/', 'domain': 'jeep.mybluemix.net'}}
+[url, filename] = https://jigsaw.mybluemix.net, https:,,jigsaw.mybluemix.netNqfv0KoXxL
+>>> START https://jigsaw.mybluemix.net
+		web page [https://jigsaw.mybluemix.net] is completed!
+>>> FINISH https://jigsaw.mybluemix.net
+	>>> kill Chrome [21691]
+######## frame info is: {'s': {'url': 'https://jigsaw.mybluemix.net/', 'domain': 'jigsaw.mybluemix.net'}}
+[url, filename] = https://jim.mybluemix.net, https:,,jim.mybluemix.net1INPciMykL
+>>> START https://jim.mybluemix.net
+		web page [https://jim.mybluemix.net] is completed!
+>>> FINISH https://jim.mybluemix.net
+	>>> kill Chrome [21816]
+######## frame info is: {'s': {'url': 'https://jim.mybluemix.net/', 'domain': 'jim.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = http://isl.mybluemix.net, http:,,isl.mybluemix.netQen3jXguBc
+>>> START http://isl.mybluemix.net
+		web page [http://isl.mybluemix.net] is completed!
+>>> FINISH http://isl.mybluemix.net
+	>>> kill Chrome [21943]
+######## frame info is: {'s': {'url': 'http://isl.mybluemix.net/', 'domain': 'isl.mybluemix.net'}}
+[url, filename] = https://jobs.mybluemix.net, https:,,jobs.mybluemix.netCQZIFkiGlW
+>>> START https://jobs.mybluemix.net
+		web page [https://jobs.mybluemix.net] is completed!
+>>> FINISH https://jobs.mybluemix.net
+	>>> kill Chrome [22071]
+######## frame info is: {'s': {'url': 'https://jobs.mybluemix.net/', 'domain': 'jobs.mybluemix.net'}}
+[url, filename] = https://joanne.mybluemix.net, https:,,joanne.mybluemix.netmSCbzd7ZR4
+>>> START https://joanne.mybluemix.net
+		web page [https://joanne.mybluemix.net] is completed!
+>>> FINISH https://joanne.mybluemix.net
+	>>> kill Chrome [22195]
+######## frame info is: {'s': {'url': 'https://joanne.mybluemix.net/', 'domain': 'joanne.mybluemix.net'}}
+[url, filename] = https://juan.mybluemix.net, https:,,juan.mybluemix.netfBrL5gak1p
+>>> START https://juan.mybluemix.net
+		web page [https://juan.mybluemix.net] is completed!
+>>> FINISH https://juan.mybluemix.net
+	>>> kill Chrome [22325]
+######## frame info is: {'s': {'url': 'https://juan.mybluemix.net/', 'domain': 'juan.mybluemix.net'}}
+[url, filename] = https://julia.mybluemix.net, https:,,julia.mybluemix.netIu405mUPgp
+>>> START https://julia.mybluemix.net
+		web page [https://julia.mybluemix.net] is completed!
+>>> FINISH https://julia.mybluemix.net
+	>>> kill Chrome [22465]
+######## frame info is: {'s': {'url': 'https://julia.mybluemix.net/', 'domain': 'julia.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://junior.mybluemix.net, https:,,junior.mybluemix.netxUF1JzEBrd
+>>> START https://junior.mybluemix.net
+		web page [https://junior.mybluemix.net] is completed!
+>>> FINISH https://junior.mybluemix.net
+	>>> kill Chrome [22593]
+######## frame info is: {'s': {'url': 'https://junior.mybluemix.net/', 'domain': 'junior.mybluemix.net'}}
+[url, filename] = https://ka.mybluemix.net, https:,,ka.mybluemix.netpY9w6ZVGBy
+>>> START https://ka.mybluemix.net
+		web page [https://ka.mybluemix.net] is completed!
+>>> FINISH https://ka.mybluemix.net
+	>>> kill Chrome [22719]
+######## frame info is: {'s': {'url': 'https://ka.mybluemix.net/', 'domain': 'ka.mybluemix.net'}}
+[url, filename] = https://kafka.mybluemix.net, https:,,kafka.mybluemix.netQqVNuWyekM
+>>> START https://kafka.mybluemix.net
+		web page [https://kafka.mybluemix.net] is completed!
+>>> FINISH https://kafka.mybluemix.net
+	>>> kill Chrome [22846]
+######## frame info is: {'s': {'url': 'https://kafka.mybluemix.net/', 'domain': 'kafka.mybluemix.net'}}
+[url, filename] = https://kane.mybluemix.net, https:,,kane.mybluemix.netCxEPtUfMKn
+>>> START https://kane.mybluemix.net
+		web page [https://kane.mybluemix.net] is completed!
+>>> FINISH https://kane.mybluemix.net
+	>>> kill Chrome [22974]
+######## frame info is: {'s': {'url': 'https://kane.mybluemix.net/', 'domain': 'kane.mybluemix.net'}}
+[url, filename] = https://kate.mybluemix.net, https:,,kate.mybluemix.netxE8VHA6gyL
+>>> START https://kate.mybluemix.net
+		web page [https://kate.mybluemix.net] is completed!
+>>> FINISH https://kate.mybluemix.net
+	>>> kill Chrome [23099]
+######## frame info is: {'s': {'url': 'https://kate.mybluemix.net/', 'domain': 'kate.mybluemix.net'}}
+[url, filename] = https://kent.mybluemix.net, https:,,kent.mybluemix.net1KnUvGdPOt
+>>> START https://kent.mybluemix.net
+		web page [https://kent.mybluemix.net] is completed!
+>>> FINISH https://kent.mybluemix.net
+	>>> kill Chrome [23227]
+######## frame info is: {'s': {'url': 'https://kent.mybluemix.net/', 'domain': 'kent.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://kiki.mybluemix.net, https:,,kiki.mybluemix.net6OCSg03ZsR
+>>> START https://kiki.mybluemix.net
+		web page [https://kiki.mybluemix.net] is completed!
+>>> FINISH https://kiki.mybluemix.net
+	>>> kill Chrome [23352]
+######## frame info is: {'s': {'url': 'https://kiki.mybluemix.net/', 'domain': 'kiki.mybluemix.net'}}
+[url, filename] = https://kimberly.mybluemix.net, https:,,kimberly.mybluemix.netOXYrwFth0u
+>>> START https://kimberly.mybluemix.net
+		web page [https://kimberly.mybluemix.net] is completed!
+>>> FINISH https://kimberly.mybluemix.net
+	>>> kill Chrome [23476]
+######## frame info is: {'s': {'url': 'https://kimberly.mybluemix.net/', 'domain': 'kimberly.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://ko.mybluemix.net, https:,,ko.mybluemix.netwfEuQmr51M
+>>> START https://ko.mybluemix.net
+		web page [https://ko.mybluemix.net] is completed!
+>>> FINISH https://ko.mybluemix.net
+	>>> kill Chrome [23604]
+######## frame info is: {'s': {'url': 'https://ko.mybluemix.net/', 'domain': 'ko.mybluemix.net'}}
+[url, filename] = https://aibril-pi-fb-demo-korean.sk.kr.mybluemix.net, https:,,aibril-pi-fb-demo-korepVHlgRX5xa
+>>> START https://aibril-pi-fb-demo-korean.sk.kr.mybluemix.net
+		web page [https://aibril-pi-fb-demo-korean.sk.kr.mybluemix.net] is completed!
+>>> FINISH https://aibril-pi-fb-demo-korean.sk.kr.mybluemix.net
+	>>> kill Chrome [23728]
+######## frame info is: {'s': {'url': 'https://aibril-pi-fb-demo-korean.sk.kr.mybluemix.net/', 'domain': 'aibril-pi-fb-demo-korean.sk.kr.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://kserver.mybluemix.net, https:,,kserver.mybluemix.netm6oQFOZ4ET
+>>> START https://kserver.mybluemix.net
+		web page [https://kserver.mybluemix.net] is completed!
+>>> FINISH https://kserver.mybluemix.net
+	>>> kill Chrome [23855]
+######## frame info is: {'s': {'url': 'https://kserver.mybluemix.net/', 'domain': 'kserver.mybluemix.net'}}
+[url, filename] = https://langley.mybluemix.net, https:,,langley.mybluemix.netSrTbcPAgEC
+>>> START https://langley.mybluemix.net
+		web page [https://langley.mybluemix.net] is completed!
+>>> FINISH https://langley.mybluemix.net
+	>>> kill Chrome [23984]
+######## frame info is: {'s': {'url': 'https://langley.mybluemix.net/', 'domain': 'langley.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://larson.mybluemix.net, https:,,larson.mybluemix.netTWvVopJ5FE
+>>> START https://larson.mybluemix.net
+		web page [https://larson.mybluemix.net] is completed!
+>>> FINISH https://larson.mybluemix.net
+	>>> kill Chrome [24110]
+######## frame info is: {'s': {'url': 'https://larson.mybluemix.net/', 'domain': 'larson.mybluemix.net'}}
+[url, filename] = https://lease.mybluemix.net, https:,,lease.mybluemix.netndioRGlUJ5
+>>> START https://lease.mybluemix.net
+		web page [https://lease.mybluemix.net] is completed!
+>>> FINISH https://lease.mybluemix.net
+	>>> kill Chrome [24292]
+######## frame info is: {'s': {'url': 'https://lease.mybluemix.net/', 'domain': 'lease.mybluemix.net'}}
+[url, filename] = https://legato.mybluemix.net, https:,,legato.mybluemix.nete7WR48ojsN
+>>> START https://legato.mybluemix.net
+		web page [https://legato.mybluemix.net] is completed!
+>>> FINISH https://legato.mybluemix.net
+	>>> kill Chrome [24419]
+######## frame info is: {'s': {'url': 'https://legato.mybluemix.net/', 'domain': 'legato.mybluemix.net'}}
+[url, filename] = https://license.mybluemix.net, https:,,license.mybluemix.net3G1xyRYoXU
+>>> START https://license.mybluemix.net
+		web page [https://license.mybluemix.net] is TIMEOUT!
+>>> FINISH https://license.mybluemix.net
+	>>> kill Chrome [24546]
+######## frame info is: {'s': {'url': 'https://license.mybluemix.net/', 'domain': 'license.mybluemix.net'}}
+[url, filename] = https://lisboa.mybluemix.net, https:,,lisboa.mybluemix.netPpsoq1Yg4N
+>>> START https://lisboa.mybluemix.net
+		web page [https://lisboa.mybluemix.net] is completed!
+>>> FINISH https://lisboa.mybluemix.net
+	>>> kill Chrome [24675]
+######## frame info is: {'s': {'url': 'https://lisboa.mybluemix.net/', 'domain': 'lisboa.mybluemix.net'}}
+[url, filename] = https://lobby.mybluemix.net, https:,,lobby.mybluemix.netCDuqRwK5yB
+>>> START https://lobby.mybluemix.net
+		web page [https://lobby.mybluemix.net] is completed!
+>>> FINISH https://lobby.mybluemix.net
+	>>> kill Chrome [24802]
+######## frame info is: {'s': {'url': 'https://lobby.mybluemix.net/', 'domain': 'lobby.mybluemix.net'}}
+[url, filename] = https://logs.mybluemix.net, https:,,logs.mybluemix.netgbyJRo0Lpw
+>>> START https://logs.mybluemix.net
+		web page [https://logs.mybluemix.net] is completed!
+>>> FINISH https://logs.mybluemix.net
+	>>> kill Chrome [24927]
+######## frame info is: {'s': {'url': 'https://logs.mybluemix.net/', 'domain': 'logs.mybluemix.net'}}
+[url, filename] = https://lumberjack.mybluemix.net, https:,,lumberjack.mybluemix.n63h7UOxgRq
+>>> START https://lumberjack.mybluemix.net
+		web page [https://lumberjack.mybluemix.net] is completed!
+>>> FINISH https://lumberjack.mybluemix.net
+	>>> kill Chrome [25056]
+######## frame info is: {'s': {'url': 'https://lumberjack.mybluemix.net/status', 'domain': 'lumberjack.mybluemix.net'}}
+[url, filename] = https://lvs.mybluemix.net, https:,,lvs.mybluemix.netWXCxmozYI7
+>>> START https://lvs.mybluemix.net
+		web page [https://lvs.mybluemix.net] is completed!
+>>> FINISH https://lvs.mybluemix.net
+	>>> kill Chrome [25182]
+######## frame info is: {'s': {'url': 'https://lvs.mybluemix.net/', 'domain': 'lvs.mybluemix.net'}}
+[url, filename] = https://m.mybluemix.net, https:,,m.mybluemix.netVdDR2Ix03H
+>>> START https://m.mybluemix.net
+		web page [https://m.mybluemix.net] is completed!
+>>> FINISH https://m.mybluemix.net
+	>>> kill Chrome [25308]
+######## frame info is: {'s': {'url': 'https://m.mybluemix.net/', 'domain': 'm.mybluemix.net'}}
+[url, filename] = https://m3.mybluemix.net, https:,,m3.mybluemix.netPBIKozYjdl
+>>> START https://m3.mybluemix.net
+		web page [https://m3.mybluemix.net] is completed!
+>>> FINISH https://m3.mybluemix.net
+	>>> kill Chrome [25435]
+######## frame info is: {'s': {'url': 'https://m3.mybluemix.net/', 'domain': 'm3.mybluemix.net'}}
+[url, filename] = https://madison.mybluemix.net, https:,,madison.mybluemix.netjViLIO7b3l
+>>> START https://madison.mybluemix.net
+		web page [https://madison.mybluemix.net] is completed!
+>>> FINISH https://madison.mybluemix.net
+	>>> kill Chrome [25559]
+######## frame info is: {'s': {'url': 'https://madison.mybluemix.net/', 'domain': 'madison.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://magic.mybluemix.net, https:,,magic.mybluemix.netsF3G65k8Yr
+>>> START https://magic.mybluemix.net
+		web page [https://magic.mybluemix.net] is completed!
+>>> FINISH https://magic.mybluemix.net
+	>>> kill Chrome [25684]
+######## frame info is: {'s': {'url': 'https://magic.mybluemix.net/', 'domain': 'magic.mybluemix.net'}}
+[url, filename] = https://maestro.mybluemix.net, https:,,maestro.mybluemix.netZMRIkPFda0
+>>> START https://maestro.mybluemix.net
+		web page [https://maestro.mybluemix.net] is completed!
+>>> FINISH https://maestro.mybluemix.net
+	>>> kill Chrome [25811]
+######## frame info is: {'s': {'url': 'http://maestro.mybluemix.net/login', 'domain': 'maestro.mybluemix.net'}}
+[url, filename] = https://mainframe.mybluemix.net, https:,,mainframe.mybluemix.neB38UaS7Lxw
+>>> START https://mainframe.mybluemix.net
+		web page [https://mainframe.mybluemix.net] is completed!
+>>> FINISH https://mainframe.mybluemix.net
+	>>> kill Chrome [25949]
+######## frame info is: {'s': {'url': 'https://mainframe.mybluemix.net/', 'domain': 'mainframe.mybluemix.net'}}
+[url, filename] = https://master1.mybluemix.net, https:,,master1.mybluemix.netG6aHNAcpF9
+>>> START https://master1.mybluemix.net
+		web page [https://master1.mybluemix.net] is completed!
+>>> FINISH https://master1.mybluemix.net
+	>>> kill Chrome [26077]
+######## frame info is: {'s': {'url': 'https://master1.mybluemix.net/', 'domain': 'master1.mybluemix.net'}}
+[url, filename] = https://mbg.mybluemix.net, https:,,mbg.mybluemix.net7FpUfx1Ycn
+>>> START https://mbg.mybluemix.net
+		web page [https://mbg.mybluemix.net] is completed!
+>>> FINISH https://mbg.mybluemix.net
+	>>> kill Chrome [26203]
+######## frame info is: {'s': {'url': 'https://mbg.mybluemix.net/', 'domain': 'mbg.mybluemix.net'}}
+[url, filename] = https://mcc.mybluemix.net, https:,,mcc.mybluemix.net6I98HgyusV
+>>> START https://mcc.mybluemix.net
+		web page [https://mcc.mybluemix.net] is completed!
+>>> FINISH https://mcc.mybluemix.net
+	>>> kill Chrome [26328]
+######## frame info is: {'s': {'url': 'https://mcc.mybluemix.net/', 'domain': 'mcc.mybluemix.net'}}
+[url, filename] = https://mcs.mybluemix.net, https:,,mcs.mybluemix.netPNQKHjez4w
+>>> START https://mcs.mybluemix.net
+		web page [https://mcs.mybluemix.net] is completed!
+>>> FINISH https://mcs.mybluemix.net
+	>>> kill Chrome [26456]
+######## frame info is: {'s': {'url': 'https://mcs.mybluemix.net/', 'domain': 'mcs.mybluemix.net'}}
+[url, filename] = https://mcloud.mybluemix.net, https:,,mcloud.mybluemix.netgyrxSh5DIH
+>>> START https://mcloud.mybluemix.net
+		web page [https://mcloud.mybluemix.net] is completed!
+>>> FINISH https://mcloud.mybluemix.net
+	>>> kill Chrome [26584]
+######## frame info is: {'s': {'url': 'https://mcloud.mybluemix.net/', 'domain': 'mcloud.mybluemix.net'}}
+[url, filename] = https://meng.mybluemix.net, https:,,meng.mybluemix.netm0rvRMJQkG
+>>> START https://meng.mybluemix.net
+		web page [https://meng.mybluemix.net] is completed!
+>>> FINISH https://meng.mybluemix.net
+	>>> kill Chrome [26713]
+######## frame info is: {'s': {'url': 'https://meng.mybluemix.net/', 'domain': 'meng.mybluemix.net'}}
+[url, filename] = https://mh.mybluemix.net, https:,,mh.mybluemix.net9cPZ8Wltwu
+>>> START https://mh.mybluemix.net
+		web page [https://mh.mybluemix.net] is completed!
+>>> FINISH https://mh.mybluemix.net
+	>>> kill Chrome [26839]
+######## frame info is: {'s': {'url': 'https://mh.mybluemix.net/', 'domain': 'mh.mybluemix.net'}}
+[url, filename] = https://michael.mybluemix.net, https:,,michael.mybluemix.netGEXQNLi6ep
+>>> START https://michael.mybluemix.net
+		web page [https://michael.mybluemix.net] is completed!
+>>> FINISH https://michael.mybluemix.net
+	>>> kill Chrome [26966]
+######## frame info is: {'s': {'url': 'https://michael.mybluemix.net/', 'domain': 'michael.mybluemix.net'}}
+[url, filename] = https://mitra.mybluemix.net, https:,,mitra.mybluemix.net23ApyjJPuK
+>>> START https://mitra.mybluemix.net
+		web page [https://mitra.mybluemix.net] is completed!
+>>> FINISH https://mitra.mybluemix.net
+	>>> kill Chrome [27092]
+######## frame info is: {'s': {'url': 'https://mitra.mybluemix.net/', 'domain': 'mitra.mybluemix.net'}}
+[url, filename] = https://mobil.mybluemix.net, https:,,mobil.mybluemix.netRmkSLKDyJO
+>>> START https://mobil.mybluemix.net
+		web page [https://mobil.mybluemix.net] is completed!
+>>> FINISH https://mobil.mybluemix.net
+	>>> kill Chrome [27221]
+######## frame info is: {'s': {'url': 'https://mobil.mybluemix.net/', 'domain': 'mobil.mybluemix.net'}}
+[url, filename] = https://mobile.mybluemix.net, https:,,mobile.mybluemix.netEJx1bGYOth
+>>> START https://mobile.mybluemix.net
+		web page [https://mobile.mybluemix.net] is completed!
+>>> FINISH https://mobile.mybluemix.net
+	>>> kill Chrome [27348]
+######## frame info is: {'s': {'url': 'https://mobile.mybluemix.net/', 'domain': 'mobile.mybluemix.net'}}
+[url, filename] = https://mos.mybluemix.net, https:,,mos.mybluemix.netlEfsAXjScy
+>>> START https://mos.mybluemix.net
+		web page [https://mos.mybluemix.net] is completed!
+>>> FINISH https://mos.mybluemix.net
+	>>> kill Chrome [27472]
+######## frame info is: {'s': {'url': 'https://idaas.iam.ibm.com/idaas/oidc/endpoint/default/authorize?response_type=code&client_id=ODMxNzdlMTctZjg5NC00&redirect_uri=https%3A%2F%2Fmos.mybluemix.net%2Fauth%2Fsso%2Fcallback&scope=openid%20openin', 'domain': 'idaas.iam.ibm.com'}}
+[url, filename] = https://mta.mybluemix.net, https:,,mta.mybluemix.netQz9vjDBi86
+>>> START https://mta.mybluemix.net
+		web page [https://mta.mybluemix.net] is completed!
+>>> FINISH https://mta.mybluemix.net
+	>>> kill Chrome [27613]
+######## frame info is: {'s': {'url': 'https://mta.mybluemix.net/', 'domain': 'mta.mybluemix.net'}}
+[url, filename] = https://msc.mybluemix.net, https:,,msc.mybluemix.net9yQJf4kga8
+>>> START https://msc.mybluemix.net
+		web page [https://msc.mybluemix.net] is completed!
+>>> FINISH https://msc.mybluemix.net
+	>>> kill Chrome [27739]
+######## frame info is: {'s': {'url': 'https://msc.mybluemix.net/#/login?redirect=%2F', 'domain': 'msc.mybluemix.net'}, 's-0': {'url': 'https://msc.mybluemix.net/vendor/pdfjs/web/viewer.html', 'domain': 'msc.mybluemix.net'}}
+		---> Multiple FRAMES
+[url, filename] = https://msi.mybluemix.net, https:,,msi.mybluemix.neti7tBbnMVxl
+>>> START https://msi.mybluemix.net
+		web page [https://msi.mybluemix.net] is completed!
+>>> FINISH https://msi.mybluemix.net
+	>>> kill Chrome [27869]
+######## frame info is: {'s': {'url': 'https://msi.mybluemix.net/', 'domain': 'msi.mybluemix.net'}}
+[url, filename] = https://msg.mybluemix.net, https:,,msg.mybluemix.netK8Sr4Pp5BX
+>>> START https://msg.mybluemix.net
+		web page [https://msg.mybluemix.net] is completed!
+>>> FINISH https://msg.mybluemix.net
+	>>> kill Chrome [27996]
+######## frame info is: {'s': {'url': 'https://msg.mybluemix.net/', 'domain': 'msg.mybluemix.net'}}
+[url, filename] = https://mtm2016.mybluemix.net, https:,,mtm2016.mybluemix.net4ZQGPq7VUr
+>>> START https://mtm2016.mybluemix.net
+		web page [https://mtm2016.mybluemix.net] is completed!
+>>> FINISH https://mtm2016.mybluemix.net
+	>>> kill Chrome [28121]
+######## frame info is: {'s': {'url': 'https://mtm2016.mybluemix.net/', 'domain': 'mtm2016.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}, 's-1': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://mw.mybluemix.net, https:,,mw.mybluemix.netvDIwU6mxl2
+>>> START https://mw.mybluemix.net
+		web page [https://mw.mybluemix.net] is completed!
+>>> FINISH https://mw.mybluemix.net
+	>>> kill Chrome [28250]
+######## frame info is: {'s': {'url': 'https://mw.mybluemix.net/', 'domain': 'mw.mybluemix.net'}}
+[url, filename] = https://mvs.mybluemix.net, https:,,mvs.mybluemix.net5hyVQ2RBXK
+>>> START https://mvs.mybluemix.net
+		web page [https://mvs.mybluemix.net] is completed!
+>>> FINISH https://mvs.mybluemix.net
+	>>> kill Chrome [28380]
+######## frame info is: {'s': {'url': 'https://mvs.mybluemix.net/', 'domain': 'mvs.mybluemix.net'}}
+[url, filename] = https://myapp.mybluemix.net, https:,,myapp.mybluemix.netK4Iarpf9li
+>>> START https://myapp.mybluemix.net
+		web page [https://myapp.mybluemix.net] is completed!
+>>> FINISH https://myapp.mybluemix.net
+	>>> kill Chrome [28506]
+######## frame info is: {'s': {'url': 'https://myapp.mybluemix.net/', 'domain': 'myapp.mybluemix.net'}}
+[url, filename] = https://mylocal.mybluemix.net, https:,,mylocal.mybluemix.netPtGB60k5NY
+>>> START https://mylocal.mybluemix.net
+		web page [https://mylocal.mybluemix.net] is completed!
+>>> FINISH https://mylocal.mybluemix.net
+	>>> kill Chrome [28633]
+######## frame info is: {'s': {'url': 'https://mylocal.mybluemix.net/', 'domain': 'mylocal.mybluemix.net'}}
+[url, filename] = https://natural-language-classifier-demo.mybluemix.net, https:,,natural-language-classXAEJl40MD8
+>>> START https://natural-language-classifier-demo.mybluemix.net
+		web page [https://natural-language-classifier-demo.mybluemix.net] is completed!
+>>> FINISH https://natural-language-classifier-demo.mybluemix.net
+	>>> kill Chrome [28760]
+######## frame info is: {'s': {'url': 'https://natural-language-classifier-demo.ng.bluemix.net/', 'domain': 'natural-language-classifier-demo.ng.bluemix.net'}}
+[url, filename] = https://nautilus.mybluemix.net, https:,,nautilus.mybluemix.net9fIZROHJXG
+>>> START https://nautilus.mybluemix.net
+		web page [https://nautilus.mybluemix.net] is TIMEOUT!
+>>> FINISH https://nautilus.mybluemix.net
+	>>> kill Chrome [28887]
+######## frame info is: {'s': {'url': 'https://www.ibm.com/products', 'domain': 'www.ibm.com'}}
+[url, filename] = https://neptune.mybluemix.net, https:,,neptune.mybluemix.netcl0tD7Xpzn
+>>> START https://neptune.mybluemix.net
+		web page [https://neptune.mybluemix.net] is completed!
+>>> FINISH https://neptune.mybluemix.net
+	>>> kill Chrome [29037]
+######## frame info is: {'s': {'url': 'https://neptune.mybluemix.net/', 'domain': 'neptune.mybluemix.net'}}
+[url, filename] = https://news-explorer.mybluemix.net, https:,,news-explorer.mybluemiRzZIVjH3qM
+>>> START https://news-explorer.mybluemix.net
+		web page [https://news-explorer.mybluemix.net] is TIMEOUT!
+>>> FINISH https://news-explorer.mybluemix.net
+	>>> kill Chrome [29164]
+######## frame info is: {'s': {'url': 'https://news-explorer.mybluemix.net/', 'domain': 'news-explorer.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}, 's-1': {'url': 'Not same domain', 'domain': 'Not same domain'}, 's-2': {'url': 'Not same domain', 'domain': 'Not same domain'}, 's-3': {'url': 'about:blank', 'domain': 'news-explorer.mybluemix.net'}}
+		---> Multiple FRAMES
+[url, filename] = https://ninja.mybluemix.net, https:,,ninja.mybluemix.netXV8Jg0ORnK
+>>> START https://ninja.mybluemix.net
+		web page [https://ninja.mybluemix.net] is completed!
+>>> FINISH https://ninja.mybluemix.net
+	>>> kill Chrome [29300]
+######## frame info is: {'s': {'url': 'https://ninja.mybluemix.net/', 'domain': 'ninja.mybluemix.net'}}
+[url, filename] = https://novokuznetsk.mybluemix.net, https:,,novokuznetsk.mybluemix3RnlB971L8
+>>> START https://novokuznetsk.mybluemix.net
+		web page [https://novokuznetsk.mybluemix.net] is completed!
+>>> FINISH https://novokuznetsk.mybluemix.net
+	>>> kill Chrome [29424]
+######## frame info is: {'s': {'url': 'https://novokuznetsk.mybluemix.net/', 'domain': 'novokuznetsk.mybluemix.net'}}
+[url, filename] = https://nx.mybluemix.net, https:,,nx.mybluemix.net5xwc9yElWU
+>>> START https://nx.mybluemix.net
+		Enter timeoutCallback
+		web page [https://nx.mybluemix.net] is TIMEOUT!
+>>> FINISH https://nx.mybluemix.net
+	>>> kill Chrome [29555]
+######## frame info is: {}
+[url, filename] = https://o3.mybluemix.net, https:,,o3.mybluemix.netpLcxK8SjgN
+>>> START https://o3.mybluemix.net
+		web page [https://o3.mybluemix.net] is completed!
+>>> FINISH https://o3.mybluemix.net
+	>>> kill Chrome [29695]
+######## frame info is: {'s': {'url': 'https://o3.mybluemix.net/', 'domain': 'o3.mybluemix.net'}}
+[url, filename] = https://oa.mybluemix.net, https:,,oa.mybluemix.netPKLMITuCVg
+>>> START https://oa.mybluemix.net
+		web page [https://oa.mybluemix.net] is completed!
+>>> FINISH https://oa.mybluemix.net
+	>>> kill Chrome [29822]
+######## frame info is: {'s': {'url': 'https://oa.mybluemix.net/', 'domain': 'oa.mybluemix.net'}}
+[url, filename] = https://oceano.mybluemix.net, https:,,oceano.mybluemix.net3LuU5NSACp
+>>> START https://oceano.mybluemix.net
+		web page [https://oceano.mybluemix.net] is TIMEOUT!
+>>> FINISH https://oceano.mybluemix.net
+	>>> kill Chrome [29950]
+######## frame info is: {'s': {'url': 'https://oceano.mybluemix.net/', 'domain': 'oceano.mybluemix.net'}}
+[url, filename] = https://odin.mybluemix.net, https:,,odin.mybluemix.netsYrmtvAcS5
+>>> START https://odin.mybluemix.net
+		web page [https://odin.mybluemix.net] is completed!
+>>> FINISH https://odin.mybluemix.net
+	>>> kill Chrome [30087]
+######## frame info is: {'s': {'url': 'https://odin.mybluemix.net/', 'domain': 'odin.mybluemix.net'}}
+[url, filename] = https://onlinelibrary.mybluemix.net, https:,,onlinelibrary.mybluemih8oLKVMfbi
+>>> START https://onlinelibrary.mybluemix.net
+		web page [https://onlinelibrary.mybluemix.net] is completed!
+>>> FINISH https://onlinelibrary.mybluemix.net
+	>>> kill Chrome [30213]
+######## frame info is: {'s': {'url': 'https://onlinelibrary.mybluemix.net/', 'domain': 'onlinelibrary.mybluemix.net'}}
+[url, filename] = https://ontrack.mybluemix.net, https:,,ontrack.mybluemix.netfQKRuVLZxS
+>>> START https://ontrack.mybluemix.net
+		web page [https://ontrack.mybluemix.net] is completed!
+>>> FINISH https://ontrack.mybluemix.net
+	>>> kill Chrome [30337]
+######## frame info is: {'s': {'url': 'https://ontrack.mybluemix.net/', 'domain': 'ontrack.mybluemix.net'}}
+[url, filename] = https://optima.mybluemix.net, https:,,optima.mybluemix.netIZc51zmAxW
+>>> START https://optima.mybluemix.net
+		web page [https://optima.mybluemix.net] is completed!
+>>> FINISH https://optima.mybluemix.net
+	>>> kill Chrome [30464]
+######## frame info is: {'s': {'url': 'https://optima.mybluemix.net/', 'domain': 'optima.mybluemix.net'}}
+[url, filename] = https://otis.mybluemix.net, https:,,otis.mybluemix.netOrXU7koInR
+>>> START https://otis.mybluemix.net
+		web page [https://otis.mybluemix.net] is completed!
+>>> FINISH https://otis.mybluemix.net
+	>>> kill Chrome [30589]
+######## frame info is: {'s': {'url': 'https://otis.mybluemix.net/', 'domain': 'otis.mybluemix.net'}}
+[url, filename] = https://p3.mybluemix.net, https:,,p3.mybluemix.netSinGawqzte
+>>> START https://p3.mybluemix.net
+		web page [https://p3.mybluemix.net] is completed!
+>>> FINISH https://p3.mybluemix.net
+	>>> kill Chrome [30715]
+######## frame info is: {'s': {'url': 'https://p3.mybluemix.net/', 'domain': 'p3.mybluemix.net'}}
+[url, filename] = https://pacs.mybluemix.net, https:,,pacs.mybluemix.netrJzAeowcDH
+>>> START https://pacs.mybluemix.net
+		web page [https://pacs.mybluemix.net] is completed!
+>>> FINISH https://pacs.mybluemix.net
+	>>> kill Chrome [30843]
+######## frame info is: {'s': {'url': 'https://pacs.mybluemix.net/', 'domain': 'pacs.mybluemix.net'}}
+[url, filename] = https://pai.mybluemix.net, https:,,pai.mybluemix.netBsGKWeEiT1
+>>> START https://pai.mybluemix.net
+		web page [https://pai.mybluemix.net] is completed!
+>>> FINISH https://pai.mybluemix.net
+	>>> kill Chrome [30968]
+######## frame info is: {'s': {'url': 'https://pai.mybluemix.net/', 'domain': 'pai.mybluemix.net'}}
+[url, filename] = https://pages.mybluemix.net, https:,,pages.mybluemix.nethYK0F3Rn1f
+>>> START https://pages.mybluemix.net
+		web page [https://pages.mybluemix.net] is completed!
+>>> FINISH https://pages.mybluemix.net
+	>>> kill Chrome [31094]
+######## frame info is: {'s': {'url': 'https://cloud.ibm.com/login', 'domain': 'cloud.ibm.com'}, 's-0': {'url': 'https://cloud.ibm.com/login', 'domain': 'cloud.ibm.com'}}
+		---> Multiple FRAMES
+[url, filename] = https://paris.mybluemix.net, https:,,paris.mybluemix.netHQ7sF81hb4
+>>> START https://paris.mybluemix.net
+		web page [https://paris.mybluemix.net] is completed!
+>>> FINISH https://paris.mybluemix.net
+	>>> kill Chrome [31244]
+######## frame info is: {'s': {'url': 'https://paris.mybluemix.net/', 'domain': 'paris.mybluemix.net'}}
+[url, filename] = https://parks.mybluemix.net, https:,,parks.mybluemix.net18yjBhLIke
+>>> START https://parks.mybluemix.net
+		web page [https://parks.mybluemix.net] is completed!
+>>> FINISH https://parks.mybluemix.net
+	>>> kill Chrome [31370]
+######## frame info is: {'s': {'url': 'https://parks.mybluemix.net/', 'domain': 'parks.mybluemix.net'}}
+[url, filename] = https://pathfinder.mybluemix.net, https:,,pathfinder.mybluemix.nHf5ERlNrGF
+>>> START https://pathfinder.mybluemix.net
+		web page [https://pathfinder.mybluemix.net] is completed!
+>>> FINISH https://pathfinder.mybluemix.net
+	>>> kill Chrome [31496]
+######## frame info is: {'s': {'url': 'https://pathfinder.mybluemix.net/', 'domain': 'pathfinder.mybluemix.net'}}
+[url, filename] = https://pathology.mybluemix.net, https:,,pathology.mybluemix.neC0PYpfXSRc
+>>> START https://pathology.mybluemix.net
+		web page [https://pathology.mybluemix.net] is completed!
+>>> FINISH https://pathology.mybluemix.net
+	>>> kill Chrome [31625]
+######## frame info is: {'s': {'url': 'https://pathology.mybluemix.net/', 'domain': 'pathology.mybluemix.net'}}
+[url, filename] = https://patriots.mybluemix.net, https:,,patriots.mybluemix.net2nTkB7ct5Y
+>>> START https://patriots.mybluemix.net
+		web page [https://patriots.mybluemix.net] is completed!
+>>> FINISH https://patriots.mybluemix.net
+	>>> kill Chrome [31751]
+######## frame info is: {'s': {'url': 'https://patriots.mybluemix.net/', 'domain': 'patriots.mybluemix.net'}}
+[url, filename] = https://paxton.mybluemix.net, https:,,paxton.mybluemix.netwXbTZjgmPF
+>>> START https://paxton.mybluemix.net
+		web page [https://paxton.mybluemix.net] is completed!
+>>> FINISH https://paxton.mybluemix.net
+	>>> kill Chrome [31879]
+######## frame info is: {'s': {'url': 'https://paxton.mybluemix.net/', 'domain': 'paxton.mybluemix.net'}}
+[url, filename] = https://pd.mybluemix.net, https:,,pd.mybluemix.netUQuAl4spSf
+>>> START https://pd.mybluemix.net
+		web page [https://pd.mybluemix.net] is completed!
+>>> FINISH https://pd.mybluemix.net
+	>>> kill Chrome [32008]
+######## frame info is: {'s': {'url': 'https://pd.mybluemix.net/', 'domain': 'pd.mybluemix.net'}}
+[url, filename] = https://phaeton.mybluemix.net, https:,,phaeton.mybluemix.netNvLCs47VpO
+>>> START https://phaeton.mybluemix.net
+		web page [https://phaeton.mybluemix.net] is completed!
+>>> FINISH https://phaeton.mybluemix.net
+	>>> kill Chrome [32132]
+######## frame info is: {'s': {'url': 'https://phaeton.mybluemix.net/', 'domain': 'phaeton.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://phoebe.mybluemix.net, https:,,phoebe.mybluemix.net0VaSXpiZB5
+>>> START https://phoebe.mybluemix.net
+		web page [https://phoebe.mybluemix.net] is completed!
+>>> FINISH https://phoebe.mybluemix.net
+	>>> kill Chrome [32261]
+######## frame info is: {'s': {'url': 'https://phoebe.mybluemix.net/', 'domain': 'phoebe.mybluemix.net'}}
+[url, filename] = https://pickup.mybluemix.net, https:,,pickup.mybluemix.netap7YAbLtmQ
+>>> START https://pickup.mybluemix.net
+		web page [https://pickup.mybluemix.net] is completed!
+>>> FINISH https://pickup.mybluemix.net
+	>>> kill Chrome [32387]
+######## frame info is: {'s': {'url': 'https://pickup.mybluemix.net/', 'domain': 'pickup.mybluemix.net'}}
+[url, filename] = https://pinch.mybluemix.net, https:,,pinch.mybluemix.netPEbK9HYtfr
+>>> START https://pinch.mybluemix.net
+		web page [https://pinch.mybluemix.net] is completed!
+>>> FINISH https://pinch.mybluemix.net
+	>>> kill Chrome [32514]
+######## frame info is: {'s': {'url': 'https://pinch.mybluemix.net/', 'domain': 'pinch.mybluemix.net'}}
+[url, filename] = https://pk1.mybluemix.net, https:,,pk1.mybluemix.netPNMK1UQA0V
+>>> START https://pk1.mybluemix.net
+		web page [https://pk1.mybluemix.net] is completed!
+>>> FINISH https://pk1.mybluemix.net
+	>>> kill Chrome [32644]
+######## frame info is: {'s': {'url': 'https://pk1.mybluemix.net/', 'domain': 'pk1.mybluemix.net'}}
+[url, filename] = https://plataforma.mybluemix.net, https:,,plataforma.mybluemix.nzcVmhZGslD
+>>> START https://plataforma.mybluemix.net
+		web page [https://plataforma.mybluemix.net] is completed!
+>>> FINISH https://plataforma.mybluemix.net
+	>>> kill Chrome [304]
+######## frame info is: {'s': {'url': 'https://plataforma.mybluemix.net/#/', 'domain': 'plataforma.mybluemix.net'}}
+[url, filename] = https://plum.mybluemix.net, https:,,plum.mybluemix.netnBu3fM9gCh
+>>> START https://plum.mybluemix.net
+		web page [https://plum.mybluemix.net] is completed!
+>>> FINISH https://plum.mybluemix.net
+	>>> kill Chrome [443]
+######## frame info is: {'s': {'url': 'https://plum.mybluemix.net/', 'domain': 'plum.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://po.mybluemix.net, https:,,po.mybluemix.netTv3G5PBOtn
+>>> START https://po.mybluemix.net
+		web page [https://po.mybluemix.net] is completed!
+>>> FINISH https://po.mybluemix.net
+	>>> kill Chrome [571]
+######## frame info is: {'s': {'url': 'https://po.mybluemix.net/', 'domain': 'po.mybluemix.net'}}
+[url, filename] = https://politics.mybluemix.net, https:,,politics.mybluemix.netuRhBEqc6N5
+>>> START https://politics.mybluemix.net
+		web page [https://politics.mybluemix.net] is completed!
+>>> FINISH https://politics.mybluemix.net
+	>>> kill Chrome [697]
+######## frame info is: {'s': {'url': 'https://politics.mybluemix.net/', 'domain': 'politics.mybluemix.net'}, 's-0': {'url': 'https://politics.mybluemix.net/loader.html', 'domain': 'politics.mybluemix.net'}}
+		---> Multiple FRAMES
+[url, filename] = https://popular.mybluemix.net, https:,,popular.mybluemix.netfbCGNcHZKx
+>>> START https://popular.mybluemix.net
+		web page [https://popular.mybluemix.net] is completed!
+>>> FINISH https://popular.mybluemix.net
+	>>> kill Chrome [891]
+######## frame info is: {'s': {'url': 'https://popular.mybluemix.net/', 'domain': 'popular.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://porn.mybluemix.net, https:,,porn.mybluemix.netvbwgo5EyMN
+>>> START https://porn.mybluemix.net
+		web page [https://porn.mybluemix.net] is completed!
+>>> FINISH https://porn.mybluemix.net
+	>>> kill Chrome [1040]
+######## frame info is: {'s': {'url': 'https://porn.mybluemix.net/', 'domain': 'porn.mybluemix.net'}}
+[url, filename] = https://power.mybluemix.net, https:,,power.mybluemix.nettAF3ia6ryb
+>>> START https://power.mybluemix.net
+		web page [https://power.mybluemix.net] is completed!
+>>> FINISH https://power.mybluemix.net
+	>>> kill Chrome [1192]
+######## frame info is: {'s': {'url': 'https://power.mybluemix.net/', 'domain': 'power.mybluemix.net'}}
+[url, filename] = https://pp.mybluemix.net, https:,,pp.mybluemix.nety2NTvUwxam
+>>> START https://pp.mybluemix.net
+		web page [https://pp.mybluemix.net] is TIMEOUT!
+>>> FINISH https://pp.mybluemix.net
+	>>> kill Chrome [1419]
+######## frame info is: {'s': {'url': 'https://pp.mybluemix.net/#/comments', 'domain': 'pp.mybluemix.net'}}
+[url, filename] = https://pumpkin.mybluemix.net, https:,,pumpkin.mybluemix.netT3DtGXA6gE
+>>> START https://pumpkin.mybluemix.net
+		web page [https://pumpkin.mybluemix.net] is completed!
+>>> FINISH https://pumpkin.mybluemix.net
+	>>> kill Chrome [1636]
+######## frame info is: {'s': {'url': 'https://pumpkin.mybluemix.net/', 'domain': 'pumpkin.mybluemix.net'}}
+[url, filename] = https://pvp.mybluemix.net, https:,,pvp.mybluemix.netFAnvd40ZOJ
+>>> START https://pvp.mybluemix.net
+		web page [https://pvp.mybluemix.net] is completed!
+>>> FINISH https://pvp.mybluemix.net
+	>>> kill Chrome [1789]
+######## frame info is: {'s': {'url': 'https://pvp.mybluemix.net/', 'domain': 'pvp.mybluemix.net'}}
+[url, filename] = https://qc.mybluemix.net, https:,,qc.mybluemix.netSj0loVY4kq
+>>> START https://qc.mybluemix.net
+		web page [https://qc.mybluemix.net] is completed!
+>>> FINISH https://qc.mybluemix.net
+	>>> kill Chrome [1960]
+######## frame info is: {'s': {'url': 'https://qc.mybluemix.net/', 'domain': 'qc.mybluemix.net'}}
+[url, filename] = https://quantum.mybluemix.net, https:,,quantum.mybluemix.netDpT93KjLlR
+>>> START https://quantum.mybluemix.net
+		web page [https://quantum.mybluemix.net] is completed!
+>>> FINISH https://quantum.mybluemix.net
+	>>> kill Chrome [2093]
+######## frame info is: {'s': {'url': 'https://quantum.mybluemix.net/', 'domain': 'quantum.mybluemix.net'}}
+[url, filename] = https://quasar.mybluemix.net, https:,,quasar.mybluemix.netEKsSLbCIlf
+>>> START https://quasar.mybluemix.net
+		web page [https://quasar.mybluemix.net] is completed!
+>>> FINISH https://quasar.mybluemix.net
+	>>> kill Chrome [2221]
+######## frame info is: {'s': {'url': 'https://quasar.mybluemix.net/', 'domain': 'quasar.mybluemix.net'}}
+[url, filename] = https://r4.mybluemix.net, https:,,r4.mybluemix.netbY5GOnP74d
+>>> START https://r4.mybluemix.net
+		web page [https://r4.mybluemix.net] is completed!
+>>> FINISH https://r4.mybluemix.net
+	>>> kill Chrome [2360]
+######## frame info is: {'s': {'url': 'https://r4.mybluemix.net/', 'domain': 'r4.mybluemix.net'}}
+[url, filename] = https://rafael.mybluemix.net, https:,,rafael.mybluemix.netB8ung6iWje
+>>> START https://rafael.mybluemix.net
+		web page [https://rafael.mybluemix.net] is completed!
+>>> FINISH https://rafael.mybluemix.net
+	>>> kill Chrome [2485]
+######## frame info is: {'s': {'url': 'https://rafael.mybluemix.net/', 'domain': 'rafael.mybluemix.net'}}
+[url, filename] = https://ramses.mybluemix.net, https:,,ramses.mybluemix.netvHtYW3TL1G
+>>> START https://ramses.mybluemix.net
+		web page [https://ramses.mybluemix.net] is completed!
+>>> FINISH https://ramses.mybluemix.net
+	>>> kill Chrome [2623]
+######## frame info is: {'s': {'url': 'https://ramses.mybluemix.net/', 'domain': 'ramses.mybluemix.net'}}
+[url, filename] = https://raptor.mybluemix.net, https:,,raptor.mybluemix.netsyCcYSG9dz
+>>> START https://raptor.mybluemix.net
+		web page [https://raptor.mybluemix.net] is completed!
+>>> FINISH https://raptor.mybluemix.net
+	>>> kill Chrome [2749]
+######## frame info is: {'s': {'url': 'https://raptor.mybluemix.net/', 'domain': 'raptor.mybluemix.net'}}
+[url, filename] = https://rebel.mybluemix.net, https:,,rebel.mybluemix.netxuO0Z9iXrf
+>>> START https://rebel.mybluemix.net
+		web page [https://rebel.mybluemix.net] is completed!
+>>> FINISH https://rebel.mybluemix.net
+	>>> kill Chrome [2884]
+######## frame info is: {'s': {'url': 'https://rebel.mybluemix.net/', 'domain': 'rebel.mybluemix.net'}}
+[url, filename] = https://repository.mybluemix.net, https:,,repository.mybluemix.n34bseczhYB
+>>> START https://repository.mybluemix.net
+		web page [https://repository.mybluemix.net] is completed!
+>>> FINISH https://repository.mybluemix.net
+	>>> kill Chrome [3011]
+######## frame info is: {'s': {'url': 'https://repository.mybluemix.net/', 'domain': 'repository.mybluemix.net'}}
+[url, filename] = https://riemann.mybluemix.net, https:,,riemann.mybluemix.netDRzIpWwOax
+>>> START https://riemann.mybluemix.net
+		web page [https://riemann.mybluemix.net] is completed!
+>>> FINISH https://riemann.mybluemix.net
+	>>> kill Chrome [3141]
+######## frame info is: {'s': {'url': 'https://riemann.mybluemix.net/', 'domain': 'riemann.mybluemix.net'}}
+[url, filename] = https://robot.mybluemix.net, https:,,robot.mybluemix.netcupoh4JbFY
+>>> START https://robot.mybluemix.net
+		web page [https://robot.mybluemix.net] is completed!
+>>> FINISH https://robot.mybluemix.net
+	>>> kill Chrome [3267]
+######## frame info is: {'s': {'url': 'https://apps.apple.com/us/app/robot-hunt/id964707796', 'domain': 'apps.apple.com'}}
+[url, filename] = https://roche.mybluemix.net, https:,,roche.mybluemix.netDmqT726RJj
+>>> START https://roche.mybluemix.net
+		web page [https://roche.mybluemix.net] is completed!
+>>> FINISH https://roche.mybluemix.net
+	>>> kill Chrome [3397]
+######## frame info is: {'s': {'url': 'https://roche.mybluemix.net/', 'domain': 'roche.mybluemix.net'}}
+[url, filename] = https://root2.mybluemix.net, https:,,root2.mybluemix.netNZzlr17Oni
+>>> START https://root2.mybluemix.net
+		web page [https://root2.mybluemix.net] is completed!
+>>> FINISH https://root2.mybluemix.net
+	>>> kill Chrome [3523]
+######## frame info is: {'s': {'url': 'https://root2.mybluemix.net/', 'domain': 'root2.mybluemix.net'}}
+[url, filename] = https://rsc.mybluemix.net, https:,,rsc.mybluemix.netSXretmA7io
+>>> START https://rsc.mybluemix.net
+		web page [https://rsc.mybluemix.net] is completed!
+>>> FINISH https://rsc.mybluemix.net
+	>>> kill Chrome [3649]
+######## frame info is: {'s': {'url': 'https://rsc.mybluemix.net/', 'domain': 'rsc.mybluemix.net'}}
+[url, filename] = https://ruddy.mybluemix.net, https:,,ruddy.mybluemix.net80YRXoTPdk
+>>> START https://ruddy.mybluemix.net
+		web page [https://ruddy.mybluemix.net] is completed!
+>>> FINISH https://ruddy.mybluemix.net
+	>>> kill Chrome [3775]
+######## frame info is: {'s': {'url': 'https://ruddy.mybluemix.net/', 'domain': 'ruddy.mybluemix.net'}}
+[url, filename] = https://sac.mybluemix.net, https:,,sac.mybluemix.netmHq7nldAVM
+>>> START https://sac.mybluemix.net
+		web page [https://sac.mybluemix.net] is completed!
+>>> FINISH https://sac.mybluemix.net
+	>>> kill Chrome [3903]
+######## frame info is: {'s': {'url': 'https://sac.mybluemix.net/', 'domain': 'sac.mybluemix.net'}}
+[url, filename] = https://sandro.mybluemix.net, https:,,sandro.mybluemix.netnCMgzj6tTX
+>>> START https://sandro.mybluemix.net
+		web page [https://sandro.mybluemix.net] is completed!
+>>> FINISH https://sandro.mybluemix.net
+	>>> kill Chrome [4030]
+######## frame info is: {'s': {'url': 'https://sandro.mybluemix.net/', 'domain': 'sandro.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://sandy.mybluemix.net, https:,,sandy.mybluemix.netsXoAjnQ7Lk
+>>> START https://sandy.mybluemix.net
+		web page [https://sandy.mybluemix.net] is completed!
+>>> FINISH https://sandy.mybluemix.net
+	>>> kill Chrome [4157]
+######## frame info is: {'s': {'url': 'https://sandy.mybluemix.net/', 'domain': 'sandy.mybluemix.net'}}
+[url, filename] = https://sbc.mybluemix.net, https:,,sbc.mybluemix.netqvgl3BnPOM
+>>> START https://sbc.mybluemix.net
+		web page [https://sbc.mybluemix.net] is completed!
+>>> FINISH https://sbc.mybluemix.net
+	>>> kill Chrome [4284]
+######## frame info is: {'s': {'url': 'https://sbc.mybluemix.net/', 'domain': 'sbc.mybluemix.net'}}
+[url, filename] = https://scotty.mybluemix.net, https:,,scotty.mybluemix.netYIv7gLHdlM
+>>> START https://scotty.mybluemix.net
+		web page [https://scotty.mybluemix.net] is completed!
+>>> FINISH https://scotty.mybluemix.net
+	>>> kill Chrome [4409]
+######## frame info is: {'s': {'url': 'https://scotty.mybluemix.net/', 'domain': 'scotty.mybluemix.net'}}
+[url, filename] = https://service4.mybluemix.net, https:,,service4.mybluemix.netb1lLOUPVCT
+>>> START https://service4.mybluemix.net
+		web page [https://service4.mybluemix.net] is completed!
+>>> FINISH https://service4.mybluemix.net
+	>>> kill Chrome [4536]
+######## frame info is: {'s': {'url': 'https://service4.mybluemix.net/', 'domain': 'service4.mybluemix.net'}}
+[url, filename] = https://share.mybluemix.net, https:,,share.mybluemix.net5hAIFQwo7Z
+>>> START https://share.mybluemix.net
+		web page [https://share.mybluemix.net] is completed!
+>>> FINISH https://share.mybluemix.net
+	>>> kill Chrome [4663]
+######## frame info is: {'s': {'url': 'https://share.mybluemix.net/', 'domain': 'share.mybluemix.net'}}
+[url, filename] = https://shared.mybluemix.net, https:,,shared.mybluemix.netFAV7Qx8nra
+>>> START https://shared.mybluemix.net
+		web page [https://shared.mybluemix.net] is completed!
+>>> FINISH https://shared.mybluemix.net
+	>>> kill Chrome [4789]
+######## frame info is: {'s': {'url': 'https://shared.mybluemix.net/', 'domain': 'shared.mybluemix.net'}}
+[url, filename] = https://shenzhen.mybluemix.net, https:,,shenzhen.mybluemix.netbRYjxyfcmI
+>>> START https://shenzhen.mybluemix.net
+		web page [https://shenzhen.mybluemix.net] is completed!
+>>> FINISH https://shenzhen.mybluemix.net
+	>>> kill Chrome [4914]
+######## frame info is: {'s': {'url': 'https://shenzhen.mybluemix.net/', 'domain': 'shenzhen.mybluemix.net'}}
+[url, filename] = https://sherlock.mybluemix.net, https:,,sherlock.mybluemix.net8ncJ1Rbo7B
+>>> START https://sherlock.mybluemix.net
+		web page [https://sherlock.mybluemix.net] is completed!
+>>> FINISH https://sherlock.mybluemix.net
+	>>> kill Chrome [5042]
+######## frame info is: {'s': {'url': 'https://sherlock.mybluemix.net/', 'domain': 'sherlock.mybluemix.net'}}
+[url, filename] = https://shop.mybluemix.net, https:,,shop.mybluemix.netvPjoGpSZle
+>>> START https://shop.mybluemix.net
+		web page [https://shop.mybluemix.net] is completed!
+>>> FINISH https://shop.mybluemix.net
+	>>> kill Chrome [5168]
+######## frame info is: {'s': {'url': 'https://shop.mybluemix.net/', 'domain': 'shop.mybluemix.net'}}
+[url, filename] = https://sig.mybluemix.net, https:,,sig.mybluemix.netUMLKSfVYzk
+>>> START https://sig.mybluemix.net
+		web page [https://sig.mybluemix.net] is completed!
+>>> FINISH https://sig.mybluemix.net
+	>>> kill Chrome [5294]
+######## frame info is: {'s': {'url': 'https://sig.mybluemix.net/', 'domain': 'sig.mybluemix.net'}}
+[url, filename] = https://sigma.mybluemix.net, https:,,sigma.mybluemix.netyHjKdN3aCl
+>>> START https://sigma.mybluemix.net
+		web page [https://sigma.mybluemix.net] is completed!
+>>> FINISH https://sigma.mybluemix.net
+	>>> kill Chrome [5421]
+######## frame info is: {'s': {'url': 'https://sigma.mybluemix.net/', 'domain': 'sigma.mybluemix.net'}}
+[url, filename] = https://singapore.mybluemix.net, https:,,singapore.mybluemix.neG9i2puoaIw
+>>> START https://singapore.mybluemix.net
+		web page [https://singapore.mybluemix.net] is completed!
+>>> FINISH https://singapore.mybluemix.net
+	>>> kill Chrome [5546]
+######## frame info is: {'s': {'url': 'https://singapore.mybluemix.net/', 'domain': 'singapore.mybluemix.net'}}
+[url, filename] = https://sirius.mybluemix.net, https:,,sirius.mybluemix.netfQOlMSUyH0
+>>> START https://sirius.mybluemix.net
+		web page [https://sirius.mybluemix.net] is completed!
+>>> FINISH https://sirius.mybluemix.net
+	>>> kill Chrome [5672]
+######## frame info is: {'s': {'url': 'https://sirius.mybluemix.net/', 'domain': 'sirius.mybluemix.net'}}
+[url, filename] = https://skye.mybluemix.net, https:,,skye.mybluemix.netf8XMB0QKeb
+>>> START https://skye.mybluemix.net
+		web page [https://skye.mybluemix.net] is completed!
+>>> FINISH https://skye.mybluemix.net
+	>>> kill Chrome [5799]
+######## frame info is: {'s': {'url': 'https://skye.mybluemix.net/', 'domain': 'skye.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://slave.mybluemix.net, https:,,slave.mybluemix.netvpzy0F9WS7
+>>> START https://slave.mybluemix.net
+		web page [https://slave.mybluemix.net] is completed!
+>>> FINISH https://slave.mybluemix.net
+	>>> kill Chrome [5925]
+######## frame info is: {'s': {'url': 'https://slave.mybluemix.net/', 'domain': 'slave.mybluemix.net'}}
+[url, filename] = https://sms.mybluemix.net, https:,,sms.mybluemix.net8wYBTgpctE
+>>> START https://sms.mybluemix.net
+		web page [https://sms.mybluemix.net] is completed!
+>>> FINISH https://sms.mybluemix.net
+	>>> kill Chrome [6053]
+######## frame info is: {'s': {'url': 'https://sms.mybluemix.net/login.php', 'domain': 'sms.mybluemix.net'}}
+[url, filename] = https://sms2.mybluemix.net, https:,,sms2.mybluemix.netvaTUWg1B6E
+>>> START https://sms2.mybluemix.net
+		web page [https://sms2.mybluemix.net] is completed!
+>>> FINISH https://sms2.mybluemix.net
+	>>> kill Chrome [6198]
+######## frame info is: {'s': {'url': 'https://sms2.mybluemix.net/login.php', 'domain': 'sms2.mybluemix.net'}}
+[url, filename] = https://songs.mybluemix.net, https:,,songs.mybluemix.netSL8dP2AW39
+>>> START https://songs.mybluemix.net
+		web page [https://songs.mybluemix.net] is completed!
+>>> FINISH https://songs.mybluemix.net
+	>>> kill Chrome [6322]
+######## frame info is: {'s': {'url': 'https://songs.mybluemix.net/', 'domain': 'songs.mybluemix.net'}}
+[url, filename] = https://sonny.mybluemix.net, https:,,sonny.mybluemix.nettKe3bs1WG6
+>>> START https://sonny.mybluemix.net
+		web page [https://sonny.mybluemix.net] is completed!
+>>> FINISH https://sonny.mybluemix.net
+	>>> kill Chrome [6449]
+######## frame info is: {'s': {'url': 'https://sonny.mybluemix.net/', 'domain': 'sonny.mybluemix.net'}}
+[url, filename] = https://speaker.mybluemix.net, https:,,speaker.mybluemix.netNKsgFd9lme
+>>> START https://speaker.mybluemix.net
+		web page [https://speaker.mybluemix.net] is completed!
+>>> FINISH https://speaker.mybluemix.net
+	>>> kill Chrome [6577]
+######## frame info is: {'s': {'url': 'https://speaker.mybluemix.net/', 'domain': 'speaker.mybluemix.net'}}
+[url, filename] = https://sps.mybluemix.net, https:,,sps.mybluemix.netKmhCP7tu8y
+>>> START https://sps.mybluemix.net
+		web page [https://sps.mybluemix.net] is completed!
+>>> FINISH https://sps.mybluemix.net
+	>>> kill Chrome [6702]
+######## frame info is: {'s': {'url': 'https://sps.mybluemix.net/', 'domain': 'sps.mybluemix.net'}}
+[url, filename] = https://status.mybluemix.net, https:,,status.mybluemix.netvXDpy2jVUS
+>>> START https://status.mybluemix.net
+		web page [https://status.mybluemix.net] is completed!
+>>> FINISH https://status.mybluemix.net
+	>>> kill Chrome [6830]
+######## frame info is: {'s': {'url': 'https://status.mybluemix.net/', 'domain': 'status.mybluemix.net'}}
+[url, filename] = https://stingray.mybluemix.net, https:,,stingray.mybluemix.netYICWtUqTyv
+>>> START https://stingray.mybluemix.net
+		web page [https://stingray.mybluemix.net] is completed!
+>>> FINISH https://stingray.mybluemix.net
+	>>> kill Chrome [6960]
+######## frame info is: {'s': {'url': 'https://stingray.mybluemix.net/', 'domain': 'stingray.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://supply.mybluemix.net, https:,,supply.mybluemix.netjCDEihTwvW
+>>> START https://supply.mybluemix.net
+		web page [https://supply.mybluemix.net] is completed!
+>>> FINISH https://supply.mybluemix.net
+	>>> kill Chrome [7086]
+######## frame info is: {'s': {'url': 'https://supply.mybluemix.net/', 'domain': 'supply.mybluemix.net'}}
+[url, filename] = https://svr.mybluemix.net, https:,,svr.mybluemix.netjT94hOlucy
+>>> START https://svr.mybluemix.net
+		web page [https://svr.mybluemix.net] is completed!
+>>> FINISH https://svr.mybluemix.net
+	>>> kill Chrome [7217]
+######## frame info is: {'s': {'url': 'https://svr.mybluemix.net/', 'domain': 'svr.mybluemix.net'}}
+[url, filename] = https://swc.mybluemix.net, https:,,swc.mybluemix.netvw9GTYIuHP
+>>> START https://swc.mybluemix.net
+		web page [https://swc.mybluemix.net] is completed!
+>>> FINISH https://swc.mybluemix.net
+	>>> kill Chrome [7343]
+######## frame info is: {'s': {'url': 'https://swc.mybluemix.net/', 'domain': 'swc.mybluemix.net'}}
+[url, filename] = https://t.mybluemix.net, https:,,t.mybluemix.netY4qUb60XLu
+>>> START https://t.mybluemix.net
+		web page [https://t.mybluemix.net] is completed!
+>>> FINISH https://t.mybluemix.net
+	>>> kill Chrome [7468]
+######## frame info is: {'s': {'url': 'https://t.mybluemix.net/', 'domain': 't.mybluemix.net'}}
+[url, filename] = https://t2.mybluemix.net, https:,,t2.mybluemix.net0g21vxsMoL
+>>> START https://t2.mybluemix.net
+		web page [https://t2.mybluemix.net] is completed!
+>>> FINISH https://t2.mybluemix.net
+	>>> kill Chrome [7595]
+######## frame info is: {'s': {'url': 'https://t2.mybluemix.net/', 'domain': 't2.mybluemix.net'}}
+[url, filename] = https://tata.mybluemix.net, https:,,tata.mybluemix.neta3RDjtFdyv
+>>> START https://tata.mybluemix.net
+		web page [https://tata.mybluemix.net] is completed!
+>>> FINISH https://tata.mybluemix.net
+	>>> kill Chrome [7721]
+######## frame info is: {'s': {'url': 'https://tata.mybluemix.net/', 'domain': 'tata.mybluemix.net'}}
+[url, filename] = https://teams.mybluemix.net, https:,,teams.mybluemix.netInqY1APG3m
+>>> START https://teams.mybluemix.net
+		web page [https://teams.mybluemix.net] is completed!
+>>> FINISH https://teams.mybluemix.net
+	>>> kill Chrome [7846]
+######## frame info is: {'s': {'url': 'https://teams.mybluemix.net/#/login', 'domain': 'teams.mybluemix.net'}}
+[url, filename] = https://ted.mybluemix.net, https:,,ted.mybluemix.netadzwNhJSlq
+>>> START https://ted.mybluemix.net
+		web page [https://ted.mybluemix.net] is completed!
+>>> FINISH https://ted.mybluemix.net
+	>>> kill Chrome [7980]
+######## frame info is: {'s': {'url': 'https://ted.mybluemix.net/', 'domain': 'ted.mybluemix.net'}}
+[url, filename] = https://tests.mybluemix.net, https:,,tests.mybluemix.netTSrNxgtUMm
+>>> START https://tests.mybluemix.net
+		web page [https://tests.mybluemix.net] is completed!
+>>> FINISH https://tests.mybluemix.net
+	>>> kill Chrome [8106]
+######## frame info is: {'s': {'url': 'https://tests.mybluemix.net/', 'domain': 'tests.mybluemix.net'}}
+[url, filename] = https://testsite.mybluemix.net, https:,,testsite.mybluemix.netT9rHVcSgZR
+>>> START https://testsite.mybluemix.net
+		web page [https://testsite.mybluemix.net] is completed!
+>>> FINISH https://testsite.mybluemix.net
+	>>> kill Chrome [8233]
+######## frame info is: {'s': {'url': 'https://testsite.mybluemix.net/', 'domain': 'testsite.mybluemix.net'}}
+[url, filename] = https://text-to-speech-demo.mybluemix.net, https:,,text-to-speech-demo.myGxHjosAUXI
+>>> START https://text-to-speech-demo.mybluemix.net
+		web page [https://text-to-speech-demo.mybluemix.net] is completed!
+>>> FINISH https://text-to-speech-demo.mybluemix.net
+	>>> kill Chrome [8361]
+######## frame info is: {'s': {'url': 'https://text-to-speech-demo.ng.bluemix.net/', 'domain': 'text-to-speech-demo.ng.bluemix.net'}}
+[url, filename] = https://thalamus.mybluemix.net, https:,,thalamus.mybluemix.netsUwTvilYDV
+>>> START https://thalamus.mybluemix.net
+		web page [https://thalamus.mybluemix.net] is completed!
+>>> FINISH https://thalamus.mybluemix.net
+	>>> kill Chrome [8488]
+######## frame info is: {'s': {'url': 'https://thalamus.mybluemix.net/dashboard', 'domain': 'thalamus.mybluemix.net'}}
+[url, filename] = https://thesandbox.mybluemix.net, https:,,thesandbox.mybluemix.nb1rnBV7qWg
+>>> START https://thesandbox.mybluemix.net
+		web page [https://thesandbox.mybluemix.net] is completed!
+>>> FINISH https://thesandbox.mybluemix.net
+	>>> kill Chrome [8618]
+######## frame info is: {'s': {'url': 'https://thesandbox.mybluemix.net/', 'domain': 'thesandbox.mybluemix.net'}}
+[url, filename] = https://tigre.mybluemix.net, https:,,tigre.mybluemix.netJCNAQTKoqk
+>>> START https://tigre.mybluemix.net
+		web page [https://tigre.mybluemix.net] is completed!
+>>> FINISH https://tigre.mybluemix.net
+	>>> kill Chrome [8746]
+######## frame info is: {'s': {'url': 'https://tigre.mybluemix.net/', 'domain': 'tigre.mybluemix.net'}}
+[url, filename] = https://titles.mybluemix.net, https:,,titles.mybluemix.netjk82e1V9Z5
+>>> START https://titles.mybluemix.net
+		web page [https://titles.mybluemix.net] is completed!
+>>> FINISH https://titles.mybluemix.net
+	>>> kill Chrome [8871]
+######## frame info is: {'s': {'url': 'https://titles.mybluemix.net/', 'domain': 'titles.mybluemix.net'}}
+[url, filename] = https://tmobile.mybluemix.net, https:,,tmobile.mybluemix.netsT9moIB2li
+>>> START https://tmobile.mybluemix.net
+		web page [https://tmobile.mybluemix.net] is completed!
+>>> FINISH https://tmobile.mybluemix.net
+	>>> kill Chrome [8997]
+######## frame info is: {'s': {'url': 'https://tmobile.mybluemix.net/', 'domain': 'tmobile.mybluemix.net'}}
+[url, filename] = https://tools.mybluemix.net, https:,,tools.mybluemix.netEqCDiwFyL9
+>>> START https://tools.mybluemix.net
+		web page [https://tools.mybluemix.net] is TIMEOUT!
+>>> FINISH https://tools.mybluemix.net
+	>>> kill Chrome [9127]
+######## frame info is: {'s': {'url': 'https://tools.mybluemix.net/', 'domain': 'tools.mybluemix.net'}}
+[url, filename] = https://tpl.mybluemix.net, https:,,tpl.mybluemix.neto0yVuh93it
+>>> START https://tpl.mybluemix.net
+		web page [https://tpl.mybluemix.net] is completed!
+>>> FINISH https://tpl.mybluemix.net
+	>>> kill Chrome [9253]
+######## frame info is: {'s': {'url': 'https://tpl.mybluemix.net/', 'domain': 'tpl.mybluemix.net'}}
+[url, filename] = https://tracking.mybluemix.net, https:,,tracking.mybluemix.netIw8gX9JvHF
+>>> START https://tracking.mybluemix.net
+		web page [https://tracking.mybluemix.net] is completed!
+>>> FINISH https://tracking.mybluemix.net
+	>>> kill Chrome [9381]
+######## frame info is: {'s': {'url': 'https://tracking.mybluemix.net/', 'domain': 'tracking.mybluemix.net'}}
+[url, filename] = https://tracy.mybluemix.net, https:,,tracy.mybluemix.net34THx5ZXFg
+>>> START https://tracy.mybluemix.net
+		web page [https://tracy.mybluemix.net] is completed!
+>>> FINISH https://tracy.mybluemix.net
+	>>> kill Chrome [9507]
+######## frame info is: {'s': {'url': 'https://tracy.mybluemix.net/', 'domain': 'tracy.mybluemix.net'}}
+[url, filename] = https://tree.mybluemix.net, https:,,tree.mybluemix.netScgBh3snCH
+>>> START https://tree.mybluemix.net
+		web page [https://tree.mybluemix.net] is completed!
+>>> FINISH https://tree.mybluemix.net
+	>>> kill Chrome [9633]
+######## frame info is: {'s': {'url': 'https://tree.mybluemix.net/', 'domain': 'tree.mybluemix.net'}}
+[url, filename] = https://trident.mybluemix.net, https:,,trident.mybluemix.net9jIDzLlOdB
+>>> START https://trident.mybluemix.net
+		web page [https://trident.mybluemix.net] is completed!
+>>> FINISH https://trident.mybluemix.net
+	>>> kill Chrome [9761]
+######## frame info is: {'s': {'url': 'https://trident.mybluemix.net/', 'domain': 'trident.mybluemix.net'}}
+[url, filename] = https://troy.mybluemix.net, https:,,troy.mybluemix.netlApczCvWOI
+>>> START https://troy.mybluemix.net
+		web page [https://troy.mybluemix.net] is completed!
+>>> FINISH https://troy.mybluemix.net
+	>>> kill Chrome [9886]
+######## frame info is: {'s': {'url': 'https://troy.mybluemix.net/', 'domain': 'troy.mybluemix.net'}}
+[url, filename] = https://turing.mybluemix.net, https:,,turing.mybluemix.netXdCUhOKuZb
+>>> START https://turing.mybluemix.net
+		web page [https://turing.mybluemix.net] is completed!
+>>> FINISH https://turing.mybluemix.net
+	>>> kill Chrome [10011]
+######## frame info is: {'s': {'url': 'https://turing.mybluemix.net/', 'domain': 'turing.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://updates.mybluemix.net, https:,,updates.mybluemix.netZ65xsnqYeb
+>>> START https://updates.mybluemix.net
+		web page [https://updates.mybluemix.net] is completed!
+>>> FINISH https://updates.mybluemix.net
+	>>> kill Chrome [10138]
+######## frame info is: {'s': {'url': 'https://updates.mybluemix.net/', 'domain': 'updates.mybluemix.net'}}
+[url, filename] = https://upgrade.mybluemix.net, https:,,upgrade.mybluemix.netsAqmtiIRc1
+>>> START https://upgrade.mybluemix.net
+		web page [https://upgrade.mybluemix.net] is completed!
+>>> FINISH https://upgrade.mybluemix.net
+	>>> kill Chrome [10269]
+######## frame info is: {'s': {'url': 'https://upgrade.mybluemix.net/', 'domain': 'upgrade.mybluemix.net'}}
+[url, filename] = https://usbank.mybluemix.net, https:,,usbank.mybluemix.netnHphNz1JBe
+>>> START https://usbank.mybluemix.net
+		web page [https://usbank.mybluemix.net] is completed!
+>>> FINISH https://usbank.mybluemix.net
+	>>> kill Chrome [10397]
+######## frame info is: {'s': {'url': 'https://usbank.mybluemix.net/', 'domain': 'usbank.mybluemix.net'}}
+[url, filename] = https://verdi.mybluemix.net, https:,,verdi.mybluemix.net6ac2EizKDf
+>>> START https://verdi.mybluemix.net
+		web page [https://verdi.mybluemix.net] is completed!
+>>> FINISH https://verdi.mybluemix.net
+	>>> kill Chrome [10524]
+######## frame info is: {'s': {'url': 'https://verdi.mybluemix.net/', 'domain': 'verdi.mybluemix.net'}}
+[url, filename] = https://vip.mybluemix.net, https:,,vip.mybluemix.netzTxlBgZmVk
+>>> START https://vip.mybluemix.net
+		web page [https://vip.mybluemix.net] is completed!
+>>> FINISH https://vip.mybluemix.net
+	>>> kill Chrome [10652]
+######## frame info is: {'s': {'url': 'https://vip.mybluemix.net/', 'domain': 'vip.mybluemix.net'}}
+[url, filename] = https://vista.mybluemix.net, https:,,vista.mybluemix.net5qbQxD9w6B
+>>> START https://vista.mybluemix.net
+		web page [https://vista.mybluemix.net] is completed!
+>>> FINISH https://vista.mybluemix.net
+	>>> kill Chrome [10778]
+######## frame info is: {'s': {'url': 'https://vista.mybluemix.net/', 'domain': 'vista.mybluemix.net'}}
+[url, filename] = https://vm.mybluemix.net, https:,,vm.mybluemix.netGMAzIYy53O
+>>> START https://vm.mybluemix.net
+		web page [https://vm.mybluemix.net] is completed!
+>>> FINISH https://vm.mybluemix.net
+	>>> kill Chrome [10905]
+######## frame info is: {'s': {'url': 'https://vm.mybluemix.net/', 'domain': 'vm.mybluemix.net'}}
+[url, filename] = https://vpa.mybluemix.net, https:,,vpa.mybluemix.netTpA1rosYVM
+>>> START https://vpa.mybluemix.net
+		web page [https://vpa.mybluemix.net] is completed!
+>>> FINISH https://vpa.mybluemix.net
+	>>> kill Chrome [11031]
+######## frame info is: {'s': {'url': 'https://vpa.mybluemix.net/#/', 'domain': 'vpa.mybluemix.net'}}
+[url, filename] = https://vortex.mybluemix.net, https:,,vortex.mybluemix.netpzGEtYDvh8
+>>> START https://vortex.mybluemix.net
+		web page [https://vortex.mybluemix.net] is completed!
+>>> FINISH https://vortex.mybluemix.net
+	>>> kill Chrome [11158]
+######## frame info is: {'s': {'url': 'https://vortex.mybluemix.net/', 'domain': 'vortex.mybluemix.net'}}
+[url, filename] = https://vr.mybluemix.net, https:,,vr.mybluemix.netyqUziHabNk
+>>> START https://vr.mybluemix.net
+		web page [https://vr.mybluemix.net] is completed!
+>>> FINISH https://vr.mybluemix.net
+	>>> kill Chrome [11284]
+######## frame info is: {'s': {'url': 'https://vr.mybluemix.net/', 'domain': 'vr.mybluemix.net'}}
+[url, filename] = https://vsp.mybluemix.net, https:,,vsp.mybluemix.net69kObsr0aq
+>>> START https://vsp.mybluemix.net
+		web page [https://vsp.mybluemix.net] is completed!
+>>> FINISH https://vsp.mybluemix.net
+	>>> kill Chrome [11408]
+######## frame info is: {'s': {'url': 'https://w3id.alpha.sso.ibm.com/isam/oidc/endpoint/amapp-runtime-oidcidp/authorize?response_type=id_token%20token&state=d21e3791-dacd-488c-87c9-c14c110755dd&nonce=1563800836025&client_id=OWZlZGQ0NDYtMmY0NC00&scope=openid', 'domain': 'w3id.alpha.sso.ibm.com'}, 's-0': {'url': 'https://w3id.alpha.sso.ibm.com/isam/oidc/endpoint/amapp-runtime-oidcidp/authorize?response_type=id_token%20token&state=d21e3791-dacd-488c-87c9-c14c110755dd&nonce=1563800836025&client_id=OWZlZGQ0NDYtMmY0NC00&scope=openid', 'domain': 'w3id.alpha.sso.ibm.com'}}
+		---> Multiple FRAMES
+[url, filename] = https://ward.mybluemix.net, https:,,ward.mybluemix.netyPgtN6hbi7
+>>> START https://ward.mybluemix.net
+		web page [https://ward.mybluemix.net] is TIMEOUT!
+>>> FINISH https://ward.mybluemix.net
+	>>> kill Chrome [11538]
+######## frame info is: {'s': {'url': 'https://ward.mybluemix.net/', 'domain': 'ward.mybluemix.net'}, 's-0': {'url': 'about:blank', 'domain': 'ward.mybluemix.net'}}
+		---> Multiple FRAMES
+[url, filename] = https://watch.mybluemix.net, https:,,watch.mybluemix.netDbrEYxKtLk
+>>> START https://watch.mybluemix.net
+		web page [https://watch.mybluemix.net] is completed!
+>>> FINISH https://watch.mybluemix.net
+	>>> kill Chrome [11675]
+######## frame info is: {'s': {'url': 'https://watch.mybluemix.net/', 'domain': 'watch.mybluemix.net'}}
+[url, filename] = https://webaccess.mybluemix.net, https:,,webaccess.mybluemix.nebuIwUeAPtC
+>>> START https://webaccess.mybluemix.net
+		web page [https://webaccess.mybluemix.net] is completed!
+>>> FINISH https://webaccess.mybluemix.net
+	>>> kill Chrome [11802]
+######## frame info is: {'s': {'url': 'https://webaccess.mybluemix.net/', 'domain': 'webaccess.mybluemix.net'}}
+[url, filename] = https://webdemo.mybluemix.net, https:,,webdemo.mybluemix.netGRE6tZ0Sbc
+>>> START https://webdemo.mybluemix.net
+		web page [https://webdemo.mybluemix.net] is completed!
+>>> FINISH https://webdemo.mybluemix.net
+	>>> kill Chrome [11927]
+######## frame info is: {'s': {'url': 'https://webdemo.mybluemix.net/', 'domain': 'webdemo.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://webserver.mybluemix.net, https:,,webserver.mybluemix.neUMfSom0qTj
+>>> START https://webserver.mybluemix.net
+		web page [https://webserver.mybluemix.net] is completed!
+>>> FINISH https://webserver.mybluemix.net
+	>>> kill Chrome [12116]
+######## frame info is: {'s': {'url': 'https://webserver.mybluemix.net/', 'domain': 'webserver.mybluemix.net'}}
+[url, filename] = http://weinre.mybluemix.net, http:,,weinre.mybluemix.netzpaw0dlVOX
+>>> START http://weinre.mybluemix.net
+		web page [http://weinre.mybluemix.net] is completed!
+>>> FINISH http://weinre.mybluemix.net
+	>>> kill Chrome [12242]
+######## frame info is: {'s': {'url': 'http://weinre.mybluemix.net/', 'domain': 'weinre.mybluemix.net'}}
+[url, filename] = https://weixin.mybluemix.net, https:,,weixin.mybluemix.netF3A4bRPsZB
+>>> START https://weixin.mybluemix.net
+		web page [https://weixin.mybluemix.net] is completed!
+>>> FINISH https://weixin.mybluemix.net
+	>>> kill Chrome [12372]
+######## frame info is: {'s': {'url': 'https://weixin.mybluemix.net/', 'domain': 'weixin.mybluemix.net'}}
+[url, filename] = https://whale.mybluemix.net, https:,,whale.mybluemix.netXC4Z6E8cDa
+>>> START https://whale.mybluemix.net
+		web page [https://whale.mybluemix.net] is completed!
+>>> FINISH https://whale.mybluemix.net
+	>>> kill Chrome [12501]
+######## frame info is: {'s': {'url': 'https://whale.mybluemix.net/', 'domain': 'whale.mybluemix.net'}}
+[url, filename] = https://whiskey.mybluemix.net, https:,,whiskey.mybluemix.netKi8fqVPUzC
+>>> START https://whiskey.mybluemix.net
+		web page [https://whiskey.mybluemix.net] is completed!
+>>> FINISH https://whiskey.mybluemix.net
+	>>> kill Chrome [12626]
+######## frame info is: {'s': {'url': 'https://whiskey.mybluemix.net/', 'domain': 'whiskey.mybluemix.net'}}
+[url, filename] = https://with.mybluemix.net, https:,,with.mybluemix.netQc43pKXNFU
+>>> START https://with.mybluemix.net
+		web page [https://with.mybluemix.net] is completed!
+>>> FINISH https://with.mybluemix.net
+	>>> kill Chrome [12753]
+######## frame info is: {'s': {'url': 'https://with.mybluemix.net/', 'domain': 'with.mybluemix.net'}}
+[url, filename] = https://wk.mybluemix.net, https:,,wk.mybluemix.netGaU2OrocwP
+>>> START https://wk.mybluemix.net
+		web page [https://wk.mybluemix.net] is completed!
+>>> FINISH https://wk.mybluemix.net
+	>>> kill Chrome [12890]
+######## frame info is: {'s': {'url': 'https://wk.mybluemix.net/', 'domain': 'wk.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
+[url, filename] = https://wp1.mybluemix.net, https:,,wp1.mybluemix.netGJzcRp3j8A
+>>> START https://wp1.mybluemix.net
+		web page [https://wp1.mybluemix.net] is completed!
+>>> FINISH https://wp1.mybluemix.net
+	>>> kill Chrome [13017]
+######## frame info is: {'s': {'url': 'https://wp1.mybluemix.net/', 'domain': 'wp1.mybluemix.net'}}
+[url, filename] = https://xanadu.mybluemix.net, https:,,xanadu.mybluemix.netwafYmyCltU
+>>> START https://xanadu.mybluemix.net
+		web page [https://xanadu.mybluemix.net] is completed!
+>>> FINISH https://xanadu.mybluemix.net
+	>>> kill Chrome [13142]
+######## frame info is: {'s': {'url': 'https://xanadu.mybluemix.net/', 'domain': 'xanadu.mybluemix.net'}}
+[url, filename] = https://zaphod.mybluemix.net, https:,,zaphod.mybluemix.netUFdxrBEHM4
+>>> START https://zaphod.mybluemix.net
+		web page [https://zaphod.mybluemix.net] is completed!
+>>> FINISH https://zaphod.mybluemix.net
+	>>> kill Chrome [13269]
+######## frame info is: {'s': {'url': 'https://zaphod.mybluemix.net/', 'domain': 'zaphod.mybluemix.net'}, 's-0': {'url': 'Not same domain', 'domain': 'Not same domain'}}
+		---> Multiple FRAMES
