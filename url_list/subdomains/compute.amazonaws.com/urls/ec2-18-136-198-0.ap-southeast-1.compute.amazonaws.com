@@ -1,0 +1,10 @@
+http://ec2-18-136-198-0.ap-southeast-1.compute.amazonaws.com/contact
+http://ec2-18-136-198-0.ap-southeast-1.compute.amazonaws.com/blog/1
+http://ec2-18-136-198-0.ap-southeast-1.compute.amazonaws.com/category/fashion
+http://ec2-18-136-198-0.ap-southeast-1.compute.amazonaws.com/blog/4
+http://ec2-18-136-198-0.ap-southeast-1.compute.amazonaws.com/featured
+http://ec2-18-136-198-0.ap-southeast-1.compute.amazonaws.com/category/innovation
+http://ec2-18-136-198-0.ap-southeast-1.compute.amazonaws.com/user/login
+http://ec2-18-136-198-0.ap-southeast-1.compute.amazonaws.com/category/one-time4422
+http://ec2-18-136-198-0.ap-southeast-1.compute.amazonaws.com/category/sport
+http://ec2-18-136-198-0.ap-southeast-1.compute.amazonaws.com/

@@ -1,0 +1,10 @@
+http://ec2-52-221-188-171.ap-southeast-1.compute.amazonaws.com/singaporejobssearchcategorysales-business-development
+http://ec2-52-221-188-171.ap-southeast-1.compute.amazonaws.com/singaporejobssearchcategoryhospitality-tourism
+http://ec2-52-221-188-171.ap-southeast-1.compute.amazonaws.com/singaporejobssearchcategoryretail
+http://ec2-52-221-188-171.ap-southeast-1.compute.amazonaws.com/vietnam
+http://ec2-52-221-188-171.ap-southeast-1.compute.amazonaws.com/singaporejobssearchcategoryadmin-operations
+http://ec2-52-221-188-171.ap-southeast-1.compute.amazonaws.com/myanmar
+http://ec2-52-221-188-171.ap-southeast-1.compute.amazonaws.com/privacy
+http://ec2-52-221-188-171.ap-southeast-1.compute.amazonaws.com/
+http://ec2-52-221-188-171.ap-southeast-1.compute.amazonaws.com/terms
+http://ec2-52-221-188-171.ap-southeast-1.compute.amazonaws.com/malaysia

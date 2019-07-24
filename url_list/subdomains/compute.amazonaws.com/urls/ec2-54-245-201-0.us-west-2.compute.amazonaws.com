@@ -1,0 +1,10 @@
+http://ec2-54-245-201-0.us-west-2.compute.amazonaws.com/productweb-conferencing
+http://ec2-54-245-201-0.us-west-2.compute.amazonaws.com/industriesmedia
+http://ec2-54-245-201-0.us-west-2.compute.amazonaws.com/
+http://ec2-54-245-201-0.us-west-2.compute.amazonaws.com/casestudiesforce-management
+http://ec2-54-245-201-0.us-west-2.compute.amazonaws.com/casestudiesliveintent
+http://ec2-54-245-201-0.us-west-2.compute.amazonaws.com/productguided-selling
+http://ec2-54-245-201-0.us-west-2.compute.amazonaws.com/industries
+http://ec2-54-245-201-0.us-west-2.compute.amazonaws.com/productsales-content
+http://ec2-54-245-201-0.us-west-2.compute.amazonaws.com/legalprivacy
+http://ec2-54-245-201-0.us-west-2.compute.amazonaws.com/legalcookies

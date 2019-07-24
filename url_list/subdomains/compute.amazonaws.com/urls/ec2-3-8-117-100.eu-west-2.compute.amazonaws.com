@@ -1,0 +1,10 @@
+http://ec2-3-8-117-100.eu-west-2.compute.amazonaws.com/home
+http://ec2-3-8-117-100.eu-west-2.compute.amazonaws.com/homegenre3?movielist=&gname=
+http://ec2-3-8-117-100.eu-west-2.compute.amazonaws.com/homegenre5?movielist=&gname=
+http://ec2-3-8-117-100.eu-west-2.compute.amazonaws.com/homegenre4movie25
+http://ec2-3-8-117-100.eu-west-2.compute.amazonaws.com/homegenre8?movielist=&gname=
+http://ec2-3-8-117-100.eu-west-2.compute.amazonaws.com/homegenre1?movielist=&gname=
+http://ec2-3-8-117-100.eu-west-2.compute.amazonaws.com/homegenre2?movielist=&gname=
+http://ec2-3-8-117-100.eu-west-2.compute.amazonaws.com/homegenre5movie24
+http://ec2-3-8-117-100.eu-west-2.compute.amazonaws.com/
+http://ec2-3-8-117-100.eu-west-2.compute.amazonaws.com/homegenre6?movielist=&gname=

@@ -141,7 +141,7 @@ class Crawler(object):
 '''
 def run(domain, type):
 	filepath = None
-	max_url_num = 50
+	max_url_num = 10
 	if type == 'SubDomain':
 		if not domain:
 			raise Exception("The DOMAIN for SubDomain should not be None")

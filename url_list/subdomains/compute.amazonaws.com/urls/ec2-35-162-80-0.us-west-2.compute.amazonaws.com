@@ -1,0 +1,10 @@
+http://ec2-35-162-80-0.us-west-2.compute.amazonaws.com/managerhtml
+http://ec2-35-162-80-0.us-west-2.compute.amazonaws.com/docsrealm-howto.html
+http://ec2-35-162-80-0.us-west-2.compute.amazonaws.com/docsmanager-howto.html
+http://ec2-35-162-80-0.us-west-2.compute.amazonaws.com/docschangelog.html
+http://ec2-35-162-80-0.us-west-2.compute.amazonaws.com/docs
+http://ec2-35-162-80-0.us-west-2.compute.amazonaws.com/docsappdev
+http://ec2-35-162-80-0.us-west-2.compute.amazonaws.com/examples
+http://ec2-35-162-80-0.us-west-2.compute.amazonaws.com/
+http://ec2-35-162-80-0.us-west-2.compute.amazonaws.com/docsjndi-datasource-examples-howto.html
+http://ec2-35-162-80-0.us-west-2.compute.amazonaws.com/docsdeployer-howto.html

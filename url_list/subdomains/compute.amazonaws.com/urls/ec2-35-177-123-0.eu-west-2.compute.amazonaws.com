@@ -1,0 +1,10 @@
+http://ec2-35-177-123-0.eu-west-2.compute.amazonaws.com/www.tepilo.comprivacy-policy
+http://ec2-35-177-123-0.eu-west-2.compute.amazonaws.com/www.tepilo.comhouse-valuation
+http://ec2-35-177-123-0.eu-west-2.compute.amazonaws.com/my-tepilo
+http://ec2-35-177-123-0.eu-west-2.compute.amazonaws.com/www.tepilo.comzoopla
+http://ec2-35-177-123-0.eu-west-2.compute.amazonaws.com/www.tepilo.comfaq
+http://ec2-35-177-123-0.eu-west-2.compute.amazonaws.com/www.tepilo.comtestimonials
+http://ec2-35-177-123-0.eu-west-2.compute.amazonaws.com/www.tepilo.comglossary
+http://ec2-35-177-123-0.eu-west-2.compute.amazonaws.com/www.tepilo.com
+http://ec2-35-177-123-0.eu-west-2.compute.amazonaws.com/www.tepilo.comrightmove
+http://ec2-35-177-123-0.eu-west-2.compute.amazonaws.com/

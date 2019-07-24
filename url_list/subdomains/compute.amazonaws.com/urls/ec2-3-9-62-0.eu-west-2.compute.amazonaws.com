@@ -1,0 +1,10 @@
+http://ec2-3-9-62-0.eu-west-2.compute.amazonaws.com/cookie-policy
+http://ec2-3-9-62-0.eu-west-2.compute.amazonaws.com/terms-of-use
+http://ec2-3-9-62-0.eu-west-2.compute.amazonaws.com/complaints
+http://ec2-3-9-62-0.eu-west-2.compute.amazonaws.com/company-information
+http://ec2-3-9-62-0.eu-west-2.compute.amazonaws.com/cookie-policycookie-policy
+http://ec2-3-9-62-0.eu-west-2.compute.amazonaws.com/cookie-policycareers
+http://ec2-3-9-62-0.eu-west-2.compute.amazonaws.com/privacy-policy
+http://ec2-3-9-62-0.eu-west-2.compute.amazonaws.com/cookie-policycompany-information
+http://ec2-3-9-62-0.eu-west-2.compute.amazonaws.com/
+http://ec2-3-9-62-0.eu-west-2.compute.amazonaws.com/careers

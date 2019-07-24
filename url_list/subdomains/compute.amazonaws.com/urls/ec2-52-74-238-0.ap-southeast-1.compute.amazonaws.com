@@ -1,0 +1,10 @@
+http://ec2-52-74-238-0.ap-southeast-1.compute.amazonaws.com/www.squadplatform.comsolutions
+http://ec2-52-74-238-0.ap-southeast-1.compute.amazonaws.com/contact-us
+http://ec2-52-74-238-0.ap-southeast-1.compute.amazonaws.com/solutions
+http://ec2-52-74-238-0.ap-southeast-1.compute.amazonaws.com/blog
+http://ec2-52-74-238-0.ap-southeast-1.compute.amazonaws.com/platform#people-tools
+http://ec2-52-74-238-0.ap-southeast-1.compute.amazonaws.com/careers
+http://ec2-52-74-238-0.ap-southeast-1.compute.amazonaws.com/our-process
+http://ec2-52-74-238-0.ap-southeast-1.compute.amazonaws.com/privacy-policy
+http://ec2-52-74-238-0.ap-southeast-1.compute.amazonaws.com/demo
+http://ec2-52-74-238-0.ap-southeast-1.compute.amazonaws.com/

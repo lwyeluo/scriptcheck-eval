@@ -1,0 +1,10 @@
+http://ec2-13-229-77-0.ap-southeast-1.compute.amazonaws.com/examples
+http://ec2-13-229-77-0.ap-southeast-1.compute.amazonaws.com/managerstatus
+http://ec2-13-229-77-0.ap-southeast-1.compute.amazonaws.com/docssecurity-howto.html
+http://ec2-13-229-77-0.ap-southeast-1.compute.amazonaws.com/docssetup.html
+http://ec2-13-229-77-0.ap-southeast-1.compute.amazonaws.com/
+http://ec2-13-229-77-0.ap-southeast-1.compute.amazonaws.com/docs
+http://ec2-13-229-77-0.ap-southeast-1.compute.amazonaws.com/docsappdev
+http://ec2-13-229-77-0.ap-southeast-1.compute.amazonaws.com/docsdeployer-howto.html
+http://ec2-13-229-77-0.ap-southeast-1.compute.amazonaws.com/docsapiindex.html
+http://ec2-13-229-77-0.ap-southeast-1.compute.amazonaws.com/docsrealm-howto.html

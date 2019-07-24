@@ -1,0 +1,9 @@
+http://ec2-34-222-2-0.us-west-2.compute.amazonaws.com/catalog1items
+http://ec2-34-222-2-0.us-west-2.compute.amazonaws.com/catalog1items10
+http://ec2-34-222-2-0.us-west-2.compute.amazonaws.com/catalog2items
+http://ec2-34-222-2-0.us-west-2.compute.amazonaws.com/catalog3items7
+http://ec2-34-222-2-0.us-west-2.compute.amazonaws.com/catalog3items9
+http://ec2-34-222-2-0.us-west-2.compute.amazonaws.com/catalog3items
+http://ec2-34-222-2-0.us-west-2.compute.amazonaws.com/
+http://ec2-34-222-2-0.us-west-2.compute.amazonaws.com/catalog3items8
+http://ec2-34-222-2-0.us-west-2.compute.amazonaws.com/catalog2items6

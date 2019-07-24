@@ -1,0 +1,10 @@
+http://ec2-52-42-141-0.us-west-2.compute.amazonaws.com/traceroute.phpvideo
+http://ec2-52-42-141-0.us-west-2.compute.amazonaws.com/videoabout
+http://ec2-52-42-141-0.us-west-2.compute.amazonaws.com/traceroute.phptestlog1
+http://ec2-52-42-141-0.us-west-2.compute.amazonaws.com/videotraceroute.php
+http://ec2-52-42-141-0.us-west-2.compute.amazonaws.com/traceroute.php
+http://ec2-52-42-141-0.us-west-2.compute.amazonaws.com/
+http://ec2-52-42-141-0.us-west-2.compute.amazonaws.com/video
+http://ec2-52-42-141-0.us-west-2.compute.amazonaws.com/testlog1
+http://ec2-52-42-141-0.us-west-2.compute.amazonaws.com/traceroute.phpabout
+http://ec2-52-42-141-0.us-west-2.compute.amazonaws.com/about

@@ -1,0 +1,10 @@
+http://ec2-52-57-230-0.eu-central-1.compute.amazonaws.com/HelpApiGET-api-Filters-CalibratorsNames
+http://ec2-52-57-230-0.eu-central-1.compute.amazonaws.com/HelpApiPOST-api-PortalUser-UpdateUser
+http://ec2-52-57-230-0.eu-central-1.compute.amazonaws.com/HelpApiGET-api-SystemAvailability-Chart_ChartType_MultiSite_DisciplineID_SeriesID_SiteID_ParentID_AnalyzerID
+http://ec2-52-57-230-0.eu-central-1.compute.amazonaws.com/HelpApiGET-api-CRMRelSiteGroups
+http://ec2-52-57-230-0.eu-central-1.compute.amazonaws.com/HelpApiGET-api-CRMRelUserDisciplines-ID
+http://ec2-52-57-230-0.eu-central-1.compute.amazonaws.com/HelpApiPUT-api-CRMExaminationItem-ReEnable-ID
+http://ec2-52-57-230-0.eu-central-1.compute.amazonaws.com/HelpApiPUT-api-WidgetConfig
+http://ec2-52-57-230-0.eu-central-1.compute.amazonaws.com/HelpApiGET-api-QCXbarMChart_AnalyzerID_QCChannelID_SiteID_Status_IsExcluded
+http://ec2-52-57-230-0.eu-central-1.compute.amazonaws.com/HelpApiGET-api-CalibrationResults-ID
+http://ec2-52-57-230-0.eu-central-1.compute.amazonaws.com/

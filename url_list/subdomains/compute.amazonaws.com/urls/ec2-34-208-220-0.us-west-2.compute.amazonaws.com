@@ -1,0 +1,10 @@
+http://ec2-34-208-220-0.us-west-2.compute.amazonaws.com/care-typescontinuing-care
+http://ec2-34-208-220-0.us-west-2.compute.amazonaws.com/seniorssenior-living-uskentucky
+http://ec2-34-208-220-0.us-west-2.compute.amazonaws.com/care-typesassisted-living
+http://ec2-34-208-220-0.us-west-2.compute.amazonaws.com/seniorssenior-living-usconnecticut
+http://ec2-34-208-220-0.us-west-2.compute.amazonaws.com/seniorliving-searchwashington_dc
+http://ec2-34-208-220-0.us-west-2.compute.amazonaws.com/errorsnoscript.aspx
+http://ec2-34-208-220-0.us-west-2.compute.amazonaws.com/seniorssenior-living-usflorida
+http://ec2-34-208-220-0.us-west-2.compute.amazonaws.com/seniorliving-searchdenver_co
+http://ec2-34-208-220-0.us-west-2.compute.amazonaws.com/
+http://ec2-34-208-220-0.us-west-2.compute.amazonaws.com/seniorssenior-living-usnew-hampshire

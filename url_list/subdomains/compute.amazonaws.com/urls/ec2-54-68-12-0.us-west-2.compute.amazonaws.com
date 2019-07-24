@@ -1,0 +1,9 @@
+http://ec2-54-68-12-0.us-west-2.compute.amazonaws.com/servicescloud-solutions
+http://ec2-54-68-12-0.us-west-2.compute.amazonaws.com/servicesecommerce-solutions
+http://ec2-54-68-12-0.us-west-2.compute.amazonaws.com/servicesdigital-marketing
+http://ec2-54-68-12-0.us-west-2.compute.amazonaws.com/servicesmobile-applications
+http://ec2-54-68-12-0.us-west-2.compute.amazonaws.com/services
+http://ec2-54-68-12-0.us-west-2.compute.amazonaws.com/
+http://ec2-54-68-12-0.us-west-2.compute.amazonaws.com/servicesdigital-transformation
+http://ec2-54-68-12-0.us-west-2.compute.amazonaws.com/servicesservices
+http://ec2-54-68-12-0.us-west-2.compute.amazonaws.com/servicesbusiness-intelligence
