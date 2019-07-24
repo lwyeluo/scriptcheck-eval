@@ -40,9 +40,8 @@ if __name__ == '__main__':
 	parser.add_argument('--parse-log-with-filename', '-f', type=str, metavar="LOG_FILENAME",
 						help="Parse the result for a give log. Use it with -d.")
 	# --parse-log-for-subdomains -d DOMAIN
-	# --parse-log-for-subdomains --all
 	parser.add_argument('--parse-log-for-subdomains', action='store_true',
-						help="Parse the subdomains' logs for a give DOMAIN (with -d) or ALL domains (with --all)")
+						help="Parse the subdomains' logs for a give DOMAIN (with -d)")
 
 	'''
 		Run Script
@@ -135,17 +134,13 @@ if __name__ == '__main__':
 		test_log(args.parse_log_with_filename, args.domain)
 
 	elif args.parse_log_for_subdomains:
-		from url_list.parseSubdomainsResult import run
+		from result_handler.parseSubdomainsResult import run
 
 		if args.domain:
 			# --parse-log-for-subdomains -d DOMAIN
-			run(args.domain, is_all=False)
-		elif args.all:
-			# --parse-log-for-subdomains --all
-			run(None, is_all=True)
+			run(args.domain)
 		else:
-			raise Exception("Please use '--parse-log-for-subdomains -d DOMAIN' "
-							"or '--parse-log-for-subdomains --all'")
+			raise Exception("Please use '--parse-log-for-subdomains -d DOMAIN'")
 
 	####################################################
 	#	Run Script

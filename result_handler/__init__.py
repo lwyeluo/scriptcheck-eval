@@ -4,11 +4,13 @@ import os
 import logging
 
 _dir = os.path.abspath(os.path.dirname(__file__))
-_top_site_dir = os.path.join(os.path.dirname(_dir), "top_sites")
+_url_list_dir = os.path.join(os.path.dirname(_dir), "url_list")
+
+_subdomains_dir = os.path.join(_url_list_dir, "subdomains")
+_topsites_dir = os.path.join(_url_list_dir, "topsitesAlexa")
+
 _log_filename = os.path.join(os.path.dirname(_dir), "result-parse-log.log")
-_result_alexa_dir = os.path.join(_dir, "tim-results")
-_result_china_dir = os.path.join(_dir, "tim-results-china")
-print(_top_site_dir)
+print(_subdomains_dir, _topsites_dir)
 
 
 def outputAtConsole():

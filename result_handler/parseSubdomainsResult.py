@@ -2,6 +2,7 @@
 
 '''
 Parse the logs for subdomains
+	For each log, we only record the frames and the events for setting document.domain
 '''
 
 
@@ -9,7 +10,7 @@ import os
 import re
 import threadpool
 from multiprocessing import Process, Manager
-from url_list import _subdomains_dir
+from result_handler import _subdomains_dir
 
 
 '''
@@ -107,43 +108,27 @@ The entry class
 '''
 class ParseSubDomain(object):
 
-	def __init__(self, domain=None, is_all=False):
+	def __init__(self, domain=None):
 		self.domain = domain
-		self.is_all = is_all
 
 		self.thread_num = 40
 
-	def runDomain(self, domain, out_file_path):
+	def runSubDomain(self, subdomain, input_dir, out_file_path):
 		final_results = []
 
 		try:
-			dir = os.path.join(_subdomains_dir, domain)
-			log_dir = os.path.join(dir, 'results')
-			urls = os.listdir(log_dir)
+			urls = os.listdir(input_dir)
 
-			# create a thread pool
-			task_pool = threadpool.ThreadPool(self.thread_num)
-			request_list = []
-
-			# add task
-			tasks = []  # save the ParseSubDomainLog instance
 			for url in urls:
-				log_path = os.path.join(log_dir, url)
+				log_path = os.path.join(input_dir, url)
 
 				# create a new ParseSubDomainLog instance
 				p = ParseSubDomainLog()
-				tasks.append(p)
 
-				# add task into threadpool
-				request_list += threadpool.makeRequests(p.run, [((log_path,), {})])
+				# parse the log
+				p.run(log_path)
 
-			# run the task
-			[task_pool.putRequest(req) for req in request_list]
-			# wait
-			task_pool.wait()
-
-			# read the results
-			for p in tasks:
+				# append the results
 				final_results.append(p.results)
 
 		except Exception as e:
@@ -154,7 +139,10 @@ class ParseSubDomain(object):
 			return
 
 		vuln_results = []
-		with open(out_file_path, 'w') as f:
+		with open(out_file_path, 'a') as f:
+			f.write("\n#####################################################\n")
+			f.write("\t\tSubDomain: %s\n" % subdomain)
+			f.write("#####################################################\n\n")
 			for result in final_results:
 				for path, data in result.items():
 					f.write(">>> Handler %s\n" % path)
@@ -180,48 +168,43 @@ class ParseSubDomain(object):
 
 			f.close()
 
-
-
-
-		return
+		return vuln_results
 
 	def run(self):
-		if self.is_all:
-			# find all domains
-			domains = os.listdir(_subdomains_dir)
+		# find all subdomains
+		domain_dir = os.path.join(_subdomains_dir, self.domain)
+		if not os.path.exists(domain_dir):
+			raise Exception("Wrong domain. %s does not exist" % domain_dir)
+		log_dir = os.path.join(domain_dir, 'results')
+		subdomains = os.listdir(log_dir)
 
-			# collect the results for each process
-			jobs = []
+		# output_filepath
+		output_dir = os.path.join(_subdomains_dir, self.domain)
+		output_filepath = os.path.join(output_dir, "parsed-results")
 
-			# start process
-			for domain in domains:
-				# output_filepath
-				output_dir = os.path.join(_subdomains_dir, domain)
-				output_filepath = os.path.join(output_dir, "parsed-results")
+		# clear the output_file
+		with open(output_filepath, 'w') as f:
+			f.write('')
+			f.close()
 
-				p = Process(target=self.runDomain, args=(domain, output_filepath))
-				p.daemon = False
-				jobs.append(p)
-				p.start()
+		# start parser
+		vuln_results = []
+		for subdomain in subdomains:
+			input_dir = os.path.join(log_dir, subdomain)
+			vuln_result = self.runSubDomain(subdomain, input_dir, output_filepath)
+			if vuln_result:
+				vuln_results.append({subdomain: vuln_result})
 
-			# wait for the termination
-			for job in jobs:
-				job.join()
-
-		elif self.domain:
-			# output_filepath
-			output_dir = os.path.join(_subdomains_dir, self.domain)
-			output_filepath = os.path.join(output_dir, "parsed-results")
-
-			self.runDomain(self.domain, output_filepath)
+		if len(vuln_results) > 0:
+			print("\n\n***************************************************************")
+			print("\t\t I found some web page setting domain!!!")
+			print("***************************************************************")
+			for vuln in vuln_results:
+				print(vuln)
 
 
-def run(domain, is_all=False):
-	p = None
-	if is_all:
-		p = ParseSubDomain(domain=None, is_all=True)
-	elif domain:
-		p = ParseSubDomain(domain=domain, is_all=False)
+def run(domain):
+	p = ParseSubDomain(domain=domain)
 	p.run()
 
 

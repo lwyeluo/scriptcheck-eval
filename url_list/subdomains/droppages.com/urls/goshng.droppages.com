@@ -1,0 +1,10 @@
+https://goshng.droppages.com/terms
+https://goshng.droppages.com/Publication
+https://goshng.droppages.com/Research
+https://goshng.droppages.com/
+https://goshng.droppages.com/SangChulChoi
+https://goshng.droppages.com/Contact
+https://goshng.droppages.com/sitemap
+https://goshng.droppages.com/People
+https://goshng.droppages.com/Project
+https://goshng.droppages.com/News

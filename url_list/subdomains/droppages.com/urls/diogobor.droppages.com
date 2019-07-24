@@ -1,0 +1,10 @@
+https://diogobor.droppages.com/Contact
+https://diogobor.droppages.com/ContactEducation
+https://diogobor.droppages.com/ContactResearch_Interest
+https://diogobor.droppages.com/Education
+https://diogobor.droppages.com/ContactCurriculum_Vitae
+https://diogobor.droppages.com/Curriculum_Vitae
+https://diogobor.droppages.com/ContactContact
+https://diogobor.droppages.com/Research_Interest
+https://diogobor.droppages.com/Sitemap
+https://diogobor.droppages.com/
