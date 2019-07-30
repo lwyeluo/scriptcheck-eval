@@ -1,7 +1,7 @@
 import logging
 import os
 
-_logger = logging.getLogger("myLogger")
+_logger = logging.getLogger('')
 
 _dir = os.path.abspath(os.path.dirname(__file__))
 _log_filename = os.path.join(os.path.dirname(_dir), "result-parse-log.log")
@@ -22,7 +22,7 @@ def outputAtConsole():
 	log_file.setFormatter(logging.Formatter("%(message)s"))
 	log_file.setLevel(logging.DEBUG)
 
-	_logger.addHandler(console)
 	_logger.addHandler(log_file)
+	#_logger.addHandler(console)
 
 outputAtConsole()

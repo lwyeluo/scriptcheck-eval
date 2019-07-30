@@ -6,7 +6,7 @@ import random
 from utils.executor import *
 from run_script.run import RunUrl
 
-from run_script import _subdomains_dir, _log_filename
+from utils.globalDefinition import _subdomains_dir, _log_filename
 from utils.globalDefinition import _random_sample
 
 

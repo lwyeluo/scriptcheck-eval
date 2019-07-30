@@ -6,7 +6,7 @@ import threadpool
 
 from utils.executor import execute
 from utils.regMatch import matchDomainFromURL
-from url_crawler import _subdomains_dir, _topsites_alexa_dir
+from utils.globalDefinition import _subdomains_dir, _topsites_dir
 from url_crawler.crawlImpl import CrawlerImpl
 
 
@@ -72,7 +72,7 @@ def run(domain, type):
 		filepath = os.path.join(filedir, "reachable_subdomains")
 
 	elif type == 'Alexa':
-		filepath = os.path.join(_topsites_alexa_dir, "reachable_domains")
+		filepath = os.path.join(_topsites_dir, "reachable_domains")
 		max_url_num = 10
 
 	elif type == 'China':

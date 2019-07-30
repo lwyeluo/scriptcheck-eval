@@ -8,15 +8,18 @@ The subdomains are saved in a json file in _target_subdomains_json_file
 '''
 
 from url_crawler.crawlImpl import CrawlerImpl
-from document_domain import _urls_dir, _target_subdomains_json_file
+from document_domain import _urls_dir
+from utils.globalDefinition import _target_subdomains_json_file
 from document_domain.manualHomePage import _homepage_subdomains
 from utils.executor import execute
 import json
+import threadpool
 
 
 class CrawlSubDomainURL(object):
 	def __init__(self):
 		self.max_url_num = 50
+		self.thread_num = 40
 
 		self.urls_key = 'urls'
 
@@ -32,6 +35,8 @@ class CrawlSubDomainURL(object):
 		pass
 
 	def crawl(self):
+		task_args = []
+
 		input_data = {}
 		with open(_target_subdomains_json_file, 'r') as f:
 			input_data = json.load(f)
@@ -49,13 +54,15 @@ class CrawlSubDomainURL(object):
 					continue
 				urls = [homepage]
 
-			print(">>> TRY [domain, url] = ", domain, urls)
+			# the args for our crawler task
+			arg = [domain, urls, _urls_dir, 1]
+			task_args.append((arg, None))
 
-			# crawl
-			CrawlerImpl(self.max_url_num).get_domain_url(domain=domain,
-														 homepage=urls,
-														 results_dir=_urls_dir,
-														 rule=1)
+		pool = threadpool.ThreadPool(self.thread_num)
+		tasks = threadpool.makeRequests(CrawlerImpl(self.max_url_num).get_domain_url, task_args)
+		for task in tasks:
+			pool.putRequest(task)
+		pool.wait()
 
 def run():
 	CrawlSubDomainURL().crawl()

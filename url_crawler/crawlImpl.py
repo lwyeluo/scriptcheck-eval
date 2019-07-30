@@ -31,15 +31,15 @@ class CrawlerImpl(object):
 		return_set = set()
 
 		try:
-			response = requests.request("GET", url, headers=self.headers, timeout=10)
+			response = requests.request("GET", url, headers=self.headers, timeout=10, allow_redirects=False)
 			selector = etree.HTML(response.text, parser=etree.HTMLParser(encoding='utf-8'))
 
 			if response.status_code != 200:
-				return return_set
+				return None
 
 		except Exception as e:
 			# print("Fail to load URL", e)
-			return return_set
+			return None
 
 		try:
 			context = selector.xpath('//a/@href')
@@ -47,7 +47,12 @@ class CrawlerImpl(object):
 				try:
 					if i[0] == "j":
 						continue
-					if i[0] == "/":
+					if i.find('//') == 0:
+						u = i[2:]
+						return_set.add('https://' + u)
+						return_set.add('http://' + u)
+						continue
+					elif i[0] == "/":
 						i = url + i.replace("/", "")
 					return_set.add(i)
 				except Exception as e:
@@ -76,26 +81,32 @@ class CrawlerImpl(object):
 			1: the crawled url must have the same domain with @domain
 	'''
 	def get_domain_url(self, domain, homepage, results_dir, rule=0):
+		print(">>> TRY [domain, url] = ", domain, homepage)
 		urls = set()
 		url_q = queue.Queue()
 
 		# add the home page
 		if isinstance(homepage, list):
 			for h in homepage:
-				urls.add(h)
+				# urls.add(h)
 				url_q.put(h)
 		elif isinstance(homepage, str):
-			urls.add(homepage)
+			# urls.add(homepage)
 			url_q.put(homepage)
 
 		# crawler
 		while not url_q.empty() and len(urls) < self.max_url_num:
 			url = url_q.get()
 			return_set = self.requests_for_url(url, domain, rule)
+			if return_set is None:
+				continue
+			else:
+				urls.add(url)
+
 			print(url, len(urls), url_q.qsize(), len(return_set))
 			for return_url in return_set:
 				if return_url not in urls:
-					urls.add(return_url)
+					#urls.add(return_url)
 					url_q.put(return_url)
 				if len(urls) >= self.max_url_num:
 					break

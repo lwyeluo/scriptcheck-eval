@@ -3,7 +3,7 @@
 import os
 import requests
 import threadpool
-from url_crawler import _subdomains_dir
+from utils.globalDefinition import _subdomains_dir
 
 
 class CrawlerSubDomain(object):

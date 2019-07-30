@@ -1,1 +1,0 @@
-http://www.neoseeker.com

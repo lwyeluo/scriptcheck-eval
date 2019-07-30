@@ -60,12 +60,21 @@ python3 evaluate.py --parse-log-for-subdomains --all
 ### for Alexa top sites
 
 ```
+# backup 
+rm -rf url_list/topsitesAlexa/results.bak
+mv url_list/topsitesAlexa/results url_list/topsitesAlexa/results.bak
 # get the home pages
 python3 evaluate.py --parse-homepage --Alexa
 # crawl urls
 python3 evaluate.py --crawl-url --Alexa
 # run the urls
 python3 evaluate.py --run-alexa-top-sites
+
+# for document.domain
+# crawl urls
+python3 evaluate.py --crawl-url --Alexa-subdomains
+# run the urls
+python3 evaluate.py --run-alexa-top-sites --Alexa-subdomains
 ```
 
 ### for China top 500 sites

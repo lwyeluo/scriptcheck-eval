@@ -3,14 +3,14 @@
 import os
 import requests
 import threadpool
-from url_crawler import _topsites_alexa_dir
+from utils.globalDefinition import _topsites_dir
 
 
 class CrawlerTopSites(object):
 
 	def __init__(self):
-		self.domain_file = os.path.join(_topsites_alexa_dir, "raw_domains")
-		self.domain_reachable_file = os.path.join(_topsites_alexa_dir, "reachable_domains")
+		self.domain_file = os.path.join(_topsites_dir, "raw_domains")
+		self.domain_reachable_file = os.path.join(_topsites_dir, "reachable_domains")
 
 		self.http_headers = {
 			'pragma': "no-cache",
@@ -31,7 +31,7 @@ class CrawlerTopSites(object):
 		for url in ["https://www." + domain, "http://www." + domain,
 					"https://" + domain, "http://" + domain]:
 			try:
-				response = requests.request("GET", url, headers=self.http_headers, timeout=10)
+				response = requests.request("GET", url, headers=self.http_headers, timeout=10, allow_redirects=False)
 				print(">>> try %s: the status code is %d" % (url, response.status_code))
 				if response.status_code == 200:
 					return url

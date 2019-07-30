@@ -29,7 +29,7 @@ if __name__ == '__main__':
 	# --crawl-url -d DOMAIN | --crawl-url --Alexa
 	parser.add_argument('--crawl-url', action='store_true',
 						help='For subdomains, crawl urls for a DOMAIN (with -d).'
-							 'For top sites, use with --Alexa.'
+							 'For top sites, use with --Alexa. '
 							 'For document.domain of top sites. use with --Alexa-subdomains')
 
 	'''
@@ -49,7 +49,8 @@ if __name__ == '__main__':
 		Run Script
 	'''
 	# --run-alexa-top-sites
-	parser.add_argument('--run-alexa-top-sites', action='store_true', help='Run the Alexa top sites')
+	parser.add_argument('--run-alexa-top-sites', action='store_true', help='Run the Alexa top sites. '
+							 'For document.domain of top sites. use with --Alexa-subdomains')
 	# -c MACHINE_ID
 	parser.add_argument('--run-china-top-sites', '-c', type=int, metavar="MACHINE_INDEX",
 						help='Run the China top sites')
@@ -79,7 +80,7 @@ if __name__ == '__main__':
 			# TODO
 			pass
 		elif args.Alexa:
-			from url_crawler.topsitesAlexa import run
+			from top_sites.homePageForTopsitesAlexa import run
 
 			run()
 		else:
@@ -159,10 +160,16 @@ if __name__ == '__main__':
 		run(args.domain)
 
 	elif args.run_alexa_top_sites:
-		# --run-alexa-top-sites
-		from run_script import runTopSite
+		# --run-alexa-top-sites --Alexa-subdomains
+		if args.Alexa_subdomains:
+			from document_domain.runSubDomains import run
 
-		runTopSite.run()
+			run()
+		else:
+			# --run-alexa-top-sites
+			from top_sites import runTopSite
+
+			runTopSite.run()
 
 	elif args.run_china_top_sites != None:
 		# -c MACHINE_ID

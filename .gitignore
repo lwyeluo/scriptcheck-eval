@@ -13,6 +13,7 @@ result_handler/tim-results-china-*
 
 url_list/subdomains/*/results/
 url_list/topsitesAlexa/results/
+url_list/topsitesAlexa/results.bak/
 document_domain/results/
 
 __pycache__/

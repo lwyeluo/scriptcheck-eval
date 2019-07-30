@@ -12,8 +12,8 @@ from utils.globalDefinition import _random_sample
 
 
 class RunSubDomains(object):
-    def __init__(self, domain):
-        # the urls for a domain
+    def __init__(self):
+        # the urls
         self._urls_dir = _urls_dir
         # to save the Chrome's logs
         self._results_dir = os.path.join(_dir, "results")
@@ -62,5 +62,5 @@ class RunSubDomains(object):
         execute("cp %s %s" % (_log_filename, self._results_log_filename))
 
 
-def run(domain):
-    RunSubDomains(domain).run()
+def run():
+    RunSubDomains().run()
