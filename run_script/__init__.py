@@ -41,6 +41,3 @@ _node_filename = os.path.join(_dir, "find_recursive_subframes.js")
 # timeout for each webpage
 _timeout = 180
 _timeout_for_node = 10
-
-# for randomize the file name
-_random_sample = string.ascii_letters + string.digits

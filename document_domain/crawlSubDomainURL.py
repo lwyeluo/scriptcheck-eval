@@ -16,7 +16,7 @@ import json
 
 class CrawlSubDomainURL(object):
 	def __init__(self):
-		self.max_url_num = 100
+		self.max_url_num = 50
 
 		self.urls_key = 'urls'
 

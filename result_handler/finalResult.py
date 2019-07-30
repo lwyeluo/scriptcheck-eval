@@ -1,7 +1,7 @@
 # coding=utf-8
 
 from result_handler.vulnWebPage import VulnWebPage
-from result_handler import _logger
+from utils.logger import _logger
 
 
 class FinalResultList(object):

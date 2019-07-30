@@ -6,7 +6,8 @@ import random
 from utils.executor import *
 from run_script.run import RunUrl
 
-from run_script import _result_log_dir_for_china, _dir, _random_sample
+from run_script import _result_log_dir_for_china, _dir
+from utils.globalDefinition import _random_sample
 from top_sites_china import _max_webpage_in_one_domain
 
 

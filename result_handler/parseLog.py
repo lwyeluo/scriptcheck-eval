@@ -3,7 +3,7 @@
 import os
 from result_handler.frameChain import FrameChain
 from result_handler.vulnWebPage import VulnWebPage
-from result_handler import _logger
+from utils.logger import _logger
 
 
 class ParseLog(object):

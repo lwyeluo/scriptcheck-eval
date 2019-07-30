@@ -3,7 +3,7 @@
 import json
 from utils.regMatch import matchRawDomainFromURL
 from utils.tld import isSitePlusTLD
-from result_handler import _logger
+from utils.logger import _logger
 from result_handler import _topsites_output_domain_dir
 
 class FinalResultForFrames(object):

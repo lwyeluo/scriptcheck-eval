@@ -6,7 +6,8 @@ import random
 from utils.executor import *
 from run_script.run import RunUrl
 
-from run_script import _topsites_dir, _random_sample, _log_filename
+from run_script import _topsites_dir, _log_filename
+from utils.globalDefinition import _random_sample
 
 
 class RunTopSites(object):
