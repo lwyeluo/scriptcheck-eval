@@ -1,0 +1,10 @@
+https://www.wallapop.com/
+https://es.wallapop.com/search?catIds=12800&kws=
+https://about.wallapop.com/es
+https://press.wallapop.com/es
+https://press.wallapop.com/es/
+https://es.wallapop.com/search?catIds=12545&kws=
+https://es.wallapop.com/search?catIds=17000&kws=
+https://es.wallapop.com/search?catIds=12467&kws=
+https://es.wallapop.com/search?catIds=200&kws=
+https://team.wallapop.com/es

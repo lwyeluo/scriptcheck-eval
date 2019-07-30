@@ -1,0 +1,10 @@
+https://www.channelnewsasia.com/news/world
+https://www.channelnewsasia.com/news/business
+https://www.channelnewsasia.com/newsasiaboom-or-bust-malaysia-bubble-tea-saturation-11711138
+https://www.channelnewsasia.com/news/livetv
+https://www.channelnewsasia.com/news/asia
+https://www.channelnewsasia.com/action/news/9185742/topic_managing
+https://www.channelnewsasia.com/newssingaporered-lions-to-pay-tribute-to-pioneer-batch-at-2019-national-day-11739864
+https://www.channelnewsasia.com/
+https://www.channelnewsasia.com/newsworld6-us-and-russian-scientists-conduct-4-month-experiment-11739508
+https://cnalifestyle.channelnewsasia.com?cid=cna-home_cnalifestyle_mobile_17092018_cna

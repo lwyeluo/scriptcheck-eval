@@ -1,0 +1,10 @@
+https://www.square-enix-games.com/en_EUdocumentsprivacy
+https://www.square-enix-games.com/en_EUdocumentsABOUTUS
+https://dragonquest.square-enix-games.com/builders2/
+https://www.square-enix-games.com/en_EUdocumentscookies
+https://www.square-enix-games.com/en_EUdocumentslicensing
+https://www.square-enix-games.com/en_EUrss
+https://dragonquest.square-enix-games.com/builders2/en-gb/home/
+https://www.square-enix-games.com/en_EUdocumentsmaterialusagepolicy
+https://www.square-enix-games.com/
+https://ffvii-remake.square-enix-games.com/en-gb

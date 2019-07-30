@@ -1,0 +1,10 @@
+https://www.calibre-ebook.com/about
+https://www.calibre-ebook.com/fr
+https://www.calibre-ebook.com/pt_BR
+https://www.calibre-ebook.com/et
+https://www.calibre-ebook.com/download
+https://www.calibre-ebook.com/changelog.rss
+https://www.calibre-ebook.com/
+https://www.calibre-ebook.com/help
+https://www.calibre-ebook.com/get-involved
+https://www.calibre-ebook.com/demo

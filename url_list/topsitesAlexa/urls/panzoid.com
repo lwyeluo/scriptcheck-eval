@@ -1,0 +1,10 @@
+https://www.panzoid.com/login
+https://www.panzoid.com/about
+https://www.panzoid.com/loginabout
+https://www.panzoid.com/previewclipmaker
+https://www.panzoid.com/toolsvideoeditor
+https://www.panzoid.com/toolsclipmaker
+https://www.panzoid.com/
+https://www.panzoid.com/creations
+https://www.panzoid.com/discussions
+https://www.panzoid.com/toolsbackgrounder

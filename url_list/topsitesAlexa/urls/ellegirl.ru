@@ -1,0 +1,10 @@
+http://www.ellegirl.ru/testss-kem-iz-one-direction-tyi-mogla-byi-vstrechatsya?from=right_tests_block
+http://www.ellegirl.ru/celebrities
+http://www.ellegirl.ru/horoscopes5?from=horoscopes_block
+http://www.ellegirl.ru/articles/5-veschey-iz-garri-pottera-kotoryie-ne-poymut-sovremennyie-podrostki/?from=main_slider_block
+http://www.ellegirl.ru/video/?from=nav_block
+http://www.ellegirl.ru/articles/disney-otreagiroval-na-fleshmob-protiv-holli-beyli-v-roli-rusalochki/?from=main_slider_block
+http://www.ellegirl.ru/articles/mifyi-i-pravda-o-mesyachnyih-5-nelepyih-stereotipov-ob-etih-dnyah/?from=main_slider_block
+http://www.ellegirl.ru/articlestest-kakoy-iz-bratev-vinchesterov-tebe-dostanetsya
+http://www.ellegirl.ru/
+http://www.ellegirl.ru/pagestos

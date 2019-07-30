@@ -1,0 +1,10 @@
+https://www.8kana.com/book11131.html
+https://www.8kana.com/
+https://www.8kana.com/wwwchannelindexgirl
+https://www.8kana.com/shortbook10001.html
+https://www.8kana.com/book10080.html
+https://www.8kana.com/book25208
+https://www.8kana.com/book24480.html
+https://www.8kana.com/communityxzindexdetail268737
+https://www.8kana.com/book13823.html
+https://www.8kana.com/book19365.html

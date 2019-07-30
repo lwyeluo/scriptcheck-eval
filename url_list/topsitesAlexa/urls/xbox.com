@@ -1,0 +1,10 @@
+https://www.xbox.com/en-SG/xbox-one/backward-compatibility?xr=shellnav
+http://www.xbox.com/en-SG/Live/gold
+http://support.xbox.com/browse/my-account?xr=shellnav
+https://www.xbox.com/en-SG/mixer?xr=shellnav
+https://www.xbox.com/en-SG/xbox-one-s?xr=shellnav
+https://www.xbox.com/?xr=mebarnav
+http://support.xbox.com/browse/games?xr=shellnav
+http://www.xbox.com/en-SG/games?xr=shellnav
+https://www.xbox.com/en-SG/xbox-one/consoles?xr=shellnav
+https://www.xbox.com/

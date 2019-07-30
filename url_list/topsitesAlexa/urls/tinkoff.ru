@@ -1,0 +1,10 @@
+https://www.tinkoff.ru/deposit
+https://www.tinkoff.ru/investcatalog
+https://tinkoff-invest.onelink.me/2065005593?pid=tinkoff.ru&c=main_page&af_cost_model=prm.unp
+https://www.tinkoff.ru/businesspayments
+http://static.tinkoff.ru/documents/nojswarning/
+https://www.tinkoff.ru/cardtocard
+https://www.tinkoff.ru/investrecommendations
+https://www.tinkoff.ru/aboutterms-changes-news
+https://www.tinkoff.ru/career
+https://www.tinkoff.ru/

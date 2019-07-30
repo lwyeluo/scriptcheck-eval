@@ -1,0 +1,10 @@
+https://www.hse.ru/ennewscommunity
+https://www.hse.ru/en/org/persons/
+http://aspirantura.hse.ru/en/
+https://perm.hse.ru/en/memoryschool/
+http://sophist.hse.ru/eng/
+https://visa.hse.ru/en/obtain
+https://www.hse.ru/
+http://istudents.hse.ru/
+http://spb.hse.ru/en/
+https://www.hse.ru/en/rrh/announcements/266799089.html?

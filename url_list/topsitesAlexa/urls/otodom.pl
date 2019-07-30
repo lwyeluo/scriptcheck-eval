@@ -1,0 +1,10 @@
+https://www.otodom.pl/inwestycje/lublin/
+https://www.otodom.pl/schowek/
+https://www.otodom.pl/oferta/2-pokojowe-pradnik-czerwony-41m2-w-cenie-350-tys-ID41D2E.html
+https://www.otodom.pl/wynajem/pokoj/
+https://www.otodom.pl/adsindex?search[homepage_ads]=1
+https://www.otodom.pl/inwestycje/?search%5Bfilter_enum_offered_estates_type%5D=houses
+https://www.otodom.pl/oferta/domy-nad-zalewem-zegrzynskim-legionowo-serock-ID41Aln.html
+https://www.otodom.pl/
+https://play.google.com/store/apps/details?id=pl.otodom&referrer=utm_source%3Dotodom.pl%26utm_medium%3Dcpc%26utm_campaign%3Dandroid-app-footer
+https://www.otodom.pl/konto/korzysci/#uzytkownicy-indywidualni

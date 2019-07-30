@@ -1,0 +1,10 @@
+http://comic-walker.com/flos/
+https://comic-walker.com/global
+https://comic-walker.com/contentsdetailKDCW_FS01201025010000_68
+https://comic-walker.com/magazinedetailEB02
+https://comic-walker.com/contentsdetailKDCW_MF02000008010000_68
+https://comic-walker.com/magazinedetailAM15
+https://comic-walker.com/contents/detail/KDCW_MF07200746010000_68/?anker=comicsArchive
+https://comic-walker.com/magazinedetailAM19
+https://comic-walker.com/contentsdetailKDCW_MF00000048010000_68
+https://comic-walker.com/

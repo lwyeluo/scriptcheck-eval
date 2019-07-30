@@ -1,0 +1,10 @@
+https://www.conicyt.cl/blog/2019/06/27/investigadora-de-accdis-es-reconocida-como-mejor-cientifica-joven/
+https://www.conicyt.cl/
+https://www.conicyt.cl
+https://www.conicyt.cl/fondef/2019/06/27/inacap-osorno-inaugura-primer-laboratorio-de-electromovilidad-en-la-region-de-los-lagos/
+https://www.conicyt.cl/becasconicyt/2019/01/03/beca-de-subespecialidad-medica-en-el-extranjero-becas-chile-convocatoria-2019/
+https://www.conicyt.cl/astronomia/2019/03/01/concurso-propuestas-de-observacion-astronomica-para-tiempo-chileno-en-el-observatorio-gemini-sur-2019-b/
+https://www.conicyt.cl/blogcategoryconcursosabiertos
+https://www.conicyt.cl/fondecyt/2019/07/19/estudio-fondecyt-vincula-fiesta-de-la-tirana-con-antiguas-tradiciones-de-la-sierra-peruana/
+https://ayuda.conicyt.cl/hc/es
+https://www.conicyt.cl/fondef/2019/07/04/fonis-realiza-capacitacion-en-seguimiento-y-control-de-proyectos/

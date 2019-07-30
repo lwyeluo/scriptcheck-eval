@@ -1,0 +1,10 @@
+https://www.dni.ru/showbiz201925417157.html
+https://www.facebook.com/www.dni.ru
+https://www.dni.ru/about2014805144131.html
+https://www.dni.ru/release
+https://www.dni.ru/showbiz201943421323.html
+https://www.dni.ru/showbiz2019721428338.html
+https://www.dni.ru/showbiz2019720428288.html
+https://www.dni.ru/personfilippkirkorov
+https://dni.ru/rss.xml
+https://www.dni.ru/

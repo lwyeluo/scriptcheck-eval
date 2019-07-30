@@ -1,0 +1,10 @@
+https://chaseonline.chase.com/
+https://www.chase.com/personal/checking/chase-coupon
+https://www.chase.com/
+https://www.chase.com/digital/online-banking
+https://creditcards.chase.com/
+https://autofinance.chase.com/auto-finance/auto-refinance?offercode=WDXDPXXX02
+https://www.chase.com/personal/savings/bank-cd
+https://www.chase.com/personalmortgagehome-mortgagegetting-startedmortgage-prequalification
+https://www.chase.com/digital/us-open.html
+https://www.chase.com/commercial-bank

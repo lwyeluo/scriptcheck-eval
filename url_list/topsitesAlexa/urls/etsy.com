@@ -1,0 +1,10 @@
+https://www.etsy.com/sg-en/listing/586768953/72k-linen-blank-notebookfabric-cover?ref=hp_prn&bes=1
+https://www.etsy.com/sg-en/listing/155823831/modern-concrete-hook?ref=hp_sr
+https://www.etsy.com/blogen?ref=ftr
+https://www.etsy.com/sg-ensocial-tracking?network=pinterest
+https://www.etsy.com/sg-ensocial-tracking?network=facebook
+https://www.etsy.com/
+https://www.etsy.com/sg-en/listing/564360875/wood-bowling-toy-personalized-wood-toy?ref=hp_prn&bes=1
+https://www.etsy.com/sg-enhelp
+https://www.etsy.com/market/gift_for_men
+https://www.etsy.com/sg-en/listing/236980428/black-ceramic-yerba-mate-gourd-black?ref=hp_sr

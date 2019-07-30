@@ -1,0 +1,10 @@
+https://www.cyberlink.com/products/director-suite/overview_en_US.html
+https://www.cyberlink.com/products/index_en_US.html#mobile_apps
+https://www.cyberlink.com/
+https://u.cyberlink.com/products/umeeting
+https://www.cyberlink.com/downloads/trials/powerdirector-video-editing-software/download_en_US.html
+https://www.cyberlink.com/products/colordirector/features_en_US.html
+https://membership.cyberlink.com/prog/member/service/index.do?lang=ENU
+https://www.cyberlink.com/downloads/trials/powerdvd-ultra/download_en_US.html
+https://www.cyberlink.com/stat/volume-license/enu/index.jsp
+https://www.cyberlink.com/downloads/application-manager/download_en_US.html

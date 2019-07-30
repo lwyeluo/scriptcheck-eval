@@ -1,0 +1,10 @@
+https://www.washingtonexaminer.com/
+https://www.washingtonexaminer.com/opinion/contributors
+https://www.washingtonexaminer.com/business/antitrust-scrutiny-of-amazon-puts-eu-in-league-with-trump-and-warren
+https://www.washingtonexaminer.com/politics
+https://www.washingtonexaminer.com/news/congress
+https://www.washingtonexaminer.com/washington-secrets
+https://www.washingtonexaminer.com/opinion/chick-fil-a-inspires-new-religious-liberty-law-in-texas
+https://www.washingtonexaminer.com/videos/daily-headlines-july-17-2019
+https://www.washingtonexaminer.com/staff
+https://www.washingtonexaminer.com/videos/examining-politics-july-12-2019-mollie-hemingway-carrie-severino

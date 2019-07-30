@@ -1,0 +1,10 @@
+https://politpuzzle.ru/category/ekonomika/
+https://politpuzzle.ru/145667-ovchinka-eta-stoit-vydelki-satanovskij-voshitilsya-realnym-voenno-tehnicheskim-sotrudnichestvom-rossii-i-turtsii/
+https://politpuzzle.ru/145660-eto-unichtozhit-armiyu-zelenskij-podpishet-kievu-prigovor-otdav-prikaz-atakovat-krym/
+https://politpuzzle.ru/145689-na-ukraine-prohodyat-vybory-v-verhovnuyu-radu/
+https://politpuzzle.ru/145643-v-ssha-obyasnili-pochemu-russkie-ne-plachut-o-prodazhe-s-400-strane-nato/
+https://politpuzzle.ru/145647-kedmi-ne-isklyuchil-chto-rossiya-polnostyu-nejtralizuet-vooruzhenie-ssha/
+http://www.politpuzzle.ru/
+https://politpuzzle.ru/145663-kedmi-otsenil-veroyatnost-novoj-vojny-v-persidskom-zalive/
+https://politpuzzle.ru/o-portale/
+https://politpuzzle.ru/polzovatelskoe-soglashenie/

@@ -1,0 +1,10 @@
+https://www.linuxidc.com/topicnews.aspx?tid=16
+https://www.linuxidc.com/topicnews.aspx?tid=2
+https://linux.linuxidc.com/
+https://www.linuxidc.com/aboutus.htm
+https://www.linuxidc.com/help.htm
+https://www.linuxidc.com/
+https://www.linuxidc.com/adsense.htm
+https://www.linuxidc.com/contactus.htm
+http://m.linuxidc.com
+https://m.linuxidc.com/

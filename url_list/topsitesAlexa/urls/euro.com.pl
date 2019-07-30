@@ -1,0 +1,10 @@
+https://www.euro.com.pl/cmspolityka-prywatnosci.bhtml?link=belkaCookie
+https://www.euro.com.pl/cmsag-amica-nowe-lodowki.bhtml?link=boxsg
+https://www.euro.com.pl/produkty-czyszczace,przeznaczenie_2!rtv.bhtml?link=mainnavi
+https://www.euro.com.pl/
+https://www.euro.com.pl/sluchawki.bhtml?link=mainnavi
+https://www.euro.com.pl/kamery-sportowe-i-akcesoria.bhtml?link=mainnavi
+https://www.euro.com.pl/adaptery-i-ladowarki-foto.bhtml?link=mainnavi
+https://www.euro.com.pl/cmstg-katalog-powerbankow-lato-2019.bhtml?link=boxsg
+https://www.euro.com.pl/pralko-suszarki.bhtml?link=mainnavi
+https://www.euro.com.pl/dyski-pendrive-i-napedy.bhtml?link=mainnavi

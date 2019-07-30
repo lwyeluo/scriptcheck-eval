@@ -1,0 +1,10 @@
+https://www.myrecipes.com/bread-recipes
+https://www.myrecipes.com/african-recipes
+https://www.myrecipes.com/french-recipes
+https://www.myrecipes.com/convenience/comfort-food-recipes/brilliant-secret-to-making-better-mashed-potatoes
+https://www.myrecipes.com/
+https://www.myrecipes.com/cake-recipes
+https://www.myrecipes.com/low-sodium-recipes
+https://www.myrecipes.com/how-to
+https://www.myrecipes.com/cookie-recipes
+https://www.myrecipes.com/grilled-beef-recipes

@@ -1,0 +1,10 @@
+https://www.sat24.com/enforecastimagesafrikaforecastcloud
+https://www.sat24.com/encm
+https://www.sat24.com/enasa
+https://www.sat24.com/ennz
+https://www.sat24.com/enforecasth5198585aleppo
+https://www.sat24.com/entz
+https://www.sat24.com/enforecastimageseuropaforecasttemp
+https://www.sat24.com/eneuvisualcloud
+https://it.sat24.com/it/
+https://www.sat24.com/

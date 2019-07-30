@@ -1,0 +1,10 @@
+https://cyrillitsa.ru/about
+https://cyrillitsa.ru/nativnaya-reklama
+https://cyrillitsa.ru/category/sovremennost
+https://cyrillitsa.ru/category/tradition
+https://cyrillitsa.ru
+https://www.cyrillitsa.ru/
+https://cyrillitsa.ru/category/sueverija
+https://cyrillitsa.ru/tradition/86043-smiritsya-chto-yeto-znachit-dlya-pravos.html
+https://cyrillitsa.ru/history/86040-zhivye-plavuny-i-drugie-neobychnye-na.html
+https://cyrillitsa.ru/history/86046-vy-chikh-budete-chto-imelos-vvidu-pod.html

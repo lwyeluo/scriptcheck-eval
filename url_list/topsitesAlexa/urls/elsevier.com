@@ -1,0 +1,10 @@
+https://www.elsevier.com/en-xs/solutions/pure
+https://www.elsevier.com/en-xs/solutions/sciencedirect
+https://www.elsevier.com/
+https://www.elsevier.com/connect/giving-back-the-emerging-role-of-data-and-technology
+https://www.elsevier.com/en-xs/solutions/evolve
+https://www.elsevier.com/en-xs/solutions/mendeley
+https://www.elsevier.com/en-xs/reviewers
+https://checkout.elsevier.com/logout
+https://www.elsevier.com/en-xs
+https://www.elsevier.com/connect/using-technology-to-extract-knowledge-from-data

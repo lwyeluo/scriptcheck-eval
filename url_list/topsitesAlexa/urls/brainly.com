@@ -1,0 +1,10 @@
+https://www.brainly.com/
+https://www.brainly.com/login?entry=2
+https://www.brainly.com/subjectarts
+https://www.brainly.com/subjectbiology
+https://www.brainly.com/all-questions
+https://www.brainly.com/subjectworld_languages
+https://www.brainly.com/subjectcomputers_and_technology
+https://www.brainly.com/subjectgerman
+https://www.brainly.com/pagescommunity_guidelines
+https://www.brainly.com/subjectgeography

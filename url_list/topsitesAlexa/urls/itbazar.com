@@ -1,0 +1,10 @@
+https://www.itbazar.com/
+https://www.itbazar.com/price-list_149_%D8%AF%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%AA%D9%88%D8%B1%20%D9%88%20%D9%82%D8%B7%D8%B9%D8%A7%D8%AA%20Duplicator.aspx
+https://www.itbazar.com/sc_72.aspx
+https://www.itbazar.com/sc_111.aspx
+https://www.itbazar.com/sc_46_1.aspx
+https://www.itbazar.com/morevisitedproduct.aspx
+https://www.itbazar.com/sc_223.aspx
+https://www.itbazar.com/sc_271.aspx
+https://www.itbazar.com/news/%da%af%d9%88%d8%b4%db%8c-%d8%b1%db%8c%d9%84%d9%85%db%8c-3-%d8%a2%db%8c-%d8%a7%d8%b1%d8%b2%d8%a7%d9%86-%d8%aa%d8%b1%db%8c%d9%86-%d8%aa%d9%84%d9%81%d9%86-%d9%87%d9%88%d8%b4%d9%85%d9%86%d8%af/
+https://www.itbazar.com/sc_32.aspx

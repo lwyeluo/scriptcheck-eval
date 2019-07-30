@@ -1,0 +1,10 @@
+https://www.shiksha.com/courses-after-12th/arts
+https://www.shiksha.com/colleges/maharashtra
+https://www.shiksha.com/humanities-social-sciences/linguistics-chp
+https://www.shiksha.com/arts-humanities/articles-st-10
+https://www.shiksha.com/university/lovely-professional-university-jalandhar-28499
+https://www.shiksha.com/college/l-s-raheja-school-of-art-worli-lsrsaw-worli-mumbai-24427
+https://www.shiksha.com/
+https://www.shiksha.com/mba/colleges/mba-colleges-kolkata
+https://www.shiksha.com/university/birla-institute-of-technology-and-science-pilani-467
+https://www.shiksha.com/resources/college-comparison

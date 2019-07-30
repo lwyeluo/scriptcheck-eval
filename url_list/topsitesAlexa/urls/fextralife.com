@@ -1,0 +1,10 @@
+http://divinityoriginalsin.wiki.fextralife.com/Home
+https://fextralife.com/it/
+https://fextralife.com/guides/pillars-of-eternity-2-deadfire-guides/
+https://fextralife.com/2019/07/18/
+https://thewitcher3.wiki.fextralife.com/The+Witcher+3+Wiki
+https://fextralife.com/monster-hunter-world-celebrates-13-million-units-with-login-daily-bonus/
+https://fextralife.com/privacy-policy/
+https://fextralife.com/the-surge-2-10-changes-from-the-prequel/
+https://www.fextralife.com/
+http://fextralife.com/forums/shop.php?mode=cat

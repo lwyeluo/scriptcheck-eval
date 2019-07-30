@@ -1,0 +1,10 @@
+https://go.newspapers.com/content/
+https://www.newspapers.com/title_12694timesadvocate
+https://www.newspapers.com/help/
+https://www.newspapers.com/title_12621lancaster_new_era
+https://www.newspapers.com/title_6187the_missoulian
+https://www.newspapers.com/basics#h-search
+https://www.newspapers.com/title_589the_manhattan_mercury
+https://www.newspapers.com/
+https://www.newspapers.com/free/
+https://blog.newspapers.com

@@ -1,0 +1,10 @@
+https://www.ravelry.com/aboutprivacy
+https://www.ravelry.com/advertisers
+http://www.ravelry.com/invitations
+https://www.ravelry.com/about
+https://www.ravelry.com/accountforgot
+https://www.ravelry.com/aboutapps
+https://www.ravelry.com/aboutterms
+http://blog.ravelry.com
+https://www.ravelry.com/contact
+https://www.ravelry.com/

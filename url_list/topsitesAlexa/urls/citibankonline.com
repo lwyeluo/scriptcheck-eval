@@ -1,0 +1,10 @@
+https://www.citibankonline.com/
+https://www.citibankonline.com/USJRSpandsdetail.do?ID=Rewards
+https://www.citibankonline.com/USJRSpandsdetail.do?ID=CitiBizOverview
+https://www.citibankonline.com/USlogin.do
+https://www.citibankonline.com/USJRSpandsdetail.do?ID=PersonalLinesAag
+https://www.citibankonline.com/USbankingciti.action?ID=banking-overview
+https://www.citibankonline.com/USJRSportaltemplate.do?ID=todays_mortgage_rates&type=buy
+https://www.citibankonline.com/USJRShelpcentermain.do
+https://www.citibankonline.com/JSOregSetup.do?JFP_TOKEN=OQ4KDL7M
+https://www.citibankonline.com/USbankingciti.action?ID=savings-account-overview

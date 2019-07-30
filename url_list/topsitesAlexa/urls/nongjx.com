@@ -1,0 +1,10 @@
+http://www.nongjx.com/
+http://www.nongjx.com/tech_newsdetail34872.html
+http://www.nongjx.com/productt6551list.html
+http://www.nongjx.com/exhi_newst162list.html
+http://www.nongjx.com/productt7034list.html
+http://www.nongjx.com/productt6839list.html
+http://www.nongjx.com/productt6843list.html
+http://www.nongjx.com/productt6940list.html
+http://www.nongjx.com/productt7403list.html
+http://www.nongjx.com/st120975

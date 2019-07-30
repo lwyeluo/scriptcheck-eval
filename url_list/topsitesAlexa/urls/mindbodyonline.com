@@ -1,0 +1,10 @@
+https://www.mindbodyonline.com/companysecurity
+https://www.mindbodyonline.com/terms-of-service
+https://www.mindbodyonline.com/companycareers
+https://www.mindbodyonline.com/companypress
+https://www.mindbodyonline.com/companycontact-us
+https://www.mindbodyonline.com/company
+https://clients.mindbodyonline.com/launch
+https://www.mindbodyonline.com/business
+https://www.mindbodyonline.com/privacy-policy
+https://www.mindbodyonline.com/

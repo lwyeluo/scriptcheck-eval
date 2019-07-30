@@ -1,0 +1,10 @@
+https://www.monografias.com/categorias/Tipos-de-riesgo
+https://www.monografias.com/categorias/Historia-del-arte
+https://www.monografias.com/categorias/Fuentes-del-derecho
+https://www.monografias.com/DerechoCriminologiaindex.shtml
+https://www.monografias.com/categorias/Tipos-de-comunicaci%C3%B3n
+https://www.monografias.com/ptcategoriasbarcos-e-embarca%C3%A7%C3%B5es
+https://www.monografias.com/
+https://www.monografias.com/ptcategoriascorridas-de-autom%C3%B3veis
+https://www.monografias.com/ptcategoriast%C3%AAnis
+https://www.monografias.com/categorias/Historia-de-la-computaci%C3%B3n

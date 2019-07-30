@@ -1,0 +1,10 @@
+https://www.codeproject.com/scriptContentSiteMap.aspx
+https://www.codeproject.com/scriptMembershipOAuthLogOn.aspx?auth=Google
+https://www.codeproject.com/infoabout.aspx
+https://www.codeproject.com/Forums1580230Chinese.aspx
+https://www.codeproject.com/scriptMembershipOAuthLogOn.aspx?auth=LinkedIn
+https://www.codeproject.com/scriptAnswersList.aspx?tab=active&alltags=true&tags=93
+https://www.codeproject.com/scriptAnswersList.aspx?tab=unanswered
+https://www.codeproject.com/Forums3304Work-Issues.aspx
+https://www.codeproject.com/scriptAnswersList.aspx?tab=active&alltags=true&tags=842
+https://www.codeproject.com/

@@ -1,0 +1,10 @@
+https://www.salon.com/20190720this-helpful-app-saves-web-pages-as-searchable-documents
+https://www.salon.com/20190719why-does-trump-want-son-of-late-supreme-court-justice-antonin-scalia-to-join-his-cabinet
+https://www.salon.com/categorylife-stories
+https://www.salon.com/20190719trump-plans-major-changes-to-u-s-citizenship-test-report
+https://www.salon.com/20190720the-symbolic-power-of-gina-torress-new-drama-pearson-right-now
+https://www.salon.com/20190719who-is-the-white-al-sharpton
+https://www.salon.com/20190720trump-echoes-coolidge-who-stoked-fear-rather-than-face-tech-based-economic-change-he-failed-to-stem
+https://www.salon.com/categorynews-and-politics
+https://www.salon.com/aboutir
+https://www.salon.com/

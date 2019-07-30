@@ -1,0 +1,10 @@
+https://www.jagranjosh.com/rss-list
+https://www.jagranjosh.com/articles-board-exams-1362214985-1
+https://www.jagranjosh.com/careers-finance-and-insurance-in-hindi-1286283795-2?ref=nav_careers
+https://www.jagranjosh.com/
+https://www.jagranjosh.com/institutes-colleges/journalism-mass-communication-colleges?source=hp_college
+https://www.jagranjosh.com/institutes-collegesbusiness-managementexecutive-mba-colleges?ref=nav_college
+https://www.jagranjosh.com/current-affairs-%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A4%9F-%E0%A4%85%E0%A4%AB%E0%A5%87%E0%A4%AF%E0%A4%B0%E0%A5%8D%E0%A4%B8-1284043982-2?ref=nav_ca
+https://www.jagranjosh.com/articles-mba-exam-guide-1287992504-1?ref=nav_mba
+https://www.jagranjosh.com/sarkari-naukribangalore?ref=nav_jobs
+https://www.jagranjosh.com/articles/cbse-board-exam-2019-tricks-tips-for-writing-good-answers-in-board-exams-1550670404-1

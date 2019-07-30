@@ -1,0 +1,10 @@
+https://www.tesco.com/groceries/en-GB/buylists/helpful-little-swaps/produce?icid=dchp_c1_hls_fruit_veg_wk_20
+https://www.tesco.com/phones/
+https://www.tesco.com/carrier-bags/
+https://www.tesco.com/deliverysaver/
+https://www.tesco.com/zones/food-love-stories
+https://www.tesco.com/groceries/en-GB/zone/All-inspirations-and-events/?icid=DCST_more-from-tesco
+https://www.tesco.com/
+https://www.tesco.com/groceries/en-GB/buylists/thank-you-teacher/chocolate?icid=dchp_bs4_ThankyouTeacher_wk19
+https://secure.tesco.com/register/account.aspx?icid=dchp_groceriesmyaccount
+https://secure.tesco.com/account/en-GB/register

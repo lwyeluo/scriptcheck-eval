@@ -1,0 +1,10 @@
+https://www.zazzle.com/ideas
+https://www.zazzle.com/coupons
+https://www.zazzle.com/c/leggings
+https://www.zazzle.com/my/orders/history
+https://www.zazzle.com/bestsellers
+https://www.zazzle.com/radiant_bloom_bridal_shower_invitation-256794689018555325
+https://www.zazzle.com/returns
+https://www.zazzle.com/c/luggage
+https://www.zazzle.com/sell/designers
+https://www.zazzle.com/

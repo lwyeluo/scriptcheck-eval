@@ -1,0 +1,10 @@
+https://mdbootstrap.com/
+https://mdbootstrap.com/generalpress-pack
+https://mdbootstrap.com/docs/jquery/content/code/
+https://mdbootstrap.com/educationangular
+https://mdbootstrap.com/docs/jquery/content/typography/
+https://mdbootstrap.com/docs/jquery/components/dropdowns/
+https://mdbootstrap.com/products/vue-ui-kit/
+https://mdbootstrap.com/education/coding-challenge/
+https://mdbootstrap.com/products/
+https://mdbootstrap.com/docs/jquery/components/badges/

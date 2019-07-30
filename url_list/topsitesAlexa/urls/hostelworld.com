@@ -1,0 +1,10 @@
+https://www.portuguese.hostelworld.com
+https://www.chinese.hostelworld.com/baozheng
+https://www.chinese.hostelworld.com/lushe/amusitedan/helan
+https://www.italian.hostelworld.com
+https://www.brazilian.hostelworld.com
+https://www.chinese.hostelworld.com/lushe/bulage/jieke
+https://www.polish.hostelworld.com
+https://www.czech.hostelworld.com
+https://www.korean.hostelworld.com
+https://www.hostelworld.com/

@@ -1,0 +1,10 @@
+https://www.capterra.com/applicant-tracking-software#infographic
+https://www.capterra.com/vendorstestimonials
+https://www.capterra.com/
+https://www.capterra.com/help-desk-softwarecompare62194-164283LiveChat-vs-Zendesk
+https://www.capterra.com/field-service-management-softwarecompare10061-783Corrigo-Field-Service-Management-(FSM)-vs-StreetSmart
+https://www.capterra.com/faq
+https://www.capterra.com/applicant-tracking-softwarepricing-guide
+https://www.capterra.com/church-management-softwarepricing-guide
+https://www.capterra.com/applicant-tracking-softwarecompare143211-130175Bullhorn-Recruiting-Software-vs-Workable
+https://www.capterra.com/medical-practice-management-software

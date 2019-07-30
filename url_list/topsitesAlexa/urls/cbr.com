@@ -1,0 +1,10 @@
+https://www.cbr.com/batman-75-preview
+https://www.cbr.com/coffin-bound-1-comic-review
+https://www.cbr.com/www.hotcars.com
+https://www.cbr.com/categorycbr-exclusives
+https://www.cbr.com/categorymoviesnews-movies
+https://www.cbr.com/www.thegamer.com
+https://www.cbr.com/
+https://www.cbr.com/falcon-and-the-winter-soldier-official-logo
+https://www.cbr.com/categoryvideo-game
+https://www.cbr.com/the-flash-sdcc-2019-panel

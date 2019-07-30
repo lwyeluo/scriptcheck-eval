@@ -1,0 +1,10 @@
+https://www.blick.ch/
+https://www.blick.ch/sportfussballinternationalprimeradivisionhighlights
+https://www.blick.ch/people-tvinternationalibiza-st-tropez-oder-mykonos-das-sind-die-ferien-hotspots-der-stars-id15429694.html
+https://www.blick.ch/lifereisenactive
+https://www.blick.ch/people-tvinternational37-jahre-altersunterschied-youtuberin-julia-zelg-24-heiratet-freundin-61-id15428267.html
+https://www.blick.ch/lifewissengeschichteim-falle-einer-katastrophe-dieser-mann-hatte-die-trauerrede-fuer-die-apollo-astronauten-schon-geschrieben-id15429639.html
+https://www.blick.ch/people-tvtvbachelor
+https://www.blick.ch/sportfussballsuperleaguethun-xamax-20-juli-id15429193.html
+https://www.blick.ch/lifereisenfernweh
+https://www.blick.ch/sportfussballsuperleaguebarrage-und-vier-auswechslungen-das-ist-alles-neu-im-schweizer-fussball-id8636791.html

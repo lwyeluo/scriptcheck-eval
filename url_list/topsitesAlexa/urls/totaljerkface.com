@@ -1,0 +1,10 @@
+http://www.totaljerkface.com/about.tjf
+http://www.totaljerkface.com/news_comments.tjf?nid=89
+http://www.totaljerkface.com/about.tjfnews.tjf
+http://www.totaljerkface.com/about.tjfabout.tjf
+http://www.totaljerkface.com/about.tjfgames.tjf
+http://www.totaljerkface.com/news_comments.tjf?nid=86
+http://www.totaljerkface.com/news.tjf
+http://www.totaljerkface.com/games.tjf
+http://www.totaljerkface.com/news_comments.tjf?nid=88
+http://www.totaljerkface.com/

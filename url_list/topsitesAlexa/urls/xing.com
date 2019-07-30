@@ -1,0 +1,10 @@
+https://nwx.xing.com
+https://www.xing.com
+https://mobile.xing.com/de/
+https://www.xing.com/people/
+https://www.xing.com/
+https://tech.xing.com/
+https://www.xing.com/communities
+https://www.xing.com/xas?sc_o=SI-4110_footer_link_admanager
+https://www.xing.com/people/c/
+https://faq.xing.com/de

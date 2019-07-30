@@ -1,0 +1,10 @@
+http://corneey.com/privacy
+http://corneey.com/languagees
+http://corneey.com/howitworks
+http://corneey.com/
+http://corneey.com/aboutus
+http://corneey.com/languageen
+http://corneey.com/benefits
+http://corneey.com/tou
+http://corneey.com/login
+http://corneey.com/languageru

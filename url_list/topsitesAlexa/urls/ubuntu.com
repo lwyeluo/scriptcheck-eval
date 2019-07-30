@@ -1,0 +1,10 @@
+https://www.ubuntu.com/desktopstatistics
+https://www.ubuntu.com/engagefresm?utm_source=takeover&utm_campaign=CY19_DC_UA_GenConForm_ESM14-04
+https://www.ubuntu.com/desktopdevelopers
+https://www.ubuntu.com/server
+https://www.ubuntu.com/engageedge-month?utm_source=Takeover&utm_campaign=CY19_DC_EdgeMonth
+https://www.ubuntu.com/downloadflavours
+https://pages.ubuntu.com/stuckstack_download.html?utm_source=website&utm_medium=takeunder&
+https://www.ubuntu.com/download
+https://www.ubuntu.com/internet-of-thingsdigital-signage
+https://www.ubuntu.com/

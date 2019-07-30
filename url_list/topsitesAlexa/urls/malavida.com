@@ -1,0 +1,10 @@
+https://www.malavida.com/es/soft/retroarch/
+https://www.malavida.com/es/windows/cat/redes
+https://www.malavida.com/es/windows/cat/peliculas-series-y-tv-online
+https://www.malavida.com/es/windows/cat/presentaciones
+https://www.malavida.com/es/windows/searches/
+https://www.malavida.com/
+https://www.malavida.com/es/windows/cat/descargas
+https://www.malavida.com/es/soft/pubg-mobile/
+https://www.malavida.com/es/windows/popular
+https://www.malavida.com/es/windows/cat/optimizacion-y-limpieza

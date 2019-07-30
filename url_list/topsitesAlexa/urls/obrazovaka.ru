@@ -1,0 +1,10 @@
+https://www.obrazovaka.ru/biblioteka
+https://www.obrazovaka.ru/user1021
+https://www.obrazovaka.ru/okruzhayushhiy-mir4-klass
+https://obrazovaka.ru/sochinenie/shinel/zhestokost-i-dobrota.html
+https://www.obrazovaka.ru/user20531
+https://www.obrazovaka.ru/testypo-algebre
+https://obrazovaka.ru/sochinenie/nedorosl/tema-obrazovaniya-i-vospitaniya-komedii.html
+https://www.obrazovaka.ru/spisok-essays
+https://www.obrazovaka.ru/
+https://www.obrazovaka.ru/spisok-voprosov1

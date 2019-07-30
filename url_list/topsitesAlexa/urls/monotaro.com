@@ -1,0 +1,10 @@
+https://www.monotaro.com/
+https://www.monotaro.com/maintwstws_ctlg
+https://www.monotaro.com/sc-21862
+https://www.monotaro.com/mainnews
+https://www.monotaro.com/sc-70474
+https://www.monotaro.com/sc-36
+https://www.monotaro.com/office
+https://flier.monotaro.com/69186/pageview/pageview.html
+https://www.monotaro.com/maincmpycm
+https://www.monotaro.com/sc-26021

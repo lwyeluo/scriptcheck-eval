@@ -1,0 +1,10 @@
+https://www.cbslocal.com/
+https://www.cbslocal.com/categoryEntertainment
+https://www.cbslocal.com/categorysports
+https://www.cbslocal.com/categoryNews
+https://cbslocal.com/about-us/
+http://policies.cbslocal.com/privacy/current.html#onlinead
+https://wpvip.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit&utm_term=cbslocal.com
+http://policies.cbslocal.com/terms-of-use
+http://policies.cbslocal.com/privacy/current.html
+http://policies.cbslocal.com/privacy/current.html#cali-visitors

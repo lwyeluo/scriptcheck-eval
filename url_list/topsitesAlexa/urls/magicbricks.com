@@ -1,0 +1,10 @@
+https://www.magicbricks.com/sumadhura-silver-ripples-whitefield-bangalore-pdpid-4d4235303137363333
+https://www.magicbricks.com/property-for-sale-rent-in-Vadodara/residential-real-estate-Vadodara
+https://www.magicbricks.com/kg-earth-homes-siruseri-chennai-pdpid-4d4235303139333839
+https://www.magicbricks.com/whitefield-sus-pune-pdpid-4d4235303836393031
+https://www.magicbricks.com/property-for-sale-rent-in-Kolkata/residential-real-estate-Kolkata
+https://www.magicbricks.com/bricks/unSubscribeMailerStatus.html
+https://www.magicbricks.com/property-for-sale-rent-in-Salem/residential-real-estate-Salem
+https://www.magicbricks.com/property-for-sale-rent-in-Bokaro-Steel-City/residential-real-estate-Bokaro-Steel-City
+https://www.magicbricks.com/
+https://www.magicbricks.com/Real-estate-projects-search/ALL-RESIDENTIAL-new-project-Noida

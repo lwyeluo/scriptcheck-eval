@@ -1,0 +1,10 @@
+https://www.dailydot.com/#sections
+https://www.dailydot.com/social-media
+https://www.dailydot.com/tagsinstagram
+https://www.dailydot.com/comics
+https://www.dailydot.com/contact-us/
+https://www.dailydot.com/irl/instagram-flirting-guide/
+https://www.dailydot.com/unclick/reddit-50-50/
+https://www.dailydot.com/unclick
+https://www.dailydot.com/
+https://www.dailydot.com/tagsrace

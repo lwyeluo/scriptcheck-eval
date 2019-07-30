@@ -1,0 +1,10 @@
+https://www.lentainform.com/categorysport
+https://www.lentainform.com/
+https://www.lentainform.com/categoryscience
+https://www.lentainform.com/categoryparenting
+https://www.lentainform.com/categoryeconomics
+https://www.lentainform.com/categoryfashion
+https://www.lentainform.com/categorylifestyle
+https://www.lentainform.com/categoryrealty
+https://partner.lentainform.com/
+https://www.lentainform.com/categoryauto

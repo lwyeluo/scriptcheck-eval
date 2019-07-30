@@ -1,0 +1,10 @@
+https://tamasha.com/misc
+https://www.tamasha.com/signin
+https://www.tamasha.com/
+https://tamasha.com/v/Jy5WO
+https://tamasha.com/v/lPOn2?playlist=4emP4
+https://tamasha.com/game
+https://tamasha.com/v/welZ2
+https://tamasha.com/v/OnOwx
+https://tamasha.com/v/eBWay
+https://tamasha.com/v/Rz9GN

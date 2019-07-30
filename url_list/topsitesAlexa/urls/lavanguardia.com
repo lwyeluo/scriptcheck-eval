@@ -1,0 +1,10 @@
+http://shopping.lavanguardia.com/suscripciones.html
+https://cribeo.lavanguardia.com/
+https://www.lavanguardia.com/deportes/20190721/463620905454/madrid-bayern-houston.html
+https://www.lavanguardia.com/cookies_privacy_LV_popup.html
+https://www.lavanguardia.com/television/programacion-tv
+https://enmemoria.lavanguardia.com/
+https://www.lavanguardia.com/horoscopo
+https://club.lavanguardia.com
+https://www.lavanguardia.com/humor
+https://www.lavanguardia.com/

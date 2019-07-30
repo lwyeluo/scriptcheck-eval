@@ -1,0 +1,10 @@
+https://www.formula1.com/enteamsRenault.html
+https://www.formula1.com/enteamsFerrari.html
+https://www.formula1.com/endriverspierre-gasly.html
+https://www.formula1.com/entoolbarfaq.html
+https://www.formula1.com/endriverssebastian-vettel.html
+https://www.formula1.com/enf1-live-lite.html
+https://www.formula1.com/enlatestarticle.f1-inbox-your-questions-on-vettels-crash-steiners-rage-and-albons.1fo9511ojdL69aqSXN4eBH.html
+https://www.formula1.com/
+https://www.formula1.com/enlatestarticle.f1-power-rankings-has-anyone-dethroned-verstappen-after-silverstone.17Ao98KbC3RzRsbw6OJz4Q.html
+https://www.formula1.com/endriversdaniel-ricciardo.html

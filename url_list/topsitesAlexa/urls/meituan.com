@@ -1,0 +1,10 @@
+http://zhaopin.meituan.com/
+https://www.meituan.com/bj.meituan.com
+https://bj.meituan.com/meishi/c40/
+https://su.meituan.com
+https://www.meituan.com/
+https://bj.meituan.com/meishi/c393/
+https://e.meituan.com/
+https://www.meituan.com/orders/
+https://ruzhu.meituan.com/settle/pc/epassport.html
+https://bj.meituan.com/meishi/c20004/

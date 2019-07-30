@@ -1,0 +1,10 @@
+https://www.teamtreehouse.com/subscribeplans?trial=yes
+https://teamtreehouse.com/about
+https://www.teamtreehouse.com/
+https://blog.teamtreehouse.com/
+https://join.teamtreehouse.com/ux-design-techdegree
+https://join.teamtreehouse.com/techdegree
+https://www.teamtreehouse.com/terms
+https://www.teamtreehouse.com/privacy
+https://teamtreehouse.com/jobs
+https://www.teamtreehouse.com/password_resets

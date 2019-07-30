@@ -1,0 +1,10 @@
+https://www.pgatour.com/korn-ferry-tourtournamentsthe-pinnacle-bank-championship-presented-by-chevrolet.html
+https://www.pgatour.com/fantasymedical-extensions.html
+https://www.pgatour.com/
+https://www.pgatour.com/canadaen_usnews.html
+https://www.pgatour.com/la/en/tournaments/bupa-match-play/leaderboard.html
+https://www.pgatour.com/impact.html
+https://www.pgatour.com/la/en/features/premier-partners.html
+https://www.pgatour.com/champions/leaderboard.html
+https://www.pgatour.com/laes.html
+https://www.pgatour.com/championsschwab-cup.html

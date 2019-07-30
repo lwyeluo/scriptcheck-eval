@@ -1,0 +1,10 @@
+https://www.v2ex.com/
+https://www.v2ex.com/memberzeroDev
+https://www.v2ex.com/memberreus
+https://www.v2ex.com/t584684#reply33
+https://www.v2ex.com/memberliaojl
+https://www.v2ex.com/t584547#reply65
+https://www.v2ex.com/gojobs
+https://www.v2ex.com/t584458#reply64
+https://www.v2ex.com/gooutsourcing
+https://www.v2ex.com/t584835#reply6

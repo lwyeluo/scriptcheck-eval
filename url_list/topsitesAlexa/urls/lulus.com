@@ -1,0 +1,10 @@
+https://www.lulus.com/categories1690going-fast.html
+https://www.lulus.com/productssunny-season-navy-blue-tropical-print-ruffled-mini-dress735702.html
+https://www.lulus.com/categories262_462red-dresses.html
+https://www.lulus.com/categories10_34short-sleeve.html
+https://www.lulus.com/myaccountcreate
+https://www.lulus.com/categories95sale.html
+https://www.lulus.com/categories42_3800mid-low-heels.html
+https://www.lulus.com/products90-s-mid-rise-white-loose-fit-distressed-jeans891802.html
+https://www.lulus.com/productsfar-out-black-and-white-tie-dye-twist-front-tank-top895042.html
+https://www.lulus.com/

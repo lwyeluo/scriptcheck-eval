@@ -1,0 +1,10 @@
+https://www.gasengi.com/mainboard.php?bo_table=etc_sports
+https://www.gasengi.com/mainboard.php?bo_table=military_translation&wr_id=16017
+https://www.gasengi.com/mainboard.php?bo_table=movie
+https://www.gasengi.com/plugincheckindex.php
+https://www.gasengi.com/mainwrite.php?bo_table=aaaa
+https://www.gasengi.com:443/main/login.php
+https://www.gasengi.com/mainboard.php?bo_table=humor04
+https://www.gasengi.com/mainboard.php?bo_table=notice
+https://www.gasengi.com/mainboard.php?bo_table=religion
+https://www.gasengi.com/

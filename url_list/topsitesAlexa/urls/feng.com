@@ -1,0 +1,10 @@
+https://yes1.feng.com/click.php?n=a988dde7&zoneid=242
+https://www.feng.com/view/Hot/index.shtml
+https://bbs.feng.com/hack.php?H_name=ssourl&action=ajax&cmd=logout
+https://bbs.feng.com/home.php?mod=spacecp&ac=usergroup
+https://www.feng.com/
+https://act.feng.com/wetools/index.php?r=iosRom/index
+https://www.feng.com/app/about_us_english.html
+https://bbs.feng.com/read-htm-tid-12390133.html
+https://bbs.feng.com/thread-htm-fid-658.html
+https://www.feng.com/view/

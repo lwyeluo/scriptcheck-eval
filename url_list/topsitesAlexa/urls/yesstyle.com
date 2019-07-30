@@ -1,0 +1,10 @@
+https://www.yesstyle.com/zh_CN女装-服饰list.htmlbcc.14071_bpt.46?oc=12
+https://www.yesstyle.com/zh_CN/%E5%A5%B3%E8%A3%85-%E5%8D%8A%E6%88%AA%E8%A3%99/list.html/bcc.14093_bpt.46
+https://www.yesstyle.com/zh_CN/%E7%94%B7%E8%A3%85-brands/list.html/bpt.300?badid=14080
+https://www.yesstyle.com/zh_CN/%E5%A5%B3%E8%A3%85-%E6%89%8B%E6%8F%90%E8%82%A9%E8%83%8C%E5%8C%85/list.html/bcc.14144_bpt.46
+https://www.yesstyle.com/zh_CN/%E5%A5%B3%E8%A3%85-%E8%BF%90%E5%8A%A8%E6%9C%8D/list.html/bcc.14099_bpt.46
+https://www.yesstyle.com/
+https://www.yesstyle.com/zh_CNjapanese-beauty-cosmetics
+https://www.yesstyle.com/zh_CN/%E7%94%B7%E8%A3%85-%E5%81%87%E5%8F%91/list.html/bcc.14176_bpt.46
+https://www.yesstyle.com/zh_CN/%E7%94%B7%E8%A3%85-%E7%9A%AE%E5%B8%A6/list.html/bcc.14170_bpt.46
+https://www.yesstyle.com/zh_CN/%E7%94%B7%E8%A3%85-%E6%97%A5%E5%B8%B8%E9%9E%8B/list.html/bcc.14184_bpt.46

@@ -1,0 +1,10 @@
+https://www.rapidvideo.com/?c=about_us
+https://api.rapidvideo.com
+https://www.rapidvideo.com/?c=register
+https://www.rapidvideo.com/?c=contact
+https://www.rapidvideo.com/?c=privacy
+https://www.rapidvideo.com/?c=abuse
+https://www.rapidvideo.com/?c=copyright
+https://www.rapidvideo.com/?c=login
+https://www.rapidvideo.com/
+https://www.rapidvideo.com/?c=tos

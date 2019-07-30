@@ -1,0 +1,10 @@
+https://www.azure.com/zh-cnsolutionsbig-data
+https://www.azure.com/zh-cnoverviewbuild-on-your-terms
+https://www.azure.com/zh-cnget-started
+https://www.azure.com/zh-cnsupporttrust-center
+https://status.azure.com
+https://portal.azure.com/
+https://www.azure.com/zh-cnblogthanks-for-10-years-and-welcome-to-a-new-chapter-in-sql-innovation
+https://www.azure.com/
+https://www.azure.com/zh-cnblog
+https://www.azure.com/zh-cnoverviewbe-future-ready

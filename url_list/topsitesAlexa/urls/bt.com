@@ -1,0 +1,10 @@
+https://www.bt.com/tv/packages
+https://home.bt.com/tech-gadgets/internet/connected-home/best-smart-home-security-systems-nest-hive-canary-ring-11364344705719?s_intcid=con_intban_dmedia_Content_bthomepage_Tech_slot3_smart_security
+https://www.bt.com/tv/add/
+https://tv.bt.com/tv/tv-from-bt/tour-de-france-how-to-watch-listings-schedule-eurosport-channel-11364368769999
+https://www.bt.com/tv/packages/
+https://www.bt.com/help/home
+https://www.bt.com/sport/
+https://home.bt.com/tech-gadgets/phones-tablets/5-ways-to-prepare-your-phone-for-a-weekend-away-11364353490726?s_intcid=con_intban_dmedia_Content_bthomepage_Tech_slot1_5ways_weekend_away
+https://www.bt.com/
+https://www.bt.com/mobile/sim-only-deals/

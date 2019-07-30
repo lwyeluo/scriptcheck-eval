@@ -1,0 +1,10 @@
+https://www.gwdang.com/
+https://www.gwdang.com/list1E040700
+https://www.gwdang.com/list1A030100
+https://www.gwdang.com/zhidetail11664470?tk=1
+https://www.gwdang.com/list14020200
+https://www.gwdang.com/list12030800
+https://www.gwdang.com/list20040600
+https://www.gwdang.com/list1E020300
+https://www.gwdang.com/list12050700
+https://www.gwdang.com/list24050700

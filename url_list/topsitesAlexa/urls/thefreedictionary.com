@@ -1,0 +1,10 @@
+https://www.thefreedictionary.com/encyclopedia.thefreedictionary.comfolk+dance
+https://www.thefreedictionary.com/www.thefreedictionary.com_helphelp1.htm
+https://secure.thefreedictionary.com/ExtLogin/Yahoo.aspx
+https://www.thefreedictionary.com/www.thefreedictionary.comabout.htm
+https://www.thefreedictionary.com/www.thefreedictionary.comLists-of-Facts.htm
+https://www.thefreedictionary.com/
+https://www.thefreedictionary.com/ru.thefreedictionary.com
+https://www.thefreedictionary.com/_hpControlsprinter-friendly.aspx?562
+https://www.thefreedictionary.com/_helphelp2.htm#221125
+https://www.thefreedictionary.com/_helphelp4.htm#41

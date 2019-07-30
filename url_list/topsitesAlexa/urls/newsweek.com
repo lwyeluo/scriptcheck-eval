@@ -1,0 +1,10 @@
+https://www.newsweek.com/biden-sanders-gallup-favorability-democrats-2020-1450344
+https://subscription.newsweek.com/subscribe?utm_source=NWwebsite&utm_medium=top-nav&utm_campaign=subscribe-button#12weeks
+https://www.newsweek.com/facebook-could-fined-libra-according-proposal-democrats-leading-house-financial-services-1449190
+https://www.newsweek.com/
+https://www.newsweek.com/police-watch-porn-guilty-1450178
+https://www.newsweek.com/us-could-build-tent-facility-asylum-seekers-flood-plain-border-1450355
+https://www.newsweek.com/same-sex-couples-child-denied-admission-texas-daycare-due-their-relationship-1450314
+https://www.newsweek.com/trump-defends-send-her-back-chanters-retweet-katie-hopkins-far-right-commentator-who-called-1450323
+https://www.newsweek.com/terms-service
+https://www.newsweek.com/this-couple-quit-their-jobs-bought-two-acres-retired-their-30s-1448128

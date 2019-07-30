@@ -1,0 +1,10 @@
+http://zhibo.renren.com/
+https://www.renren.com/
+http://www.renren.com/api/jump?src=wx
+http://www.renren.com/api/jump?src=wb
+http://www.renren.com/api/jump?src=qq
+http://2014.renren.com/
+http://page.renren.com/marketing/index
+http://dsp.renren.com/dsp/index.htm
+http://safe.renren.com/findPass.do
+http://down.renren.com/pczbzs/rrzb_Setup-13.exe

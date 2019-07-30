@@ -1,0 +1,10 @@
+https://www.telekom.com/dekonzernvorstand
+https://www.telekom.com/ajaxde415640?modId=&ratio=%5Blandscape_ratio16x9%5D
+https://www.telekom.com/dekarrierestandortehauptstandorte
+https://www.telekom.com/dekarrieretelekom-livesocial-media
+https://www.telekom.com/
+https://www.telekom.com/deinvestor-relationsmanagement-und-corporate-governancevorstand
+https://www.telekom.com/dekarrierestandorte
+https://www.telekom.com/deblogkarriere
+https://www.telekom.com/dekarrieretelekom-liveihre-ansprechpartner
+https://www.telekom.com/dekonzerneinkauf

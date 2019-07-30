@@ -1,0 +1,10 @@
+http://portal.tpu.ru/science/konf
+https://www.tpu.ru/
+https://www.tpu.ru/universitymeet-tpumission
+https://www.tpu.ru/researchfieldswater
+https://www.tpu.ru/university#menu-5
+https://www.tpu.ru/sveden
+http://masters.tpu.ru/
+http://endowment.tpu.ru/
+https://www.tpu.ru/university
+https://www.tpu.ru/universitystrategyresult

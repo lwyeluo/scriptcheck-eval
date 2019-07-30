@@ -1,0 +1,10 @@
+https://www.papajohns.com/companypapa-johns-ingredients.html
+https://www.papajohns.com/order/builder/productBuilderInfo?productGroupId=cyo&quantity=1&productSKU.sku=1-1-4-83
+https://espanol.papajohns.com/?userLang=es
+https://www.papajohns.com/locations
+https://www.papajohns.com/companynutrition-allergen-information.html
+https://www.papajohns.com/
+https://www.papajohns.com/?userLang=en
+https://www.papajohns.com/specials
+https://www.papajohns.com/ordering
+https://jobs.papajohns.com/

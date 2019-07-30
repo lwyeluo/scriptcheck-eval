@@ -1,0 +1,10 @@
+https://www.stitchfix.com/womenblog
+https://www.stitchfix.com/
+https://www.stitchfix.com/about
+https://support.stitchfix.com/hc/en-us/articles/204222994-FAQ
+https://www.stitchfix.com/kids
+https://www.stitchfix.com/gifts
+https://www.stitchfix.com/iphone-app
+https://support.stitchfix.com
+https://www.stitchfix.com/careers
+https://newsroom.stitchfix.com/

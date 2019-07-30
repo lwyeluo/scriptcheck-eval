@@ -1,0 +1,10 @@
+https://www.boardgamegeek.com/boardgame193738great-western-trail
+https://www.boardgamegeek.com/browseboardgamefamily
+https://www.boardgamegeek.com/itemcreateboardgameaccessory
+https://www.boardgamegeek.com/boardgame279204north
+https://www.boardgamegeek.com/geekbaybrowse?sort={{module.params.sort}}
+https://www.boardgamegeek.com/all
+https://www.boardgamegeek.com/geekmarketbrowse?objecttype={{module.params.objecttype}}&objectid={{module.params.objectid}}
+https://www.boardgamegeek.com/geekbayredirect
+https://www.boardgamegeek.com/boardgame271896star-wars-outer-rim
+https://www.boardgamegeek.com/

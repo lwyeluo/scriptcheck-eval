@@ -1,0 +1,10 @@
+https://www.yelp.com/search?cflt=painters&find_loc=Bras+Brasah%2C+Singapore%2C+Singapore
+https://www.yelp.com/search?cflt=restaurants&find_loc=Bras+Brasah%2C+Singapore%2C+Singapore
+https://www.yelp.com/search?cflt=health&find_loc=Singapore
+http://www.yelp.com?hl=da_DK
+https://www.yelp.com/
+https://www.yelp.com/search?cflt=coffee&find_loc=Singapore
+http://www.yelp.com?hl=it_IT
+https://www.yelp.com/search?cflt=hotelstravel&find_loc=Singapore
+https://www.yelp.com/search?cflt=contractors&find_loc=Bras+Brasah%2C+Singapore%2C+Singapore
+https://www.yelp.com/signup

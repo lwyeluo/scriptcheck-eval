@@ -1,0 +1,10 @@
+https://www.fontspace.com/category1970s
+https://www.fontspace.com/categoryfamous,band
+https://www.fontspace.com/fuzzball-font-f35125
+https://www.fontspace.com/categorysci-fi
+https://www.fontspace.com/unicodechars
+https://www.fontspace.com/categorydingbats,animals
+https://www.fontspace.com/
+https://www.fontspace.com/calyana-font-f34828
+https://www.fontspace.com/abrahamtype
+https://www.fontspace.com/categoryvintage

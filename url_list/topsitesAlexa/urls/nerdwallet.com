@@ -1,0 +1,10 @@
+https://www.nerdwallet.com/blogcategoryinvesting?trk=nw_gf_5.0
+https://www.nerdwallet.com/bestcredit-cardsrewards?trk=nw_gn1_4.0
+https://www.nerdwallet.com/life-insurance?trk=nw_gn1_4.0
+https://www.nerdwallet.com/community?trk=nw_gn1_4.0
+https://www.nerdwallet.com/blog/podcast/
+https://www.nerdwallet.com/bloginvestinghow-to-buy-stocks?trk=nw_gn1_4.0
+https://www.nerdwallet.com/bloginvestingbest-online-brokers-for-stock-trading?trk=nw_gn1_4.0
+https://www.nerdwallet.com/blogloanscompare-costs-buying-new-car-vs-used?trk=nw_gn1_4.0
+https://www.nerdwallet.com/about-us?trk=nw_gf_5.0
+https://www.nerdwallet.com/

@@ -1,0 +1,10 @@
+https://www.500.com/odds.500.comfenxiouzhi-788774.shtml
+http://zx.500.com/zqdc/touzhu.php
+https://www.500.com/liansai.500.comteam4127
+https://www.500.com/zx.500.comdlt
+https://www.500.com/zx.500.comzcjjjs.php
+http://zx.500.com/jczq/n_rdxw/ztdt/20190720_624804.shtml
+http://help.500.com/h_zrhzc/20111109_310699.shtml
+https://www.500.com/zx.500.comzhuantin_zaobaoindex.shtml
+https://www.500.com/www.500.comwap
+https://www.500.com/

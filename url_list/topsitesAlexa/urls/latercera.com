@@ -1,0 +1,10 @@
+https://www.latercera.com/opinion/noticia/la-cueca-pelota/747871/
+https://www.latercera.com/reportajes/noticia/habla-el-juez-de-rancagua-marcelo-vasquez-siento-decepcion-de-haber-impartido-un-tipo-de-justicia-que-hoy-se-me-niega/747167/
+https://www.latercera.com/terminos-y-condiciones/
+https://www.latercera.com/canal/pulso-trader/
+https://www.latercera.com/canal/reportajes/
+https://www.latercera.com/canal/el-deportivo/
+https://www.latercera.com/quienes-somos/
+https://www.latercera.com/reportajes/noticia/tabancura-al-alza-instituto-nacional-la-baja-los-colegios-del-poder-politico/746903/
+https://www.latercera.com/
+http://mouse.latercera.com/

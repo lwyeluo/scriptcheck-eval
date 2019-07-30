@@ -1,0 +1,10 @@
+https://www.huaweicloud.com/kunpeng/
+https://www.huaweicloud.com/cases/Quick_Snaps.html
+https://www.huaweicloud.com/service/protection.html#service-support-03
+https://www.huaweicloud.com/product/servicestage.html
+https://www.huaweicloud.com/product/workspace.html
+https://account.huaweicloud.com/usercenter/#/userindex/invoiceCenter
+https://www.huaweicloud.com/
+https://bbs.huaweicloud.com/videos/062b26f4e38641aba3f7206dc362fc63
+https://www.huaweicloud.com/product/mysql.html
+https://www.huaweicloud.com/product/cdn.html

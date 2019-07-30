@@ -1,0 +1,10 @@
+https://www.povarenok.ru/recipesdestiny60
+https://www.povarenok.ru/recipes/category/69/
+https://www.povarenok.ru/recipesdestiny129
+https://www.povarenok.ru/recipes/dishes/sweet/?searchid=398
+https://www.povarenok.ru/
+https://www.povarenok.ru/recipesdestiny175
+https://www.povarenok.ru/recipesdestiny132
+https://www.povarenok.ru/recipes/dishes/bakery/?searchid=327
+https://www.povarenok.ru/recipes/dishes/main/?searchid=1013
+https://www.povarenok.ru/recipesdestiny3

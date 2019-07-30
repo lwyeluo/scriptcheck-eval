@@ -1,0 +1,10 @@
+https://www.backcountry.com/
+https://www.backcountry.com/Store/account/login.jsp
+https://www.backcountry.com/womens-dresses-skirts-new-arrivals?fl=true
+https://www.backcountry.com/travel-new-arrivals?fl=true
+https://www.backcountry.com/infant-pants?fl=true
+https://www.backcountry.com/new-arrivals?fl=true
+https://www.backcountry.com/mens-underwear-sleepwear-new-arrivals?fl=true
+https://www.backcountry.com/StoreglobalserviceRequest.jsp?page=%2F
+https://www.backcountry.com/explorepower-to-the-people?INT_ID=IB25423
+https://www.backcountry.com/mens-hoodies-sweaters?fl=true

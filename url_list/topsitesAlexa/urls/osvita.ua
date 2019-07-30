@@ -1,0 +1,10 @@
+https://www.osvita.ua/legislationVishya_osvita65075
+https://www.osvita.ua/
+https://osvita.ua/users/?do=logout
+https://www.osvita.ua/vnzcollege16509
+https://www.osvita.ua/schoolrating61684
+https://www.osvita.ua/schoolrating61682
+https://www.osvita.ua/contacts.html
+https://www.osvita.ua/consultations
+https://www.osvita.ua/legislationVishya_osvita65120
+https://www.osvita.ua/school65146

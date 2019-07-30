@@ -1,0 +1,10 @@
+https://www.vg247.com/tag/pokemon/
+https://www.vg247.com/2019/07/20/marvel-ultimate-alliance-3-dlc-marvel-knights/
+https://www.vg247.com/2019/07/19/call-of-duty-modern-warfare-raw-gunfight-gameplay-ps4-pro/#comments-section
+https://www.vg247.com/2019/07/18/fallout-76-hotfix-meat-week/
+https://www.vg247.com/tags?letter=r
+https://www.vg247.com/2019/07/19/ark-survival-evolved-valguero-release-time-ps4/#comments-section
+https://www.vg247.com/tags?letter=d
+https://www.vg247.com/tags?letter=k
+https://www.vg247.com/2019/07/19/the-witcher-netflix-adult-show/#comments-section
+https://www.vg247.com/

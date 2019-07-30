@@ -1,0 +1,10 @@
+https://www.rbc.ru/politics/21/07/2019/5d3418e39a7947171cb50f61?from=newsfeed
+https://www.rbc.ru/
+https://www.rbc.ru/rbcfreenews/5d3423529a794719585de800?from=newsfeed
+https://quote.rbc.ru/news/forecast_idea/5d30a6009a7947951a5a6955
+https://quote.rbc.ru/news/forecast_idea/5d318cdc9a7947de5aa8f87b
+https://auth.rbc.ru/login?tab=enter&utm_source=login_topline
+https://auth.rbc.ru/login?utm_source=disable_advertising_topline
+http://health.rbc.ru/test/k-begu-kakoj-slozhnosti-vyi-gotovyi/?utm_source=rbc&utm_medium=main&utm_campaign=hlth18sp-k-begu-kakoj-m
+https://www.rbc.ru/rt.rbc.ru
+https://www.rbc.ru/politics/21/07/2019/5d340c119a79471323bf2e1d?from=newsfeed

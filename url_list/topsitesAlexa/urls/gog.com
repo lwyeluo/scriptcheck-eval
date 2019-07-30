@@ -1,0 +1,10 @@
+https://www.gog.com/gamegodhood
+https://www.gog.com/games
+https://www.gog.com/gamecyberpunk_2077
+https://www.gog.com/indie
+https://www.gog.com/gamenowhere_prophet
+https://support.gog.com/hc/en-us/categories/201553005
+https://www.gog.com/gamesaction?sort=popularity&page=1
+https://www.gog.com/movies?sort=popularity&page=1
+https://content-system.gog.com/open_link/download?path=/open/galaxy/client/setup_galaxy_1.2.57.74.exe
+https://www.gog.com/

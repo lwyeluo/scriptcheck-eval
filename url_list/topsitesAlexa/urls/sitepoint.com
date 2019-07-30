@@ -1,0 +1,10 @@
+https://www.sitepoint.com/
+https://www.sitepoint.com/contact-us
+https://www.sitepoint.com/premiumdeals
+https://www.sitepoint.com/press
+https://www.sitepoint.com/premiumldeveloper-jobs
+https://www.sitepoint.com/legals
+https://www.sitepoint.com/community
+https://www.sitepoint.com/advertise
+https://www.sitepoint.com/blog
+https://www.sitepoint.com/premium

@@ -1,0 +1,10 @@
+http://www.sfu-kras.ru/en/about/accreditation
+http://www.sfu-kras.ru/en/education/russian-language
+http://www.sfu-kras.ru/cnresearcharctic
+http://www.sfu-kras.ru/
+http://www.sfu-kras.ru/en/languages
+http://www.sfu-kras.ru/gateways/press
+http://bio.sfu-kras.ru/en/
+http://www.sfu-kras.ru/cneducationmasters
+http://www.sfu-kras.ru/en/additional-education
+http://law.sfu-kras.ru/eng

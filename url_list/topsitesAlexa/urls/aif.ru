@@ -1,0 +1,10 @@
+http://www.aif.ru/mcc2017/where/gde_peresest_na_mck
+https://www.aif.ru/gazeta
+http://www.aif.ru/shop
+http://www.aif.ru/realty/price/pravda_li_chto_vlasti_vozrozhdayut_hrushchyovki
+http://www.aif.ru/culture/movie/otkrytie_kinofestivalya_gorkiy_fest_v_nizhnem_novgorode
+https://www.aif.ru/
+http://www.aif.ru/incidents/5-letnego_rossiyanina_propavshego_v_polshe_nashli_mertvym
+http://www.aif.ru/dacha/garden/3_sposoba_obmanut_zharu_tradicionnye_i_sovremennye_metody
+https://eldorado.aif.ru/
+http://www.aif.ru/culture/person

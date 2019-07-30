@@ -1,0 +1,10 @@
+https://habr.com/en/feedback/
+https://habr.com/en/hub/popular_science/
+https://habr.com/en/
+https://www.habr.com/companycroc
+https://www.habr.com/companylamptest
+https://habr.com/en/companies/
+https://habr.com/en/post/456182/
+https://habr.com/en/top/monthly/
+https://habr.com/en/post/460123/
+https://www.habr.com/

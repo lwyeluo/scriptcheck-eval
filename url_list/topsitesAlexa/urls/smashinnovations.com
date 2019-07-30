@@ -1,0 +1,10 @@
+https://smashinnovations.com/register-account/
+https://smashinnovations.com/features/#section-10
+https://smashinnovations.com/about/
+https://smashinnovations.com/features/#section-5
+https://www.smashinnovations.com/
+https://smashinnovations.com/features/#section-1
+https://smashinnovations.com/features/#section-3
+https://smashinnovations.com/privacy-policy-t-cs-for-smash-innovations-website.pdf
+https://smashinnovations.com/
+https://smashinnovations.com/features/#section-9

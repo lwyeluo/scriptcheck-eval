@@ -1,0 +1,10 @@
+https://www.multiurok.ru/friends
+https://www.multiurok.ru/all-tests
+https://www.multiurok.ru/
+https://multiurok.ru/resources/privacy.html
+https://www.multiurok.ru/feedback
+https://www.multiurok.ru/all-files
+https://www.multiurok.ru/about
+https://www.multiurok.ru/userregister
+https://www.multiurok.ru/all-sites
+https://multiurok.ru/resources/soglashenie.html

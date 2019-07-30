@@ -1,0 +1,10 @@
+https://www.gizmodo.com/
+https://io9.gizmodo.com/archer-gets-totally-noir-in-the-first-promos-for-season-1790819058?_ga=2.54502056.1046269848.1562935344-105069102.1526253072
+https://www.gizmodo.com/cfield-guide
+https://io9.gizmodo.com/the-expanse-is-back-with-a-quick-tantalizing-look-at-i-1829574610
+https://io9.gizmodo.com/our-first-brief-glimpse-at-arrow-s-dramatic-final-seaso-1836363096/#replies
+https://io9.gizmodo.com/marvel-just-revealed-release-dates-and-logos-for-its-di-1836393592/#replies
+https://www.gizmodo.com/gizmodo.comcgadgets
+https://www.gizmodo.com/gizmodo.comcspace
+https://www.gizmodo.com/gizmodo.comcprivacy-and-security
+https://io9.gizmodo.com/rick-and-mortys-season-4-teaser-is-frustratingly-crypti-1834781702

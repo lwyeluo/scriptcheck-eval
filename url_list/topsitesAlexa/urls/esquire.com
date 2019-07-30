@@ -1,0 +1,10 @@
+https://www.esquire.com/food-drinkdrinks
+https://www.esquire.com/sports
+https://www.esquire.com/
+https://www.esquire.com/sitemap
+https://www.esquire.com/entertainmentmusic
+https://www.esquire.com/entertainmenttv
+https://www.esquire.com/lifestylea28436436bong-art-benjamin-milstein-heritage-auction-2019
+https://www.esquire.com/news-politicspoliticsa28452350chicago-ohare-immigrant-mother-us-customs-border-control
+http://sweepstakes.esquire.com
+https://www.esquire.com/stylemens-accessoriesg2334the-fall-upgrades-shoes

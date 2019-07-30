@@ -1,0 +1,10 @@
+https://247sports.com/Season/2020-Football/ExpertRankings/
+https://www.247sports.com/
+https://247sports.com/Site/?View=Community
+https://247sports.com/User/Ted%20Hyman/Predictions/?PlayerInstitution.PrimaryPlayerSport.Recruitment.Year=2020&PlayerInstitution.PrimaryPlayerSport.Sport=Football
+https://247sports.com/Page/NCAA-Football-on-247Sports-106941/Contents/?View=Home&Page=2&Items=13
+https://247sports.com/Season/2020-Basketball/ExpertRankings/
+https://247sports.com/Season/2020-Basketball/ScheduledCommits/
+https://www.247sports.com/LeagueNCAA-FBUSA-Today-Rankings
+https://247sports.com/League/NCAA-FB/Schedule/
+https://247sports.com/Quote/

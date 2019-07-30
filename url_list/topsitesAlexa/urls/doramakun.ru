@@ -1,0 +1,10 @@
+http://doramakun.ru/User/27216/
+http://www.doramakun.ru/
+http://doramakun.ru/Redirect/aHR0cDovL3RjMzkucnUv
+http://www.doramakun.ru/searchtencent%20video
+http://www.doramakun.ru/interestingadverts1355406485.html
+http://doramakun.ru/User/53041/
+http://doramakun.ru/User/45280/
+http://doramakun.ru/User/70279/
+http://doramakun.ru/User/21204/
+http://doramakun.ru/User/55392/

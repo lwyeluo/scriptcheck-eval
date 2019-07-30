@@ -1,0 +1,10 @@
+https://www.reg.ru/web-toolspremium-dns
+https://www.reg.ru/domainnew-gtlds
+https://www.reg.ru/web-sitescmsopencms
+https://www.reg.ru/ssl-certificatecompare
+https://www.reg.ru/companypaytypes
+https://www.reg.ru/web-toolsadvertisingseowizard
+https://www.reg.ru/ssl-certificateThawte
+https://www.reg.ru/domainservicetransfer
+https://www.reg.ru/companypromotions
+https://www.reg.ru/

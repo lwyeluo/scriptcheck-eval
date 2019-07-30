@@ -1,0 +1,10 @@
+https://www.nate.com/mobile.nate.com
+https://www.nate.com/news.nate.comhissueclstList?mid=e0103&isq=7377
+https://estate.nate.com/cp/sale/open.asp?only=345&m_=1&g_=&silk_gnb=
+https://www.nate.com/news.nate.comview20190721n02606?mid=e1100&modit=1563674171
+http://news.nate.com/weather/airPollution?type=pm10
+https://pann.nate.com
+https://www.nate.com/
+https://pann.nate.com/talk/347087985
+https://www.nate.com/news.nate.comview20190721n09582?modit=1563686809
+https://fortune.nate.com/contents/freeunse/freeunseframe.nate?freeUnseId=week04

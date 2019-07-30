@@ -1,0 +1,10 @@
+http://sai.fengniao.com/
+http://2.fengniao.com/auction
+http://2.fengniao.com/recycle
+http://2.fengniao.com/quality
+https://www.fengniao.com/
+http://www.fengniao.com/jiaoquan-apps.html
+http://news.fengniao.com/
+http://product.fengniao.com/lens.html
+http://tu.fengniao.com/
+http://bbs.fengniao.com/jinghua-101.html

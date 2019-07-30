@@ -1,0 +1,10 @@
+https://m.adidas.ru/zhenschiny-sandalii_i_slantcy
+https://www.adidas.ru/muzhchiny-vetrovki
+https://m.adidas.ru/muzhchiny-obuv-futbol
+https://www.adidas.ru/
+https://www.adidas.ru/zhenschiny
+http://www.adidas.ru/deti-basketbol
+https://www.adidas.ru/help-topics-size_charts.html
+https://www.adidas.ru/muzhchiny-nite_jogger
+https://m.adidas.ru/muzhchiny-odezhda-originals
+https://www.adidas.ru/odezhda-neitralnye_tcveta

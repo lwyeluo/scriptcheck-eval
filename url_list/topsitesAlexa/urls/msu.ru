@@ -1,0 +1,10 @@
+https://conf.msu.ru/rus/event/5728/
+https://www.msu.ru/
+http://cpk.msu.ru/
+https://www.msu.ru/thanksk-yubileyu-vpborisenkova.html
+https://conf.msu.ru/rus/event/5649/
+https://www.msu.ru/ch?r=%2Findex.php
+https://www.msu.ru/sciencead
+https://www.msu.ru/thanksk-yubileyu-mdrukina.html
+https://conf.msu.ru/rus/event/5742/
+https://www.msu.ru/infostructdepartmentsunp.html

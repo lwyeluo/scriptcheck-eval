@@ -1,0 +1,10 @@
+https://www.societe.com/pagesles-actualites-du19-07-2019.html
+https://www.societe.com/actualitesla_commission_europeenne_epingle_qualcomm_pour_pratiques_anticoncurrentielles-37472.html
+https://www.societe.com/pagescgu-cgv.html
+https://www.societe.com/pagesveille-rncs-bodacc.html
+https://www.societe.com/produitsveille-modifications-mutations.html
+https://www.societe.com/produitsactes-statuts.html
+https://www.societe.com/publicationsle_prelevement_a_la_source_sur_les_revenus_fonciers-30774.html
+https://www.societe.com/pages_html/fichier-entreprises.html
+https://www.societe.com/
+https://www.societe.com/produitssaisiebilan.html

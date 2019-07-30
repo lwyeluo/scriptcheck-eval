@@ -1,0 +1,10 @@
+https://forum.rhymezone.com
+https://www.rhymezone.com/adv
+https://www.rhymezone.com/
+https://forum.rhymezone.com/forum/share-riddles-teasers-and-contests
+https://forum.rhymezone.com/forum/get-help-with-writing-and-homework
+https://www.rhymezone.com/rrd.cgi?c=forum&url=homepage
+https://www.rhymezone.com/help
+https://www.rhymezone.com/couplets
+https://www.rhymezone.com/help#privacy
+https://www.rhymezone.com/rrd.cgi?c=ios&url=hp1

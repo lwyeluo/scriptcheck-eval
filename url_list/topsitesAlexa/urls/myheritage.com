@@ -1,0 +1,10 @@
+https://www.myheritage.com/FP/Company/popup.php?p=privacy_policy
+https://www.myheritage.com/FP/Company/popup.php?p=terms_conditions
+https://www.myheritage.com/pricing
+https://www.myheritage.com/
+https://www.myheritage.com/help-center
+https://www.myheritage.com/about-myheritage
+https://www.myheritage.com/stories
+https://blog.myheritage.com
+https://www.myheritage.com/research
+https://www.myheritage.com/family-tree

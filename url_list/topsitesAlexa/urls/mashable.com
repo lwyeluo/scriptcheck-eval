@@ -1,0 +1,10 @@
+https://www.mashable.com/201712
+https://www.mashable.com/200802
+https://www.mashable.com/categoryantivirus
+https://www.mashable.com/2008
+https://www.mashable.com/categorytech
+https://www.mashable.com/200705
+https://www.mashable.com/201401
+https://www.mashable.com/categorymemes
+https://www.mashable.com/200508
+https://www.mashable.com/

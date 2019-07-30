@@ -1,0 +1,10 @@
+https://ezgif.com/rotate-video
+https://ezgif.com/png-to-jpg
+https://ezgif.com/pdf-to-gif
+https://www.ezgif.com/add-text
+https://www.ezgif.com/optimize
+https://ezgif.com/effects
+https://www.ezgif.com/
+https://ezgif.com/video-to-webp
+https://www.ezgif.com/archive3
+https://ezgif.com/pdf-to-png

@@ -1,0 +1,10 @@
+https://learning.naukri.com/six-sigma-quality-courses-certification-training-st311?fftid=homepage
+https://w28.naukri.com/advertiser/bms_hits.php?banner=7300562&othersrcp=
+https://w28.naukri.com/advertiser/bms_hits.php?banner=7302254&othersrcp=
+https://www.naukri.com/tieups/tieups.php?othersrcp=33079
+https://w28.naukri.com/advertiser/bms_hits.php?banner=7302478&othersrcp=
+https://w28.naukri.com/advertiser/bms_hits.php?banner=7300194&othersrcp=
+https://www.naukri.com/tieups/tieups.php?othersrcp=33783
+https://www.naukri.com/director-finance-jobs
+https://www.naukri.com/
+https://w28.naukri.com/advertiser/bms_hits.php?banner=7303010&othersrcp=

@@ -1,0 +1,10 @@
+https://jimdofree.com/
+https://jimdofree.com/infoprivacy
+https://jimdofree.com/websitebusiness
+https://jimdofree.com/about-jimdo
+https://jimdofree.com/websitefree
+https://jimdofree.com/websiterestaurant
+https://jimdofree.com/websitehair-beauty
+https://jimdofree.com/websiteguide
+https://jimdofree.com/pricing
+https://jimdofree.com/websiteauthor

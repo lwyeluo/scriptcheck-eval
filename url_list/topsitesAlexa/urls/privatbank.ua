@@ -1,0 +1,10 @@
+https://privatbank.ua/notariat/
+https://www.privatbank.ua/cpagooglepay
+https://blago.privatbank.ua/
+https://www.privatbank.ua/
+https://www.privatbank.ua/dep-sertifikat
+https://www.privatbank.ua/platezhnie-kartyuniversalna
+https://bilet.privatbank.ua/
+https://www.privatbank.ua/povnovazhennya-dlya-oformlennya-dovirenostey
+https://www.privatbank.ua/mernyye-slitki-bankovskogo-zolota
+https://www.privatbank.ua/popolnenie-mobilnogo

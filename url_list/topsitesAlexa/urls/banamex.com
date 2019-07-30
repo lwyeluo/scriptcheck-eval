@@ -1,0 +1,10 @@
+https://www.banamex.com/espersonasbanca-digitalsucursales-digitales.html
+https://www.banamex.com/espersonasbanca-digitalapp-afore-movil.html
+https://www.banamex.com/espersonastarjetas-creditotarjeta-bsmart.html
+https://www.banamex.com/
+https://www.banamex.com/sitiospromocionesdetalle.html?idPromocion=10332&idCategory=6&icid=s.pageName|ExperienciasExclusivas-LoMasNuevo-OU2-19072019-Promotion-irCHILITOS-ESMobile
+https://portal.banamex.com.mx/solicitud_tdc_v8/index.html?lid=s.pageName-MenuMobile-Acquisition-irSolicitudGenerica-Mobile
+https://www.banamex.com/esmapa-del-sitio.html
+https://www.banamex.com/espersonasbanca-digitalcitibanamex-pay.html
+https://www.banamex.com/espersonasbanca-digitalbancanet.html?lid=s.pageName-AppsServicios-Information-irBancanetCitibanamex-ESMobile
+https://www.banamex.com/sitioscomunicados-prensaindex.html

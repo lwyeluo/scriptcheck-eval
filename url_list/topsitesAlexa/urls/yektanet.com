@@ -1,0 +1,10 @@
+https://www.yektanet.com/native-advertising/
+https://www.yektanet.com/retargeting/
+https://www.yektanet.com/blog/
+https://auth.yektanet.com/
+https://www.yektanet.com/pay-per-click-advertising/
+https://www.yektanet.com/about-yektanet/#jobs
+https://www.yektanet.com/push-notification-ads/
+https://www.yektanet.com/
+https://www.yektanet.com/contact/
+https://www.yektanet.com/publishers

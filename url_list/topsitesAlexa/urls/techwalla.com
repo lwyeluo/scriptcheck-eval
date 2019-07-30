@@ -1,0 +1,10 @@
+https://www.techwalla.com/13720147nows-the-time-to-buy-a-fire-hd-kids-edition-tablet
+https://www.techwalla.com/
+https://www.techwalla.com/about
+https://www.techwalla.com/phones
+https://www.techwalla.com/13720106apples-back-to-school-deals-for-college-students-are-happening-now
+https://www.techwalla.com/13719932google-maps-will-now-predict-how-crowded-your-train-or-bus-will-be
+https://www.techwalla.com/cool
+https://www.techwalla.com/pets
+https://www.techwalla.com/around-the-home
+https://www.techwalla.com/tablets

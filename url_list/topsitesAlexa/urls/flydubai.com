@@ -1,0 +1,10 @@
+https://www.flydubai.com/
+https://www.flydubai.com/enflying-with-uspartners
+https://www.flydubai.com/eninformationpreference-centre
+https://www.flydubai.com/eninformationcargo
+https://www.flydubai.com/enflying-with-usbusiness-class
+https://www.flydubai.com/endestinationsconnections
+https://www.flydubai.com/endestinationstravel-ideas
+https://www.flydubai.com/enplantimetable
+https://www.flydubai.com/enplanflight-status
+https://www.flydubai.com/enplanpayment-points

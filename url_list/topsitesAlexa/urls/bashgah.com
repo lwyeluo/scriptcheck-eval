@@ -1,0 +1,10 @@
+https://www.bashgah.com/#!loginedu
+https://www.bashgah.com/#!competition
+https://www.bashgah.com/#!competition#!login
+https://www.bashgah.com/#!competition#!competition
+https://www.bashgah.com/#!competitionedu
+https://www.bashgah.com/#!competitionblog
+https://www.bashgah.com/blog
+https://www.bashgah.com/
+https://www.bashgah.com/edu
+https://www.bashgah.com/#!login

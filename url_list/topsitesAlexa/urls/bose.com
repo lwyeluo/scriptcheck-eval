@@ -1,0 +1,10 @@
+https://www.bose.com/en_uslegalterms_of_sale.html
+https://www.bose.com/
+https://www.bose.com/en_usproductsspeakersstereo_speakers.html
+https://www.bose.com/en_ussupportcookie_policy.html
+https://www.bose.com/en_uslegalproduct_warranty.html
+https://www.bose.com/en_usproductsheadphonesnoise_cancelling_headphonesnoise-cancelling-headphones-700.html
+https://automotive.bose.com/?utm_source=bose.com&utm_medium=referral&utm_content=homepage-link
+https://www.bose.com/en_usproductsheadphonesover_ear_headphonesquietcomfort-35-ii-wireless-custom.html#v=qc35_ii_custom_color
+https://www.bose.com/en_usproductsspeakersportable_speakers.html
+https://www.bose.com/en_usshop_allshop_all_productsnew.html#drawer=show&facet=productStatus%7CNEW

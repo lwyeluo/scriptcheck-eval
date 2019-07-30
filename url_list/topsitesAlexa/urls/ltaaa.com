@@ -1,0 +1,10 @@
+http://translate.ltaaa.com/index/special/1
+http://www.ltaaa.com/
+http://translate.ltaaa.com/article/7511
+http://translate.ltaaa.com/article/7509
+http://www.ltaaa.com/article29048
+http://m.ltaaa.com
+http://www.ltaaa.com/article29069
+http://translate.ltaaa.com/article/7583
+http://translate.ltaaa.com/article/7510
+http://www.ltaaa.com/bbshome.php?mod=space&do=wtfy&uid=337584

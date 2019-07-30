@@ -1,0 +1,10 @@
+https://www.geni.com/tr8nlanguageswitch?language_action=switch_language&locale=da
+https://www.geni.com/tr8nlanguageswitch?language_action=switch_language&locale=de
+https://help.geni.com
+https://www.geni.com/directorypeopler.html
+https://www.geni.com/login
+http://wiki.geni.com/
+https://www.geni.com/directorypeopled.html
+https://www.geni.com/people/Elizabeth-II-Queen-of-the-United-Kingdom/6000000003075071669
+https://www.geni.com/tr8nlanguageswitch?language_action=switch_language&locale=he
+https://www.geni.com/

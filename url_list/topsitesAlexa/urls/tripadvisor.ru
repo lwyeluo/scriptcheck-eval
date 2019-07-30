@@ -1,0 +1,10 @@
+https://www.tripadvisor.ru/Hotels-g293932-Yerevan-Hotels.html
+https://www.tripadvisor.ru/Tourism-g293983-Jerusalem_Jerusalem_District-Vacations.html
+https://www.tripadvisor.ru/Attraction_Review-g187307-d190837-Reviews-Schloss_Neuschwanstein-Hohenschwangau_Swabia_Bavaria.html
+https://www.tripadvisor.ru/Attraction_Review-g298484-d12946851-Reviews-Park_Zaryadye-Moscow_Central_Russia.html
+https://www.tripadvisor.ru/Hotels-g308272-Shanghai-Hotels.html
+https://www.tripadvisor.ru/Attraction_Review-g189158-d199878-Reviews-Praca_do_Comercio_Terreiro_do_Paco-Lisbon_Lisbon_District_Central_Portugal.html
+https://www.tripadvisor.ru/Tourism-g293980-Eilat_Southern_District-Vacations.html
+https://www.tripadvisor.ru/Home-g187768
+https://www.tripadvisor.ru/Inspiration-zfh18-Family_Friendly
+https://www.tripadvisor.ru/

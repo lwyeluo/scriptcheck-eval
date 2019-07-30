@@ -1,0 +1,10 @@
+https://www.brainly.ph/signup?entry=1
+https://www.brainly.ph/subjectmusic
+https://www.brainly.ph/contactindex
+https://www.brainly.ph/
+https://www.brainly.ph/subjectphysics
+https://www.brainly.ph/pagespoints
+https://www.brainly.ph/subjectscience
+https://www.brainly.ph/subjectspanish
+https://www.brainly.ph/subjecthistory
+https://brainly.ph

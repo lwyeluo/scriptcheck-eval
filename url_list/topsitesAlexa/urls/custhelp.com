@@ -1,0 +1,10 @@
+http://www.custhelp.com/appmysupportaskgrouporaclefieldservice
+http://www.custhelp.com/
+http://www.custhelp.com/appanswersdetaila_id7820
+http://www.custhelp.com/appanswersdetaila_id5168
+http://www.custhelp.com/appblogdetaila_id10825
+http://www.custhelp.com/appanswersdetaila_id5436
+https://ora-fusion-apps.custhelp.com/app/home/https%3A%2F%2Fappsconnect.oracle.com%3Flang%3Den_US?action=login
+http://www.custhelp.com/apputilsaccount_assistancesessionL3RpbWUvMTU2MzcwMTgxMC9nZW4vMTU2MzcwMTgxMC9zaWQvZlVPUHVIeHloQVFqX1NSSkM4dDJiVGViRnBIT3BIYXFOUlczN0RWakFJeCU3RXlqOXZNMlRSR3ZJWm9Wa1Fwc09yeG1yQTI3ZUFEWFNWeHJ3N0JvJTdFenVKZnE4aWNmUVlzRCU3RXlkZ0dmSHp4VUpLaUs4NUVoZmt6Vlh3JTIxJTIx
+http://www.custhelp.com/appanswersdetaila_id4833
+http://www.custhelp.com/appanswerslistnew1

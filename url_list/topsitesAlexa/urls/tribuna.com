@@ -1,0 +1,10 @@
+https://www.tribuna.com/enclubsmanchester_city
+https://sales.tribuna.com/
+https://www.tribuna.com/enfcbarcelonanews3422261
+https://www.tribuna.com/enclubsburnley_fc
+https://www.tribuna.com/enclubscrystal_palace
+https://www.tribuna.com/enchelseanews3422258
+https://www.tribuna.com/entransfers
+https://www.tribuna.com/enclubstottenham_hotspur
+https://www.tribuna.com/enmanutdnews3422248
+https://www.tribuna.com/

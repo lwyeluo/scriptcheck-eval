@@ -1,0 +1,10 @@
+https://www.cnet.com/topicsmobile
+https://www.cnet.com/topicswashing-machinesbest-washing-machines
+https://www.cnet.com/roadshowbest-carsbest-affordable-cars
+https://www.cnet.com/newscomic-con-has-the-nerdiest-fedex-in-the-world
+https://www.cnet.com/cnet-podcasts
+https://www.cnet.com/editors-choice
+https://www.cnet.com/videosmarvel-phase-4-plan-explained-mcu-thor-4
+https://www.cnet.com/newsbest-grill-of-2019-gas
+https://www.cnet.com/smart-living
+https://www.cnet.com/

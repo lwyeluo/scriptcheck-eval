@@ -1,0 +1,10 @@
+https://www.hellofresh.com/tastywine?redirectedFromAccountArea=true
+https://www.hellofresh.com/contact-page?redirectedFromAccountArea=true
+https://www.hellofresh.com/
+https://www.hellofresh.com/meet-our-suppliers?redirectedFromAccountArea=true
+https://www.hellofresh.com/menus
+https://www.hellofresh.com/lpseasonal?redirectedFromAccountArea=true
+https://www.hellofresh.com/?locale=en-US&redirectedFromAccountArea=true
+https://www.hellofresh.com/plans
+https://www.hellofresh.com/plans?redirectedFromAccountArea=true
+https://www.hellofresh.com/tastygift-landing?redirectedFromAccountArea=true

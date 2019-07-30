@@ -1,0 +1,10 @@
+https://www.thumbtack.com/careers
+https://www.thumbtack.com/questionhow-often-should-carpets-be-steam-cleaned-326039449468649482
+https://www.thumbtack.com/kpersonal-trainersnear-me
+https://www.thumbtack.com/guarantee
+https://www.thumbtack.com/pwedding-cake-prices
+https://www.thumbtack.com/questionhow-do-you-find-a-good-landscape-architect-326083536259768389
+https://www.thumbtack.com/
+https://www.thumbtack.com/pportrait-photographers-prices
+https://www.thumbtack.com/pmakeup-artist-prices
+https://www.thumbtack.com/kfencesnear-me

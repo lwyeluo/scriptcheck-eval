@@ -1,0 +1,10 @@
+https://www.surveymonkey.com/enterprise?ut_source=homepage&ut_source2=rebrand_home_row
+https://www.surveymonkey.com/www.surveymonkey.de?ut_source=footer
+https://www.surveymonkey.com/tr.surveymonkey.com?ut_source=footer
+https://www.surveymonkey.com/mphr-solutions?ut_source=megamenu
+https://www.surveymonkey.com/enterprise?ut_source=megamenu
+https://www.surveymonkey.com/mpsurvey-types?ut_source=megamenu
+https://www.surveymonkey.com/mp/gdpr/?ut_source=footer
+https://www.surveymonkey.com/mpcustomer-loyalty-surveys?ut_source=megamenu
+https://www.surveymonkey.com/mp/sitemap/?ut_source=footer
+https://www.surveymonkey.com/

@@ -1,0 +1,10 @@
+https://www.nydailynews.com/bob-raissman-staff.html#nt=byline
+https://www.nydailynews.com/news/ny-20190720-zdoboeyg5jbrpgvz4qrsjxnz5a-story.html
+https://www.nydailynews.com/featuredsns-famous-places-to-visit-before-they-disappear-20190719-photogallery.html
+https://www.nydailynews.com/
+https://www.nydailynews.com/sportsbaseballny-oliver-drake-tampa-bay-rays-screwball-splitter-20190721-jv5y7xnuerbi5m7tr22ygk5n7u-story.html
+https://www.nydailynews.com/new-yorknyc-crimeny-el-chapo-heroin-bronx-20190719-amixxqpohrdgzecai2elnsmg3u-story.html
+https://www.nydailynews.com/life-styleeats#nt=rec-header
+https://www.nydailynews.com/100th-anniversary/#nt=primarynavbar
+https://www.nydailynews.com/featuredsns-iconic-new-york-daily-news-front-covers-gallery-20190626-photogallery.html
+https://www.nydailynews.com/sports/baseball/mets/#nt=secondarynavbar

@@ -1,0 +1,10 @@
+https://www.mturk.com/pricing
+http://blog.mturk.com
+https://www.mturk.com/legal-licenses
+https://www.mturk.com/customers
+https://requester.mturk.com/begin_signin
+https://www.mturk.com/get-started
+https://worker.mturk.com/
+https://www.mturk.com/worker
+https://www.mturk.com/product-details
+https://www.mturk.com/

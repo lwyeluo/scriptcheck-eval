@@ -1,0 +1,10 @@
+https://www.williams-sonoma.com/shop/electrics/electrics-registry-favorites/?cm_type=gnav
+https://www.williams-sonoma.com/shop/sale-special-offer/view-all-sale/?cm_re=Spotlight-_-Sale-_-Image_
+https://www.williams-sonoma.com/shop/outdoor/outdoor-beverage-dispensers/?cm_type=gnav
+https://www.williams-sonoma.com/shop/food/food-mixes/?cm_type=gnav
+https://www.williams-sonoma.com/
+https://www.williams-sonoma.com/international/setcountry.html
+https://www.williams-sonoma.com/shop/electrics/breville-designer-colors/?cm_type=gnav
+https://www.williams-sonoma.com/shop/gifts/gifts-for-her/?cm_type=gnav
+https://www.williams-sonoma.com/shop/new/new-view-all/?cm_type=gnav
+https://www.williams-sonoma.com/shop/bakeware/bakeware-bread-shop/?cm_re=Spotlight-_-Bakeware-_-Image_Shop_Now

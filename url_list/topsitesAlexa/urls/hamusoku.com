@@ -1,0 +1,10 @@
+http://hamusoku.com/archives/cat_237563.html
+http://hamusoku.com/archives/cat_234144.html
+http://hamusoku.com/archives/cat_250203.html
+http://hamusoku.com/archives/cat_251014.html
+http://hamusoku.com/archives/2014-06.html
+http://hamusoku.com/index.rdf
+http://hamusoku.com/tag/%E8%8A%B8%E8%83%BD%E4%BA%8B%E5%8B%99%E6%89%80
+http://hamusoku.com/
+http://hamusoku.com/archives/cat_246930.html
+http://hamusoku.com/archives/cat_247334.html

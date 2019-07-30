@@ -1,0 +1,10 @@
+https://www.today.com/news/politics
+https://www.today.com
+https://www.today.com/video/tips-and-tricks-for-smooth-summer-travel-64147525802
+https://www.today.com/
+https://www.today.com/video/grill-mouthwatering-pork-chops-with-chef-marcus-samuelsson-64147013714
+https://www.today.com/label/craftsy
+https://www.today.com/home
+https://www.today.com/video/-once-upon-a-time-in-hollywood-cast-share-classic-films-they-haven-t-seen-64140357661
+https://visit.today.com
+https://www.today.com/video/2019-british-open-dylan-previews-the-historic-golf-tournament-64141893627

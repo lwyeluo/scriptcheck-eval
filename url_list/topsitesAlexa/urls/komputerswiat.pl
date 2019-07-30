@@ -1,0 +1,10 @@
+https://download.komputerswiat.pl/bezpieczenstwo/antywirusy/dr-web-cureit
+https://www.komputerswiat.pl/gamezilla
+https://www.komputerswiat.pl/aktualnoscismartfony
+https://www.komputerswiat.pl/aktualnosciinternet
+https://www.komputerswiat.pl/
+https://www.komputerswiat.pl/aktualnosciprogramy
+https://www.komputerswiat.pl/gamezillaesport
+https://www.komputerswiat.pl/gamezillarecenzje
+https://www.komputerswiat.pl/aktualne-wydanie/komputer-swiat-special-22019/28rjl56
+https://www.komputerswiat.pl/gamezilla/recenzje/recenzja-f1-2019-robert-kubica-w-koncu-na-podium/qd8e23w

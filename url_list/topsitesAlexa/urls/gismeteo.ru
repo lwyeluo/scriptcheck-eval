@@ -1,0 +1,10 @@
+https://www.gismeteo.ru/ref/?url=aHR0cHM6Ly93d3cudmVzdGkucnUvZG9jLmh0bWw/aWQ9MzE3MDI5NCZ1dG1fc291cmNlPWdpc21ldGVvJnV0bV9tZWRpdW09YmFubmVyJnV0bV9jYW1wYWlnbj1naXNtZXRlby1uZXdz&type=news_type&id=91&position=12&news_tape_id=91&news_id=29&news_resource=vesti_2_column_12&slot_id=42&slot_position=1&site_type=1&news_position=12
+https://www.gismeteo.ru/jobs
+https://www.gismeteo.ru/news/
+https://www.gismeteo.ru/ref/?url=aHR0cHM6Ly9yZWFsdHkucmJjLnJ1L25ld3MvNWQzMTljYzc5YTc5NDdlNjg4YzhkNTY1P3V0bV9zb3VyY2U9Z2lzbWV0ZW8mdXRtX21lZGl1bT1uZXdzJnV0bV9jYW1wYWlnbj1naXNtX3RvcDE3&type=news_type&id=12&position=15&news_tape_id=12&news_id=1&news_resource=rbc&slot_id=13&slot_position=1&site_type=1&news_position=15
+https://www.gismeteo.ru/ref/?url=aHR0cDovL3d3dy52ZXN0aS5ydS9tL2RvYy5odG1sP2lkPTMxNzAzOTImdXRtX3NvdXJjZT1naXNtZXRlbyZ1dG1fbWVkaXVtPWJhbm5lciZ1dG1fY2FtcGFpZ249Z2lzbWV0ZW8tbmV3YmxvY2s=&type=news_type&id=13&position=1&news_tape_id=13&news_id=43&news_resource=main_vesti.ru&slot_id=7&slot_position=4&site_type=1&news_position=1
+https://www.gismeteo.ru/weather-tyumen-4501
+https://www.gismeteo.ru/pageagreement
+https://www.gismeteo.ru/weather-kaliningrad-4225
+https://www.gismeteo.ru/
+https://www.gismeteo.ru/ref/?url=aHR0cHM6Ly93d3cucmJjLnJ1L3BvbGl0aWNzLzIwLzA3LzIwMTkvNWQzMmY5MzI5YTc5NDc1NTY4MDI2ZTg0P3V0bV9zb3VyY2U9Z2lzbWV0ZW8mdXRtX21lZGl1bT1uZXdzJnV0bV9jYW1wYWlnbj1naXNtX3RvcDEw&type=news_type&id=12&position=10&news_tape_id=12&news_id=2&news_resource=rbc&slot_id=13&slot_position=1&site_type=1&news_position=10

@@ -1,0 +1,10 @@
+http://www.sh.st/login
+http://www.sh.st/payoutrates
+http://www.sh.st/referral-program
+http://www.sh.st/languagees
+http://www.sh.st/languageen
+http://www.sh.st/benefits
+http://www.sh.st/privacy
+http://www.sh.st/register
+http://www.sh.st/
+http://www.sh.st/languageru

@@ -1,0 +1,10 @@
+https://gamedevelopment.tutsplus.com/categories/programming
+https://code.tutsplus.com/categories/cms
+https://computers.tutsplus.com/categories/productivity
+https://design.tutsplus.com/articles/how-to-draw--cms-25787
+https://photography.tutsplus.com/ebooks
+https://tutsplus.com/advertise
+https://music.tutsplus.com/categories/workshops
+https://www.tutsplus.com/
+https://computers.tutsplus.com/categories/microsoft-powerpoint
+https://design.tutsplus.com/tutorials

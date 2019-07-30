@@ -1,0 +1,10 @@
+http://www.hesgoal.com/news/2033/Tottenham_-_Younes_Kabul_to_Besiktas.html
+http://www.hesgoal.com/news/19078/Bad_day_for_Mercedes_and_Lewis_Hamilto.html
+http://www.hesgoal.com/news/2053/Van_der_Garde_and_Sauber,_its_over.html
+http://www.hesgoal.com/news/50008/Golf_The_Open.html
+http://www.hesgoal.com/news/2038/Japan_-_Bielsa_new_coach.html
+https://www.hesgoal.com/
+http://www.hesgoal.com/news/2042/Liverpool_and_Man_UTD_eyeing_the_Tunisian__Aymen_Abdennour.html
+http://www.hesgoal.com/news/2039/Suently_prolong_his_contract_with_PSV.html
+http://www.hesgoal.com/news/2058/Romain_Grosjean_said_-_Hungary_GP_,_It_is_a_miracle.html
+http://www.hesgoal.com/news/2052/Vettel_,_a_Ferrari_fan.html

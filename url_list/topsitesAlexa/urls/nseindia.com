@@ -1,0 +1,10 @@
+https://www.nseindia.com/live_market/dynaContent/live_watch/commodity_der_stock_watch.htm
+https://www.nseindia.com/
+https://www.nseindia.com/productscontentdebtncbpncbp_issues.htm
+https://www.nseindia.com/int_investdynacontentany_portal.htm
+https://www.nseindia.com/productscontentdebtwdmndm.htm
+https://www.nseindia.com/investcontentintrstn_invst_cncpts.htm
+https://www.nseindia.com/live_marketcontentlive_watchippipp_sale.htm
+https://www.nseindia.com/researchcontentnse_working_papers.htm
+https://www.nseindia.com/investcontentSARAL_Account_OpeningForm_for_New_Investors.pdf
+https://www.nseindia.com/corporatescorporateHome.html?id=eqCorpActions

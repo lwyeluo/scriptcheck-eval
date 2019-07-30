@@ -1,0 +1,10 @@
+https://www.piazza.com/productoverview
+https://www.piazza.com/professors#slobodan_simic
+https://recruiting.piazza.com
+https://www.piazza.com/professors#paul_hegarty
+https://www.piazza.com/aboutjobs
+https://www.piazza.com/professors#ron_lee
+https://www.piazza.com/aboutstory
+https://www.piazza.com/legalcopyright
+https://www.piazza.com/productaccessibility
+https://www.piazza.com/

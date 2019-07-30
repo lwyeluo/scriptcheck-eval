@@ -1,0 +1,10 @@
+http://www.avon.ru/tovar9953pena-dlya-vann-frantsuzskaya-siren--500-ml?inm=Y19:C10:DCEHomepage:bestsellers:9953
+http://www.avon.ru/imbrochure?inm=Y19:C10:DCEHomepage:imbro:commonButton
+https://my.avon.ru/photo-timur/?inm=Y19:C10:DCEHomepage:timurblogger:commonButton
+http://www.avon.ru/tovar21031zhenskaya-sumka-leila?inm=Y19:C10:DCEHomepage:seasonNovelty:21031
+http://www.avon.ru/the-drop?inm=Y19:C10:DCEHomepage:best:thedrop
+http://www.avon.ru/mark?inm=Y19:C10:DCEHomepage:best:mark
+http://www.avon.ru/tovar21489ser-gi-kasiya?inm=Y19:C10:DCEHomepage:seasonNovelty:21489
+http://www.avon.ru/tovar21015bystrosokhnushchii-lak-dlya-nogtei-pro-tsvet-za-60-sekund?inm=Y19:C10:DCEHomepage:seasonNovelty:21015
+http://www.avon.ru/
+http://www.avon.ru/tovar617spetsial-noe-predlozhenie-stoikaya-krem-kraska-dlya-volos-salonnyi-ukhod?inm=Y19:C10:DCEHomepage:bestsellers:617

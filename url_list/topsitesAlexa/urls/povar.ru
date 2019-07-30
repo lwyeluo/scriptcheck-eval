@@ -1,0 +1,10 @@
+https://www.povar.ru/listbeze
+https://www.povar.ru/listzapravki_dlya_salatov
+https://www.povar.ru/listtarty
+https://www.povar.ru/listbiskotti
+https://www.povar.ru/listrogaliki
+https://www.povar.ru/listkebab
+https://www.povar.ru/listachma
+https://www.povar.ru/
+https://www.povar.ru/listpelmeni
+https://www.povar.ru/artuniversalnyi_cukini_na_zakusku_garnir_i_desert.html

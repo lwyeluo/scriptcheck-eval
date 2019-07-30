@@ -1,0 +1,10 @@
+https://www.jotform.com/form-templates/?classic
+https://apps.jotform.com
+https://www.jotform.com/form-templates/category/booking
+https://www.jotform.com/summer-camp/
+https://stories.jotform.com/
+https://www.jotform.com/
+https://www.jotform.com/form-templates/
+https://www.jotform.com/privacy/
+https://www.jotform.com/build
+https://www.jotform.com/help

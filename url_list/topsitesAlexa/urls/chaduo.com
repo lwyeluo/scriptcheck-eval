@@ -1,0 +1,10 @@
+http://www.chaduo.com/boards.php?ps_sele=sub_plus&ps_ques=è¶
+http://www.chaduo.com/boards.php?ps_sele=sub_plus&ps_ques=è¶å¶
+http://www.chaduo.com/purchase.php
+http://chaduo.com
+http://chaduo.com/redirect.php?newurl=http://www.fjwstea.com/
+http://chaduo.com/redirect.php?newurl=http://q118.chaduo.com/
+http://www.chaduo.com/page.php?action=Seller_Jczx
+http://www.chaduo.com/news-cjzc-1.html
+http://chaduo.com/redirect.php?newurl=http://www.weiyintea.com/class_q.asp?aa=87
+http://www.chaduo.com/

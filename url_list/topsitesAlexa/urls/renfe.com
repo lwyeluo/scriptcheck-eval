@@ -1,0 +1,10 @@
+http://www.renfe.com/
+https://venta.renfe.com/vol/myJourneysCEX.do
+http://www.renfe.com/CAviajerosindex.html
+http://www.renfe.com/empresaempleo_y_formacionformacionindex.html
+http://www.renfe.com/empresaindex.html
+http://www.renfe.com/EUviajerosindex.html
+http://www.renfe.com/viajerosinfofactura.html
+http://www.renfe.com/WebOfertaComercialjsphomeOfertaComercial.jsp?destacado=S
+http://www.renfe.com/empresaintegriaindex.html
+https://saladeprensa.renfe.com/

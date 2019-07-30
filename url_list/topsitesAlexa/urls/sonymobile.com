@@ -1,0 +1,10 @@
+https://www.sonymobile.com/
+https://www.sonymobile.com/my
+https://www.sonymobile.com/us
+https://www.sonymobile.com/legal/
+https://blogs.sonymobile.com/about-us/sustainability/commitment/overview/
+https://www.sonymobile.com/kr
+https://www.sonymobile.com/legal/privacy/
+https://www.sonymobile.com/fi
+https://www.sonymobile.com/careers/
+https://www.sonymobile.com/xperia/business/

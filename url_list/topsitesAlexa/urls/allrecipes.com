@@ -1,0 +1,10 @@
+https://www.allrecipes.com/cook/autumnpumpkin/
+https://www.allrecipes.com/recipes/76/appetizers-and-snacks/
+https://www.allrecipes.com/recipes/17235/everyday-cooking/allrecipes-magazine-recipes/
+https://www.allrecipes.com/recipes/362/desserts/cookies/
+https://www.allrecipes.com/new-this-month
+http://dish.allrecipes.com/dinner-spinner-tv-show/
+https://www.allrecipes.com/cook/6036001/
+https://www.allrecipes.com/
+https://www.allrecipes.com/recipes/205/meat-and-poultry/pork/
+https://www.allrecipes.com/cook/2030293/

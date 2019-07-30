@@ -1,0 +1,10 @@
+https://www.codecademy.com/catalogsubjectall
+https://www.codecademy.com/register?redirect=%2F
+https://www.codecademy.com/login?redirect=%2F
+https://codecademy.com/about/careers/
+https://www.codecademy.com/usersauthfacebook?signin=true
+https://www.codecademy.com/policy
+https://www.codecademy.com/terms
+https://www.codecademy.com/usersauthlinkedin?signin=true
+https://www.codecademy.com/usersauthgithub?scope=public_repo%2Cuser%3Aemail
+https://www.codecademy.com/

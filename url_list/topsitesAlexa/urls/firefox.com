@@ -1,0 +1,10 @@
+https://www.firefox.com/zh-CNfirefoxdownloadthanks
+https://www.firefox.com/zh-CNfirefoxfeatures
+https://www.firefox.com/zh-CNaboutlegal
+https://www.firefox.com/zh-CNfirefoxnew
+https://www.firefox.com/zh-CNfirefoxchanneldesktop
+https://www.firefox.com/zh-CNabout
+https://www.firefox.com/zh-CNprivacywebsites
+https://www.firefox.com/zh-CNcontact
+https://www.firefox.com/
+https://www.firefox.com/zh-CNfirefoxaccounts

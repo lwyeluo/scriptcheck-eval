@@ -1,0 +1,10 @@
+https://getintopc.com/softwares/website-design/xara-web-designer-premium-2019-free-download/#more-126247
+https://getintopc.com/contact-us/
+https://getintopc.com/report-abuse-file/
+https://getintopc.com/softwares/website-design/xara-web-designer-premium-2019-free-download/
+https://getintopc.com/softwares/graphic-design/
+https://getintopc.com/softwares/3d-designing/the-foundry-modo-12-2v2-free-download/
+https://getintopc.com/page/3/
+https://getintopc.com/software-categories/
+https://www.getintopc.com/
+https://getintopc.com/softwares/compression/

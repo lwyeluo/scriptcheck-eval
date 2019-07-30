@@ -1,0 +1,10 @@
+https://www.smartrecruiters.com/recruiting-softwaresmartrecruit#hire
+https://www.smartrecruiters.com/resourcesgdpr-recruiting
+https://www.smartrecruiters.com/
+https://www.smartrecruiters.com/recruiting-softwarerecruiting-analytics-reporting
+https://www.smartrecruiters.com/recruiting-softwaremarketplace
+https://www.smartrecruiters.com/de
+https://www.smartrecruiters.com/resources
+https://www.smartrecruiters.com/resources/landing/ebook-hiring-success-fundamentals/
+https://www.smartrecruiters.com/resources/landing/avoiding-the-pitfalls-of-erp-systems-in-talent-acquisition/
+https://www.smartrecruiters.com/recruiting-softwareapplicant-tracking-system

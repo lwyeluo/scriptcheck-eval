@@ -1,0 +1,10 @@
+https://www.cinepolis.com/carteleracdmx-norte
+https://www.cinepolis.com/peliculaapollo-11
+https://www.cinepolis.com/mas-que-cinepeliculakusama-infinito
+https://www.cinepolis.com/proximos-estrenos
+https://www.cinepolis.com/peliculaannabelle-3-viene-a-casa
+https://www.cinepolis.com/peliculavr-sol-raiders
+https://www.cinepolis.com/peliculamejor-que-nunca
+https://www.cinepolis.com/peliculapaw-patrol-mighty-pups
+https://www.cinepolis.com/peliculala-vida-secreta-de-tus-mascotas-2
+https://www.cinepolis.com/

@@ -1,0 +1,10 @@
+https://www.developpez.com/
+https://firebird.developpez.com
+https://nosql.developpez.com
+https://www.developpez.com/actu270434Microsoft-a-depasse-les-estimations-des-analystes-grace-a-la-croissance-de-son-activite-Cloud-au-cours-du-2T2019
+https://etudes.developpez.com/
+https://www.developpez.com/indexredirect60120Mise-a-jour-de-la-page-des-livres-blancs-proposes-par-IBM-sur-les-technologies-de-systeme-d-information-par-l-equipe-de-redaction
+https://windowsphone.developpez.com
+https://www.developpez.com/indexredirect75590Cours-complet-pour-debutants-pour-apprendre-a-programmer-en-PHP-7-par-Serge-Tahe
+https://droit.developpez.com/actu/270526/Poursuite-judiciaire-le-gouvernement-americain-ne-devrait-pas-fouiller-les-ordinateurs-et-les-telephones-des-voyageurs-sans-mandat-selon-l-EFF/
+https://excel.developpez.com

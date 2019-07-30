@@ -1,0 +1,10 @@
+http://horo.meta.ua/
+https://www.meta.ua/video.meta.uaserial
+https://www.meta.ua/ru
+http://horo.meta.ua
+https://www.meta.ua/
+http://dir.meta.ua/country/
+https://www.meta.ua/metafeedback.asp
+https://www.meta.ua/map.meta.ua
+https://www.meta.ua/news.meta.uacluster:66044391-V-Dnepre-proizoshel-pozhar-na-izbiratelnom-uchastke
+http://horo.meta.ua/?type=dreams

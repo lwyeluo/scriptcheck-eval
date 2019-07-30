@@ -1,0 +1,10 @@
+https://www.siemens.com/globalenmarkets.html
+https://www.siemens.com/sksk.html
+https://www.siemens.com/uaru.html
+https://www.siemens.com/globalenmarketsmachinebuilding.html
+https://www.siemens.com/
+https://www.siemens.com/grel.html
+https://www.siemens.com/mzsiemensmocambique.html
+https://www.siemens.com/mmen.html
+https://www.siemens.com/sisl.html
+https://www.siemens.com/tn/fr/home.html

@@ -1,0 +1,10 @@
+https://www.stopgame.ru/
+https://www.stopgame.ru/retrozornew
+https://www.stopgame.ru/click?https:telegram.mestopgameru
+https://www.stopgame.ru/articlesnew
+https://www.stopgame.ru/newsdata39159
+https://www.stopgame.ru/click?https:www.twitch.tvstopgameru
+https://www.stopgame.ru/newsdata39160
+https://www.stopgame.ru/mobile_games
+https://www.stopgame.ru/igrozornew
+https://www.stopgame.ru/newsmmo

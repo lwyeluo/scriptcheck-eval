@@ -1,0 +1,10 @@
+https://www.bitfinex.com/trading
+https://www.bitfinex.com/withdraw
+https://www.bitfinex.com/stats
+https://www.bitfinex.com/fees
+https://www.bitfinex.com/
+https://www.bitfinex.com/legalrisk
+https://www.bitfinex.com/about
+http://blog.bitfinex.com/newsletter/
+https://www.bitfinex.com/funding_book
+https://www.bitfinex.com/legalrrt_token_terms

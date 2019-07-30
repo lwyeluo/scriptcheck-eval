@@ -1,0 +1,10 @@
+https://www.gumroad.com/usersauthtwitter?referer=%2F&x_auth_access_type=read
+https://www.gumroad.com/company
+https://www.gumroad.com/
+https://www.gumroad.com/privacy
+https://www.gumroad.com/featurespricing
+http://blog.gumroad.com/
+https://www.gumroad.com/terms
+https://www.gumroad.com/features
+https://www.gumroad.com/usersauthfacebook?referer=%2F
+https://www.gumroad.com/settingsupgrade

@@ -1,0 +1,10 @@
+http://www.amadeus.com/enindustriescruise-lines
+http://www.amadeus.com/enindustriesonline-travel-agencies
+http://www.amadeus.com/eninsightsresearch-reporttravel-payments-guide-2019
+http://www.amadeus.com/entraining
+http://www.amadeus.com/enpoliciescookies-policy
+http://www.amadeus.com/entopicndc
+https://corporate.amadeus.com/en
+http://www.amadeus.com/entopiccloud
+http://www.amadeus.com/enabout.html
+http://www.amadeus.com/

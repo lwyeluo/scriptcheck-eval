@@ -1,0 +1,10 @@
+https://www.multitran.com/m.exe?l1=13
+https://www.multitran.com/m.exe?l1=2&l2=23
+https://www.multitran.com/
+https://www.multitran.com/m.exe?l1=2&l2=4
+https://www.multitran.com/m.exe?a=256
+https://www.multitran.com/m.exe?l1=10
+https://www.multitran.com/m.exe?a=44
+https://www.multitran.com/m.exe?l1=98
+https://www.multitran.com/m.exe?l1=49
+https://www.multitran.com/m.exe?a=1&all=32

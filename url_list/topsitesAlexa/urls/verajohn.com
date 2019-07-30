@@ -1,0 +1,10 @@
+https://www.verajohn.com/game/jack-in-a-pot
+https://www.verajohn.com/game/the-creepy-carnival
+https://www.verajohn.com/game/wild-swarm
+https://www.verajohn.com/about/mobile-casino
+https://www.verajohn.com/tournaments
+https://www.verajohn.com/game/tower-of-power
+https://www.verajohn.com/about/us
+https://www.verajohn.com/
+https://www.verajohn.com/set-language?lang=de
+https://www.verajohn.com/blackjack

@@ -1,0 +1,10 @@
+https://www.cosstores.com/
+https://www.cosstores.com/en_gbp/women/dresses.html
+https://www.cosstores.com/en_gbp/kids-and-baby/online-exclusive.html
+https://www.cosstores.com/en_gbp/women/belts.html
+https://www.cosstores.com/en_gbp/sale/men-sale.html
+https://www.cosstores.com/en_gbpcustomer-servicereturn-and-refund-policy.html
+https://www.cosstores.com/en_gbp/women/shoes.html
+https://www.cosstores.com/en_gbp/women/t-shirts.html
+https://www.cosstores.com/en_gbp/men/bags-and-wallets.html
+https://www.cosstores.com/en_gbpkids-and-baby.html

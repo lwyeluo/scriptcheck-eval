@@ -1,0 +1,10 @@
+https://www.memuplay.com/privacy.html
+https://www.memuplay.com/blog/2019/05/27/download-play-archero-pc/
+https://www.memuplay.com/how-to-play-Lineage-2-Revolution-on-pc.html
+https://www.memuplay.com/blog/2019/06/21/download-play-saint-seiya-awakening-pc/
+https://www.memuplay.com/how-to-play-Call-of-Duty:-Mobile-pc-on-pc.html
+https://www.memuplay.com/vi/
+https://www.memuplay.com/home/Home/Business?l=en
+https://www.memuplay.com/uk/
+https://www.memuplay.com/download-en.php?file_name=Memu-Setup&from=official_release
+https://www.memuplay.com/

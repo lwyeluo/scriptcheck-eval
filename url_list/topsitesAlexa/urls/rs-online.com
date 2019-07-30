@@ -1,0 +1,10 @@
+https://www.rs-online.com/
+https://cz.rs-online.com/web/
+https://it.rs-online.com/web/
+https://nz.rs-online.com/web/
+https://dech.rs-online.com/web/
+https://au.rs-online.com/web/
+https://pt.rs-online.com/web/
+https://at.rs-online.com/web/
+https://hken.rs-online.com/web/
+https://th.rs-online.com/web/

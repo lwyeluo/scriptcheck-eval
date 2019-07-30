@@ -1,0 +1,10 @@
+https://www.apteka.ru/catalogsectiongigiena-i-kosmetikasredstva-dlya-zashchity-ot-solntsa-i-dlya-zagara
+https://www.apteka.ru/joints
+https://www.apteka.ru/infoarticlesnovye-tovaryvygodno-2-po-tsene-1-uvlazhnyayushchaya-maska-s-gialuronom-amplen
+https://www.apteka.ru/
+https://www.apteka.ru/categorymobilitystickwalking
+https://www.apteka.ru/catalogsectionmeditsinskie-izdeliyaortopedicheskie-izdeliya
+https://www.apteka.ru/alphabetl
+https://www.apteka.ru/catalogsectionzashchita-ot-nasekomykhot-letayushchikh-nasekomykh
+https://www.apteka.ru/categorymobilityToilet_Seat
+https://www.apteka.ru/categorydevicesphysiotherapeutic

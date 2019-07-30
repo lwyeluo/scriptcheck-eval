@@ -1,0 +1,10 @@
+https://www.uchi.ru/partners
+https://www.uchi.ru/privacy
+https://www.uchi.ru/login_light
+https://www.uchi.ru/ege
+https://www.uchi.ru/zavriki
+https://www.uchi.ru/
+https://www.uchi.ru/matematika
+https://assets.uchi.ru/assets/main_pages/photo_slider/photo/photo-10-2ea2c606d344af0be03ff5cdb8ca0e8b.jpg
+https://assets.uchi.ru/assets/main_pages/photo_slider/photo/photo-16-68303b477c16c699d970cdccce4e9242.jpg
+https://assets.uchi.ru/assets/main_pages/photo_slider/photo/photo-6-4c17d28f79e91efdada56156d50dedaf.jpg

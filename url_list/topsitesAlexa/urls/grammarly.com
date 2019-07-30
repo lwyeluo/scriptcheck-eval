@@ -1,0 +1,10 @@
+https://www.grammarly.com/premium
+https://www.grammarly.com/contact
+https://support.grammarly.com
+https://www.grammarly.com/
+https://www.grammarly.com/terms
+https://www.grammarly.com/office-addin
+https://www.grammarly.com/signin?allowUtmParams=true
+https://www.grammarly.com/business
+https://www.grammarly.com/security-practices
+https://www.grammarly.com/edu

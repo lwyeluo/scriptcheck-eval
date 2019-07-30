@@ -1,0 +1,10 @@
+https://www.cathaypacific.com/cxen_SGlegal-and-privacycookies-settings.html
+https://www.cathaypacific.com/destinations/en_SG/flights-to-new-york
+http://www.cathaypacific.com:80/cx/en_SG/frequent-flyers/about-the-club/privacy-and-terms.html?cxsource=TOP-NAV_MARCO-POLO-CLUB_1_5
+http://www.cathaypacific.com:80/cx/en_SG/book-a-trip/timetable.html?cxsource=TOP-NAV_EXPERIENCE_1_3
+http://www.cathaypacific.com:80/cx/en_SG/offers/online-bonus.html?cxsource=TOP-NAV_OFFERS_2_4
+http://www.cathaypacific.com:80/cx/en_SG/travel-information/mobile-services/cathay-pacific-app.html?cxsource=TOP-NAV_MANAGE_4_1
+http://www.cathaypacific.com:80/cx/en_SG/travel-information/travel-preparation/travel-advisories.html
+https://www.cathaypacific.com/
+http://www.cathaypacific.com:80/cx/en_SG/travel-information/airport/other-airports.html?cxsource=TOP-NAV_MANAGE_2_7
+http://www.cathaypacific.com:80/cx/en_SG/book-a-trip.html

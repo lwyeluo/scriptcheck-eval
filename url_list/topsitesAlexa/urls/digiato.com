@@ -1,0 +1,10 @@
+https://digiato.com/article/2019/07/14/%d8%a7%d9%86%d9%81%d8%ac%d8%a7%d8%b1-%d8%a2%db%8c%d9%81%d9%88%d9%86-%db%b6-%d8%af%d8%b1-%d8%a2%d9%85%d8%b1%db%8c%da%a9%d8%a7/?video_first
+https://digiato.com/ads/1093090/
+https://digiato.com/article/2019/07/03/%da%af%d8%b2%d8%a7%d8%b1%d8%b4-%d8%af%db%8c%d8%ac%db%8c%d8%a7%d8%aa%d9%88-%d8%b3%db%8c%d8%b3%d8%aa%d9%85-%d8%aa%d8%b5%d9%81%db%8c%d9%87-%d9%87%d9%88%d8%a7-%d8%a7%d9%84-%d8%ac%db%8c-%d8%af%d8%a8%db%8c/
+https://digiato.com/article/2019/06/22/%da%af%d9%81%d8%aa%da%af%d9%88-%d8%a8%d8%a7-%d8%b3%d8%b1%d9%be%d8%b1%d8%b3%d8%aa-%d9%85%d8%b9%d8%a7%d9%88%d9%86%d8%aa-%d9%81%d8%b6%d8%a7%db%8c-%d9%85%d8%ac%d8%a7%d8%b2%db%8c-%d8%af%d8%a7%d8%af%d8%b3/
+https://digiato.com/author/unes/
+https://digiato.com/article/2019/07/15/%d8%b7%d8%b1%d8%ad-%d9%81%d8%b1%d9%88%d8%b4-%d9%81%d9%88%d8%b1%db%8c-%d8%a7%db%8c%d8%b1%d8%a7%d9%86-%d8%ae%d9%88%d8%af%d8%b1%d9%88-%d8%aa%d9%86%d8%b8%db%8c%d9%85-%d8%a8%d8%a7%d8%b2%d8%a7%d8%b1/
+https://digiato.com/article/2019/06/24/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d8%b0%d8%ae%db%8c%d8%b1%d9%87-%d8%b3%d8%a7%d8%b2-%d8%aa%d8%ad%d8%aa-%d8%b4%d8%a8%da%a9%d9%87-%da%a9%db%8c%d9%88%d9%86%d9%be/
+https://www.digiato.com/label%d8%b4%d8%b1%d8%a7%db%8c%d8%b7-%d9%81%d8%b1%d9%88%d8%b4
+https://digiato.com/article/2019/07/17/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%d9%81%db%8c%d8%b3-%d8%a7%d9%be-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d9%be%db%8c%d8%b1-%da%a9%d8%b1%d8%af%d9%86-%d8%a7%d9%81%d8%b1%d8%a7%d8%af/
+https://www.digiato.com/

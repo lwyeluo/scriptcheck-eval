@@ -1,0 +1,10 @@
+http://www.kakao.com/policy/right?lang=ko
+https://www.kakao.com/irsecuritiesCompanyCoverage
+https://www.kakao.com/
+https://www.kakao.com/policyprivacyPolicycorporateSitePrivacyPolicy
+https://www.kakao.com/socialImpactwithKakaonext
+https://www.kakao.com/serviceDaumNews
+https://www.kakao.com/socialImpactpartnersWithKakao
+https://www.kakao.com/irreferenceRoomearningsAnnouncement
+https://www.kakao.com/irmanagementInformationshareholderComposition
+http://www.kakao.com/policy/terms?type=a&lang=ko

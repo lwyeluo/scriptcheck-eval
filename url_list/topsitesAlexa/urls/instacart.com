@@ -1,0 +1,10 @@
+https://www.instacart.com/grocery-delivery
+https://www.instacart.com/
+https://www.instacart.com/grocery-deliverychicago-il
+https://www.instacart.com/careers
+https://www.instacart.com/grocery-deliverywashington-dc
+https://www.instacart.com/grocery-deliverynew-york-ny
+https://www.instacart.com/privacy
+https://www.instacart.com/alcohol
+https://shoppers.instacart.com?utm_source=instacart_referral&utm_medium=referral&utm_campaign=become_a_shopper
+https://www.instacart.com/poweredby

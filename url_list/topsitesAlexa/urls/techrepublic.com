@@ -1,0 +1,10 @@
+https://www.techrepublic.com/article/infographic-would-you-trade-a-higher-salary-for-no-pto/
+https://www.techrepublic.com/article/10-most-popular-programming-languages-rise-of-typescript/
+https://www.techrepublic.com/topic/security/
+https://www.techrepublic.com/
+https://www.techrepublic.com/article/apple-ios-13-a-cheat-sheet/
+https://www.techrepublic.com/article/how-to-use-built-in-design-settings-to-quickly-format-an-office-document/
+https://www.techrepublic.com/videos/
+https://www.techrepublic.com/article/lateral-phishing-hackers-are-taking-over-business-accounts-to-send-malicious-emails/
+https://www.techrepublic.com/search/?a=%27global.default_author%27%7Ctrans
+https://www.techrepublic.com/article/project-management-software-7-biggest-factors-to-consider-before-buying/

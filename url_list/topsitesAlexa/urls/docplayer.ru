@@ -1,0 +1,10 @@
+https://www.docplayer.ru/
+https://www.docplayer.ru/50733325-Kompleksnaya-kontrolnaya-rabota-dlya-3-klassa.html
+https://www.docplayer.ru/58373512-Oshibki-i-ih-resheniya-st-evotor.html
+https://www.docplayer.ru/79256292-Gdz-fizika-7-klass-astahova-laboratornye-raboty.html
+https://www.docplayer.ru/145337336-Osobennosti-sensornogo-razvitiya-detey-s-cerebralnym-paralichom.html
+https://www.docplayer.ru/26721344-O-v-uzorova-e-a-nefyodova-zadach-po-matematike-c-otvetami-ko-vsem-zadacham-1-4-klassy.html
+https://www.docplayer.ru/145335014-Avtomatizaciya-proektirovaniya.html
+https://www.docplayer.ru/64259254-Elari-kidphone-2-rukovodstvo-polzovatelya.html
+https://www.docplayer.ru/145337205-Programma-po-vospitaniyu-tolerantnogo-soznaniya-i-profilaktike-ekstremistskih-proyavleniy-u-uchashchihsya-mbou-sosh-2.html
+https://www.docplayer.ru/36209931-Sbornik-prakticheskih-zadaniy-i-uprazhneniy-na-razvitie-zritelnogo-vospriyatiya-mladshih-shkolnikov.html

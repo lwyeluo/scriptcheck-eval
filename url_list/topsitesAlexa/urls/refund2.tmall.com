@@ -1,0 +1,10 @@
+https://refund2.tmall.com/www.taobao.comaboutjoin.php
+https://refund2.tmall.com/www.alimama.com
+https://refund2.tmall.com/www.alibaba.com
+https://refund2.tmall.com/www.aliyun.com
+https://refund2.tmall.com/www.1688.com
+https://refund2.tmall.com/www.aliexpress.com
+https://refund2.tmall.com/www.net.cn
+https://refund2.tmall.com/s.taobao.comsearch
+https://refund2.tmall.com/
+https://refund2.tmall.com/www.yunos.com

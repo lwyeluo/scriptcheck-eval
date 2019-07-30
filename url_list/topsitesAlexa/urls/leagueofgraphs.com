@@ -1,0 +1,10 @@
+https://www.leagueofgraphs.com/de
+https://www.leagueofgraphs.com/rankingsdrakes
+https://www.leagueofgraphs.com/
+https://www.leagueofgraphs.com/replayswith-high-kda
+https://www.leagueofgraphs.com/championsbuildskalista
+https://www.leagueofgraphs.com/th
+https://www.leagueofgraphs.com/championsbuildsazir
+https://www.leagueofgraphs.com/tftchampions
+https://www.leagueofgraphs.com/championsbuildscamille
+https://www.leagueofgraphs.com/championsbuildsornn

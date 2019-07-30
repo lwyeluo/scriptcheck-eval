@@ -1,0 +1,10 @@
+https://www.mcdonalds.com/usen-usdeals.html
+https://www.mcdonalds.com/usen-uscontact-usmobile-app-questions.html
+https://www.mcdonalds.com/usen-uscommunitygiving-back-with-ronald-mcdonald-house.html
+https://www.mcdonalds.com/usen-usservicesarch-card.html
+https://www.mcdonalds.com/usen-uswhats-hot.html
+https://www.mcdonalds.com/usen-uscontact-usdonations.html
+https://www.mcdonalds.com/usen-uscommunitymcdonalds-international.html
+https://www.mcdonalds.com/usen-usservicesplayplaces-and-parties.html
+https://www.mcdonalds.com/usen-usabout-us.html
+https://www.mcdonalds.com/

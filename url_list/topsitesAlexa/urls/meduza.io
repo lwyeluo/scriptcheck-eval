@@ -1,0 +1,10 @@
+https://www.meduza.io/
+https://www.meduza.io/feature20180522kak-my-obrabatyvaem-vashi-personalnye-dannye-kotorye-hranyatsya-na-meduze
+https://www.meduza.io/specialsnative
+https://www.meduza.io/feature20180522kak-meduza-ispolzuet-cookie
+https://www.meduza.io/cardsu-menya-est-vazhnaya-informatsiya-dlya-meduzy-no-ya-boyus-ee-peredavat-kak-sdelat-eto-po-nastoyaschemu-anonimno
+https://www.meduza.io/specialscometogether
+https://www.meduza.io/slidestehnicheskie-trebovaniya-k-banneram-na-meduze
+https://www.meduza.io/pagesabout
+https://www.meduza.io/articles
+https://www.meduza.io/pagescontacts

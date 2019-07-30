@@ -1,0 +1,10 @@
+https://www.allmodern.com/shop-the-look/sl1/diningroom-ideas
+https://www.allmodern.com/the-style-shops/cat/mid-century-c1858766.html
+https://www.allmodern.com/shop-the-look/sl1/kitchen-ideas
+https://www.allmodern.com/v/favorites/favorites_list/profile
+https://www.allmodern.com/
+https://www.allmodern.com/furniture/sb0/recliners-c1769300.html
+https://www.allmodern.com/wayfaircard
+https://www.allmodern.com/rugs/sb0/runner-rugs-c441987.html
+https://www.allmodern.com/bedding-bath/sb0/down-comforters-inserts-c488781.html
+https://www.allmodern.com/home-improvement/sb0/medicine-cabinets-c409354.html

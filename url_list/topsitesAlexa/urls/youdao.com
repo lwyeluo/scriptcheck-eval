@@ -1,0 +1,10 @@
+http://dict.youdao.com/wordbook/wordlist?keyfrom=dict2.index
+http://c.youdao.com/dict/ugc/ugc-activity.html
+http://dsp.youdao.com/
+https://ai.youdao.com/
+http://dict.youdao.com/map/index.html
+http://note.youdao.com/?keyfrom=dict2.index
+https://fanyiguan.youdao.com/?keyfrom=about.youdao
+https://ke.youdao.com/course/list/0/1?keyfrom=dict2.index
+http://shared.youdao.com/images/license/publicationLicense.png
+https://www.youdao.com/

@@ -1,0 +1,10 @@
+https://www.buzzfeed.com/katyherman/stylish-things-no-one-will-believe-you-got-from-walmart-july?origin=hshp
+https://www.buzzfeed.com/about/jobs
+https://www.buzzfeed.com/videos
+https://www.buzzfeed.com/crystalro/lion-king-identify-character-quiz?origin=web-hf
+https://www.buzzfeed.com/asisvideos
+https://www.buzzfeed.com/andyneuenschwander/17-tweets-that-should-have-never-existed-in-the-fir?origin=web-hf
+https://www.buzzfeed.com/quizzes
+https://www.buzzfeed.com/alliehayes
+https://www.buzzfeed.com/
+https://www.buzzfeed.com/consent-preferences

@@ -1,0 +1,10 @@
+https://www.vesti.ru/videos?cid=3902
+https://www.vesti.ru/
+https://realty.vesti.ru/zhile/poluchit-nasledstvo-stalo-prosche
+https://www.vesti.ru/videos?cid=4701
+https://www.vesti.ru/videos/show/vid/804658/#/video/https%3A%2F%2Fplayer.vgtrk.com%2Fiframe%2Fvideo%2Fid%2F1923733%2Fstart_zoom%2Ftrue%2FshowZoomBtn%2Ffalse%2Fsid%2Fvesti%2FisPlay%2Ftrue%2F%3Facc_video_id%3D804658
+https://www.vesti.ru/videos?cid=1219
+https://www.vesti.ru/videos?cid=1881
+https://www.vesti.ru/videos?cid=3041
+https://realty.vesti.ru/zhile/kakoe-otoplenie-vybrat-dlya-dachi
+https://www.vesti.ru/videos?cid=4621

@@ -1,0 +1,10 @@
+https://yandex.ru/clck/redir/dtype=clck/lid=v14.dist.teaser.link.yabs.image/monitoring=1319/vars=143=2048,1042=chrome_59.0.3071.115_webkit_537.36_windows_6.1_0_0_0,1964=63208/sid=1563701762.61295.140952.461938/rnd=152328/*data=url%3Dhttps%253A%252F%252Fyabs.yandex.ru%252Fcount%252FEC1C8Uve9ma508414820W04n0Z8qNG00000useqKG0H85c2y4d3y_PE73f01xkhid2wO0Uxgx9mkk07y_PE73i010jW1sh_F2kW1g0Bm0hx2Xli3i0C4y0K1e0Rk0gW6xWB91W5sG_qjghvSqGO12dbqBgg-NDa60000KCu0002f1ojYu0NQ35Kvi0U0W9Wyq0S2-0S1W0W1q0Y0Y821W820W801W0e1mGe00000003mFzWA0k0AW8bwgWiG_Lca32jY002201cmBOu50C0BWAC5o0k0r9C1sGihOk05sWnLEV0B1kWC6-0D0eaE00000000y3-G3i24FPWEWUoDwj_5gjzSe0x0X3sm3W6X3m0000000F0_sGy00000003mF-0F0O0GxT-d1P0GbhpovURnWDLso108-10VW14UY141a141g170X3tw4HaD000001K000007G00000b000002q00000Y181a181wH8qX4fBODt2R_0I7uWJ0f0JCfWJ0G00
+https://translate.yandex.ru/
+https://news.yandex.ru/story/V_VSU_gotovyatsya_dat_otpor_vojskam_Rossii_v_CHernobyle--b5bd9bcd8effcfa3a206a3990d0ea4c1?lang=ru&from=main_portal&stid=yjZOIUvo1ZzpEJdH45V4&t=1563701039&lr=10619&msid=1563701762.61295.140952.461938&mlid=1563701039.glob_225.b5bd9bcd
+https://passport.yandex.ru/registration/mail?from=mail&origin=home_desktop_ru&retpath=https%3A%2F%2Fmail.yandex.ru%2F
+https://news.yandex.ru/story/Rossiyu_proveryat_na_prichastnost_k_zaderzhaniyu_britanskogo_tankera--d8e427625ecb7a9f007b9c404adc0557?lang=ru&from=main_portal&stid=_FfSKIvRQqCRe5Cu0BPG&t=1563701039&lr=10619&msid=1563701762.61295.140952.461938&mlid=1563701039.glob_225.d8e42762
+https://www.yandex.ru/
+https://realty.yandex.ru/?from=morda&utm_source=yandex_sign&utm_medium=cpm&&utm_campaign=title_spravochnik_new_may_225&utm_content=spravochnik_new_may_o_stalinkah
+https://news.yandex.ru/story/Zelenskij_pokazal_na_video_sostoyanie_krejsera_Ukraina--52cc1a3f02840994b8f72c8d2d92db35?lang=ru&from=main_portal&stid=BioRrqxwe_iBrvfnwi_x&t=1563701039&lr=10619&msid=1563701762.61295.140952.461938&mlid=1563701039.glob_225.52cc1a3f
+https://news.yandex.ru/quotes/2002.html
+https://yandex.ru/company/

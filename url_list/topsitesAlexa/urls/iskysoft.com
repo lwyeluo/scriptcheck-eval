@@ -1,0 +1,10 @@
+https://www.iskysoft.com/download.html
+https://www.iskysoft.com/affiliate.html
+https://www.iskysoft.com/infographic/
+https://www.iskysoft.com/license/volume-licensing.html
+https://www.iskysoft.com/authorelva-xiao
+https://toolbox.iskysoft.com/ios-data-backup-restore.html
+https://toolbox.iskysoft.com/android-transfer.html
+https://toolbox.iskysoft.com/whatsapp-transfer-backup-and-restore.html
+https://www.iskysoft.com/dvd-creator-mac.html
+https://www.iskysoft.com/

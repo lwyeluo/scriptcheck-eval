@@ -1,0 +1,10 @@
+http://www.jc35.com/newsdetail72873.html
+http://www.jc35.com/newsdetail72841.html
+http://www.jc35.com/product/t4522/list.html
+http://www.jc35.com/product/detail/545917.html
+http://www.jc35.com/newsdetail72137.html
+http://www.jc35.com/newsdetail72750.html
+http://www.jc35.com/st227460
+http://www.jc35.com/product/t4184/list.html
+http://www.jc35.com/
+http://www.jc35.com/news_peopledetail1154.html

@@ -1,0 +1,10 @@
+https://www.pipipan.com/pterms-and-conditions
+https://www.pipipan.com/pstorage
+https://www.pipipan.com/pcontact-us
+https://www.pipipan.com/preport-abuse
+https://www.pipipan.com/
+https://www.pipipan.com/pvip-terms-and-conditions
+https://www.pipipan.com/pintro
+https://www.pipipan.com/pmedia
+https://www.pipipan.com/pprivacy
+https://www.pipipan.com/pregister

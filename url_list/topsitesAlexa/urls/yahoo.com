@@ -1,0 +1,10 @@
+https://sg.style.yahoo.com/travel
+https://sg.yahoo.com
+https://sg.finance.yahoo.com/
+https://sg.news.yahoo.com/
+https://sg.tv.yahoo.com/game-changer/
+https://sg.sports.yahoo.com/news/gareth-bale-leave-real-madrid-064700309.html
+http://help.yahoo.com/kb/index?page=home&locale=en_SG
+https://sg.news.yahoo.com/weather
+https://sg.style.yahoo.com/
+https://www.yahoo.com/

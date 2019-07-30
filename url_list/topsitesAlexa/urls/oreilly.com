@@ -1,0 +1,10 @@
+https://conferences.oreilly.com/software-architecture/sa-eu
+https://www.oreilly.com/online-learning/teams.html
+https://www.oreilly.com/
+https://www.oreilly.com/online-learning/features.html
+https://conferences.oreilly.com/oscon
+https://www.oreilly.com/online-learning/try-now.html
+https://www.oreilly.com/work-with-us.html
+https://conferences.oreilly.com/strata
+https://www.oreilly.com/ideas/
+https://www.oreilly.com/online-learning/custom-services.html

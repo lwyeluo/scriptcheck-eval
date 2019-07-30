@@ -1,0 +1,10 @@
+https://www.edreams.es/ofertas/vuelos/aerolinea/IB/iberia/
+https://www.edreams.es/fin-de-semana/
+https://www.edreams.es/lowcost/
+https://www.edreams.es/vuelos/bilbao/BIO/
+https://www.edreams.es/vuelos/la-habana/HAV/
+https://www.edreams.es/vuelos/amsterdam/AMS/
+https://www.edreams.es/vuelos/madrid-roma/MAD/ROM/
+https://www.edreams.es/
+https://www.edreams.es/vuelos/baratos/
+https://www.edreams.es/vacaciones-baratas/

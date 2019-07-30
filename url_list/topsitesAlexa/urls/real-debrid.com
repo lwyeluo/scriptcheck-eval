@@ -1,0 +1,10 @@
+https://www.real-debrid.com/legal
+https://www.real-debrid.com/terms
+https://www.real-debrid.com/login.php
+https://www.real-debrid.com/premium
+https://www.real-debrid.com/privacy
+https://www.real-debrid.com/support
+https://www.real-debrid.com/signup.php
+https://www.real-debrid.com/
+https://www.real-debrid.com/ajaxlang.php
+https://www.real-debrid.com/faq

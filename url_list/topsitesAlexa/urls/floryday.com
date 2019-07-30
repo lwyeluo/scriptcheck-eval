@@ -1,0 +1,10 @@
+https://www.floryday.com/
+https://www.floryday.com/cart.php
+https://www.floryday.com/Swimwear-r9865?mid=1311771
+https://www.floryday.com/?country_code=LT
+https://www.floryday.com/Color-Block-Swimwear-r5361
+https://www.floryday.com/?country_code=FJ
+https://www.floryday.com/?country_code=DJ
+https://www.floryday.com/sale?type=category&key=195
+https://www.floryday.com/Black-Tops-r7515
+https://www.floryday.com/?country_code=TH

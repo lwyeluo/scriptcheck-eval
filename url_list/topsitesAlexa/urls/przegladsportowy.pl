@@ -1,0 +1,10 @@
+https://www.przegladsportowy.pl/
+https://www.przegladsportowy.pl/sporty-wodne
+https://www.przegladsportowy.pl/zuzel/pge-ekstraliga
+https://www.przegladsportowy.pl/program-tv-sport/9djztp8
+https://www.przegladsportowy.pl/sporty-zimowe/skoki-narciarskie/letnie-grand-prix-w-wisle-skok-kamila-stocha-w-2-serii-wideo/gmtg4fy
+https://www.przegladsportowy.pl/zuzel/reprezentacja/zuzel-polska-na-trzecim-miejscu-po-i-finale-speedway-of-nations/5jgvmfj
+https://www.przegladsportowy.pl/pilka-nozna/pko-ekstraklasa/cracovia/zaglebie-lubin-cracovia-transmisja-w-tv-i-online-live-stream/hhd1e9r
+https://www.przegladsportowy.pl/pilka-nozna/pko-ekstraklasa/wisla-krakow/maciej-stolarczyk-wisla-krakow-szuka-okazji-wywiad/elpencl
+https://www.przegladsportowy.pl/pilka-nozna/pko-ekstraklasa/pogon-szczecin/benedikt-zech-sylwetka-nowego-stopera-pogoni-szczecin/xhcv21f
+https://www.przegladsportowy.pl/zuzel/zuzel-darcy-ward-nie-moze-zyc-bez-zuzla-wspiera-swojego-rodaka/z6skw2x

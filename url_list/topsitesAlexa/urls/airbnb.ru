@@ -1,0 +1,10 @@
+https://www.airbnb.ru/
+https://www.airbnb.ru/sOcean-City--MD
+https://www.airbnb.ru/sPittsburgh--PA
+https://www.airbnb.ru/sOrlando--FL
+https://www.airbnb.ru/sNice--France
+https://www.airbnb.ru/sOak-Island--NC
+https://www.airbnb.ru/sVancouver--Canada
+https://www.airbnb.ru/sLake-Tahoe--United-States
+https://www.airbnb.ru/sToronto--Canada
+https://www.airbnb.ru/sDallas--TX

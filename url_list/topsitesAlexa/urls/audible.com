@@ -1,0 +1,10 @@
+https://www.audible.com/
+https://www.audible.com/pdBecoming-AudiobookB07B3BCZ9S?pf_rd_p=70f9c135-2233-4ee4-939b-c48e9f68d729&pf_rd_r=9J84159TF07VPCSJ82CW&ref=a_hp_c6_lProduct_1_2
+https://www.audible.com/epmemberbenefits?pf_rd_p=2fb5a3a0-1e29-4074-911c-f157b6199695&pf_rd_r=9J84159TF07VPCSJ82CW&ref=a_hp_t1_navTop_pl0cg1c0r5
+https://www.audible.com/subscriptionconfirmation?membershipAsin=B003CV3S4E&pf_rd_p=f0790e4c-85b8-4193-9ac6-aba67aa65811&pf_rd_r=9J84159TF07VPCSJ82CW&ref=a_hp_c4_tab3_cta
+https://www.audible.com/pdThe-New-Girl-Audiobook0062835017?pf_rd_p=70f9c135-2233-4ee4-939b-c48e9f68d729&pf_rd_r=9J84159TF07VPCSJ82CW&ref=a_hp_c6_lProduct_1_5
+https://www.audible.com/epespanol-4?pf_rd_p=2fb5a3a0-1e29-4074-911c-f157b6199695&pf_rd_r=9J84159TF07VPCSJ82CW&ref=a_hp_t1_navTop_sl0
+https://www.audible.com/pdBecoming-AudiobookB07B3BCZ9S?pf_rd_p=70f9c135-2233-4ee4-939b-c48e9f68d729&pf_rd_r=9J84159TF07VPCSJ82CW&ref=a_hp_c6_bestsellers-d_1_2
+https://www.audible.com/pdRed-Metal-AudiobookB07THDVL4P?pf_rd_p=70f9c135-2233-4ee4-939b-c48e9f68d729&pf_rd_r=9J84159TF07VPCSJ82CW&ref=a_hp_c6_bestsellers-d_1_7
+https://www.audible.com/pdMaybe-You-Should-Talk-to-Someone-AudiobookB07NLL95S4?pf_rd_p=70f9c135-2233-4ee4-939b-c48e9f68d729&pf_rd_r=9J84159TF07VPCSJ82CW&ref=a_hp_c6_bestsellers-d_3_1
+https://www.audible.com/pdUnfu-k-Yourself-AudiobookB0731R4RFX?pf_rd_p=70f9c135-2233-4ee4-939b-c48e9f68d729&pf_rd_r=9J84159TF07VPCSJ82CW&ref=a_hp_c6_bestsellers-d_1_3

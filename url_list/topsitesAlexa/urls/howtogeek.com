@@ -1,0 +1,10 @@
+https://www.howtogeek.com/terms-of-use/
+https://discuss.howtogeek.com
+https://www.howtogeek.com/search/?q=Chromecast
+https://www.howtogeek.com/282953/does-brand-really-matter-when-buying-a-hard-drive/
+https://www.howtogeek.com/news
+https://www.howtogeek.com/428654/how-to-monitor-the-progress-of-linux-commands-with-pv-and-progress/
+https://www.howtogeek.com/427788/how-to-properly-set-up-playstation-vr/
+https://www.howtogeek.com/131148/how-to-power-cycle-your-gadgets-to-fix-freezes-and-other-problems/
+https://www.howtogeek.com/about/#contact
+https://www.howtogeek.com/

@@ -1,0 +1,10 @@
+https://www.wordreference.com/
+https://www.wordreference.com/enzh
+https://lists.wordreference.com/
+https://www.wordreference.com/English_Spanish_Dictionary.asp
+https://www.wordreference.com/conjEnVerbs.aspx
+https://www.wordreference.com/conjEsVerbs.aspx
+https://daily.wordreference.com/
+https://www.wordreference.com/enro
+https://www.wordreference.com/it
+https://www.wordreference.com/conjFrVerbs.aspx

@@ -1,0 +1,10 @@
+https://stackoverflow.com/help
+https://www.stackoverflow.com/users
+https://www.stackoverflow.com/
+https://www.stackoverflow.com/teams
+https://stackoverflow.com/jobs
+https://stackoverflow.com/questions/55884514/what-is-the-incentive-for-curl-to-release-the-library-for-free/55885729#55885729
+https://stackoverflow.com/users/login?ssrc=head&returnurl=https%3a%2f%2fstackoverflow.com%2f
+https://stackoverflow.com/legal/privacy-policy
+https://stackoverflow.com/legal
+https://www.stackoverflow.com/jobswhy-jobs-ctaBrowseRemoteJobs?source=Homepage

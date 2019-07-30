@@ -1,0 +1,10 @@
+http://www.dapenti.com/blog/blog.asp?name=xilei
+http://www.dapenti.com/blog/blog.asp?subjectid=2&name=xilei
+https://www.dapenti.com/
+http://www.dapenti.com/blog/blog.asp?subjectid=185&name=xilei
+http://www.dapenti.com:81/blog/user_login.asp
+http://www.dapenti.com/blog/blog.asp?subjectid=8&name=xilei
+http://www.dapenti.com/blog/blog.asp?name=dianying
+http://www.dapenti.com/blog/blog.asp?subjectid=105&name=xilei
+http://www.dapenti.com/blog/blog.asp?subjectid=184&name=xilei
+http://www.dapenti.com/blog/blog.asp?subjectid=137&name=xilei

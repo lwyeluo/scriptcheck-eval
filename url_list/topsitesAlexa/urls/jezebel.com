@@ -1,0 +1,10 @@
+https://jezebel.com/c/is-this-shoe-ok
+https://jezebel.com/c/video/this-week-in-meghan-mccain
+https://www.jezebel.com/jezebel.com
+https://themuse.jezebel.com/c/yn
+https://jezebel.com/then-they-came-for-our-manholes-1836530796/#replies
+https://www.jezebel.com/jalopnik.com
+https://pictorial.jezebel.com/summer-reading-diary-my-endless-bummer-1836182499
+https://jezebel.com/what-harmless-lies-did-your-family-tell-you-1836425564/#replies
+https://theslot.jezebel.com/anthony-scaramucci-i-havent-heard-that-name-in-years-1836540553
+https://www.jezebel.com/

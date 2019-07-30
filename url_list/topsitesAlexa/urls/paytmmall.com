@@ -1,0 +1,10 @@
+https://www.paytmmall.com/stainless-steel-spoons-and-forks-set-of-12-with-designer-handle-HOMSTAINLESS-STWHIT927253BD92C5E3-pdp?channel=WEB&discoverability=online&src=consumer_list_2&svc=-1&tracker=%7C%7C%7C%7C%2Fh%2Fpaytmmall-app-clpid-6917-Deals%20Starting%20Rs%201%7C60762%7C2%7C%7C%7C11%7C
+https://www.paytmmall.com/Maxima-Min-3-Off-llpid-200074?use_mw=1&src=store&tracker=%7C%7C%7C%7C%2Fh%2Fpaytmmall-app-clpid-6917-Featured%20Brands%7C55950%7C1%7C%7C00000001014F31FBB15055068CB2FB91996AF26A%7C%7C
+https://paytmmall.com/women-fashion-glpid-5170
+https://www.paytmmall.com/car-online-booking-glpid-74600
+https://www.paytmmall.com/
+https://www.paytmmall.com/men-formal-shoes-glpid-5057
+https://www.paytmmall.com/fashion-sale-clpid-165?src=store&use_sf=1
+https://www.paytmmall.com/trolleys-stands-glpid-26582
+https://www.paytmmall.com/cricket-sports-accessories-glpid-21345
+https://www.paytmmall.com/jump-ropes-glpid-21509

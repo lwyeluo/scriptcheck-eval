@@ -1,0 +1,10 @@
+https://www.syf.com/for-businesses.html
+https://apply.syf.com/eapply/eapply.action?clientCode=STEINMART&sitecode=synfin
+https://www.syf.com/suppliers.html
+https://www.syf.com/for-businesses.html#credit-services
+https://credit.syf.com/eSecurity/Login/login.action?clientId=cheapoair&accountType=generic&langId=en&sitecode=synfin
+https://www.syf.com/for-consumers.html#credit-cards
+https://apply.syf.com/eapply/eapply.action?clientCode=BP&sitecode=synfin
+https://www.syf.com/privacy-policy.html
+https://apply.syf.com/ONETRAVEL?sitecode=Otowutrap2&sitecode=synfin
+https://www.syf.com/

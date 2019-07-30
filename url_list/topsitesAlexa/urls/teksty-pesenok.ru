@@ -1,0 +1,10 @@
+https://www.teksty-pesenok.ru/frank-sinatra
+https://www.teksty-pesenok.ru/letter2
+https://www.teksty-pesenok.ru/letter9
+https://www.teksty-pesenok.ru/letter43
+https://www.teksty-pesenok.ru/ali-gatie
+https://www.teksty-pesenok.ru/
+https://www.teksty-pesenok.ru/lxe-feat-edison
+https://www.teksty-pesenok.ru/letter51
+https://www.teksty-pesenok.ru/letter48
+https://www.teksty-pesenok.ru/letter10

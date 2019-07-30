@@ -1,0 +1,10 @@
+https://www.vitacost.com/sports-nutrition-supplements
+https://www.vitacost.com/blog/home-family/baby/how-to-potty-train-your-stubborn-toddler-in-3-days.html
+https://www.vitacost.com/service.aspx#home
+https://www.vitacost.com/hair-color-1
+https://www.vitacost.com/vitacost-brand-turmeric
+https://www.vitacost.com/m-coupons-deals-and-discounts?csrc=M-COUPONS:BNAV
+https://www.vitacost.com/blog/category/diet-tips
+https://www.vitacost.com/productResults.aspx?N=1000117+4293081418
+https://www.vitacost.com/productResults.aspx?N=1000117+4293037164
+https://www.vitacost.com/

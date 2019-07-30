@@ -1,0 +1,10 @@
+https://www.sberbank.ru/enindividualclientsdepositssettlementdeposit
+https://www.sberbank.ru/enindividualclientscardscreditcards
+https://www.sberbank.ru/enindividualclientsdepositsdiap
+https://www.sberbank.ru/
+https://www.sberbank.ru/enindividualclientsinsuranceandpensionpensionprogrammesindividualpensionplans
+https://online.sberbank.ru/CSAFront/index.do
+https://www.sberbank.ru/enindividualclientspayandtransfertransferforeigntransfers
+https://www.sberbank.ru/enindividualclientsadditionalsafedepositboxrental
+https://www.sberbank.ru/enindividualclientsspecialoffersspasibo
+https://www.sberbank.ru/enindividualclientsinsuranceandpensioninsuranceprogrammeslifetravelinsurance

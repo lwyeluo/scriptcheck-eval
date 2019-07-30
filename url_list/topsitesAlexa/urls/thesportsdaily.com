@@ -1,0 +1,10 @@
+https://thesportsdaily.com/advertise-2/
+https://thesportsdaily.com/category/redleg-baseball/
+https://thesportsdaily.com/category/pelicans-eye-view/
+https://thesportsdaily.com/category/nhl/
+https://thesportsdaily.com/category/hall-of-very-good/
+https://wpvip.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit&utm_term=thesportsdaily.com
+https://thesportsdaily.com/category/packers-press/
+https://thesportsdaily.com/category/grab-some-bench/
+https://thesportsdaily.com/category/ny-rangers-blog/
+https://www.thesportsdaily.com/

@@ -1,0 +1,10 @@
+https://www.mk.ru/authors/maksimbershteyn/
+https://www.mk.ru/
+https://kras.mk.ru/
+https://perm.mk.ru/
+https://eburg.mk.ru/
+https://www.mk.ru/incident/2019/07/19/psikhiatr-pytalsya-zavladet-kvartiroy-i-millionnymi-sberezheniyami-pacienta-privel-v-bank.html
+https://www.mk.ru/science/2019/07/19/yaponskie-astronomy-ishhushhie-inoplanetyan-podelilis-rezultatami.html
+https://www.mk.ru/projects/komandirovka-k-maniaku/
+https://www.mk.ru/authors/yan-smirnitskiy/
+https://www.mk.ru/authors/

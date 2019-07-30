@@ -1,0 +1,10 @@
+https://www.techtarget.com/solutionstech-sales#generate
+https://www.techtarget.com/
+https://www.techtarget.com/customers
+https://www.techtarget.com/solutionstech-marketing
+https://www.techtarget.com/?page_id=4613
+https://www.techtarget.com/solutionstech-marketing#enable
+https://www.techtarget.com/resources/priority-engine-a-faster-path-to-more-deals/
+https://www.techtarget.com/3-tips-for-more-effective-nurturing-outreach-and-measurement-techtarget-priority-engine-user-insights/
+https://www.techtarget.com/contact-us
+https://reg.techtarget.com/An-Introduction-to-ABM-Scoring-Whitepaper-Web.html

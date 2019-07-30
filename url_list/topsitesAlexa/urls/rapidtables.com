@@ -1,0 +1,10 @@
+https://www.rapidtables.com/mathindex.html
+https://www.rapidtables.com/aboutprivacy.html
+https://www.rapidtables.com/electricindex.html
+https://www.rapidtables.com/
+https://www.rapidtables.com/toolsindex.html
+https://www.rapidtables.com/webindex.html
+mailto:?subject=RapidTables%20website&body=Please%20checkout%20this%20site:%20https://www.rapidtables.com
+https://www.rapidtables.com/aboutterms.html
+https://www.rapidtables.com/convertindex.html
+https://www.rapidtables.com/aboutabout.html

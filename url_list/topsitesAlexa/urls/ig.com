@@ -1,0 +1,10 @@
+https://www.ig.com/sgadvanced-trading-platforms
+https://www.ig.com/sgcryptocurrency-trading
+https://www.ig.com/sgtrading-platformsmetatrader-4
+https://www.ig.com/sgcfd-tradingcustomer-knowledge-assessment
+https://www.ig.com/sgrisk-management
+https://www.ig.com/sgnews-and-trade-ideas
+https://www.ig.com/sgcommoditiesmarkets-commoditiesgold
+https://www.ig.com/sgshares
+https://www.ig.com/sgfinancial-events
+https://www.ig.com/

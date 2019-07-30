@@ -1,0 +1,10 @@
+http://trains.ctrip.com/trainbooking/TrainSchedule/#ctm_ref=sbr_hp_nav_tra_txt_11
+http://vacations.ctrip.com/tours/d-guilin-28
+https://car.ctrip.com/zijia#ctm_ref=chp_var_txt
+https://piao.ctrip.com/oversea#ctm_ref=tkt_home_tab_oversea
+http://rails.ctrip.com/international/PassengerExplain.aspx
+https://passport.ctrip.com/user/logout
+https://www.ctrip.com/
+https://jr.ctrip.com
+http://hotels.ctrip.com/brand/h48/
+https://vacations.ctrip.com/customtravel

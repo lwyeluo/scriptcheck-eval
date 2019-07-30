@@ -1,0 +1,10 @@
+https://ncode.syosetu.com/n5503fn/
+https://ncode.syosetu.com/n5709da/
+https://syosetu.com/favnovelmain/list/
+https://ncode.syosetu.com/n0826fp/
+https://ncode.syosetu.com/n3830dd/
+https://syosetu.com/syuppan/list/
+https://ncode.syosetu.com/n4378fq/
+https://ncode.syosetu.com/n1554fq/
+https://ncode.syosetu.com/n9296fl/
+http://www.syosetu.com/

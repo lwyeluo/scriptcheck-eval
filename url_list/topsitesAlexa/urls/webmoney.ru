@@ -1,0 +1,10 @@
+https://www.webmoney.ru/
+https://www.webmoney.ru/ruscooperationmerchants.shtml
+https://www.webmoney.ru/ruslegalgarantswmr.shtml
+https://www.webmoney.ru/rusbusinessaccept-paymentsonline-shopindex.shtml
+https://www.webmoney.ru/russupportpress-service.shtml
+https://www.webmoney.ru/rusbusinessaccept-paymentsfundingindex.shtml
+https://security.webmoney.ru/asp/controllist2.asp
+https://www.webmoney.ru/rusbusinessaccept-paymentsgames-and-appsindex.shtml
+https://passport.webmoney.ru/asp/aProcess.asp
+https://www.webmoney.ru/rusinformationmanagemobile_ios.shtml

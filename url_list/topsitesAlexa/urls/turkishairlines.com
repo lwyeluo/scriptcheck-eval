@@ -1,0 +1,10 @@
+https://www.turkishairlines.com/en-sgflightsfly-differentbusiness-classexclusive-drive#tcm339-88707
+https://www.turkishairlines.com/en-sgany-questionscheck-in
+https://www.turkishairlines.com/en-sgflights
+https://www.turkishairlines.com/en-sgany-questionsget-in-touch
+https://www.turkishairlines.com/en-sglegal-noticeprivacy-policy
+https://corporateclub.turkishairlines.com/en-gb/agents/
+https://www.turkishairlines.com/en-sgmiles-and-smilesterms-and-conditions#tcm339-66680
+https://www.turkishairlines.com/en-sgmiles-and-smiles30-years-of-smiles#tcm339-243242
+https://www.turkishairlines.com/
+https://www.turkishairlines.com/en-sgpress-roomtender-notices

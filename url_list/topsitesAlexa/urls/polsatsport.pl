@@ -1,0 +1,10 @@
+https://www.polsatsport.pl/tenis/
+https://www.polsatsport.pl/film/janusz-jestem-gotowy-objac-role-pierwszego-rozgrywajacego_6878307/
+https://www.polsatsport.pl/
+https://www.polsatsport.pl/wiadomosc/2019-07-20/zwyciestwo-polskich-siatkarzy-na-zakonczenie-pierwszej-fazy-ms/
+https://www.instagram.com/polsatsport.pl/
+https://www.polsatsport.pl/film/bednorz-wspolczuje-heynenowi-wyboru-ostatecznej-kadry-na-turniej-kwalifikacyjny-do-igrzysk_6878163/
+https://www.polsatsport.pl/wiadomosc/2019-07-21/na-li-jako-pierwsza-azjatka-dolaczyla-do-tenisowej-galerii-slaw/
+https://www.polsatsport.pl/film/zaskakujaca-decyzja-edwardsa-nie-chce-bic-sie-o-pas-chce-masvidala_6878760/
+https://www.polsatsport.pl/film/ufc-sedzia-sie-pospieszyl-szybki-nokaut-hardyego-na-adamsie_6878774/
+https://www.polsatsport.pl/wiadomosc/2019-07-21/pindera-goraczka-sobotniej-nocy-czyli-pacquiao-whyte-i-chisora-gora/

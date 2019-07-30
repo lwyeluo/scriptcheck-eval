@@ -1,0 +1,10 @@
+https://variety.com/2019/film/news/new-fantastic-four-marvel-1203274712/
+https://variety.com/gallery/independent-woman-shows/
+https://variety.com/2019/legit/reviews/beetlejuice-review-broadway-musical-1203194763/
+https://variety.com/v/scene/
+https://www.variety.com/cnewsevents
+https://www.variety.com/vmusicalbum-reviews
+https://variety.com/2019/tv/reviews/ava-duvernay-when-they-see-us-1203220510/
+https://variety.com/2019/gaming/reviews/oculus-quest-review-1203201481/
+https://variety.com/author/justin-kroll/
+https://www.variety.com/

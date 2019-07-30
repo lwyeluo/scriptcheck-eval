@@ -1,0 +1,10 @@
+https://www.familyhandyman.com/landscaping/5-best-weed-killers-for-flower-beds/
+https://www.familyhandyman.com/floor/vinyl-flooring/
+https://www.familyhandyman.com/
+https://www.familyhandyman.com/floor/
+https://www.familyhandyman.com/bathroom/shower-installation/
+https://www.familyhandyman.com/tools/
+https://join.familyhandyman.com/?utm_medium=blog&utm_source=blog_fhm&utm_campaign=mbs-fhm-nav-20190327-fhmmainnavtop
+https://www.familyhandyman.com/automotive/diy-car-paint/
+https://order.familyhandyman.com/servlet/OrdersGateway?cds_mag_code=FHM&cds_page_id=212988&cds_response_key=IVCDDU110
+https://www.familyhandyman.com/diy-advice/

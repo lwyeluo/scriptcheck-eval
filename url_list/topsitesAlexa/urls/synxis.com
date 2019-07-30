@@ -1,0 +1,10 @@
+http://www.synxis.com/solutionshotel-distributiontour-operator
+http://www.synxis.com/solutionshotel-distributionhotel-rfp
+http://www.synxis.com/solutionshotel-distributionhotel-gds-marketing
+http://www.synxis.com/contactcontact-care
+http://www.synxis.com/synxis-platform
+http://www.synxis.com/aboutexecutive-team”
+http://www.synxis.com/solutionshotel-managementhotel-property-management-system
+http://www.synxis.com/resourcesresearch
+http://www.synxis.com/
+http://www.synxis.com/solutionshotel-book-directhotel-booking-engine

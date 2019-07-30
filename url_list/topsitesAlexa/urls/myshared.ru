@@ -1,0 +1,10 @@
+http://www.myshared.ru/Школьные-презентации9-класс
+http://www.myshared.ru/Школьные-презентацииОБЖ5-класс
+http://www.myshared.ru/Школьные-презентацииИнформатика2-класс
+http://www.myshared.ru/Школьные-презентацииМузыка-Хореография
+http://www.myshared.ru/Школьные-презентацииИстория5-класс
+http://www.myshared.ru/Школьные-презентацииФизика-и-Астрономия2-класс
+http://www.myshared.ru/Школьные-презентацииМХК-ИЗО-Черчение1-класс
+http://www.myshared.ru/slide68011
+http://www.myshared.ru/
+http://www.myshared.ru/Школьные-презентацииГеография7-класс

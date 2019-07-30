@@ -1,0 +1,10 @@
+https://talksport.com/competition-terms-conditions/
+https://talksport.com/sport/wwe/575250/cm-punk-starrcast-3-chris-jericho-aew/
+https://talksport.com/sport/boxing/575860/manny-pacquiao-vs-keith-thurman-result-points/
+https://talksport.com/football/575353/liverpool-virgil-van-dijk-ballon-dor/
+https://www.talksport.com/
+https://talksport.com/football/efl/575619/watch-leeds-united-patrick-bamford-shocking-miss-fans/
+https://talksport.com/about/
+https://talksport.com/football/574971/premier-league-shirt-numbers-manchester-united-arsenal-and-chelsea-digits-confirmed-so-far/
+https://talksport.com/sport/boxing/575816/dillian-whyte-vs-oscar-rivas-result-deontay-wilder/
+https://talksport.com/football/transfer-rumours/

@@ -1,0 +1,10 @@
+https://www.looper.com/159281/she-ra-and-the-princesses-of-power-season-3-trailer-photos-revealed/
+https://www.looper.com/159328/marvels-eternals-cast-release-date-revealed/
+https://www.looper.com/159320/star-trek-short-treks-trailer-teases-six-new-adventures-ahead/
+https://www.looper.com/categoryfeatures
+https://www.looper.com/159345/marvel-confirms-black-panther-2-captain-marvel-2-fantastic-four-guardians-vol-3/
+https://www.looper.com/categorycomics
+https://www.looper.com/about
+https://www.looper.com/
+https://www.looper.com/159316/star-trek-lower-decks-first-look-photos-main-cast-revealed/
+https://www.looper.com/159307/star-trek-picard-just-cast-several-next-generation-actors/

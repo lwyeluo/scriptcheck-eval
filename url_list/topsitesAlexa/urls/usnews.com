@@ -1,0 +1,10 @@
+https://www.usnews.com/news/best-states/pennsylvania/articles/2019-07-19/parents-told-they-could-lose-kids-over-unpaid-school-lunches
+https://cars.usnews.com/cars-trucks/best-cars-for-the-money
+https://www.usnews.com/education/community-colleges
+https://health.usnews.com/wellness
+https://travel.usnews.com/features/the-best-niagara-falls-tours
+https://www.usnews.com/education/best-graduate-schools/top-medical-schools/articles/2018-04-16/how-to-get-into-top-medical-schools
+https://www.usnews.com/news/offbeat/articles/2019-07-17/us-air-force-warns-against-joke-event-to-storm-area-51
+https://www.usnews.com/education/rankings
+https://health.usnews.com/wellness/fitness
+https://www.usnews.com/

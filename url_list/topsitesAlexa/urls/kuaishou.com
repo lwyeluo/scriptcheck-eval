@@ -1,0 +1,10 @@
+https://1tian.kuaishou.com/?f=www
+https://pay.ssl.kuaishou.com/pay
+https://www.kuaishou.com/about
+https://www.kuaishou.com/www.kuaishou.comaboutcontact
+https://www.kuaishou.com/www.kuaishou.comaboutpolicy
+https://live.kuaishou.com/live-partner
+https://www.kuaishou.com/
+https://www.kuaishou.com/committee
+https://www.kuaishou.com/www.kuaishou.comabout
+https://www.kuaishou.com/verify

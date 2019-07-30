@@ -1,0 +1,10 @@
+https://www.deviantart.com/cutgut/art/I-ve-been-in-a-rage-and-I-m-headed-your-way-806443933
+https://www.deviantart.com/pemiin
+https://www.deviantart.com/boldfrontiers
+https://www.deviantart.com/icstefanescu/art/Her-last-summer-rain-96166996
+https://www.deviantart.com/creeperman0508/art/Hidden-Wonders-806387936
+https://www.deviantart.com/hideyoshi
+https://www.deviantart.com/foureyes/art/200-000-Monks-342306884#comments
+https://www.deviantart.com/
+https://www.deviantart.com/lighane
+https://www.deviantart.com/f-a-d-i-l/art/Amethyst-princess-copic-markers-and-prismacolor-656001471

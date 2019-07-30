@@ -1,0 +1,10 @@
+https://www.mofidonline.com/?lan=en
+https://www.mofidonline.com/?lan=enwww.etadbir.comwww.etadbir.com
+https://www.mofidonline.com/?lan=enwww.etadbir.com?lan=fa
+https://www.mofidonline.com/?lan=enwww.etadbir.com
+https://www.mofidonline.com/
+https://www.mofidonline.com/www.etadbir.com
+https://www.mofidonline.com/?lan=en?lan=fawww.etadbir.com
+https://www.mofidonline.com/?lan=en?lan=fa?lan=fa
+https://www.mofidonline.com/?lan=en?lan=fawww.etadbir.com?lan=fa
+https://www.mofidonline.com/?lan=en?lan=fa

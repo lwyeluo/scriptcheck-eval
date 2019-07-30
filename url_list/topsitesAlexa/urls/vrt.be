@@ -1,0 +1,10 @@
+https://www.vrt.be/nlover-de-vrtbeheersovereenkomst
+https://www.vrt.be/nlover-de-vrtnieuws20190710vrt-programma-s-genomineerd-voor-de-ensors-2019
+https://www.vrt.be/en
+https://www.vrt.be/nlinfogebruiksvoorwaarden
+https://www.vrt.be/nl
+https://www.vrt.be/nlover-de-vrtnieuws20190624mis-geen-meter-van-de-tour
+https://www.facebook.com/vrt.be
+https://www.vrt.be/nlinfoopname-bijwonen
+https://www.vrt.be/enresponsible-disclosure-policy-english-version
+https://www.vrt.be/

@@ -1,0 +1,10 @@
+http://www.flyordie.com
+http://www.flyordie.com/
+http://www.flyordie.com/termsofservice.html
+http://www.flyordie.com/games/help/moderation.html
+http://www.flyordie.com/games/help/support/contents.html
+http://www.flyordie.com/privacy.html
+http://games.flyordie.com/subscription/product.html?lang=en&game=8Ball&portal=flyordie_com
+http://forum.flyordie.com
+https://www.flyordie.com/
+http://www.flyordie.com/contact.html

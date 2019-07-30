@@ -1,0 +1,10 @@
+http://www.7k7k.com/flash137160.htm
+http://touch.7k7k.com/?nvsheng
+http://www.7k7k.com/flash168437.htm
+http://www.7k7k.com/flash166176.htm
+http://www.7k7k.com/heji
+http://www.7k7k.com/tag/143/
+http://www.7k7k.com/flash168806.htm
+http://www.7k7k.com/tag3255
+http://www.7k7k.com/flash194994.htm
+http://www.7k7k.com/

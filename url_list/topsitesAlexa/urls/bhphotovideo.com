@@ -1,0 +1,10 @@
+https://www.bhphotovideo.com/emailcurrent_newsletter.html
+https://www.bhphotovideo.com/cbrowseDrives-Storageci13216N4294542392
+https://www.bhphotovideo.com/cbuyMonitorsci7225N3880127434
+https://www.bhphotovideo.com/
+https://www.bhphotovideo.com/c/browse/Mobile/ci/8565/N/4294542748
+https://www.bhphotovideo.com/c/browse/Photography/ci/989/N/4294538916
+https://www.bhphotovideo.com/cbuymonitors-and-displaysci25766N3878805756
+https://www.bhphotovideo.com/find/liveChat.jsp
+https://www.bhphotovideo.com/cbrowseScanners-Accessoriesci18318N4077634575
+https://www.bhphotovideo.com/bnh/controller/home?O=getpage.jsp&A=SetCurrency&Q=&saveCUR=Y&code=EUR

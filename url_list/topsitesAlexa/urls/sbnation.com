@@ -1,0 +1,10 @@
+https://www.sbnation.com/golf/2019/7/18/20699705/tiger-woods-2019-british-open-scores-results-royal-portrush
+https://www.sbnation.com/
+https://www.sbnation.com/nfl/2019/7/17/20687605/jj-watt-andy-dalton-red-rifle-ryder-bb-gun-nickname-dumb-beef#comments
+https://www.sbnation.com/authors/james-dator
+https://auth.voxmedia.com/login?return_to=https%3A%2F%2Fwww.sbnation.com%2F
+https://www.sbnation.com/2019/7/19/20694611/big-3-basketball-rules-how-to-play-brooklyn-ice-cube
+http://www.sbnation.com/wnba
+https://www.sbnation.com/mlb/2019/7/17/20687020/mlb-trade-deadline-buyers-sellers-national-league-standings-chaos
+https://www.sbnation.com/2019/7/18/20699310/rohan-dennis-quits-tour-de-france#comments
+https://www.sbnation.com/british-open

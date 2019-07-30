@@ -1,0 +1,10 @@
+http://help.cricut.com/help/return-policy
+https://cricut.com/en_us/projects#sewing
+https://www.cricut.com/
+https://cricut.com/en_us/careers
+https://cricut.com/en_us/projects#stencils
+https://cricut.com/en_us/cricut-maker
+https://cricut.com/en_us/martha-stewart-collection
+https://cricut.com/en_us/partners
+http://help.cricut.com
+https://cricut.com/en_ca/?___from_store=en_us

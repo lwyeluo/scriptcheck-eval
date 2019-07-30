@@ -1,0 +1,10 @@
+https://ielts.magoosh.com
+https://go.magoosh.com/schools
+https://www.magoosh.com/mcat
+https://magoosh.com
+https://www.magoosh.com/
+https://gre.magoosh.com/
+https://praxis.magoosh.com/?utm_source=magoosh.com&utm_medium=footerlink&utm_campaign=homepage
+https://magoosh.com/press/
+https://magoosh.com/partner-with-us/
+https://www.magoosh.com/gmat

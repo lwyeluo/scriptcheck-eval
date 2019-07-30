@@ -1,0 +1,10 @@
+https://unix.stackexchange.com
+https://workplace.stackexchange.com/users/107022/ray-ray
+https://www.stackexchange.com/newsletters
+https://workplace.stackexchange.com/questions/140662/applying-for-jobs-with-an-obvious-scar
+https://ux.stackexchange.com
+https://www.stackexchange.com/tour
+https://ell.stackexchange.com
+https://scifi.stackexchange.com/questions/216229/how-was-lukes-prosthetic-hand-in-episode-v-filmed
+https://rpg.stackexchange.com/questions/tagged/monk
+https://www.stackexchange.com/

@@ -1,0 +1,10 @@
+https://www.travelandleisure.com/cruises/all-inclusive-cruises
+https://subscription.travelandleisure.com/storefront/privacy/travelleisure/generic_privacy_new.html?dnp-source=E
+https://www.travelandleisure.com/channelcity-vacations
+https://www.travelandleisure.com/jobsqueen-elizabeth-buckingham-palace-hiring-chef
+https://www.travelandleisure.com/
+https://www.travelandleisure.com/travel-news
+https://www.travelandleisure.com/travel-tips/points-miles
+https://www.travelandleisure.com/trip-ideasadventure-travelkayaking-in-alaska-wildlife-safari
+https://www.travelandleisure.com/check-in
+https://www.travelandleisure.com/trip-ideas/disney-vacations

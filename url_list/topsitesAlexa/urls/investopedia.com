@@ -1,0 +1,10 @@
+https://www.investopedia.com/
+https://www.investopedia.com/markets/stocks/amzn/
+https://www.investopedia.com/political-news-4689737
+https://www.investopedia.com/markets/stocks/tsla/
+https://www.investopedia.com/corp/about.aspx
+https://www.investopedia.com/terms/a/annuity.asp
+https://www.investopedia.com/terms/b/
+https://academy.investopedia.com/products/trading-for-beginners?aca_ref=header_course_1
+https://www.investopedia.com/terms/v/
+https://www.investopedia.com/articles/exchangetradedfunds/11/advantages-disadvantages-etfs.asp

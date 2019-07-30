@@ -1,0 +1,10 @@
+https://www.bandwagonhost.com/
+https://www.bandwagonhost.com/contact.phpvps-hosting.php
+https://www.bandwagonhost.com/contact.phpindex.php
+https://www.bandwagonhost.com/contact.php
+https://www.bandwagonhost.com/clientarea.php
+https://www.bandwagonhost.com/knowledgebase.php
+https://www.bandwagonhost.com/index.php
+https://www.bandwagonhost.com/affiliates-info.php
+https://www.bandwagonhost.com/register.php
+https://www.bandwagonhost.com/vps-hosting.php

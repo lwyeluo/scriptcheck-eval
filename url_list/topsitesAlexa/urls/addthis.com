@@ -1,0 +1,10 @@
+https://www.addthis.com/share-buttons-for-amp
+https://www.addthis.com/getshare
+https://www.addthis.com/about
+https://www.addthis.com/plugins
+https://www.addthis.com/academy
+https://www.addthis.com/getrelated-posts
+https://www.addthis.com/register?next=dashboard#tool-configtool-selectshare
+https://www.addthis.com/de
+https://www.addthis.com/register?next=dashboard#tool-configtool-selectfollow
+https://www.addthis.com/

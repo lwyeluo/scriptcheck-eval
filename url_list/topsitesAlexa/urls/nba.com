@@ -1,0 +1,10 @@
+https://www.nba.com/news/termsofuse
+https://www.nba.com/draft
+http://careers.nba.com/
+https://thisiswhyweplay.nba.com/
+http://global.nba.com/store-link-handler/?cat=nba_footwear
+https://nbaacademy.nba.com/
+https://www.nba.com/closed_captioning
+https://www.nba.com/history
+http://stats.nba.com/
+https://www.nba.com/

@@ -1,0 +1,10 @@
+http://ads.imbc.com/RealMedia/ads/click_nx.ads/www.imbc.com/main@BottomRight
+http://www.imbc.com/broad/tv/sports/
+http://www.imbc.com/notice/notice_2018/3397049_75022.html
+http://www.imbc.com/notice/notice_2018/3421103_75022.html
+http://www.imbc.com/notice/notice_2018/3411116_75022.html
+http://www.imbc.com/
+http://www.imbc.com/notice/notice_2018/3421672_75022.html
+http://www.imbc.com/notice/notice_2018/index.html
+http://ads.imbc.com/RealMedia/ads/click_nx.ads/www.imbc.com/main@BottomLeft
+http://www.imbc.com/broad/life/

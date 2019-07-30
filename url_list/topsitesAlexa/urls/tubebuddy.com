@@ -1,0 +1,10 @@
+https://www.tubebuddy.com/partners
+https://www.tubebuddy.com/
+http://blog.tubebuddy.com
+https://www.tubebuddy.com/pricing
+https://www.tubebuddy.com/about
+https://www.tubebuddy.com/account
+https://www.tubebuddy.com/install
+https://www.tubebuddy.com/tools
+https://www.tubebuddy.com/privacy
+https://www.tubebuddy.com/oauthAuthRedirectLogin?redirectUrl=https%3A%2F%2Fwww.tubebuddy.com%2Fmobile

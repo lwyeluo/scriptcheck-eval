@@ -1,0 +1,10 @@
+https://www.ccleaner.com/newsrelease-announcements
+https://secure.ccleaner.com/502/uurl-1dpbwt52q8
+https://www.ccleaner.com/ccleaner-android
+https://www.ccleaner.com/
+https://www.ccleaner.com/ccleaner-cloud
+https://www.ccleaner.com/download
+https://www.ccleaner.com/defragglerdownload
+https://www.ccleaner.com/ccleanerdownload
+https://www.ccleaner.com/partners#msps
+https://secure.ccleaner.com/502/uurl-nhb43uojsr

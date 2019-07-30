@@ -1,0 +1,10 @@
+https://www.showmax.com/
+https://chat.showmax.com
+https://secure.showmax.com/v1.0/website/signin?redirect_uri=https%3A%2F%2Fwww.showmax.com&client_id=deengie8kebu0ohree2jae9eziejee8vaejie0ba&state=
+https://secure.showmax.com/v1.0/website/signin
+https://faq.showmax.com/eng/legal
+https://secure.showmax.com/v1.0/website/signinv1.0websitepassword-recovery
+https://tech.showmax.com/open-positions/
+https://tech.showmax.com
+https://blog.showmax.com
+https://www.showmax.com/eng

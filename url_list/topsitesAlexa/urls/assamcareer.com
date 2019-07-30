@@ -1,0 +1,10 @@
+https://www.assamcareer.com/
+https://www.assamcareer.com/2019/07/diphu-medical-college-recruitment-2019.html
+https://www.assamcareer.com/2019/07/dc-office-biswanath-recruitment-2019.html
+http://www.assamcareer.com/
+https://www.assamcareer.com/search/label/Darrang
+https://www.assamcareer.com/2019/07/ongc-employees-education-society-recruitment.html
+https://www.assamcareer.com/search/label/Sonitpur%20Jobs
+https://www.assamcareer.com/search/label/Karbi%20Anglong
+https://www.assamcareer.com/2019/07/day-nulm-cmmu-goalpara-recruitment-2019.html
+https://www.assamcareer.com/search/label/Goalpara%20Jobs

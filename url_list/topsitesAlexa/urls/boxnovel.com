@@ -1,0 +1,10 @@
+https://www.boxnovel.com/
+https://boxnovel.com/
+https://boxnovel.com/novel/nightfall/
+https://boxnovel.com/novel/gourmet-of-another-world/chapter-621
+https://boxnovel.com/novel/the-great-thief/chapter-1137
+https://boxnovel.com/manga-genre/tragedy/
+https://boxnovel.com/novel/koko-wa-ore-ni-makasete-saki-ni-ike-to-itte-kara-10-nen-ga-tattara-densetsu-ni-natteita/
+https://boxnovel.com/novel/my-youth-began-with-him/chapter-1669
+https://boxnovel.com/novel/reincarnation-of-the-strongest-sword-god/chapter-1690
+https://boxnovel.com/contact/

@@ -1,0 +1,10 @@
+https://www.atlassian.com/companyevents
+https://support.atlassian.com/contact/
+https://www.atlassian.com/blog/announcements/new-atlassian-slack-partnership
+https://www.atlassian.com/companycareers
+https://www.atlassian.com/nl
+https://www.atlassian.com/ro
+https://www.atlassian.com/
+https://www.atlassian.com/blog/it-teams/internal-blogging-knowledge-sharing
+https://www.atlassian.com/agile
+https://www.atlassian.com/teamssoftware

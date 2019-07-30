@@ -1,0 +1,10 @@
+http://www.vedomosti.ru/comments/politics/articles/2019/07/19/806884-s-zelenskii-vlastyu-viborov
+https://www.vedomosti.ru/press_releases20190719realnie-vozmozhnosti-i-ugrozi-iskusstvennogo-intellekta
+https://events.vedomosti.ru/?utm_source=vedomosti.ru&utm_medium=footer&utm_campaign=desktop_footer
+https://www.vedomosti.ru/
+http://www.vedomosti.ru/comments/finance/blogs/2019/07/18/806804-zaschischat-chastnogo-investora-fondovom
+https://www.vedomosti.ru/newslinetop
+http://www.vedomosti.ru/comments/realty/articles/2019/07/19/806883-na-zdanie-tsentralnogo-telegrafa-kremlya-poyavilis-pretendenti
+https://www.vedomosti.ru/rubricsfinance
+https://www.vedomosti.ru/businessnews20190721806909-kair
+http://www.vedomosti.ru/comments/politics/galleries/2019/07/20/806899-miting

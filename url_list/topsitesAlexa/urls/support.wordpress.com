@@ -1,0 +1,10 @@
+https://www.support.wordpress.com/start
+https://www.support.wordpress.com/create
+https://www.support.wordpress.com/
+https://www.support.wordpress.com/plugins
+https://www.support.wordpress.com/customize
+https://www.support.wordpress.com/publicize
+https://www.support.wordpress.com/domains
+https://www.support.wordpress.com/com-vs-org
+https://wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Fen.support.wordpress.com%2F
+https://en.support.wordpress.com/

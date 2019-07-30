@@ -1,0 +1,10 @@
+https://www.getcourse.ru/pluserprofile
+https://www.getcourse.ru/www.facebook.comgetcourse.ru
+https://getcourse.ru/course/landings
+https://getcourse.ru/clients
+https://www.getcourse.ru/start
+https://www.getcourse.ru/usermylogout
+https://www.getcourse.ru/free
+https://getcourse.ru/blog
+https://www.getcourse.ru/
+https://getcourse.ru/privacy_policy

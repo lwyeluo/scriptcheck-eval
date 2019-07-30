@@ -1,0 +1,10 @@
+https://www.loom.com/signup
+https://www.loom.com/download
+https://www.loom.com/login
+https://www.loom.com/desktop
+https://support.loom.com/
+https://www.loom.com/my-videos
+https://www.loom.com/company
+https://www.loom.com/account-settings
+https://www.loom.com/pricing
+https://www.loom.com/

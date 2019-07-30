@@ -1,0 +1,10 @@
+https://www.bloodyelbow.com/2019/7/21/20702435/ufc-on-espn-san-antonio-dos-anjos-vs-edwards-results-post-fight-analysis#comments
+https://www.bloodyelbow.com/2019/6/23/18714247/does-the-ufc-still-need-athletic-commissions
+https://www.bloodyelbow.com/2019/7/20/20701235/dillian-whyte-vs-oscar-rivas-live-streaming-results-updates-discussion-boxing-ppv
+https://www.bloodyelbow.com/2019/7/21/20702472/manny-pacquiao-vs-keith-thurman-full-fight-video-highlights-boxing-ppv
+https://www.bloodyelbow.com/2013/1/29/3928296/ufc-roster-current-list-fighters
+https://www.bloodyelbow.com/2019/7/20/20701988/pacquiao-vs-thurman-purses-manny-pacquiao-10-million-keith-thurman-2-5-million-boxing-news#comments
+http://www.bloodyelbow.com/pages/bloody-elbow-grappling
+https://www.bloodyelbow.com/
+https://www.bloodyelbow.com/2019/7/20/20702208/ufc-san-antonio-prelim-results-video-caceres-peterson-pennington-earns-split-over-aldana-mma-news
+https://www.bloodyelbow.com/2019/7/20/20702357/pacquiao-vs-thurman-results-ugas-routs-figueroa-nery-lipinets-pick-up-knockout-wins-boxing-news

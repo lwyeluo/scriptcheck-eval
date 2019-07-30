@@ -1,0 +1,10 @@
+https://www.apowersoft.com/gif
+https://www.apowersoft.com/terms
+https://www.apowersoft.com/online-video-editor
+https://www.apowersoft.com/create-video
+https://www.apowersoft.com/mac-video-downloader
+https://www.apowersoft.com/
+https://www.apowersoft.com/streaming-audio-recorder.html
+https://www.apowersoft.com/pdf-to-word
+https://www.apowersoft.com/mac-os-screen-recorder
+https://www.apowersoft.com/phone-mirror

@@ -1,0 +1,10 @@
+https://www.military.com/spousebuzz
+https://www.military.com/newmembers/spouse
+https://www.military.com/videotheir-own-words-andrew-morgan
+https://www.military.com/spousemilitary-benefits
+https://www.military.com/
+https://www.military.com/member-reg/login.html?vlv_redir=https://www.military.com
+https://www.military.com/off-duty20190719how-nasas-apollo-program-turned-military-test-pilots-lunar-geologists.html
+https://www.military.com/topicsundertheradar
+https://www.military.com/discountscategory
+https://www.military.com/videomeet-newest-army-astronaut

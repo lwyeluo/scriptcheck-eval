@@ -1,0 +1,10 @@
+https://www.bankersadda.com/www.blogger.comrearrange?blogID=5642347910725725630&widgetType=HTML&widgetId=HTML12&action=editWidget&sectionId=sidebar
+https://www.bankersadda.com/search/label/Current%20Affairs%20Questions
+https://www.bankersadda.com/p/niacl.html
+https://www.bankersadda.com/p/monthly-banking.html
+https://www.bankersadda.com/www.blogger.comrearrange?blogID=5642347910725725630&widgetType=HTML&widgetId=HTML25&action=editWidget&sectionId=sidebar3
+https://www.bankersadda.com/p/bank-questions-paper.html
+https://www.bankersadda.com/
+https://www.bankersadda.com/p/gk-pointer.html
+https://www.bankersadda.com/2019/06/lic-ado-admit-card.html
+https://www.bankersadda.com/2019/06/sbi-clerk-prelims-memory-based-paper-pdf.html

@@ -1,0 +1,10 @@
+http://www.cplusplus.com/info
+http://www.cplusplus.com/articlesalgorithms
+http://www.cplusplus.com/forum
+http://www.cplusplus.com/doctutorialfunctions
+http://www.cplusplus.com/doctutorialtemplates
+http://www.cplusplus.com/articlesstandard_library
+http://www.cplusplus.com/search.do
+http://www.cplusplus.com/
+http://www.cplusplus.com/articleswinapi
+http://www.cplusplus.com/contact.do?referrer=www.cplusplus.com%2F

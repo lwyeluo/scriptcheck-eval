@@ -1,0 +1,10 @@
+https://ee.sputniknews.ru
+https://tj.sputniknews.ru
+https://az.sputniknews.ru/expert/20190721/421199326/ukraine-election-zelenskiy.html
+https://lv.sputniknews.ru/columnists/20190717/12058252/Erdogan-unizil-Merkel-i-Trampa-odnovremenno.html
+https://sputniknews.ru/docsaboutcontact.html
+https://tj.sputniknews.ru/video/20190719/1029417550/video-popugay-sobaka.html
+https://uz.sputniknews.ru
+https://lt.sputniknews.ru
+https://sputniknews.ru/
+https://lt.sputniknews.ru/baltics/20190720/9670174/V-Kaliningrade-obyasnili-pochemu-litovtsy-khotyat-poluchit-elektronnye-vizy.html

@@ -1,0 +1,10 @@
+https://www.cian.ru/kupit-kvartiru-moskva-stanciya-mck-panfilovskaya/
+https://www.cian.ru/www.cian.ru
+https://www.cian.ru/kupit-kvartiru-moskva-metro-alekseevskaya/
+https://www.cian.ru/kupit-kvartiru-moskva-metro-borovskoe-shosse/
+https://www.cian.ru/
+https://www.cian.ru/kupit-kvartiru-moskva-kosino-uhtomskiy-0463/
+https://www.cian.ru/kupit-kvartiru-moskva-shcukino-04131/
+https://www.cian.ru/kupit-kvartiru-moskva-metro-ulica-akademika-koroleva/
+https://www.cian.ru/kupit-kvartiru-moskva-sokol-0435/
+https://anadyr.cian.ru

@@ -1,0 +1,10 @@
+https://www.datacamp.com/tracksskill
+https://www.datacamp.com/privacy-policy
+https://www.datacamp.com/
+https://www.datacamp.com/usersauthfacebook
+https://www.datacamp.com/onboardinglearn?from=home
+https://www.datacamp.com/instructors
+https://www.datacamp.com/userssign_in
+https://www.datacamp.com/usersauthlinkedin
+https://www.datacamp.com/userssign_up
+https://www.datacamp.com/pricing

@@ -1,0 +1,10 @@
+https://mp.yidianzixun.com/
+http://insight.yidianzixun.com/cooperate
+https://developer.yidianzixun.com/
+https://download.yidianzixun.com/android/Yidiansigned-972.apk
+http://www.yidianzixun.com/complain
+https://www.yidianzixun.com/static.yidianzixun.commodulesdocs%E4%BA%92%E8%81%94%E7%BD%91%E6%96%B0%E9%97%BB%E4%BF%A1%E6%81%AF%E6%9C%8D%E5%8A%A1%E8%AE%B8%E5%8F%AF%E8%AF%81.pdf
+https://www.yidianzixun.com/channel/e36743
+https://www.yidianzixun.com/
+http://static.yidianzixun.com/modules/docs/yidian_ypxxfw.pdf
+https://www.yidianzixun.com/channel/e36742

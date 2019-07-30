@@ -1,0 +1,10 @@
+https://kakakumag.com/backnumber?ym=201904
+https://kakakumag.com/backnumber?writer=49
+https://kakakumag.com/
+https://kakakumag.com/ktag?tagcd=kmag59
+https://kakakumag.com/money?id=14060
+https://kakakumag.com/backnumber?ym=201812
+https://kakakumag.com/seikatsu-kaden?id=11766
+https://kakakumag.com/backnumber?writer=99
+https://kakakumag.com/hobby?id=14115
+https://kakakumag.com/pc-smartphone?id=14118

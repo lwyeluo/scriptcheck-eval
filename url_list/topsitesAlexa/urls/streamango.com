@@ -1,0 +1,10 @@
+https://streamango.com/about
+https://streamango.com/
+https://streamango.com/news
+https://streamango.com/api
+https://streamango.com/copyright
+https://streamango.com/contact
+https://streamango.com/dmca
+https://streamango.com/register
+https://streamango.com/privacy
+https://streamango.com/forgotpassword

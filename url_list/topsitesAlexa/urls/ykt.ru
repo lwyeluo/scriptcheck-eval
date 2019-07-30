@@ -1,0 +1,10 @@
+https://news.ykt.ru/article/89311?block.all
+http://most3.ykt.ru/session?a=click&p=37392&corporate.block
+https://www.ykt.ru/forum.ykt.ruviewforum.jsp?id=229
+https://www.ykt.ru/forums.ykt.ru
+https://news.ykt.ru/article/89302?block.all
+https://news.ykt.ru/article/89306?gotop.news
+https://www.ykt.ru/dnevniki.ykt.runmvf
+http://most3.ykt.ru/session?a=click&p=37221&block.kupon
+https://most3.ykt.ru/session?a=click&p=37495&pl=2996
+https://www.ykt.ru/

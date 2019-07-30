@@ -1,0 +1,10 @@
+https://mosreg.ru/seychas-v-rabote/zashchita-ot-chs
+https://mosreg.ru/sobytiya/sovety
+https://mosreg.ru/ob-oblasti/prioritety-razvitiya
+https://mosreg.ru/sobytiya/novosti/myn-obrazovaniya
+https://mosreg.ru/dokumenty/ocenka-reguliruyushchego-vozdeystviya
+https://mosreg.ru/ob-oblasti/dostizheniya/podmoskove-stalo-liderom-sredi-regionov-rf-po-predlozheniyu-dlya-investorov
+https://www.mosreg.ru/about
+https://www.mosreg.ru/
+https://mosreg.ru/redirect/1113061
+https://mosreg.ru/services/socialnaya-podderzhka

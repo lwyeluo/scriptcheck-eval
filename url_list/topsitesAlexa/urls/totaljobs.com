@@ -1,0 +1,10 @@
+https://www.totaljobs.com/jobsin-north-east
+https://www.totaljobs.com/JobSearchJobsByEmailSetup.aspx
+http://press.totaljobs.com/
+https://www.totaljobs.com/jobswholesale
+https://www.totaljobs.com/
+https://www.totaljobs.com/Authenticatedprofile.aspx#cv
+https://www.totaljobs.com/jobs-attempline-recruitment-agencyjobs
+https://www.totaljobs.com/JobSearchnorth-west
+https://www.totaljobs.com/jobspart-time
+https://www.totaljobs.com/get-you-noticed?INHSE=GetYouNoticedCampaign_FooterLink

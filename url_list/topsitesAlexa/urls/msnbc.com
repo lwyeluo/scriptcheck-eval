@@ -1,0 +1,10 @@
+https://www.msnbc.com/stephanie-ruhle/watch/did-millions-of-americans-just-hand-over-personal-info-to-russia-64079941999
+https://www.msnbc.com/msnbc/watch/trump-calls-send-her-back-rally-attendees-incredible-patriots-incredible-people-64159301804
+https://www.msnbc.com/
+https://www.msnbc.com/the-beat-with-ari-melber
+https://www.msnbc.com/hardball/watch/sherrod-brown-trump-is-a-terrible-president-who-has-betrayed-workers-62133829793
+https://www.msnbc.com/katy-tur/watch/democratic-primary-debates-round-two-what-to-expect-64173637539
+https://www.msnbc.com/mtp-daily
+https://www.msnbc.com/11th-hour/watch/ahead-of-mueller-testimony-trump-blasts-russia-investigation-as-bullsh-t-64058949658
+https://www.msnbc.com/11th-hour-with-Brian-Williams
+https://www.msnbc.com/craig-melvin

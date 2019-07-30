@@ -1,0 +1,10 @@
+https://login.adf.ly/login
+http://adf.ly/5XR
+https://www.adf.ly/advertiseradvertising
+https://www.adf.ly/privacy
+https://www.adf.ly/abuse
+https://adf.ly/privacy#third_party
+https://www.adf.ly/securimagesecurimage_play.php?id=5d3432598a734
+https://www.adf.ly/#
+https://www.adf.ly/dmca
+https://www.adf.ly/

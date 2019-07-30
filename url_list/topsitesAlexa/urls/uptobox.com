@@ -1,0 +1,10 @@
+https://www.uptobox.com/changelang?lang=french&referer=homepage
+https://www.uptobox.com/uptobox.compayments
+https://uptobox.com/tos
+https://uptobox.com/
+https://www.uptobox.com/changelang?lang=arabic&referer=homepage
+https://www.uptobox.com/
+https://uptobox.com/registration
+https://uptobox.com/payments
+https://uptobox.com/reseller_program
+https://docs.uptobox.com/

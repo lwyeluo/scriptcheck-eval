@@ -1,0 +1,10 @@
+http://www.guru3d.com
+https://www.guru3d.com/articles-pages/msi-meg-x570-godlike-review,1.html
+https://newsletter.guru3d.com/lists/?p=subscribe&id=1
+https://www.guru3d.com/news-channels
+http://forums.guru3d.com
+https://www.guru3d.com/newsindex.html
+https://forums.guru3d.com/threads/crosshair-vii-hero-woes-please-help.427686/
+https://www.guru3d.com/
+https://www.guru3d.com/files-archive
+https://www.guru3d.com/articles-categorieshardware-reviews.html

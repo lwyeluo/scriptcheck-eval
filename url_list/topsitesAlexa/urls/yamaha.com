@@ -1,0 +1,10 @@
+https://www.yamaha.com/enenir#management_policy
+https://www.yamaha.com/en
+https://www.yamaha.com/2countries
+https://www.yamaha.com/?header
+https://www.yamaha.com/ja
+https://sg.yamaha.com/
+https://www.yamaha.com/enprivacy_policy
+https://www.yamaha.com/
+https://www.yamaha.com/enterms_of_use
+https://www.yamaha.com/enaccessibility

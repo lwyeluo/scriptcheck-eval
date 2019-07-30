@@ -1,0 +1,10 @@
+https://www.techspot.com/reviewscpu
+https://www.techspot.com/reviewsstorage
+https://www.techspot.com/category/gaming/
+https://www.techspot.com/news/81030-samsung-now-mass-producing-12gb-lpddr5-mobile-dram.html
+https://www.techspot.com/
+https://www.techspot.com/downloads/mail-utilities/
+https://www.techspot.com/featuresgaming
+https://www.techspot.com/downloads
+https://www.techspot.com/categoryculture
+https://www.techspot.com/communityfind-newthreads

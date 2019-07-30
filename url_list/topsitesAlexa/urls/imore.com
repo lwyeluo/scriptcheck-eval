@@ -1,0 +1,10 @@
+https://www.imore.com/authorRene%20Ritchie
+https://www.imore.com/apple-announces-all-new-105-inch-ipad-air-and-ipad-mini-apple-pencil-support
+https://www.imore.com/
+https://www.imore.com/how-to
+https://www.imore.com/knowroamings-new-esim-service-gets-you-connected-us-or-europe-just-10
+https://www.imore.com/prime-day-ynm-weighted-blanket
+https://www.imore.com/aukey-lightning-cables-july-2019
+https://www.imore.com/best-cases-iphone-max
+https://www.imore.com/best-ipad-students
+https://www.imore.com/eufy-security-wi-fi-video-doorbell-review

@@ -1,0 +1,10 @@
+https://www.typeform.com/l/partners/
+https://hellofrom.typeform.com/to/PGWNkN?source=PublicSite
+https://www.typeform.com/surveys
+https://www.typeform.com/careers/
+https://www.typeform.com/surveys/question-types/
+https://www.typeform.com/
+https://www.typeform.com/connect/
+https://www.typeform.com/templates/c/forms/
+https://www.typeform.com/pricing/
+https://admin.typeform.com/signup

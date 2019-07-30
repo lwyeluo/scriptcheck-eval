@@ -1,0 +1,10 @@
+https://www.smallpdf.com/pdf-to-word
+https://www.smallpdf.com/
+https://www.smallpdf.com/excel-to-pdf
+https://www.smallpdf.com/sign-pdf
+https://smallpdf.com/uk
+https://smallpdf.com/id
+https://www.smallpdf.com/compress-pdf
+https://www.smallpdf.com/pdf-converter
+https://smallpdf.com/ru
+https://smallpdf.com/vi

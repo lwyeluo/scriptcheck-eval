@@ -1,0 +1,10 @@
+http://www.seg-social.es/
+http://www.seg-social.es/wpsportalwssinternetAvisoLegal
+http://www.seg-social.es/wpsportalwssinternetTrabajadores
+http://www.seg-social.es/wpsportalwssinternetInformacionUtil5300
+http://www.seg-social.es/wpsportalwssinternetSugerenciasQuejas
+http://www.seg-social.es/wpsportalwssinternetEnlaces
+http://www.seg-social.es/wpsportalwssinternetInicio
+http://www.seg-social.es/wpsportalwssinternetFAQ
+https://revista.seg-social.es/
+http://www.seg-social.es/wpsportalwssinternetInformacionUtil53001490

@@ -1,0 +1,10 @@
+https://www.ti.com/www.ti.comhome_chinatop
+https://www.ti.com/www.ti.comapplicationsindustrialaerospace-defenseoverview.html
+https://www.ti.com/www.ti.cominfo-storedistributors.html
+https://www.ti.com/www.ti.comreference-designsindex.html#search?applid=209
+https://www.ti.com/www.ti.comwwenpower-traininglogin.shtml?DCMP=pwr-psds-archive&HQS=pwr-psds-archive-psds
+https://www.ti.com/www.ti.comdie-wafer-servicesoverview.html
+https://www.ti.com/www.ti.com
+https://www.ti.com/www.ti.comlogic-circuitoverview.html
+https://www.ti.com/www.ti.comapplicationscommunications-equipmentwired-networkingoverview.html
+https://www.ti.com/

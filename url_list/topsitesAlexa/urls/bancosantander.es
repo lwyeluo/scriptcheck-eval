@@ -1,0 +1,10 @@
+https://www.bancosantander.es/es/elige-tu-hipoteca
+https://www.bancosantander.es/esgdpr
+https://www.bancosantander.es/es/particulares/seguros/seguro-proteccion-senior
+https://www.bancosantander.es/es/particulares/cuentas-corrientes/cuenta-nomina
+https://www.bancosantander.es/es/particulares/tarjetas-de-credito/ventajas
+https://www.bancosantander.es/es/particulares/tarjetas-de-credito/tarjeta-santander-prime
+https://www.bancosantander.es/esparticularesprestamosprestamos-personalessimulador
+https://www.bancosantander.es/es/particulares/tarjetas-debito-y-prepago
+https://www.bancosantander.es/
+https://www.bancosantander.es/es/particulares/tarjetas-debito-y-prepago/tarjeta-123-mini

@@ -1,0 +1,10 @@
+https://deals.thenextweb.com/sales/the-learn-to-become-an-expert-photographer-bundle/?utm_source=thenextweb.com&utm_medium=dealfeed&utm_campaign=/sales/the-learn-to-become-an-expert-photographer-bundle
+https://index.co/faq?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com#addFunding
+https://thenextweb.com/gaming/2019/07/18/turbografx-16-mini-pre-order/
+https://thenextweb.com/podium/2019/07/17/why-empathy-wont-get-automated-anytime-soon-ai/
+https://www.thenextweb.com/
+https://thenextweb.com/tnw2019/2019/05/08/who-are-the-creators-of-ai-generated-art-programmers-or-machines/
+https://thenextweb.com/hardfork/2019/04/09/mozilla-firefox-cryptojacking-cryptocurrency-mining-scripts/
+https://thenextweb.com/plugged/2019/07/20/fitbit-ionic-sports-watch-smart/
+https://www.thenextweb.com/sectioninsights
+https://index.co/company/spring-labs/funding/series-a?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com

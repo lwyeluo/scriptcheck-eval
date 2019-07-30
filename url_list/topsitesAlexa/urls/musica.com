@@ -1,0 +1,10 @@
+https://www.musica.com/letras.asp?letras=canciones
+https://www.musica.com/letras.asp?ayuda=faq
+https://www.musica.com/letras.asp?g=1
+https://www.musica.com/letras.asp?g=j
+https://www.musica.com
+https://www.musica.com/letras.asp?g=m
+https://www.musica.com/letras.asp?g=h
+https://www.musica.com/letras.asp?g=x
+https://www.musica.com/
+https://www.musica.com/letras.asp?g=q

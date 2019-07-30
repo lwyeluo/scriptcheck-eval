@@ -1,0 +1,10 @@
+https://www.solidworks.com/solutionindustrieshigh-tech
+https://www.solidworks.com/lpjust-cad
+https://www.solidworks.com/solutionindustriesconstruction-cities-territories
+https://www.solidworks.com/solutionbusiness-segmentscommercial-enterprises
+http://www.solidworks.com/sw/resources.htm
+https://www.solidworks.com/solutionjob-functionsmechatronics-designers
+https://www.solidworks.com/category3d-cad
+https://www.solidworks.com/category/electrical-design
+https://www.solidworks.com/categorytechnical-communication
+https://www.solidworks.com/

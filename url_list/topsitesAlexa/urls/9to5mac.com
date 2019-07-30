@@ -1,0 +1,10 @@
+https://9to5mac.com/2019/07/20/apple-work-top-3-mistakes-apple-it-managers-make-video-webinar/?share=facebook
+http://9to5mac.com/guides
+https://9to5mac.com/2019/07/19/prioritize-apple-health-sources-iphone/
+http://9to5mac.com/guides/ipados
+https://9to5mac.com/guides/macos-mojave/
+https://www.9to5mac.com/
+https://9to5mac.com/2019/07/19/apollo-reddit-ios-spca-donation/
+https://9to5mac.com/2019/06/20/apple-in-enterprise/
+http://9to5mac.com/guides/ios-13/
+https://9to5mac.com/guides/ipad/

@@ -1,0 +1,10 @@
+https://www.soft112.com/search.soft112.commobile.f4l12itema.html
+https://www.soft112.com/photo-grid.soft112.comdownload.html
+https://www.soft112.com/android-pc-suite.soft112.com
+https://www.soft112.com/
+https://www.soft112.com/categories.soft112.comBusiness.Accounting-and-Finance.html
+https://www.soft112.com/categories.soft112.comGames-and-Entertainment.html
+https://www.soft112.com/search.soft112.commenus.f4l12jqd9v.html
+https://www.soft112.com/categories.soft112.comAudio-and-Multimedia.Audio-File-Players.html
+https://www.soft112.com/categories.soft112.comWebware.Other.html
+https://www.soft112.com/www.youtube.comsoft112com

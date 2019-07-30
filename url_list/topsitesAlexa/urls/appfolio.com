@@ -1,0 +1,10 @@
+https://www.appfolio.com/
+https://www.appfolio.com/case-studies
+https://www.appfolio.com/blog/
+https://www.appfolio.com/news
+https://www.appfolio.com/featuresaccounting-and-reporting
+https://www.appfolio.com/contact
+https://www.appfolio.com/hoa-property-management-software
+https://www.appfolio.com/residential-property-management-software
+https://www.appfolio.com/try-it-free?APM-CTA=hp-mobility-tryit&CUST-CTA=mobility
+https://www.appfolio.com/benefits

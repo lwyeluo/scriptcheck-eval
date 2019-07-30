@@ -1,0 +1,10 @@
+https://www.bollywoodhungama.com/directory/movies-list/alphabet/M
+https://www.bollywoodhungama.com/photos/movie-wallpapers/batla-house/batla-house-12/
+https://www.bollywoodhungama.com/news/box-office-special-features/super-30-box-office-collections-hrithik-roshan-starrer-super-30-good-second-saturday-can-benefit-tax-free-status-across-country/
+https://www.bollywoodhungama.com/musiclatest-music-review
+https://www.bollywoodhungama.com/videosfirst-day-first-show
+https://www.bollywoodhungama.com/
+https://www.bollywoodhungama.com?s=Kabir%20Singh
+https://www.bollywoodhungama.com/celebrity/ranveer-singh/
+https://www.bollywoodhungama.com/directory/movies-list/alphabet/H
+https://www.bollywoodhungama.com/celebrity/salman-khan/

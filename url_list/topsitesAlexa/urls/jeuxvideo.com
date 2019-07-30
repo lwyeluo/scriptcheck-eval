@@ -1,0 +1,10 @@
+https://www.jeuxvideo.com/jeuxjeu-996426
+https://www.jeuxvideo.com/jeuxjeu-599917
+https://www.jeuxvideo.com/news1051145les-coulisses-de-prince-of-persia-le-comte-des-mille-et-une-nuits.htm
+https://www.jeuxvideo.com/videoschroniques1076544jeuxvideo-com-lance-le-poing-jay-l-actu-degommee-avec-panache-en-video.htm
+https://www.jeuxvideo.com/
+https://www.jeuxvideo.com/jeuxjeu-79026
+http://www.jeuxvideo.com/apple-iphone-ipod-touch.htm
+http://www.jeuxvideo.com/harcelement.htm
+http://www.jeuxvideo.com/forums/0-3010206-0-1-0-1-0-red-dead-redemption-2.htm
+https://www.jeuxvideo.com/jeuxps4jeu-501374

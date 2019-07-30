@@ -1,0 +1,10 @@
+https://www.marksandspencer.com/lbeautyoccasion-shop
+https://www.marksandspencer.com/www.disabledgo.commarksandspenceruk
+https://www.marksandspencer.com/
+https://www.marksandspencer.com/lfood-to-orderdiningstarters
+https://www.marksandspencer.com/lflowers-and-plantsflowersbouquets
+https://www.marksandspencer.com/loffersfurniture-sale
+https://www.marksandspencer.com/llingerievests-and-camisoles
+https://www.marksandspencer.com/lkidsall-girlsshoes-boots-and-slippers
+https://www.marksandspencer.com/lwomenplus-size-clothing
+https://www.marksandspencer.com/lbeautysun-cream

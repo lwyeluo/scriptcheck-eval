@@ -1,0 +1,10 @@
+https://www.sabavision.com/fa/about#job
+https://www.sabavision.com/fa/campaign
+https://www.sabavision.com/en/
+https://www.sabavision.com/fa/index#income
+https://www.sabavision.com/fa/contact
+https://www.sabavision.com/fa/banner#why
+https://www.sabavision.com/fa/native
+https://www.sabavision.com/fa/mobile
+https://www.sabavision.com/
+http://plus.sabavision.com/auth/login

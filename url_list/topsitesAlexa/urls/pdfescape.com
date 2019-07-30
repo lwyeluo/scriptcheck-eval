@@ -1,0 +1,10 @@
+https://www.pdfescape.com/
+https://www.pdfescape.com/whatpremium
+https://www.pdfescape.com/contact
+https://www.pdfescape.com/accountlogin
+https://www.pdfescape.com/?noredirect=true
+https://www.pdfescape.com/whatlinking
+https://www.pdfescape.com/support
+https://www.pdfescape.com/redirect?asp.net
+https://www.pdfescape.com/terms
+https://www.pdfescape.com/supportuninstall

@@ -1,0 +1,10 @@
+https://www.chollometro.com/nuevos
+https://www.chollometro.com/temas/me-han-jodido-bien-con-amazon-logistics-88029
+https://www.chollometro.com/cupones/amazon.es
+https://www.chollometro.com/ofertas/gog.com
+https://www.chollometro.com/visit/thread/187510
+https://www.chollometro.com/ofertas/skyscanner.es
+https://www.chollometro.com/temas/aduanas-como-proceder-y-librarse-de-extorsiones-de-adtpostales-154019
+https://www.chollometro.com?page=2
+https://www.chollometro.com/ofertas/rumbo.es
+https://www.chollometro.com/

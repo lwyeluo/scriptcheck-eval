@@ -1,0 +1,10 @@
+https://leroymerlin.ru/catalogue/osveshchenie/
+https://orenburg.leroymerlin.ru
+https://www.leroymerlin.ru/
+https://www.leroymerlin.ru/cataloguesuhie-smesi-i-gruntovki
+https://www.leroymerlin.ru/cataloguevanny-i-komplektuyushchie
+https://www.leroymerlin.ru/dostavka
+https://www.leroymerlin.ru/cataloguedrevesno-plitnye-materialy
+https://www.leroymerlin.ru/cataloguefiltry-dlya-pitevoy-vody
+https://www.leroymerlin.ru/serviceshkola-remonta
+https://www.leroymerlin.ru/cataloguedekorativnye-paneli-pvh-i-mdf

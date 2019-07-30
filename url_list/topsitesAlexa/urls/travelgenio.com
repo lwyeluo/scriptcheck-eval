@@ -1,0 +1,10 @@
+http://ve.travelgenio.com
+http://ch.travelgenio.com
+http://pk.travelgenio.com
+http://kz.travelgenio.com
+http://uk.travelgenio.com
+http://coches.travelgenio.com/?preflang=en&prefcurrency=SGD
+http://sg.travelgenio.com/pages/data-protection
+http://cn.travelgenio.com
+http://jp.travelgenio.com
+https://www.travelgenio.com/

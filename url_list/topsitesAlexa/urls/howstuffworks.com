@@ -1,0 +1,10 @@
+https://entertainment.howstuffworks.com/10-lottery-burnouts.htm
+https://lifestyle.howstuffworks.com/
+https://home.howstuffworks.com/cucamelon.htm
+https://www.howstuffworks.com/
+https://www.howstuffworks.com/about-laurie-dove.htm
+https://auto.howstuffworks.com/under-the-hood/auto-manufacturing/10-vehicle-manufacturing-defects.htm
+https://money.howstuffworks.com/
+https://www.howstuffworks.com/www.howstuffworks.comnewsletter.htm
+https://adventure.howstuffworks.com/
+https://www.howstuffworks.com/about-alia-hoyt.htm

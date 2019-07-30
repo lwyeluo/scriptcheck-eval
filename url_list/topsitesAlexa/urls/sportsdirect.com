@@ -1,0 +1,10 @@
+https://www.sportsdirect.com/ladies-footwear?promo_name=fos-ladies-footwear
+https://www.sportsdirect.com/customerservicesotherinformationsizeguide
+https://www.sportsdirect.com/accountinformationorderhistorysummary
+https://www.sportsdirect.com/kids-footwear?promo_name=fos-kids-footwear
+https://www.sportsdirect.com/customerservicesotherinformationsecurityandprivacy
+https://www.sportsdirect.com/customerservicestermsandconditions
+https://www.sportsdirect.com/stores
+https://www.sportsdirect.com/football-boot-launchesadidas-hardwired-pack?promo_name=fos-hardwired-r2
+https://www.sportsdirect.com/sale?promo_name=fos-sale-r3
+https://www.sportsdirect.com/

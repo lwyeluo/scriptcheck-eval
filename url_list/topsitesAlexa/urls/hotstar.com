@@ -1,0 +1,10 @@
+https://www.hotstar.com/channels
+https://www.hotstar.com/channelsstar-vijay
+https://www.hotstar.com/sportskabaddi
+https://www.hotstar.com/terms-of-use
+https://www.hotstar.com/channelsstarplus
+https://www.hotstar.com/
+https://www.hotstar.com/channelsstar-maa
+https://www.hotstar.com/sportshockey
+https://www.hotstar.com/movieslanguagestamil
+https://www.hotstar.com/feedback

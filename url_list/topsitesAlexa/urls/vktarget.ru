@@ -1,0 +1,10 @@
+https://www.vktarget.ru/#task_block
+https://www.vktarget.ru/policy
+https://www.vktarget.ru/support
+https://www.vktarget.ru/recover_email
+https://www.vktarget.ru/registration
+https://www.vktarget.ru/advertisers#partner_block
+https://www.vktarget.ru/
+https://www.vktarget.ru/api2
+https://www.vktarget.ru/advertisers
+https://www.vktarget.ru/guides

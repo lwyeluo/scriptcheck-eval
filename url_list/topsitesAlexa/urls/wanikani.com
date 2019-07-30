@@ -1,0 +1,9 @@
+https://www.wanikani.com/loginaccountconfirmationnew
+https://www.wanikani.com/signup
+https://www.wanikani.com/
+https://www.wanikani.com/signupterms
+https://www.wanikani.com/loginsignup
+https://www.wanikani.com/signuplogin
+https://www.wanikani.com/login
+https://www.wanikani.com/loginaccountpasswordnew
+https://www.wanikani.com/signupprivacy

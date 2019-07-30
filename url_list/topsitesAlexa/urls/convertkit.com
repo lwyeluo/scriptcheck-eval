@@ -1,0 +1,10 @@
+https://convertkit.com/careers
+https://convertkit.com/switch-from/aweber
+https://convertkit.com/switch-from/mailerlite
+https://convertkit.com/migrations
+https://convertkit.com/
+https://app.convertkit.com/users/signup?plan=14days
+https://convertkit.com/support
+https://app.convertkit.com/users/login
+https://convertkit.com/creator-pass
+https://www.convertkit.com/

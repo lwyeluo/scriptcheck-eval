@@ -1,0 +1,10 @@
+https://www.ped-kopilka.ru/vneklasnaja-rabota
+https://www.ped-kopilka.ru/registration
+https://www.ped-kopilka.ru/vospitateljam
+https://www.ped-kopilka.ru/
+https://www.ped-kopilka.ru/konkursy
+https://www.ped-kopilka.ru/poslovicy-i-pogovorki
+https://www.ped-kopilka.ru/pedagogika
+https://www.ped-kopilka.ru/voprosy-i-otvety
+https://www.ped-kopilka.ru/photosphoto14885.html
+https://www.ped-kopilka.ru/photosphoto14880.html

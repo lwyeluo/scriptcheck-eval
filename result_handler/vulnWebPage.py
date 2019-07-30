@@ -1,6 +1,6 @@
 # coding = utf-8
 
-import logging
+from result_handler import _logger
 
 
 class VulnWebPage(object):
@@ -95,7 +95,7 @@ class VulnWebPage(object):
 		data += '\t' + str(self.len_for_vuln_frame_chain_with_diff_features)
 		data += '\t' + self.file_name
 
-		logging.info(data)
+		_logger.info(data)
 
 	def printReachable(self):
 		if self.reachable:
@@ -104,4 +104,4 @@ class VulnWebPage(object):
 	@classmethod
 	def printTag(cls):
 		basic_tag = "rank\tdomain\turl\treachable\tlen_for_vuln_frame_chain\tlen_with_stack\tlen_final\tfilename"
-		logging.info("\n" + basic_tag + "\n")
+		_logger.info("\n" + basic_tag + "\n")

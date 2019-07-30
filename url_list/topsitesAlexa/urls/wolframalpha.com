@@ -1,0 +1,10 @@
+https://www.wolframalpha.com/community.wolfram.com
+https://www.wolframalpha.com/www.wolframalpha.comtermsofuse.html
+https://www.wolframalpha.com/
+https://www.wolframalpha.com/www.wolfram.comlanguage
+https://www.wolframalpha.com/products.wolframalpha.comweb-apps
+https://www.wolframalpha.com/products.wolframalpha.combusiness
+https://www.wolframalpha.com/products.wolframalpha.com
+https://www.wolframalpha.com/www.wolframalpha.comsocial
+https://www.wolframalpha.com/products.wolframalpha.comdevelopers
+https://www.wolframalpha.com/blog.wolfram.comcategorywolframalpha

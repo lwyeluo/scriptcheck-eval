@@ -1,0 +1,10 @@
+https://www.kensaq.com/
+https://www.kensaq.com/cookiesprivacy
+https://www.kensaq.com/privacyterms
+https://www.kensaq.com/cookiesterms
+https://www.kensaq.com/privacycookies
+https://www.kensaq.com/terms
+https://www.kensaq.com/cookiescookies
+https://www.kensaq.com/privacyprivacy
+https://www.kensaq.com/cookies
+https://www.kensaq.com/privacy

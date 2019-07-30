@@ -1,0 +1,10 @@
+https://www.nsportal.ru/laboratoriya-odarennosti
+https://www.nsportal.ru/
+https://www.nsportal.ru/mk
+https://www.nsportal.ru/groupchitaem-na-5
+https://www.nsportal.ru/audiodetskie-pesni201907klassnaya-zaryadka
+https://www.nsportal.ru/pagepoisk-po-saitu
+https://www.nsportal.ru/blogshkolaobshcheshkolnaya-tematikaall20120519vasukhomlinskiy-duma-o-vzroslosti
+https://www.nsportal.ru/lpp
+https://nsportal.ru/ap
+https://www.nsportal.ru/apliteraturnoe-tvorchestvolibrary20190718konkurs-luchshiy-urok-pismya-2019-nominatsiya-pismo

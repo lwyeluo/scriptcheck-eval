@@ -1,0 +1,10 @@
+http://www.nbcsports.com/olympic-channel
+https://www.nbcsports.com/college-basketball
+http://stream.nbcsports.com/nbc/watch-olympic-channel
+https://www.nbcsports.com/video/2019-2020-premier-league-schedule-preview
+https://www.nbcsports.com/gold/cycling?utm_tags=goldcyc1132
+https://www.nbcsports.com/
+https://www.nbcsports.com/figure-skating
+https://www.nbcsports.com/nfl
+https://nascar.nbcsports.com/2019/07/20/christopher-bell-wins-xfinity-race-at-new-hampshire/
+http://www.nbcsports.com/social-media-directory

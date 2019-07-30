@@ -1,0 +1,10 @@
+https://www.gameskinny.com/ci45xprivacy-policy
+https://www.gameskinny.com/culture
+https://www.gameskinny.com/platformshardwareperipherals
+https://www.gameskinny.com/platformsnintendo
+https://www.gameskinny.com/
+https://www.gameskinny.com/browse
+https://www.gameskinny.com/genresindie
+https://www.gameskinny.com/gsglitchiee
+https://www.gameskinny.com/gsmark-delaney
+https://www.gameskinny.com/4pv37/subscribe-to-gameskinny-via-rss-or-email/

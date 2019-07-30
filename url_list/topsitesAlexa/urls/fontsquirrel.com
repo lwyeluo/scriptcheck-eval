@@ -1,0 +1,10 @@
+https://www.fontsquirrel.com/fontslistfoundryhoftype
+https://www.fontsquirrel.com/
+https://www.fontsquirrel.com/fontslistfind_fonts?filter%5Bfamily_size%5D=8
+https://www.fontsquirrel.com/fontsdownloadpt-sans
+https://www.fontsquirrel.com/fonts/source-sans-pro
+https://www.fontsquirrel.com/fonts/questa-sans
+https://www.fontsquirrel.com/fontslistclassificationcalligraphic
+https://www.fontsquirrel.com/fontslistclassificationscript
+https://www.fontsquirrel.com/fontslistclassificationtypewriter
+https://www.fontsquirrel.com/newsletter

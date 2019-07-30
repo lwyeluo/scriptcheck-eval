@@ -1,0 +1,10 @@
+https://www.thestar.com/
+https://www.thestar.com/initiativessanta_claus_fund.html
+https://www.thestar.com/business20190719unifor-local-says-ford-to-cut-185-jobs-in-oakville-ont-plant-on-slowing-sales.html
+https://www.thestar.com/politicsfederal20190716does-the-oct-21-federal-election-date-trample-on-orthodox-jewish-rights-its-now-in-a-judges-hands.html
+https://www.thestar.com/calgary20190719a-canadian-couple-went-viral-for-killing-a-lion-in-south-africa-but-trophy-hunting-is-a-bigger-business-back-home.html
+https://www.thestar.com/news/world.html
+https://www.thestar.com/opinioneditorials20190716the-liberals-should-do-better-on-gun-control.html
+https://www.thestar.com/lifetravel20190720i-caught-the-moonwalk-on-camera.html
+https://www.thestar.com/ipoliticsfederal201907184-million-contract-awarded-to-demolish-ship-that-brought-tamil-migrants-to-canada-in-2010.html
+https://www.thestar.com/politicsfederal20190719feds-redo-child-benefit-forms-amid-concerns-at-risk-families-missing-payments.html

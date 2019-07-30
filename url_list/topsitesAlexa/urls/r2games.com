@@ -1,0 +1,10 @@
+http://es.r2games.com
+http://www.r2games.com/link.php?id=1006815
+http://tta.r2games.com/
+https://www.r2games.com/
+http://daw.r2games.com/
+http://ru.r2games.com
+https://www.r2games.com/games
+http://de.r2games.com
+http://crs2.r2games.com
+https://www.r2games.com/platunion?game=10009

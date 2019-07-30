@@ -1,0 +1,10 @@
+https://www.curbed.com/2019/7/12/20691917/amazon-alexa-prime-ring
+https://nola.curbed.com/
+https://www.curbed.com/2019/7/12/20689645/shigeru-ban-notre-dame-chapel-design
+https://www.curbed.com/2019/7/11/20690636/camping-gear-rental-outdoor-equipment-reserve-america-arrive
+https://www.curbed.com/
+https://www.curbed.com/2019/7/10/20688150/amazon-prime-day-instant-pot-duo60-deal
+https://www.curbed.com/2019/7/12/20691917/amazon-alexa-prime-ring#comments
+https://www.curbed.com/longform
+https://www.curbed.com/2019/7/15/20693994/jackie-kennedy-onassis-marthas-vineyard-estate-for-sale#comments
+https://www.curbed.com/2019/6/11/18661364/home-tuition-middle-class-housing-crisis

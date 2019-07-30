@@ -1,0 +1,10 @@
+https://www.opera.com/zh-cn/mobile/operabrowser
+https://www.opera.com/
+https://www.opera.com/zh-cnescape
+https://www.opera.com/zh-cn/mobile/touch
+https://www.opera.com/download/get/?partner=www&opsys=Windows&arch=x64
+https://jobs.opera.com/
+https://www.opera.com/zh-cn/mobile/mini/android
+https://www.opera.com/zh-cn/computer/portable
+https://forums.opera.com
+https://www.opera.com/zh-cn/eula

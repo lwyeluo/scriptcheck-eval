@@ -1,0 +1,10 @@
+https://www.sendvid.com/userspasswordnew
+https://www.sendvid.com/helpdmca
+https://www.sendvid.com/userssign_out
+https://www.sendvid.com/authtwitter
+https://www.sendvid.com/helpabout
+https://www.sendvid.com/usersconfirmationnew
+https://www.sendvid.com/videos
+https://www.sendvid.com/helptos
+https://www.sendvid.com/authgoogle_oauth2
+https://www.sendvid.com/

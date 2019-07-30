@@ -1,0 +1,10 @@
+http://mybrowseraddon.com/enable-backspace.html
+http://mybrowseraddon.com/sound-adjustment.html
+http://mybrowseraddon.com/color-picker.html
+http://mybrowseraddon.com/audio-converter.html
+http://mybrowseraddon.com/ncaa-scores.html
+http://mybrowseraddon.com/privacy-plus.html
+http://mybrowseraddon.com/block-image-video.html
+http://mybrowseraddon.com/twitter-app.html
+http://mybrowseraddon.com/whatsapp-web.html
+https://www.mybrowseraddon.com/

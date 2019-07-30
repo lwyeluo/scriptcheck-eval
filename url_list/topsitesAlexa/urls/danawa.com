@@ -1,0 +1,10 @@
+https://www.danawa.com/
+http://plan.danawa.com/info/index.php?nPlanSeq=1725
+http://news.danawa.com/view?boardSeq=60&listSeq=3965574
+http://prod.danawa.com/info/?pcode=7642204
+http://prod.danawa.com/info/?pcode=4983679
+http://prod.danawa.com/bridge/loadingBridge.html?cate1=860&cate2=869&cate3=12734&cate4=0&pcode=7777477&cmpnyc=TH201&safe_trade=4&fee_type=T&link_pcode=2383833529&package=0&setpc=0
+http://prod.danawa.com/bridge/loadingHotdeal.php?sHotdealUrl=http%3A%2F%2Fwww.tmon.co.kr%2Fentry%2F%3Fjp%3D80033%26ln%3D260985%26p_no%3D2268770278&sHotdealCompanyCode=TN920&sCateLogerKeyword=í«ëë¡ë©ë¸ë¦¿ì§^%ED%8B%B0%EB%AA%AC^%5E^%5B%EB%A6%AC%EB%B9%99%EB%8D%B0%EC%9D%B4%5D+%EB%9E%A9%EB%85%B8%EC%89%AC+%EC%9D%B8%EA%B8%B0+7%EC%A2%85+%EA%B3%A8%EB%9D%BC%EB%8B%B4%EA%B8%B0+990%EC%9B%90+990%EC%9B%90%EC%9D%B8%EB%8D%B0+%EC%82%AC%EC%A7%80+%EC%95%8A%EC%9D%84+%EC%9D%B4%EC%9C%A0%EA%B0%80+%EC%97%86%EC%96%B4%EC%9A%94&sCateLogerKeywordEvent=í«ëë¡ë©ë¸ë¦¿ì§_PC___%ED%8B%B0%EB%AA%AC%ED%8B%B0%EB%AA%AC_%5B%EB%A6%AC%EB%B9%99%EB%8D%B0%EC%9D%B4%5D+%EB%9E%A9%EB%85%B8%EC%89%AC+%EC%9D%B8%EA%B8%B0+7%EC%A2%85+%EA%B3%A8%EB%9D%BC%EB%8B%B4%EA%B8%B0+990%EC%9B%90+990%EC%9B%90%EC%9D%B8%EB%8D%B0+%EC%82%AC%EC%A7%80+%EC%95%8A%EC%9D%84+%EC%9D%B4%EC%9C%A0%EA%B0%80+%EC%97%86%EC%96%B4%EC%9A%94&nDeliveryPrice=0&sFreePostYN=Y&nLogPrice=990&sCompanyName=%ED%8B%B0%EB%AA%AC&sCmpnyC=TN920
+http://prod.danawa.com/list/?cate=18331692
+http://auto.danawa.com/auto/?Work=model&Model=3683
+http://news.danawa.com/view?boardSeq=62&listSeq=3966381

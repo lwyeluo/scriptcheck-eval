@@ -1,0 +1,10 @@
+https://www.cmbchina.com/CmbWebPubInfoCDRate.aspx?chnl=cdrate
+https://www.cmbchina.com/cmbinfonewsnewsinfo.aspx?guid=647eeb55-8834-4fea-ab15-9cdf69756bbd
+http://cc.cmbchina.com/Promotion/
+http://www.cmbchina.com/cfweb
+https://www.cmbchina.com/
+https://www.cmbchina.com/about?pageid=privacy
+http://jf.cmbchina.com/
+http://gongyi.cmbchina.com/Client/CommonWealActs.aspx?index=4
+https://www.cmbchina.com/cmbinfoawards
+https://www.cmbchina.com/mainnoticeinfo.aspx?guid=b28716f6-830d-4c97-8eab-142ee99e9c0b

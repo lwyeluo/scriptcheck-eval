@@ -1,0 +1,10 @@
+http://www.sportmail.ru/
+https://sportmail.ru/news/formula1/38000378/
+https://sportmail.ru/news/hockey-nhl/38040208/
+https://sportmail.ru/news/boxing/38049994/
+https://sportmail.ru/news/olympics/38049825/
+https://sportmail.ru/news/basketball-worldcup-euro/38049872/
+https://sportmail.ru/foto/690845/
+http://www.sportmail.ru/football-rus-premier221match299321
+http://www.sportmail.ru/football-rus-first
+https://sportmail.ru/news/football-rus-premier/38051521/

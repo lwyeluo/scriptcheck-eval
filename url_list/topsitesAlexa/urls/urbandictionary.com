@@ -1,0 +1,10 @@
+https://www.urbandictionary.com/define.php?term=wigs
+https://www.urbandictionary.com/
+https://www.urbandictionary.com/subscribe.php
+https://www.urbandictionary.com/video.new.php?defid=12841753
+https://www.urbandictionary.com/remove.form.php?reconsider%5Bdefid_to_remove%5D=12841753
+https://www.urbandictionary.com/author.php?author=Hallyuhoo
+http://ads.urbandictionary.com/
+https://www.urbandictionary.com/author.php?author=tsant
+https://www.urbandictionary.com/popular.php?character=A
+http://about.urbandictionary.com/tos

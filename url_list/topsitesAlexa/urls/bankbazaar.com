@@ -1,0 +1,10 @@
+https://www.bankbazaar.com/
+https://blog.bankbazaar.com/category/credit-cards/
+https://www.bankbazaar.com/insurancehealth-insurance.html
+https://www.bankbazaar.com/verifyOwnershipForm.html
+https://www.bankbazaar.com/debit-card.html
+https://forums.bankbazaar.com/
+https://bnkbzr.page.link/?ofl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.bankbazaar.app&apn=com.bankbazaar.app&isi=972595507&ibi=com.bankbazaar.app&utm_campaign=home-page-banner&utm_source=bb-website&amv=162&link=https%3A//www.bankbazaar.com%3Futm_campaign%3Dhome-page-banner%26utm_source%3Dbb-website
+https://www.bankbazaar.com/home-loan.html
+https://www.bankbazaar.com/passport.html
+https://www.bankbazaar.com/savings-account.html

@@ -1,0 +1,10 @@
+https://www.usaa.com/inetwcbanking_credit_cards_main?wa_ref=lf_product_bank_cc
+https://www.usaa.com/advicefinancial-readiness-score?wa_ref=lf_lifeevents_frs
+https://www.usaa.com/inetwcauto-insurance?wa_ref=lf_product_ins_auto
+https://www.usaa.com/inetwcinsurance-file-claims-auto-property?wa_ref=lf_claim_center1
+https://www.usaa.com/inetwcretail_and_discounts_main?wa_ref=lf_shopping_retail
+https://www.usaa.com/inetwcbank-real-estate-mortgage-loans?wa_ref=lf_product_bank_mortgages
+https://www.usaa.com/inetwcinvestments-usaa-managed-portfolios?wa_ref=lf_product_invest_personalassetmgmt
+https://www.usaa.com/inetent_advice_centerEntAdviceCenterAdviceCenter?wa_ref=lf_advice_and_planning
+https://www.usaa.com/inetwcinsurance_main_page?wa_ref=lf_product_ins
+https://www.usaa.com/

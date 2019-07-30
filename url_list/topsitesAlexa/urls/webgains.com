@@ -1,0 +1,10 @@
+https://www.webgains.com/public/de/datenschutzerklaerung/
+https://academy.webgains.com/student/login
+https://www.webgains.com/public/en/modern-slavery-policy/
+https://www.webgains.com/public/es/
+https://www.webgains.com/public/fr/politique/
+https://www.webgains.com/public/fr/blog/
+https://www.webgains.com/public/fr/
+https://www.webgains.com/public/about/#hiring
+http://academy.webgains.com/course/8/details
+https://www.webgains.com/

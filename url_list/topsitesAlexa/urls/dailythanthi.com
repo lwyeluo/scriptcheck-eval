@@ -1,0 +1,10 @@
+https://www.dailythanthi.com/Site_Map
+https://www.dailythanthi.com/Astrology/BirthdayBenefits
+https://www.dailythanthi.com/Manapanthal
+http://ascend.dailythanthi.com
+https://www.dailythanthi.com/Astrology/AstroBenefits/Aries
+https://www.dailythanthi.com/Astrology/StarBenefits
+https://www.dailythanthi.com/Aboutus
+https://www.dailythanthi.com/
+https://www.dailythanthi.com/News/Sirappukatturaigal
+https://www.dailythanthi.com/Sports/Football

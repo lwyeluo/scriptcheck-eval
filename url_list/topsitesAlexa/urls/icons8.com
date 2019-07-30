@@ -1,0 +1,10 @@
+https://icons8.com/icon/84872/facebook
+https://www.icons8.com/canimated-icons
+https://www.icons8.com/ouch
+https://community.icons8.com/
+https://icons8.com/icon/86805/map
+https://icons8.com/music/
+https://www.icons8.com/
+https://icons8.com/icon/82833/email
+https://icons8.com/icon/82826/delete-sign
+https://lunatics.icons8.com

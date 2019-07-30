@@ -1,0 +1,10 @@
+http://www.boxrec.com/enboxer679709
+http://www.boxrec.com/enboxer505927
+http://www.boxrec.com/
+http://www.boxrec.com/enratings?sex=M&division=Super%20Featherweight&offset=0
+http://www.boxrec.com/enboxer648485
+http://www.boxrec.com/enboxer529630
+http://www.boxrec.com/enboxer677468
+http://www.boxrec.com/enboxer573607
+http://www.boxrec.com/endate?date=2019-08-02
+http://www.boxrec.com/enboxer570403

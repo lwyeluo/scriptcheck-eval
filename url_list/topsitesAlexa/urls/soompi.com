@@ -1,0 +1,10 @@
+https://forums.soompi.com/
+https://www.soompi.com/cookies
+https://www.soompi.com/latest
+https://www.soompi.com/article1340176wppwatch-heize-takes-1st-win-for-we-dont-talk-together-on-inkigayo-performances-by-day6-pentagon-more
+https://www.soompi.com/privacy
+https://www.soompi.com/popular
+https://www.soompi.com/categorytvfilm
+https://www.soompi.com/categoryculture-and-society
+https://www.soompi.com/categorymvteaser
+https://www.soompi.com/

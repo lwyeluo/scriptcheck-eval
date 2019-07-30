@@ -1,0 +1,10 @@
+https://www.fotor.com/how-todesign-cards
+https://www.fotor.com/features/tilt-shift.html
+https://www.fotor.com/design/mobile-wallpaper
+https://www.fotor.com/design/linkedin-background
+https://www.fotor.com/templates/twitter-cover
+https://www.fotor.com/
+https://www.fotor.com/how-tomake-youtube-thumbnails
+https://www.fotor.com/features/twitter.html
+https://www.fotor.com/featuresframes.html
+https://www.fotor.com/templates/pinterest-post

@@ -1,0 +1,10 @@
+https://www.foxnews.com/video.foxnews.comv1241186546001
+https://www.foxnews.com/www.foxnews.comcategorystyle-and-beauty.html
+https://www.foxnews.com/www.foxbusiness.comfeatures
+https://www.foxnews.com/www.foxnews.comterms-of-use
+https://www.foxnews.com/
+https://www.foxnews.com/help.foxnews.com
+https://www.foxnews.com/entertainment/meghan-markle-spotlight-struggle
+https://www.foxnews.com/video.foxnews.com
+https://www.foxnews.com/www.foxnews.comcategorytechtopicssecurity
+https://www.foxnews.com/www.foxnews.comfood-drinkcanada-airport-kiosk-honest-customers

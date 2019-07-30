@@ -1,0 +1,10 @@
+https://www.eyebuydirect.com/eyeglasseswomen
+https://www.eyebuydirect.com/eyeglassesframesaura-champagne-m-15879
+https://www.eyebuydirect.com/about-us
+https://www.eyebuydirect.com/eyecarefind-eye-doctor#
+https://www.eyebuydirect.com/eyecarefind-eye-doctor
+https://www.eyebuydirect.com/eyeglassescolors
+https://www.eyebuydirect.com/new-arrivals
+https://www.eyebuydirect.com/quizglasses-frame-finder
+https://www.eyebuydirect.com/eyeglassesprogressive
+https://www.eyebuydirect.com/

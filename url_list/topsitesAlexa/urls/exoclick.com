@@ -1,0 +1,10 @@
+https://www.exoclick.com/ad-exchange/advertisers-rtb/
+https://www.exoclick.com/about-us/
+https://www.exoclick.com/fr/
+https://www.exoclick.com/about-us/blog/
+https://www.exoclick.com/definitions/
+https://www.exoclick.com/ad-network/api/
+https://www.exoclick.com/news/exoclick-launches-video-slider-ad-format/
+https://admin.exoclick.com/
+https://www.exoclick.com/advertisers/ad-formats/
+https://www.exoclick.com/

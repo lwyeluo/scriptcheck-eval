@@ -1,0 +1,10 @@
+https://www.figma.com/
+https://www.figma.com/wall-of-love
+https://www.figma.com/blogfigma-prototyping-now-with-transitions
+https://www.figma.com/blogteam-libraries-in-figma
+https://www.figma.com/community
+https://www.figma.com/templates
+https://www.figma.com/figma-vs-framer
+https://www.figma.com/sketch-alternative
+https://www.figma.com/customers
+https://www.figma.com/downloads

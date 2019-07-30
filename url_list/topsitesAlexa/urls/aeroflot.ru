@@ -1,0 +1,10 @@
+http://onlineboard.aeroflot.ru/ru
+https://www.aeroflot.ru/ru-ruwww.aeroflot.ruru-ru48_hours_reserve
+https://www.aeroflot.ru/ru-ru/special_offers/lightaward/?la
+https://www.aeroflot.ru/ru-ruwww.aeroflot.ruru-ruspecial_offers
+https://www.aeroflot.ru/ru-ruwww.aeroflot.ruru-ruafl_bonusprogramme
+https://www.aeroflot.ru/
+https://www.aeroflot.ru/m.aeroflot.ruru-ru
+https://www.aeroflot.ru/ru-en
+https://www.aeroflot.ru/ru-ru
+https://www.aeroflot.ru/m.aeroflot.ruru-en

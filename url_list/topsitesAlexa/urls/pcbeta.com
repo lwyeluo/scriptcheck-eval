@@ -1,0 +1,10 @@
+http://www.pcbeta.com/viewnews-80492-1.html
+http://www.pcbeta.com/viewnews-80486-1.html
+http://www.pcbeta.com/viewnews-80420-1.html
+http://www.pcbeta.com/viewnews-80413-1.html
+http://bbs.pcbeta.com/viewthread-1568619-1-1.html
+http://bbs.pcbeta.com/forum-win8-1.html
+http://www.pcbeta.com/
+http://bbs.pcbeta.com
+http://mac.pcbeta.com
+http://www.pcbeta.com/viewnews-80431-1.html

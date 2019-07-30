@@ -1,0 +1,10 @@
+https://www.polygon.com/features/2019/7/11/18632716/esports-amateur-pro-players-teams-talent-process
+https://www.polygon.com/2019/7/20/20702359/marvel-what-if-disney-plus-jeffrey-wright-watcher-comic-con-sdcc-2019
+https://www.polygon.com/2019/7/20/20699402/infinity-train-trailer-release-date-sdcc-2019#comments
+https://www.polygon.com/
+https://www.polygon.com/tv/2019/7/20/20701090/star-trek-discovery-season-3-timeline-future-short-treks-sdcc-2019#comments
+https://www.polygon.com/2019/7/20/20698430/black-widow-movie-title-release-date-taskmaster-sdcc-2019#comments
+https://www.polygon.com/users/NicoleCarpenter
+https://www.polygon.com/tv
+https://www.polygon.com/2019/7/20/20702356/marvel-hawkeye-series-jeremy-renner-kate-bishop-disney-plus-sdcc-2019
+https://www.polygon.com/2019/7/16/20692330/disney-the-lion-king-special-visual-effects-dust-cg-animation-2d-3d

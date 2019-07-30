@@ -1,0 +1,10 @@
+https://www.elitedaily.com/ppersonalized-birthdate-candles-are-the-best-gifts-for-your-astrology-obsessed-bffs-18181855
+https://www.elitedaily.com/
+https://www.elitedaily.com/pthese-wild-basin-boozy-sparkling-water-cans-will-add-a-fruity-touch-to-happy-hour-18219390
+https://www.elitedaily.com/phalseys-quotes-about-bts-explain-their-deep-deep-connection-18192941
+https://www.elitedaily.com/pjuly-15-2019-will-be-the-best-week-for-these-zodiac-signs-you-should-feel-so-proud-18165224
+https://www.elitedaily.com/experiences
+https://www.elitedaily.com/leave-me-a-loan
+https://www.elitedaily.com/privacy
+https://www.elitedaily.com/zodiac
+https://www.elitedaily.com/entertainment

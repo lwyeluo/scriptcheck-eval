@@ -1,0 +1,10 @@
+http://www.jpyoo.com/hotel
+http://www.jpyoo.com/aboutlist?i=11
+http://trip.jpyoo.com/shanghai/group
+http://www.jpyoo.com/helphelplist?i=214
+http://trip.jpyoo.com/shanghai
+http://trip.jpyoo.com/localdeals/1658.html
+http://www.jpyoo.com/helphelplist?i=224
+http://www.jpyoo.com/aboutlist?i=197
+http://www.jpyoo.com/special/fireworks
+http://www.jpyoo.com/

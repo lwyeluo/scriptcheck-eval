@@ -1,0 +1,10 @@
+http://www.moneycontrol.com/news/business/markets/q1-results-likely-to-be-uninspiring-value-emerging-in-the-auto-sector-4214841.html
+https://hindi.moneycontrol.com/news/company-news/ilfs-scam--gift-to-get-good-ratings-tickets-for-real-madrid-matches-discount-on-luxury-villas_211641.html
+https://www.moneycontrol.com/india/stockpricequote/sugar/shreerenuka/SRS03
+http://m.moneycontrol.com/sme/sme-special/?utm_source=mobilesite
+https://www.moneycontrol.com/india/stockpricequote/miscellaneous/bluecloudsoftechsolutions/BCS03
+https://m.moneycontrol.com/cdata/disclaim.php
+https://www.moneycontrol.com/news
+http://www.moneycontrol.com/news/politics/sheila-dikshits-last-journey-begins-mortal-remains-taken-to-congress-headquarters-4228151.html
+http://www.moneycontrol.com/news/business/commodities/gold-prices-firm-up-by-rs-74-on-higher-demand-4198921.html
+https://www.moneycontrol.com/

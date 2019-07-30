@@ -1,0 +1,10 @@
+https://www.iranecar.com/SaleCenters
+https://user.iranecar.com/Account/Register
+https://buysell.iranecar.com/CarAd/Add
+http://saipa.iranecar.com/
+https://www.iranecar.com/
+https://www.iranecar.com/CarHelpServices
+https://www.iranecar.com/External-Links
+https://www.iranecar.com/CarHelps
+https://auth.iranecar.com/connect/authorize?client_id=iranecarportal&redirect_uri=http%3a%2f%2fwww.iranecar.com%2fQuickLogOn%2fMegaIds3&response_type=code&scope=openid+email+profile&state=http%3a%2f%2fwww.iranecar.com%2f
+https://www.iranecar.com/RulesRegulations

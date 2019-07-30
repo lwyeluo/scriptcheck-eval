@@ -1,0 +1,10 @@
+http://na.finalfantasyxiv.com/winning
+http://na.finalfantasyxiv.com/www.youtube.comembedAcf6lPBNXOU?autoplay=1
+http://na.finalfantasyxiv.com/
+http://na.finalfantasyxiv.com/www.youtube.comembedCxHSSRjFH14?autoplay=1
+http://na.finalfantasyxiv.com/www.youtube.comembeddc5HY3KEqug?autoplay=1
+https://www.finalfantasyxiv.com/
+http://de.finalfantasyxiv.com/
+http://jp.finalfantasyxiv.com/
+http://eu.finalfantasyxiv.com/
+http://fr.finalfantasyxiv.com/

@@ -1,0 +1,10 @@
+http://www.mignews.com/newsculture160719_230328_66788.html
+http://www.mignews.com/export
+http://www.mignews.com/newsUSACANADA200719_123531_86474.html
+http://www.mignews.com/newsmovie160719_143120_31868.html
+http://www.mignews.com/newseconomics200719_134737_59015.html
+http://www.mignews.com/newshealth170719_134239_13124.html
+http://www.mignews.com/newslifestyle210719_103757_04613.html
+http://www.mignews.com/newsphoto090719_204353_85965.html
+http://www.mignews.com/newstravel
+http://www.mignews.com/

@@ -1,0 +1,10 @@
+https://www.icims.com/why-icimspartners
+https://www.icims.com/partners
+https://www.icims.com/resources
+https://cdn31.icims.com/icims3/prod/pdf/persona/enterprise-holdings-case-study.pdf
+https://cdn31.icims.com/icims3/prod/pdf/persona/The-Talent-Acquisition-Blueprint-Report-HD-Supply.pdf
+https://www.icims.com/hiring-insightsblogall
+https://www.icims.com/solutionsseamless-integration
+https://www.icims.com/solutionsglobal-recruiting
+https://www.icims.com/why-icimsanalyst-reviews-and-reports
+https://www.icims.com/

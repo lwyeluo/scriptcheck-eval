@@ -1,0 +1,10 @@
+https://www.ncaa.com/championships
+https://www.ncaa.com/newsbasketball-menarticle2019-06-05jordan-nwora-tops-11-favorites-2019-20-julius-erving-award
+https://www.ncaa.com/sportsbowling
+https://www.ncaa.com/sportsvolleyball-men
+https://www.ncaa.com/ticketsfootballfcs
+https://www.ncaa.com/
+https://www.ncaa.com/travel
+https://www.ncaa.com/news/baseball/article/2019-06-26/vanderbilt-wins-2019-college-world-series-title-three-games-over
+https://www.ncaa.com/ticketsbasketball-mend1
+https://www.ncaa.com/sportstennis-women

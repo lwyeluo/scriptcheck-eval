@@ -1,0 +1,10 @@
+https://www.tvzvezda.ru/newsvstrane_i_mireukraine_online
+https://www.tvzvezda.ru/person
+https://www.tvzvezda.ru/
+https://www.tvzvezda.ru/newsforcestechnopolis-era
+https://www.tvzvezda.ru/aboutvakansii
+https://www.tvzvezda.ru/newsvstrane_i_mirecontent2019720172-iQWVh.html
+https://www.tvzvezda.ru/weaponraketi
+https://www.tvzvezda.ru/news
+https://www.tvzvezda.ru/newstags?q=%D0%92+%D0%98%D0%BD%D0%BE%D0%A1%D0%9C%D0%98
+https://www.tvzvezda.ru/newsvstrane_i_mireukraine

@@ -1,0 +1,10 @@
+https://tiendaonline2.orange.es/store/tarifas/movil-contrato/go?internal_source=orange&internal_medium=home&internal_term=home+general+carrusel+ofertas+destacadas+tarifas+movil&internal_campaign=movil&AAC_PROMO_CODE=30108
+https://tiendaonline2.orange.es/store/moviles-samsung/galaxy-a10-negro?internal_source=orange&internal_medium=home+general&internal_term=home+general+banner+principal+galaxy+a10&internal_campaign=movil&AAC_PROMO_CODE=30102
+https://love.orange.es/love-negocio/?internal_source=orange&internal_medium=header&internal_term=cabecera+no+cliente+cross+empresas+descuento+love+negocio&internal_campaign=love&AAC_PROMO_CODE=37002
+http://objetosconectados.orange.es/?internal_source=orange&internal_medium=header&internal_term=cabecera+no+cliente+moviles+tablets+tablets&internal_campaign=movil&AAC_PROMO_CODE=37001
+https://www.orange.es/index_cliente.html?internal_source=orange&internal_medium=header&internal_term=enlace+cliente&internal_campaign=header
+https://tiendaonline2.orange.es/store/tarifas/movil-contrato/go?internal_source=orange&internal_medium=header&internal_term=cabecera+cliente+contrata+productos+tarifas+movil&internal_campaign=movil&AAC_PROMO_CODE=37003
+http://tiendaonline2.orange.es/moviles-contrato?internal_source=orange&internal_medium=header&internal_term=cabecera+no+cliente+moviles+tablets+smartphones&internal_campaign=movil&AAC_PROMO_CODE=37001
+http://blog.orange.es/?internal_source=orange&internal_medium=home&internal_term=pie+medios+blog+orange&internal_campaign=medios
+https://www.orange.es/google/asistentedegoogle.html?internal_source=orange&internal_medium=home&internal_term=home+general+comunidad+google+assistant&internal_campaign=movil
+https://www.orange.es/

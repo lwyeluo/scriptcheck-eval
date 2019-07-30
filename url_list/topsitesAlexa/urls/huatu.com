@@ -1,0 +1,10 @@
+http://www.huatu.com/shenlun/20190624/1741542.html
+http://www.huatu.com/lsgk/news/20190531/1734150.html
+http://gz.huatu.com/gwy/shiti/
+http://yn.huatu.com/
+http://ylws.huatu.com/yldw_mrzk/1694856.html
+http://www.huatu.com/ssgk/20190115/1695513.html
+http://teacher.huatu.com/teacher.php?cid=5454
+http://jinrong.huatu.com/kjks/?jy_pc
+http://v.huatu.com/news/20171210/197683.html
+https://www.huatu.com/

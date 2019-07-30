@@ -1,0 +1,10 @@
+https://www.girlsgogames.com/gamesdress_up?sort=dwhc
+https://www.girlsgogames.com/gamelove-tester-20
+https://www.girlsgogames.com/
+https://www.girlsgogames.com/gamespainting
+https://www.girlsgogames.com/gamesdecoration-games?sort=total_play_count
+https://www.girlsgogames.com/gamesbeauty-games
+https://www.girlsgogames.com/gamefireboy-watergirl-2-the-light-temple
+https://www.girlsgogames.com/gamesbeauty-games?sort=dwhc
+https://www.girlsgogames.com/gamedark-chocolate-blackberry-cheesecake-saras-cooking-class
+https://www.girlsgogames.com/gameshairdresser

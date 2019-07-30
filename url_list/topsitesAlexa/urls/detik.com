@@ -1,0 +1,10 @@
+https://www.detik.com/detik.comdapurprivacy-policy
+https://news.detik.com/berita/d-4633481/menang-lawan-jokowi-ini-pilu-penggugat-saat-kena-asap-karhutla?tag_from=wp_hl_terkait
+https://sport.detik.com/sepakbola/indeksfokus/4823/icc-2019/berita?tag_from=wp_cb_fokus_list
+https://foto.detik.com?tag_from=wp_secnav_foto
+https://hot.detik.com/detiktv/d-4633509/daebak-bts-dan-blackpink-masuk-nominasi-mtv-hottest-summer-superstar?tag_from=wp_nhl_judul_30
+https://haibunda.com/parenting/20190718163619-61-49260/kata-daniel-mananta-soal-manfaat-dongeng-untuk-perkembangan-anak?tag_from=wp_cb_lifestyle_list&utm_source=detik.com&utm_medium=referral
+https://oto.detik.com/read/2019/07/21/133033/4633503/1207/suku-cadang-recall-toyota-rush-tersedia-penuh-dalam-3-bulan?tag_from=wp_cb_lifestyle_list
+https://m.detik.com/news/berita/d-4631413/bambu-getah-getih-dikritik-anies-kalau-pilih-besi-impor-dari-tiongkok/komentar?tag_from=wp_cb_mostcommented_list
+https://finance.detik.com?tag_from=wp_firstnav_detikfinance
+https://www.detik.com/

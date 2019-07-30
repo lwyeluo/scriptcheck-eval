@@ -1,0 +1,10 @@
+https://www.strava.com/legalprivacy
+https://strava.com/careers
+https://www.strava.com/legalterms
+https://strava.com/legal/terms
+https://www.strava.com/login
+https://www.strava.com/
+https://strava.com/gopremium
+https://blog.strava.com
+https://www.facebook.com/v2.12/dialog/oauth?access_type=offline&client_id=284597785309&redirect_uri=https%3A%2F%2Fwww.strava.com%2Fo_auth%2Ffacebook&response_type=code&scope=email&state=%7B%22context%22%3A%22facebook_web_signup_flow_v1%22%2C%22state%22%3A%22eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdGF0ZV9wYXJhbSI6ImJoOG9oa2N0c2Z2MWY4c2dzMDR1cXM4dm9yYXJzdGVxIn0.bkpCBVTpdE9jEOZjwdGEe8XRchwEJqvPCSlUkKXncfw%22%2C%22with_newsletter%22%3Afalse%7D
+https://strava.com/about

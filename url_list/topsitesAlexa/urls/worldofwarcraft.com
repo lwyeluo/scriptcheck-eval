@@ -1,0 +1,10 @@
+https://www.worldofwarcraft.com/zh-twnews23035753180#comments
+https://worldofwarcraft.com/zh-tw/esports
+https://www.worldofwarcraft.com/zh-twnews22921316
+https://www.worldofwarcraft.com/zh-twstory#tab=books
+https://www.worldofwarcraft.com/zh-twesportsarena#archive
+https://www.worldofwarcraft.com/zh-twstory
+https://www.worldofwarcraft.com/zh-twstory#tab=characters
+https://www.worldofwarcraft.com/zh-twesportsarena#schedule
+https://www.worldofwarcraft.com/zh-twstart
+https://www.worldofwarcraft.com/

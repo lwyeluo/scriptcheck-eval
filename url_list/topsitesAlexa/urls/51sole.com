@@ -1,0 +1,10 @@
+http://yinshizhizuo.51sole.com/b2c/list_14280_3/
+http://huanbao.51sole.com/b2c/b2clist_50_2/
+http://jujia.51sole.com/b2c/b2clist_19086_3/
+http://riyongwujin.51sole.com/b2c/b2clist_12222_3/
+http://shipinyinliao.51sole.com/b2c/b2clist_22524_3/
+http://xiangbao.51sole.com/b2c/b2clist_6988_3/
+http://chuangpin.51sole.com/b2c/list_9049_3/
+http://work.51sole.com/reg.aspx?url=http%3a%2f%2fwww.51sole.com%2fb2cindexnew.aspx
+http://zhiye.51sole.com/b2c/b2clist_108_2/
+http://www.51sole.com/

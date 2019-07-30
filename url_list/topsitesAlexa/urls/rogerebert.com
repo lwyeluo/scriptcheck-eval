@@ -1,0 +1,10 @@
+https://www.rogerebert.com/reviewsmy-days-of-mercy-2019
+https://www.rogerebert.com/reviewsthe-art-of-self-defense-2019
+https://www.rogerebert.com/terms-of-use
+https://www.rogerebert.com/balder-and-dashcomic-con-2019-an-interview-with-the-creator-of-thanos
+https://www.rogerebert.com/reviewsannabelle-comes-home-2019
+https://www.rogerebert.com/reviews
+https://www.rogerebert.com/reviewsmurder-mystery-2019
+https://www.rogerebert.com/
+https://www.rogerebert.com/reviewsgreat-movie-howards-end-1992
+https://www.rogerebert.com/festivals-and-awardsfantasia-2019-bruce-mcdonalds-dreamland-look-whats-happened-to-rosemarys-baby

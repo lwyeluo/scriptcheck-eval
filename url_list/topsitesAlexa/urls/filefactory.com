@@ -1,0 +1,10 @@
+https://www.filefactory.com/legaldmca.php
+https://www.filefactory.com/membersignin.php
+https://www.filefactory.com/legalprivacy.php
+https://www.filefactory.com/servicesaffiliates
+https://www.filefactory.com/servicescart.php?add=premium&term=180
+https://www.filefactory.com/servicescart.php?add=premium&term=30
+https://www.filefactory.com/
+https://www.filefactory.com/legalacceptableusepolicy.php
+https://www.filefactory.com/servicescart.php?add=premium&term=90
+https://www.filefactory.com/servicespremium

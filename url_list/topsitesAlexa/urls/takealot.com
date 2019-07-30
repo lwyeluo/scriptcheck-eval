@@ -1,0 +1,10 @@
+https://www.takealot.com/sell
+https://www.takealot.com/promotionbrandstore
+https://www.takealot.com/fashion
+https://www.takealot.com/closet-london-women-s-tie-back-coat-black-goldPLID47266589
+https://www.takealot.com/help/directions-to-warehouse
+https://www.takealot.com/johnny-clegg-king-of-time-cdPLID47760349
+https://www.takealot.com/
+https://www.takealot.com/home-kitchen/chocolates-and-bars-28691?sort=BestSelling+Descending&filter=Available:true
+https://www.takealot.com/all?sort=BestSelling+Descending&custom=remembering-johnny-clegg&filter=Available:true
+https://www.takealot.com/promotion/usnstore

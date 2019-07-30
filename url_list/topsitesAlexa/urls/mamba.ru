@@ -1,0 +1,10 @@
+https://www.mamba.ru/appsupport-form
+https://www.mamba.ru/
+https://www.mamba.ru/confidentiality
+https://www.mamba.ru/login
+https://www.mamba.ru/register
+https://www.mamba.ru/shortcut-list
+https://www.mamba.ru/other-social
+https://www.mamba.ru/mamba.rubbs?from_item=3
+https://www.mamba.ru/appconfidentiality
+https://www.mamba.ru/corp.wamba.comen

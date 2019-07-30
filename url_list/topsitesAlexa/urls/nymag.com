@@ -1,0 +1,10 @@
+https://www.nymag.com/vulture.commovies
+https://www.nymag.com/www.vulture.com201907doom-patrol-season-2-is-coming-to-hbo-max.html
+https://www.nymag.com/
+https://www.nymag.com/www.thecut.com201907inside-an-art-collectors-sun-drenched-los-angeles-home.html
+https://www.nymag.com/www.thecut.com201907the-complicated-dynamics-in-abusive-relationships.html
+https://www.nymag.com/www.vulture.com201907jane-the-virgin-chapter-97-recap-season-5-episode-16.html
+http://nymag.com/tags/original-video
+https://www.nymag.com/www.thecut.comarticlecheap-bathing-suits.html
+https://www.nymag.com/www.thecut.com201907the-wedding-files-wendy-ma-and-patrick-byron.html
+http://nymag.com/intelligencer/politics/

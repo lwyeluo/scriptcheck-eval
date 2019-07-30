@@ -1,0 +1,10 @@
+https://www.pearson.com/corporate
+https://www.pearson.com/ushigher-educationsubject-catalogbook-bag-processbook-bag.html
+https://www.pearson.com/asiaeducatorQualifications.html
+https://www.pearson.com/asiaindustry.html
+https://www.pearson.com/us
+https://www.pearson.com/
+https://www.pearson.com/usisbn-converter.html
+https://www.pearson.com/ushigher-educationsubject-catalog.html
+https://www.pearson.com/asiaeducatork-12.html
+https://www.pearson.com/asiaeducatorenglish-language.html

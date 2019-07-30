@@ -1,0 +1,10 @@
+https://www.vev.io/api
+https://www.vev.io/premium
+https://www.vev.io/home
+https://www.vev.io/pagestos
+https://www.vev.io/authlogin
+https://www.vev.io/dmcainfo
+https://www.vev.io/pagesabout
+https://www.vev.io/authsignup
+https://www.vev.io/pagesfaq
+https://www.vev.io/

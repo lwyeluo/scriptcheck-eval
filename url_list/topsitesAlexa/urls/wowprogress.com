@@ -1,0 +1,10 @@
+https://www.wowprogress.com/charactereuchromaggusZitspendo
+https://www.wowprogress.com/char_statisticsfrfield.bg_honor_kills
+https://www.wowprogress.com/mythic_plusoc
+https://www.wowprogress.com/
+https://www.wowprogress.com/mythic_plus_score_tankru
+https://www.wowprogress.com/char_statisticsfield.rbg_played
+https://www.wowprogress.com/pveoc
+https://www.wowprogress.com/char_statisticseufield.highest_3man
+https://www.wowprogress.com/char_statisticsesfield.pvp_petbattles_won
+https://www.wowprogress.com/char_statisticskrfield.deaths_oppos

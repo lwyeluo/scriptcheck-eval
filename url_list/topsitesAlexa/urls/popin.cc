@@ -1,0 +1,10 @@
+https://www.popin.cc/discovery/read_benchmark
+http://cdn.popin.cc/report/read_report_20140611.pdf
+https://www.popin.cc/
+http://www.popin.cc/discovery/
+http://cdn.popin.cc/report/read_report_20140716.pdf
+https://www.popin.cc/kr/
+https://www.popin.cc/action/
+https://www.popin.cc/zh/
+http://cdn.popin.cc/report/read_report_20141217.pdf
+http://cdn.popin.cc/report/read_report_20141201.pdf

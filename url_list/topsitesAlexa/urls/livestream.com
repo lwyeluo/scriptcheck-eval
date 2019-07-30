@@ -1,0 +1,10 @@
+https://help.livestream.com
+https://www.livestream.com/
+https://www.livestream.com/terms
+https://www.livestream.com/solutionscorporate?ref=nav
+https://www.livestream.com/platformpricing?ref=home_top
+https://www.livestream.com/platformpricing?ref=nav
+https://www.livestream.com/solutionssports?ref=nav
+https://www.livestream.com/?ref=nav
+https://www.livestream.com/my_account
+https://www.livestream.com/studio

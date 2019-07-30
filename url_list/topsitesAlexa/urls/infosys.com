@@ -1,0 +1,10 @@
+https://www.infosys.com/contact/Pages/country.aspx?region=Asia%20Pacific&subsidiary=Infosys#singapore
+https://www.infosys.com/contact/Pages/country.aspx?region=Europe&subsidiary=Infosys#denmark
+https://www.infosys.com/contact/Pages/country.aspx?region=Asia%20Pacific&subsidiary=Infosys#taiwan
+https://www.infosys.com/contact/Pages/country.aspx?region=Asia%20Pacific&subsidiary=Infosys#malaysia
+https://www.infosys.com/consulting/
+https://www.infosys.com/
+https://www.infosys.com/navigate-your-nextdigital-capabilitiesacceleratePagesborn-smart.aspx
+https://www.infosys.com/investorsreports-filingsannual-reportannualDocumentsinfosys-AR-19.pdf
+https://www.infosys.com/industriespagesindex.aspx
+https://www.infosys.com/data-analyticspagesindex.aspx

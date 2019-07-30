@@ -1,0 +1,10 @@
+http://www.kmplayer.com/mac
+http://www.kmplayer.com/pc
+http://www.kmplayer.com/vr
+http://www.kmplayer.com/pc64x
+http://www.kmplayer.com/termservice?t=2
+http://www.kmplayer.com/macpc
+http://www.kmplayer.com/home
+http://www.kmplayer.com/mobile
+http://www.kmplayer.com/
+http://www.kmplayer.com/termservice?t=1

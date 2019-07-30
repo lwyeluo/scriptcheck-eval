@@ -1,0 +1,10 @@
+https://www.zedo.com/about-zedo/opt-out/
+https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=*.zedo.com
+https://www.zedo.com/new-york-ad-week-reveals-facebooks-problems/
+https://www.zedo.com/peretti-says-electing-trump-changed-media-business/
+https://www.zedo.com/
+https://www.zedo.com/about-zedo/investors/
+https://www.zedo.com/7426-2/
+https://www.zedo.com/blog/
+https://www.zedo.com/contact-us/
+https://www.zedo.com/digital-video-grows-upsets-duopoly/

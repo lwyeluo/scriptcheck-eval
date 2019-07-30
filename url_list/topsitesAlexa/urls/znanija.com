@@ -1,0 +1,10 @@
+https://www.znanija.com/
+https://www.znanija.com/predmetmuzyka
+https://www.znanija.com/predmeto_zbek_tili
+https://www.znanija.com/predmetliteratura
+https://www.znanija.com/predmethimiya
+https://www.znanija.com/predmetukrainsyka_l_teratura
+https://www.znanija.com/predmetkazak_tili
+https://www.znanija.com/predmetfrancuzskii_yazyk
+https://www.znanija.com/predmetpsihologiya
+https://www.znanija.com/login?entry=2

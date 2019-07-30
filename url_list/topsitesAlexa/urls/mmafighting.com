@@ -1,0 +1,10 @@
+https://www.mmafighting.com/2019/7/19/20699914/greg-hardy-cant-outrun-his-past-but-all-he-sees-is-the-future#comments
+https://www.mmafighting.com/authors/peter-carroll
+https://www.mmafighting.com/2019/7/20/20702318/ufc-on-espn-4-results-raquel-pennington-edges-out-irene-aldana-to-snap-losing-streak
+https://www.mmafighting.com/
+https://www.mmafighting.com/2019/7/21/20702492/ufc-on-espn-4-in-tweets-pros-react-to-edwards-decision-win-over-rafael-dos-anjos-hardys-quick-finish
+https://www.mmafighting.com/2019/7/18/20697038/ufc-newark-poster-released
+https://www.mmafighting.com/2019/7/20/20702457/ufc-on-espn-4-results-walt-harris-runs-through-aleksei-oleinik-with-12-second-ko
+https://www.mmafighting.com/2019/7/20/20702101/ufc-on-espn-4-live-blog-rafael-dos-anjos-vs-leon-edwards#comments
+https://www.mmafighting.com/2019/7/20/20699452/ufc-on-espn-4-predictions
+https://www.mmafighting.com/2019/7/21/20702522/manny-pacquiao-vs-keith-thurman-full-fight-video-highlights

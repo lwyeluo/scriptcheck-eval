@@ -1,0 +1,10 @@
+https://www.biografiasyvidas.com/buscador.htm
+https://www.biografiasyvidas.com/enlacenos.htm
+https://www.biografiasyvidas.com/
+https://www.biografiasyvidas.com/subscribirse
+https://www.biografiasyvidas.com/aviso.htm
+https://www.biografiasyvidas.com/monografias.htm
+https://www.biografiasyvidas.com/reportajes.htm
+https://www.biografiasyvidas.com/quienessomos.htm
+https://www.biografiasyvidas.com/contacto.htm
+https://www.biografiasyvidas.com/publicidad.htm

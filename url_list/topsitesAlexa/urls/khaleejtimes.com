@@ -1,0 +1,10 @@
+https://www.khaleejtimes.com/businesscorporate
+https://www.khaleejtimes.com/
+https://www.khaleejtimes.com/newsgeneralculture-councils-meet-for-the-first-time-in-uae#votenow
+https://www.khaleejtimes.com/businessaviationgovernment-tells-air-india-to-freeze-all-appointments-promotions
+https://www.khaleejtimes.com/wkndits-my-life
+https://www.khaleejtimes.com/uae-cinema-listing
+https://www.khaleejtimes.com/supplementsus-independence-day
+https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.khaleejtimes.com%2Fuae%2Fras-al-khaimah%2Fwoman-to-pay-dh3000-fine-for-copying-messages-from-husbands-phone-in-uae&title=Woman%20to%20pay%20Dh3%2C000%20fine%20over%20husband%27s%20text%20messages&summary=The%20case%20unfolded%20when%20the%20husband%20lodged%20a%20complaint%20against%20his%20wife%20accusing%20her%20of%20breaching%20his%20privacy.&source=
+https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.khaleejtimes.com%2Fphotos%2Finternational%2Fpakistan-hosts-worlds-toughest-cycle-race
+https://www.khaleejtimes.com/abudhabi-grand-prix

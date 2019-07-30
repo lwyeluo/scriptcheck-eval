@@ -1,0 +1,10 @@
+https://www.washingtonpost.com/politics/
+https://www.washingtonpost.com/outlook/john-paul-stevens-was-the-babe-ruth-of-the-bench-minus-the-theatrics/2019/07/19/f4883f5a-a986-11e9-ac16-90dd7e5716bc_story.html
+https://www.washingtonpost.com/
+https://www.washingtonpost.com/weather/2019/07/20/pm-update-dangerous-heat-humidity-continue-overnight-temperatures-approach-degrees-again-sunday/
+http://postpoints.washingtonpost.com
+https://www.washingtonpost.com/national-security/pompeo-focuses-on-iran-and-hezbollah-at-latin-america-counterterrorism-conference/2019/07/19/2c14c36a-aa65-11e9-9214-246e594de5d5_story.html
+https://www.washingtonpost.com/politics/courts_law/do-protections-for-people-with-disabilities-apply-online-dominos-asks-high-court/2019/07/20/984c685e-a7fd-11e9-a3a6-ab670962db05_story.html
+https://www.washingtonpost.com/local/public-safety/friends-remember-morgan-state-student-manuel-luis-jr-as-the-light-in-any-situation/2019/07/20/f3e2a47c-a987-11e9-9214-246e594de5d5_story.html
+https://www.washingtonpost.com/outlook/the-psychological-phenomenon-that-blinds-trump-supporters-to-his-racism/2019/07/18/29789344-a8ac-11e9-ac16-90dd7e5716bc_story.html
+https://www.washingtonpost.com/health/trump-administration-may-delay-ban-on-abortion-referrals-at-family-planning-centers/2019/07/19/59fc6a16-a994-11e9-9214-246e594de5d5_story.html

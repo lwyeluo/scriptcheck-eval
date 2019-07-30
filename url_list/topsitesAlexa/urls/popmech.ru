@@ -1,0 +1,10 @@
+https://www.popmech.ru/adrenalin
+https://www.popmech.ru/gadgets494182-xiaomi-mi-9-protiv-honor-20-sravnenie-kamer#comments
+https://www.popmech.ru/diy490442-katyashchiesya-kamni-iskusstvo-vesom-do-700-kg
+https://www.popmech.ru/vehicles
+https://www.popmech.ru/weapon
+https://www.popmech.ru/tip-bookreview
+https://www.popmech.ru/technologies489742-kak-roboty-vyrashchivayut-travu-pervaya-zelen
+https://www.popmech.ru/tip-opinion
+https://www.popmech.ru/
+https://www.popmech.ru/technologiesnews-494202-hakery-vzlomali-kiberpodrazdelenie-fsb

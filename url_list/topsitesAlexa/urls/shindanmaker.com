@@ -1,0 +1,10 @@
+http://www.shindanmaker.com/clist?mode=mov
+http://www.shindanmaker.com/caboutapp
+http://www.shindanmaker.com/cads
+http://www.shindanmaker.com/clist?mode=monthly
+http://www.shindanmaker.com/
+http://www.shindanmaker.com/cauthorslist?mode=daily
+http://www.shindanmaker.com/clist?mode=daily
+http://www.shindanmaker.com/cauthorslist
+http://www.shindanmaker.com/cprivacy_policy
+http://www.shindanmaker.com/clist?mode=pickup

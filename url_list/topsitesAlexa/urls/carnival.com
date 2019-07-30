@@ -1,0 +1,10 @@
+https://www.carnival.com/bookedguestredirect?goal=mybooking&icid=icp_ccl_manage_0802_footer
+https://www.carnival.com/FunShopsbeverage-programs?icid=icp_ccl_beverage_0802_footer
+https://www.carnival.com/Funshops?icid=icp_ccl_shopping_0802_footer
+https://www.carnival.com/Legalfly2fun.aspx?icid=icp_ccl_fly2fun_0802_footer
+https://www.carnival.com/group-shore-excursions.aspx?icid=CC_Footer_845
+http://www.carnival.com/about-carnival/legal-notice.aspx?icid=CC_Footer_83
+https://www.carnival.com/FunShopsinternet-plans?icid=icp_ccl_internet_0802_footer
+https://www.carnival.com/dining
+https://www.carnival.com/~/media/CCLUS/Images/pdf/slavery-statement.ashx
+https://www.carnival.com/

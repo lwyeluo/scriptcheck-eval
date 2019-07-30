@@ -1,0 +1,10 @@
+https://www.solidfiles.com/premium
+https://www.solidfiles.com/signup?ref=index-bottom-btn
+https://www.solidfiles.com/termsabuse
+https://www.solidfiles.com/
+https://www.solidfiles.com/privacy
+https://www.solidfiles.com/copyright
+https://www.solidfiles.com/about
+https://www.solidfiles.com/googlelogin?process=login
+https://www.solidfiles.com/signup
+https://www.solidfiles.com/faq

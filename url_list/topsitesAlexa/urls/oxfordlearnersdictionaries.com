@@ -1,0 +1,10 @@
+https://www.oxfordlearnersdictionaries.com/definition/english/
+https://www.oxfordlearnersdictionaries.com/wordlists/
+https://www.oxfordlearnersdictionaries.com/about/
+https://www.oxfordlearnersdictionaries.com/definition/english/blab
+https://www.oxfordlearnersdictionaries.com/
+https://www.oxfordlearnersdictionaries.com/translate/schulwoerterbuch/
+https://www.oxfordlearnersdictionaries.com/legal-notice
+https://www.oxfordlearnersdictionaries.com/grammar/
+https://www.oxfordlearnersdictionaries.com/faq/
+https://www.oxfordlearnersdictionaries.com/account/checkCookie?preUrl=/account/login

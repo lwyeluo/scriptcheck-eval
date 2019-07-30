@@ -1,0 +1,10 @@
+https://www.lapatilla.com/secciones/economia/
+https://www.lapatilla.com/2019/07/20/el-lloriqueo-de-maduro-por-nuevas-sanciones-de-eeuu-a-funcionarios-de-su-regimen/
+https://www.lapatilla.com/2019/07/20/hola-bebe-irina-shayk-se-toma-una-fotico-en-pataleticas-pa-ver-si-no-le-vuelven-a-dejar-el-pelero/
+https://www.lapatilla.com/2019/07/20/arreaza-uso-la-reunion-del-mnoal-para-seguir-sollozando-por-las-sanciones-de-eeuu/
+https://www.lapatilla.com/2019/07/20/guaido-en-su-balance-desde-margarita-desenmascaro-al-regimen-sobre-rusia-y-china/
+https://www.lapatilla.com/2019/07/20/el-dia-que-los-pilotos-de-formula-uno-hicieron-huelga-en-un-hotel-junto-a-niki-lauda/
+https://www.lapatilla.com/2019/07/20/diputado-freddy-superlano-buscaremos-la-cooperacion-judicial-internacional-para-ir-contra-los-corruptos-del-clap/
+https://www.lapatilla.com/
+https://www.lapatilla.com/2019/07/20/trabajadores-de-inparques-fueron-picados-por-una-mosca-de-gusano-y-se-encuentran-infectados-imagenes-sensibles/
+https://www.lapatilla.com/2019/07/20/duque-repudia-asesinato-de-lideres-sociales-y-se-suma-a-la-voz-ni-uno-mas/

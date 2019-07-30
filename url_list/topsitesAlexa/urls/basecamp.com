@@ -1,0 +1,10 @@
+https://www.basecamp.com/books
+https://www.basecamp.com/about
+https://www.basecamp.com/learn
+https://www.basecamp.com/aboutpolicies
+https://www.basecamp.com/customers
+https://www.basecamp.com/pricing
+https://www.basecamp.com/via
+https://www.basecamp.com/features
+https://www.basecamp.com/featuresclients
+https://www.basecamp.com/

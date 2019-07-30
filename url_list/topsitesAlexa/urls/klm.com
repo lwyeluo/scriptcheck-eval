@@ -1,0 +1,10 @@
+https://www.klm.com/nl-nlvliegtickets
+https://www.klm.com/travel/nl_nl/customer_support/customer_support/legal_information/index.htm
+https://www.klm.com/en-usflights
+https://www.klm.com/
+https://www.klm.com/de-defluege
+https://www.klm.com/homedede
+https://www.klm.com/homenlnl
+https://www.klm.com/homenono
+https://www.klm.com/en-gbflights
+https://www.klm.com/travel/generic/countries.html

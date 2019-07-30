@@ -1,0 +1,10 @@
+https://www.razer.com/sg-eneducation
+https://www.razer.com/sg-en
+https://www.razer.com/sg-enconcepts
+https://press.razer.com/
+https://careers.razer.com/
+https://www.razer.com/sg-en/validate-my-account
+https://www.razer.com/sg-enmobilerazer-phone-2
+https://www.razer.com/
+https://www.razer.com/sg-engaming-accessoriesgearshirts
+http://developer.razer.com/

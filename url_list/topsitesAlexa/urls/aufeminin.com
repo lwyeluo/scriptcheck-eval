@@ -1,0 +1,10 @@
+https://www.aufeminin.com/
+https://www.aufeminin.com/mariage/etapes-mariage-ssc48.html
+https://www.aufeminin.com/cuisine/shopping-ssc216.html
+https://www.aufeminin.com/actualite-musicale/dans-le-clip-de-spirit-beyonce-rend-hommage-a-la-culture-africaine-s4003093.html
+https://www.aufeminin.com/club/newsletters/?n=1&utm_source=barrenavcult&utm_medium=plateforme&utm_campaign=recrutnl
+https://www.aufeminin.com/couple-sc3.html
+https://www.aufeminin.com/mariage/organisation-mariage-ssc49.html
+https://www.aufeminin.com/culture/album1336373/secrets-tournage-gossip-girl-0.html
+https://www.aufeminin.com/news-societe/tatouage-tp19276.html
+https://www.aufeminin.com/enfant/a-seulement-4-ans-la-princesse-charlotte-est-deja-trilingue-s4003176.html

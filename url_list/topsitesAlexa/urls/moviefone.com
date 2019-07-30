@@ -1,0 +1,10 @@
+https://www.moviefone.com/movie-trailers/
+https://www.moviefone.com/about/
+https://www.moviefone.com/movie/childs-play/j9zF63rMZD3jvvmBkblKV6/main/
+https://www.moviefone.com/movie/men-in-black-international/s8dg9Bh8yCFqgPFfVez3h1/showtimes/
+https://www.moviefone.com/movie/pokemon-detective-pikachu/Sk68gc0vhwucAnahCFIAD6/showtimes/
+https://www.moviefone.com/places/los-angeles-california/
+https://www.moviefone.com/movie/late-night/DkMccyME3wLMv30HCohbx2/main/
+https://www.moviefone.com/
+https://www.moviefone.com/movie/the-last-black-man-in-san-francisco/7e7LWGXzXiGqmSFq7iu0z/showtimes/
+https://www.moviefone.com/movie/spider-man-far-from-home/slmv4dFBQ61mWFVXk6Roz6/main/

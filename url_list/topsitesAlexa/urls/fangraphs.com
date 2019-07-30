@@ -1,0 +1,10 @@
+https://blogs.fangraphs.com/2019-top-100-prospects/
+https://www.fangraphs.com/www.fangraphs.comgraphsw.aspx
+https://www.fangraphs.com/www.fangraphs.comdepthcharts.aspx?position=ALL&teamid=4
+https://www.fangraphs.com/community/could-austin-adams-be-the-next-elite-reliever/#comments
+https://www.fangraphs.com/www.fangraphs.comleadersminor-league?pos=all&stats=bat&lg=13&qual=y&type=0&season=2018
+https://www.fangraphs.com/www.fangraphs.comprospectsthe-board-scouting-and-stats
+https://www.fangraphs.com/
+http://www.fangraphs.com/blogs/2019-zips-projections-los-angeles-angels
+https://www.fangraphs.com/www.fangraphs.comleaders.aspx?pos=all&stats=pit&lg=all&qual=0&type=8&season=2017&month=0&season1=2017&ind=0&team=0,ts&rost=0&age=0&filter=&players=0
+https://www.fangraphs.com/www.fangraphs.comprojections.aspx?pos=all&stats=bat&type=rfangraphsdc

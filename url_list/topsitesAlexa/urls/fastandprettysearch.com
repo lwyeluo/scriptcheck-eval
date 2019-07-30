@@ -1,0 +1,10 @@
+http://www.fastandprettysearch.com
+http://www.fastandprettysearch.com/?s=1&n=
+https://www.fastandprettysearch.com/
+http://www.fastandprettysearch.com/news?s=1&n=
+http://www.fastandprettysearch.com/sports?s=1&n=
+http://www.fastandprettysearch.com/business?s=1&n=
+http://www.fastandprettysearch.com/health?s=1&n=
+http://www.fastandprettysearch.com/entertainment?s=1&n=
+http://www.fastandprettysearch.com/images?s=1&n=
+http://www.fastandprettysearch.com/technology?s=1&n=

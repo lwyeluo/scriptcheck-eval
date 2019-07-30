@@ -1,0 +1,10 @@
+https://regnum.ru/news/polit/2669532.html
+https://regnum.ru/news/polit/2669379.html
+https://regnum.ru/news/polit/2669545.html
+https://regnum.ru/analytics/cultura.html
+https://regnum.ru/news/innovatio.html
+https://regnum.ru/news/polit/2669527.html
+https://regnum.ru/news/it.html
+https://regnum.ru/analytics/innovatio.html
+https://regnum.ru/news/accidents/2669546.html
+https://www.regnum.ru/

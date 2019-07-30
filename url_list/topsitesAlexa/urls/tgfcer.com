@@ -1,0 +1,10 @@
+r.php?todo=https%3A%2F%2Fbbs.tgfcer.com%2Fviewthread.php%3Ftid%3D7657713%26extra%3Dpage%253D1%26frombbs%3D1
+http://www.tgfcer.com
+https://www.tgfcer.com/
+http://www.tgfcer.commanual
+https://www.tgfcer.com/forum-86-1.html
+r.php?todo=http%3A%2F%2Fclub.tgfcer.com%2Fviewthread.php%3Ftid%3D7150381
+http://www.tgfcer.com/category/news
+http://www.tgfcer.com/category/hardware
+https://wap.tgfcer.com/
+https://www.tgfcer.com/club.tgfcer.com

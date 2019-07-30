@@ -1,0 +1,10 @@
+https://www.kakprosto.ru/svadby
+https://www.kakprosto.ru/drugoe-4
+https://www.kakprosto.ru/
+https://www.kakprosto.ru/kak-41569-kak-napisat-pismo-na-rastorzhenie-dogovora
+https://www.kakprosto.ru/kak-78606-kak-prishit-zvezdy-na-pogony
+https://www.kakprosto.ru/kak-976177-kakoe-vnimanie-neobhodimo-dlya-kozhi-lica-letom
+https://www.kakprosto.ru/populyarnoe-5
+https://www.kakprosto.ru/kak-32693-kak-otklyuchit-platnye-uslugi-megafon
+https://www.kakprosto.ru/kak-41560-kak-opredelit-storony-sveta-v-kvartire-bez-kompasa
+https://www.kakprosto.ru/kak-69972-kak-otkryt-chemodan-s-kodom

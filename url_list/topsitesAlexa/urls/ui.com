@@ -1,0 +1,10 @@
+https://www.ui.com/store.ui.com
+https://www.ui.com/legaltermsofservice
+https://careers.ui.com
+https://airmax.ui.com
+https://www.ui.com/trainingcalendar
+https://www.ui.com/help.ubnt.com
+https://community.ui.com/
+https://www.ui.com/
+https://airmax.ui.com/
+https://unifi-nanohd.ui.com/

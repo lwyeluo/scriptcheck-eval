@@ -1,0 +1,10 @@
+https://www.coppel.com/
+https://www.coppel.com/relojes-lentes-joyeria
+https://www.coppel.com/SearchDisplay?categoryId=&storeId=12761&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=SEM292019SLIDERPANTALLASEVL
+https://www.coppel.com/celularestelefonos-celulares-libres
+https://www.coppel.com/celularesmovistar
+https://www.coppel.com/SearchDisplay?categoryId=&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=12&searchTerm=bcplv
+https://www.coppel.com/beneficios-coppel#envio
+https://www.coppel.com/SearchDisplay?categoryId=13007&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=18&searchTerm=Beauty+Secret
+https://www.coppel.com/perfumes-y-cuidado-personalcuidado-de-la-piel
+https://www.coppel.com/juguetesfiguras-accion

@@ -1,0 +1,10 @@
+http://katfile.com/dmca.html
+http://katfile.com/make-money.html
+http://katfile.com/?op=change_lang&lang=italian
+http://katfile.com/?op=change_lang&lang=thai
+http://katfile.com/?op=change_lang&lang=english
+http://katfile.com/?op=change_lang&lang=german
+http://katfile.com/refund_policy.html
+http://katfile.com/?op=payments
+http://katfile.com/?op=upload
+https://www.katfile.com/

@@ -1,0 +1,10 @@
+https://www.postfun.com
+https://www.postfun.com/strange/nikes-washing-up-on-beaches/?view-all
+https://www.postfun.com/incredible/summer-surprise-hailstorm-buries-guadalajara-mexico-in-multiple-feet-of-ice/?view-all
+https://www.postfun.com/terms/
+https://www.postfun.com/category/strange/
+https://www.postfun.com/culture/only-baby-boomers/?view-all
+https://www.postfun.com/lol/safety-clearly-wasnt-a-concern/?view-all
+https://www.postfun.com/incredible/drone-footage-captures-rare-photos/?view-all
+https://www.postfun.com/category/funny/
+https://www.postfun.com/

@@ -1,0 +1,10 @@
+https://www.elmundo.es/cataluna/2019/07/21/5d341fa6fdddff96158b4649.html
+https://www.elmundo.es/deportes/golf/2019/07/20/5d337ed9fc6c83162f8b4697.html
+https://www.elmundo.es/opinion/2019/07/21/5d32fe61fdddff36a68b45e1.html#ancla_comentarios
+https://www.elmundo.es/loc/celebrities/2019/07/20/5d305c8a21efa0bc748b46d1.html
+https://www.elmundo.es/espana/2019/07/21/5d336ce4fdddffcd738b4596.html#ancla_comentarios
+https://www.elmundo.es/espana/2019/07/20/5d320fa521efa0d4428b4686.html
+https://www.elmundo.es/
+https://www.elmundo.es/internacional/2019/07/14/5d29dee4fdddffb04c8b4639.html
+https://www.elmundo.es/promociones/gafas19/?cid=PR26401&s_kw=pro_foo_gafas19
+https://www.elmundo.es/espana/2019/07/21/5d3351b4fc6c83956b8b466d.html

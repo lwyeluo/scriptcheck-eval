@@ -1,0 +1,10 @@
+https://www.hegartymaths.com/linkedin.comincolin-hegarty-9443b25b
+https://hegartymaths.com/success
+https://www.hegartymaths.com/facebook.comhegartymaths
+https://hegartymaths.com/login/learner
+https://hegartymaths.com
+https://www.hegartymaths.com/
+https://www.hegartymaths.com/filesgdpr.pdf
+https://www.hegartymaths.com/filesHM_General_Privacy_Notice.pdf
+https://hegartymaths.com/trial
+https://www.hegartymaths.com/youtube.comhegartymaths

@@ -1,0 +1,10 @@
+http://catalog.i.ua/catalog/16/
+https://finance.i.ua/market/
+https://news.i.ua/click/6059502/473123617/2
+http://links.i.ua/
+https://news.i.ua/click/6059503/1385418681/2
+https://passport.i.ua/
+http://photo.i.ua/
+https://tv.i.ua/stb/49894/
+http://catalog.i.ua
+https://www.i.ua/

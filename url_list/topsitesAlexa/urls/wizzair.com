@@ -1,0 +1,10 @@
+https://wizzair.com/en-gb/shared-content/footer-content/customer-service/online-check-in
+https://wizzair.com/en-gb/shared-content/footer-content/services/hotels
+https://www.wizzair.com/
+https://wizzair.com/en-gb/shared-content/footer-content/services/wizz-priority-boarding
+https://wizzair.com/en-gb/information-and-services/partner-services/wizz-credit-card
+https://wizzair.com/en-gb/explore/destinations
+https://wizzair.com/en-gb/information-and-services/investor-relations/investors
+https://wizzair.com/en-gb/flights/trip-planner
+https://wizzair.com/en-gb/information-and-services/wizz-services/convenience-options
+https://wizzair.com/en-gb/information-and-services/prices-discounts/all-services-fees

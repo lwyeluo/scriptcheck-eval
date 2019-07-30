@@ -1,0 +1,10 @@
+http://epub.cqvip.com
+http://beian.cqwa.gov.cn/webrecord/innernet/Welcome.jsp?bano=50019902500073&bado=cqvip.com
+http://www.cqvip.com/
+http://service.cqvip.com/list.asp?mid=22
+http://www.cqvip.com/vipcardvipcard.shtml
+http://www.cqvip.com/journal
+http://gt.cqvip.com
+http://www.cqvip.com/corpcopyright.shtml
+http://www.cqvip.com/xuekexueke.aspx
+http://www.cqvip.com/corpabout.shtml

@@ -1,0 +1,10 @@
+https://www.peatix.com/
+https://peatix.com/search?country=SG&q=%5BMeetups+%2F+Community+Events%5D
+https://peatix.com/
+https://peatix.com/switch_language?lang=zh_TW
+http://patch19playwithbubble.peatix.com?utm_source=curated&utm_medium=ptxtop&utm_campaign=curated-events
+http://momagdi.peatix.com?utm_source=curated&utm_medium=ptxtop&utm_campaign=curated-events
+https://peatix.com/switch_language?lang=ja_JP
+http://fujirockfestival2019-en.peatix.com?utm_source=curated&utm_medium=ptxtop&utm_campaign=curated-events
+https://peatix.com/search?q=%5BFamily+%2F+Kids%5D&country=SG
+http://peatix.com/event/589310?utm_source=curated&utm_medium=ptxtop&utm_campaign=curated-events

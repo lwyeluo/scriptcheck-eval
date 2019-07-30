@@ -1,0 +1,10 @@
+https://www.jagran.com/worldamerica-heat-wave-attack-in-america-many-people-were-died-till-now-19419008.html
+https://punjabi.jagran.com/
+https://www.jagran.com/cookie-policy.html
+https://www.jagran.com/entertainment/bollywood-kabir-singh-box-office-collection-day-30-shahid-kapoor-starrer-film-after-hrithik-roshan-super-30-now-takes-on-shah-rukh-khan-the-lion-king-19419053.html
+https://www.jagran.com/common-man-issue-news-hindi.html
+https://www.jagran.com/punjabchandigarh-navjot-singh-sidhu-out-from-teanm-punjab-due-to-many-reasons-jagran-special-19418960.html?src=p1
+https://www.jagran.com/khana-khazanaindian-news-hindi.html
+https://www.jagran.com/technology-hindi.html
+https://www.jagran.com/businesstop15-news-hindi.html
+https://www.jagran.com/

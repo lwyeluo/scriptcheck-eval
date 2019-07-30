@@ -1,0 +1,10 @@
+https://www.patrika.com/jammu-and-kashmir-1/
+https://www.patrika.com/haryana-news/
+https://www.patrika.com/sitemap/
+https://www.patrika.com/health-questions-answers/
+https://www.patrika.com/economy-news/
+https://www.patrika.com/astrology-and-spirituality/
+https://www.patrika.com/business-news/
+https://www.patrika.com/india-news/
+https://www.patrika.com/cricket-news/hardik-pandya-may-be-ruled-out-for-west-indies-tour-4867630/
+https://www.patrika.com/

@@ -1,0 +1,10 @@
+https://www.exlibrisgroup.com/productssummon-library-discovery
+https://www.exlibrisgroup.com/
+https://developers.exlibrisgroup.com/blog/Discovery-Optimized-APIs-Physical-Holdings-and-Online-Resources
+https://www.exlibrisgroup.com/products/refworks-reference-management/
+https://www.exlibrisgroup.com/products/summon-library-discovery/
+https://www.exlibrisgroup.com/community/learn-collaborate/
+https://www.exlibrisgroup.com/community/christine-moulen-first-time-attendee-grant/
+https://www.exlibrisgroup.com/products/alma-library-services-platform/collaborative-networks/
+https://www.exlibrisgroup.com/productsprimo-discovery-serviceexploration-services
+https://www.exlibrisgroup.com/bloga-chat-with-rapidill-and-ex-libris-the-resource-sharing-revolution

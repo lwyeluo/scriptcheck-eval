@@ -1,0 +1,10 @@
+https://fiws.fidelity.com/app/home
+https://www.fidelity.com/
+https://www.fidelity.com/privacy-policy
+https://www.fidelity.com/why-fidelity/planning-advice
+https://www.fidelity.com/why-fidelity/security-protection
+https://www.fidelity.com/managed-accounts/overview
+https://familyoffice.fidelity.com/app/home
+https://eresearch.fidelity.com/eresearch/goto/markets_sectors/landing.jhtml
+https://www.fidelity.com/customer-service/overview
+https://digital.fidelity.com/ftgw/digital/profile

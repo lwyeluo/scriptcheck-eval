@@ -1,0 +1,10 @@
+https://hackaday.com/2019/07/20/breathing-led-done-with-raw-logic-synthesized-from-a-verilog-design/
+https://hackaday.com/2019/07/20/create-a-low-cost-high-accuracy-lcr-meter-with-an-stm32-mcu/#comment-6166076
+https://hackaday.com/2019/07/20/building-a-bigger-cloud-chamber//#comments
+https://hackaday.com/2019/07/20/a-multi-layered-spin-on-persistence-of-vision/
+https://hackaday.com/2019/07/18/hacking-shelters-and-swimming-pools/#comment-6166077
+https://hackaday.com/blog/feed/
+https://hackaday.com/2019/07/15/low-level-analog-measurement-hack-chat/
+https://www.hackaday.com/blogpage2
+https://hackaday.com/2019/07/20/breathing-led-done-with-raw-logic-synthesized-from-a-verilog-design//#comments
+https://www.hackaday.com/

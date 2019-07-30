@@ -1,0 +1,10 @@
+https://www.dickssportinggoods.com/cgirls-apparel
+https://www.dickssportinggoods.com/ctop-trends-gear
+https://www.dickssportinggoods.com/cshop-by-sport
+https://www.dickssportinggoods.com/
+https://www.dickssportinggoods.com/cyouth-footwear
+https://www.dickssportinggoods.com/sscorecard-benefits
+https://www.dickssportinggoods.com/srebates
+https://www.dickssportinggoods.com/sfootwear-promo-details
+https://www.dickssportinggoods.com/cgreat-deals-on-outdoor-gear
+https://www.dickssportinggoods.com/sstore-services

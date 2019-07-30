@@ -1,0 +1,10 @@
+https://www.7ya.ru/
+https://conf.7ya.ru/frameset.aspx?cnf=Students
+https://conf.7ya.ru/fulltext-thread.aspx?cnf=Teenagers&trd=18605
+https://www.7ya.ru/services.aspx
+https://www.7ya.ru/edu
+https://conf.7ya.ru/fulltext-thread.aspx?cnf=Misc&trd=239549
+https://www.7ya.ru/pregn/birth/
+https://conf.7ya.ru/frameset.aspx?cnf=Active
+https://conf.7ya.ru/frameset.aspx?cnf=Feedback7ya
+https://www.7ya.ru/family/job/

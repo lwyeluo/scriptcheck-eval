@@ -1,0 +1,10 @@
+https://www.swiggy.com/kharagpur
+https://ride.swiggy.com/
+https://www.swiggy.com/dindigul
+https://www.swiggy.com/haridwar
+https://www.swiggy.com/bharabanki
+https://www.swiggy.com/mangaluru
+https://www.swiggy.com/kalady
+https://www.swiggy.com/muzaffarpur
+https://www.swiggy.com/about
+https://www.swiggy.com/

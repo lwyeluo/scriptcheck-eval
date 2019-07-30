@@ -1,0 +1,10 @@
+https://www.monstercrawler.com/?qc=video&aid=a84eff6a-c210-4716-9c70-ab4a747a179d&ridx=1
+http://www.monstercrawler.com/tprivate.htm
+https://www.monstercrawler.com/?qc=video&aid=a84eff6a-c210-4716-9c70-ab4a747a179d&ridx=1?qc=images&aid=a84eff6a-c210-4716-9c70-ab4a747a179d&ridx=1
+https://www.monstercrawler.com/
+http://www.monstercrawler.com/ttou.htm
+http://www.monstercrawler.com/press.htm
+https://www.monstercrawler.com/contact.php
+https://www.monstercrawler.com/?qc=news&aid=a84eff6a-c210-4716-9c70-ab4a747a179d&ridx=1
+http://www.monstercrawler.com/about.htm
+https://www.monstercrawler.com/?qc=images&aid=a84eff6a-c210-4716-9c70-ab4a747a179d&ridx=1

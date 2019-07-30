@@ -1,0 +1,10 @@
+https://www.ledauphine.com/
+https://www.ledauphine.com/ain20190721cinq-kilos-de-drogue-cinq-ans-de-prison
+https://www.ledauphine.com/sportautres
+https://www.ledauphine.com/magazine-immobilier
+https://www.ledauphine.com/societe/long-format
+http://e-media.ledauphine.com/partenaires/initiative_nord_hautes_alpes/
+http://e-media.ledauphine.com/partenaires/IMT-GRENOBLE/
+https://www.ledauphine.com/haute-savoieannemasse
+https://www.ledauphine.com/loisirs/vos-evenements-en-images
+https://www.ledauphine.com/actualite/a-ecouter

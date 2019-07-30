@@ -1,0 +1,10 @@
+https://www.adafruit.com/about
+https://www.adafruit.com/categories/14
+https://www.adafruit.com/category/234
+https://learn.adafruit.com/category/adafruit-products
+https://www.adafruit.com/category/770
+https://www.adafruit.com/category/50
+https://learn.adafruit.com/category/educators
+https://www.adafruit.com/product4245
+https://forums.adafruit.com
+https://www.adafruit.com/

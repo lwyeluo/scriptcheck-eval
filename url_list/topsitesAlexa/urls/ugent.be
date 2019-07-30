@@ -1,0 +1,10 @@
+https://www.ugent.be/nlvacaturesoap
+https://www.ugent.be/nlvacaturesaap
+https://www.ugent.be/nl/voorzieningen/ict/portaal/toegankelijkheid.htm
+https://www.ugent.be/en
+https://www.ugent.be/oasis.ugent.be
+https://www.ugent.be/nl
+https://www.ugent.be/
+https://www.ugent.be/student/nl/studeren/kalender
+https://www.ugent.be/nl/univgent/organisatie/faculteiten
+https://www.ugent.be/nlunivgent

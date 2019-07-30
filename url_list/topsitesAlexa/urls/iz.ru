@@ -1,0 +1,10 @@
+https://www.iz.ru/900722andrei-frolovnovoe-pokolenie-vybiraiut
+https://www.iz.ru/901234ilia-kramnikdolgii-proekt-vo-frantcii-spustili-na-vodu-pervuiu-apl-novogo-tipa
+https://www.iz.ru/883236videona-vdnkh-otkrylas-vystavka-aleksandra-vasileva-video-360deg
+https://www.iz.ru/764886videogonki-russian-endurance-challenge-video-360deg
+https://www.iz.ru/
+https://www.iz.ru/rubricproisshestviia
+https://www.iz.ru/7499132018-05-30brig-tre-kronor-af-stockholm-uchastvuiushchii-v-prazdnike-alye-parusa
+https://www.iz.ru/901179anastasiia-chepovskaiaaptekarskii-oborot-mat-ne-budut-sudit-za-tabletki-dlia-bolnogo-syna
+https://www.iz.ru/spetcproekty
+https://www.iz.ru/7175302018-03-073d-model-plavuchei-aes-akademik-lomonosov

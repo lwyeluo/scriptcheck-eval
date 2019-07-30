@@ -1,0 +1,10 @@
+https://www.weidian.com/
+https://weidian.com/official/pc/privacy.php
+https://vmspub.weidian.com/wdzn
+https://weidian.com/official/pc/food.php
+https://d.weidian.com/loginNew/#/help/list?source=1
+https://h5.weidian.com/m/market/index.html?wfr=wdgw#/act-list
+https://vmspub.weidian.com/gaia/20473/a3f9f5e7.html
+https://vmspub.weidian.com/gaia/25060/126/126.html
+https://web.open.weidian.com/index
+https://d.weidian.com/loginNew/#/reg/mobile/step1

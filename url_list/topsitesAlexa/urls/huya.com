@@ -1,0 +1,10 @@
+https://www.huya.com/blizzardgame1
+https://www.huya.com/g/5011
+https://www.huya.com/
+https://www.huya.com/nest2019
+https://www.huya.com/g/2633
+https://www.huya.com/tga2019
+https://www.huya.com/download/#wp
+https://www.huya.com/l#tag51
+https://kefu-webim.zbase.huya.com/webim/user/rd?product=HYPC&typeId=1
+https://www.huya.com/g/100002

@@ -1,0 +1,10 @@
+https://dai.tmall.com/yumengse.tmall.com?acm=lb-zebra-19417-296774.1003.4.612101&scm=1003.4.lb-zebra-19417-296774.SHOP_1833792968_612101
+https://dai.tmall.com/
+https://dai.tmall.com/list.tmall.comsearch_product.htm?cat=50026469&shopType=any&sort=s&style=g&acm=lb-zebra-19417-289412.1003.8.425594&promo=55682&search_condition=55&active=1&from=sn_1_cat&scm=1003.8.lb-zebra-19417-289412.ITEM_14416637584465_425594#J_crumbs
+https://dai.tmall.com/xinwanfushezhu.tmall.com?acm=lb-zebra-19417-296779.1003.4.612089&scm=1003.4.lb-zebra-19417-296779.SHOP_1836791079_612089
+https://dai.tmall.com/detail.tmall.comitem.htm?id=520897869717&acm=lb-zebra-19417-296791.1003.4.612127&scm=1003.4.lb-zebra-19417-296791.ITEM_520897869717_612127
+https://dai.tmall.com/shoucang.taobao.comshop_collect_list.htm
+https://dai.tmall.com/zhiyuzhubao.tmall.com?acm=lb-zebra-19417-296774.1003.4.612101&scm=1003.4.lb-zebra-19417-296774.SHOP_1032184160_612101
+https://dai.tmall.com/list.tmall.comsearch_product.htm?abbucket=&cat=53894013&acm=lb-zebra-19417-295341.1003.8.429879&aldid=409653&q=%BB%C6%BD%F0&theme=441&spm=3.7396704.20000036.5.gdzeLX&abtest=&scm=1003.8.lb-zebra-19417-295341.ITEM_14418669634501_429879&pos=4
+https://dai.tmall.com/loverjewelry.tmall.com?acm=lb-zebra-19417-296794.1003.4.612095&scm=1003.4.lb-zebra-19417-296794.SHOP_2257904299_612095
+https://dai.tmall.com/list.tmall.comsearch_product.htm?cat=53914011&shopType=any&sort=s&style=g&acm=lb-zebra-19417-289411.1003.8.425591&promo=43906&search_condition=71&active=1&from=sn_1_rightnav&scm=1003.8.lb-zebra-19417-289411.ITEM_144167140726617_425591

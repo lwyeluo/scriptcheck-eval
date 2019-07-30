@@ -1,0 +1,10 @@
+http://www.tabelog.com/rstLstcond18-00-00
+http://www.tabelog.com/caferank
+https://tabelog.com/support/inquiry?type=17
+http://www.tabelog.com/kanagawaA1401A140103rstLstlunch
+http://www.tabelog.com/rstLstmotsu
+http://www.tabelog.com/rstLstyakiniku
+http://www.tabelog.com/rstLstcond03-18-00
+https://tabelog.com/tottori/
+http://www.tabelog.com/
+http://www.tabelog.com/rstLstcond04-00-03

@@ -1,0 +1,10 @@
+https://www.betradar.com/betting-servicesesports
+https://www.betradar.com/about-usour-partners
+https://www.betradar.com/betting-servicespremium-cricket-service
+https://www.betradar.com/about-usprivacy
+https://www.betradar.com/betting-servicesnumbers-betting
+https://www.betradar.com/betting-stimulationlive-match-tracker
+https://www.betradar.com/betting-serviceslive-odds-service
+https://www.betradar.com/live-streamingindian-horse-racing
+https://www.betradar.com/about-usdownloads
+https://www.betradar.com/

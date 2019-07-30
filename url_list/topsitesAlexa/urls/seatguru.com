@@ -1,0 +1,10 @@
+https://www.seatguru.com/
+https://www.seatguru.com/cheap-flights60763Cheap-Flights-to-New-York-City
+https://www.seatguru.com/cheap-flights35805Cheap-Flights-to-Chicago
+https://www.seatguru.com/terms.php
+https://www.seatguru.com/airlinesLufthansainformation.php
+https://www.seatguru.com/traveltipsjuly-2019-1
+https://www.seatguru.com/airlinesUnited_Airlinesinformation.php
+https://www.seatguru.com/cheap-flights155019Cheap-Flights-to-Toronto
+https://www.seatguru.com/traveltipsinformation.php?author=Margly+Carret
+https://www.seatguru.com/cheap-flights186338Cheap-Flights-to-London

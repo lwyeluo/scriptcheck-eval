@@ -1,0 +1,10 @@
+https://www.iberia.com/webforgetPin.do
+https://www.iberia.com/esluggagehand-luggage
+https://www.iberia.com/esvip-services
+https://www.iberia.com/escheap-flightsValencia
+https://www.iberia.com/esiberiapluspartnersgastronomy
+https://www.iberia.com/esair-shuttle
+https://www.iberia.com/esdestination-guide
+https://www.iberia.com/esfly-with-iberiachildren-and-infants
+https://www.iberia.com/
+https://www.iberia.com/escheap-flightsMiami

@@ -1,0 +1,10 @@
+https://www.nyafilmer.com/zWLCfmNRQMIbreaking-bad.html
+https://www.nyafilmer.com/
+https://nyafilmer.com/the-man-from-earth/
+https://nyafilmer.com/queen-of-the-south/
+https://nyafilmer.com/swesub
+https://www.nyafilmer.com/zKjwWQHzFHkashley-madison-sex-lies-cyber-attacks.html
+https://www.nyafilmer.com/zYREKJPLpqDhappy-as-lazzaro.html
+https://www.nyafilmer.com/categoryserier?release-year=2016
+https://www.nyafilmer.com/filter?release-year=2016
+https://nyafilmer.com/lucifer/

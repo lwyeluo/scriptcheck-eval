@@ -1,0 +1,10 @@
+https://www.ynet.co.il/home/0,7340,L-4403,00.html
+https://www.ynet.co.il/
+http://www.ynet.co.il/home/0,7340,L-3,00.html
+http://ysport.ynet.co.il/
+https://mimun.ynet.co.il/?utm_source=ynet.hp&utm_medium=mimun.ynet_shimushon.win_156/84&utm_campaign=mimun_loan
+https://www.ynet.co.il/articles0,7340,L-5469221,00.html#autoplay
+http://xnet.ynet.co.il/home/0,7340,L-10,00.html
+http://xnet.ynet.co.il/articles/0,7340,L-5553145,00.html
+https://www.ynet.co.il/articles0,7340,L-5533248,00.html
+https://www.ynet.co.il/home0,7340,L-2,00.html

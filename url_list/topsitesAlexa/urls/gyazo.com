@@ -1,0 +1,10 @@
+https://www.gyazo.com/api
+https://www.gyazo.com/gdpr
+https://www.gyazo.com/download?dl=now
+https://www.gyazo.com/contact
+http://blog.gyazo.com/
+https://www.gyazo.com/pro
+https://gyazo.com/
+https://www.gyazo.com/en
+https://support.gyazo.com/hc/
+https://www.gyazo.com/

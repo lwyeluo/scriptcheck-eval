@@ -1,0 +1,10 @@
+http://www.tnt-online.ru/tnt-golds01e28
+http://www.tnt-online.ru/borodachborodach-den-rojdenia-irishki
+http://www.tnt-online.ru/comedy-battle.tnt-online.ru
+http://www.tnt-online.ru/be-happy.tnt-online.ru
+http://www.tnt-online.ru/kino
+http://www.tnt-online.ru/adaptaciya.tnt-online.ru
+http://www.tnt-online.ru/bonus.tnt-online.ru
+http://www.tnt-online.ru/
+http://www.tnt-online.ru/zvonite-dikaprio.tnt-online.ru
+http://www.tnt-online.ru/konnaya-policiya.tnt-online.ru

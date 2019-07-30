@@ -1,0 +1,10 @@
+https://owlcation.com/humanities/Shakespeare-Sonnet-119
+https://owlcation.com/stem/electrical-engineering/
+https://owlcation.com/stem/Green-Caterpillar-Identification
+https://owlcation.com/academia/Watts-Amps-Kilowatt-Hours-What-Does-it-All-mean
+https://owlcation.com/academia/Classroom-Sharing
+https://owlcation.com/agriculture/How-to-Raise-Cornish-Cross-Chickens-as-Meat-Birds
+https://owlcation.com/privacy-policy#gdpr
+https://owlcation.com/stem/climatology-meteorology/
+https://owlcation.com/editorial-policy
+https://www.owlcation.com/

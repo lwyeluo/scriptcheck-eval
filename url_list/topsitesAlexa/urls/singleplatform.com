@@ -1,0 +1,10 @@
+https://www.singleplatform.com
+https://www.singleplatform.com/faq/
+https://www.singleplatform.com/legal
+https://www.singleplatform.com/blog/listing-and-menu-management/menu/update-your-summer-menu-online-before-you-miss-out-on-more-business/
+https://www.singleplatform.com/partner-with-us/
+https://www.singleplatform.com/about/
+https://www.singleplatform.com/contact-us/
+https://www.singleplatform.com/blog/
+https://www.singleplatform.com/marketplace/
+https://www.singleplatform.com/

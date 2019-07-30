@@ -1,0 +1,10 @@
+http://gaobeidian.jiwu.com
+http://www.jiwu.com/zhuanti/1273/
+http://www.jiwu.com/zhuanti/3040/
+http://www.jiwu.com/zhuanti/4416/
+http://qingyuan.jiwu.com
+http://laiyang.jiwu.com
+http://zhaotong.jiwu.com
+http://huaian.jiwu.com
+http://www.jiwu.com/zhuanti/1995/
+http://www.jiwu.com/

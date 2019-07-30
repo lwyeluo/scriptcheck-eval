@@ -1,0 +1,10 @@
+https://www.usmagazine.com/celebrity-moms/pictures/celebrity-kids-back-to-school-photos/
+https://www.usmagazine.com/
+https://www.usmagazine.com/celebrity-news/news/shark-tanks-barbara-corcoran-talks-alex-rodriguez-jennifer-lopez/
+https://www.usmagazine.com/shop-with-us/news/nordstrom-anniversary-sale-2019-leggings-look-like-pants-comfy/
+https://www.usmagazine.com/services-contactus/
+https://www.usmagazine.com/celebrity-news/pictures/dorit-and-pk-kemsleys-legal-trouble-what-we-know/
+https://www.usmagazine.com/celebrity-news/news/keanu-reeves-surprises-fans-who-left-him-a-sign-in-their-yard/
+https://www.usmagazine.com/entertainment/news/chris-harrison-hopes-his-daughter-looks-up-to-hero-hannah-b/
+https://www.usmagazine.com/celebrity-body/news/rhocs-emily-shuts-down-claims-she-altered-her-season-14-cast-pic/
+https://www.usmagazine.com/celebrity-news/pictures/stars-theyre-just-like-us-20131610/

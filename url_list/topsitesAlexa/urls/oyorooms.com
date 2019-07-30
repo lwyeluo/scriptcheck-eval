@@ -1,0 +1,10 @@
+https://www.oyorooms.com/oyos-in-goa
+https://www.oyorooms.com/oyos-in-kolkata
+https://www.oyorooms.com/oyos-in-bangalore
+https://www.oyorooms.com/oyos-in-delhi
+https://www.oyorooms.com/oyos-in-mumbai
+https://www.oyorooms.com/
+https://www.oyorooms.com/oyos-in-noida
+https://www.oyorooms.com/oyos-in-jaipur
+https://www.oyorooms.com/oyos-in-chennai
+https://www.oyorooms.com/oyos-in-gurgaon

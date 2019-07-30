@@ -1,0 +1,10 @@
+https://www.transfermarkt.com/leandro-paredesprofilspieler166237
+https://www.transfermarkt.com/spielberichtindexspielbericht3194956
+https://www.transfermarkt.com/spielberichtindexspielbericht3206845
+https://www.transfermarkt.com/tickerbegegnunglive3198680
+https://www.transfermarkt.com/
+https://www.transfermarkt.com/forumthreadforum623thread_id40
+https://www.transfermarkt.com/fc-nitrastartseiteverein1562
+https://www.transfermarkt.com/sheffield-unitedstartseiteverein350
+https://www.transfermarkt.com/fc-santosstartseiteverein221
+https://www.transfermarkt.com/spielberichtindexspielbericht3194851

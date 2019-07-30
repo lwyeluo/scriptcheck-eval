@@ -1,0 +1,10 @@
+https://www.jetstar.com/sgzhflightsseats
+https://www.jetstar.com/sgzhflightseasy-check-in
+https://www.jetstar.com/sgzhinspirationdestinations
+https://www.jetstar.com/twzhhome
+https://www.jetstar.com/nzenhome
+https://www.jetstar.com/sgzhdeals
+https://book.jetstar.com/?culture=zh-sg
+https://www.jetstar.com/ididhome
+https://www.jetstar.com/
+https://www.jetstar.com/jpjahome

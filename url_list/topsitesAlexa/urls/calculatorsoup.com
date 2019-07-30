@@ -1,0 +1,10 @@
+https://www.calculatorsoup.com/sitemap.php
+https://www.calculatorsoup.com/help/pops.php
+https://www.calculatorsoup.com/calculators/time/
+https://www.calculatorsoup.com/contact.php
+https://www.calculatorsoup.com/calculators/trigonometry/
+https://www.calculatorsoup.com/
+https://www.calculatorsoup.com/calculators/geometry-plane/
+https://www.calculatorsoup.com/scientific.php
+https://www.calculatorsoup.com/calculators/math/basic.php
+https://www.calculatorsoup.com/calculators/

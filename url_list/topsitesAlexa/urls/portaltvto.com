@@ -1,0 +1,10 @@
+http://ostan.portaltvto.com
+http://www.portaltvto.com/tasis/register
+http://azmoon.portaltvto.com/
+http://www.portaltvto.com/shekaiat/pasokhguei_be_shekayat/agreement
+http://pay.portaltvto.com
+http://www.portaltvto.com/media/infograghs/advari.jpg
+http://ostan.portaltvto.com/
+http://www.portaltvto.com/pishnahad/login_pishnahad
+http://www.portaltvto.com/
+http://www.portaltvto.com/about

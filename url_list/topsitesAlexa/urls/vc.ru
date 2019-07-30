@@ -1,0 +1,10 @@
+https://vc.ru/u/34154-denis-shiryaev
+https://www.vc.ru/writing
+https://vc.ru/u/173320-alexandr-osmyakov
+https://vc.ru/design/76083-10-oshibok-razrabotchikov-v-dizayne-prilozheniy?comments
+https://www.vc.ru/
+https://www.vc.ru/jobnew
+https://vc.ru/revolut
+https://vc.ru/ask/75991-na-chto-vy-potratili-pervuyu-zarplatu?comment=1326297
+https://vc.ru/marketing/75939-restart-ios-prilozheniya-pinok-ot-apple-na-zhivyh-cifrah
+https://www.vc.ru/topall

@@ -1,0 +1,10 @@
+https://www.koreanair.com/contentkoreanairglobalentravelingbaggage-servicesloss-delayed-damaged
+https://www.koreanair.com/globalenskypassflight-award.html
+https://www.koreanair.com/globalenoffers-promotionexcellent-boarding-pass-program.html
+https://www.koreanair.com/globalentravel-products.html
+https://www.koreanair.com/contentkoreanairglobalentravelingclasses-of-serviceprestige-class
+https://www.koreanair.com/
+https://www.koreanair.com/globalenbookingschedule-flight.html
+https://www.koreanair.com/globalenskypassnon-flight-awardcoatroom-award.html
+https://www.koreanair.com/globalenticket-informationskyteam-around-the-world.html
+https://www.koreanair.com/contentkoreanairglobalenskypassflight-awardaward-ticket

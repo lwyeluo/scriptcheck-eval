@@ -1,0 +1,10 @@
+https://www.medallia.com/
+https://www.medallia.com/solutions/automotive/
+https://www.medallia.com/solutions/retail-banking/
+https://www.medallia.com/platform/text-analytics/
+http://www.medallia.com/customers/paypal/
+http://www.medallia.com/contact-us/
+http://www.medallia.com/b2b-customer-experience/
+https://www.medallia.com/newsroom/
+https://www.medallia.com/solutions/telecommunications/
+https://www.medallia.com/solutions/b2b/

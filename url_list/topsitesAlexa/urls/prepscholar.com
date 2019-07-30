@@ -1,0 +1,10 @@
+https://www.prepscholar.com/satssignup
+https://www.prepscholar.com/
+https://www.prepscholar.com/satsprivacy
+https://www.prepscholar.com/satscontact
+https://www.prepscholar.com/gmats
+https://www.prepscholar.com/satssample-lesson
+https://www.prepscholar.com/psats
+https://www.prepscholar.com/toefls
+https://www.prepscholar.com/satsterms
+https://www.prepscholar.com/satsgroups

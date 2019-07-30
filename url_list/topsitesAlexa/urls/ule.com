@@ -1,0 +1,10 @@
+http://www.ule.com/muying.ule.com28031994-niaokushijin---------0-1.html
+http://www.ule.com/
+http://www.ule.com/jinkoushipin.ule.com28032006-jinkouchongyinkafeicha---------0-1.html
+http://www.ule.com/www.psbc.com
+http://www.ule.com/muying.ule.com28031989-mamayongpin---------0-1.html
+http://www.ule.com/help.ule.comhelpcenter688.html
+http://www.ule.com/item.ule.comitem3913682-0-1.html
+http://www.ule.com/search.ule.com28033289-nushiyaodai---------0-1.html
+http://www.ule.com/store.ule.comstore9156----230632.html
+http://www.ule.com/item.ule.comitem3664953-0-1.html

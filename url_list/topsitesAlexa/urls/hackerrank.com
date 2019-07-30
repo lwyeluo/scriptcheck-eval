@@ -1,0 +1,10 @@
+https://www.hackerrank.com/
+https://www.hackerrank.com/products/codescreen/?h_r=home&h_l=footer
+https://www.hackerrank.com/about-us/?h_r=home&h_l=footer
+https://www.hackerrank.com/products/codepair/?h_r=home&h_l=footer
+https://www.hackerrank.com/customers?h_r=home&h_l=footer#more
+https://www.hackerrank.com/resources?h_r=home&h_l=footer#guides
+https://www.hackerrank.com/dashboard?h_r=home&h_l=footer
+https://www.hackerrank.com/access-account/?h_r=home&h_l=header
+https://blog.hackerrank.com/category/assess/?h_r=home&h_l=footer
+https://www.hackerrank.com/products/?h_r=home&h_l=header

@@ -1,0 +1,10 @@
+https://www.darty.com/achat/informations/informations_cookies.html#sellsecure
+https://www.darty.com/nav/extra/list?p=200&seller=0&s=topa&cat=309052&prix_barre=dcom_BONPLAN-dcom_DARTYDAYS-dcom_FLASH-dcom_SOLDE-dcom_FRENCHDAYS#dartyclic=H_PROMO_0_lava
+https://www.darty.com/achat/informations/paiement_securise.html
+https://www.darty.com/cuisine/#dartyclic=X_cuis-sur-mesu
+https://www.darty.com/nav/extra/list?p=200&seller=0&aff=GRID&s=top&fl=1&cat=1&npk=1&prix_barre=dcom_SOLDE&fa=756#dartyclic=H_B_2_soldes-soldes-generique-pc-portables-bhp
+https://magasin.darty.com/search/fr/nice
+https://www.darty.com/nav/extra/list?p=200&seller=0&s=topa&cat=312056&prix_barre=dcom_BONPLAN-dcom_DARTYDAYS-dcom_FLASH-dcom_SOLDE-dcom_FRENCHDAYS#dartyclic=H_PROMO_0_cuis
+https://www.darty.com/
+http://www.darty.com/nav/extra/list?p=200&seller=0&s=avis_desc&fl=1&cat=4&npk=1&prix_barre=dcom_BONPLAN
+https://www.darty.com/nav/extra/list?p=200&seller=0&s=top&fl=1&cat=5&npk=1&prix_barre=dcom_BONPLAN-dcom_FLASH-dcom_SOLDE-dcom_BLACK-dcom_DESTOCKAGE-dcom_FRENCHDAYS#dartyclic=H_PROMO_1_peti-elec-cuis

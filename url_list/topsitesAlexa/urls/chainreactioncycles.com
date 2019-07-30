@@ -1,0 +1,10 @@
+https://www.chainreactioncycles.com/sitemap#brands_b
+https://www.chainreactioncycles.com/bottom-brackets
+https://www.chainreactioncycles.com/nipples
+https://www.chainreactioncycles.com/bolts
+https://www.chainreactioncycles.com/bike-trailers
+https://www.chainreactioncycles.com/clearanceworkshop
+https://www.chainreactioncycles.com/tri-accessories
+https://www.chainreactioncycles.com/clearancebikes
+https://www.chainreactioncycles.com/bells
+https://www.chainreactioncycles.com/

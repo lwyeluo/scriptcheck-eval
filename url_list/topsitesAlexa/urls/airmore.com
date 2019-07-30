@@ -1,0 +1,10 @@
+https://www.airmore.com/dk
+https://download.airmore.com/airmore.apk
+https://www.airmore.com/help
+https://www.airmore.com/apowercloud-release.html
+https://www.airmore.com/pt
+https://www.airmore.com/pl
+https://www.airmore.com/nl
+https://download.airmore.com/down.php?softid=airmoreios
+https://www.airmore.com/eula
+https://www.airmore.com/

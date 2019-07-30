@@ -1,0 +1,10 @@
+https://www.waveapps.com/onewave
+https://www.waveapps.com/wave-plus
+https://my.waveapps.com
+https://www.waveapps.com/about-us/contact
+https://blog.waveapps.com/
+https://www.waveapps.com/about-us/careers
+https://www.waveapps.com/ownr-business-registration
+https://www.waveapps.com/
+https://www.waveapps.com/bank-payments
+https://www.waveapps.com/success

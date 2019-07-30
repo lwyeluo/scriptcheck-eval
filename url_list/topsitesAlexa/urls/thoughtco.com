@@ -1,0 +1,10 @@
+https://www.thoughtco.com/legal#privacy
+https://www.thoughtco.com/math-4133545
+https://www.thoughtco.com/copperhead-snake-facts-4690809
+https://www.thoughtco.com/esl-4133095
+https://www.thoughtco.com/social-sciences-4133522
+https://www.thoughtco.com/
+https://www.thoughtco.com/about-us#EditorialGuidelines
+https://www.thoughtco.com/mark-antony-4589823
+https://www.thoughtco.com/about-us#ContactUs
+https://www.thoughtco.com/literature-4133251

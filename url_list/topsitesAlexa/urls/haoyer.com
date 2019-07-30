@@ -1,0 +1,10 @@
+http://www.haoyer.com/htmltiyu_jianshenindex.htm
+http://www.haoyer.com/htmlkuanpin_yingshiindex.htm
+http://www.haoyer.com/htmlyishu_aihao
+http://www.haoyer.com/htmljiaoyu
+http://www.haoyer.com/downindex.php?id=qqpcmgr
+http://www.haoyer.com/toolflashplayer
+http://www.haoyer.com/htmljunshi
+http://www.haoyer.com/
+http://www.haoyer.com/htmlcataloglinks.htm
+http://www.haoyer.com/htmlyinyue_mp3index.htm

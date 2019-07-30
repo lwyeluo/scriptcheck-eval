@@ -1,0 +1,10 @@
+https://njpwworld.com/
+https://njpwworld.com/searchtagchamp_71
+https://njpwworld.com/searchtagman_546_en
+https://njpwworld.com/searchtagman_256
+https://njpwworld.com/searchtagman_356
+https://njpwworld.com/featurenews
+https://njpwworld.com/searchtagman_528
+https://njpwworld.com/guide1
+https://njpwworld.com/searchtagother_46_en
+https://njpwworld.com/searchtagother_24_en

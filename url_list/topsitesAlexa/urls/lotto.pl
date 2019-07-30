@@ -1,0 +1,10 @@
+https://www.lotto.pl/mapa-wygranych
+https://www.lotto.pl/kontaktreklamacje
+https://www.lotto.pl/aktualnosci
+https://www.lotto.pl/mini-lottopoznaj-swoje-liczby
+https://www.lotto.pl/sportikultura
+https://gry.lotto.pl/pl/multi-multi.html
+https://www.lotto.pl/konfiguracja-przegladarki
+https://www.lotto.pl/
+https://www.lotto.pl/rejestracja
+https://www.lotto.pl/lotto

@@ -1,0 +1,10 @@
+https://www.yoreparo.com/preguntar?utm_source=boton-menu-izda
+https://www.yoreparo.com/acerca-denueva-version
+https://www.yoreparo.com/electronicadisenopreguntas6133024remplazo-de-regulador-az1084s2-1-8e1
+https://www.yoreparo.com/computadoras-y-accesorios
+https://www.yoreparo.com/hogar
+https://www.yoreparo.com/herramientas
+https://www.yoreparo.com/comunidad/
+https://www.yoreparo.com/comunidad/manuales/5834505/politica-de-privacidad
+https://www.yoreparo.com/foros
+https://www.yoreparo.com/

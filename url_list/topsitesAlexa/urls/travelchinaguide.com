@@ -1,0 +1,10 @@
+https://www.travelchinaguide.com/intronationality
+https://www.travelchinaguide.com/
+https://www.travelchinaguide.com/tourdiscount.htm
+https://www.travelchinaguide.com/tournews20190704.htm
+https://www.travelchinaguide.com/cruise
+https://www.travelchinaguide.com/china-trains
+https://www.travelchinaguide.com/privacy.htm
+https://www.travelchinaguide.com/introsocial_customszodiac
+https://www.travelchinaguide.com/packagechengdu.htm
+https://www.travelchinaguide.com/cruisevictoriatour-v403.htm

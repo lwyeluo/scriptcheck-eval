@@ -1,0 +1,10 @@
+https://www.cdiscount.com/maison/canape-canapes/canape-chesterfield/l-1170128.html#nav=Canap%C3%A9%20Chesterfield_txt
+https://www.cdiscount.com/juniors/deguisement/l-12086.html#nav=D%C3%A9guisements%20-%20F%C3%AAtes_txt
+https://www.cdiscount.com/telephonie/telephone-mobile/honor/l-1440441.html#nav=Honor_txt
+https://www.cdiscount.com/
+https://www.cdiscount.com/jardin/comment-choisir-nettoyeur-haute-pression-f/q-l-163-4835808.html
+https://www.cdiscount.com/telephonie/telephone-mobile/apple-iphone-7-argent-32-go/f-1440402-iphone732gosi.html?idOffre=379636580#cm_sp=PA:3951131:2:IPHONE732GOSI
+https://www.cdiscount.com/maison/meubles-mobilier/meuble-chambre/lits-chevets/lits-superposes/l-11760020203.html#nav=Voir%20tous%20les%20lits_txt
+https://www.cdiscount.com/pret-a-porter/bebe-puericulture/equipement-repas-alimentation/allaitement/coussins-maternite/l-11317330102.html#nav=Coussin%20d'allaitement_txt
+https://www.cdiscount.com/high-tech/sono-dj/packs-sono/l-1063919.html#nav=Packs%20sono_txt
+https://www.cdiscount.com/informatique/materiel-reseau-wifi-internet-bluetooth/wifi-reseau-bluetooth/reseau-wifi/l-107151213.html#nav=R%C3%A9seau_txt

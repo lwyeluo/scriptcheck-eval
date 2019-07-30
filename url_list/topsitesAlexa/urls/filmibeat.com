@@ -1,0 +1,10 @@
+https://www.filmibeat.com/photos/
+https://www.filmibeat.com/
+https://wallpapers.filmibeat.com/kannada/
+https://www.filmibeat.com/peep
+https://www.filmibeat.com/bollywoodnews
+https://www.filmibeat.com/bollywoodnews2019disha-patani-reveals-her-first-reaction-when-she-heard-the-script-of-malang-287785.html
+https://www.filmibeat.com/bollywoodnews2019madhur-bhandarkar-indu-sarkar-to-be-included-in-national-film-archives-read-details-287812.html
+https://www.filmibeat.com/bollywoodfeatures
+https://www.filmibeat.com/bollywoodcelebs
+https://www.filmibeat.com/bollywoodnews2019this-video-of-hrithik-roshan-practicing-bhojpuri-accent-for-super-30-will-leave-you-in-splits-287794.html

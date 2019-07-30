@@ -1,0 +1,10 @@
+https://www.thecrazytourist.com/15-best-things-to-do-in-fountain-hills-az/
+https://www.thecrazytourist.com/30-amazing-hidden-gems-in-arkansas/
+https://www.thecrazytourist.com
+https://www.thecrazytourist.com/15-best-things-to-do-in-homestead-florida/
+https://www.thecrazytourist.com/
+https://www.thecrazytourist.com/page/2/
+https://www.thecrazytourist.com/about/
+https://www.thecrazytourist.com/15-best-things-to-do-in-puerto-iguazu-argentina/
+https://www.thecrazytourist.com/privacy-policy/
+https://www.thecrazytourist.com/12-best-things-to-do-in-sahuarita-az/

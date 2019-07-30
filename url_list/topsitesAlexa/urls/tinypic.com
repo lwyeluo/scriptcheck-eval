@@ -1,0 +1,10 @@
+http://tinypic.com/search.php?tag=welcome&type=images
+http://tinypic.com/categories/love
+http://tinypic.com/search.php?tag=emo+glitter&type=images
+http://tinypic.com/search.php?tag=muppets&type=images
+http://www.tinypic.com/
+http://tinypic.com/search.php?tag=smurfs&type=images
+http://tinypic.com/favorites.php
+http://tinypic.com/categories/art
+http://tinypic.com/search.php?tag=cassette&type=images
+http://tinypic.com/search.php?tag=i+love+you&type=images

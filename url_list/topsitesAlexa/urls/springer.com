@@ -1,0 +1,10 @@
+https://www.springer.com/gpcomputer-science
+https://www.springer.com/gp/business-management
+https://www.springer.com/
+https://www.springer.com/gp/computer-science
+https://www.springer.com/gp/shop/promo/affiliate/springer-nature
+http://link.springer.com
+https://www.springer.com/gp/statistics
+https://www.springer.com/00216
+https://www.springer.com/gp/rights-permissions
+https://www.springer.com/gp/instructors

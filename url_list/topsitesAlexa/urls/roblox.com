@@ -1,0 +1,10 @@
+https://corp.roblox.com/ko/
+https://corp.roblox.com/zh-hans/contact-us/
+https://www.roblox.com/info/about-us?locale=zh_cn
+https://www.roblox.com/info/parents?locale=zh_cn
+https://www.roblox.com/info/blog?locale=zh_cn
+https://www.roblox.com/info/jobs?locale=zh_cn
+https://www.roblox.com/info/help?locale=zh_cn
+https://www.roblox.com/info/privacy?locale=zh_cn
+https://www.roblox.com/
+https://www.roblox.com/info/terms?locale=zh_cn

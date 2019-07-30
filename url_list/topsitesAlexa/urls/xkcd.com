@@ -1,0 +1,10 @@
+http://blag.xkcd.com
+http://store.xkcd.com/
+https://www.xkcd.com/about
+http://what-if.xkcd.com
+https://www.xkcd.com/xkcd.com1732
+https://www.xkcd.com/archive
+https://www.xkcd.com/atom.xml
+https://www.xkcd.com/
+https://www.xkcd.com/2177
+https://www.xkcd.com/rss.xml

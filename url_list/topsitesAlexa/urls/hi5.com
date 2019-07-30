@@ -1,0 +1,10 @@
+http://www.hi5.com/tagged_mobile.html
+http://www.hi5.com/terms_of_service.html#privacy_policy
+http://www.hi5.com/online-dating/portland-oregon
+http://www.hi5.com/online-dating/denver-colorado
+http://www.hi5.com/terms_of_service.html?#privacy_policy
+http://www.hi5.com/safety_practices.html
+http://www.hi5.com/online-dating/houston-texas
+http://www.hi5.com/online-dating/london-uk
+https://www.hi5.com/
+http://www.hi5.com/terms_of_service.html?reg=1

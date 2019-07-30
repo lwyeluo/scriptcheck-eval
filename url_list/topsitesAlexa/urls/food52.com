@@ -1,0 +1,10 @@
+https://www.food52.com/shopreferrals
+https://www.food52.com/users1792979-mjlove
+https://www.food52.com/tagsdrink
+https://www.food52.com/
+https://www.food52.com/faq
+https://food52.com/
+https://www.food52.com/shoptable
+https://www.food52.com/recipes81549-caramelized-cherry-clafoutis-recipe
+https://www.food52.com/shopregistry
+https://www.food52.com/shopproducts4544-mediterranean-vinyl-mats

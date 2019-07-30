@@ -1,0 +1,10 @@
+https://www.razorpay.com/
+https://www.razorpay.com/ecod
+https://www.razorpay.com/blog
+https://www.razorpay.com/knowledgebase
+https://www.razorpay.com/customer-stories
+https://www.razorpay.com/epos
+https://www.razorpay.com/chargeback
+https://www.razorpay.com/support#refund
+https://www.razorpay.com/route
+https://www.razorpay.com/support

@@ -1,0 +1,10 @@
+https://www.theonion.com/c/american-voices
+https://www.theonion.com/how-different-colors-affect-your-brain-and-body-1836524920
+https://www.theonion.com/game-of-thrones-receives-record-breaking-32-nominatio-1836504949
+https://local.theonion.com
+https://politics.theonion.com/white-supremacists-warn-idealistic-trump-some-compromis-1836532710
+https://www.theonion.com/cvideo
+https://www.theonion.com/avclub.com
+https://politics.theonion.com/c/news-in-photos
+https://entertainment.theonion.com/5-things-to-know-about-the-lion-king-1836500805
+https://www.theonion.com/

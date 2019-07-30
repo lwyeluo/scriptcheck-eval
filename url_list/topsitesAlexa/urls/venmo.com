@@ -1,0 +1,10 @@
+https://www.venmo.com/
+https://www.venmo.com/signup
+https://www.venmo.com/jobs
+https://www.venmo.com/legalus-privacy-policy
+https://www.venmo.com/legalus-licenses
+https://www.venmo.com/contact-us
+https://developer.venmo.com
+https://www.venmo.com/legalus-user-agreement
+https://www.venmo.com/team
+https://www.venmo.com/aboutproduct

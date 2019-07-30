@@ -1,0 +1,10 @@
+https://www.twitter.com/
+https://www.twitter.com/login
+https://www.twitter.com/about.twitter.compressbrand-assets
+http://support.twitter.com/forums/26810/entries/78525
+http://m.twitter.com
+https://dev.twitter.com/overview/terms/agreement
+https://about.twitter.com/careers
+https://www.twitter.com/settingspersonalization
+https://business.twitter.com
+https://www.twitter.com/accountbegin_password_reset

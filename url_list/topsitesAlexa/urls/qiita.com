@@ -1,0 +1,10 @@
+https://www.qiita.com/privacy
+https://oauth.qiita.com/auth/github?callback_action=login_or_signup&realm=qiita
+https://teams.qiita.com
+https://help.qiita.com
+https://oauth.qiita.com/auth/twitter?callback_action=login_or_signup&realm=qiita
+https://zine.qiita.com?utm_source=qiita&utm_medium=referral&utm_content=footer
+https://www.qiita.com/
+https://www.qiita.com/tags
+https://www.qiita.com/items
+https://www.qiita.com/about

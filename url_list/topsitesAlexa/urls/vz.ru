@@ -1,0 +1,10 @@
+https://www.vz.ru/news2019721988490.html
+https://www.vz.ru/society2019718987913.html#comments
+https://www.vz.ru/world2019718987690.html
+https://www.vz.ru/news2019721988523.html
+https://www.vz.ru/news2019721988504.html
+https://www.vz.ru/news2019721988492.html
+https://www.vz.ru/politics2019719988273.html
+https://www.vz.ru/redir?source=vz_menu_links&nomain=1&id=988510&vzurl=https:vz.runews2019721988510.html
+https://www.vz.ru/opinions2019721987861.html
+https://www.vz.ru/

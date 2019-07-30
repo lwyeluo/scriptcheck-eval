@@ -1,0 +1,10 @@
+https://kwork.ru/contact
+https://kwork.ru/categories/lawyer-consulting
+https://kwork.ru/categories/links
+https://www.kwork.ru/categoriesweb-plus-mobile-design
+https://kwork.ru/categories/game-dev
+https://www.kwork.ru/categoriesdesign
+https://kwork.ru/new_project
+https://www.kwork.ru/
+https://kwork.ru/terms_of_service
+https://www.kwork.ru/categoriesbusiness

@@ -1,0 +1,10 @@
+https://www.ring.com/shopgo?url=pagesstick-up-cam
+https://www.ring.com/shopgo?url=pagessmart-lighting
+https://www.ring.com/press
+https://support.ring.com/
+https://www.ring.com/shopgo?url=pagesdoorbells
+https://www.ring.com/shopgo?url=pagesexclusive-discounts
+https://www.ring.com/about
+https://www.ring.com/
+https://www.ring.com/privacy
+https://www.ring.com/shopgo?url=pagesshaq-home-security

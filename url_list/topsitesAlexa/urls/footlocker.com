@@ -1,0 +1,10 @@
+https://www.footlocker.com/
+https://www.footlocker.com/help.html
+https://www.footlocker.com/search?query=Air%20Max%20200&sort=price-desc
+https://www.footlocker.com/womens
+https://www.footlocker.com/categoryhouseofhoops?query=3ogs02%3Arelevance%3AproductType%3A200006
+https://www.footlocker.com/categorycollectionjordanretro-13.html?query=Retro+13%3Arelevance%3AallColors%3APurple%3Abrand%3AJordan%3AproductType%3A200005
+https://www.footlocker.com/categoryshoesnikeair-max-97.html?sort=newArrivals
+https://www.footlocker.com/shopthelook-mens
+https://www.footlocker.com/helpreturn-policy--satisfaction-guaranteed.html
+https://www.footlocker.com/helpshippinginformation.html

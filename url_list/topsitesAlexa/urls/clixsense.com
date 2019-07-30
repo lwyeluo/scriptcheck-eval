@@ -1,0 +1,10 @@
+https://www.clixsense.com/enHelp-Announcements
+https://www.clixsense.com/enBlog
+https://www.clixsense.com/enHelp-FAQ
+https://www.clixsense.com/enHelp
+https://www.clixsense.com/enOffers
+https://www.clixsense.com/enHelp-Submit_a_Ticket
+https://www.clixsense.com/enGames
+https://www.clixsense.com/enSign_In
+https://www.clixsense.com/enAbout-User_Agreement
+https://www.clixsense.com/

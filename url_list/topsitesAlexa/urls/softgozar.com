@@ -1,0 +1,10 @@
+https://www.softgozar.com/vivavideo-pro_
+https://www.softgozar.com/news44979%d8%b9%d8%b1%d8%b6%d9%87-%d8%b3%d9%88%d9%85%db%8c%d9%86-%d9%86%d8%b3%d8%ae%d9%87-%d8%a8%d8%aa%d8%a7-iOS-13-%d8%a2%d8%ba%d8%a7%d8%b2-%d8%b4%d8%af
+https://www.softgozar.com/WebPageNews.aspx?NCat=2&Title=اخبار-نرم-افزار
+https://www.softgozar.com/WebPageSoftware.aspx?MCat=5&Cat=593&Title=دانلود-طنز
+https://www.softgozar.com/WebPageSoftware.aspx?MCat=2&Cat=149&Title=دانلود-سیستم-عامل
+https://www.softgozar.com/WebPageSoftware.aspx?MCat=3&Cat=610&Title=دانلود-سلامت
+https://www.softgozar.com/internet-download-manager_
+https://www.softgozar.com/chrome-browser_
+https://www.softgozar.com/adobe-flash-player_
+https://www.softgozar.com/

@@ -1,0 +1,10 @@
+https://www.here.com/automotive-solutions
+https://www.here.com/supplier-code-conduct
+https://www.here.com/bloghere-venue-maps-transforming-airports-istanbul-berlin-and-beyond
+https://mapcreator.here.com/?cid=www.here.com-footer
+https://developer.here.com/?create=Freemium-Basic&keepState=true&step=account?cid=www.here.com-home_ribbon
+https://www.here.com/here-offices
+https://legal.here.com/terms/serviceterms
+https://www.here.com/partnersbecome-partner
+https://www.here.com/ctransforming-business-models
+https://www.here.com/

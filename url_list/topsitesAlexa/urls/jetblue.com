@@ -1,0 +1,10 @@
+https://www.jetblue.com/travelbaggage
+https://www.jetblue.com/mobile
+http://help.jetblue.com/SRVS/CGI-BIN/webcgi.exe?New,Kb=askBlue,case=obj(3068)
+https://www.jetblue.com/pBlue_Lightning_access.pdf
+https://www.jetblue.com/flying-with-usour-planes
+https://www.jetblue.com/flying-with-usmilitary-customers
+https://www.jetblue.com/contact-usreceipt
+https://www.jetblue.com/contact-us
+https://www.jetblue.com/JetblueAlertsWeatherUpdate.aspx?intcmp=global_travelalert
+https://www.jetblue.com/

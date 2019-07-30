@@ -1,0 +1,10 @@
+https://www.oraclecloud.com/en_USiaascustomers
+https://www.oraclecloud.com/en_USindustrial-manufacturing
+https://www.oraclecloud.com/en_USiaastechnical-resources
+https://www.oraclecloud.com/
+https://www.oraclecloud.com/en_USdatawarehouse
+https://www.oraclecloud.com/en_UScost-estimator
+https://www.oraclecloud.com/en_USwcpcloud
+https://www.oraclecloud.com/en_USatp
+https://www.oraclecloud.com/en_USprocess
+https://www.oraclecloud.com/en_USiaasdatabase-applications

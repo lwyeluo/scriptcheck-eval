@@ -1,0 +1,10 @@
+https://www.biomedcentral.com/account
+http://blogs.biomedcentral.com/
+https://www.biomedcentral.com/www.biomedcentral.comprivacy-statement
+https://www.biomedcentral.com/aboutpolicies
+https://www.biomedcentral.com/www.biomedcentral.comcookies
+http://blogs.biomedcentral.com/bmcblog/2018/10/22/research-progress-report-2018/?utm_source=bmc_website&utm_medium=referral&utm_campaign=BMC_Rip_report_2018
+https://bmcresnotes.biomedcentral.com/about/introducing-data-notes?utm_source=website&utm_medium=Referral&utm_campaign=Data_Note_BMCHomepage_to_Landing_Page
+http://www.biomedcentral.com/p/the-bmc-series-journals
+https://www.biomedcentral.com/aboutjobs
+https://www.biomedcentral.com/

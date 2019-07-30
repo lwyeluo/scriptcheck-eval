@@ -1,0 +1,10 @@
+https://www.cognizant.com/csp-technology-solutions
+https://www.cognizant.com/consumer-goods-technology-solutions
+https://www.cognizant.com/sweden
+https://www.cognizant.com/
+https://www.cognizant.com/cognizant-digital-operationsintelligent-process-automation
+https://www.cognizant.com/transportation-logistics-technology-solutions
+https://www.cognizant.com/technology-solutions
+https://www.cognizant.com/de-de
+https://www.cognizant.com/cognizant-digital-businesssoftvision-digital-product-engineering
+https://www.cognizant.com/cognizant-digital-businessiot-solutions

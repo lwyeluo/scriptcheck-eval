@@ -1,0 +1,10 @@
+https://www.amctheatres.com/perfectly-popcorn
+https://www.amctheatres.com/moviesaladdin-50869showtimes
+https://www.amctheatres.com/assistive-moviegoing
+https://www.amctheatres.com/business
+https://www.amctheatres.com/moviesthe-lion-king-53728showtimesthe-lion-king-53728todaydefaultimax??rel=the-lion-king_hp_promo_gettickets
+https://www.amctheatres.com/food-and-drinkorder-ahead?modalName=FDLocations
+https://www.amctheatres.com/
+https://www.amctheatres.com/discount-tuesdays
+https://www.amctheatres.com/moviesthe-art-of-self-defense-59386
+https://www.amctheatres.com/moviesfast-furious-presents-hobbs-shaw-55190showtimes?rel=fast-furious-presents-hobbs-shaw_giveaway_hp_hero

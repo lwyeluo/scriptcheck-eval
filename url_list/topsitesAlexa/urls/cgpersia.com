@@ -1,0 +1,10 @@
+https://forum.cgpersia.com/irc/index.php?ref=blog
+https://cgpersia.com/2019/07/04
+https://cgpersia.com/tag/3dcoat
+https://cgpersia.com/tag/cgcookie
+https://cgpersia.com/page/4
+https://cgpersia.com/2019/07/06
+https://cgpersia.com/2019/07/19
+https://cgpersia.com/2019/07/cgma-3d-school-9-9-vegetation-plants-for-games-161682.html#more-161682
+https://cgpersia.com/category/download/cg/software/linux
+https://www.cgpersia.com/

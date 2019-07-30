@@ -1,0 +1,10 @@
+https://442.perfil.com/2019-07-19-675003-franco-paredes-la-sorpresa-de-gallardo-en-la-lista-de-la-copa/
+https://www.perfil.com/ultimo-momento/
+https://www.perfil.com/noticiascolumnistasno-te-quisiera-enamorar.phtml
+https://www.perfil.com/
+https://www.perfil.com
+https://www.perfil.com/seccion/50y50/
+https://www.perfil.com/noticias/columnistas/castillo-de-naipes-electoral.phtml
+https://www.perfil.com/noticiassociedadjusticia-fallo-a-favor-de-rappi-y-no-encuentra-relacion-de-dependencia-con-repartidores.phtml
+http://luz.perfil.com/2019/07/05/cuidados-de-la-piel-guia-completa-para-embarazadas/
+https://www.perfil.com/seccion/educacion/

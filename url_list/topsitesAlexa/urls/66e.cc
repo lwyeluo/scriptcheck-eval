@@ -1,0 +1,10 @@
+http://www.66e.cc/kehuanpian/20120907/22567.html
+http://www.66e.cc/bd/20190719/39536.htm
+http://www.66e.cc/xijupian/20190703/39426.html
+http://www.66e.cc/dsj4/20190620/39341.htm
+http://www.66e.cc/xijupian/20190701/39414.html
+http://www.66e.cc/dsj4/20190616/39318.htm
+http://www.66e.cc/zhanzhengpian/20190715/39492.html
+http://www.66e.cc/gy/20180805/37441.htm
+http://www.66e.cc/dongzuopian/20190718/39525.html
+http://www.66e.cc/

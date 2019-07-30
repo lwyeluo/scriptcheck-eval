@@ -1,0 +1,10 @@
+https://www.xmtrading.com/category/market-reviews
+https://www.xmtrading.com/research
+https://www.xmtrading.com/about
+https://www.xmtrading.com/forex-trading
+https://www.xmtrading.com/bn?prln=1
+https://www.xmtrading.com/platforms
+https://www.xmtrading.com/careers
+https://my.xmtrading.com
+https://www.xmtrading.com/whats-next-for-sterling-as-britain-flirts-with-a-no-deal-brexit-special-report-80612
+https://www.xmtrading.com/

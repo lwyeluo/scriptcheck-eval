@@ -1,0 +1,10 @@
+https://www.euro-football.ru/article/29/1004180304_cska_bezvolno_proigral_kryilyam_sovetov_na_starte_novogo_sezona_rpl
+https://www.euro-football.ru/article/29/1004179176_prognoz_na_match_rostov_-_orenburg_kto_pobedit
+https://www.euro-football.ru/team/Chelsi
+https://www.euro-football.ru/poll/view/1387
+https://www.euro-football.ru/article/35/1004183119_fabregas_azar_sozdan_dlya_igryi_v_reale
+https://www.euro-football.ru/team/Ural
+https://www.euro-football.ru/match/1004174828-utreht-zrinski-smotret-onlajn-pryamuyu-translyatsiyu-25-july-2019
+https://www.euro-football.ru/
+https://www.euro-football.ru/article/29/1004180949_gol_novichka_rubina_kvarachelii_otobral_pobedu_u_lokomotiva
+https://www.euro-football.ru/champ/england_kubok_ligi.htm

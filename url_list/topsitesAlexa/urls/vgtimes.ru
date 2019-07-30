@@ -1,0 +1,10 @@
+https://vgtimes.ru/games/counter-strike-global-offensive/
+https://vgtimes.ru/games/gears-5/
+https://www.vgtimes.ru/files
+https://www.vgtimes.ru/index.php?do=lostpassword
+https://www.vgtimes.ru/gamesanticipated
+https://www.vgtimes.ru/roulette
+https://www.vgtimes.ru/tags%C3%E0%E9%E4%FB+%E8+%F0%F3%EA%EE%E2%EE%E4%F1%F2%E2%E0
+https://www.vgtimes.ru/tags%EE%E1%E7%EE%F0%FB+%E6%E5%EB%E5%E7%E0
+https://vgtimes.ru/news/59090-yutuber-sdelal-bryusa-li-glavnym-geroem-matricy-vo-vremya-boya-s-morfeusom-vse-blagodarya-deepfake.html
+https://www.vgtimes.ru/

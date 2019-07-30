@@ -1,0 +1,10 @@
+http://www.patheos.com/preachers
+https://www.patheos.com/blogs/godlessindixie
+https://www.patheos.com/subscribe/newsletters
+https://www.patheos.com/blogs/carlmccolman
+https://www.patheos.com/blogs/geneveith
+https://www.patheos.com/
+https://www.patheos.com/blogs/suspendedinherjar
+https://www.patheos.com/about-patheos/bruce-epperly
+https://www.patheos.com/topics/life-events
+https://cr.patheos.com/path-pastor-resource-signup?track1=HouseNav_MLRC_P&sourceid=117

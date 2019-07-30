@@ -1,0 +1,10 @@
+http://libgen.io/magzindex.php
+http://libgen.io/libgenimport
+http://libgen.io/scimag
+http://libgen.io/comicsindex.php
+http://libgen.io/search.php?mode=modified
+http://libgen.io/
+http://libgen.io/libgencontent
+http://libgen.io/magz
+http://libgen.io/dbdumpslibgen
+http://libgen.io/foreignfictionindex.php

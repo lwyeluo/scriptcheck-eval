@@ -1,0 +1,10 @@
+https://www.wondershare.com/pt-br/
+https://drfone.wondershare.com/mac-iphone-data-recovery.html
+https://famisafe.wondershare.com/
+https://www.wondershare.com/company/end-user-license-agreement.html
+https://dvdcreator.wondershare.com/
+https://www.wondershare.com/
+https://drfone.wondershare.com
+https://filmora.wondershare.com/filmorapro-video-editor/
+https://filmora.wondershare.com/video-editor/
+https://pdf.wondershare.com/pdfelement-app.html

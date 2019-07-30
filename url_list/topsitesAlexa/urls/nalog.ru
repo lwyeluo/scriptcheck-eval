@@ -1,0 +1,10 @@
+https://www.nalog.ru/rn77taxationreference_workppa_monitor#t1
+https://www.nalog.ru/rn77related_activitiesforeign_clients
+https://www.nalog.ru/rn77taxationreference_work
+https://www.nalog.ru/rn77servicetax
+https://www.nalog.ru/rn77taxationtaxesimuch2016
+https://www.nalog.ru/
+https://www.nalog.ru/rn77newsactivities_fts8934827
+https://zags.nalog.ru/
+https://www.nalog.ru/rn77snu-2019
+https://www.nalog.ru/rn77rss

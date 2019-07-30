@@ -1,0 +1,10 @@
+https://www.listindiario.com/
+https://www.listindiario.com/horoscopo
+https://www.listindiario.com/tags?s=Música
+https://www.listindiario.com/entretenimiento20190720574834conuko-band-roots-presenta-su-nuevo-caballero
+https://www.listindiario.com/la-republica20190721574868realizan-operativo-de-limpieza-en-el-rio-el-mulito-en-pedernales
+http://www.listindiario.com/encuentros-digitales/anterior?id=561
+https://www.listindiario.com/religion
+https://www.listindiario.com/el-deporte20190721574849che-garcia-hay-que-mejorar-en-todo-y-nos-falta-muchisimo-por-trabajar
+https://www.listindiario.com/las-mundiales20190721574873rossello-desmiente-a-socio-y-niega-que-recibiera-dinero-del-parlamento-puertorriqueno
+https://planlea.listindiario.com

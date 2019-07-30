@@ -1,0 +1,10 @@
+https://www.xcite.com/photography/camcorders/360-cameras.html
+https://www.xcite.com/showrooms/
+https://www.xcite.com/top-deals/consoles-video-games.html
+https://www.xcite.com/
+https://www.xcite.com/photography/binoculars-telescopes.html
+https://www.xcite.com/home-outdoor/air-treatment/luxury-heaters.html
+https://www.xcite.com/home-outdoor/built-in-appliances.html
+https://www.xcite.com/computers-tablet/tablet-accessories/cases-covers.html
+https://www.xcite.com/home-outdoor/pet-care/accessories.html
+https://www.xcite.com/mobile-phones/phones/apple.html

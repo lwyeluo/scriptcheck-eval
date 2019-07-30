@@ -1,0 +1,10 @@
+https://thelastgame.ru/legend-of-keepers-career-of-a-dungeon-master/
+https://thelastgame.ru/category/adventure/
+https://thelastgame.ru/category/hot/
+https://thelastgame.ru/page/3/
+https://thelastgame.ru/football-games/
+https://thelastgame.ru/my-little-blacksmith-shop/
+https://thelastgame.ru/disclaimer/
+https://thelastgame.ru/dino-games/
+https://www.thelastgame.ru/
+https://thelastgame.ru/category/arcade/

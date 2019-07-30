@@ -1,0 +1,10 @@
+https://www.ccavenue.com
+https://www.ccavenue.com/agreement.jsp
+https://www.ccavenue.com/terms_conditions.jsp
+https://www.ccavenue.com/services.jsp
+https://login.ccavenue.com/web/registration.do?command=navigateSchemeForm
+https://www.ccavenue.com/associates.jsp
+https://dashboard.ccavenue.com/web/contactUs.do?command=navigateContactUs
+https://dashboard.ccavenue.com/merchantLogin.do?command=merchantLogout
+https://www.ccavenue.com/
+https://www.ccavenue.com/ccavenue_index.jsp#

@@ -1,0 +1,10 @@
+https://new.qq.com/ch/cul_ru
+http://eafifa.qq.com/?ADTAG=media.innerenter.qqcom.index_navigation
+https://new.qq.com/omn/20190721/20190721A0CIN200.html
+https://new.qq.com/omn/20190720/20190720A0PS3H00.html
+https://new.qq.com/omn/20190721/20190721A05HBS00.html
+http://dn.qq.com/cp/a20180904ysjj/index.htm
+https://new.qq.com/omn/20190721/20190721A03D0D00.html
+https://new.qq.com/omn/20190721/20190721A06KP000.html
+https://www.qq.com/
+http://new.qq.com/ch/photo/

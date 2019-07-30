@@ -1,0 +1,10 @@
+https://www.maketecheasier.com/software/video-speed-controller/
+https://www.maketecheasier.com/akaso-v50-pro-action-camera-review/
+https://www.maketecheasier.com/author/kris-wouk/
+https://www.maketecheasier.com/category/news/
+https://www.linkedin.com/company/maketecheasier.com/
+https://www.maketecheasier.com/ebooks/beginners-guide-linux-command-line/
+https://www.maketecheasier.com/category/browser/
+https://www.maketecheasier.com/latest-windows-10-update-problems/
+https://www.maketecheasier.com/author/alexfox/
+https://www.maketecheasier.com/

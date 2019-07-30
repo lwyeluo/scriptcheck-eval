@@ -1,0 +1,10 @@
+https://www.elespanol.com/enfoques/politica/20190720/pp-eliminar-homenajes-terroristas-terrorismo-no-prescriban/415208931_0.html
+https://www.elespanol.com/cultura/historia/20190721/acabaron-esparta-ejercito-homosexuales-tebas/412709612_0.html
+https://www.elespanol.com/espana/politica/20190721/llevado-iglesias-sanchez-gobierno-coalicion-conquistas-senuelo/415208967_0.html
+https://www.elespanol.com/sociedad/20190721/jovenes-muertos-heridos-gravedad-accidente-trafico-salamanca/415458668_0.html
+https://www.elespanol.com/social/20190721/humillo-perez-reverte-tuitero-reprocho-criterio-politico/413958821_0.html
+https://omicrono.elespanol.com/2019/07/autopilot-de-tesla-prevenir-accidentes/
+https://www.elespanol.com/mundo/
+https://www.elespanol.com/opinion/editoriales/
+https://elandroidelibre.elespanol.com/2019/07/problemas-habituales-google-fotos-como-solucionarlos.html
+https://www.elespanol.com/

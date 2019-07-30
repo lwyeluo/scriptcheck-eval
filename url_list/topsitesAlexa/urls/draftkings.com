@@ -1,0 +1,10 @@
+https://www.draftkings.com
+https://www.draftkings.com/lineup
+https://www.draftkings.com/terms-of-use
+https://www.draftkings.com/promo-code
+https://www.draftkings.com/account/sitelogin/true?returnurl=about:blank
+https://www.draftkings.com/helpfaq
+https://www.draftkings.com/how-to-play
+https://www.draftkings.com/mycontests
+https://www.draftkings.com/leagues/home
+https://www.draftkings.com/

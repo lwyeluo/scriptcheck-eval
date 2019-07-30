@@ -1,0 +1,10 @@
+https://www.shopstyle.com/browsewomens-beauty
+https://www.shopstyle.com/browsemens-bags
+https://www.shopstyle.com/browsekids-and-baby
+https://www.shopstyle.com/browsewomens-athletic-clothes
+https://www.shopstyle.com/browsemens-scarves
+https://www.shopstyle.com/browsehats
+https://www.shopstyle.com/browsemens-shorts
+https://www.shopstyle.com/browsemens-pants
+https://www.shopstyle.com/browsemens-sandals
+https://www.shopstyle.com/

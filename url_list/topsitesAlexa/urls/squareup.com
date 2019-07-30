@@ -1,0 +1,10 @@
+https://www.squareup.com/usendevelopersreader-sdk
+https://www.squareup.com/usensoftwarepoint-of-sale
+https://www.squareup.com/usendevelopersin-app-payments
+https://www.squareup.com/usenevents
+https://www.squareup.com/
+https://www.squareup.com/usenlegalgeneralprivacy
+https://www.squareup.com/usenpress
+https://www.squareup.com/usenlegalgeneralgov
+https://www.squareup.com/usensolutionsprofessional-services
+https://www.squareup.com/shophardwareusen

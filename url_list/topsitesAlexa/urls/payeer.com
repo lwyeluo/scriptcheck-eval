@@ -1,0 +1,10 @@
+https://www.payeer.com/enauth
+https://www.payeer.com/cncontacts
+https://www.payeer.com/enauth?register=yes
+https://www.payeer.com/cnagreements
+https://www.payeer.com/cnaffiliates
+https://www.payeer.com/
+https://payeer.com/merchant/?m_shop=271996&m_orderid=12345&m_amount=10.00&m_curr=RUB&m_desc=0JTQtdC80L7QvdGB0YLRgNCw0YbQuNC%2B0L3QvdGL0Lkg0L%2FQu9Cw0YLQtdC2&m_sign=97AC14CA11DDD9B7AD61F88FC3EEE057A05A2DB1A76D3A3B3CE6BA1C9851AD8F&lang=ru
+https://www.payeer.com/cntrade
+https://www.payeer.com/cn
+https://www.payeer.com/cnpolicy

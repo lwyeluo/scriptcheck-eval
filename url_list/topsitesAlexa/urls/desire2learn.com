@@ -1,0 +1,10 @@
+https://www.desire2learn.com/k-12customers
+https://www.desire2learn.com/resourceswebinars#filter=.segment-corporate-learning
+https://www.desire2learn.com/k-12
+https://www.desire2learn.com/enterprisecustomers
+https://www.desire2learn.com/enterprise
+https://www.desire2learn.com/events
+https://www.desire2learn.com/higher-educationcustomers
+https://www.desire2learn.com/
+https://www.desire2learn.com/customers#collection_filter
+https://www.desire2learn.com/resources#filter=.segment-corporate-learning

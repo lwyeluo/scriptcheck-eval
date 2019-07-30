@@ -1,0 +1,10 @@
+https://my.slate.com/login/?screenToRender=editProfile
+https://www.slate.com/news-and-politicsjurisprudence
+https://shop.slate.com/
+https://my.slate.com/plus/?utm_medium=link&utm_campaign=plus&utm_content=&utm_source=nav
+https://slate.com/technology/2019/07/fox-moon-landing-hoax-conspiracy-theory-tv-special.html
+https://www.slate.com/
+https://slate.com/culture/2019/07/bachelorette-fantasy-suite-hannah-b-bachelor-franchise.html
+https://slate.com/culture/2019/07/cats-musical-movie-porn-furries.html
+https://slate.com/culture/2019/07/cats-watch-the-trailer-for-cats-musical-movie.html
+https://www.slate.com/human-interestfamily

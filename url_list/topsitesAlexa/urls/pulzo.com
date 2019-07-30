@@ -1,0 +1,10 @@
+https://www.pulzo.com/entretenimientohollywood-pidio-prueba-adn-eiza-gonzalez-PP736039
+https://www.pulzo.com/politicas-de-privacidad
+https://www.pulzo.com/mapa-del-sitio
+https://www.pulzo.com/opinion
+http://www.pulzo.com/lo-mas-visto
+https://www.pulzo.com/
+https://www.pulzo.com/deportesalejandro-valverde-responsabiliza-nairo-quintana-su-mal-etapa-tourmalet-PP736066
+https://www.pulzo.com/deportes
+https://www.pulzo.com/entretenimientoactores-casa-papel-adivinan-terminos-bogotanos-como-gomelo-PP735368
+https://www.pulzo.com/contenido-patrocinadoesfuerzo-fisico-ciclistas-competencias-como-tour-francia-PP734606

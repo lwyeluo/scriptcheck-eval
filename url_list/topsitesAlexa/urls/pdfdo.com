@@ -1,0 +1,10 @@
+http://app.pdfdo.com/help.aspx
+http://app.pdfdo.com/software/PDFdo_PDF_To_Word_setup.zip
+http://app.pdfdo.com/buy.aspx
+http://app.pdfdo.com/site.aspx
+http://app.pdfdo.com/privacy.aspx
+http://pdftips.pdfdo.com/
+http://app.pdfdo.com/aboutus.aspx
+http://www.pdfdo.com/
+http://app.pdfdo.com/software/PDFdo_Password_Remover_setup.zip
+http://app.pdfdo.com/contactus.aspx

@@ -1,0 +1,10 @@
+https://www.verizon.com/
+https://www.verizon.com/aboutour-companyopen-internet
+https://www.verizon.com/aboutcareers
+https://www.verizon.com/businessgateway
+https://www.verizon.com/?lid=globalresidential
+http://espanol.verizon.com/enes/home/verizonglobalhome/ghp_landing.aspx
+https://www.verizon.com/homestorelocator
+https://www.verizon.com/about
+https://www.verizon.com/aboutterms
+https://www.verizon.com/aboutour-company5gbuilton5gchallenge

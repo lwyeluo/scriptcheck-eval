@@ -1,0 +1,10 @@
+https://www.pcgamer.com/the-first-trailer-for-netflixs-witcher-series-is-here/
+https://www.pcgamer.com/sumo-digital-working-with-2k-on-two-unannounced-projects/
+https://www.pcgamer.com/best-of/
+https://www.pcgamer.com/advance-wars-inspired-tiny-metal-full-metal-rumble-roots-its-story-in-the-real-world-refugee-crisis/
+https://www.pcgamer.com/best-g-sync-monitors-2019/
+https://www.pcgamer.com/tag/podcast/
+https://www.pcgamer.com/there-are-over-100-games-on-the-epic-store-and-theres-still-no-way-to-sort-them/
+https://www.pcgamer.com/enjoy-this-4k-footage-of-call-of-duty-modern-warfares-gunfight-mode/
+https://www.pcgamer.com/
+https://www.pcgamer.com/leaked-marvels-avengers-video-shows-thor-gameplay/

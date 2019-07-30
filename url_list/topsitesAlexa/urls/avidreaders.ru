@@ -1,0 +1,10 @@
+https://avidreaders.ru/book/istoriya-krepostnogo-malchika.html
+https://avidreaders.ru/book/esche-odin-popadanec-trilogiya-si.html
+https://avidreaders.ru/genre/poeziya/
+https://avidreaders.ru/book/krylya-feniksa.html
+https://avidreaders.ru/book/nesvyatye-svyatye-i-drugie-rasskazy.html
+https://avidreaders.ru/book/graf-monte-kristo.html
+https://www.avidreaders.ru/
+https://avidreaders.ru/genre/romany/
+https://avidreaders.ru/book/ogromnyy-ogromnyy-mir-gde-to-tam.html
+https://avidreaders.ru/author/chak-palanik/

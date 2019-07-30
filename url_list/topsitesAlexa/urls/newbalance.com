@@ -1,0 +1,10 @@
+https://www.newbalance.com/nb-athletics/?ICID=NBA_PN_8052_W
+https://www.newbalance.com/girls/shoes/sandals/
+https://www.newbalance.com/pd/nb1-997/US997MC1-BLANK.html?ICID=NB1997_NAV
+https://www.newbalance.com/women/clothing/shorts-1/
+https://www.newbalance.com/women/clothing/all-clothing/
+https://www.newbalance.com/girls/clothing/
+https://www.newbalance.com/boys/shoes/alternative-closure/
+https://www.newbalance.com/
+https://www.newbalance.com/women/featured/best-sellers/
+https://www.newbalance.com/women/shoes/lacrosse-1/

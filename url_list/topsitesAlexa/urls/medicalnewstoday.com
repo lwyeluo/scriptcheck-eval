@@ -1,0 +1,10 @@
+https://www.medicalnewstoday.com/terms
+https://www.medicalnewstoday.com/articles325479.php
+https://www.medicalnewstoday.com/categories#h
+https://www.medicalnewstoday.com/search
+https://www.medicalnewstoday.com/articles325670.php
+https://www.medicalnewstoday.com/articles325722.php
+https://www.medicalnewstoday.com/categorieslymphoma
+https://www.medicalnewstoday.com/
+https://www.medicalnewstoday.com/categoriesnutrition-diet
+https://www.medicalnewstoday.com/contact

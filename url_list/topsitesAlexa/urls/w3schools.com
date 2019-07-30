@@ -1,0 +1,10 @@
+https://www.w3schools.com/reactdefault.asp
+https://www.w3schools.com/jqueryjquery_ref_overview.asp
+https://www.w3schools.com/certcert_xml.asp
+https://www.w3schools.com/htmlhtml_examples.asp
+https://www.w3schools.com/javajava_examples.asp
+https://www.w3schools.com/charsetsref_html_utf8.asp
+https://www.w3schools.com/w3cssw3css_examples.asp
+https://www.w3schools.com/www.w3schools.com
+https://www.w3schools.com/
+https://www.w3schools.com/javajava_exercises.asp

@@ -1,0 +1,10 @@
+https://www.yandex.com/feedback2.yandex.comcopyright-complaint
+https://www.yandex.com/translate.yandex.com
+https://www.yandex.com/yandex.comimages
+https://yandex.com/legal/termsofservice/
+https://www.yandex.com/yandex.com.tr
+https://yandex.com/legal/privacy/
+https://www.yandex.com/yandex.by
+https://www.yandex.com/yandex.ru
+https://www.yandex.com/
+https://yandex.com/support/common/

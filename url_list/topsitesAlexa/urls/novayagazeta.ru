@@ -1,0 +1,10 @@
+https://www.novayagazeta.ru/articles2019071881291-dachniki
+https://www.novayagazeta.ru/twitter.comnovaya_gazeta
+https://www.novayagazeta.ru/vk.comnovgaz
+https://www.novayagazeta.ru/society
+https://www.novayagazeta.ru/privacy
+https://www.novayagazeta.ru/authors
+https://www.novayagazeta.ru/authors38367
+https://www.novayagazeta.ru/articles2019072081322-tri-soneta
+https://www.novayagazeta.ru/donate?utm_source=site&utm_medium=header&utm_campaign=web
+https://www.novayagazeta.ru/

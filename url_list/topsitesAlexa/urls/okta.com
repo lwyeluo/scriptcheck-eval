@@ -1,0 +1,10 @@
+https://www.okta.com/products/universal-directory/
+https://www.okta.com/press-room
+https://www.okta.com/products/customer-identity/authorization/
+https://www.okta.com/solutionsreduce-it-friction
+https://www.okta.com/companyleadership
+https://www.okta.com/resources/whitepaper-top-5-reasons-to-automate-identity-lifecycle/
+https://www.okta.com/resources/whitepaper-ad-architecture
+https://www.okta.com/solutionsincrease-mergers-and-acquisitions-agility
+https://www.okta.com/services
+https://www.okta.com/

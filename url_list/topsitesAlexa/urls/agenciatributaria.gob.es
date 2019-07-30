@@ -1,0 +1,10 @@
+https://www2.agenciatributaria.gob.es/soporteaeat/Formularios.nsf/sugerencias
+https://www.agenciatributaria.gob.es/AEAT.sedegl_esInicioInicio.shtml
+https://www.agenciatributaria.gob.es/AEAT.sedeInicioProcedimientos_y_ServiciosProcedimientos_y_Servicios.shtml
+https://www.agenciatributaria.gob.es/AEAT.sedeInicioProcedimientos_y_ServiciosOtros_serviciosColaboracion_SocialColaboracion_Social.shtml
+https://www.agenciatributaria.gob.es/AEAT.sedeInicioProcedimientos_y_ServiciosBeneficios_Fiscales_y_AutorizacionesBeneficios_Fiscales_y_Autorizaciones.shtml
+https://www.agenciatributaria.gob.es/AEAT.sedeInicio_Componentes_Tablon_de_anunciosTablon_de_anuncios.shtml
+https://www.agenciatributaria.gob.es/AEAT.sedeInicioProcedimientos_y_ServiciosOtros_serviciosApoderamientoApoderamiento.shtml
+https://www.agenciatributaria.gob.es/
+https://www.agenciatributaria.gob.es/AEAT.sedeInicio_Componentes__Novedades__DestacadosCertificados_y_suministros_de_Renta_2018.shtml
+https://www.agenciatributaria.gob.es/AEAT.sedeInicioProcedimientos_y_ServiciosOtros_serviciosDenuncia_tributariaDenuncia_tributaria.shtml

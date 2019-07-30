@@ -1,0 +1,10 @@
+https://www.lufthansa.com/sgzhflight-search
+https://www.lufthansa.com/de/en/prepare-for-your-trip/current-travel-information.html
+https://www.lufthansa.com/sgzhseat-maps
+https://www.lufthansa.com/sgzhtravelling-with-children
+https://www.lufthansa.com/sgzhmy-lufthansa-id
+https://www.lufthansa.com/sgzhfood-and-beverages
+https://www.lufthansa.com/sgzhfeedback
+https://www.lufthansa.com/sgzhcancellations-and-refunds
+https://www.lufthansa.com/sgzhcommonterms-of-use
+https://www.lufthansa.com/

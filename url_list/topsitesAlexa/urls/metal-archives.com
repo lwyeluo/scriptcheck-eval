@@ -1,0 +1,10 @@
+https://www.metal-archives.com/bands/Kitsunebi/3540454993
+https://www.metal-archives.com/reviews/Mot%C3%B6rhead/Mot%C3%B6rhead/928/Tanuki/398925
+https://www.metal-archives.com/bands/Finist/16676
+https://www.metal-archives.com/reviews/Tyrmfar/Renewal_Through_Purification/777297/Edmund_Sackbauer/402292
+https://www.metal-archives.com/search/advanced/?searchString=&type=
+https://www.metal-archives.com/content/rules
+https://www.metal-archives.com/content/support
+https://www.metal-archives.com/reviews/Mirror/Pyramid_of_Terror/779883/Empyreal/88990
+https://www.metal-archives.com/albums/Funeralopolis/...of_Death_-_...of_Prevailing_Chaos/783108
+https://www.metal-archives.com/

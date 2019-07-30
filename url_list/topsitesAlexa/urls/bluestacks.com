@@ -1,0 +1,10 @@
+https://www.bluestacks.com/terms-and-privacy.html#eu-privacy
+https://www.bluestacks.com/pl/index.html
+https://www.bluestacks.com/download.html?utm_campaign=homepage-dl-button-bottom-en
+https://www.bluestacks.com/apps/strategy.html
+https://www.bluestacks.com/get-involved-with-streaming.html
+https://www.bluestacks.com/apps/action/mobile-legends-bang-bang-on-pc.html
+https://www.bluestacks.com/using-android-on-pc.html
+https://www.bluestacks.com/collectionrole-playing.html
+https://www.bluestacks.com/
+https://www.bluestacks.com/bluestacks-4/bluestacks-points-and-bluestacks-store/bluestacks-progamer-gear.html

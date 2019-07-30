@@ -1,0 +1,10 @@
+https://www.91mobiles.com/samsung-galaxy-a30-price-in-india
+https://www.91mobiles.com/compareSamsungGalaxy+M30vsXiaomiRedmi+Note+7+Pro.html
+https://www.91mobiles.com/samsung-galaxy-m20-price-in-india
+https://www.91mobiles.com/realme-4-pro-price-in-india
+https://www.91mobiles.com/list-of-phonesnotch-display-phones
+https://www.91mobiles.com/vivo-z1-pro-price-in-india
+https://www.91mobiles.com/compareRealmeXvsVivoZ1+Pro.html
+https://www.91mobiles.com/top-10-cameras-india
+https://www.91mobiles.com/xiaomi-mi-cc9-price-in-india
+https://www.91mobiles.com/

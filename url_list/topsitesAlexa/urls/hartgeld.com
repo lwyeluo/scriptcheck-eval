@@ -1,0 +1,10 @@
+https://www.hartgeld.com/banken-und-versicherungen.html
+https://www.hartgeld.com/eliten-politik.html
+https://www.hartgeld.com/
+https://www.hartgeld.com/systemwechsel.html
+https://www.hartgeld.com/publikations-richtlinien.html
+https://www.hartgeld.com/links.html
+https://www.hartgeld.com/infos-europa.html
+https://www.hartgeld.com/sozialsysteme.html
+https://www.hartgeld.com/alternative-waehrungen.html
+https://www.hartgeld.com/mediapdf2019Art_2019-390_Deutschlands-Geheimnis.pdf

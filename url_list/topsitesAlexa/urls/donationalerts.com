@@ -1,0 +1,10 @@
+http://www.donationalerts.com/help
+https://www.donationalerts.com/locale/de_DE
+http://www.donationalerts.com/authvk-user
+https://www.donationalerts.com/locale/es_ES
+http://www.donationalerts.com/authyoutube
+http://www.donationalerts.com/authfb
+http://www.donationalerts.com/contacts
+http://www.donationalerts.com/authmixer
+http://www.donationalerts.com/
+http://www.donationalerts.com/legal

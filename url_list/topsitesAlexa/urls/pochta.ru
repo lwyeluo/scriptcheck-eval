@@ -1,0 +1,10 @@
+https://podpiska.pochta.ru
+https://www.pochta.ru/otkrytki
+https://www.pochta.ru/kontakty
+https://www.pochta.ru/
+https://www.pochta.ru/otpravka-i-polucenie-pisem-v-vasem-ofise
+https://www.pochta.ru/missia-kompanii
+https://www.pochta.ru/support#popular-questions
+https://www.pochta.ru/priem-platezej-ot-vasih-klientov
+https://www.pochta.ru/151
+https://www.pochta.ru/315

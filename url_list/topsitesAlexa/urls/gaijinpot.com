@@ -1,0 +1,10 @@
+https://blog.gaijinpot.com/top-jobs-in-japan-you-can-apply-to-from-overseas-week-29-2019/?utm_source=gaijinpot.com&utm_medium=hero&utm_campaign=landing_page
+https://www.gaijinpot.com/
+https://blog.gaijinpot.com/top-jobs-in-japan-you-can-apply-to-from-overseas-week-29-2019/
+https://blog.gaijinpot.com/japan-ranked-no-2-study-abroad-destination-in-asia/
+https://blog.gaijinpot.com/japan101/natural-disasters-accidents-and-emergencies/
+https://blog.gaijinpot.com/survey-reveals-japanese-peoples-creative-uses-for-rental-cars/
+https://blog.gaijinpot.com/japan101/sending-and-receiving-mail-in-japan/
+https://blog.gaijinpot.com/tweet-of-the-week-38-animation-studio-employee-sick-after-working-220-hours-overtime/
+https://apartments.gaijinpot.com/en/partner
+https://www.gaijinpot.com/apartments.gaijinpot.comen?utm_source=gp_top&utm_medium=hero&utm_campaign=landing_page

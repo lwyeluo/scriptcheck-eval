@@ -1,0 +1,10 @@
+https://www.mlb.com/marlins
+https://www.mlb.com/dbacks
+http://mlb.mlb.com/stats/sortable.jsp#elem=%5Bobject+Object%5D&tab_level=child&click_text=Sortable+Player+hitting&game_type='P'&season=2017&season_type=ANY&league_code='MLB'&sectionType=sp&statType=hitting&page=1&ts=1475649758900
+https://www.mlb.com/video/play-ball/t-9583020
+https://securea.mlb.com/newsletters/?c_id=mlb
+https://www.mlb.com/tickets/big-league-tours
+https://www.mlb.com/tickets/fan-value
+https://www.mlb.com/photoshome
+https://www.mlb.com/whitesox
+https://www.mlb.com/

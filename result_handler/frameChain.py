@@ -60,11 +60,17 @@ class FrameChain(object):
             return
 
         if len(frames) != len(self.frames):
-            raise Exception("Failed to parse frame chain: %s, %s" % (str(self.frames), str(frames)))
+            print("!!!! HERE MAY BE AN ERROR. ")
+            print("Failed to parse frame chain: %s, %s" % (str(self.frames), str(frames)))
+            self.frames = []
+            return
 
         for i in range(0, len(frames)):
             if self.frames[i]['id'] != frames[i]['id']:
-                raise Exception("Failed to parse frame chain: %s <--> %s" % (self.frames[i], frames[i]))
+                print("!!!! HERE MAY BE AN ERROR. ")
+                print("\t\tFailed to parse frame chain: %s <--> %s" % (self.frames[i], frames[i]))
+                self.frames = []
+                return
             self.frames[i]['origin'] = frames[i]['origin']
 
     def getChain(self):

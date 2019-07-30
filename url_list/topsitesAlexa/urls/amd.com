@@ -1,0 +1,10 @@
+https://www.amd.com/entechnologies-processors
+https://www.amd.com/zh-hanshome
+https://www.amd.com/enproductsgraphicsamd-radeon-rx-5700
+https://www.amd.com/enchipsetsx570
+https://www.amd.com/enproductsryzen-pro-processors-laptop
+https://explore.amd.com/notify-me/2nd-generation-amd-epyc-processor
+https://www.amd.com/entechnologiesfree-sync
+https://www.amd.com/
+https://www.amd.com/encorporatecontact
+https://www.amd.com/engamingcommunity

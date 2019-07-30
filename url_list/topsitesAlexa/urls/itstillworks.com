@@ -1,0 +1,10 @@
+http://www.itstillworks.com/itstillworks.com
+http://www.itstillworks.com/printer
+https://itstillworks.com/13399699/how-to-recover-a-forgotten-password
+http://www.itstillworks.com/smart-devices
+http://www.itstillworks.com/hardware
+http://www.itstillworks.com/email
+https://itstillworks.com/13399692/fast-forward-with-cassette-tapes
+http://www.itstillworks.com/
+http://www.itstillworks.com/itstillworks.comterms-of-use
+http://www.itstillworks.com/itstillworks.comabout-us

@@ -1,0 +1,10 @@
+https://www.euronews.com/terms-and-conditions
+https://www.euronews.com/www.euronews.comnewsasia
+https://www.euronews.com/programsview
+https://www.euronews.com/es.euronews.comprogramasinsiders
+https://www.euronews.com/20190705fight-against-hiv-what-is-crispr-cas9-euronews-answers
+https://www.euronews.com/newsinternational
+https://www.euronews.com/www.euronews.comtagworld-news
+https://www.euronews.com/knowledgesci-tech
+https://www.euronews.com/20190720watch-live-pro-eu-protesters-hold-rally-in-london
+https://www.euronews.com/

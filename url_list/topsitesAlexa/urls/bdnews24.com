@@ -1,0 +1,10 @@
+http://www.bdnews24.com/
+https://bdnews24.com/politics/2019/07/14/ershad-a-quick-look-back
+http://www.bdnews24.com/property
+https://bdnews24.com/bangladesh/2019/07/21/british-airways-suspends-flights-to-cairo-for-seven-days
+http://www.bdnews24.com/entertainment
+https://bdnews24.com/media-en/image/
+http://www.bdnews24.com/automobile
+https://bdnews24.com/entertainment/2019/07/20/hong-kong-actor-simon-yam-stabbed-on-stage-in-china
+https://bdnews24.com/media-en/2019/07/14/the-funeral-of-ershad
+https://bdnews24.com/poll

@@ -1,0 +1,10 @@
+https://www.football365.com/news/top-ten-biggest-spenders-in-europe-so-far-this-summer
+https://www.football365.com/news/arsenal-chief-asks-for-time-and-understanding-from-fans
+https://www.football365.com/clubs
+https://www.football365.com/terms-conditions
+https://www.football365.com/news/every-premier-league-clubs-pre-season-fixture-list
+https://www.football365.com/news/newcastle-star-bruce-replacing-rafa-is-a-good-thing
+https://www.football365.com/news/inter-milan-around-20m-short-with-latest-offer-for-lukaku
+https://www.football365.com/news/were-waiting-seven-players-yet-to-fulfill-their-potential
+https://www.football365.com/news/pep-plans-penalty-practice-reveals-why-city-are-stronger
+https://www.football365.com/

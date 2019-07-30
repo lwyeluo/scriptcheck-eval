@@ -1,0 +1,10 @@
+https://www.afternic.com/careers
+https://www.afternic.com/activation
+https://www.afternic.com/
+https://www.afternic.com/domain-parking
+https://www.afternic.com/trending-web-domains
+https://www.afternic.com/premium-domains
+https://www.afternic.com/recover
+https://www.afternic.com/domain-broker
+https://www.afternic.com/blog
+https://www.afternic.com/domain-reseller-network

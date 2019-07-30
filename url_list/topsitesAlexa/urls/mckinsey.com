@@ -1,0 +1,10 @@
+https://www.mckinsey.com/contact-us
+https://www.mckinsey.com/business-functionsmckinsey-implementationour-people
+https://www.mckinsey.com/quarterlyoverview
+https://www.mckinsey.com/careerssearch-jobs
+https://www.mckinsey.com/
+https://www.mckinsey.com/business-functionsdigital-mckinseyour-insights
+https://www.mckinsey.com/business-functionsdigital-mckinseyour-people
+https://www.mckinsey.com/about-usnew-at-mckinsey-blogas-we-salute-the-apollo-moon-landing-a-look-back-at-our-work-with-nasa
+https://www.mckinsey.com/business-functionstransformationour-insights
+https://www.mckinsey.com/featured-insightsagile-organizations

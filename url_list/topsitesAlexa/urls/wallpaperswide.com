@@ -1,0 +1,10 @@
+http://www.wallpaperswide.com/artistic-desktop-wallpapers.html
+http://www.wallpaperswide.com/5120x3200-wallpapers-r.html
+http://www.wallpaperswide.com/
+http://www.wallpaperswide.com/love-desktop-wallpapers.html
+http://www.wallpaperswide.com/beautiful_icelandic_mountains-wallpapers.html
+http://www.wallpaperswide.com/space-desktop-wallpapers.html
+http://www.wallpaperswide.com/3840x3840-wallpapers-r.html
+http://www.wallpaperswide.com/640x480-wallpapers-r.html
+http://www.wallpaperswide.com/6480x1440-wallpapers-r.html
+http://www.wallpaperswide.com/7680x4320-wallpapers-r.html

@@ -1,0 +1,10 @@
+https://www.world.tmall.com/i.taobao.commy_taobao.htm
+https://www.world.tmall.com/www.taobao.comaboutjoin.php
+https://www.world.tmall.com/www.1688.com
+https://www.world.tmall.com/pro.taobao.com
+https://www.world.tmall.com/dongtai.taobao.comhubpromotion.htm?scm=1046.1.8.1
+https://www.world.tmall.com/mai.taobao.comseller_admin.htm
+https://www.world.tmall.com/www.net.cn
+https://www.world.tmall.com/cart.taobao.commy_cart.htm
+https://www.world.tmall.com/service.taobao.comsupportmainservice_center.htm
+https://www.world.tmall.com/

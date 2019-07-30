@@ -1,0 +1,10 @@
+https://www.creditkarma.com/credit-cardsbrowse
+https://www.creditkarma.com/
+https://www.creditkarma.com/credit-cards/good-credit/
+https://www.creditkarma.com/about/terms
+https://www.creditkarma.com/about/press
+https://www.creditkarma.com/reviews
+https://www.creditkarma.com/reviews/credit-card
+https://seal.digicert.com/seals/popup/?tag=0EscSmSQ&url=www.creditkarma.com&lang=en_US
+https://www.creditkarma.com/credit-cards/cash-back-cards/
+https://www.creditkarma.com/credit-cardssecured-credit-cards

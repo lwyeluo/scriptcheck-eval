@@ -1,0 +1,10 @@
+https://www.eltiempo.es/martes-03.html
+https://www.eltiempo.es/playa-de-canos-de-meca.html
+https://www.eltiempo.es/videosla-prevision-de-eltiempo-esjulio-terminara-con-tiempo-muy-caluroso
+https://www.eltiempo.es/domingo-14.html
+https://www.eltiempo.es/toros
+https://noticias.eltiempo.es/nuevo-record-de-calor-en-alaska-hasta-32oc/
+https://www.eltiempo.es/lunes-13.html
+https://www.eltiempo.es/proxima-semana/domingo-08.html
+https://www.eltiempo.es/
+https://noticias.eltiempo.es/author/mar/

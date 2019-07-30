@@ -1,0 +1,10 @@
+http://news.thmz.com/col50/2019-07-21/1210663.html
+http://life.thmz.com/col41/2019-05-03/1199499.html
+http://heyoo.thmz.com/
+http://life.thmz.com/col130/2019-07-03/1209803.html
+http://finance.thmz.com/folder1267/folder1270/
+http://v2.thmz.com/folder5/folder30/
+http://finance.thmz.com/col202/col209/
+http://m.thmz.com/folder1274/
+http://finance.thmz.com/col203/col99/2019-07-18/1210307.html
+https://www.thmz.com/

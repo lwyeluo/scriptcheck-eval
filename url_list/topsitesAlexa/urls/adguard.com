@@ -1,0 +1,10 @@
+https://adguard.com/fa/welcome.html
+https://kb.adguard.com/general/how-to-create-your-own-ad-filters
+https://www.adguard.com/zh_cnblogadguard-3-0-for-ios.html
+https://www.adguard.com/zh_cnour-partners.html
+https://www.adguard.com/
+https://www.adguard.com/zh_cnversions.html
+https://kb.adguard.com/general/how-malware-protection-works
+https://adguard.com/ja/welcome.html
+https://www.adguard.com/zh_cncontacts.html
+https://adguard.com/ko/welcome.html

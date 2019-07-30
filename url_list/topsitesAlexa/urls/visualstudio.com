@@ -1,0 +1,10 @@
+https://www.visualstudio.com/vsmac
+https://code.visualstudio.com/download?wt.mc_id=DX_841432
+https://code.visualstudio.com/docs?dv=win&wt.mc_id=DX_841432&sku=codewin
+https://www.visualstudio.com/thank-you-downloading-visual-studio-mac?sku=communitymac&rel=16
+https://marketplace.visualstudio.com/VSCode
+https://code.visualstudio.com/?wt.mc_id=DX_841432#alt-downloads
+https://marketplace.visualstudio.com/
+https://www.visualstudio.com/
+https://code.visualstudio.com/?wt.mc_id=DX_841432#powerful-debugging
+https://code.visualstudio.com?wt.mc_id=DX_841432

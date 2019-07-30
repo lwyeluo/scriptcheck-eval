@@ -1,0 +1,10 @@
+http://www.bolshoyvopros.ru/webour_moderators.cgi
+http://www.bolshoyvopros.ru/questionsactual_p4.html
+http://www.bolshoyvopros.ru/questionsactualtag115545.html
+http://www.bolshoyvopros.ru/questionsactualtag348316.html
+http://www.bolshoyvopros.ru/
+http://www.bolshoyvopros.ru/questionsactualcat15.html
+http://www.bolshoyvopros.ru/questionsactualtag3015.html
+http://www.bolshoyvopros.ru/questionsactualtag10706.html
+http://www.bolshoyvopros.ru/profile286431
+http://www.bolshoyvopros.ru/profile190721

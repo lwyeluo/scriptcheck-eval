@@ -1,0 +1,10 @@
+https://www.investing.com/chartsfutures-charts
+https://www.investing.com/about-usterms-and-conditions
+https://hi.investing.com
+https://www.investing.com/equitiestrending-stocks
+https://www.investing.com/chartsreal-time-forex-charts
+https://www.investing.com/
+https://pl.investing.com
+https://www.investing.com/chartsreal-time-futures-charts
+https://au.investing.com
+https://www.investing.com/broker-blacklist

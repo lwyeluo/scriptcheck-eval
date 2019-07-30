@@ -1,0 +1,10 @@
+https://www.bbc.com/
+https://www.bbc.com/newseducation-49040140
+https://www.bbc.com/reel
+https://www.bbc.com/newsentertainment-arts-49060944
+http://www.bbc.com/capital
+https://www.bbc.com/arabic
+https://www.bbc.com/newsscience-environment-49039075
+http://www.bbc.com/culture/story/20190718-the-films-defending-the-demonised-millennial-generation
+https://www.bbc.com/newsin-pictures-48746287
+https://www.bbc.com/marathi

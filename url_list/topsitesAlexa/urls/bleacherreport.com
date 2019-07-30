@@ -1,0 +1,10 @@
+https://www.bleacherreport.com/contact
+https://www.bleacherreport.com/college-football
+https://bleacherreport.com/articles/2778895-life-in-a-world-football-entourage-what-its-like-to-be-one-of-neymars-parcas
+https://www.bleacherreport.com/
+https://www.bleacherreport.com/pagescomguidelines
+https://www.bleacherreport.com/careers
+https://bleacherreport.com/articles/2845929-the-latest-buzz-around-every-nfl-team-as-camp-season-nears
+https://bleacherreport.com/articles/2798131-peakcurse-reliving-the-red-soxs-and-cubs-epic-2003-postseason-heartbreak
+https://www.bleacherreport.com/sign_in
+https://www.bleacherreport.com/usersundefined

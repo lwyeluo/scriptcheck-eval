@@ -1,0 +1,10 @@
+https://www.elvenar.com/webmedia
+https://www.elvenar.com/webcredits
+https://www.elvenar.com/webcommunity
+https://br.elvenar.com
+https://fi.elvenar.com
+https://dk.elvenar.com
+https://www.elvenar.com/webgameraces
+https://us.elvenar.com
+https://ipp-facebook.elvenar.com/?game=onyx&market=en&lp_design_id=g851a
+https://www.elvenar.com/

@@ -1,0 +1,10 @@
+https://www.accenture.com/sg-enindustriesinsurance-index
+https://www.accenture.com/sg-encareersexplore-careersarea-of-interestoperations-careers
+https://www.accenture.com/
+https://www.accenture.com/sg-enindustriesautomotive-index
+https://www.accenture.com/sg-encareersexplore-careersarea-of-interestcybersecurity-careers
+https://www.accenture.com/sg-enaboutaccessibility-statement
+https://www.accenture.com/sg-encompany-newsroom-singapore
+https://www.accenture.com/sg-eninsightscyber-security-index
+https://www.accenture.com/sg-enindustriestravel-index
+https://www.accenture.com/sg-enindustriesindustrial-equipment-index

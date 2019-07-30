@@ -1,0 +1,10 @@
+https://www.chosun.com/gallery.chosun.com
+http://news.chosun.com/site/data/html_dir/2019/07/21/2019072100020.html
+https://www.chosun.com/news.chosun.comsvclist_inlist.html?catid=45
+https://mpeng.chosun.com:444/
+http://news.chosun.com/site/data/html_dir/2019/07/20/2019072001000.html
+http://news.chosun.com/site/data/html_dir/2019/07/20/2019072000071.html
+https://www.chosun.com/
+https://www.chosun.com/news.chosun.comsvclist_inlist.html?catid=31
+http://news.chosun.com/site/data/html_dir/2019/07/20/2019072000081.html
+https://www.chosun.com/news.chosun.comsvclist_inlist.html?catid=21

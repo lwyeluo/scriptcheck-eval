@@ -1,0 +1,10 @@
+https://www.dailycaller.com/20190719here-are-the-five-2020-races-that-could-determine-control-of-the-senate
+https://www.dailycaller.com/advertise
+https://www.dailycaller.com/20190719police-sergeant-with-sons
+https://www.dailycaller.com/20190719trump-plastic-straw-bans
+https://www.dailycaller.com/20190719gulen-surveillance-michael-flynn-turkey-rafiekian
+https://www.dailycaller.com/20190719eddie-gallagher-trial-verdict
+https://www.dailycaller.com/
+https://www.dailycaller.com/emails-and-notifications
+https://www.dailycaller.com/footerprivacy-policy
+https://www.dailycaller.com/sectionus

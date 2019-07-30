@@ -1,0 +1,10 @@
+https://woocommerce.com/mobile/
+https://woocommerce.com/experts/
+https://woocommerce.com/customizations/
+https://woocommerce.com/product-category/sensei-extensions/
+https://woocommerce.com/product-category/woocommerce-extensions/marketing-extensions/multi-channel/
+https://woocommerce.com/products/woocommerce-zapier/
+https://woocommerce.com/product-category/woocommerce-extensions/marketing-extensions/email-marketing-extensions/
+https://woocommerce.com/products/facebook/
+https://www.woocommerce.com/
+https://www.woocommerce.com/showcaseweber-south-africa

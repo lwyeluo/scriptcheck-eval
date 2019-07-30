@@ -1,0 +1,10 @@
+https://www.bamboohr.com/hr-reporting
+https://www.bamboohr.com/apidocumentation
+https://app.bamboohr.com/login/
+https://www.bamboohr.com/small-business
+https://www.bamboohr.com/
+https://www.bamboohr.com/mobile
+https://www.bamboohr.com/hris-software
+https://marketplace.bamboohr.com
+https://www.bamboohr.com/webinars
+https://www.bamboohr.com/resources

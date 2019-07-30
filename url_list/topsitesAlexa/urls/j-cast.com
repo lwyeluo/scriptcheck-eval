@@ -1,0 +1,10 @@
+https://www.j-cast.com/2019/07/21363120.html
+https://www.j-cast.com/premium/info/
+https://www.j-cast.com/tv/2019/07/20363030.html
+https://secure.j-cast.com/form/post.html
+https://www.j-cast.com/special/jishinkikou/
+https://www.j-cast.com/justmysound/?utm_source=news-nav-pc
+https://www.j-cast.com/2019/07/13361782.html
+https://www.j-cast.com/
+https://www.j-cast.com/etc/provide.html
+https://secure.j-cast.com/form/contact.html

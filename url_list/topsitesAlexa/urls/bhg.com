@@ -1,0 +1,10 @@
+https://www.bhg.com/general-site-help/
+https://www.bhg.com/rooms/rooms/
+https://www.bhg.com/shop/bed-and-bath/best-reviews-comforters-sc281474979787916.html
+https://www.bhg.com/syndication/crate-and-barrel-restaurant/
+https://www.bhg.com/
+https://www.bhg.com/pets/cats/
+https://www.bhg.com/recipes/how-to/cooking-basics/7-cant-miss-amazon-prime-day-picks-for-your-kitchen/
+https://www.bhg.com/pets/care/pet-grooming/
+https://www.bhg.com/home-improvement/patio/designs/indoor-outdoor-patio/
+https://www.bhg.com/syndication/hummus-listeria-recall/

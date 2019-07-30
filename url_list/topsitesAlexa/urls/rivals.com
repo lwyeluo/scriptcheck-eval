@@ -1,0 +1,10 @@
+https://www.rivals.com/more_news#other-news
+https://rivals.com
+https://www.rivals.com/more_news#other-newstos
+https://www.rivals.com/tos
+https://www.rivals.com/search
+https://www.rivals.com/newsmember-services
+https://www.rivals.com/more_news#other-newsnewsmember-services
+https://www.rivals.com/newsabout-us
+https://www.rivals.com/
+https://www.rivals.com/newscontact-us-5

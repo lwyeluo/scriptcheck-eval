@@ -1,0 +1,10 @@
+https://pro.kaidee.com/tips/
+https://www.kaidee.com/c12-motorcycle-motorcycle
+https://rod.kaidee.com/
+https://news.kaidee.com/
+https://www.kaidee.com/farm/
+https://baan.kaidee.com/
+https://www.kaidee.com/
+https://support.kaidee.com/hc/th/articles/360000885867
+https://www.kaidee.com/messages
+https://pro.kaidee.com/car-testimonials-admire/

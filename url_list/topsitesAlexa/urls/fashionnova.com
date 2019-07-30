@@ -1,0 +1,10 @@
+https://www.fashionnova.com/collections/jewelry
+https://twitter.com/share?url=https://www.fashionnova.com/cart/
+https://www.fashionnova.com/collectionsmens-15-sale
+https://www.fashionnova.com/collectionsplus-pants
+https://www.fashionnova.com/
+https://www.fashionnova.com/collections/mens-active-joggers
+https://www.fashionnova.com/collectionscoming-soon
+https://support.fashionnova.com/hc/en-us/articles/115000495692
+https://www.fashionnova.com/collectionssale-jackets
+https://www.fashionnova.com/collectionsplus-activewear

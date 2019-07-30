@@ -1,0 +1,10 @@
+https://www.sky.com/help
+https://www.sky.com/
+https://accessibility.sky.com/
+https://www.sky.com/sitemap
+https://www.sky.com/shop/tv/big-little-lies/?irct=PHP-shows1-swcb
+https://www.sky.com/shop/
+https://www.sky.com/shop/tv?irct=PHP-DTH-panel
+https://www.sky.com/shop/tv/mobile?irct=PHP-banner
+https://www.sky.com/shop/start/join-tv-uod/default?irct=PHP-shows6-swcb
+https://www.sky.com

@@ -1,0 +1,10 @@
+https://www.gap.com/browsecategory.do?cid=83056
+https://www.gap.com/browsecategory.do?cid=1098333#pageId=0&department=166
+http://eservice.gap.com
+https://www.gap.com/browsecategory.do?cid=35300#pageId=0&department=136
+https://www.gap.com/browsecategory.do?cid=5745#pageId=0&department=136
+https://www.gap.com/browsecategory.do?cid=5736#pageId=0&department=136
+https://www.gap.com/
+https://www.gap.com/browsecategory.do?cid=1122119#pageId=0&department=16
+https://www.gap.com/profileaccount_summary.do
+https://www.gap.com/browsecategory.do?cid=1055119#pageId=0&department=166

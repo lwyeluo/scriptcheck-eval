@@ -1,0 +1,10 @@
+https://support.robinhood.com/hc/en-us
+https://cdn.robinhood.com/assets/robinhood/legal/RHS%20Customer%20Margin%20and%20Short%20Account%20Agreement.pdf
+https://www.robinhood.com/
+https://cdn.robinhood.com/assets/robinhood/legal/RHF-RHS%20Retail%20Commissions%20and%20Fees%20Schedule.pdf
+https://blog.robinhood.com/
+https://snacks.robinhood.com/
+https://signup.robinhood.com
+https://blog.robinhood.com
+https://signup.robinhood.com/
+https://cdn.robinhood.com/assets/robinhood/legal/RHS%20Margin%20Disclosure%20Statement.pdf

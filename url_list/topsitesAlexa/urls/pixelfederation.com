@@ -1,0 +1,10 @@
+https://portal.pixelfederation.com/en/pixel/login/modal?por_return_url=https%3A//portal.pixelfederation.com/en/diggysadventure/&theme=da
+https://portal.pixelfederation.com/eula
+https://www.pixelfederation.com/sk?setLanguage=1
+https://portal.pixelfederation.com/en/pixel/login/modal?por_return_url=https%3A//portal.pixelfederation.com/en/emporea/&theme=ea
+https://portal.pixelfederation.com/en/diggysadventure/about/
+https://portal.pixelfederation.com/en/trainstation2/about/
+https://www.pixelfederation.com/en?setLanguage=1
+https://portal.pixelfederation.com/en/privacy
+https://www.pixelfederation.com/enpixelregistermodal
+https://www.pixelfederation.com/

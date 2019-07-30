@@ -1,0 +1,10 @@
+https://www.kdslife.com/
+https://www.kdslife.com/hardware.pchome.net
+http://club.kdslife.com/t_9441335.html
+http://club.kdslife.com/t_10224092.html
+http://club.kdslife.com/t_9992109.html
+https://club.kdslife.com/t_10214640.html
+http://club.kdslife.com/t_10224113.html
+http://club.kdslife.com/t_10119996.html
+http://club.kdslife.com/t_9581705.html
+https://www.kdslife.com/article.pchome.netcontent-2016421.html

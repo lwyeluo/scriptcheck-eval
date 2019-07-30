@@ -1,0 +1,10 @@
+https://www.airdroid.com/endownload.html
+https://www.airdroid.com/enpartnerProgram.html
+https://www.airdroid.com/enpay
+http://web.airdroid.com
+https://www.airdroid.com/enremotesupport.html
+http://blog.airdroid.com/
+https://www.airdroid.com/
+https://help.airdroid.com/
+https://www.airdroid.com/en
+https://www.airdroid.com/enget.html

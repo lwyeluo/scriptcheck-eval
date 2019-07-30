@@ -1,0 +1,10 @@
+http://www.tinypng.com/developersreferencephp
+http://www.tinypng.com/third-party
+http://www.tinypng.com/developersreferencepython
+http://www.tinypng.com/analyzer
+https://tinypng.com/
+http://www.tinypng.com/developersreferenceruby
+http://www.tinypng.com/developers
+http://www.tinypng.com/developersreferencedotnet
+http://www.tinypng.com/terms
+http://www.tinypng.com/

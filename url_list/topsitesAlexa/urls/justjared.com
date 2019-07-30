@@ -1,0 +1,10 @@
+http://www.justjared.com/2019/07/20/marvels-phase-four-movies-officially-confirmed-with-release-dates/
+https://www.justjared.com/photo-gallery4324467cara-delevingne-says-her-carnival-row-character-is-pansexual-02
+http://www.justjared.com/tags/benedict-cumberbatch/
+http://www.justjared.com/2019/07/20/lea-michele-zandy-reich-grab-lunch-in-santa-monica/
+https://www.justjared.com/
+https://www.justjared.com/tagssam-heughan
+http://www.justjared.com/tags/rick-gonzalez/
+http://www.justjared.com/tags/doctor-strange/
+http://www.justjared.com/2019/07/21/benedict-cumberbatch-elizabeth-olsen-announce-doctor-strange-in-the-multiverse-of-madness-at-comic-con-2019/#respond
+http://www.justjared.com/tags/teyonah-parris/

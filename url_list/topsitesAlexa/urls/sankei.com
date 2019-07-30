@@ -1,0 +1,10 @@
+https://www.sankei.com/politicsnewslistel19_etc-n1.html
+https://www.sankei.com/premium
+https://www.sankei.com/
+https://www.sankei.com/world/world.html
+https://www.sankei.com/column
+https://www.sankei.com/sports
+https://www.sankei.com/politics
+https://100ages.sankei.com/others/news/20190702/otr1907020001-n1.html
+https://www.sankei.com/life/life.html
+https://www.sankei.com/sports/sports.html

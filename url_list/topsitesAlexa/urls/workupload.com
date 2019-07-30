@@ -1,0 +1,10 @@
+https://www.workupload.com/legalprivacy
+https://www.workupload.com/
+https://www.workupload.com/imprint
+https://www.workupload.com/about
+https://www.workupload.com/languagede
+https://www.workupload.com/contact
+https://www.workupload.com/login
+https://www.workupload.com/help
+https://www.workupload.com/languageen
+https://www.workupload.com/faq

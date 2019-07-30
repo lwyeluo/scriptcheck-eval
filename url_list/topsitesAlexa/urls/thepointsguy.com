@@ -1,0 +1,10 @@
+https://thepointsguy.com/about/
+https://www.thepointsguy.com/guidescredit-cards
+https://www.thepointsguy.com/
+https://thepointsguy.com/news/no-phone-doesnt-pose-safety-risk-boeing-777-737/
+https://shop.thepointsguy.com
+https://www.thepointsguy.com/deals
+https://www.thepointsguy.com/tagtravel-tips
+https://thepointsguy.com/news/sliding-seats-and-wider-aisles-to-speed-up-boarding/
+https://www.thepointsguy.com/mailing-list
+https://thepointsguy.com/news/delta-amex-current-offers/

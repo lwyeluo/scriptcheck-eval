@@ -1,0 +1,10 @@
+https://www.laptopmag.com/articles/laptop-buying-guide
+https://www.laptopmag.com/reviews/laptops/dell-xps-15
+https://www.laptopmag.com/best-acer-laptops
+https://www.laptopmag.com/articles/best-refurbished-laptop-deals
+https://www.laptopmag.com/best-asus-laptops
+https://www.laptopmag.com/articles/best-cheap-laptop
+https://www.laptopmag.com/articles/tablet-cases-for-kids
+https://www.laptopmag.com/articles/long-lasting-tablets
+https://www.laptopmag.com/
+https://www.laptopmag.com/articles/about-us

@@ -1,0 +1,10 @@
+https://www.atptour.com/
+https://www.atptour.com/ennewsbublik-feature-newport-2019
+https://www.atptour.com/enmediamediaguide
+https://www.atptour.com/envideovideo-search-resultsallallallallallall
+https://www.atptour.com/entournamentstickets
+https://www.atptour.com/en/video/video-search-results/five-memorable-hot-shots-from-hamburg
+https://www.atptour.com/ennewsnews-filter-resultsallallallallall
+https://www.atptour.com/enprivacy-policy
+https://www.atptour.com/ennewsstan-smith-federer-djokovic-nadal-newport-2019-feature
+https://www.atptour.com/enrankingsformer-no-1s

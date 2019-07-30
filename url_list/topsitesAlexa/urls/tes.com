@@ -1,0 +1,10 @@
+https://www.tes.com/instituteprogrammes-prospective-teachers
+https://www.tes.com/
+https://www.tes.com/jobs/alerts
+https://www.tes.com/en-usteaching-resourceshubmiddle-school
+https://www.tes.com/teaching-resourceshubearly-years
+https://www.tes.com/institute/access-my-courses
+https://www.tes.com/articles/help-faqs
+https://www.tes.com/institutecpd-courses-teachers
+https://www.tes.com/authnselect?rtn=https%3A%2F%2Fwww.tes.com%2F&select=true&omitName=true&theme=2019&registerInModal=true&appId=0bf8ffca-6026-41a0-b1a0-24350ef7c13d
+https://www.tes.com/lessons

@@ -1,0 +1,10 @@
+https://www.xm.com/category/company-news
+https://www.xm.com/xm-on-tv
+https://www.xm.com/shares
+https://www.xm.com/tw?prln=1
+https://www.xm.com/forex-calculators
+https://www.xm.com/account-types
+https://www.xm.com/execution-policy
+https://www.xm.com/category/news/technical-analysis
+https://www.xm.com/mt5-ipad
+https://www.xm.com/

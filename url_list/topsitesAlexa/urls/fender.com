@@ -1,0 +1,10 @@
+https://shop.fender.com/en/intl/squier-packs/#prefn1=subtype&prefv1=Electric%20Guitars&cgidx=squier-packs
+https://shop.fender.com/en/intl/redirect?c=PL&l=en
+https://shop.fender.com/en/intl/bass-amplifiers/
+https://www.fender.com/
+https://shop.fender.com/en/intl/electric-series/vintera/basses/
+https://shop.fender.com/en/intl/squier-electric-basses/jaguar-bass/
+https://shop.fender.com/en/intl/electric-series/american-elite/guitars/
+https://shop.fender.com/on/demandware.store/Sites-Fender-INTL-Site/en/Dealers-Search
+https://shop.fender.com/en/intl/redirect?c=FR&l=fr
+https://shop.fender.com/en/intl/squier-electric-guitars/jazzmaster/

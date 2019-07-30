@@ -1,0 +1,10 @@
+https://www.royalcaribbean.com/cruise-dining
+https://www.royalcaribbean.com/experiencevisa-signature-card
+https://www.royalcaribbean.com/cruise-destinations
+https://www.royalcaribbean.com/
+https://www.royalcaribbean.com/perfect-day-cococayoasis-lagoon?icid=hpnwbt_wrnssn_ryl_hm_other_2469
+https://www.royalcaribbean.com/booked/shore-excursions
+https://www.royalcaribbean.com/aboutus
+https://www.royalcaribbean.com/bahamas-cruises
+https://www.royalcaribbean.com/plan-a-cruise/group-travel
+https://www.royalcaribbean.com/gifts/Main/splash

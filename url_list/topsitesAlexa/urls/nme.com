@@ -1,0 +1,10 @@
+https://www.nme.com/newsmusic
+https://www.nme.com/tickets/birmingham
+https://www.nme.com/
+https://aaa.nme.com
+https://www.nme.com/news/music/peaky-blinders-season-5-exclusive-anna-calvi-written-musical-score-new-series-2530426
+https://www.nme.com/blogs/mad-cool-2019-homegrown-spanish-talent-madrid-mega-fest-2530835
+https://www.nme.com/blogs/nme-radar
+https://www.nme.com/news/music/ryan-adams-resurfaces-following-abuse-allegations-i-know-who-i-am-what-i-am-its-time-people-know-2531044
+https://www.nme.com/news/music/brother-manchester-arena-bomber-denies-murder-charges-2530654
+https://www.nme.com/news/film/deadpool-3-will-totally-happen-says-creator-rob-liefeld-2530940

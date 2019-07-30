@@ -1,0 +1,10 @@
+http://www.ccidnet.com/2015/0522/9986875.shtml
+http://www.ccidnet.com/information/
+http://www.ccidnet.com/about/jobs.shtml
+http://www.ccidnet.com/smartlife/
+http://app.ccidnet.com/?app=member&controller=index&action=register
+http://app.ccidnet.com/?app=member&controller=index&action=login
+http://www.ccidnet.com/2018/0718/10407696.shtml
+http://www.ccidnet.com/2015/0522/9986889.shtml
+http://app.ccidnet.com/?app=search&controller=index&action=search&type=all&wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD
+http://www.ccidnet.com/

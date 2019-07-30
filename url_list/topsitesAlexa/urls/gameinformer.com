@@ -1,0 +1,10 @@
+https://www.gameinformer.com/gishow
+https://www.gameinformer.com/video-feature20190718new-gameplay-today-marvel-ultimate-alliance-3-the-black-order
+https://www.gameinformer.com/userregister
+https://www.gameinformer.com/gamer-culture20190720heres-whats-coming-next-to-the-marvel-cinematic-universe
+https://www.gameinformer.com/reviewsolserapha-false-idol
+https://www.gameinformer.com/reviewdr-mario-worlda-spoonful-of-sugar
+https://www.gameinformer.com/20190719new-bloodstained-update-does-not-do-much-for-ailing-switch-version
+https://www.gameinformer.com/replay
+https://www.gameinformer.com/20190720overwatch-may-be-teasing-a-new-hero-for-its-next-update
+https://www.gameinformer.com/

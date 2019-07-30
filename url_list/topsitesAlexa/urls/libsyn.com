@@ -1,0 +1,10 @@
+https://www.libsyn.com/
+https://support.libsyn.com
+https://libsyn.com/news/
+https://tickets.libsyn.com/en-us/conversation/new
+https://libsyn.com/podcast-hosting-services/
+https://libsyn.com/terms-of-service-mylibsyn/
+https://libsyn.com/terms-of-service-beta/
+https://libsyn.com/terms-of-service-website/
+https://support.libsyn.com/faqs/
+https://libsyn.com/payment-policy/

@@ -1,0 +1,10 @@
+https://www.blackdesertonline.com/newsview2927
+https://www.blackdesertonline.com/register
+https://www.blackdesertonline.com/login
+https://www.blackdesertonline.com/download
+https://nwiki.blackdesertonline.com
+https://www.blackdesertonline.com/newsview2914
+https://www.blackdesertonline.com/accountAboutUs.html
+https://www.blackdesertonline.com/giftpackage
+https://www.blackdesertonline.com/tryforfree
+https://www.blackdesertonline.com/

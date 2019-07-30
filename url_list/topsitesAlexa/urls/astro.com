@@ -1,0 +1,10 @@
+https://www.astro.com/prodpr_reports_e.htm
+https://www.astro.com/friendswebtools_e.htm
+https://www.astro.com/astrologyin_intro_e.htm
+https://www.astro.com/astrologyin_kdfstep_e.htm
+https://www.astro.com/contactuser_e.htm
+http://www.astro.com/astro-databank/Casale%2C_Rossana
+https://www.astro.com/prodpr_ap_e.htm
+https://www.astro.com/peopleautor_e.htm
+https://www.astro.com/friendslinks_e.htm
+https://www.astro.com/

@@ -1,0 +1,10 @@
+http://lelang.ru/?replytocom=3673#respond
+http://lelang.ru/?replytocom=9660#respond
+http://lelang.ru/english/legkie-teksty-na-anglijskom-yazyke-dlya-nachinayushhih/
+http://lelang.ru/english/anglijskij-yazyk-dlya-shkolnikov/topiki-na-anglijskom-yazyke/
+http://lelang.ru/english/series/serial-druzya-friends-na-anglijskom-yazyke-s-russkimi-i-anglijskimi-subtitrami/
+http://lelang.ru/?replytocom=8706#respond
+http://lelang.ru/english/series/kak-ya-vstretil-vashu-mamu-na-anglijskom-s-subtitrami/
+http://lelang.ru/?replytocom=6700#respond
+http://lelang.ru/?replytocom=6501#respond
+http://www.lelang.ru/

@@ -1,0 +1,10 @@
+https://cn.getresponse.com/
+https://apidocs.getresponse.com/v3/
+https://cn.getresponse.com/cn-start-free-trial
+https://www.getresponse.com/blog/
+https://www.getresponse.com/enterprise
+https://www.getresponse.com/resources/list?type[]=guides
+https://www.getresponse.com/
+https://cn.getresponse.com/email-marketing/cn-features/user-benefits
+https://cn.getresponse.com/email-marketing/cn-features/landing-page-creator
+https://cn.getresponse.com/email-marketing/cn-change-language

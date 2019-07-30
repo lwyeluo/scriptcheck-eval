@@ -1,0 +1,10 @@
+http://www.appgame.com/archives/category/game-type/adventure-games
+http://www.appgame.com/archives/category/game-type/air-war-games
+http://www.appgame.com/archives/category/game-type/tower-defenses-games
+http://www.appgame.com/archives/tag/VR%E6%B8%B8%E6%88%8F
+http://www.appgame.com/
+http://www.appgame.com/archives/704385.html
+http://www.appgame.com/archives/698509.html
+http://www.appgame.com/archives/707246.html
+http://www.appgame.com/archives/category/hot-features/game-role/yxr-video
+http://about.appgame.com/contact/

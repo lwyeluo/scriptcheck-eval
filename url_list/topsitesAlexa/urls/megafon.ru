@@ -1,0 +1,10 @@
+https://www.megafon.ru/roaming
+https://www.megafon.ru/pressa.megafon.ru
+https://www.megafon.ru/moscow.megafon.ruservicesfamilytravel
+https://www.megafon.ru/
+https://www.megafon.ru/moscow.megafon.rutariffsall
+https://www.megafon.ru/ad/politika
+https://www.megafon.ru/helpoffices
+https://www.megafon.ru/corp.megafon.rucareervacancy
+https://moscow.shop.megafon.ru/mobile/93678.html?int_campaign=326&int_b=405
+https://www.megafon.ru/tariffs

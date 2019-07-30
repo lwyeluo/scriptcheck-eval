@@ -1,0 +1,10 @@
+https://techcrunch.com/2019/07/19/how-to-go-to-market-in-middle-america/
+https://techcrunch.com/author/emma-comeau/
+https://techcrunch.com/2019/07/19/indias-oyo-valued-at-10b-after-founder-purchases-2b-in-shares/
+https://techcrunch.com/author/devin-coldewey/
+https://techcrunch.com/2019/07/19/moon-bricks-could-keep-the-lights-on-and-the-heat-up-in-lunar-colonies/
+https://techcrunch.com/author/kate-clark/
+https://techcrunch.com/author/brian-heater/
+https://techcrunch.com/2019/07/20/hold-the-first-moon-rock-ever-collected-with-your-smartphone/
+https://techcrunch.com/2019/07/19/medallia-stock-up-76-following-first-day-trading-on-the-nyse/
+https://www.techcrunch.com/

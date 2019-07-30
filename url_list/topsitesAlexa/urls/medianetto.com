@@ -1,0 +1,10 @@
+http://medianetto.com/
+http://medianetto.com/?page_id=2
+http://medianetto.com/?p=1
+http://medianetto.com/?cat=1
+http://medianetto.com/?p=1#comments
+http://medianetto.com/?m=201903
+http://medianetto.com/wp-login.php
+http://medianetto.com/?feed=rss2
+http://medianetto.com/?p=1#comment-1
+http://medianetto.com/?author=1

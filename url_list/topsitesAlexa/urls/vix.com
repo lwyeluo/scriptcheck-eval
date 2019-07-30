@@ -1,0 +1,10 @@
+http://twitter.com/intent/tweet?text=Maluma+Will+Play+Jennifer+Lopez’s+Cheating+Fiance+In+A+New+Movie%20WidgetInFeedArticle;url=https://www.vix.com/en/movies/531463/maluma-will-play-jennifer-lopezs-cheating-fiance-new-movie?utm_source=Twitter%26utm_medium=WidgetInFeedArticle%26utm_campaign=Sharing&via=Vix_social
+https://www.facebook.com/dialog/share?app_id=1456054171333011&display=popup&href=https://www.vix.com/en/entertainment/531453/celebs-pay-tribute-cameron-boyce?utm_source=Facebook%26utm_medium=WidgetInFeedArticle%26utm_campaign=Sharing
+https://www.vix.com/en/music/531461/reason-why-camila-cabello-stays-social-media-when-shes-writing-music
+https://www.facebook.com/dialog/share?app_id=1456054171333011&display=popup&href=https://www.vix.com/en/music/531461/reason-why-camila-cabello-stays-social-media-when-shes-writing-music?utm_source=Facebook%26utm_medium=WidgetInFeedArticle%26utm_campaign=Sharing
+https://www.vix.com/en/apps-internet/531424/childs-play-what-aubrey-plaza-thinks-technology-and-apps
+http://twitter.com/intent/tweet?text=Everything+You+Need+To+Know+About+'El+Secreto+de+Selena'+%20WidgetInFeedArticle;url=https://www.vix.com/en/tv/531457/everything-you-need-know-about-el-secreto-de-selena?utm_source=Twitter%26utm_medium=WidgetInFeedArticle%26utm_campaign=Sharing&via=Vix_social
+http://twitter.com/intent/tweet?text='Friends'+Is+Leaving+Netflix-+Find+Out+When!%20WidgetInFeedArticle;url=https://www.vix.com/en/friends-is-leaving-netflix--find-out-when?utm_source=Twitter%26utm_medium=WidgetInFeedArticle%26utm_campaign=Sharing&via=Vix_social
+https://www.vix.com/en/relationships/531468/modern-family-star-announces-her-engagement-and-ring-beautiful-photos
+https://www.vix.com/
+https://www.vix.com/en/contact

@@ -1,0 +1,10 @@
+https://biz.censor.net.ua
+https://censor.net.ua/news/3138698/okonchilis_ne_uspev_nachatsya_v_bahmute_chleny_uik_podpisali_blanki_protokolov_dlya_vneseniya_rezultatov
+https://censor.net.ua/register
+https://censor.net.ua/video_news/3138424/nashi_pervye_boi_nachalis_esche_do_togo_kak_eto_ofitsialno_nazvali_ato_i_voyina_byvshiyi_komandir_polka
+https://censor.net.ua/blogs/all/page/1/category/0/interval/5/author/398080/sortby/date
+https://censor.net.ua/resonance/3138434/tehnchna_dopomoga_zelenskomu_abo_hochesh_stati_deputatom_zavedi_v_komsyu_tsivlnu_drujinu#comments
+https://censor.net.ua/video_news/3138424/nashi_pervye_boi_nachalis_esche_do_togo_kak_eto_ofitsialno_nazvali_ato_i_voyina_byvshiyi_komandir_polka#comments
+https://censor.net.ua/news/3138626/jena_pogibshego_geroya_nebesnoyi_sotni_igorya_serdyuka_irina_skonchalas_ot_onkologicheskogo_zabolevaniya
+https://censor.net.ua/theme/366/agressiya_rossii_protiv_ukrainy
+https://www.censor.net.ua/

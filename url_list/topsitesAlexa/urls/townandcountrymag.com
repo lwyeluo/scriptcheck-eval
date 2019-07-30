@@ -1,0 +1,10 @@
+https://www.townandcountrymag.com/stylefashion-trendsa28279423frances-valentine-designer-after-kate-spade-death
+https://www.townandcountrymag.com/stylejewelry-and-watchesa28409777apollo-11-space-inspired-jewelry
+https://www.townandcountrymag.com/
+https://www.townandcountrymag.com/the-sceneparties
+https://www.townandcountrymag.com/leisuretravel-guidea28442230how-to-train-trip-swiss-alps
+https://www.townandcountrymag.com/abouta4397advertise-online
+https://www.townandcountrymag.com/aboutabout-us
+https://www.townandcountrymag.com/leisuredrinks
+https://www.townandcountrymag.com/the-weekly-covet
+https://www.townandcountrymag.com/stylejewelry-and-watchesa28434460marlon-brando-rolex-auction

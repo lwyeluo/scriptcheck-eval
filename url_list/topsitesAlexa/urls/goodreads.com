@@ -1,0 +1,10 @@
+https://www.goodreads.com/workquotes5368741
+https://www.goodreads.com/bookshow1713426.Predictably_Irrational
+https://www.goodreads.com/genreshistory
+https://www.goodreads.com/authorshow3565.Oscar_Wilde
+https://www.goodreads.com/choiceawardsbest-historical-fiction-books-2018
+https://www.goodreads.com/genresromance
+https://www.goodreads.com/genresbusiness
+https://www.goodreads.com/authorshow61105.Dr_Seuss
+https://www.goodreads.com/
+https://www.goodreads.com/genres

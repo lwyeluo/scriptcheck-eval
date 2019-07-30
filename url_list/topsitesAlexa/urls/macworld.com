@@ -1,0 +1,10 @@
+https://www.macworld.com/
+https://www.macworld.com/categorymac-os-x
+https://www.macworld.com/categorydisplays
+https://www.macworld.com/article3384743apple-tv-channels-faq-services-pricing-availability-and-everything-else-you-need-to-know.html
+https://www.macworld.com/categoryinput-stylus
+https://www.macworld.com/categorymp3-players
+https://www.macworld.com/categorysmartwatches
+https://www.macworld.com/article3305584apple-phoneiphone-xr-vs-iphone-xs-max-specs.html
+https://www.macworld.com/categoryentertainment
+https://www.macworld.com/categoryenterprise

@@ -1,0 +1,10 @@
+https://docs.djangoproject.com/en/stable/intro/tutorial01/
+https://docs.djangoproject.com/en/dev/internals/mailing-lists/
+https://www.djangoproject.com/foundation
+https://www.djangoproject.com/fundraising/
+https://docs.djangoproject.com/en/dev/internals/contributing/bugs-and-features/
+https://www.djangoproject.com/download/
+https://docs.djangoproject.com/en/dev/internals/organization/
+https://www.djangoproject.com/
+https://docs.djangoproject.com/en/stable/topics/templates/
+https://www.djangoproject.com/diversity/

@@ -1,0 +1,10 @@
+https://www.fark.com/goto/10496278/www.mirror.co.uk/news/weird-news/dark-side-moon-hides-secret-18336411%3FICID%3Dref_fark
+https://www.fark.com/sports/
+https://www.fark.com/goto/10494608/lifehacker.com/how-to-get-your-cat-to-be-quiet-in-the-morning-1836422209%3Futm_source%3Dfark%26utm_m
+https://www.fark.com/topic/creepy
+https://www.fark.com/goto/10496316
+https://www.fark.com/feedback/error
+https://www.fark.com/
+https://www.fark.com/comments/10496446/Begun-ice-cream-man-turf-war-has
+https://total.fark.com/linkvote/
+https://www.fark.com/goto/10495914/www.nola.com/news/northshore/article_d6ed77d0-aa44-11e9-8dd6-832e18046b45.html%3Futm_source%3Dfark

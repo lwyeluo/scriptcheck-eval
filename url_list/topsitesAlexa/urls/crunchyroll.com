@@ -1,0 +1,10 @@
+https://www.crunchyroll.com/jojos-bizarre-adventure
+https://www.crunchyroll.com/simulcastcalendar
+https://www.crunchyroll.com/devices#firetv
+https://www.crunchyroll.com/userRubyCosmos
+https://www.crunchyroll.com/redeem
+https://www.crunchyroll.com/videosanime
+https://www.crunchyroll.com/
+https://www.crunchyroll.com/forumcategory-1site-news
+https://www.crunchyroll.com/jobs
+https://www.crunchyroll.com/login?next=%2F

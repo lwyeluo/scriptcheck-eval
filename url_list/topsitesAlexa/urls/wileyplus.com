@@ -1,0 +1,10 @@
+https://www.wileyplus.com/instructor-support-training
+https://www.wileyplus.com/success-programs
+https://www.wileyplus.com/WileyCDASectionid-830493.html
+https://www.wileyplus.com/case-studies
+https://www.wileyplus.com/user-login
+https://www.wileyplus.com/instructors
+https://www.wileyplus.com/
+https://www.wileyplus.com/wileyplus
+https://www.wileyplus.com/wiley-etext
+https://www.wileyplus.com/student-register.html

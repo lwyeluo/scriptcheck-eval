@@ -1,0 +1,10 @@
+http://forums.majorgeeks.com/showthread.php?t=35407
+http://www.majorgeeks.com/content/page/majorgeeks_rss_feeds.html
+http://www.majorgeeks.com/files/details/windows_8_codecs.html
+http://www.majorgeeks.com/content/page/what_is_a_portable_file_and_why_you_should_always_use_them.html
+https://www.majorgeeks.com/
+http://forums.majorgeeks.com
+https://www.majorgeeks.com/content/page/how_to_diagnose_streaming_issues_with_amazon_alexa.html
+https://www.majorgeeks.com/content/page/how_to_diagnose_sound_delayslags_and_audio_latency_in_windows_10.html
+https://www.majorgeeks.com/content/page/how_to_clear_browsing_data_when_microsoft_edge_is_closed.html
+http://www.majorgeeks.com/files/details/advanced_x64components.html

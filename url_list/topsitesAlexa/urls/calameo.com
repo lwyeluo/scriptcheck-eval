@@ -1,0 +1,10 @@
+https://www.calameo.com/directory
+https://www.calameo.com/about
+https://developer.calameo.com
+https://www.calameo.com/
+https://www.calameo.com/accountbook
+https://www.calameo.com/privacy
+http://blog.calameo.com/
+https://www.calameo.com/terms
+https://support.calameo.com
+https://www.calameo.com/accountcomment

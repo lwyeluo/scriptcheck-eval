@@ -1,0 +1,10 @@
+https://sellfy.com/privacy/
+https://www.sellfy.com/signup
+http://blog.sellfy.com/getting-started-guide/?ref=footer
+http://docs.sellfy.com/contact
+https://sellfy.com/affiliates/
+https://blog.sellfy.com/
+https://sellfy.com/youtube-money-calculator
+https://sellfy.com/features/
+https://www.sellfy.com/
+https://sellfy.com/signup/

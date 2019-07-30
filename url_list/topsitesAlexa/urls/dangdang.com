@@ -1,0 +1,10 @@
+http://www.dangdang.com/
+http://a.dangdang.com/tjump.php?q=fmqcG5T4MRNuMNfUREf4S4U0ODcvkAknxfrLg47OC%2FrtdN1sDA%2BnybcHCYegvryk58cqls96eb8gmJMNOpBA0bXKUFMDtd89HM4yk0OaVHPtu7RG6%2B4XTeqKpAp8%2B1DIJWg
+http://b2b.dangdang.com
+http://a.dangdang.com/tjump.php?q=fdnriwCDdChLW8QRnbrvSmFcuDcvkAknxfrLg47OC%2FrtdN1sDA%2BnybcHCYegvryk58cX1KMMlmagnwjH6sCXkrJfHVgIfjndmf3T%2BF0uC8SISKk6Y1ww8H9sdVaUfaIHhSa
+http://paimai.dangdang.com/
+http://help.dangdang.com/details/page13
+http://shop.dangdang.com/shangjia
+http://help.dangdang.com/details/page4
+http://help.dangdang.com/details/page24
+http://search.dangdang.com/?key=%BF%BC%D1%D0%B4%F3%B8%D9

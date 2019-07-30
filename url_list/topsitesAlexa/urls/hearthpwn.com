@@ -1,0 +1,10 @@
+https://www.hearthpwn.com/membersDorQuendi
+http://www.hearthpwn.com/news/6803-new-legendary-card-revealed-dinotamer-brann#comments\
+https://www.hearthpwn.com/
+http://www.hearthpwn.com/news/6809-new-hunter-card-revealed-scarlet-webweaver
+https://www.hearthpwn.com/membersxskarma
+https://www.hearthpwn.com/guides2223-journey-to-ungoro-hearthstones-fifth-expansion
+https://www.hearthpwn.com/cards?filter-premium=1&filter-set=108&filter-unreleased=1&display=3
+https://www.hearthpwn.com/cardshero-power?display=3
+https://www.hearthpwn.com/cards?filter-premium=1&filter-set=114&filter-unreleased=1&display=3
+https://www.hearthpwn.com/packs353170-pocket-o-pogos

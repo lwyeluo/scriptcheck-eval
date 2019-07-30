@@ -1,0 +1,10 @@
+https://www.petfinder.com/pet-adoption/other-pet-adoption/
+https://www.petfinder.com/videos
+https://www.petfinder.com/pet-adoption/pet-adoption-information/
+https://www.petfinder.com/dogs/dog-problems/
+https://www.petfinder.com/animal-shelters-and-rescues/fostering-dogs/
+https://www.petfinder.com/pet-adoption/cat-adoption/
+https://www.petfinder.com/privacy-policy/
+https://www.petfinder.com/dogs/dog-nutrition/
+https://www.petfinder.com/pet-adoption/pet-adoption-information/pet-adoption-faqs/
+https://www.petfinder.com/

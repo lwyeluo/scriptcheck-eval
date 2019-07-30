@@ -1,0 +1,10 @@
+https://www.worldmarket.com/categoryfood-and-drinkfoodsnackspopcorn.do
+https://www.worldmarket.com/categorykitchenall.do
+https://www.worldmarket.com/categoryoutdoorbbq.do
+https://www.worldmarket.com/categoryhome-decor-pillowspillowspapasan-chair-cushions-frames.do
+https://www.worldmarket.com/categorysalekitchen.do
+https://www.worldmarket.com/categorydecorator-discount.do
+https://www.worldmarket.com/categoryfurniturehome-office.do?ab=home:21:d:1:katherine
+https://www.worldmarket.com/
+https://www.worldmarket.com/categoryfood-and-drinkinternational-favoritesenglish-food.do
+https://www.worldmarket.com/categoryoutdoordecorcandles.do

@@ -1,0 +1,10 @@
+http://investigacion.ugr.es/pages/hrs4r
+http://ofiweb.ugr.es
+http://csirc.ugr.es
+https://www.ugr.es/servicios/correo-electronico
+https://www.ugr.es/universidadservicios
+http://secretariageneral.ugr.es/bougr/
+https://www.ugr.es/universidadservicioseducaugr
+http://canal.ugr.es
+https://www.ugr.es/personalcorreo-electronico
+https://www.ugr.es/

@@ -1,0 +1,10 @@
+http://www.mtv.com/shows/ridiculousness
+http://www.mtv.com/
+http://www.mtv.com/shows/ex-on-the-beach
+http://www.mtv.com/legal/terms
+http://www.mtv.com/episodes/71c88p/jersey-shore-family-vacation-secaucus-season-2-ep-220
+https://www.mtv.com/
+http://www.mtv.com/video-clips/2yamyn/push-h-e-r--as-i-am
+http://www.mtv.com/news/3130113/booksmart-katie-silberman-interview/
+http://www.mtv.com/legal/frequently-asked-questions
+https://www.mtv.com/shows

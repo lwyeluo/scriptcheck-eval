@@ -1,0 +1,10 @@
+https://www.softpedia.com/get/Others/Finances-Business/Odoo.shtml
+https://www.softpedia.com/
+https://games.softpedia.com/get/Freeware-Games/Gigachess.shtml
+https://www.softpedia.com/hubs/Key-Mapper/
+https://news.softpedia.com/news/monster-jam-steel-titans-review-526503.shtml?utm_campaign=spd_hotlatest&utm_medium=spd_homepage&utm_source=spd_latestrev
+https://news.softpedia.com/news/microsoft-edge-now-lets-users-choose-what-to-delete-on-browser-close-526763.shtml
+https://linux.softpedia.com/get/Programming/Libraries/GLib2-2653.shtml
+https://news.softpedia.com/news/crash-team-racing-nitro-fueled-review-526481.shtml?utm_campaign=spd_hotlatest&utm_medium=spd_homepage&utm_source=spd_latestrev
+https://drivers.softpedia.com/get/SCANNER-Digital-CAMERA-WEBCAM/Panasonic/Panasonic-DC-S1R-Camera-Firmware-1-2.shtml
+https://www.softpedia.com/hubs/Internet-Explorer-Tweaks/

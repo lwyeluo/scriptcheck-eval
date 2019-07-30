@@ -1,0 +1,10 @@
+https://www.michaels.com/senior-discount/article-senior-discount.html
+https://www.michaels.com/product-recalls/ca-recall.html
+https://www.michaels.com/on/demandware.store/Sites-MichaelsUS-Site/default/SiteMap-Start
+https://www.michaels.com/notices/ca-notices.html
+https://www.michaels.com/return-policy/ca-return-policy.html
+https://investors.michaels.com/giving-back
+https://www.michaels.com/shop-categories/kids/807060409
+https://www.michaels.com/shop-categories/seasonal/917605255
+https://www.michaels.com/seasonal/fall/1003275496
+https://www.michaels.com/

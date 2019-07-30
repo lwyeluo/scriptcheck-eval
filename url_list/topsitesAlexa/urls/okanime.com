@@ -1,0 +1,10 @@
+https://www.okanime.com/
+https://www.okanime.com/userssign_up
+https://www.okanime.com/animesmaou-sama-retryepisodesmaou-sama-retry-003-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9
+https://www.okanime.com/animes
+https://www.okanime.com/animes/one-piece/episodes/one-piece-894-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9
+https://www.okanime.com/animesfight-league-gear-gadget-generatorsepisodesfight-league-gear-gadget-generators-023-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9
+https://www.okanime.com/animesknights-of-the-zodiac-saint-seiya-%D8%A3%D9%86%D9%85%D9%8A
+https://www.okanime.com/movies
+https://www.okanime.com/animestokyo-ghoul-%D8%A3%D9%86%D9%85%D9%8A
+https://www.okanime.com/animeskarakai-jouzu-no-takagi-san-2episodeskarakai-jouzu-no-takagi-san-2-002-%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9

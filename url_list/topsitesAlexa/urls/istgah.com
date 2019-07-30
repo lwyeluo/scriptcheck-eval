@@ -1,0 +1,10 @@
+https://www.istgah.com/contactus/
+https://www.istgah.com/fireview/computer/
+https://ipanel.istgah.com/user/login
+https://www.istgah.com
+https://www.istgah.com/
+https://www.istgah.com/province/
+https://ipanel.istgah.com/user/register
+https://www.istgah.com/fireview/jobs/
+https://www.istgah.com/inside/special_ad/
+https://www.istgah.com/fireview/goods/

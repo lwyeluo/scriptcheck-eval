@@ -1,0 +1,10 @@
+https://oglobo.globo.com/cultura/premio-eisner-2019-divulga-premiados-com-brasileira-entre-os-vencedores-23821824
+http://g1.globo.com/rs/rio-grande-do-sul/
+http://g1.globo.com/economia/agronegocios/
+http://globoesporte.globo.com/eu-atleta/
+https://www.globo.com/
+http://gshow.globo.com/novelas/resumo/semana/
+https://globoplay.globo.com/pretty-little-liars-the-perfectionists/p/11560/?origemId=1020&utm_source=gcom&utm_medium=home&utm_campaign=gcom-pirulito2-p&utm_term=pll
+https://globoplay.globo.com/ilha-de-ferro/p/10874/
+http://syfy.globo.com/
+http://fantastico.globo.com/

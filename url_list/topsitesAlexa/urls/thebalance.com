@@ -1,0 +1,10 @@
+https://www.thebalance.com/should-you-pay-off-your-student-loans-or-save-for-a-down-payment-4689486
+https://www.thebalance.com/best-software-as-a-service-investments-4628418
+https://www.thebalance.com/preferred-stock-etf-pros-cons-and-examples-4685919
+https://www.thebalance.com/investing-basics-4073646
+https://www.thebalance.com/legal#cookies
+https://www.thebalance.com/how-do-credit-builder-loans-work-4689159
+https://www.thebalance.com/how-to-retire-on-a-cruise-ship-4589917
+https://www.thebalance.com/investing-in-stocks-4073642
+https://www.thebalance.com/individual-retirement-accounts-4073862
+https://www.thebalance.com/

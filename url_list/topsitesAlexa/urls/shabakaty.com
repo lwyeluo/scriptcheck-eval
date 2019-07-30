@@ -1,0 +1,10 @@
+http://www.shabakaty.com/
+http://shabakaty.com/home/about-us/
+http://shabakaty.com/home/error/
+http://shabakaty.com/home/contact-us/
+http://shabakaty.com/home/all-products/
+http://shabakaty.com/home/servcies/
+http://shabakaty.com/home/author/mohammed/
+http://www.shabakaty.com/homeservciestv
+http://www.shabakaty.com/homeservciesshare
+http://www.shabakaty.com/homeshabakaty-music

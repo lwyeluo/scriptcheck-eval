@@ -1,0 +1,10 @@
+https://www.tradingeconomics.com/francegdp
+https://www.tradingeconomics.com/denmarkgovernment-debt-to-gdp
+https://www.tradingeconomics.com/indiaunemployment-rate
+https://www.tradingeconomics.com/swedengdp-growth-annual
+https://www.tradingeconomics.com/swedenunemployment-rate
+https://www.tradingeconomics.com/canadainflation-cpi
+https://www.tradingeconomics.com/
+https://www.tradingeconomics.com/singaporegdp-growth-annual
+https://www.tradingeconomics.com/malaysiapopulation
+https://www.tradingeconomics.com/germanygovernment-bond-yield

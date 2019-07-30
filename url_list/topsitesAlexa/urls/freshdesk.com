@@ -1,0 +1,10 @@
+https://www.freshdesk.com/
+https://freshdesk.com/features
+https://freshdesk.com/reporting-analytics
+https://www.freshdesk.com/helpdesk-healthcare
+https://www.freshdesk.com/omnichannel-helpdesk
+https://www.freshdesk.com/resources#reports
+https://freshdesk.com/self-service
+https://www.freshdesk.com/resources#presentations
+https://www.freshdesk.com/pl
+https://www.freshdesk.com/es

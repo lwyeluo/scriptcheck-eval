@@ -1,0 +1,10 @@
+https://www.cosmo.ru/fashionhow_to
+https://www.cosmo.ru/cosmoshop
+https://www.cosmo.ru/beautycosmo-testwowbox-cruise12-byuti-sredstv-vsego-za-1490-rubley
+https://www.cosmo.ru/fashion/star_style/vsegda-v-trende-5-stilnyh-obrazov-s-letney-obuvyu-na-vse-sluchai-zhizni/
+https://www.cosmo.ru/horoscope
+https://www.cosmo.ru/healthweight_calc
+https://www.cosmo.ru/lifestyle/stil-zhizni/kogda-dengi-ne-problema-dve-istorii-pro-finansovuyu-svobodu/
+https://www.cosmo.ru/cosmoshopoffer
+https://www.cosmo.ru/
+http://firsttime.2019.cosmo.ru/?utm_source=cosmo.ru&utm_medium=referral&utm_campaign=Dontmiss

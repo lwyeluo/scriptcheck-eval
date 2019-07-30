@@ -1,0 +1,10 @@
+https://www.vanitatis.elconfidencial.com/estilo/ocio/2019-07-21/hotel-palace-suite-experiencias-ava-gardner_2134839/
+https://rss.elconfidencial.com/rss/fb
+https://www.elconfidencial.com/empresas/2019-07-21/redes-sociales-facebook-twitter-mercado-laboral_2094122/
+https://www.elconfidencial.com/empresas/2019-07-21/british-airways-cancela-vuelos-egipto-terrorismo_2136371/
+https://www.elconfidencial.com/www.elconfidencial.commercadosindiceibex35
+https://www.elconfidencial.com/
+https://www.elconfidencial.com/www.elconfidencial.com
+https://www.elconfidencial.com/espana/2019-07-21/sanchez-investidura-rajoy-bloqueo-2016-bloqueo-gobierno_2133003/
+https://www.vanitatis.elconfidencial.com/estilo/moda/2019-07-21/compra-ahora-rebajas-estrena-en-otono_2111119/
+https://rss.elconfidencial.com/cultura/

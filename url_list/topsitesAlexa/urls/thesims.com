@@ -1,0 +1,10 @@
+https://www.thesims.com/gamesthe-simsthe-sims-4-console
+https://www.thesims.com/
+https://www.thesims.com/gamesthe-simsthe-sims-4consolebuy
+https://www.thesims.com/gamesthe-simsthe-sims-freeplay
+https://www.thesims.com/gamesthe-simsthe-sims-4
+https://www.thesims.com/careers
+https://www.thesims.com/gamesthe-simsthe-sims-4pc
+https://www.thesims.com/gamesthe-simsthe-sims-4pcthe-sims-gear
+https://www.thesims.com/gamesthe-simsthe-sims-4consolenewsromantic-garden-console-release
+https://www.thesims.com/gamesthe-simsnewspatch-15179

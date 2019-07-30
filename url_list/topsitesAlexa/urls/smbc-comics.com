@@ -1,0 +1,10 @@
+https://www.smbc-comics.com/smbcforum
+https://www.smbc-comics.com/comic/archive
+https://www.smbc-comics.com/comic/rss
+https://www.smbc-comics.com/
+https://www.smbc-comics.com/hivemill.comproductssmbc-print-pages?&podurl=%2F%2Fwww.smbc-comics.com%2Fcomic%2Fhumility-2
+http://www.smbc-comics.com/smbcforum/viewforum.php?f=40
+https://www.smbc-comics.com/www.smbc-comics.comsmbcforum
+https://www.smbc-comics.com/hivemill.comcollectionssmbc
+https://www.smbc-comics.com/comic/gan
+https://www.smbc-comics.com/www.thehiveworks.com

@@ -1,0 +1,10 @@
+https://www.turnitin.com/partners
+https://www.turnitin.com/resources/source-credibility
+https://www.turnitin.com/productsithenticate
+https://www.turnitin.com/newuser_type.asp?lang=en_us
+https://www.turnitin.com/productsfeedback-studio
+https://www.turnitin.com/solutionsfeedback
+https://www.turnitin.com/
+https://www.turnitin.com/productsrevision-assistant
+https://help.turnitin.com/Privacy_and_Security/Privacy_and_Security.htm#Terms
+https://help.turnitin.com/Privacy_and_Security/Privacy_and_Security.htm#Privacy

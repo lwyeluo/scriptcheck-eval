@@ -1,0 +1,10 @@
+http://www.afzhan.com/product/t2802/list.html
+http://www.afzhan.com/product/t2581/list.html
+http://www.afzhan.com/product/t2530/list.html
+http://www.afzhan.com/st35110/price_11584018.html
+http://www.afzhan.com/st195962/product_11584273.html
+http://www.afzhan.com/product/t0/list_p1_k%E7%9B%91%E6%8E%A7%E9%98%B2%E9%9B%B7.html
+http://www.afzhan.com/news/detail/76404.html
+http://www.afzhan.com/
+http://www.afzhan.com/channel-small/t2536
+http://www.afzhan.com/offer_sale/detail/7368065.html

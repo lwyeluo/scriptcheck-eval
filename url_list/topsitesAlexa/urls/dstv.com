@@ -1,0 +1,10 @@
+https://www.dstv.com/
+https://mzansimagic.dstv.com/show/abomama-bomthandazo
+https://www.dstv.com/www.dstv.com
+https://selfservice.dstv.com/devices/peripherals/dstv-wifi-connector-2/
+http://marketing.dstv.com/DStv/SA/DStv_Newsletter_Premium_Online.html
+https://getdstv.dstv.com/SelectDecoder
+http://campaigns.dstv.com/explora/
+https://onemagic.dstv.com/show/the-river-tshedza
+http://now.dstv.com/
+http://boxoffice.dstv.com/

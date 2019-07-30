@@ -1,0 +1,10 @@
+https://www.tudocelular.com/forummembers252176-bero
+https://www.tudocelular.com/compare
+https://www.tudocelular.com/novos-produtos/noticias/n144371/oppo-k3-lancamento-india.html
+https://www.tudocelular.com/generic.php?n=adv
+https://www.tudocelular.com/android/noticias/n144372/super-descontos-da-semana-20-07-19.html
+https://www.tudocelular.com/
+https://www.tudocelular.com/celularesfichas-tecnicas.html
+https://www.tudocelular.com/forummembers884410-Dyson-Pimentel
+https://www.tudocelular.com/software/noticias/n144128/hongmeng-os-da-huawei.html
+https://www.tudocelular.com/forummembers942855-Mizucwey

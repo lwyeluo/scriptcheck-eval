@@ -1,0 +1,10 @@
+https://www.click-sec.com/corpsitemap
+https://www.click-sec.com/corpcampaign
+https://www.click-sec.com/
+https://www.click-sec.com/corptool
+https://www.click-sec.com/corpkouzaentry
+https://www.click-sec.com/corpguidefxop
+https://www.click-sec.com/corpnewspress20190710-02
+https://faq.click-sec.com/
+https://faq.click-sec.com/?r_navi
+https://www.click-sec.com/corpguideixop?bx-pager

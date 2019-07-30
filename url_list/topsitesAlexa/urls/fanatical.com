@@ -1,0 +1,10 @@
+https://www.fanatical.com/enwishlist
+https://www.fanatical.com/encommunity
+https://www.fanatical.com/encart
+https://www.fanatical.com/entop-sellers
+https://www.fanatical.com/enlatest-deals
+https://www.fanatical.com/enbundle
+https://www.fanatical.com/en
+https://support.fanatical.com/hc/en-us/en
+https://www.fanatical.com/enblog
+https://www.fanatical.com/

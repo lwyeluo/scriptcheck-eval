@@ -1,0 +1,10 @@
+https://www.sporcle.com/gamesbhenderson79reykjavik-isnt-really-near-anything-else
+https://www.sporcle.com/
+https://www.sporcle.com/groupsreporting-problems
+https://www.sporcle.com/groupssporcle-news
+https://www.sporcle.com/livefive
+https://www.sporcle.com/gamescategorytelevision
+https://www.sporcle.com/gamesJohnFrananything-but-european-capitals
+https://www.sporcle.com/playlistsgoc3erase-the-countries-or-states-no-skips-and-or-outlines
+https://www.sporcle.com/gamesskubandont-forget-india
+https://www.sporcle.com/gamesgasia

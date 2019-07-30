@@ -1,0 +1,10 @@
+http://club.sanguosha.com/thread-361028-1-1.html
+http://exhibition.sanguosha.com/
+https://www.sanguosha.com/
+http://club.sanguosha.com/thread-402938-1-5.html
+https://www.sanguosha.com/HomenewsInfoa_id20140611_3340_2619
+https://www.sanguosha.com/detail/20180810_6397_3116.html
+https://www.sanguosha.com/Home/newsList/id/1003
+https://www.sanguosha.com/detail/20140415_1948_1720.html
+https://www.sanguosha.com/HomenewsInfoa_id20190718_6819_1713
+http://club.sanguosha.com/forum.php?mod=viewthread&tid=405855&page=1&extra=#pid8250910

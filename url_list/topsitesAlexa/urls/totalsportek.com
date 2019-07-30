@@ -1,0 +1,10 @@
+https://www.totalsportek.com/money/inter-milan-salaries/
+https://www.totalsportek.com/highlights/liverpool-vs-fc-porto-match/
+https://www.totalsportek.com/highlights/arsenal-vs-manchester-city-match/
+https://www.totalsportek.com/fifa-world-cup/
+https://www.totalsportek.com/money/uefa-champions-league-prize-money/
+https://www.totalsportek.com/
+https://www.totalsportek.com/french-open-live-stream/
+https://www.totalsportek.com/boxing/joshua-vs-whyte-live-stream/
+https://www.totalsportek.com/highlights/newcastle-utd-live-stream/
+https://www.totalsportek.com/highlights/bundesliga/

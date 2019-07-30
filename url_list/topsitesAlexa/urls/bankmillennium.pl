@@ -1,0 +1,10 @@
+https://www.bankmillennium.pl/prestige
+https://www.bankmillennium.pl/bankowosc-prywatna
+https://www.bankmillennium.pl/o-bankukim-jestesmy
+https://www.bankmillennium.pl/
+https://www.bankmillennium.pl/klienci-indywidualni/produkty
+https://www.bankmillennium.pl/klienci-indywidualni/produkty-oszczednosciowe/aukcje
+https://www.bankmillennium.pl/klienci-indywidualni/wsparcie/notowania-millennium-tfi
+https://www.bankmillennium.pl/klienci-indywidualni/karty-platnicze
+https://www.bankmillennium.pl/bankowosc-elektroniczna/doladowanie-telefonu
+https://www.bankmillennium.pl/o-banku/o-banku/fatca

@@ -1,0 +1,10 @@
+http://dominos.com.mx/
+http://www.dominos.com.my/
+http://www.dominos.com.co/
+http://www.dominos.com.gt/
+http://www.dominos.com.eg/
+http://www.dominos.com.kh/
+http://www.dominos.com.tr/
+https://www.dominos.com/
+http://www.dominos.com.py/
+http://www.dominos.com.lb/

@@ -1,0 +1,10 @@
+https://www.voanews.com/
+https://gr.voanews.com
+https://www.voanews.com/usa
+https://mk.voanews.com
+https://ukrainian.voanews.com
+https://www.voanews.com/usaus-politicsfact-check-trump-and-democrats-incendiary-week
+https://www.voanews.com/extremism-watchpakistan-us-take-action-against-militants-ahead-trump-khan-meeting
+https://www.voanews.com/south-central-asia
+https://amharic.voanews.com
+https://www.voanews.com/episodepakistans-prime-minister-heads-white-house-3962421

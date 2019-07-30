@@ -1,0 +1,10 @@
+https://www.expediapartnercentral.com/Account/Logon/TermsOfUse
+https://www.expediapartnercentral.com/Account/Logon/TermsOfUseth
+https://www.expediapartnercentral.com/Account/Logon/TermsOfUsepl
+https://www.expediapartnercentral.com/Account/Logon/TermsOfUsees
+https://www.expediapartnercentral.com/Account/Logon/TermsOfUsede
+https://www.expediapartnercentral.com/
+https://www.expediapartnercentral.com/AccountReset
+https://apps.expediapartnercentral.com/lodging/finance/evclookuptool.html?lang=zh_CN
+https://www.expediapartnercentral.com/lodging/sso/sign-in/saml/okta
+https://apps.expediapartnercentral.com/lodging/help/contactus.html

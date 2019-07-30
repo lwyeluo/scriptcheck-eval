@@ -1,0 +1,10 @@
+https://www.kroger.com/fbig-packs
+https://www.kroger.com/list
+https://www.kroger.com/dhousehold
+https://www.kroger.com/privacypolicy
+https://www.kroger.com/topicdigital-coupons-policy
+https://www.kroger.com/bsimpletruth
+https://www.kroger.com/dmeat-seafood
+https://giftcards.kroger.com
+https://www.kroger.com/fsummer-shop
+https://www.kroger.com/

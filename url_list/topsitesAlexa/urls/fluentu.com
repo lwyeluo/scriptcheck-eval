@@ -1,0 +1,10 @@
+https://www.fluentu.com/
+https://www.fluentu.com/www.fluentu.comblogenglish-jpn
+https://www.fluentu.com/www.fluentu.comkoenglish
+https://www.fluentu.com/www.fluentu.comjaenglish
+https://www.fluentu.com/www.fluentu.comblog
+https://www.fluentu.com/www.fluentu.comtoeicblog
+https://www.fluentu.com/www.fluentu.comportugueseblog
+https://www.fluentu.com/www.fluentu.comkorean
+https://www.fluentu.com/www.fluentu.comprivacy
+https://www.fluentu.com/www.fluentu.comitalian

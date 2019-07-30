@@ -1,0 +1,10 @@
+https://www.theathletic.com/fantasy-hockey
+https://theathletic.com/pittsburgh/
+https://www.theathletic.com/
+https://www.theathletic.com/teamcowboys
+https://theathletic.com/dc/
+https://theathletic.com/edmonton/
+https://www.theathletic.com/teampredators
+https://www.theathletic.com/redeem?source=footer
+https://www.theathletic.com/teamraiders
+https://www.theathletic.com/teamcrew

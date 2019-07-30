@@ -1,0 +1,10 @@
+https://www.asahi.com/and_travel/20190717/115144/?iref=comtop_list_andtravel_t
+https://www.asahi.com/news/plusd.html?ChTab=Digital
+https://www.asahi.com/edulist?iref=comtop_list_edu_p
+http://www.asahi.com/sns/reporter/?iref=com_rnavi
+http://www.asahi.com/msta/?iref=comtop_gnavi
+https://www.asahi.com/articlesASM7B6FB9M7BUEHF00H.html?iref=comtop_list_sci_n04
+https://www.asahi.com/gallery/photo/tech-science/plastic/20190517/?iref=comtop_rnavi_photo_n08
+http://www.asahi.com/culture/history/?iref=comtop_gnavi
+http://www.asahi.com/sports/golf/?iref=comtop_gnavi
+https://www.asahi.com/

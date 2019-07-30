@@ -1,0 +1,10 @@
+https://www.spanishdict.com/translate%C2%A1Hasta%20la%20vista!
+https://www.spanishdict.com/
+https://www.spanishdict.com/translateI%20miss%20you
+https://www.spanishdict.com/wordoftheday
+https://www.spanishdict.com/guidedates-in-spanish
+https://www.spanishdict.com/translate%C2%BFQu%C3%A9%20pasa%3F
+https://www.spanishdict.com/companyprivacy
+https://www.spanishdict.com/translateBuenos%20d%C3%ADas
+https://www.spanishdict.com/translateThank%20you
+https://www.spanishdict.com/translateel%20bacalao

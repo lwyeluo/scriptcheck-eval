@@ -1,0 +1,10 @@
+http://partners.svpressa.ru/people/
+https://www.svpressa.ru/blogs
+https://www.svpressa.ru/experts
+http://www.facebook.com/svpressa.ru
+https://www.svpressa.ru/economyarticle238405?rpop=1
+https://www.svpressa.ru/societyphoto238551?fotd=1
+https://www.svpressa.ru/accidentsnews238550
+https://www.svpressa.ru/authors
+https://www.svpressa.ru/
+https://svpressa.ru/economy/news/238372/?notd=1

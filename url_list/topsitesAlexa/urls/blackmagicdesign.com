@@ -1,0 +1,10 @@
+https://www.blackmagicdesign.com/products#atem-live-production-switchers
+https://www.blackmagicdesign.com/productsteranexmini8k
+https://www.blackmagicdesign.com/supportcontactphone
+https://www.blackmagicdesign.com/products#capture-and-playback
+https://www.blackmagicdesign.com/products#ultimatte
+https://www.blackmagicdesign.com/mx
+https://www.blackmagicdesign.com/mediarelease20190620-01
+https://www.blackmagicdesign.com/productsblackmagicmultidock
+https://www.blackmagicdesign.com/
+https://www.blackmagicdesign.com/productsdavinciresolve

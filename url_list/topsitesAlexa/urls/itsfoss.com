@@ -1,0 +1,10 @@
+https://itsfoss.com/all-blog-posts/
+https://itsfoss.com/category/news/
+https://www.itsfoss.com/
+https://itsfoss.com/subscribe-to-newsletter/
+https://itsfoss.com/quantum-computing-cirq-framework/
+https://itsfoss.com/netflix-freebsd-cdn/
+https://itsfoss.com/ubuntu-18-10-reaches-end-of-life/
+https://itsfoss.com/its-foss-team/
+https://itsfoss.com/use-bleachbit-ubuntu/
+https://itsfoss.com/transatomic-open-source/

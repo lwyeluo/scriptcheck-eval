@@ -1,0 +1,10 @@
+https://www.rueconomics.ru/401438-noveishie-tekhnologii-rossii-ostavili-amerikanskii-giperzvuk-v-proshlom-veke
+https://www.rueconomics.ru/regionspb
+https://www.rueconomics.ru/401688-gubernator-irkutskoi-oblasti-ocenil-stoimost-i-sroki-vosstanovleniya-damb
+https://www.rueconomics.ru/401680-kafelnikov-vyskazalsya-o-svoem-vklyuchenii-v-zal-tennisnoi-slavy
+https://www.rueconomics.ru/401696-avtoeksperty-rasskazali-kak-izbezhat-pokupki-bitogo-avto
+https://www.rueconomics.ru/categoryinosmi
+https://www.rueconomics.ru/regionmsk
+https://www.rueconomics.ru/
+https://www.rueconomics.ru/regionmsk401670-zhitelyam-stolichnogo-regiona-poobeshali-izmenenie-pogody
+https://www.rueconomics.ru/401664-liberaly-priznali-proigrysh-v-informacionnoi-voine-ne-pustiv-vse-smi-na-miting

@@ -1,0 +1,10 @@
+https://www.imgbox.com/privacy
+https://www.imgbox.com/
+https://www.imgbox.com/privacylogin
+https://www.imgbox.com/dmca
+https://www.imgbox.com/privacydmca
+https://www.imgbox.com/login
+https://www.imgbox.com/register
+https://www.imgbox.com/privacyregister
+https://www.imgbox.com/help
+https://www.imgbox.com/tos

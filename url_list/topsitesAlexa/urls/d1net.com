@@ -1,0 +1,10 @@
+http://www.d1net.com/
+http://www.d1net.com/news/hydt/559143.html
+http://www.d1net.com/cio/cionews/479628.html
+http://www.d1net.com/uc/news/558952.html
+http://ccs.d1net.com/
+http://www.d1net.com/em-app/news/515979.html
+http://award.d1net.com
+http://www.d1net.com/voip/news/540375.html
+http://event.d1net.com/cioc2019/
+http://www.d1net.com/software/vendor/559152.html

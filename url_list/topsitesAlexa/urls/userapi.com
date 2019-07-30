@@ -1,0 +1,10 @@
+https://userapi.com/ads
+https://userapi.com/jobs
+https://userapi.com/terms
+https://userapi.com/
+https://userapi.com/dev
+https://userapi.com/products
+https://userapi.com/support?act=home
+https://userapi.com/restore
+https://userapi.com/join
+https://userapi.com/about

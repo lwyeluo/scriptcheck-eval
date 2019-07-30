@@ -1,0 +1,10 @@
+https://www.digikala.com/searchcategory-mineral-water
+https://www.digikala.com/searchcategory-camcorder
+https://www.digikala.com/
+https://www.digikala.com/searchcategory-copper-products
+https://www.digikala.com/searchcategory-cable-voice-video
+https://www.digikala.com/searchcategory-sugar-cube
+https://www.digikala.com/searchcategory-sleeping
+https://www.digikala.com/main/food-beverage/?bCode=6751
+https://www.digikala.com/searchcategory-watercloset
+https://www.digikala.com/searchcategory-safety-tools

@@ -1,0 +1,10 @@
+https://www.thedelite.com/category/animals/
+https://twitter.com/intent/tweet?status=http://The%20Delite%20|%20The%20Brighter%20Side%20Of%20News%20-%20https://www.thedelite.com/
+https://www.thedelite.com/the-best-actors-in-hollywood-history/
+https://www.thedelite.com/the-most-epic-sports-rivalries/
+https://www.thedelite.com/tom-bradys-best-teammates-ranked/
+https://www.thedelite.com/category/home/
+https://www.thedelite.com/
+https://www.thedelite.com/athletes-from-other-sports-who-tried-their-luck-at-mma/
+https://www.thedelite.com/mid-action-sports-photos-captured-at-just-the-right-moment/
+https://www.thedelite.com/author/claire-gillespie/

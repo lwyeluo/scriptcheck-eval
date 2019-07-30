@@ -1,0 +1,10 @@
+https://www.srf.ch/newsschweizschweizer-reisekasse-preiswerte-ferien-fuer-wirtschaftlich-benachteiligte
+https://www.srf.ch/sendungeneusilandchuchipudding-sauvage-mit-kaesesauce-und-salzkartoffeln
+https://www.srf.ch/livestreamplayersrf-info
+https://www.srf.ch/meteowetterzuerich47.3797,8.5342?date=2019-07-21
+https://www.srf.ch/kulturgesellschaft-religionwochenende-gesellschaftbig-zis-auf-der-alp-eine-rapperin-im-reich-der-rinder
+https://www.srf.ch/
+https://www.srf.ch/meteowarnungen
+https://www.srf.ch/meteowetterlugano46.0050,8.9510?date=2019-07-21
+https://www.srf.ch/radio-srf-musikwelleradio-srf-musikwellelioba-lio-o-ba-ranz-des-vaches-die-winzerfest-hymne
+https://www.srf.ch/radio-srf-musikwelleradio-srf-musikwellefete-des-vignerons-auf-ans-winzerfest

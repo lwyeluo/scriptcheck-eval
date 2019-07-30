@@ -1,0 +1,10 @@
+http://www.ngs.ru/
+http://www.ngs.ru/more66154522
+http://www.ngs.ru/more66166786
+http://www.ngs.ru/comments66167875
+http://www.ngs.ru/sport
+http://www.ngs.ru/comments66167452
+http://www.ngs.ru/more66167971
+http://www.ngs.ru/theme1731?
+http://www.ngs.ru/more66166486
+http://www.ngs.ru/comments66166924

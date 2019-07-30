@@ -1,0 +1,10 @@
+https://www.looperman.com/users/profile/1395787
+https://www.looperman.com/free-music-software/detail/nick-crow-7170-lead
+https://www.looperman.com/users/profile/3297406
+https://www.looperman.com/
+https://www.looperman.com/forum/thread/191714/rip-ranking-roger-of-the-beat#comments
+https://www.looperman.com/help/contact
+https://www.looperman.com/forum/thread/192448/anyone-trying-to-collab-on-a-beat#comments
+https://www.looperman.com/free-music-softwareosbest-free-mac-64bit-vst-vsti-au-plugins-instruments-software
+https://www.looperman.com/help/sponsors
+https://www.looperman.com/forum/thread/192408/looking-to-start-a-collective-of-artists-and-producers

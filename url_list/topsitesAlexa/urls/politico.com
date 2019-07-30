@@ -1,0 +1,10 @@
+https://www.politico.com/story/2019/07/18/trump-officials-refugee-zero-1603503
+https://www.politico.com/staff/nahal-toosi
+https://www.politico.com/staff/heather-caygle
+https://www.politico.com/story/2019/07/18/house-impeachment-pelosi-1422347
+https://www.politico.com/magazine/tag/fourth-estate
+https://www.politico.com/white-house
+https://www.politico.com/ehealth
+https://www.politico.com/staff/bryan-bender
+https://www.politico.com/staff/ian-kullgren
+https://www.politico.com/

@@ -1,0 +1,10 @@
+https://www.a10.com/gamescar
+https://www.a10.com/gameskilling
+https://www.a10.com/gamesboys
+https://www.a10.com/games{url}
+https://www.a10.com/
+https://www.a10.com/gamesaction
+https://www.a10.com/gamespuzzle
+https://www.a10.com/privacy-policy-kids-parents
+https://www.a10.com/gamesfunny
+https://www.a10.com/terms-of-use

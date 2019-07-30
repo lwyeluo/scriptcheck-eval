@@ -1,0 +1,10 @@
+http://hongxiangshu.chinamenwang.com/
+http://zcsx.chinamenwang.com/
+http://sinpolo.chinamenwang.com/agent/
+http://www.chinamenwang.com/product/262331.html
+http://zyingmc.chinamenwang.com/
+http://holly25.chinamenwang.com/
+http://www.chinamenwang.com/product/222473.html
+http://zhuoma.chinamenwang.com/
+http://www.chinamenwang.com/group/about/lxwm.shtml
+http://www.chinamenwang.com/

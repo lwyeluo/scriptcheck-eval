@@ -1,0 +1,10 @@
+https://www.zappos.com/clarksWgKQAuICAQs.zso
+https://www.zappos.com/brand632
+https://www.zappos.com/cmerrell-lookbook
+https://www.zappos.com/crewards_visa?pf_rd_r=CCDB430316894F89B618&pf_rd_p=e1affa6b-3d2d-4500-bdf4-16d797ba2acb
+https://www.zappos.com/
+https://www.zappos.com/women-shoesCK_XAcABAeICAgEY.zso
+https://www.zappos.com/men-t-shirtsCKvXARDL1wEY4tcBwAEC4gIEAQIDGA.zso
+https://www.zappos.com/cprop65
+https://www.zappos.com/nullOgLvFeICAQc.zso
+https://www.zappos.com/accessoriesCOfWAeABAeICAgEc.zso

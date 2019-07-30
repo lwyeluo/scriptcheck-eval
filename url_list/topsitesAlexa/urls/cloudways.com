@@ -1,0 +1,10 @@
+https://www.cloudways.com/en/terms.php
+https://www.cloudways.com/en/magento-managed-cloud-hosting.php
+http://status.cloudways.com/
+https://www.cloudways.com/en/cloudwaysbot.php
+https://platform.cloudways.com/signup
+https://www.cloudways.com/en/sitemap.php
+https://www.cloudways.com/blog/updates/
+https://www.cloudways.com/enwordpress-cloud-hosting.php
+https://www.cloudways.com/
+https://www.cloudways.com/en/

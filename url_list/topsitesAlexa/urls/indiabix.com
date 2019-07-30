@@ -1,0 +1,10 @@
+https://www.indiabix.com/body-languagegestures
+https://www.indiabix.com/puzzlesclock-puzzles
+https://www.indiabix.com/puzzlesnumber-puzzles
+https://www.indiabix.com/verbal-reasoningquestions-and-answers
+https://www.indiabix.com/
+https://www.indiabix.com/technicaldata-structures
+https://www.indiabix.com/interview
+https://www.indiabix.com/technicalcthe-c-language-basics
+https://www.indiabix.com/general-knowledgeinventions
+https://www.indiabix.com/engineering

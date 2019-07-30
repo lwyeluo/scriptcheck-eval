@@ -1,0 +1,10 @@
+https://www.criteo.com/insightsformatblog
+https://www.criteo.com/login/
+https://www.criteo.com/privacy/
+https://www.criteo.com/solutions
+https://www.criteo.com/ru/
+https://www.criteo.com/pl/
+https://www.criteo.com/products/criteo-audience-match/
+https://www.criteo.com/digital-marketing-reports
+https://www.criteo.com/success-stories/soft-surroundings/
+https://www.criteo.com/

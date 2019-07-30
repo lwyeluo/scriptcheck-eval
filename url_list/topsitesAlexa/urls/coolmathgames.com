@@ -1,0 +1,10 @@
+https://www.coolmathgames.com/0-4-in-a-row
+https://www.coolmathgames.com/
+https://www.coolmathgames.com/0-coffee-shop
+https://www.coolmathgames.com/1-memory-games
+https://www.coolmathgames.com/1-new-games
+https://www.coolmathgames.com/1-strategy-games
+https://www.coolmathgames.com/0-candy-jump
+https://www.coolmathgames.com/0-hangman
+https://www.coolmathgames.com/about-us
+https://www.coolmathgames.com/0-duck-life

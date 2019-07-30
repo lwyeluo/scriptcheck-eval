@@ -1,0 +1,10 @@
+https://www.yatra.com/online/sell-your-activities
+https://www.yatra.com/career/minutes-of-the-call
+https://www.yatra.com/bus-operators-india/msrtc
+https://www.yatra.com/bus-operators-india/apsrtc
+https://www.yatra.com/business
+https://www.yatra.com/
+https://www.yatra.com/online/list-your-bus-inventory
+https://www.yatra.com/www.yatra.comdomestic-airlinesgo-air-airlines.html
+https://www.yatra.com/itunes.apple.cominappyatra.comid730234679
+https://www.yatra.com/www.yatra.comairlinesflight-status

@@ -1,0 +1,10 @@
+https://www.tass.ru/nedvizhimost
+https://www.tass.ru/
+https://www.tass.ru/rynki
+https://tass.ru/press-relizy
+https://www.tass.ru/obschestvo6682961
+https://www.tass.ru/parlamentskie-vybory-na-ukraine-2019
+https://www.tass.ru/obrazovanie
+https://www.tass.ru/proisshestviya
+https://academy.tass.ru
+https://www.tass.ru/specialprojects

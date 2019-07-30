@@ -1,0 +1,10 @@
+http://9tv.co.il/news/2019/07/18/272806.html
+http://9tv.co.il/news/2019/07/06/272357.html
+https://www.9tv.co.il/newsworld
+http://9tv.co.il/news/2019/07/13/272606.html
+https://9tv.co.il/regulations/contacts-eng.html
+http://9tv.co.il/video/2019/07/13/79720.html
+https://www.9tv.co.il/
+http://9tv.co.il/news/2019/07/15/272703.html
+https://www.9tv.co.il/videotoday
+https://www.9tv.co.il/videozapovednik

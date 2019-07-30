@@ -1,0 +1,10 @@
+http://www.vsetv.com/schedule_sport.html
+http://www.vsetv.com/schedule_kids.html
+http://www.vsetv.com/enc_cinema.html
+http://www.vsetv.com/
+http://www.vsetv.com/feedback.php
+http://www.vsetv.com/tvevents.html
+http://www.vsetv.com/schedule_series.html
+http://www.vsetv.com/enc_series.html
+http://www.vsetv.com/schedule_films.html
+http://www.vsetv.com/vacancies.php

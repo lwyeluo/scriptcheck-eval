@@ -1,0 +1,10 @@
+https://demotywatory.pl/demotivator/vote/4938099/up
+https://www.demotywatory.pl/4938180Tak-teraz-wyglada-dach-katedry-Notre-Dame
+https://www.demotywatory.pl/4937838
+https://www.demotywatory.pl/userArnau
+http://stylowi.pl/dodaj?page_url=http%3A%2F%2Fdemotywatory.pl%2F4938194%2F15-interesujacych-przypadkow-ludzi-ktorzy-odnalezli-swoich-sobowtorow&url=http%3A%2F%2Fdemotywatory.pl%2Fuploads%2F201907%2F1563615799_gkif40_600.jpg&utm_source=demotywatory&utm_medium=addbutton
+https://www.demotywatory.pl/userwojtka
+https://demotywatory.pl/4938179#comments
+https://www.demotywatory.pl/
+http://stylowi.pl/dodaj?page_url=http%3A%2F%2Fdemotywatory.pl%2F4938175%2F70-letni-emeryt-z-Rosji-postanowil-nauczyc-sie-programowania&url=http%3A%2F%2Fdemotywatory.pl%2Fuploads%2F201907%2F1563610578_6ojiob_600.jpg&utm_source=demotywatory&utm_medium=addbutton
+https://demotywatory.pl/page/2

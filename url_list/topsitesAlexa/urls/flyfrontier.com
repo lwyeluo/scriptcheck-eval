@@ -1,0 +1,10 @@
+https://www.flyfrontier.com/travel/travel-info/seating-options/
+https://www.flyfrontier.com/manage-travel/confirmation-code
+https://www.flyfrontier.com/accessibility/
+https://www.flyfrontier.com/travel/travel-info/bag-options/
+https://www.flyfrontier.com/ways-to-save/online-deals/
+https://www.flyfrontier.com/deals/flight-sales/
+https://www.flyfrontier.com/myfrontier/
+https://www.flyfrontier.com/contact-us/
+https://faq.flyfrontier.com/help
+https://www.flyfrontier.com/

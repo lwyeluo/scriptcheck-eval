@@ -1,0 +1,10 @@
+https://www.rosbalt.ru/world201907201793147.html
+https://www.rosbalt.ru/world201907211793216.html
+https://www.rosbalt.ru/world201907201793146.html
+https://www.rosbalt.ru/business201907191793113.html
+https://www.rosbalt.ru/russia201907191793127.html
+https://www.rosbalt.ru/russia201907201793198.html
+https://www.rosbalt.ru/photobankgallery552
+https://www.rosbalt.ru/
+https://www.rosbalt.ru/theme177
+https://www.rosbalt.ru/blogs201907161792493.html

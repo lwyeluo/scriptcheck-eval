@@ -1,0 +1,10 @@
+https://www.animoto.com/makecooking-videos
+https://www.animoto.com/sign_up
+https://www.animoto.com/business
+https://www.animoto.com/businessecommerce-video-marketing
+https://www.animoto.com/aboutpress
+https://help.animoto.com
+https://www.animoto.com/featurestext-on-video
+https://www.animoto.com/social-mediafacebook-video-maker
+https://www.animoto.com/makeslideshow-video
+https://www.animoto.com/

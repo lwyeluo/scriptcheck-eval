@@ -1,0 +1,10 @@
+https://alain.dubizzle.com/classified/
+https://abudhabi.dubizzle.com/
+https://uaq.dubizzle.com/
+https://alain.dubizzle.com/motors/used-cars/
+https://dubai.dubizzle.com/classified/
+https://rak.dubizzle.com/en/property-for-rent/residential/apartmentflat/
+https://rak.dubizzle.com/en/property-for-rent/residential/villahouse/
+https://rak.dubizzle.com/motors/used-cars/
+https://uaq.dubizzle.com/en/property-for-rent/residential/apartmentflat/
+https://www.dubizzle.com/

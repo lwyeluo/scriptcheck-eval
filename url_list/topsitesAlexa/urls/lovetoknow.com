@@ -1,0 +1,10 @@
+https://toys.lovetoknow.com/Main_Page
+https://dance.lovetoknow.com/Main_Page
+https://cheerleading.lovetoknow.com/Main_Page
+https://skincare.lovetoknow.com/How_to_Get_Rid_of_Scars_Naturally
+https://www.lovetoknow.com/
+https://french.lovetoknow.com/Main_Page
+https://insurance.lovetoknow.com/Main_Page
+https://kids.lovetoknow.com/wiki/Pranks_to_Pull_at_Summer_Camps
+https://horses.lovetoknow.com/
+https://safety.lovetoknow.com/Main_Page

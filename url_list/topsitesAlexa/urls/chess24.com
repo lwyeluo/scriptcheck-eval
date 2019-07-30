@@ -1,0 +1,10 @@
+https://www.chess24.com/enlearnschool
+https://www.chess24.com/enstaticabout
+https://www.chess24.com/enlearnvideoseries
+https://www.chess24.com/enreadnews.rss
+https://www.chess24.com/enplayleaderboard
+https://www.chess24.com/
+https://www.chess24.com/enstaticterms-and-conditions
+https://www.chess24.com/enregister
+https://www.chess24.com/enreadglossary
+https://support.chess24.com/hc/en-us

@@ -1,0 +1,10 @@
+https://www.g2a.com/
+https://www.g2a.com/category/all?min_price%5Bmax%5D=1
+https://www.g2a.com/categorypersonal-development-c860
+https://www.g2a.com/categoryconsole-and-accessories-c1284
+https://www.g2a.com/category/cables-c1431?banner=m3
+https://www.g2a.com/categorygaming-chairs-c1494
+https://www.g2a.com/categorysmartphones-c1372
+https://www.g2a.com/categoryt-shirts-c1344
+https://www.g2a.com/category/games-c189?gaming_genre%5B18%5D=462
+https://www.g2a.com/categoryhealth-c802

@@ -1,0 +1,10 @@
+https://www.babycenter.com/pregnancy-weight-gain-estimator
+https://www.babycenter.com/sex-during-pregnancy-overview
+https://www.babycenter.com/mission-motherhood
+https://www.babycenter.com/presscenter
+https://www.babycenter.com/big-kid
+https://www.babycenter.com/
+https://www.babycenter.com.au/
+https://www.babycenter.com/18-weeks-pregnant
+https://www.babycenter.com/is-it-safe
+https://www.babycenter.com/getting-pregnant

@@ -1,0 +1,10 @@
+https://www.allmusic.com/style/ambient-techno-ma0000012032
+https://www.allmusic.com/
+https://www.allmusic.com/genreblues-ma0000002467
+https://www.allmusic.com/about
+https://www.allmusic.com/albumthe-quiet-temple-mw0003278981
+https://www.allmusic.com/artist/tony-molina-mn0000197797
+https://www.allmusic.com/artist/brian-eno-mn0000617196
+https://www.allmusic.com/blogpostlou-barlow-sebadoh-interview
+https://www.allmusic.com/blogpostalbum-premiere-coldswell
+https://www.allmusic.com/faq

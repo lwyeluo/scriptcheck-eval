@@ -1,0 +1,10 @@
+http://www.spletnik.ru/blogs/chto_chitaem
+http://www.spletnik.ru/twitter/justinbieber
+http://www.spletnik.ru/culture/cinema
+http://www.spletnik.ru/buzz/interview1/91050-sheron-stoun-kak-perezhila-insult.html
+http://www.spletnik.ru/buzz/baby
+http://www.spletnik.ru/buzz/chronicle/91030-selma-bler-s-sklerozom-stalo-khuzhe.html
+http://www.spletnik.ru/look/editorial
+https://www.spletnik.ru/
+http://www.spletnik.ru/beauty/na-lichnom-opyte
+http://www.spletnik.ru/instagram/sasha_savelieva

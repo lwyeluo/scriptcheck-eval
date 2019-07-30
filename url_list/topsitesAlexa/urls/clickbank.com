@@ -1,0 +1,10 @@
+https://www.clickbank.com/product-category/e-business-e-marketing/
+https://www.clickbank.com/product-category/health-fitness/remedies/
+https://www.clickbank.com/product-category/mobile/developer-tools/
+https://www.clickbank.com/product-category/games/
+https://www.clickbank.com/product-category/self-help/self-defense/
+https://www.clickbank.com/product-category/employment-jobs/job-search-guides/
+https://www.clickbank.com/product-category/travel/specialty-travel/
+https://www.clickbank.com/
+https://www.clickbank.com/product-category/languages/arabic/
+https://support.clickbank.com/hc/sections/204406607-Policies

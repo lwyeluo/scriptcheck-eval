@@ -1,0 +1,10 @@
+https://www.haberler.com/volvo-yarim-milyon-aracini-geri-cagirdi-12264229-haberi/
+https://www.haberler.com/duvara-carpan-otomobilin-kaza-ani-arac-kamerasinda-12263726-haberi/
+https://www.haberler.com/sozcu-gazetesi
+https://sondakika.haberler.com/
+https://www.haberler.com/son-dakika-abd-den-pompeo-cavusoglu-gorusmesi-12264148-haberi/
+https://www.haberler.com/izine-150-yil-sonra-tekrar-rastlanan-bitki-icin-12264941-haberi
+https://www.haberler.com/gerard-pique-trabzonspor-un-paylasimini-begendi-12263552-haberi/
+https://www.haberler.com/ukrayna-sandik-basinda-2-12264938-haberi
+https://www.haberler.com/magazin/
+https://www.haberler.com/

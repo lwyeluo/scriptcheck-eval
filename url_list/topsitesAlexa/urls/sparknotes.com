@@ -1,0 +1,10 @@
+https://www.sparknotes.com/blog/18-more-classic-novels-summed-up-in-satirical-headlines/
+https://www.sparknotes.com/
+https://www.sparknotes.com/litmocking
+https://www.sparknotes.com/blog/quiz-is-this-a-pride-and-prejudice-quote-or-a-lana-del-rey-lyric/
+https://www.sparknotes.com/blog/quiz-is-this-a-celebrity-baby-name-or-a-character-from-shakespeare/
+https://www.sparknotes.com/blog/the-6-most-unreliable-narrators-in-literature/
+https://www.sparknotes.com/blog/8-movie-adaptations-made-by-people-who-apparently-didnt-read-the-book/
+https://www.sparknotes.com/blog/summer-reading/
+https://www.sparknotes.com/contact
+https://www.sparknotes.com/blog/27-of-the-funniest-literary-memes-on-twitter/

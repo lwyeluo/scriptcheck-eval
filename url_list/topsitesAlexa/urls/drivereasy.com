@@ -1,0 +1,10 @@
+https://www.drivereasy.com/customer-survey/
+https://www.drivereasy.com/DriverEasy_Setup.exe
+https://www.drivereasy.com/tour/
+https://www.drivereasy.com/about-us/
+https://www.drivereasy.com/privacy-policy
+https://www.drivereasy.com/goto/ja.php
+https://www.drivereasy.com/goto/en.php
+https://www.drivereasy.com/
+https://www.drivereasy.com/privacy-policy/
+https://www.drivereasy.com/why-choose-us/

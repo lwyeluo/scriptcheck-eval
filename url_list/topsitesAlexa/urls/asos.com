@@ -1,0 +1,10 @@
+https://www.asos.com/women/face-body/cat/?cid=1314&nlid=ww|face+%2B+body|shop+by+product
+https://www.asos.com/
+https://www.asos.com/women/sale/dresses/cat/?cid=5235&nlid=ww|sale|shop+sale+by+product
+https://www.asos.com/men/new-in/living-gifts/cat/?cid=28352&nlid=mw|living+%2B+gifts|shop+gifts
+https://www.asos.com/women/ctas/fashion-online-1/cat/?cid=13489&nlid=ww|new+in|new+edits
+https://www.asos.com/men/sale/suits-tailoring/cat/?cid=8134&nlid=mw|sale|shop+sale+by+product
+https://www.asos.com/women/gifts-for-her/cat/?cid=16095&nlid=mw|living+%2B+gifts|shop+gifts
+https://www.asos.com/women/petite/new-in/cat/?cid=8349&nlid=ww|new+in|shop+by+range
+https://www.asos.com/women/activewear/leggings/cat/?cid=27163&nlid=ww|activewear|shop+by+product
+https://www.asos.com/men/outlet/sunglasses/cat/?cid=27442&nlid=mw|outlet|shop+by+product

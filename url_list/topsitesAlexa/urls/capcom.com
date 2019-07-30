@@ -1,0 +1,10 @@
+http://www.e-capcom.com/
+http://megaman.capcom.com
+https://www.capcom.com.tw/news/newsview/2891
+http://store.capcom.com
+https://www.capcom.com.tw/news/newsview/4451
+http://www.asia.capcom.com/
+http://www.capcom.com/us
+http://www.capcom.com/us/
+http://www.capcom.com/
+http://www.capcom.com.tw/

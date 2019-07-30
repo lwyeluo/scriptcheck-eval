@@ -1,0 +1,10 @@
+https://www.yapo.cl/aisen
+https://www.yapo.cl/maule
+https://www.yapo.cl/araucania
+https://www.yapo.cl/ohiggins
+https://www2.yapo.cl/reset_password?op=1
+https://www.yapo.cl/antofagasta
+https://www.yapo.cl/
+https://www.yapo.cl/arica_parinacota
+https://www.yapo.cl/valparaiso
+https://www.yapo.cl/coquimbo

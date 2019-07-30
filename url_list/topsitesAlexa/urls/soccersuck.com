@@ -1,0 +1,10 @@
+http://www.soccersuck.com/boards/topic/1785227
+http://www.soccersuck.com/boards/topic/1786505
+http://www.soccersuck.com/users/register/
+http://www.soccersuck.com/boards/topic/1784336
+http://www.soccersuck.com/boards/index#14
+http://www.soccersuck.com/boards/topic/1786215
+http://www.soccersuck.com/
+http://www.soccersuck.com/boards/topic/1786407
+http://www.soccersuck.com/boards/topic/1785919
+http://www.soccersuck.com/boards/topic/1784939

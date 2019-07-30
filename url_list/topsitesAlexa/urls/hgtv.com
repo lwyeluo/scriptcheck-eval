@@ -1,0 +1,10 @@
+https://www.hgtv.com/www.hgtv.comdesignultimate-house-hunt2019-ultimate-house-hunt2019-house-hunt-winners
+https://www.hgtv.com/photos.hgtv.com
+https://www.hgtv.com/
+https://www.hgtv.com/www.hgtv.comshowshouse-hunters-international
+https://www.hgtv.com/www.hgtv.comshowsa-very-brady-renovationsweepstakes
+http://www.hgtv.com/about-us/hgtv-sweepstakes?ic1=utilitysweeps
+https://twitter.com/intent/tweet?text=Home&url=%2f%2fwww.hgtv.com&original_referer=%2f%2fwww.hgtv.com
+https://www.hgtv.com/www.hgtv.comdesigndecoratingfurniture-and-accessoriesaffordable-cheap-etsy-art-you-print-yourself-pictures
+https://www.hgtv.com/www.hgtv.comuser-profile-page
+http://pinterest.com/pin/create/button/?url=%2f%2fwww.hgtv.com

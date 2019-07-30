@@ -1,0 +1,10 @@
+https://docs.adyen.com/developers/payments-basics/get-started-with-adyen
+https://support.adyen.com/hc/en-us
+https://www.adyen.com/payment-methods
+https://www.adyen.com/pos-payments
+https://www.adyen.com/about
+https://www.adyen.com/blog/de-bijenkorf-delighting-luxury-shoppers-with-personalization-in-store
+https://www.adyen.com/de_DE
+https://www.adyen.com/
+https://www.adyen.com/risk-management
+https://www.adyen.com/investor-relations

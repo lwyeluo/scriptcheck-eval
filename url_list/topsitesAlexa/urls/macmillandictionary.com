@@ -1,0 +1,10 @@
+https://www.macmillandictionary.com/partners/partners.html
+https://www.macmillandictionary.com/wordlists.html
+https://www.macmillandictionary.com/dictionary/british/hot-on-the-heels-of
+https://www.macmillandictionary.com/open-dictionary/submit.html
+https://www.macmillandictionary.com/dictionary/british/stuvac
+https://www.macmillandictionary.com/tools/webmastertools.html
+https://www.macmillandictionary.com/language-games/
+https://www.macmillandictionary.com/about_thesaurus.html
+https://www.macmillandictionary.com/our-authors.html
+https://www.macmillandictionary.com/

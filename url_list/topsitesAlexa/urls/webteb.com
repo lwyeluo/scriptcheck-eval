@@ -1,0 +1,10 @@
+https://www.webteb.com/eye-health
+https://baby.webteb.com/planning-pregnancy
+https://www.webteb.com/articles/ورق-التوت-تعرف-على-استخداماته-الصحية_21262
+https://www.webteb.com/articles/وصفات-طبيعية-لتقوية-حاسة-السمع_21260
+https://community.webteb.com/
+https://www.webteb.com/treatment
+https://www.webteb.com/termsandconditions
+https://www.webteb.com/
+https://baby.webteb.com/childbirth
+https://www.webteb.com/articles/فوائد-المانجو-تجعلها-تتربع-على-عرش-الفواكه-المفيدة_15053

@@ -1,0 +1,10 @@
+https://www.his-j.com/branchvisacenter?lcid=gt_sup06_0
+https://www.his-j.com/tyoapp?lcid=gt_sup10_0
+https://www.his-j.com/corp
+https://www.his-j.com/supportguidefeature.html?lcid=gt_his01_0#feature__box1
+https://bus-tour.his-j.com/tyo/?intcid=gt_dms_icobs_0
+https://www.his-j.com/kaigaiDefault.aspx?lcid=gt_ovst01_0
+https://www.his-j.com/kokunaikantojr_tourtop.htm?intcid=gt_dms_icotrt_0
+https://kokunai-trip.his-j.com/?intcid=gt_dms_icoah_0
+https://ordermade.his-j.com/?lcid=gt_ser05_0
+https://www.his-j.com/

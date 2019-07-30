@@ -1,0 +1,10 @@
+https://www.starhit.ru/photoistorii
+https://www.starhit.ru/novosti/printsessa-diana-nenavidela-mamu-180793/
+https://www.instagram.com/starhit.ru/
+https://www.starhit.ru/novosti/syina-yanyi-rudkovskoy-uvezli-na-skoroy-posle-trenirovki-180729/
+https://www.starhit.ru/profilejanna-friske
+http://www.starhit.ru/corrector/
+https://www.starhit.ru/interviewsergey-malozemov-inogda-sam-moyu-posudu-178317
+https://www.starhit.ru/novosti/zvezda-laryi-kroft-poluchil-neskolko-nojevyih-raneniy-na-stsene-180817/
+https://www.starhit.ru/eksklusiv/roman-kapaklyi-posle-svadbyi-marina-ne-budet-menyat-familiyu-180529/
+https://www.starhit.ru/

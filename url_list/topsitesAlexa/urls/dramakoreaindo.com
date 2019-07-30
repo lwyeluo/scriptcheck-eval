@@ -1,0 +1,10 @@
+https://dramakoreaindo.com/category/ongoing/
+https://dramakoreaindo.com/produce-x-101-subtitle-indonesia/
+https://dramakoreaindo.com/drama-korea-class-of-lies/
+https://dramakoreaindo.com/search-www-subtitle-indonesia/
+https://dramakoreaindo.com/
+https://dramakoreaindo.com/daftar-drama/
+https://www.dramakoreaindo.com/
+https://dramakoreaindo.com/rookie-historian-goo-hae-ryung-subtitle-indonesia/
+https://dramakoreaindo.com/doctor-detective-subtitle-indonesia/
+https://dramakoreaindo.com/tag/prison-life-of-fools/

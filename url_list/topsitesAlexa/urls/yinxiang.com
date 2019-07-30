@@ -1,0 +1,10 @@
+https://www.yinxiang.com/upgrade?tier=premium&offer=www_menu
+https://app.yinxiang.com/Home.action?offer=www_menu
+https://www.yinxiang.com/community
+https://www.yinxiang.com/legaltos.php
+https://www.yinxiang.com/contact
+https://www.yinxiang.com/
+https://www.yinxiang.com/security
+https://www.yinxiang.com/businesssign-up?offer=www_home_tier_biz_CTA
+https://dev.yinxiang.com/
+https://list.yinxiang.com/windows/afb0cfa9-4e6a-411e-9991-274640af0c51.php

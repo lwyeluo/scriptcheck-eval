@@ -1,0 +1,10 @@
+https://www.digitalocean.com/about/
+https://www.digitalocean.com/pricing/
+https://cloud.digitalocean.com/login
+https://www.digitalocean.com/partners/
+https://www.digitalocean.com/productscloud-firewalls
+https://www.digitalocean.com/
+https://www.digitalocean.com/legal/terms-of-service-agreement/
+http://speedtest-BLR1.digitalocean.com/
+http://speedtest-TOR1.digitalocean.com/
+https://cloud.digitalocean.com/registrations/google

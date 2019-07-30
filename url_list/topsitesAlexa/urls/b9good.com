@@ -1,0 +1,10 @@
+http://b9good.com/index.phpplaylistview5159
+http://b9good.com/index.php/search/tagid/21644
+http://b9good.com/index.php/search/tagid/21700
+http://b9good.com/index.php/playlist/view/6851
+http://b9good.com/index.phpplaylistview5138
+http://b9good.com/index.php/playlist/view/6834
+http://b9good.com/listindex.phpvideoshowcid59order2
+http://b9good.com/index.phpplaylistview5259
+http://b9good.com/index.phpplaylistview4626
+http://b9good.com/

@@ -1,0 +1,10 @@
+https://www.protv.md/politic
+https://www.protv.md/stiinta
+https://www.protv.md/livepro
+https://www.protv.md/articol-comercial
+https://www.protv.md/emisiuni
+https://www.protv.md/socant
+https://www.protv.md/international
+https://www.protv.md/
+https://www.protv.md/stirea-ta
+https://www.protv.md/social

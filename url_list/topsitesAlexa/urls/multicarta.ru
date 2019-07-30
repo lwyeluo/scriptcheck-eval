@@ -1,0 +1,10 @@
+https://ofdlk.multicarta.ru/
+http://www.multicarta.ru/internet-ekvayringgoogle-pay
+http://www.multicarta.ru/press2
+http://www.multicarta.ru/
+http://www.multicarta.ru/press502846
+http://www.multicarta.ru/abouthistory
+http://www.multicarta.ru/privacy-policy
+http://www.multicarta.ru/pressservice.php
+http://www.multicarta.ru/o-protsessingeprotsessingovyy-tsentr
+http://www.multicarta.ru/aboutteam

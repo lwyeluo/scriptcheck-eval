@@ -1,0 +1,10 @@
+https://www.office.com/
+https://products.office.com/zh-cn/home
+https://products.office.com/zh-cn/microsoft-teams/group-chat-software
+https://products.office.com/zh-CN/business/office-for-it-pros
+https://products.office.com/zh-cn/word
+https://store.office.com/worldwide.aspx?rs=zh-cn&returnURL=https%3a%2f%2fwww.office.com%2f&cmapid=2
+https://products.office.com/zh-cn/business/enterprise-firstline-workers
+https://products.office.com/zh-cn/compare-all-microsoft-office-products?tab=2
+https://products.office.com/compare-all-microsoft-office-products?tab=1
+https://products.office.com/zh-cn/office-365-personal

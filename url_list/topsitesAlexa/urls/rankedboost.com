@@ -1,0 +1,10 @@
+https://rankedboost.com/pokemon-go/tier-list/
+https://rankedboost.com/call-duty-black-ops-4/best-weapons-tier-list-black-out/
+https://rankedboost.com/tag/guides/
+https://rankedboost.com/apex-legends/
+https://www.rankedboost.com/fortnitebest-weapons-tier-list
+https://www.rankedboost.com/league-of-legendsteamfight-tactics
+https://rankedboost.com/tag/pc/
+https://www.rankedboost.com/
+https://rankedboost.com/tag/mobile-app/
+https://rankedboost.com/about-us/

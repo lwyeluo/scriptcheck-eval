@@ -1,0 +1,10 @@
+https://www.nowtv.com/www.nowtv.com
+https://www.nowtv.com/www.nowtv.comgbwatchhayuhighlights
+https://www.nowtv.com/
+https://www.nowtv.com/broadband
+https://www.nowtv.com/tv-smart-box
+https://www.nowtv.com/gift-cards
+https://www.nowtv.com/gb/shop?product%5B%5D=FT_HAYU
+https://www.nowtv.com/kids-tv
+https://www.nowtv.com/watch-movies-online
+https://www.nowtv.com/gb/shop?product%5B%5D=FT_CINEMA

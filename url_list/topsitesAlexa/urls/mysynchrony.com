@@ -1,0 +1,10 @@
+https://www.mysynchrony.com/mysyfdealerlocator.html?intcmp=na-pagena-nav-data_reason-internal
+https://www.mysynchrony.com/mysyfopen-accounthome-furnishings.html?intcmp=na-pagena-nav-data_reason-internal
+https://www.mysynchrony.com/mysyfresources.html?intcmp=na-pagena-nav-data_reason-internal
+https://www.mysynchrony.com/mysyfopen-accountmusic.html?intcmp=na-pagena-nav-data_reason-internal
+https://www.mysynchrony.com/mysyflearncustomer-stories.html?intcmp=na-pagena-nav-data_reason-internal
+https://www.mysynchrony.com/mysyfoffers.html
+https://www.mysynchrony.com/mysyffaqs.html?intcmp=na-pagena-nav-data_reason-internal#Alerts
+https://www.mysynchrony.com/mysyfopen-accountheating-and-air-conditioning.html?intcmp=na-pagena-nav-data_reason-internal
+https://www.mysynchrony.com/mysyfresourcesemergency-roadside-toolkit-article.html?intcmp=na-pagena-nav-data_reason-internal
+https://www.mysynchrony.com/

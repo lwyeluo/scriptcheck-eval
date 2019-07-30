@@ -1,0 +1,10 @@
+https://calvinklein.tmall.com/
+https://calvinklein.tmall.com/calvinklein.tmall.comcategory-1367679406.htm?search=y&parentCatId=1356938404&parentCatName=%CA%B1%C9%D0%C5%E4%CA%CE&catName=%CA%D6%C4%C3%B0%FC
+https://calvinklein.tmall.com/calvinklein.tmall.comcategory-1367676897.htm?search=y&parentCatId=1356933071&parentCatName=%C5%A3%D7%D0%CA%B1%D7%B0&catName=%C1%AC%D2%C2%C8%B9
+https://calvinklein.tmall.com/calvinklein.tmall.comsearch.htm?search=y&orderType=defaultSort
+https://calvinklein.tmall.com/calvinklein.tmall.comcategory-1431401706.htm?search=y&parentCatId=1425267106&parentCatName=2019%B4%BA%CF%C4%D0%C2%C6%B7&catName=%CE%C0%D2%C2-%C4%D0
+https://calvinklein.tmall.com/trip.taobao.com
+https://calvinklein.tmall.com/calvinklein.tmall.comcategory-1367679406.htm?search=y&parentCatId=1356938404&parentCatName=%CA%B1%C9%D0%C5%E4%CA%CE&catName=%CA%D6%C4%C3%B0%FC&scene=taobao_shop#bd
+https://calvinklein.tmall.com/calvinklein.tmall.comcategory-1356938405.htm?search=y&parentCatId=1356938404&parentCatName=%CA%B1%C9%D0%C5%E4%CA%CE&catName=%C4%D0%CA%BF
+https://calvinklein.tmall.com/detail.tmall.comitem.htm?id=587644092126&scene=taobao_shop
+https://calvinklein.tmall.com/calvinklein.tmall.comcategory-1356938419.htm?search=y&parentCatId=1356938404&parentCatName=%CA%B1%C9%D0%C5%E4%CA%CE&catName=%C6%A4%B4%F8%CE%A7%BD%ED-%C5%AE&scene=taobao_shop#bd

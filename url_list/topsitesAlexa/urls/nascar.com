@@ -1,0 +1,10 @@
+https://hometracks.nascar.com/2019/07/21/chase-cabre-conquers-new-hampshire-wins-2nd-race-in-a-row/
+https://www.nascar.com/podcast
+https://www.nascar.com/news-media/2017/01/15/official-nascar-fan-council/
+https://www.nascar.com/news-media/2019/07/20/fantasy-update-last-minute-new-hampshire-lineup-props-advice/
+https://www.nascar.com/scanner
+https://www.nascar.com/video/franchise/all-videos/relive-the-thrilling-final-lap-of-the-whelen-modified-tour-all-star-shootout-at-new-hampshire/
+https://www.nascar.com/about-nascar
+https://www.nascar.com/video/franchise/monster-energy-nascar-cup-practice-clips/wheres-bowmans-third-car-coming-from/
+https://www.nascar.com/video/franchise/xfinity-series-post-race-reax/paul-menard-harrison-burton-new-hampshire-reaction/
+https://www.nascar.com/

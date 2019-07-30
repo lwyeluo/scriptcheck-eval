@@ -1,0 +1,10 @@
+https://www.pronto.com/privacyterms
+https://www.pronto.com/termsprivacy
+https://www.pronto.com/privacycookies
+https://www.pronto.com/privacy
+https://www.pronto.com/
+https://www.pronto.com/terms
+https://www.pronto.com/cookies
+https://www.pronto.com/termsterms
+https://www.pronto.com/termscookies
+https://www.pronto.com/privacyprivacy

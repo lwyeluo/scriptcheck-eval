@@ -1,0 +1,10 @@
+https://www.saksfifthavenue.com/FendiShoesshop_N-1z12vgqZ52k0s7Ne-6lvnb6?sre=mhpmainm2s2l2
+https://www.saksfifthavenue.com/CHANELBeauty-and-FragranceFRAGRANCE-and-BEAUTYCOLOUR-COLLECTIONCRUISE-COLLECTION-2019shop_N-52kl1pNe-52iqfn?sre=mhpmainm2s4l1
+https://www.saksfifthavenue.com/mainProductArray.jsp?N=306418048+1556
+https://www.saksfifthavenue.com/BalenciagaMenshop_N-1z12uz6Z52flokNe-6lvnb6
+https://www.saksfifthavenue.com/ChloeHandbagsshop_N-1z12st3Z52jzos?sre=mhpmainm13s1l2
+https://www.saksfifthavenue.com/MenBest-Sellersshop_N-52kj8sNe-6lvnb5
+https://www.saksfifthavenue.com/HomeLuggage-and-TravelTravel-Accessoriesshop_N-52k3hlNe-6lvnb5
+https://www.saksfifthavenue.com/mainSectionPage.jsp?catId=2534374306418053&FOLDER%3C%3Efolder_id=2534374306418053
+https://www.saksfifthavenue.com/MenNew-and-PopularNew-Arrivalsshop_N-52jd70Ne-6lvnb5
+https://www.saksfifthavenue.com/

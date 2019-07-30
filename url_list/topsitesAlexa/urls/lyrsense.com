@@ -1,0 +1,10 @@
+https://it.lyrsense.com/
+https://www.lyrsense.com/
+https://www.lyrsense.com/alphabetlit_D
+https://www.lyrsense.com/alphabetlit_Z
+https://fr.lyrsense.com/
+https://www.lyrsense.com/alphabetlit_H
+https://www.lyrsense.com/alphabetlit_W
+https://www.lyrsense.com/alphabetlit_O
+https://www.lyrsense.com/alphabetlit_K
+https://www.lyrsense.com/alphabetlit_V

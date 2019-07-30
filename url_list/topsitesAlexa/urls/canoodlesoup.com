@@ -1,0 +1,10 @@
+https://canoodlesoup.com/category/entertainment/
+https://canoodlesoup.com/celebrities-who-have-rocked-cosplay/
+https://canoodlesoup.com/the-moment-you-realize-your-parents-are-cooler-than-you/
+https://canoodlesoup.com/the-k-pop-takeover-musics-evolution/
+https://canoodlesoup.com/timeless-beautiful-women-who-prove-beauty-is-diverse/
+https://canoodlesoup.com/the-best-dating-app-for-you-according-to-your-zodiac-sign/
+https://canoodlesoup.com/breaking-down-kanye-wests-sunday-service-at-coachella/
+https://canoodlesoup.com/olsen-twin-approved-sunglasses/
+https://canoodlesoup.com/wild-crazy-beautiful-fun-facts-about-demi-lovato/
+https://www.canoodlesoup.com/

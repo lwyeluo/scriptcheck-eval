@@ -1,0 +1,10 @@
+https://www.otzovik.com/games
+https://www.otzovik.com/
+https://otzovik.com/review_8493558.html
+https://otzovik.com/reviews/plyazh_sanatoriya_energetik_russia_divnomorskoe/
+https://www.otzovik.com/findusers.php
+https://otzovik.com/review_8498452.html
+https://www.otzovik.com/postreview.php
+https://www.otzovik.com/computers
+https://otzovik.com/review_8498748.html
+https://www.otzovik.com/profile%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B0+%D0%9C%D1%83%D0%B4%D1%80%D0%B0%D1%8F

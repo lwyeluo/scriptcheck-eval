@@ -1,0 +1,10 @@
+https://www.kaola.com/pages.kaola.compagesactivityd701af3cd2464b47bd5c4de6a671b3a5.shtml
+https://www.kaola.com/activity.kaola.comfooterecLawindex.html
+https://www.kaola.com/www.kaola.compersonalaccount_management.html
+https://www.kaola.com/you.kaola.comfooterindex.html?key=footer_tariff
+https://pages.kaola.com/pages/activity/d789154597fb4a92b54c2c7d6a046f50.shtml
+https://www.kaola.com/buy.kaola.compersonalauthentication.html
+https://www.kaola.com/www.kaola.comfooterfriendlylink.shtml
+https://www.kaola.com/pages.kaola.compagesactivitygamesem.shtml
+https://www.kaola.com/common/page.html?key=Privacy_policy
+https://www.kaola.com/

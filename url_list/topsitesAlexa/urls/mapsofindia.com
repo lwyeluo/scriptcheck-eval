@@ -1,0 +1,10 @@
+https://www.mapsofindia.com/my-india/food/seafood
+https://www.mapsofindia.com/eventsindiaganga-dussehra.html
+https://www.mapsofindia.com/education/top-ten-college-of-engineering.html
+https://sports.mapsofindia.com/
+https://www.mapsofindia.com/answers/geography/which-states-share-boundaries-with-pakistan/
+https://www.mapsofindia.com/my-india/politics/election-countdown
+https://www.mapsofindia.com/
+https://bengali.mapsofindia.com/
+https://www.mapsofindia.com/my-india/food
+https://www.mapsofindia.com/answers/india/places-where-sanskrit-is-still-spoken/

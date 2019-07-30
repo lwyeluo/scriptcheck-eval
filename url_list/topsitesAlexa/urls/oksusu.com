@@ -1,0 +1,10 @@
+https://www.oksusu.com/movie
+https://www.oksusu.com/supportnotice
+https://www.oksusu.com/billticket
+https://www.oksusu.com/specialsktmember
+https://www.oksusu.com/vod
+https://www.oksusu.com/vod?mid=9000000328
+https://www.oksusu.com/guidesitemap
+https://www.oksusu.com/guidenewsPolicy
+https://www.oksusu.com/
+https://www.oksusu.com/sports

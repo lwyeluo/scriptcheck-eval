@@ -1,0 +1,10 @@
+https://www.philips.com.sg/c-m-ho/cooking
+https://www.philips.com.sg/c-m-ac/mother-and-child-care
+https://www.philips.com.sg/healthcare
+https://www.philips.com.sg/c-m-mo/starter-baby-gift-sets
+https://www.philips.com.sg/p-m-pa/professional-air-quality-solutions
+https://www.philips.com/c-mconsumer-support
+https://www.philips.com.sg/c-m-ac/household-accessories
+https://www.philips.com/
+https://www.philips.com.sg/c-w/promotions.html
+https://www.lighting.philips.com.sg/consumer

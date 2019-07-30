@@ -1,0 +1,10 @@
+https://www.easyziptab.com/www.amazon.com
+https://www.easyziptab.com/www.youtube.com
+https://www.easyziptab.com/www.ebay.com
+https://www.easyziptab.com/www.twitter.com
+https://www.easyziptab.com/www.wikipedia.org
+https://www.easyziptab.com/www.yahoo.com
+https://www.easyziptab.com/privacy
+https://www.easyziptab.com/www.instagram.com
+https://www.easyziptab.com/www.facebook.com
+https://www.easyziptab.com/

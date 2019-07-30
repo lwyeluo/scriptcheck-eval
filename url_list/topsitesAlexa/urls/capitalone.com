@@ -1,0 +1,10 @@
+http://www.capitalone.com/online-banking/browser-support/
+https://www.capitalone.com/support-center/
+https://www.capitalone.com/credit-cards/benefits/creditwise
+https://www.capitalone.com/
+https://www.capitalone.com/learn-grow/?external_id=COF01_HUB_HPBANNER_D99
+https://www.capitalone.com/credit-cards/prequalify
+https://www.capitalone.com/auto-financing
+https://www.capitalone.com/legal/terms-conditions
+https://www.capitalone.com/applications/eno/
+https://verified.capitalone.com/sic-ui/#/esignin

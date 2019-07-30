@@ -1,0 +1,10 @@
+https://www.dealnews.com/Pottery-Barn-Liberty-London-Edgars-Garden-Backpack-for-15-free-shipping/18087745.html
+https://www.dealnews.com/online-stores
+https://www.dealnews.com/c716Clothing-AccessoriesShirtsf2Womens
+https://www.dealnews.com/s1303/Checks-Unlimited/
+https://www.dealnews.com/s2155/That-Daily-Deal/
+https://www.dealnews.com/email.html?18087691
+https://www.dealnews.com/b410/LG/
+https://www.dealnews.com/lw/share.html?s=facebook&t=Mongoose%20Men%27s%20700c%20Hotshot%207-Speed%20Front-Suspension%20Bike&u=https%3A%2F%2Fwww.dealnews.com%2FMongoose-Mens-700-c-Hotshot-7-Speed-Front-Suspension-Bike-from-118-free-shipping%2F18087718.html
+https://www.dealnews.com/s1662Lenovo
+https://www.dealnews.com/

@@ -1,0 +1,10 @@
+https://www.typingclub.com/mecanografia
+https://www.typingclub.com/dactylographie
+https://www.typingclub.com/tipptrainer
+https://www.typingclub.com/about.html
+https://s.typingclub.com/schools.html
+https://www.typingclub.com/
+https://s.typingclub.com/find-school-code.html
+https://www.typingclub.com/kids-typing
+https://www.typingclub.com/videoscrittura
+https://www.typingclub.com/ava-rabbit

@@ -1,0 +1,10 @@
+https://www.thesimsresource.com/downloadsbrowsecategorysims4-objects
+https://www.thesimsresource.com/mytsrsupportlist
+https://www.thesimsresource.com/
+https://www.thesimsresource.com/welcome
+https://www.thesimsresource.com/downloadsbrowsecategorysims3-materials
+http://sims4wiki.thesimsresource.com/index.php/Careers_Overview
+https://www.thesimsresource.com/downloadsbrowsecategorysims3-sets
+https://www.thesimsresource.com/artistbrowsecategoryselect
+https://www.thesimsresource.com/indexindexcategorysims2
+https://www.thesimsresource.com/helpcenterprivacy#cookies

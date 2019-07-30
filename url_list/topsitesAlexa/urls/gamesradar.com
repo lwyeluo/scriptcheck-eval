@@ -1,0 +1,10 @@
+https://www.gamesradar.com/all-platforms/reviews/
+https://www.gamesradar.com/the-eternals-marvel-sdcc-2019-announcement-logo/
+https://www.gamesradar.com/
+https://www.gamesradar.com/doctor-strange-2-marvel-phase-4-sdcc-2019-release-date/
+https://www.gamesradar.com/oxm/
+https://www.gamesradar.com/sonys-dualshock-4-down-to-just-pound35-for-prime-day/
+https://www.gamesradar.com/best-co-op-games/
+https://www.gamesradar.com/play-features/
+https://www.gamesradar.com/watch-news/
+https://www.gamesradar.com/nintendo/

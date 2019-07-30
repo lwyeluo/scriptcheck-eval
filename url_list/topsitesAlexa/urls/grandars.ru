@@ -1,0 +1,10 @@
+http://www.grandars.ru/shkolaestestvoznanieastronomiya
+http://www.grandars.ru/studentvysshaya-matematikaosnovy-lineynoy-algebry
+http://www.grandars.ru/collegemedicina
+http://www.grandars.ru/
+http://www.grandars.ru/collegemedicinavaleologiya
+http://www.grandars.ru/shkolageografiyamezhotraslevye-kompleksy
+http://www.grandars.ru/studentekonomicheskaya-teoriyaekonomicheskie-ucheniya
+http://www.grandars.ru/collegefilosofiyareligiya
+http://www.grandars.ru/shkola/angliyskiy-yazyk/
+http://www.grandars.ru/collegemedicinaserovodorodnye-vanny.html

@@ -1,0 +1,10 @@
+https://puzzle-english.com/lessons-and-exercises
+https://puzzle-english.com/buy/courses
+https://puzzle-english.com/videopuzzles
+https://www.puzzle-english.com/directorylearn-english
+https://en.puzzle-english.com
+https://www.puzzle-english.com/lessons-and-exercisesnumerals
+https://www.puzzle-english.com/lessons-and-exercisesverb_tenses
+https://www.puzzle-english.com/lessons-and-exercisesthe-use-of-english-language
+https://www.puzzle-english.com/
+https://www.puzzle-english.com/aboutus

@@ -1,0 +1,10 @@
+https://www.jaleco.com/wondershare-allmytube.jaleco.com
+https://www.jaleco.com/office-2016.jaleco.com
+https://www.jaleco.com/mycuinfo.jaleco.com
+https://www.jaleco.com/itunes.jaleco.com
+https://www.jaleco.com/lara-croft-guardian-of-light.jaleco.com
+https://th.jaleco.com
+https://www.jaleco.com/the-walking-dead-season-2-episode-2-a-house-divided.jaleco.com
+https://www.jaleco.com/utorrent-beta.jaleco.com
+https://de.jaleco.com
+https://www.jaleco.com/

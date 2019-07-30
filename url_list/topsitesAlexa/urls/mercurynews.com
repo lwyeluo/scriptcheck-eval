@@ -1,0 +1,10 @@
+https://www.mercurynews.com/
+https://www.mercurynews.com/sports/san-jose-sharks/
+https://www.mercurynews.com/2019/07/19/los-gatos-early-north-santa-cruz-avenue-road-diet-reviews-spark-yeas-and-no-ways/
+https://www.mercurynews.com/2019/07/20/oakland-police-searching-for-armed-robbery-suspect/
+https://www.mercurynews.com/sports/san-jose-earthquakes/
+https://www.mercurynews.com/sports/oakland-raiders/
+https://www.mercurynews.com/news/education/
+https://www.mercurynews.com/location/california/bay-area/south-bay/santa-clara-county/
+https://www.mercurynews.com/entertainment/music/
+https://www.mercurynews.com/comics/

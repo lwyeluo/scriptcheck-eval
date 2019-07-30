@@ -1,0 +1,9 @@
+https://www.feemoo.com/home.php#/legend
+http://app.feemoo.com/feemoo32.exe
+https://www.feemoo.com/
+https://www.feemoo.com/home.php#/reward
+https://www.feemoo.com/home.php
+http://app.feemoo.com/feemoo.dmg
+https://www.feemoo.com/home.php#/protmp
+http://app.feemoo.com/feemoo.exe
+http://app.feemoo.com/feimao.apk

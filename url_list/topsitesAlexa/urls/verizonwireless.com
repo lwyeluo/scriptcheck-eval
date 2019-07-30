@@ -1,0 +1,10 @@
+https://www.verizonwireless.com/smartphonesandroid
+https://www.verizonwireless.com/bring-your-own-device
+https://www.verizonwireless.com/rewardsverizon-up
+https://www.verizonwireless.com/solutions-and-servicestotal-mobile-protection
+https://www.verizonwireless.com/products
+https://www.verizonwireless.com/smartphones
+https://www.verizonwireless.com/productssmart-watches
+https://www.verizonwireless.com/productsbeats-studio3-wireless-over-ear-headphone
+https://www.verizonwireless.com/solutions-and-servicesjust-kids
+https://www.verizonwireless.com/

@@ -1,0 +1,10 @@
+https://www.vtb.ru/lpinvest
+https://www.vtb.ru/personalkartyzarplatnye-karty
+https://www.vtb.ru/personalkartypensionnye-karty
+https://www.vtb.ru/personalinvesticiipaevye-investicionnye-fondy
+https://www.vtb.ru/personaldrugie-uslugizarplatnym-i-korporativnym-klientam
+https://www.vtb.ru/
+https://www.vtb.ru/akcionery-i-investoryraskrytie-informacii
+https://www.vtb.ru/o-bankepress-centrnovosti-i-press-relizy2019072019-07-16-klientam-vtb-stala-dostupna-oplata-smartfonom-s-pomoshchyu-mir-pay
+https://www.vtb.ru/personalavtokreditylegkovye-avtomobili
+https://www.vtb.ru/personalvklady-i-scheta

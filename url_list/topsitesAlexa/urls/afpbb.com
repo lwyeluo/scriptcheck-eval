@@ -1,0 +1,10 @@
+https://www.afpbb.com/categorysports?cx_part=nav
+https://www.afpbb.com/articles-3208392?cx_part=top_focus&cx_position=1
+https://www.afpbb.com/categoryworldcup?cx_part=nav
+https://www.afpbb.com/articles-3236139?cx_part=top_latest
+https://www.afpbb.com/articles-3236139?cx_part=top_focus&cx_position=1
+https://www.afpbb.com/categoryenv-sci?cx_part=nav
+https://www.afpbb.com/categorypressrelease?cx_part=footer
+https://www.afpbb.com/categorynfl?cx_part=nav
+https://www.afpbb.com/
+https://www.afpbb.com/articles-3236101?cx_part=top_latest

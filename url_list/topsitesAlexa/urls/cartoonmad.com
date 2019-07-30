@@ -1,0 +1,10 @@
+https://www.cartoonmad.com/comic07.html
+https://www.cartoonmad.com/private.html
+https://www.cartoonmad.com/comic01.html
+https://www.cartoonmad.com/comic04.html
+https://www.cartoonmad.com/comic81670009.html
+https://www.cartoonmad.com/comic83470014.html
+https://www.cartoonmad.com/exempt.html
+https://www.cartoonmad.com/comic52950149.html
+https://www.cartoonmad.com/comic83290002.html
+https://www.cartoonmad.com/

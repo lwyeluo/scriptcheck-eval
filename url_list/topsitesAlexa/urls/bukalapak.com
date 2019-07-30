@@ -1,0 +1,10 @@
+https://www.bukalapak.com/c/olahraga/sepakbola-futsal/bola/m-mikasa
+https://www.bukalapak.com/bpjs-kesehatan?source=navbar&from=navbar_categories
+https://www.bukalapak.com/aboutaward
+https://www.bukalapak.com/merk
+https://www.bukalapak.com/bukamart-official?from=brand-homepage-1
+https://www.bukalapak.com/c/handphone/power-bank/m-wellcomm
+https://www.bukalapak.com/
+https://m.bukalapak.com/exclusive/bayar-bill-jadi-chill?utm_source=homepage&utm_medium=flash_banner&utm_promo=flash_banner_5&g=1
+https://m.bukalapak.com/exclusive/gratis-ongkos-kirim-tanpa-minimum-transaksi-di-spesial-77?utm_source=homepage&utm_medium=flash_banner&utm_promo=flash_banner_2&g=2
+https://www.bukalapak.com/c/elektronik/kulkas-showcase/m-lg

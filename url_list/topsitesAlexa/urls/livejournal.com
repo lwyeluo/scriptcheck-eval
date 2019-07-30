@@ -1,0 +1,10 @@
+https://www.livejournal.com/shop/
+https://www.livejournal.com/category/krasota-i-zdorove?prioritySection=ratings
+https://www.livejournal.com/
+https://www.livejournal.com/category/eda?prioritySection=ratings
+https://www.livejournal.com/category/kino?prioritySection=ratings
+https://www.livejournal.com/about/
+https://www.livejournal.com/ratings/category/drugoe?prioritySection=ratings
+https://www.livejournal.com/browse/
+https://www.livejournal.com/identity/login.bml?type=facebook&auto_forwhat=wwws%24%2F
+https://www.livejournal.com/category/nauka-i-tehnika?prioritySection=ratings

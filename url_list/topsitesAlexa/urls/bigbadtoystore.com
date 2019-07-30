@@ -1,0 +1,10 @@
+https://www.bigbadtoystore.com/ProductVariationDetails97830
+https://www.bigbadtoystore.com/Search?Brand=2603&Company=505
+https://www.bigbadtoystore.com/Search?Company=62
+https://www.bigbadtoystore.com/HelpTermsConditions
+https://www.bigbadtoystore.com/Search?Brand=1528
+https://www.bigbadtoystore.com/Lists?Slug=NewArrivals
+https://www.bigbadtoystore.com/Search?Theme=2307
+https://www.bigbadtoystore.com/CustomerPileOfLoot
+https://www.bigbadtoystore.com/
+https://www.bigbadtoystore.com/Search?HideInStock=false&HidePreorder=false&HideSoldOut=false&InventoryStatus=i%2Cp%2Cso&PageSize=100&SortOrder=BestSelling&Theme=14393

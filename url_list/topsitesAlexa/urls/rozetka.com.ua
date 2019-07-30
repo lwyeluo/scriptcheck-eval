@@ -1,0 +1,10 @@
+https://rozetka.com.ua/kids/c88468/
+https://rozetka.com.ua/news-articles-promotions/promotions/promo_status=active;types=discounts/
+https://rozetka.com.ua/office-school-books/c4625734/
+https://rozetka.com.ua/news-articles-promotions/promotions/interdruk_f_sale_19072019.html
+https://rozetka.com.ua/sport-i-uvlecheniya/c4627893/
+https://www.rozetka.com.ua/
+https://rozetka.com.ua/santekhnika-i-remont/c4628418/
+https://rozetka.com.ua/news-articles-promotions/promotions/promo_status=active;types=prizes/
+https://rozetka.com.ua/telefony-tv-i-ehlektronika/c4627949/
+https://rozetka.com.ua/tovary-dlya-biznesa/c4627851/

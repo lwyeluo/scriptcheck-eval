@@ -1,0 +1,10 @@
+https://failblog.cheezburger.com/tag/funny
+http://loquillo.cheezburger.com/tag/Deportes
+https://icanhas.cheezburger.com/lolcats
+https://failblog.cheezburger.com/tag/roast
+https://memebase.cheezburger.com/cringe
+https://geek.cheezburger.com/superheroes
+https://failblog.cheezburger.com/tag/dating
+https://icanhas.cheezburger.com/gifs/tag/cute-animals
+https://memebase.cheezburger.com/americana
+https://www.cheezburger.com/

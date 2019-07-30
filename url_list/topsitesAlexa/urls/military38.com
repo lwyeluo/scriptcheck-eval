@@ -1,0 +1,10 @@
+http://military38.com/archives/53598956.html#comment
+http://military38.com/archives/53615043.html
+http://military38.com/archives/2017-06.html
+http://military38.com/archives/53542427.html
+http://military38.com/archives/53588598.html#comment
+http://military38.com/archives/2017-03.html
+http://military38.com/archives/53612819.html
+http://military38.com/archives/2018-10.html
+http://military38.com/?p=3
+http://military38.com/

@@ -1,0 +1,10 @@
+https://www.bhaskar.com/videos
+https://www.bhaskar.com/religionupaay
+https://www.bhaskar.com/lifestyle/
+https://www.bhaskar.com/delhi
+https://www.bhaskar.com/videos/bollywood/ahil-sharma-recreates-mamu-salman-khan-bean-bag-video-01598289.html
+https://www.bhaskar.com/punjab/
+https://www.bhaskar.com/religionjeevan-mantraank-rashifal-numerology-horoscope-in-hindi-aaj-ka-ank-rashifal-for-21st-july-2019-01599601.html
+https://www.bhaskar.com/
+https://www.bhaskar.com/tech-knowledgetech-newsnewspampers-babys-first-smart-diaper-takes-wearables-to-a-whole-new-level-01599291.html
+https://www.bhaskar.com/sports/cricket/

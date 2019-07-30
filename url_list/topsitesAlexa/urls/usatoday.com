@@ -1,0 +1,10 @@
+https://www.usatoday.com/sportsnascar
+https://www.usatoday.com/travel/
+https://www.usatoday.com/sportsmlb
+https://www.usatoday.com/storytechreviewedcom20190719best-things-you-can-get-during-anthropologies-one-day-anthro-day-sale1775696001
+https://account.usatoday.com/pay
+https://www.usatoday.com/storynewsnation20190718duck-boat-tours-still-operate-july-2018-branson-missouri-tragedy1765132001
+https://www.usatoday.com/opinion
+https://www.usatoday.com/sportsncaaw
+https://www.usatoday.com/sportsolympics
+https://www.usatoday.com/

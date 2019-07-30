@@ -1,0 +1,10 @@
+https://www.sephora.com/beautynew-hair-products?icid2=homepage_slideshow_multi-world_slotting_justarrived_cyoa_03_hair_us_desktop_hotspot_071619
+https://www.sephora.com/
+https://www.sephora.com/beautynew-makeup?icid2=homepage_slideshow_multi-world_slotting_justarrived_cyoa_02_makeup_us_desktop_hotspot_071619
+https://www.sephora.com/happeningservicesOLR-CD__perk?icid2=homepage_botnav1_multi-world_program_has360_perksplusup_us_desktop_image_061619
+https://www.sephora.com/beautybeauty-offers?icid2=homepage_offerbanner_multi-world_generic_us_d_m_image_071819
+https://www.sephora.com/beautynew-skin-care-products?icid2=homepage_slideshow_multi-world_slotting_justarrived_cyoa_01_skincare_us_desktop_hotspot_071619
+https://www.sephora.com/beautyclean-beauty-products?icid2=homepage_marketingbanner_multi-world_animation_clean0719_us_desktop_image_071619
+https://www.sephora.com/productcream-lip-shine-P443317?icid2=homepage_botnav2_color_brand-sku-launch_sclipshinemetallics360_sephora_us_desktop_image_070919
+https://www.sephora.com/shopping-list
+https://www.sephora.com/basket

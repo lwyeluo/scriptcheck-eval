@@ -1,0 +1,10 @@
+https://www.searchencrypt.com
+https://www.searchencrypt.com/aboutcontact
+https://www.searchencrypt.comlegalsiteterms
+https://www.searchencrypt.comabout
+https://www.searchencrypt.com/legal/privacy
+https://www.searchencrypt.com/aboutfaq
+https://www.searchencrypt.com/legalsiteterms
+https://www.searchencrypt.com/legalsiteprivacy
+https://www.searchencrypt.com/
+https://www.searchencrypt.com/about

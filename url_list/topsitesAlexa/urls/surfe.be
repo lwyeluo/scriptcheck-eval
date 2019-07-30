@@ -1,0 +1,10 @@
+https://surfe.be/help
+https://surfe.be/login
+https://surfe.be/index2_ru.html
+https://surfe.be/netindex?language=en-US
+https://surfe.be/siteterms-of-service?language=en-US
+https://surfe.be/
+https://surfe.be/goal_ext
+https://surfe.be/register
+https://surfe.be/siteprivacy-policy?language=en-US
+https://surfe.be/earn

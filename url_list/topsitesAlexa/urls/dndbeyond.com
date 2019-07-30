@@ -1,0 +1,10 @@
+https://www.dndbeyond.com/subscribe
+https://www.dndbeyond.com/classesrogue
+http://www.dndbeyond.com/posts/535-spell-spotlight-chromatic-orb
+http://support.dndbeyond.com
+https://www.dndbeyond.com/my-campaigns
+https://www.dndbeyond.com/classessorcerer
+https://www.dndbeyond.com/sourcesscag
+https://www.dndbeyond.com/sourceshotdq
+https://www.dndbeyond.com/sourceshftthunt-for-the-thessalhydra
+https://www.dndbeyond.com/

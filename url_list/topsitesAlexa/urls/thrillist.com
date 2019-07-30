@@ -1,0 +1,10 @@
+https://www.thrillist.com/detroit
+https://www.thrillist.com/honolulu
+https://www.thrillist.com/cleveland
+https://www.thrillist.com/houston
+https://www.thrillist.com/entertainment/nation/the-art-of-self-defense-review
+https://www.thrillist.com/san-francisco
+https://www.thrillist.com/
+https://www.thrillist.com/entertainment/nation/cats-movie-trailer-reaction
+https://www.thrillist.com/memphis
+https://www.thrillist.com/eat/nation/best-sandwich-shops-near-me-america

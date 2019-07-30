@@ -1,0 +1,10 @@
+https://www.soccerway.com/nationalaustraliaqueensland2019regular-seasonr51582
+https://www.soccerway.com/nationalfranceligue-1c16?ICID=TN_02_01_05
+https://www.soccerway.com/nationalchina-prchina-league-one2019regular-seasonr51466
+https://www.soccerway.com/nationalaustralianew-south-wales-npl-women2019regular-seasonr51722
+https://www.soccerway.com/nationalcolombiaprimera-b2019clausurar51441
+https://www.soccerway.com/nationalcosta-ricaprimera-division20192020aperturar54274
+https://www.soccerway.com/nationalnetherlandseredivisiec1
+https://www.soccerway.com/about
+https://www.soccerway.com/nationalzimbabwepremier-soccer-league2019regular-seasonr50940
+https://www.soccerway.com/

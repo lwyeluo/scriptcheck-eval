@@ -1,0 +1,10 @@
+https://www.paperlesspost.com/cardsgroupgray-malin
+https://www.paperlesspost.com/flyer
+https://www.paperlesspost.com/
+https://www.paperlesspost.com/aboutabout
+https://www.paperlesspost.com/unsubscribe
+https://www.paperlesspost.com/sitemap
+https://www.paperlesspost.com/cardscategorybirthday_invitations_for_adults
+https://www.paperlesspost.com/cardscategorykids-birthday-invitations
+https://www.paperlesspost.com/help
+https://www.paperlesspost.com/cardssectionbusiness-party-invitations-and-cards

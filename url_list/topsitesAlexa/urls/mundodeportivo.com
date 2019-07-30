@@ -1,0 +1,10 @@
+https://www.mundodeportivo.com/agenda
+https://www.mundodeportivo.com/futbol/ligue-1
+https://www.mundodeportivo.com/futbol/serie-a
+http://hemeroteca.mundodeportivo.com/search.html
+https://www.mundodeportivo.com/futbol/atletico-madrid/20190720/463609136145/a-joao-felix-se-lo-cargaron-a-los-28-minutos.html
+https://www.mundodeportivo.com/futbol/mundial-femenino
+https://www.mundodeportivo.com/videos/futbol/20190721/7643147169518149/james-harden-visita-al-real-madrid-tras-el-partido-en-houston.html
+https://www.mundodeportivo.com/horoscopo
+https://www.mundodeportivo.com/baloncesto/20190720/463610363629/juani-marcos-base-argentino-19-anos-ficha-barca-basket.html
+https://www.mundodeportivo.com/

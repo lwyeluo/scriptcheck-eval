@@ -1,0 +1,10 @@
+https://www.pravda.ru/culture/
+https://www.pravda.ru/videochannel/
+https://www.pravda.ru/zoo/cats/
+https://www.pravda.ru/adv.html
+https://www.pravda.ru/news/world/1426336-ukraine/
+https://www.pravda.ru/world/formerussr/georgia/
+https://nasledie.pravda.ru/1170630-cinematograf/
+https://www.pravda.ru/
+https://www.pravda.ru/world/1425765-partii_ukraine/
+https://military.pravda.ru/defence/

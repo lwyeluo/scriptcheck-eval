@@ -1,0 +1,10 @@
+https://www.shareasale.com/about-us.cfm
+https://www.shareasale.com/how-does-it-work.cfm
+https://www.shareasale.com/health.cfm
+https://www.shareasale.com/
+https://www.shareasale.com/merchantagreement.cfm
+https://www.shareasale.com/newsignup.cfm
+https://www.shareasale.com/fashion.cfm
+https://www.shareasale.com/business.cfm
+https://www.shareasale.com/services.cfm
+https://www.shareasale.com/merchants-learn-more.cfm

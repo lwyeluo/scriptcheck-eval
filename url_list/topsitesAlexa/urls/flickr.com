@@ -1,0 +1,10 @@
+https://www.flickr.com/blog.flickr.neten
+https://www.flickr.com/signin
+https://www.flickr.com/
+https://www.flickr.com/helpforum
+https://www.flickr.com/helpterms
+https://www.flickr.com/servicesdeveloper
+https://www.flickr.com/helpguidelines
+https://www.flickr.com/jobs
+https://www.flickr.com/change_language.gne?lang=zh-HK&csrf=
+https://www.flickr.com/signup

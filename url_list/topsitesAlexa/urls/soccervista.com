@@ -1,0 +1,10 @@
+http://www.soccervista.com/Guatemala-Liga_Nacional_Apertura-2019_2020-862241.html
+https://www.soccervista.com/Bulgaria-First_Professional_League-2019_2020-862186.html
+https://www.soccervista.com/Australia-Victorian_Premier_League_One-2019-859176.html
+http://www.soccervista.com/Vietnam-V_League-2019-859500.html
+https://www.soccervista.com/Australia-Queensland-2019-859357.html
+https://www.soccervista.com/Latvia-Virsliga-2019-859937.html
+https://www.soccervista.com/Taiwan-National_League-2019-860784.html
+http://www.soccervista.com/Bosnia_Herzegovina-Premier_League-2019_2020-862370.html
+https://www.soccervista.com/contactform.php
+http://www.soccervista.com/

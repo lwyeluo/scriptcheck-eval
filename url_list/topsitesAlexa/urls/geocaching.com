@@ -1,0 +1,10 @@
+https://www.geocaching.com/
+https://www.geocaching.com/accountdocumentstermsofuse
+http://www.geocaching.com/account/join
+https://shop.geocaching.com/default/trackable-items/geocoins?utm_source=shopgeocaching&utm_medium=LIHP&utm_campaign=lackeycoin
+https://shop.geocaching.com/default/geocaching-supplies?utm_source=shopgeocaching&utm_medium=LIHP&utm_campaign=MagneticContainer
+https://www.geocaching.com/matm?utm_source=MATM&utm_medium=promo&utm_campaign=LIHP
+https://www.geocaching.com/blog/2017/11/15-reasons-to-love-geocaching/
+https://shop.geocaching.com/default/geocaching-gear?utm_source=shopgeocaching&utm_medium=LIHP&utm_campaign=KeyRingPen
+https://www.geocaching.com/parksandpolice
+http://www.geocaching.com/careers/

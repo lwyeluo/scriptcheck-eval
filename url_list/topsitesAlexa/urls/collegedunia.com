@@ -1,0 +1,10 @@
+https://collegedunia.com/bcom/meghalaya-colleges
+https://collegedunia.com/courses/aviation
+https://collegedunia.com/courses/bachelor-of-business-administration-bba-aviation
+https://collegedunia.com/hotel-management-colleges
+https://collegedunia.com/bhms/bihar-colleges
+https://collegedunia.com/courses/phd-accountancy
+https://collegedunia.com/phd-arts/uttar-pradesh-colleges
+https://www.collegedunia.com/
+https://collegedunia.com/courses/master-of-arts-ma-archaeology
+https://collegedunia.com/bfa/delhi-ncr-colleges

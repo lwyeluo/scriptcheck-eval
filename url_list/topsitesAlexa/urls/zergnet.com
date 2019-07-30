@@ -1,0 +1,10 @@
+https://www.zergnet.com/privacy
+https://www.zergnet.com/vfood
+https://www.zergnet.com/o/4305681/1/0/0
+https://www.zergnet.com/vsports
+https://www.zergnet.com/vceleb
+https://www.zergnet.com/
+https://www.zergnet.com/vwomenslife
+https://www.zergnet.com/vnews
+https://www.zergnet.com/info
+https://www.zergnet.com/vparenting

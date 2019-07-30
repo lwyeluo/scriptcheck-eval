@@ -1,0 +1,10 @@
+https://www.cnnturk.com/sporfutbolkayserispordan-jackson-martinez-aciklamasi
+https://www.cnnturk.com/ekonomiturkiyeluks-koylere-sehir-gibi-vergi
+https://www.cnnturk.com/
+https://www.cnnturk.com/saglikcocuklarda-gorulen-yaz-hastaliklari
+https://www.cnnturk.com/turkiyekendisini-sozlu-taciz-eden-kisiyi-baltayla-oldurup-yakti
+http://www.cnnturk.com/yasal-uyari
+https://www.cnnturk.com/yurttan-haberler
+http://www.cnnturk.com/kunye
+http://tv.cnnturk.com
+https://www.cnnturk.com/bilim-teknoloji

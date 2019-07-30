@@ -1,0 +1,10 @@
+https://www.dietdoctor.com/video
+https://www.dietdoctor.com/terms#privacypolicy
+https://www.dietdoctor.com/low-carb/recipes/meals
+https://www.dietdoctor.com/www.dietdoctor.comcholesterol-on-a-low-carb-diet
+https://www.dietdoctor.com/videopresentations
+https://www.dietdoctor.com/membernew
+https://www.dietdoctor.com/video/cooking
+https://www.dietdoctor.com/low-carb/for-doctors/new-patients
+https://www.dietdoctor.com/
+https://www.dietdoctor.com/recipes/portobello-steaks-with-avocado-chimichurri

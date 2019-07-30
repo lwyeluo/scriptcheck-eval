@@ -1,0 +1,10 @@
+https://www.cimri.com/spor-ayakkabi?sort=rank%2Cdesc&page=1
+https://www.cimri.com/kiyma-makinelerien-ucuz-bosch-mfw67440-propower-kiyma-makinesi-fiyatlari,608553
+https://www.cimri.com/yetiskinler-icin-oyunlar
+https://www.cimri.com/bulasik-makinesi-tableti
+https://www.cimri.com/elektrikli-supurgeler/en-ucuz-philips-elektrikli-supurgeler-fiyatlari
+https://www.cimri.com/
+https://www.cimri.com/cep-telefonlarien-ucuz-huawei-y7-2019-32gb-fiyatlari,a163487441
+https://www.cimri.com/oto-bahce-yapi-market
+https://www.cimri.com/offer/263045028?platformName=CIMRI_DESKTOP&productId=47731203&pageType=MAIN&campaign=COLLECTIVE_4&productOrder=1&minPrice=64.8&commentCount=0&minPriceMerchant=1497&offerSponsored=false&offerOrder=1&priceOrder=-1&photoCount=1&offerCount=2
+https://www.cimri.com/cep-telefonlari

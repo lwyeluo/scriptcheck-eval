@@ -1,0 +1,10 @@
+https://gematsu.com/2019/07/project-sakura-wars-first-battle-gameplay-and-new-information-live-stream-set-for-july-25
+https://gematsu.com/c/industry
+https://gematsu.com/privacy
+https://gematsu.com/c/stadia
+https://gematsu.com/2019/07/crash-team-racing-nitro-fueled-online-leaderboards-provide-minimum-player-counts-per-platform
+https://gematsu.com/2019/07/comedy-action-game-roguelike-hero-announced-for-ps4-switch-and-pc#respond
+https://www.gematsu.com/
+https://gematsu.com/2019/07/ea-sending-out-invites-to-closed-alpha-test-for-new-plants-vs-zombies-shooter-code-named-picnic
+https://gematsu.com/events/
+https://gematsu.com/2019/07/the-alliance-alive-hd-remastered-snow-realm-and-crystal-realm-screenshots

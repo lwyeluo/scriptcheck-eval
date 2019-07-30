@@ -1,0 +1,10 @@
+https://www.realsimple.com/holidays-entertainingholidaysmore-holidayseaster
+https://www.realsimple.com/holidays-entertainingholidayschristmas
+https://www.realsimple.com/news
+https://www.realsimple.com/weddings
+https://www.realsimple.com/weddingsdress-attirebridesmaid-dress-measurements
+https://www.realsimple.com/
+https://www.realsimple.com/holidays-entertainingholidaysthanksgiving
+https://www.realsimple.com/home-organizing/cleaning/professional-cleaners-secrets
+https://www.realsimple.com/healthfitness-exercisestretching-yogastretching-before-bed-exercises
+https://www.realsimple.com/holidays-entertaininggifts

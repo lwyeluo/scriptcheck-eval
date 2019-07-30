@@ -1,0 +1,10 @@
+https://www.tabor.ru/signup
+https://www.tabor.ru/reviews
+https://www.tabor.ru/id23585324
+https://www.tabor.ru/advanced_search
+https://www.tabor.ru/id23657162
+https://www.tabor.ru/id23606224
+https://www.tabor.ru/
+https://www.tabor.ru/id23658455
+https://www.tabor.ru/id23586761
+https://www.tabor.ru/search_women

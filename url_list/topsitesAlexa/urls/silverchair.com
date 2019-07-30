@@ -1,0 +1,10 @@
+https://www.silverchair.com/community/client-meeting/
+https://www.silverchair.com/contact/
+https://www.silverchair.com/privacy
+https://www.silverchair.com/
+https://www.silverchair.com/privacy/
+https://www.silverchair.com/community/platform-strategies/2018-archive/
+https://www.silverchair.com/the-silverchair-platform/tdm/
+https://www.silverchair.com/careers/
+https://www.silverchair.com/the-silverchair-platform/ux-design/
+https://www.silverchair.com/company/our-team/

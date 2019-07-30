@@ -1,0 +1,10 @@
+https://www.linuxmint.com/screenshots.php
+https://www.linuxmint.com/privacy.php
+https://blog.linuxmint.com/?p=3774
+https://blog.linuxmint.com/
+https://www.linuxmint.com/rel_tessa_cinnamon.php
+https://www.linuxmint.com/getinvolved.php
+https://www.linuxmint.com/
+https://www.linuxmint.com/rel_tessa_xfce.php
+https://www.linuxmint.com/rel_tessa_cinnamon_whatsnew.php
+https://www.linuxmint.com/teams.php

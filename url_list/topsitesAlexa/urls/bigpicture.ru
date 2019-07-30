@@ -1,0 +1,10 @@
+https://bigpicture.ru/top100
+https://bigpicture.ru/?p=672807
+https://bigpicture.ru/?p=727607
+https://bigpicture.ru/?p=911721
+https://bigpicture.ru/?p=294915
+https://bigpicture.ru/?cat=299
+https://bigpicture.ru/?cat=405
+https://www.bigpicture.ru/?page_id=780716
+https://www.bigpicture.ru/
+https://bigpicture.ru/?page_id=473177

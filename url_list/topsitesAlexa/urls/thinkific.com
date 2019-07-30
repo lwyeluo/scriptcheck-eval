@@ -1,0 +1,10 @@
+https://www.thinkific.com/learning-curve/
+https://www.thinkific.com/careers
+https://www.thinkific.com/about
+https://www.thinkific.com/resources
+https://www.thinkific.com/blog
+https://www.thinkific.com/featuresfeature-list
+https://www.thinkific.com/features#build
+https://www.thinkific.com/signin
+https://www.thinkific.com/
+https://www.thinkific.com/customers#testimonials

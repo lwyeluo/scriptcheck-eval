@@ -1,0 +1,10 @@
+https://mba.mbalib.com/
+https://doc.mbalib.com/
+https://www.mbalib.com/www.mbalib.com
+https://www.mbalib.com/loginredirect
+https://ke.mbalib.com/
+https://www.mbalib.com/right
+https://training.mbalib.com/
+https://www.mbalib.com/register
+https://www.mbalib.com/privacy
+https://www.mbalib.com/

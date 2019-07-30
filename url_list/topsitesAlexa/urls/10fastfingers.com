@@ -1,0 +1,10 @@
+https://www.10fastfingers.com/widgetstypingtest
+https://www.10fastfingers.com/top1000
+https://www.10fastfingers.com/text-practice
+https://www.10fastfingers.com/competitions
+https://www.10fastfingers.com/advanced-typing-test
+https://www.10fastfingers.com/typing-test
+https://www.10fastfingers.com/impressum
+https://www.10fastfingers.com/login
+https://www.10fastfingers.com/
+https://www.10fastfingers.com/impressum#datenschutzerklaerung

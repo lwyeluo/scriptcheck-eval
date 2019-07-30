@@ -1,0 +1,10 @@
+https://www.metacritic.com/
+https://www.metacritic.com/gameiosdr-mario-world
+https://www.metacritic.com/movieonce-upon-a-time-in-hollywood
+https://www.metacritic.com/game/pc
+https://www.metacritic.com/game3ds
+https://www.metacritic.com/browsealbumsscoremetascoreallfiltered
+https://www.metacritic.com/moviethe-lion-king-2019?ref=hp
+https://www.metacritic.com/faq
+https://www.metacritic.com/musicwhat-we-say-in-privateada-lea
+https://www.metacritic.com/personbleached

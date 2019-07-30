@@ -1,0 +1,10 @@
+http://www.fastpic.ru/multi.phpfastpic.ru
+http://www.fastpic.ru/multi.php
+http://www.fastpic.ru/about
+http://www.fastpic.ru/fpuploader
+http://www.fastpic.ru/fastpic.ru
+https://static.fastpic.ru/FastPicUploader.apk
+https://fastpic.ru/
+http://www.fastpic.ru/my.php
+http://www.fastpic.ru/rules
+http://www.fastpic.ru/

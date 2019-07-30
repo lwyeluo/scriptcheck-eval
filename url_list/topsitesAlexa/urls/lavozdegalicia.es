@@ -1,0 +1,10 @@
+https://www.lavozdegalicia.es/amarinaviveiroindex.htm
+https://www.lavozdegalicia.es/noticiapontevedrapontevedra20190721pabellon-pontevedra-solo-abrira-peregrinos-grandes-grupos0003_201907P21C1995.htm
+https://www.lavozdegalicia.es/
+https://www.lavozdegalicia.es/noticialemos20190721detenciones-registros-monforte-operacion-guardia-civil-contra-trafico-drogas0003_201907M21C3991.htm
+https://www.lavozdegalicia.es/firmas/andrea-presedo
+https://www.lavozdegalicia.es/firmas/luis-diaz
+https://www.lavozdegalicia.es/futbolgallego
+https://www.lavozdegalicia.es/carballocerceda
+https://www.lavozdegalicia.es/vigovigoindex.htm
+https://www.lavozdegalicia.es/motorgallego

@@ -1,0 +1,10 @@
+https://www.freepik.com/popular-icons
+https://www.freepik.com/free-vectorswater
+https://www.freepik.com/free-photoswedding
+https://www.freepik.com/free-vectorsweb-elements
+https://www.freepik.com/free-photosshopping
+https://www.freepik.com/free-iconscharts
+https://www.freepik.com/collection/organic-patterns-/1460
+https://www.freepik.com/collection/poster-showcase-/771
+https://www.freepik.com/free-photo/front-view-minimalistic-office-desk-decor_4950426.htm
+https://www.freepik.com/

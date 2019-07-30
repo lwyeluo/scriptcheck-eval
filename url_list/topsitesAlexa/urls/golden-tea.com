@@ -1,0 +1,10 @@
+https://www.golden-tea.com/konkurs
+https://www.golden-tea.com/news?id=148
+https://www.golden-tea.com/socialvk_auth.php
+https://www.golden-tea.com/news?id=150
+https://www.golden-tea.com/news?id=146
+https://www.golden-tea.com/news?id=143
+https://www.golden-tea.com/news?id=147
+https://www.golden-tea.com/contacts
+https://www.golden-tea.com/news?id=142
+https://www.golden-tea.com/

@@ -1,0 +1,10 @@
+https://www.ablebits.com/office-addins-blog20190605add-developer-tab-excel
+https://www.ablebits.com/downloadsarchived.php
+https://www.ablebits.com/filesget.php?addin=ol-collection&f=top-menu
+https://www.ablebits.com/
+https://www.ablebits.com/office-addins-blog20190702excel-ribbon-guide
+https://www.ablebits.com/compare-excel-filesindex.php
+https://www.ablebits.com/excel-online-addins.php
+https://www.ablebits.com/docsmicrosoft-office-add-ins-purchasing#place-purchase-order
+https://www.ablebits.com/office-addins-blog
+https://www.ablebits.com/office-addins-blog20160225compare-two-excel-files-sheets

@@ -1,0 +1,10 @@
+https://www.intuit.com/companysocial-responsibility
+https://www.intuit.com/sitemap
+https://proconnect.intuit.com/tax-online/?s_cid=Intuit.com_Products-nav_TaxOnline
+https://accountants-community.intuit.com/products/proconnect-help-en-us/?s_cid=INTUIT.COM_Homepage_Productsupport
+https://quickbooks.intuit.com/eu/gdpr/
+https://quickbooks.intuit.com/?sc=seq_intuit_qb_click_ft
+https://www.intuit.com/
+https://careers.intuit.com
+https://quickbooks.intuit.com/?sc=seq_intuit_qb_click_nav
+http://quickbooks.intuit.com/?sc=seq_intuit_qb_click_ft

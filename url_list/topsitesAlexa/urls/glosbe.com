@@ -1,0 +1,10 @@
+https://www.glosbe.com/enhi
+https://www.glosbe.com/recent
+https://www.glosbe.com/envi
+https://www.glosbe.com/enzh
+https://www.glosbe.com/translation?id=9134164466787985810
+https://www.glosbe.com/editor-faq
+https://www.glosbe.com/entr
+http://blog.glosbe.com
+https://glosbe.com/privacy-policy_en.pdf
+https://www.glosbe.com/

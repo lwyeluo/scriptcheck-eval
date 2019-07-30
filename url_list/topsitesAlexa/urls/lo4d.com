@@ -1,0 +1,10 @@
+https://odin3.en.lo4d.com/windows
+https://adobe-reader.en.lo4d.com/windows
+https://en.lo4d.com/windows/security
+https://samsung-easy-printer-manager.en.lo4d.com/windows
+https://en.lo4d.com/windows/hardware
+https://en.lo4d.com/windows/internet
+https://en.lo4d.com/windows/utilities
+https://www.lo4d.com/
+https://nokia-care-suite.en.lo4d.com/windows
+https://en.lo4d.com/windows/educational

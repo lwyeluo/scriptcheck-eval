@@ -1,0 +1,10 @@
+http://www.poznan.pl/mimeventskaponiera-kolejowa-zwiedzanie-warsztaty-koncerty-plan-wydarzen-w-lipcu,111377.html
+http://www.poznan.pl/mimmspnewsdyzury-pracownikow-poznanskich-urzedow-skarbowych,135440.html
+http://www.poznan.pl/miminfonewsplywajace-ogrody-na-cybinie,135522.html
+http://www.poznan.pl/mimeventsbezplatna-rehabilitacja-dzienna-dla-seniorow-finansowana-przez-miasto-poznan-zapisy,110983.html
+http://www.poznan.pl/mimbipposiedzenia
+http://www.poznan.pl/
+http://www.poznan.pl/mimeventsspacer-po-garbarach-w-ramach-cyklu-przechadzki-kino-kawiarnia-i-spacer,111617.html
+http://www.poznan.pl/mimeventswakacje-w-ogrodzie-jordanowskim-nr-2,111241.html
+http://www.poznan.pl/bollwerk/
+http://www.poznan.pl/mimnewsletter

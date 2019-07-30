@@ -1,0 +1,10 @@
+https://www.epicgames.com/store/zh-CN/?lang=ja
+https://www.epicgames.com/storezh-CNproductthecyclehome
+https://www.epicgames.com/storezh-CNproductshenmue-3home
+https://www.epicgames.com/storezh-CNproductmy-time-at-portiahome
+https://www.epicgames.com/storezh-CNproductdarksiders3
+https://www.epicgames.com/storezh-CNproductthe-pathlesshome
+https://www.epicgames.com/storezh-CNproductsubnautica-below-zerohome
+https://www.epicgames.com/storezh-CNproductbeyond-two-soulshome
+https://www.epicgames.com/
+https://www.epicgames.com/storezh-CNproductthe-sinking-cityhome

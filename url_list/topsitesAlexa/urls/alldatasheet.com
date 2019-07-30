@@ -1,0 +1,10 @@
+https://www.alldatasheet.com/components.alldatasheet.compreview.jsp?index=Y
+https://www.alldatasheet.com/components.alldatasheet.comdatasheetOPOP-1.html
+https://www.alldatasheet.com/components.alldatasheet.comdatasheetMCMC-24.html
+https://www.alldatasheet.com/components.alldatasheet.comdatasheet66.html
+https://www.alldatasheet.com/
+https://www.alldatasheet.com/components.alldatasheet.comdatasheetADDADD.html
+https://www.alldatasheet.com/components.alldatasheet.comdatasheet00.html
+https://www.alldatasheet.com/components.alldatasheet.comdatasheetFF.html
+https://www.alldatasheet.com/components.alldatasheet.comdatasheetCACA-13.html
+https://www.alldatasheet.com/components.alldatasheet.comdatasheet.jsp?index=3

@@ -1,0 +1,10 @@
+https://research.tdameritrade.com/grid/public/research/stocks/fundamentals
+https://research.tdameritrade.com/grid/public/research/stocks/calendar
+http://www.ameritrade.com/retirement-planningira-guideira-contribution-rules.page?
+http://www.ameritrade.com/tools-and-platformsweb-platformfeatures.page?
+https://research.tdameritrade.com/grid/public/mutualfunds/overview/overview.asp
+https://research.tdameritrade.com/grid/public/etfs/commentary/commentary.asp
+http://www.ameritrade.com/branches.page?
+http://www.ameritrade.com/o.cgi?a=WEB&p=https%3A%2F%2Fwwws.tdameritrade.com%2Fcgi-bin%2Fapps%2FAccountApplication%3Fentity%3D103
+http://www.ameritrade.com/account-typesfaqs-opening.page?
+http://www.ameritrade.com/

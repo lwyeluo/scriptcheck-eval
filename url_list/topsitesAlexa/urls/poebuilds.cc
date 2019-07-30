@@ -1,0 +1,10 @@
+https://www.poebuilds.cc/author/TTChilly/
+https://www.poebuilds.cc/scion/
+https://www.poebuilds.cc/author/Szynima/
+https://www.poebuilds.cc/author/grizzly40/
+https://www.poebuilds.cc/author/kayella/
+https://www.poebuilds.cc/witch/
+https://www.poebuilds.cc/author/UlyUly/
+https://www.poebuilds.cc/author/Thatguyjohny/
+https://www.poebuilds.cc/marauder/
+https://www.poebuilds.cc/

@@ -1,0 +1,10 @@
+https://www.britannica.com/topicMcCarthyism
+https://www.britannica.com/storiesdemystified
+https://www.britannica.com/on-this-day
+http://corporate.britannica.com/bps/reftools.html
+https://www.britannica.com/scienceradioactive-isotope
+https://www.britannica.com/storyhow-many-people-have-been-to-the-moon
+https://www.britannica.com/topic-browsePhysics
+https://www.britannica.com/
+https://www.britannica.com/sitemap
+https://www.britannica.com/storywhats-inside-the-pyramid-at-chichn-itz

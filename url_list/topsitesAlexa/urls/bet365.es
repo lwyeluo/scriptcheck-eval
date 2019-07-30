@@ -1,0 +1,10 @@
+https://www.bet365.es/sv
+https://www.bet365.es/cs
+https://www.bet365.es/
+http://slots.bet365.es/home/es/
+https://www.bet365.es/en
+https://www.bet365.es/el
+https://www.bet365.es/de
+http://casino.bet365.es/home/es/
+https://www.bet365.es/nl
+https://www.bet365.es/pt

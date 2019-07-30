@@ -1,0 +1,10 @@
+https://www.accuweather.com/zh/sg/punggol/1569699/weather-forecast/1569699
+https://developer.accuweather.com
+https://www.accuweather.com/en/videos/international-playlist/db65460bc0d34046930e5a7677354d9c?utm_source=accuweather&utm_medium=accuweather&utm_campaign=orangenavbutton&autoStart=true
+https://www.accuweather.com/en/press
+https://status.accuweather.com/
+https://www.accuweather.com/
+https://www.accuweather.com/zhsgsingapore300597weather-forecast300597
+https://www.accuweather.com/en/cookiepolicy
+https://www.accuweather.com/zh/sg/01/central-singapore-weather
+https://www.accuweather.com/coupons

@@ -1,0 +1,10 @@
+https://www.wooordhunt.ru/userregistration
+https://www.wooordhunt.ru/diccontentru_en
+https://www.wooordhunt.ru/
+https://www.wooordhunt.ru/pageviewex
+https://www.wooordhunt.ru/diccontenten_ru
+https://www.wooordhunt.ru/extranslationlist1
+https://www.wooordhunt.ru/pageviewhelp
+https://www.wooordhunt.ru/pageviewfeedback
+https://www.wooordhunt.ru/pageviewextensions
+https://www.wooordhunt.ru/editorfx

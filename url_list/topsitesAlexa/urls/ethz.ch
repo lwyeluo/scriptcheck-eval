@@ -1,0 +1,10 @@
+https://www.ethz.ch/
+https://ethz.ch/de/doktorat/finanzielles.html
+http://www.alumni.ethz.ch
+https://www.phys.ethz.ch/de/
+https://ethz.ch/de/utils/contact.html
+https://ethz.ch/de.ethz_search.html
+https://ethz.ch/de/news-und-veranstaltungen/veranstaltungen.html
+https://ethz.ch/de/die-eth-zuerich/arbeiten-lehren-forschen/jobs.html
+https://bsse.ethz.ch/
+https://ethz.ch/de/forschung/forschungsinfrastruktur.html

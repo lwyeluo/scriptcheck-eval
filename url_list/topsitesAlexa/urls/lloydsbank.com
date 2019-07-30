@@ -1,0 +1,10 @@
+https://www.lloydsbank.com/savingshelp-and-guidance.asp?WT.ac=NavBarTopNavigationPublicnavigationtop_navsavingsHelp_and_guidance
+https://www.lloydsbank.com/savings.asp?WT.ac=NavBarTopNavigationPublicnavigationtop_navSavings
+https://www.lloydsbank.com/banking-with-usin-your-community.asp?WT.ac=NavBarBottomNavigationCommunity
+https://www.mycarfinance.lloydsbank.com/SelfServeCustomerIdentity.aspx?ReturnUrl=%2f
+https://www.lloydsbank.com/loans.asp?WT.ac=NavBarBottomNavigationLoans
+https://www.lloydsbank.com/online-bankingbenefits-online-bankinginternational-payments.asp
+https://www.lloydsbank.com/current-accountsswitch.asp
+https://www.lloydsbank.com/
+https://www.lloydsbank.com/current-accountsjoint-account.asp
+https://www.lloydsbank.com/isasisa-maturity.asp?WT.ac=NavBarTopNavigationPublicnavigationtop_navISAsFixed_cash_ISA_maturity

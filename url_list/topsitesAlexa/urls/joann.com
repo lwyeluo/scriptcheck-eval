@@ -1,0 +1,10 @@
+https://www.joann.com/sewingfoam-and-fiberfoam?prefn1=brand&prefv1=Yaya%20Han&icn=YayaFoam&ici=megamenubanner
+https://www.joann.com/fabricutility-fabricshop-all-utility
+https://www.joann.com/crafts-hobbiescraft-paintingstencils
+https://www.joann.com/kids-teacherskids-art-supplieskids-journaling
+https://www.joann.com/fabricapparel-fabriccotton-apparel-fabric
+https://www.joann.com/crafts-hobbiescraft-painting
+https://www.joann.com/floral-and-weddingsale-floral-and-decorfloral-wedding-sale
+https://www.joann.com/fabricteam-shop-fabricmlb
+https://www.joann.com/fabricfeatured-brands-fabrickeepsake-calico
+https://www.joann.com/

@@ -1,0 +1,10 @@
+https://hollywoodlife.com/topics/beauty/makeup-beauty/
+https://hollywoodlife.com/topics/news/politics/
+https://hollywoodlife.com/topics/entertainment/podcast/
+https://hollywoodlife.com/topics/entertainment/quiz-2/
+https://hollywoodlife.com/feature/nordstrom-anniversary-sale-best-beauty-deals/
+https://hollywoodlife.com/data-policy/
+https://www.hollywoodlife.com/
+https://hollywoodlife.com/topics/beauty/skincare-beauty/
+https://hollywoodlife.com/tag/diet-and-health/
+https://hollywoodlife.com/celeb/harry-styles/

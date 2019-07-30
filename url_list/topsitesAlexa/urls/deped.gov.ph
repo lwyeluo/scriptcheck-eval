@@ -1,0 +1,10 @@
+https://www.deped.gov.ph/k-to-12/inclusive-education/als-frequently-asked-questions/
+https://www.deped.gov.ph/resources/downloads/e-class-record-templates/
+https://www.deped.gov.ph/resources/downloads/palarong-pambansa-2017/
+https://www.deped.gov.ph/k-to-12/about/2nd-national-k-to-12-conference/
+https://www.deped.gov.ph/k-to-12/assessments-and-examinations/principals-test/
+https://www.deped.gov.ph/regions/region-vii/
+https://www.deped.gov.ph/regions/region-iv-a/
+https://www.deped.gov.ph/regions/region-v/
+https://www.deped.gov.ph/
+https://www.deped.gov.ph/about-the-office/

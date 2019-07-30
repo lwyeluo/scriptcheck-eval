@@ -1,0 +1,10 @@
+http://osxdaily.com/category/news/
+https://www.osxdaily.com/tagnews
+https://www.osxdaily.com/
+http://osxdaily.com/2019/07/11/stop-apps-using-camera-mac/
+http://osxdaily.com/2019/07/12/switch-from-desktop-site-back-to-mobile-site-safari-ios/#comments
+http://osxdaily.com/sitemap-all/
+https://www.osxdaily.com/tagios
+https://www.osxdaily.com/categorytips-tricks
+http://osxdaily.com/2019/06/28/check-progress-icloud-restore-ios/
+http://osxdaily.com/2019/06/23/fix-ipad-stuck-apple-logo-screen/

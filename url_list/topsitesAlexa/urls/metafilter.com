@@ -1,0 +1,10 @@
+https://www.metafilter.com/182112Escape-From-The-Haunted-Mansion-Board-Game
+https://www.metafilter.com/music.metafilter.com
+https://www.metafilter.com/user112896
+https://www.metafilter.com/182085WARNING-this-thread-gets-very-very-silly
+https://www.metafilter.com/182087Popular-Front
+https://www.metafilter.com/182089I-cant-wait-to-get-back-to-the-shop-again-and-blow-things-up
+https://www.metafilter.com/182078Because-tech-meccas-dont-always-conform-to-stereotype
+https://www.metafilter.com/181877/In-the-dusty-cabinet-something-lurks
+https://www.metafilter.com/user92137
+https://www.metafilter.com/

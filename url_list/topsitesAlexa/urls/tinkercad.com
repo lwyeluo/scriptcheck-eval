@@ -1,0 +1,10 @@
+https://www.tinkercad.com/www.instagram.comtinkercad
+https://www.tinkercad.com/www.pinterest.comAutodeskEdutinkercad
+https://www.tinkercad.com/www.facebook.comtinkercad
+https://www.tinkercad.com/authshadowbox_register_fullscreen
+https://www.tinkercad.com/teach
+https://www.tinkercad.com/search
+https://www.tinkercad.com/www.twitter.comtinkercad
+https://www.tinkercad.com/
+https://www.tinkercad.com/learn
+https://www.tinkercad.com/things

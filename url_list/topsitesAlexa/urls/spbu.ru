@@ -1,0 +1,10 @@
+https://www.spbu.ru/openuniversityrabotodatelyam
+https://www.spbu.ru/studentamstudencheskiy-sovet
+https://www.spbu.ru/studentamsocialnaya-zashchita
+https://www.spbu.ru/openuniversitydocuments52
+https://www.spbu.ru/news-eventskrupnym-planom
+https://www.spbu.ru/openuniversitypartneram
+https://www.spbu.ru/postupayushchimprogrammsbakalavriat
+https://www.spbu.ru/universitetpopechitelskiy-sovet
+https://www.spbu.ru/www.instagram.comspb_university
+https://www.spbu.ru/

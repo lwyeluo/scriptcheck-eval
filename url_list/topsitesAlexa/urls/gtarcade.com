@@ -1,0 +1,10 @@
+https://www.gtarcade.com/kof.gtarcade.com
+https://www.gtarcade.com/
+https://v3m.gtarcade.com/?q=5cd15f41abd211391188
+https://www.gtarcade.com/doomsday.gtarcade.com
+https://loa.gtarcade.com
+https://www.gtarcade.com/www.gtarcade.comterms.html
+https://www.gtarcade.com/www.gtarcade.comcontact.html
+https://www.gtarcade.com/en/news/18726.html
+https://profile.gtarcade.com/profile/index
+https://www.gtarcade.com/seafight.gtarcade.com

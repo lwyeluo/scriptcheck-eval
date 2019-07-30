@@ -1,0 +1,10 @@
+https://www.digikey.com/productsenembedded-computersinterface-boards932
+https://www.digikey.com/productsenrf-if-and-rfidrf-transceiver-ics879
+https://www.digikey.com/productsenintegrated-circuits-ics32?FV=fffc040a,fffc001f,fffc0304,fffc1f72,fffc0059,fffc03d5
+https://www.digikey.com/productspower-suppliesen
+https://www.digikey.com/productsenaudio-productsalarms-buzzers-and-sirens157?v=102&v=8094&v=447&v=1462
+https://www.digikey.com/productssensors-transducersen
+https://www.digikey.com/productsenrelaysautomotive-relays962
+https://www.digikey.com/productsencomputer-equipmentaccessories881
+https://www.digikey.com/productsenrf-if-and-rfidrf-amplifiers860
+https://www.digikey.com/

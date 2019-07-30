@@ -1,0 +1,10 @@
+https://www.getadblock.com/iOS
+https://help.getadblock.com
+https://www.getadblock.com/chrome
+https://www.getadblock.com/android
+https://www.getadblock.com/
+https://www.getadblock.com/firefox
+https://www.getadblock.com/safari
+https://www.getadblock.com/privacy
+http://code.getadblock.com
+https://www.getadblock.com/edge

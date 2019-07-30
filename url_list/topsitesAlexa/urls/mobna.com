@@ -1,0 +1,10 @@
+https://www.mobna.com/446834/%d9%81%d8%b1%d9%88%d8%b4%da%af%d8%a7%d9%87-%d8%ac%d8%af%db%8c%d8%af-%d8%a7%d9%be%d9%84-%d8%af%d8%b1-%d8%aa%d8%a7%db%8c%d9%be%d9%87%d8%aa%d8%b5%d8%a7%d9%88%db%8c%d8%b1.html
+https://www.mobna.com/
+http://www.mobna.com
+https://www.mobna.com/441141/44-%d8%aa%d9%88%d8%b5%db%8c%d9%87-%d8%a8%d8%b1%d8%a7%db%8c-%d8%b2%d9%86%d8%af%da%af%db%8c-%d8%a8%d9%87%d8%aa%d8%b1.html
+https://www.mobna.com/442250/21-%da%a9%d8%a7%d8%b1-%d8%b3%d8%a7%d8%af%d9%87-%d8%a8%d8%b1%d8%a7%db%8c-%d8%a8%d8%a7%d9%87%d9%88%d8%b4-%d8%aa%d8%b1-%d8%a8%d9%88%d8%af%d9%86.html
+https://www.mobna.com/447598/%d8%a8%d8%b1%d8%aa%d8%b1%db%8c%d9%86-%d9%81%d9%86%d8%a7%d9%88%d8%b1%db%8c%e2%80%8c%d9%87%d8%a7%db%8c-%d9%86%d9%88%d8%b8%d9%87%d9%88%d8%b1-%d8%af%d8%b1-%d8%b3%d8%a7%d9%84-2019-%d8%b9.html
+https://www.mobna.com/445924/%d8%b1%d9%88%db%8c%d8%af%d8%a7%d8%af%d9%87%d8%a7%db%8c-%d8%a7%d8%b9%d8%ac%d8%a7%d8%a8-%d8%a7%d9%86%da%af%db%8c%d8%b2-%d8%b7%d8%a8%db%8c%d8%b9%db%8c-%d8%b9%da%a9%d8%b3.html
+https://www.mobna.com/category/article
+https://www.mobna.com/448090/%d9%88%d9%81%d8%a7%d8%af%d8%a7%d8%b1%db%8c-%da%a9%d8%a7%d8%b1%d8%a8%d8%b1%d8%a7%d9%86-%d8%a8%d9%87-%d8%a2%db%8c%d9%81%d9%88%d9%86-%da%a9%d9%85-%d8%b4%d8%af%d9%87-%d8%a7%d8%b3%d8%aa.html
+https://www.mobna.com/447887/14-%d9%85%db%8c%d9%84%db%8c%d9%88%d9%86-%d8%aa%d8%b1%d8%a7%da%a9%d9%86%d8%b4-%d9%85%d8%a7%d9%84%db%8c-%d9%85%d9%88%d9%81%d9%82-%d8%af%d8%b1-%d8%a7%d9%be%d9%84%db%8c%da%a9%db%8c%d8%b4%d9%86.html

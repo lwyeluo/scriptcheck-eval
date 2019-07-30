@@ -1,0 +1,10 @@
+https://www.thehansindia.com/epaper.thehansindia.com
+https://www.thehansindia.com/businessmarket-compass
+https://www.thehansindia.com/life-stylefashion
+https://www.thehansindia.com/newsnational
+https://www.thehansindia.com/cinemaimages
+https://www.thehansindia.com/offbeatplease-return-our-whale-parts-pleads-stately-home-537666
+https://www.thehansindia.com/businesshans-invest
+https://www.thehansindia.com/pagesprivacy_policy
+https://www.thehansindia.com/
+https://www.thehansindia.com/newsnationalsheila-dikshit-loved-western-music-watched-ddlj-20-times--548313

@@ -1,0 +1,10 @@
+https://www.expansion.com/mercados/cotizaciones/valores/unitedhealth_NYUNH.html
+https://www.expansion.com/mercados/fondos.html?intcmp=MENUHOM24101&s_kw=fondos
+https://www.expansion.com/nauta360/vendee-globe/2019/07/19/5d31de94e5fdea5a058b4635.html
+https://www.expansion.com/mercados/cotizaciones/valores/merck_NYMRK.html
+https://www.expansion.com/titulares/todos-titulares.html
+https://www.expansion.com/cine-y-series.html
+https://www.expansion.com/
+https://www.expansion.com/mercados/2019/07/20/5d32086a468aebdf718b46ff.html#ancla_comentarios
+https://www.expansion.com/mercados/cronica-bolsa/bolsa-minuto.html
+https://www.expansion.com/mercados/cotizaciones/materias/brent_LCO.html

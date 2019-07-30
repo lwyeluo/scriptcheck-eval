@@ -1,0 +1,10 @@
+https://www.mtggoldfish.com/articlessearch?tag=podcast
+https://www.mtggoldfish.com/decks
+https://www.mtggoldfish.com/spoilersRavnica+Allegiance
+https://www.mtggoldfish.com/moverspaperstandard
+https://www.mtggoldfish.com/spoilersWar+of+the+Spark
+https://www.mtggoldfish.com/seriesbudget-commander
+https://www.mtggoldfish.com/deckcustomstandard
+https://www.mtggoldfish.com/archetypepauper-wurg-88184
+https://www.mtggoldfish.com/articlessearch?tag=rough+drafts
+https://www.mtggoldfish.com/

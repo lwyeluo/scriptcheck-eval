@@ -1,0 +1,10 @@
+http://news.winshang.com/html/066/0697.html
+http://down.winshang.com/show-46706.html
+http://news.winshang.com/html/066/0514.html
+http://biz.winshang.com/fhsg
+http://biz.winshang.com/html/xm/283/24.htm
+http://www.winshang.com/winshangdata/detail.aspx?id=23&type=3
+http://down.winshang.com/
+http://www.winshang.com/bk-zysy-1285.html
+http://www.winshang.com/k/Estamall/
+http://www.winshang.com/

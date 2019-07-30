@@ -1,0 +1,10 @@
+https://www.farfetch.com/
+https://www.farfetch.com/sgshoppingmenperformance-trainers-2items.aspx
+https://www.farfetch.com/sgsetsmenmost-wanted-sneakers.aspx
+https://www.farfetch.com/sgshoppingmenclutches-2items.aspx
+https://www.farfetch.com/sgshoppingmendsquared2items.aspx
+https://www.farfetch.com/sgdesignerswomen#js-item-x
+https://www.farfetch.com/sgshoppingmenjimmy-chooshoes-2items.aspx
+https://www.farfetch.com/sgshoppingwomenclothing-1items.aspx
+https://www.farfetch.com/sgshoppingmenadidastrainers-2items.aspx
+https://www.farfetch.com/sgsetswomenpositively-conscious-edit-women.aspx

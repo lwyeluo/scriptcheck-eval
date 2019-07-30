@@ -1,0 +1,10 @@
+https://www.teleman.pl/program-tvstacjeCanalPlus-Seriale
+https://www.teleman.pl/program-tvstacjeCanalPlus-Sport
+https://www.teleman.pl/program-tv?day=1
+https://www.teleman.pl/program-tvstacjeHBO
+https://www.teleman.pl/program-tvstacjePolsat
+https://www.teleman.pl/
+https://www.teleman.pl/program-tvstacjeFOX
+https://www.teleman.pl/tvSport-Bez-Fikcji-Jak-Zawsze-Kolonia-1891401
+https://www.teleman.pl/tvWolny-Ekran-154-1898056
+https://www.teleman.pl/tvPrzygody-Merlina-3-Krolowa-Serc-36-1897984

@@ -1,0 +1,10 @@
+https://www.seeking.com/affiliate
+https://www.seeking.com/reviews
+https://www.seeking.com/privacy
+https://www.seeking.com/terms
+https://www.seeking.com/privacy#GDPR
+https://www.seeking.com/about-us
+https://www.seeking.com/contact
+https://www.seeking.com/sugar-daddy
+https://www.seeking.com/login
+https://www.seeking.com/

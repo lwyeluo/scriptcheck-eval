@@ -1,0 +1,10 @@
+https://www.wetter.com/gesundheiterkaeltungswetter
+https://www.wetter.com/videos/nachrichten/kein-hurrikan-aber-trotzdem-gefaehrlich-sturm-barry-heruntergestuft/5d2afd8da5b4b9243a5a5492
+https://www.wetter.com/hd-live-webcams/deutschland/boltenhagen/554c76096b130/
+https://www.wetter.com/deutschland/hamburg/flughafen/DE0004130107.html
+https://www.wetter.com/videoswetterlexikon
+https://www.wetter.com/videos
+https://www.wetter.com/
+https://www.wetter.com/tvprogramm
+https://www.wetter.com/frankreich/paris/FR0IF0356.html
+https://www.wetter.com/wetterkartenbewoelkung

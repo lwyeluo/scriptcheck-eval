@@ -1,0 +1,10 @@
+http://bravo.israelinfo.co.il
+https://www.israelinfo.co.il/news.israelinfo.co.ilkaleidoscope80740
+https://www.israelinfo.co.il/doska.israelinfo.co.ilmes2
+https://www.israelinfo.co.il/tourism.israelinfo.co.ilannounce16
+https://www.israelinfo.co.il/reklama.israelinfo.co.il
+https://www.israelinfo.co.il/pogoda.israelinfo.co.il
+http://bravo.israelinfo.co.il/theater/
+https://www.israelinfo.co.il/pirsum.israelinfo.co.il
+http://pogoda.israelinfo.co.il
+https://www.israelinfo.co.il/

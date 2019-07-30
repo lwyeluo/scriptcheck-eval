@@ -1,0 +1,10 @@
+https://www.heroku.com/students
+https://www.heroku.com/continuous-integration
+https://www.heroku.com/about
+https://www.heroku.com/postgres
+https://www.heroku.com/
+https://www.heroku.com/dynos
+https://www.heroku.com/java
+https://www.heroku.com/go
+https://www.heroku.com/clojure
+https://www.heroku.com/flow

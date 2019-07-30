@@ -1,0 +1,10 @@
+https://www.wccftech.com/
+https://wccftech.com/author/alisalman/
+https://wccftech.com/yuzu-pc-emulator-run-nintendo-switch-games-8k/
+https://wccftech.com/author/roshkelly/
+https://wccftech.com/author/omarsohail/
+https://wccftech.com/marvel-ultimate-alliance-3-punisher-blade-loki/
+https://www.wccftech.com/topicdeals
+https://wccftech.com/call-of-duty-modern-warfare-4k-footage/
+https://wccftech.com/108mp-camera-10x-optical-zoom-smartphone-2020/
+https://wccftech.com/hongmeng-os-not-android-smartphone-alternative/

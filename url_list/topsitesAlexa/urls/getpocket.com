@@ -1,0 +1,10 @@
+https://www.getpocket.com/developer
+https://www.getpocket.com/signup?s=homepage
+https://www.getpocket.com/publisher
+https://www.getpocket.com/signup?force=email&s=homepage
+https://www.getpocket.com/privacy
+https://www.getpocket.com/
+https://www.getpocket.com/blog
+https://www.getpocket.com/tos
+https://help.getpocket.com
+https://www.getpocket.com/jobs

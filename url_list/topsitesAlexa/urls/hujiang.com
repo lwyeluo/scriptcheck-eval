@@ -1,0 +1,10 @@
+https://class.hujiang.com/19395515/intro
+https://www.hujiang.com/19395781intro?ch_source=icls_xkzx_0_cnxh&ch_campaign=cls11617
+http://class.hujiang.com/category/20
+https://class.hujiang.com/category/489
+https://www.hujiang.com/19396551demo
+https://www.hujiang.com/
+http://class.hujiang.com/category/318
+http://class.hujiang.com/category/72
+https://class.hujiang.com/category/459
+http://class.hujiang.com/category/199

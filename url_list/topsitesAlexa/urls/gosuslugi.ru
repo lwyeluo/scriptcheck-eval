@@ -1,0 +1,10 @@
+https://www.gosuslugi.ru/informationnews2019_07_03_tax_refund_when_buying_drugs
+https://www.gosuslugi.ru/
+https://www.gosuslugi.ru/groupkindergarten_enrollment?from=main
+https://www.gosuslugi.ru/help/faq/pasporta_registracii_vizy/2260
+https://www.gosuslugi.ru/situation/pomoshch_pensioneram/adresnaya_socialnaya_podderzhka
+https://www.gosuslugi.ru/10001/1?utm_source=beta&utm_campaign=target&utm_medium=banner&utm_content=mir_pay
+https://www.gosuslugi.ru/10003?from=main
+https://www.gosuslugi.ru/informationnews2019_06_13_ban_on_leaving_a_child_abroad
+https://www.gosuslugi.ru/10056?from=main
+https://www.gosuslugi.ru/situation?from=main

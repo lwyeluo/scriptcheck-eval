@@ -1,0 +1,10 @@
+https://shanghai.ceair.com/zh/
+http://www.ceair.com/a/yxzw.html
+https://vacations.ceair.com/detail/310013254.html
+http://www.ceair.com/guide2/kzhl/index.html
+http://cg.ceair.com/muovc/newsite/main/zh_SG/index.html
+https://vacations.ceair.com/detail/310013335.html
+http://www.ceair.com/
+http://www.ceair.com/about/dhcpjs/t20141224_16928.html
+https://activity.ceair.com/UI/19625cookies/pc/index_cn.html
+http://it.ceair.com/

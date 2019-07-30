@@ -1,0 +1,10 @@
+https://www.ae.com/usenxaerieswimsuitsbikinis?menu=cat4840006&pagetype=shp
+https://www.ae.com/usentrackorder?navdetail=footer%3Ac2%3Ap2
+https://www.ae.com/usenctrueaccessories13v7thcZ1qs1go2-filtered?pagetype=plp
+https://www.ae.com/usenxaeriefeaturedtrend-moroccan-inspired?menu=cat4840006&pagetype=shp
+https://www.ae.com/
+https://www.ae.com/usencwomennew-arrivals11gj7jfZ1266xyj-filtered?pagetype=plp
+https://www.ae.com/usencmenonline-only1hnv8q2Zm5lwx6-filtered?pagetype=plp
+https://www.ae.com/usencaeriesleepwearcat6460089?pagetype=plp
+https://www.ae.com/aerie-real-life
+https://www.ae.com/usencmencologne-groomingcat90024?pagetype=plp

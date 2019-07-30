@@ -1,0 +1,10 @@
+https://www.1kkk.com/
+https://www.1kkk.com/manhua51811
+https://www.1kkk.com/search?title=DC+Comics&language=1&f=2
+https://www.1kkk.com/ch28-861973
+https://www.1kkk.com/search?title=%e4%b8%89%e9%83%a8%e6%95%ac(%e4%b8%89%e9%83%a8%e3%81%91%e3%81%84)+&language=1&f=2
+https://www.1kkk.com/manhua46749
+https://www.1kkk.com/manhua4545
+https://www.1kkk.com/manhua48237
+https://www.1kkk.com/ch14-862465
+https://www.1kkk.com/manhua38081

@@ -1,0 +1,10 @@
+https://www.mediametrics.ru/articles
+https://www.mediametrics.ru/ratingru818online.html
+https://www.mediametrics.ru/ratingamonline.html
+https://www.mediametrics.ru/ratingkgonline.html
+https://www.mediametrics.ru/ratingru814online.html
+https://www.mediametrics.ru/infodevelopers.html
+https://www.mediametrics.ru/ratingru395online.html
+https://www.mediametrics.ru/li.rugo?xn--h1abpkdcq6cb.xn--p1ai#
+https://www.mediametrics.ru/
+https://www.mediametrics.ru/ratingru812online.html

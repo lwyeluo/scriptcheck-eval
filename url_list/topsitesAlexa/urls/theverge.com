@@ -1,0 +1,10 @@
+https://www.theverge.com/headphone-review
+https://www.theverge.com/good-deals
+https://www.theverge.com/how-to
+https://www.theverge.com/2019/7/18/20698516/connected-fitness-equipments-peloton-mirror-tonal-hydrow-fightcamp-on-demand-streaming-exercise
+https://www.theverge.com/photography
+https://www.theverge.com/
+https://www.theverge.com/2019/7/18/18629403/nasa-artemis-moon-program-funds-hardware-apollo-11-anniversary
+https://www.theverge.com/2019/7/20/20701999/apple-watch-elago-w6-stand-classic-ipod-smartwatch#comments
+https://www.theverge.com/amazon
+https://www.theverge.com/2019/7/19/20701161/hulu-veronica-mars-kristen-bell-season-4-released-early

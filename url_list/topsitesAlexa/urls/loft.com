@@ -1,0 +1,10 @@
+https://www.loft.com/privacy
+https://www.loft.com/work/catl000019
+https://www.loft.com/plus-jeans/cat3750041
+https://www.loft.com/sale-jewelry/cat3820008
+https://www.loft.com/sale-tops/catl000052
+https://www.loft.com/maternity-tops/catl000044
+https://www.loft.com/sale-leggings/cat3950007
+https://www.loft.com/
+https://www.loft.com/tall-skirts/cat1750012
+https://www.loft.com/plus-wear-to-work/cat4040005

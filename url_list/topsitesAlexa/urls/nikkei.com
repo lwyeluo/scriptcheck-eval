@@ -1,0 +1,10 @@
+https://www.nikkei.com/technologyai
+http://pr.nikkei.com/share/
+https://www.nikkei.com/cultureourai?n_cid=ds_under_title
+https://www.nikkei.com/marketskabunidxprice
+https://www.nikkei.com/
+https://www.nikkei.com/localchugoku-shikoku
+https://www.nikkei.com/articleDGXMZO47469950Y9A710C1X11000?n_cid=DSTPCS001
+https://www.nikkei.com/theme?dw=19061100&n_cid=ds_under_title
+https://www.nikkei.com/articleDGXMZO47125620Z00C19A7000000
+https://www.nikkei.com/theme?dw=17110100

@@ -1,0 +1,10 @@
+http://www.collider.com/
+http://www.collider.com/all-news
+http://www.collider.com/movie-talk
+http://collider.com/marvels-what-if-announces-massive-voice-cast-of-mcu-stars-jeffrey-wright-as-the-watcher/
+http://collider.com/author/matt-goldberg/
+http://collider.com/doctor-strange-2-release-date/
+http://collider.com/summer-movies-2019/
+http://collider.com/author/vinnie-mancuso/
+http://www.collider.com/tagnetflix
+http://www.collider.com/movie-clips

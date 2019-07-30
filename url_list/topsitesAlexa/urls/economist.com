@@ -1,0 +1,10 @@
+https://execed.economist.com/
+https://www.economist.com/about-the-economist
+https://www.economist.com/corporate-academic-subscriptions
+https://www.economist.com/leaders20190718a-trade-dispute-between-japan-and-south-korea-has-trumpian-echoes
+https://www.economist.com/subscribe
+https://my.economist.com
+https://www.economist.com/cookies-info
+https://www.economist.com/
+https://www.economist.com/china20190718hong-kongs-protesters-learn-from-bruce-lee
+https://www.economist.com/prospero

@@ -1,0 +1,10 @@
+https://www.panasonic.com/sgconsumermy-favorites.html
+https://www.panasonic.com/sgcorporateprofilehistory.html
+https://www.panasonic.com/sgconsumerhome-appliancewater-heater.html
+https://www.panasonic.com/sgconsumercameras-camcordercamcorders.html
+https://www.panasonic.com/sgconsumerhome-appliancewashing-machines.html
+https://www.panasonic.com/sgconsumercameras-camcorderlumix-s-lenses.html
+https://www.panasonic.com/sgconsumerkitchen-applianceother-small-kitchen-appliancesfood-processor.html
+https://www.panasonic.com/sgconsumerbeauty-groomingmens-groomingtrimmer.html
+https://www.panasonic.com/sgconsumerkitchen-appliancerice-cookerih.html
+https://www.panasonic.com/

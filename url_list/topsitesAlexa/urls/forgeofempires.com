@@ -1,0 +1,10 @@
+https://it.forgeofempires.com
+https://mx.forgeofempires.com
+http://www.forgeofempires.com/foeen-glps.innogamescdn.commediaimagesscreenshots-foe-strategic-battle.2f5be676.jpg
+https://sk.forgeofempires.com
+https://en.forgeofempires.com
+https://zz.forgeofempires.com
+https://pl.forgeofempires.com
+https://forum.en.forgeofempires.com/
+http://www.forgeofempires.com/foeen-glps.innogamescdn.commediaimagesscreenshots-foe-colonial-age.0393274e.jpg
+http://www.forgeofempires.com/

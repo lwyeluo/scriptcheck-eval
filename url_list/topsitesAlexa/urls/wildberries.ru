@@ -1,0 +1,10 @@
+https://www.wildberries.ru/promotionsdni-shopinga-25-na-vse?bid=03002fb9-6791-4066-a235-a0739d6ccd4b
+https://www.wildberries.ru/catalog/detyam
+https://www.wildberries.ru/catalog/dom-i-dacha/instrumenty
+https://www.wildberries.ru/catalog/tovary-dlya-zhivotnyh
+https://www.wildberries.ru/services/kak-sdelat-zakaz
+https://www.wildberries.ru/services/vozvrat-tovara
+https://www.wildberries.ru/
+https://www.wildberries.ru/catalog/yuvelirnye-ukrasheniya
+https://www.wildberries.ru/catalog/krasota
+https://www.wildberries.ru/services/voprosy-i-otvety?8_1

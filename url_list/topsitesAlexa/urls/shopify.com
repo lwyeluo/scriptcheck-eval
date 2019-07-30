@@ -1,0 +1,10 @@
+https://www.shopify.com/channels
+https://www.shopify.com/legalprivacy
+https://www.shopify.com/login
+https://www.shopify.com/
+https://www.shopify.com/dropshipping
+https://www.shopify.com/poshardware
+https://www.shopify.com.au/
+https://www.shopify.com/sell
+https://www.shopify.com/guides
+https://www.shopify.com/instagram

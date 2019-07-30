@@ -1,0 +1,10 @@
+https://www.homeaway.com/haod
+https://www.homeaway.com/trust
+https://www.homeaway.com/d/28777/bali
+https://www.homeaway.com/d/26460/barbados
+https://www.homeaway.com/
+https://www.homeaway.com/searchkeywords:united-statesfilter:71
+https://www.homeaway.com/d/41/hilton-head-island
+https://www.homeaway.com/d/33814/france
+https://www.homeaway.com/d/32949/denmark
+https://www.homeaway.com/lyp?icid=IL___O_Text___footer_nav_link

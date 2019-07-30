@@ -1,0 +1,10 @@
+https://www.basspro.com/shop/AjaxLogonForm?myAcctMain=1&catalogId=3074457345616676768&langId=-1&storeId=715838534
+https://www.basspro.com/shopenaffiliate-program?cm_sp=FtrAfPrMar2019_FT
+https://www.basspro.com/shopenbargain-cave-shoes-boots-sale-and-clearance?cm_sp=authorGridprod3_HM
+https://www.basspro.com/shopenterms-of-use-and-community-guidelines?cm_sp=FtrTrmsMar2019_FT
+https://www.basspro.com/shopenwildlife-creations?cm_sp=FtrWldCrMar2019_FT
+https://www.basspro.com/shopenprivacy-policy-summary-bass-pro-shops
+http://1source.basspro.com/
+https://www.basspro.com/shopengift-card-terms?cm_sp=FtrGCTCMar2019_FT
+https://www.basspro.com/
+https://www.basspro.com/shop/en/ladies-clothing

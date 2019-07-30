@@ -1,0 +1,10 @@
+https://www.bartleby.com/topics/Cyberessays
+https://www.bartleby.com/topics/Cloning-Essay
+https://www.bartleby.com/textbookstheories-of-personality-mindtap-course-list-11th-edition9781305652958solutions
+https://www.bartleby.com/topics/Black-Death-Essay
+https://www.bartleby.com/subjectmathadvanced-math
+https://www.bartleby.com/
+http://faq.bartleby.com/
+https://www.bartleby.com/topics/Communication-Essay
+https://www.bartleby.com/topics/To-Kill-a-Mockingbird-Essay
+https://www.bartleby.com/document-directory166

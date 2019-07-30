@@ -1,0 +1,10 @@
+http://www.soccer365.ru/competitions651
+http://www.soccer365.ru/competitions687
+http://www.soccer365.ru/livematch-dinamo-spb-zenit-smotret-onlayn
+http://www.soccer365.ru/clubs8568
+http://www.soccer365.ru/clubs198
+http://www.soccer365.ru/clubs79
+http://www.soccer365.ru/clubs221
+http://www.soccer365.ru/talktopic2085
+http://www.soccer365.ru/
+http://www.soccer365.ru/livematch-tambov-lokomotiv-moskva-smotret-onlayn

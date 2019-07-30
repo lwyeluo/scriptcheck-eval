@@ -1,0 +1,10 @@
+https://www.vcommission.com/
+https://www.vcommission.com/career/
+https://www.vcommission.com/request-meeting/
+https://www.vcommission.com/publisher-terms/
+https://www.vcommission.com/all-events/
+https://www.vcommission.com/faqs/
+http://partners.vcommission.com/login
+https://www.vcommission.com/payments/
+https://www.vcommission.com/life-at-vcommission/
+http://www.vcommission.com/about-vcommission/

@@ -1,0 +1,10 @@
+https://www.jetbrains.com/upsource?fromMenu
+https://www.jetbrains.com/profiler?fromMenu
+https://www.jetbrains.com/clion
+https://www.jetbrains.com/resharper-cpp?fromMenu
+https://www.jetbrains.com/everywhere.kotlinlang.org?fromMenu
+https://www.jetbrains.com/opensource?fromMenu
+https://www.jetbrains.com/education?fromMenu#lang=python&role=learner
+https://www.jetbrains.com/gamedev?fromMenu
+https://www.jetbrains.com/
+https://www.jetbrains.com/products.html#lang=sql

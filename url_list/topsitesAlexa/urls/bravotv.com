@@ -1,0 +1,10 @@
+https://www.bravotv.com/below-deck-mediterranean
+https://www.bravotv.com/southern-charm-new-orleansseason-2episode-7videosbarry-smith-got-arrested-in-a-case-of-mistaken
+https://www.bravotv.com/the-real-housewives-of-new-jerseyhome-designmelissa-gorga-meridian-shore-house-furniture-photos
+https://www.bravotv.com/the-real-housewives-of-new-york-city
+https://www.bravotv.com/lookbook
+https://www.bravotv.com/bravo-insider
+https://www.bravotv.com/
+https://www.bravotv.com/the-real-housewives-of-orange-county
+https://www.bravotv.com/the-real-housewives-of-beverly-hillsseason-9episode-22videosall-the-rhobh-ladies-love-denise
+https://www.bravotv.com/about-us

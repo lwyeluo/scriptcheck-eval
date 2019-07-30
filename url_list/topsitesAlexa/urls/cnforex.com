@@ -1,0 +1,10 @@
+http://www.cnforex.com/comment/html/2019/7/19/8722606dcc6a6b8f80b9176089f08a38.html
+http://www.cnforex.com/aboutsitemap
+http://www.cnforex.com/
+http://www.cnforex.com/news/html/2019/07/19/c5057a608bc8f3af326dad244e53d123.html
+http://www.cnforex.com
+http://baike.cnforex.com/
+http://www.cnforex.com/news/
+http://www.cnforex.com/news/html/2019/07/19/ea0597db0b241566555d49e70d2893a3.html
+http://msvc.cnforex.com/html/AlpariLive/
+http://tools.cnforex.com/

@@ -1,0 +1,10 @@
+http://fun.jjang0u.com/chalkadak/view?db=162&no=57618
+http://www.jjang0u.com/RealggjBoardMain.html?db=1074
+http://fun.jjang0u.com/issue/new_list?is_best=n2
+http://fun.jjang0u.com/chalkadak/view?db=1054&no=5256
+http://fun.jjang0u.com/chalkadak/list?db=193
+http://fun.jjang0u.com/chalkadak/view?db=160&no=421258
+http://www.jjang0u.com/
+http://fun.jjang0u.com/chalkadak/list?db=1017
+http://fun.jjang0u.com/chalkadak/list?db=306
+http://fun.jjang0u.com/chalkadak/list?db=282

@@ -1,0 +1,10 @@
+https://www.igromania.ru/video21290Hitman_2_Treyler_nabora_Santa_Fortuna.html
+https://www.igromania.ru/news83716Za_statistiku_Epicenter_Major_2019_po_Dota_2_otvechaet_SAP.html
+https://www.igromania.ru/news84569NVIDIA_GeForce_RTX_2080_Super_pokazala_sebya_v_teste_Final_Fantasy_XV.html
+https://www.igromania.ru/video21264Obzor_The_Sinking_City_Vedmak_s_drobovikom_i_sekret_Ktulhu.html
+https://www.igromania.ru/news80782Yandeks_podderzhit_kibersportivnye_programmy_Riot_Games.html
+https://www.igromania.ru/game30939Far_Cry_New_Dawn.html
+https://www.igromania.ru/news84482Scenarist_i_rezhissyor_X-files_gotovit_serial_po_Warhammer_40_000.html
+https://www.igromania.ru/
+https://www.igromania.ru/news83899Blizzard_darit_golubogo_drakona_za_podpisku_na_World_of_Warcraft.html
+https://www.igromania.ru/news82898Ubisoft_razdayot_polnuyu_versiyu_Steep_v_Uplay.html

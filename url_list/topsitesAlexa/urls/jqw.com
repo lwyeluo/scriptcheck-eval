@@ -1,0 +1,10 @@
+http://www.jqw.com/
+http://www.product.jqw.com/t11607/pList.html
+http://www.jqw.com/Businfo/2019000080452.htm
+http://www.xqdjj.jqw.com/
+http://www.product.jqw.com/t17793/pList.html
+http://www.product.jqw.com/t17004/pList.html
+http://www.syt.jqw.com/syt_payment.aspx
+http://www.jqw.com/Businfo/2019000084193.htm
+http://www.product.jqw.com/t11886/pList.html
+http://www.product.jqw.com/t18606/pList.html

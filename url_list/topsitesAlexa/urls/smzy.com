@@ -1,0 +1,10 @@
+http://www.smzy.com/ios/330617.html
+http://www.smzy.com/smzy/down106244.html
+http://www.smzy.com/smzy/DownList_2029_1.html
+http://www.smzy.com/smzy/down239029.html
+http://www.smzy.com/mac/333321.html
+http://www.smzy.com/mac/333295.html
+http://www.smzy.com/smzyDownList_1896_1.html
+http://www.smzy.com/
+http://www.smzy.com/smzy/down444142.html
+http://www.smzy.com/smzy/DownList_2002_1.html

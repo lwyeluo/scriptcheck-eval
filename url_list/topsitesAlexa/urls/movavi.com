@@ -1,0 +1,10 @@
+https://www.movavi.com/buy-videoeditor
+https://www.movavi.com/storemac
+https://www.movavi.com/videoconverter?asrc=main_menu
+https://www.movavi.com/no
+https://www.movavi.com/ios-video-editor?asrc=main_menu
+https://www.movavi.com/cz
+https://www.movavi.com/video-editor-plus-mac?asrc=main_menu
+https://www.movavi.com/video-editor-business?asrc=main_menu_work
+https://www.movavi.com/blur-image?asrc=main_menu
+https://www.movavi.com/

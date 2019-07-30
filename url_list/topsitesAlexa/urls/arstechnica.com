@@ -1,0 +1,10 @@
+https://www.arstechnica.com/features
+https://www.arstechnica.com/?view=mobile
+https://arstechnica.com/cars/2019/07/the-corvette-goes-mid-engined-supercar-performance-for-60000/?comments=1
+https://arstechnica.com/author/jenniferouellette/
+https://arstechnica.com/gaming/2019/06/we-asked-you-answered-rebecca-ford-reviews-your-warframe-frames/
+https://arstechnica.com/tech-policy/2019/07/as-russian-faceapp-gobbles-up-user-photos-schumer-asks-fbi-to-investigate/?comments=1
+https://arstechnica.com/information-technology/2019/07/im-not-100-with-anybody-ars-dissects-a-nigerian-twitter-catfish-scam/?comments=1
+https://www.arstechnica.com/
+https://arstechnica.com/author/kyle-orland/
+https://arstechnica.com/author/peteropaskar/

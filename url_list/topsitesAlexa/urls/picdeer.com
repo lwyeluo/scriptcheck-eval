@@ -1,0 +1,10 @@
+http://picdeer.com/tag/food
+http://picdeer.com/search
+http://picdeer.com/tag/car
+http://picdeer.com/list/296
+http://picdeer.com/feedback
+http://picdeer.com/terms-of-service
+http://picdeer.com/my-most-liked-posts
+http://picdeer.com/instagram-login?ref=my-lists
+http://picdeer.com/tag/fashion
+http://www.picdeer.com/

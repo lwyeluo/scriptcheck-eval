@@ -1,0 +1,10 @@
+http://onecall2ch.com/?p=230
+http://onecall2ch.com/archives/9438242.html
+http://onecall2ch.com/archives/9438239.html
+http://onecall2ch.com/archives/9438221.html
+http://onecall2ch.com/
+http://onecall2ch.com/index.rdf
+http://onecall2ch.com/archives/9437996.html
+http://onecall2ch.com/archives/9438003.html
+http://onecall2ch.com/archives/9437919.html
+http://onecall2ch.com/?p=3

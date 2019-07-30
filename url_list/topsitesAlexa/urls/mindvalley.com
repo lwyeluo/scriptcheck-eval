@@ -1,0 +1,10 @@
+https://www.mindvalley.com/programs/health
+https://www.mindvalley.com/about/team
+https://www.mindvalley.com/apps
+https://www.mindvalley.com/programs/relationships
+https://podcast.mindvalley.com/
+https://www.mindvalley.com/be
+https://podcast.mindvalley.com/?_ga=2.211518421.1925041666.1529313081-1287158167.1527067148
+https://www.mindvalley.com/privacy-policy
+https://www.mindvalley.com/hypnotherapy/masterclass?utm_source=mv.com&utm_medium=mva_homepagemv&utm_campaign=evergreen_rtha&utm_content=mv&utm_term=mv
+https://www.mindvalley.com/

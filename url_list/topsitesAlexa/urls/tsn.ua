@@ -1,0 +1,10 @@
+https://tsn.ua/kyiv/u-stolici-zapracyuvali-vsi-viborchi-dilnici-1381491.html
+https://tsn.ua/tourism
+https://tsn.ua/vypusky/tsn_z_surdoperekladom
+https://tsn.ua/blogi/themes/cooking
+https://tsn.ua/nauka_it
+https://tsn.ua/svit/blizko-tisyachi-lyudey-protestuyut-u-moskvi-vimagayut-dopustiti-do-miskih-viboriv-nezalezhnih-kandidativ-1377939.html
+https://tsn.ua/novini-dnya?sort=popular&period=day
+https://tsn.ua/interview/mi-svidomo-vidstupali-vid-realnoyi-hroniki-podiy-1364652.html
+https://tsn.ua/ampstories/naykrutishi-igrashki-microsoft-na-vistavci-e3-2019
+https://www.tsn.ua/

@@ -1,0 +1,10 @@
+https://www.tele2.ru/connectTariffclassic#mnp
+https://www.tele2.ru/help#quick-decisions
+https://www.tele2.ru/entertainment
+https://www.tele2.ru/
+https://www.tele2.ru/helpsupport
+https://share-gb.tele2.ru/
+https://www.tele2.ru/mobilecalls-sms
+https://www.tele2.ru/nastroy-tariff?pageParams=tariffBillingId%3D2693#sliders
+https://www.tele2.ru/mobileroaming-options
+https://www.tele2.ru/bolshe

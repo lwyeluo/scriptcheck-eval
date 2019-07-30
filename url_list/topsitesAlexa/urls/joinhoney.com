@@ -1,0 +1,10 @@
+https://www.joinhoney.com/terms
+https://www.joinhoney.com/copyright
+https://www.joinhoney.com/shopgroupon
+https://www.joinhoney.com/shopcrate-and-barrel
+https://www.joinhoney.com/featuresamazon
+https://www.joinhoney.com/featuresdroplist
+https://www.joinhoney.com/shopexpedia
+https://www.joinhoney.com/shopfinish-line
+https://www.joinhoney.com/
+https://www.joinhoney.com/shopbloomingdales

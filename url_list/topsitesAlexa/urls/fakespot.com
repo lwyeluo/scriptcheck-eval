@@ -1,0 +1,10 @@
+http://www.fakespot.com/productanpro-6-packs-guitar-hanger-hook-guitar-wall-mount-bracket-holder-guitar-wall-hangers-for-acoustic-guitar-bass-mandolin-banjo-ukulele
+http://www.fakespot.com/terms
+http://www.fakespot.com/productbillie-bijoux-womens-925-sterling-silver-infinity-endless-love-symbol-charm-adjustable-bracelet-white-gold-plated-gift-for-mother-s-day-df48ec79-1564-4217-aa0d-6fd1e125e13a
+http://www.fakespot.com/careers
+http://www.fakespot.com/productqicent-10-port-usb-3-0-aluminum-hub-with-12v3a-power-adapter
+http://www.fakespot.com/about
+http://www.fakespot.com/posts
+http://www.fakespot.com/blog
+http://www.fakespot.com/privacy-policy
+http://www.fakespot.com/

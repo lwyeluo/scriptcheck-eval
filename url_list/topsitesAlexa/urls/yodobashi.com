@@ -1,0 +1,10 @@
+https://www.yodobashi.com/category157851157947
+https://order.yodobashi.com/ec/login/logout.do
+https://www.yodobashi.com/category111491119348
+https://www.yodobashi.com/category151007151101
+https://www.yodobashi.com/
+https://www.yodobashi.com/category14139211209
+https://order.yodobashi.com/yc/member/register/index.html
+https://www.yodobashi.com/ecsupportmemberpointservicegoldcommonindex.html
+https://www.yodobashi.com/category9100391026
+https://www.yodobashi.com/ecsupportserviceairconindex.html

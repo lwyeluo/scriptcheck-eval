@@ -1,0 +1,10 @@
+https://www.chinanews.com/www.chinanews.comshshipincns201907-20news824393.shtml
+http://www.ha.chinanews.com/
+https://www.chinanews.com/www.chinanews.comhb.shtml
+https://www.chinanews.com/sh201907-198900922.shtml
+https://www.chinanews.com/hr201907-218902167.shtml
+https://www.chinanews.com/channel.chinanews.comcnsclgj-zxsjg.shtml
+http://www.chinanews.com/sh/2019/07-21/8901852.shtml
+https://www.chinanews.com/gj201907-178897486.shtml
+https://www.chinanews.com/
+https://www.chinanews.com/sh201907-198900316.shtml

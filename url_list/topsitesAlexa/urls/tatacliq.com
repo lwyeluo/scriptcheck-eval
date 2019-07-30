@@ -1,0 +1,10 @@
+https://luxury.tatacliq.com/nappadori
+https://luxury.tatacliq.com/contact
+https://luxury.tatacliq.com/
+https://luxury.tatacliq.com/luxury-women-designer-handbags/c-lsh1110100?offer=&searchCategory=&q=%3Arelevance%3AinStockFlag%3Atrue%3Abrand%3AMBH16B10193&text=&pageFacetData=&isFacet=true&icid2=luxury:menu:handbags:brands:ax:14:130718
+https://luxury.tatacliq.com/luxury-men-men-designer-men-shoes-men-derby-shoes/c-lsh1010103107?&icid2=luxury:menu:men:shoes:derby:21:130718
+https://www.tatacliq.com/
+https://luxury.tatacliq.com/armani-exchange/c-mbh11w00018
+https://luxury.tatacliq.com/luxury-women-designer-women-accessories-women-scarves-stoles/c-lsh1110103105?&icid2=luxury:menu:women:accessories:scarves:24:210619
+https://luxury.tatacliq.com/indiluxe-women-designer-clothing/c-ISH1010100?offer=&searchCategory=&q=:isDiscountedPrice:inStockFlag:true:category:ISH1010100&icid2=shopindilux:eoss:all2:190619
+https://luxury.tatacliq.com/luxury/c-LSH1?offer=&searchCategory=&q=:relevance:brand:MBH16B10715:relevance:category:LSH1&icid2=luxury:menu:handbags:brands:guess:16:210718

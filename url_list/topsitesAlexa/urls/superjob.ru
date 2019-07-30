@@ -1,0 +1,10 @@
+https://www.superjob.ru/infologos.html
+https://www.superjob.ru/inforulesadd_vacancy
+https://krasnoyarsk.superjob.ru
+https://www.superjob.ru/research
+https://www.superjob.ru/vakansiiveduschij-konsultant-sap-hcm-32122180.html
+https://www.superjob.ru/hrmobile
+https://www.superjob.ru/vakansiizakupki-snabzhenie
+https://www.superjob.ru/
+https://www.superjob.ru/resumecreate
+https://www.superjob.ru/vakansiigosudarstvennaya-sluzhba

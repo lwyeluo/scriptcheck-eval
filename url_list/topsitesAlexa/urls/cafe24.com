@@ -1,0 +1,10 @@
+https://biz.cafe24.com/etax/
+https://biz.cafe24.com/
+https://www.cafe24.com/?controller=hosting_extend_nologin
+https://www.cafe24.com/?controller=product_page&type=vservice&page=webftp
+https://www.cafe24.com/?controller=product_page&type=special&page=tomcat
+https://help.cafe24.com/cs/cs_manual_view.php?idx=60&page=1&categoryIdx=522&s_key=&s_value=&man_no=1
+https://www.cafe24.com/?controller=myservice_hosting_apply_change
+https://www.cafe24.com/?controller=domain_main
+https://echosting.cafe24.com/Info/?url=Info2
+https://www.cafe24.com/

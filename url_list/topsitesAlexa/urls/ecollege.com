@@ -1,0 +1,10 @@
+http://www.ecollege.com/ushigher-educationproducts-services-institutionscredit-for-prior-learningcase-for-credit-for-prior-learning.html
+http://www.ecollege.com/ushigher-educationproducts-services-teachinglearning-engagement-toolslearning-catalyticsfeatures.html
+http://www.ecollege.com/ushigher-educationproducts-services-teachingdistance-learning-solutionscourseconnectsupportfaqs.html
+http://www.ecollege.com/ushigher-educationprofessional---careerhealth-professionsmedical-billing-insurance-coding.html
+http://www.ecollege.com/ushigher-educationproducts-services-teachingdistance-learning-solutionsnccerconnectfeatures.html
+http://www.ecollege.com/ushigher-educationproducts-services-institutionseducational-grants-helpfinding-grant-funding.html
+http://www.ecollege.com/ushigher-educationprofessional---careerhealth-professionsphlebotomy.html
+http://www.ecollege.com/
+http://www.ecollege.com/ushigher-educationwhy-choose-pearsonthought-leadershipcollege-readiness-completiontransition-to-college.html
+http://www.ecollege.com/ushigher-educationwhy-choose-pearsonefficacy-research.html

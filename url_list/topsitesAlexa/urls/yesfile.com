@@ -1,0 +1,10 @@
+https://www.yesfile.com/bbs_boardboard.php?option=&pg_mode=view&code=CC_CC_06&idx=3055091
+https://www.yesfile.com/bbs_boardboard.php?code=CC_CC_01
+https://www.yesfile.com/site?pg_mode=agree
+https://www.yesfile.com/bbs_boardboard.php?code=CC_CC_06
+https://www.yesfile.com/
+https://www.yesfile.com/event?ename=jtbc_event
+https://www.yesfile.com/mypagechargecharge.php?pg_mode=freemileage
+https://www.yesfile.com/event?ename=newdownapp
+https://www.yesfile.com/event?ename=attendroulette
+https://www.yesfile.com/site?pg_mode=privacy

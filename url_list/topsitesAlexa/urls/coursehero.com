@@ -1,0 +1,10 @@
+https://www.coursehero.com/practice/sg/5501095/
+https://www.coursehero.com/study-materials
+https://www.coursehero.com/practice/sg/5758148/
+https://www.coursehero.com/practice/sg/7956413/
+https://www.coursehero.com/
+https://www.coursehero.com/practice/sg/5425750/
+https://support.coursehero.com/hc/en-us/#/contact-us
+https://www.coursehero.com/sgmicroeconomicsabsolute-advantage
+https://www.coursehero.com/sitemap
+https://www.coursehero.com/practice/sg/5647642/

@@ -1,0 +1,10 @@
+https://www.flaticon.com/profile/my_subscriptions
+https://www.flaticon.com/premium-icons?&order_by=2
+https://join.flaticon.com
+https://www.flaticon.com/collections
+https://www.flaticon.com/packs/sustainable-energy-28
+https://www.flaticon.com/packs/arcade-15
+https://www.flaticon.com/packs/essential-set-2
+https://www.flaticon.com/packs/strategy-and-managemet-2
+https://www.flaticon.com/categories
+https://www.flaticon.com/

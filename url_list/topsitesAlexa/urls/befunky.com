@@ -1,0 +1,10 @@
+https://www.befunky.com/features/photo-effects/
+https://www.befunky.com/press/
+https://www.befunky.com/features/text-editor/
+https://www.befunky.com/sign-out/
+https://www.befunky.com/terms/?cmfrm=1
+https://www.befunky.com/visionn/
+https://www.befunky.com/fr/
+https://www.befunky.com/features/
+https://support.befunky.com/hc/en-us/requests/new
+https://www.befunky.com/

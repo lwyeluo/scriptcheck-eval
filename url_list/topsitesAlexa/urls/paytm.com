@@ -1,0 +1,10 @@
+https://paytm.com/municipal-payments
+https://paytm.com/gas-bill-payment/maharashtra-natural-gas-limited-mngl
+https://paytm.com/recharge/jio-prepaid-mobile-online-recharge
+https://www.paytm.com/
+https://paytm.com/cylinder-gas-recharge
+https://paytm.com/datacard-bill-payment/airtel
+https://paytm.com/offer/flight-tickets
+https://paytm.com/coupons
+https://paytm.com/offer/bug-bounty/
+https://paytm.com/offer/tic-tac-toe-game/?utm_source=paytm_web&utm_medium=2x_banner&utm_campaign=app_download

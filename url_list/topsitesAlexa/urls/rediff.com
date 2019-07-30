@@ -1,0 +1,10 @@
+https://www.rediff.com/business/report/air-traffic-volume-inches-up-62-in-june/20190719.htm
+https://www.rediff.com/movies
+https://www.rediff.com/getahead/report/gadget-will-you-buy-redmis-gold-smartphone-for-rs-48-lakh/20190718.htm
+https://www.rediff.com/cricket/world-cup-2019
+https://www.rediff.com/getahead/report/career-first-salary-in-1951-my-princely-salary-was-rs-80/20190719.htm
+https://www.rediff.com/cricket/report/bumrah-rested-for-west-indies-odis-t20is-kohli-to-lead-pandya/20190721.htm
+https://www.rediff.com/
+https://www.rediff.com/cricket/report/dhoni-pulls-out-of-windies-tour-takes-two-month-break/20190720.htm
+https://www.rediff.com/sports/report/hima-das-wins-400m-to-continue-golden-run-in-july/20190720.htm
+https://www.rediff.com/sports/report/sports-shorts-pacquiao-beats-thurman-to-win-wba-crown/20190721.htm

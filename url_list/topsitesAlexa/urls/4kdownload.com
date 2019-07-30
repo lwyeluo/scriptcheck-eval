@@ -1,0 +1,10 @@
+https://www.4kdownload.com/
+https://www.4kdownload.com/agreementfreeware
+https://www.4kdownload.com/help
+https://www.4kdownload.com/help#videos
+https://www.4kdownload.com/productsproduct-videotomp3
+https://www.4kdownload.com/help#troubleshooting
+https://dl.4kdownload.com/app/4kvideodownloader_4.8.0_x64.msi?source=website
+https://www.virustotal.com/latest-scan/https%3A//dl.4kdownload.com/app/4kvideodownloader_4.8.0_x64.msi%3Fsource%3Dwebsite
+https://www.virustotal.com/latest-scan/https%3A//dl.4kdownload.com/app/4kstogram_2.7.2_x64.msi%3Fsource%3Dwebsite
+https://www.4kdownload.com/about

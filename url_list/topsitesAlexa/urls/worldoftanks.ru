@@ -1,0 +1,10 @@
+https://www.worldoftanks.ru/ruclanwarsstrongholds
+http://forum.worldoftanks.ru/?link_place=wotp_link_footer
+https://www.worldoftanks.ru/rumedia9
+https://www.worldoftanks.ru/runewsnotificationsobschiy-test-1-6-lf
+https://www.worldoftanks.ru/runews
+https://www.worldoftanks.ru/rumedia1
+https://www.worldoftanks.ru/rucommunityaccounts
+https://www.worldoftanks.ru/
+https://worldoftanks.ru/ru/news/special-offers/aktsiya-stalingradskaya-bitva/
+https://www.worldoftanks.ru/rucontentguideaccount_security

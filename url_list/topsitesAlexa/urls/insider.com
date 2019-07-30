@@ -1,0 +1,10 @@
+https://www.insider.com/politics
+https://www.insider.com/braintree-police-asks-public-not-commit-crimes-during-heat-wave-2019-7
+https://www.insider.com/avengers-endgame-directors-we-love-you-3000-tour-fan-events-2019-7
+https://www.insider.com/alan-dershowitz-david-boies-lawsuit-jeffrey-epstein-accuser-virginia-giuffre-case-2019-7
+https://www.insider.com/entertainment
+https://www.insider.com/amount-of-salt-in-condiments-photos-2019-7
+https://www.insider.com/food
+https://www.insider.com/cookies-policy
+https://www.insider.com/private-investigator-says-epstein-used-teens-to-lure-young-girls-2019-7
+https://www.insider.com/

@@ -1,0 +1,10 @@
+https://www.softportal.com/software-39233-r-drive-image.html
+https://www.softportal.com/
+https://www.softportal.com/search.html
+https://www.softportal.com/ncategory-5.html
+https://www.softportal.com/article-611.html
+https://www.softportal.com/nitem-31348.html
+https://www.softportal.com/software-3151-ccleaner.html
+https://www.softportal.com/software-41-nero.html
+https://www.softportal.com/software-12-opera.html
+https://www.softportal.com/archive-0-1.html

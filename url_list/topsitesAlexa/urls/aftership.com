@@ -1,0 +1,10 @@
+https://www.aftership.com/featuresautomation
+https://blog.aftership.com
+https://status.aftership.com/
+https://www.aftership.com/
+https://www.aftership.com/customers
+https://www.aftership.com/featurestracking-page
+https://www.aftership.com/privacy
+https://www.aftership.com/featuresanalytics
+https://admin.aftership.com/sso/authorize?continue=login
+https://www.aftership.com/customer-storiestictail

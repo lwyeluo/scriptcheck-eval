@@ -1,0 +1,10 @@
+http://www.bankofindia.com/DetailsIntersol-Activity
+https://starconnectcbs.bankofindia.com/BankAwayRetail/sgonHttpHandler.aspx?Action.ONUC.Init.001=Y&AppSignonBankId=013&AppType=retail
+http://www.bankofindia.com/billfinance
+http://www.bankofindia.com/
+http://www.bankofindia.com/HolidayLoan
+http://www.bankofindia.com/formsMayWeReachYou
+http://www.bankofindia.com/HomeCalculator
+http://www.bankofindia.com/StarIPO
+http://www.bankofindia.com/Collection_Cheques
+http://www.bankofindia.com/DynamicTender?Type=4

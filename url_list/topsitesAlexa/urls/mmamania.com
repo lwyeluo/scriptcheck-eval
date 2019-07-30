@@ -1,0 +1,10 @@
+https://www.mmamania.com/2019/7/8/20686519/muhamad-the-prophet-has-spoken
+https://www.mmamania.com/2019/2/17/18228777/pic-heres-the-ankle-injury-that-knocked-penne-out-of-ufc-phoenix#comments
+https://www.mmamania.com/2019/7/16/20693620/mania-money-pool-season-33-event-2-results-ufc-fight-night-155
+https://auth.voxmedia.com/signup?return_to=https%3A%2F%2Fwww.mmamania.com%2F
+https://www.mmamania.com/
+https://www.mmamania.com/2019/7/21/20702499/greg-hardy-needs-a-serious-step-up-in-competition-after-ufc-san-antonio-mma
+https://www.mmamania.com/2019/7/20/20702275/walt-harris-knockout-aleksei-oleinik-12-seconds-ufc-espn-4-results-san-antonio-mma
+https://www.mmamania.com/archives
+https://www.mmamania.com/2019/7/20/20695083/manny-pacquiao-keith-thurman-prediction-preview-full-fight-analysis-time-price-fox-ppv-boxing#comments
+https://www.mmamania.com/2019/7/20/20701827/how-to-watch-ufc-san-antonio-dos-anjos-vs-edwards-tonight-on-espn-hardy-mma-fight-night

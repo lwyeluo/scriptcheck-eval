@@ -1,0 +1,10 @@
+https://www.nintendo.com/gamesdetailstranger-things-3-the-game-switch
+https://www.nintendo.com/consumer/info/en_na/docs.jsp
+https://www.nintendo.com/gamesgame-guide#filter:q=&dFR[availability][0]=New%20releases
+https://www.nintendo.com/gamesdetailmarvel-ultimate-alliance-3-the-black-order-switch
+http://www.nintendo.com/consumer/retail/retail_retailers.jsp
+https://dragonquest.nintendo.com/builders2/
+https://www.nintendo.com/sitemap
+https://www.nintendo.com/terms-of-use
+https://www.nintendo.com/privacy-policy
+https://www.nintendo.com/

@@ -1,0 +1,10 @@
+https://www.quicklaunchsso.com/financial-services-identity-and-access-management.html
+https://www.quicklaunchsso.com/blog.html
+https://www.quicklaunchsso.com/technology.html
+https://www.quicklaunchsso.com/abraham-baldwin-agricultural-college-selects-quickLaunch-as-its-identity-partner.html
+https://www.quicklaunchsso.com/pricing-info.html
+https://www.quicklaunchsso.com/
+https://www.quicklaunchsso.com/single-sign-on-software.html
+https://www.quicklaunchsso.com/newsroom.html
+https://www.quicklaunchsso.com/index.html
+https://www.quicklaunchsso.com/user-self-registration.html

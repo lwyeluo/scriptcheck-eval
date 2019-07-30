@@ -1,0 +1,10 @@
+https://www.gfycat.com/signup?redirectUri=feed
+https://www.gfycat.com/
+https://www.gfycat.com/gifstagbored
+https://www.gfycat.com/gifstagcyber+monday
+https://www.gfycat.com/gifstagdisappointed
+https://www.gfycat.com/gaming
+https://www.gfycat.com/gifstagbirthday
+https://www.gfycat.com/gifstagsleep
+https://www.gfycat.com/gifstagfunny
+https://www.gfycat.com/gifstagamused

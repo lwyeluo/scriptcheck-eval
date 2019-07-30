@@ -1,0 +1,10 @@
+http://www.avia.pro/
+http://www.avia.pro/blogstyuardessa-v-tatuirovka-mif-ili-realnost
+http://www.avia.pro/blogboevye-samolety
+http://www.avia.pro/blogalpiyskiy-patrul-1998-2007
+http://www.avia.pro/reklamodatelyam
+http://www.avia.pro/blogavia-yumor
+http://www.avia.pro/aviakatastrofy
+http://www.avia.pro/blogstyuardessy
+http://www.avia.pro/veroyatnost-katastrofy
+http://www.avia.pro/videopervyy-polyot-samolyota-il-112

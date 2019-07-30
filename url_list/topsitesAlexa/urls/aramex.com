@@ -1,0 +1,10 @@
+https://www.aramex.com/annual-reportaramex-2018-annual-report?contentId=60356288-b3f2-659d-9310-ff0000e7fe0c&module=promo
+https://www.aramex.com/solution-serviceshop-ship
+https://www.aramex.com/
+https://www.aramex.com/aramex-app
+https://www.aramex.com/fraud-prevention
+https://www.aramex.com/mediain-the-newsdetails?contentId=c83e6e88-b3f2-659d-9310-ff0000e7fe0c&module=stories
+https://www.aramex.com/shipschedule-pickup
+https://www.aramex.com/supporthelp-system
+https://www.aramex.com/developers-centerapis
+https://www.aramex.com/terms-of-use

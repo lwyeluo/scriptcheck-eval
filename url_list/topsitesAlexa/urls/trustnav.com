@@ -1,0 +1,10 @@
+https://www.trustnav.com/enabout
+https://www.trustnav.com/enlegalprivacy
+https://www.trustnav.com/enabout#support
+https://www.trustnav.com/
+https://support.trustnav.com/hc/en-us/articles/360015270992-Cookies-Policy
+https://www.trustnav.com/enantivirus
+https://www.trustnav.com/es
+https://www.trustnav.com/enabout#team
+https://www.trustnav.com/ensafesearch
+https://www.trustnav.com/enadblocker

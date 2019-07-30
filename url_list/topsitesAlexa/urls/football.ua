@@ -1,0 +1,10 @@
+https://football.ua/club/25-arsenal.html
+https://football.ua/club/464-kremen.html
+https://football.ua/portugal.html
+https://football.ua/game/68097.html
+http://www.football.ua/italy.html
+http://www.football.ua/
+https://football.ua/club/145-fenerbahce.html
+https://football.ua/club/406-aleksandrija.html
+https://football.ua/club/1303-dnepr-1.html
+https://football.ua/france.html

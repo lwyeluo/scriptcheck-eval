@@ -1,0 +1,10 @@
+https://www.bershka.com/pt/en/
+https://www.bershka.com/om/fr/
+https://www.bershka.com/lt/
+https://www.bershka.com/be/nl/
+https://www.bershka.com/es/gl/
+https://www.bershka.com/ch/en/
+https://www.bershka.com/
+https://www.bershka.com/ni/en/
+https://www.bershka.com/ni/
+https://www.bershka.com/sk/en/

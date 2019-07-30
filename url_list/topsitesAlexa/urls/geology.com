@@ -1,0 +1,10 @@
+https://geology.com/minerals/tourmaline.shtml
+https://www.geology.com/
+https://geology.com/plate-tectonics/
+https://geology.com/articles/expansive-soil.shtml
+https://geology.com/store/topo-maps/
+https://geology.com/state-map/alaska.shtml
+https://geology.com/store/gold-pans/
+https://geology.com/state-map/new-mexico.shtml
+https://geology.com/articles/what-is-earth-science.shtml
+https://geology.com/articles/san-andreas-fault.shtml

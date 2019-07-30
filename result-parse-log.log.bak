@@ -1,0 +1,795 @@
+
+
+
+#######################################
+# TABLE for frame chain distribution  #
+#######################################
+length	#webpages	webpages
+1	10739
+2	740
+3	634
+4	37
+5	333
+6	19
+7	133
+8	9
+9	164
+10	24
+11	33
+12	3
+13	98
+14	1
+15	17
+16	4
+17	27
+18	8
+19	29
+20	10
+21	11
+22	12
+23	9
+24	13
+25	22
+26	1
+27	10
+28	15
+29	17
+30	1
+31	6
+32	9
+33	11
+35	5
+36	1
+37	23
+38	1
+39	4
+41	3
+43	14
+45	13
+47	13
+48	1
+49	12
+51	10
+53	19
+55	29
+57	8
+58	1
+59	2
+60	3
+61	7
+62	1
+63	4
+65	3
+67	8
+69	3
+71	10
+73	4
+77	1
+81	10
+83	3
+87	37
+88	1
+89	1
+91	4
+92	5
+93	22
+95	1
+97	22
+99	980
+
+
+
+#######################################################
+# TABLE for frame chain (with JS stack) distribution  #
+#######################################################
+length	#webpages	webpages
+2	38
+3	628
+4	37
+5	333
+6	19
+7	133
+8	9
+9	164
+10	24
+11	33
+12	3
+13	98
+14	1
+15	17
+16	4
+17	27
+18	8
+19	29
+20	10
+21	11
+22	12
+23	9
+24	13
+25	22
+26	1
+27	10
+28	15
+29	17
+30	1
+31	6
+32	9
+33	11
+35	5
+36	1
+37	23
+38	1
+39	4
+41	3
+43	14
+45	13
+47	13
+48	1
+49	12
+51	10
+53	19
+55	29
+57	8
+58	1
+59	2
+60	3
+61	7
+62	1
+63	4
+65	3
+67	8
+69	3
+71	10
+73	4
+77	1
+81	10
+83	3
+87	37
+88	1
+89	1
+91	4
+92	5
+93	22
+95	1
+97	22
+99	980
+
+
+
+############################################################
+# TABLE for frame chain (with diff features) distribution  #
+############################################################
+length	#webpages	webpages
+15	2
+16	1
+31	1
+
+
+
+#######################################
+# Information for vuln webpages #
+#######################################
+
+Url	filename	MaxLengthOfFrameChain	MaxVulnFrameChain
+https://www.kijiji.it/libri-fisDlJZCo9EM	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/url_list/topsitesAlexa/results/kijiji.it/https:,,www.kijiji.it,libri-fisDlJZCo9EM	15	-5:5_https://www.google.com.sg/-5:4_https://www.google.com.sg/-5:5_https://www.google.com.sg/-5:4_https://www.google.com.sg/-5:5_https://www.google.com.sg/-5:4_https://www.google.com.sg/-5:5_https://www.google.com.sg/-5:4_https://www.google.com.sg/-5:5_https://www.google.com.sg/-5:8_https://www.google.com.sg/-5:5_https://www.google.com.sg/-5:8_https://www.google.com.sg/-5:5_https://www.google.com.sg/-5:8_https://www.google.com.sg/-5:5_https://www.google.com.sg/
+https://www.kijiji.it/offerte-rlL321XDyh	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/url_list/topsitesAlexa/results/kijiji.it/https:,,www.kijiji.it,offerte-rlL321XDyh	15	-6:5_https://www.google.com.sg/-6:4_https://www.google.com.sg/-6:5_https://www.google.com.sg/-6:4_https://www.google.com.sg/-6:5_https://www.google.com.sg/-6:4_https://www.google.com.sg/-6:5_https://www.google.com.sg/-6:4_https://www.google.com.sg/-6:5_https://www.google.com.sg/-6:8_https://www.google.com.sg/-6:5_https://www.google.com.sg/-6:8_https://www.google.com.sg/-6:5_https://www.google.com.sg/-6:8_https://www.google.com.sg/-6:5_https://www.google.com.sg/
+http://www.bancadigitalbod.coma3y0IFln7q	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/url_list/topsitesAlexa/results/bancadigitalbod.com/http:,,www.bancadigitalbod.coma3y0IFln7q	31	-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:6_https://www.google.com/-5:5_https://www.google.com/-5:6_https://www.google.com/-5:5_https://www.google.com/-5:6_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/
+https://www.tutorialspoint.comDkC8NZOQ3v	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/url_list/topsitesAlexa/results/tutorialspoint.com/https:,,www.tutorialspoint.comDkC8NZOQ3v	16	-6:14_https://googleads.g.doubleclick.net/-6:11_https://googleads.g.doubleclick.net/-6:14_https://googleads.g.doubleclick.net/-6:5_https://googleads.g.doubleclick.net/-6:14_https://googleads.g.doubleclick.net/-6:11_https://googleads.g.doubleclick.net/-6:14_https://googleads.g.doubleclick.net/-6:11_https://googleads.g.doubleclick.net/-6:14_https://googleads.g.doubleclick.net/-6:11_https://googleads.g.doubleclick.net/-6:14_https://googleads.g.doubleclick.net/-6:11_https://googleads.g.doubleclick.net/-6:14_https://googleads.g.doubleclick.net/-6:11_https://googleads.g.doubleclick.net/-6:14_https://googleads.g.doubleclick.net/-6:21_https://googleads.g.doubleclick.net/
+
+
+RATE: number_of_vuln_webpages/number_of_tested_webpages = 4, 14488, 0.027609%
+
+
+
+#######################################
+# Information for setting domains [normal] #
+#######################################
+
+old_domain	setAsSuper	setAsItself	setAsBoth	new_domains
+
+staticxx.facebook.com	Y	N	N	facebook.com
+kolonsport.world.tmall.com	Y	N	N	tmall.com
+www.jd.com	Y	N	N	jd.com
+www.jd.hk	Y	N	N	jd.hk
+www.ndtv.com	Y	N	N	ndtv.com
+social.ndtv.com	Y	N	N	ndtv.com
+food.ndtv.com	Y	N	N	ndtv.com
+sports.ndtv.com	Y	N	N	ndtv.com
+lyqwdz.co.chinachugui.com	Y	N	N	chinachugui.com
+chinachugui.com	N	Y	N	chinachugui.com
+jm.chinachugui.com	Y	N	N	chinachugui.com
+jcz.chinachugui.com	Y	N	N	chinachugui.com
+fsebery.co.chinachugui.com	Y	N	N	chinachugui.com
+www.chinachugui.com	Y	N	N	chinachugui.com
+inaafi.co.chinachugui.com	Y	N	N	chinachugui.com
+senpai.co.chinachugui.com	Y	N	N	chinachugui.com
+entive.co.chinachugui.com	Y	N	N	chinachugui.com
+qiannaimei.world.tmall.com	Y	N	N	tmall.com
+www.facebook.com	Y	N	N	facebook.com
+www.yuemei.com	Y	N	N	yuemei.com
+yuemei.com	N	Y	N	yuemei.com
+tao.yuemei.com	Y	N	N	yuemei.com
+vk.com	N	Y	N	vk.com
+www.iciba.com	Y	N	N	iciba.com
+www.geihui.com	Y	N	N	geihui.com
+taobao.geihui.com	Y	N	N	geihui.com
+onair.kbs.co.kr	Y	N	N	kbs.co.kr
+office.kbs.co.kr	Y	N	N	kbs.co.kr
+www.bankia.es	Y	N	N	bankia.es
+www.qq.com	Y	N	N	qq.com
+www.rainews.it	Y	N	N	rainews.it
+rainews.it	N	Y	N	rainews.it
+nest.com	N	Y	N	nest.com
+plan.danawa.com	Y	N	N	danawa.com
+prod.danawa.com	Y	N	N	danawa.com
+danawa.com	N	Y	N	danawa.com
+www.danawa.com	Y	N	N	danawa.com
+www.nfl.com	Y	N	N	nfl.com
+guoqing.china.com.cn	Y	N	N	china.com.cn
+www.china.com.cn	Y	N	N	china.com.cn
+blog.gusuwang.com	Y	N	N	gusuwang.com
+my.mail.ru	Y	N	N	mail.ru
+cdn.hypemarks.com	N	Y	N	cdn.hypemarks.com
+top.cafe.daum.net	Y	N	N	daum.net
+search.daum.net	Y	N	N	daum.net
+play-tv.kakao.com	Y	N	N	kakao.com
+www.zhihu.com	Y	N	N	zhihu.com
+lining.world.tmall.com	Y	N	N	tmall.com
+chejiahao.autohome.com.cn	Y	N	N	autohome.com.cn
+www.melon.com	Y	N	N	melon.com
+ticket.melon.com	N	Y	N	ticket.melon.com
+melon.com	N	Y	N	melon.com
+vod.melon.com	Y	N	N	melon.com
+sudoku-servis2.pravda.sk	Y	N	N	pravda.sk
+nike.world.tmall.com	Y	N	N	tmall.com
+fairwhale.world.tmall.com	Y	N	N	tmall.com
+sports.khan.co.kr	Y	N	N	khan.co.kr
+khan.co.kr	N	Y	N	khan.co.kr
+news.khan.co.kr	Y	N	N	khan.co.kr
+www.mynewsdesk.com	Y	N	N	mynewsdesk.com
+fortune.nate.com	Y	N	N	nate.com
+news.nate.com	Y	N	N	nate.com
+nate.com	N	Y	N	nate.com
+www.rediff.com	Y	N	N	rediff.com
+money.rediff.com	Y	N	N	rediff.com
+moscow.shop.megafon.ru	Y	N	N	shop.megafon.ru
+search.dangdang.com	Y	N	N	dangdang.com
+dangdang.com	N	Y	N	dangdang.com
+shop.dangdang.com	Y	N	N	dangdang.com
+www.gse.harvard.edu	Y	N	N	gse.harvard.edu
+gainreel.world.tmall.com	Y	N	N	tmall.com
+uaq.dubizzle.com	Y	N	N	dubizzle.com
+rak.dubizzle.com	Y	N	N	dubizzle.com
+www.bol.com	Y	N	N	bol.com
+www.567pan.com	Y	N	N	567pan.com
+www.nasdaq.com	Y	N	N	nasdaq.com
+nasdaq.com	N	Y	N	nasdaq.com
+www.deezer.com	Y	N	N	deezer.com
+www.cbc.ca	Y	N	N	cbc.ca
+support.lenovo.com.cn	Y	N	N	lenovo.com.cn
+www.twitch.tv	Y	N	N	twitch.tv
+www.doctissimo.fr	Y	N	N	doctissimo.fr
+www.newsweek.com	Y	N	N	newsweek.com
+www.ntv.com.tr	Y	N	N	ntv.com.tr
+pages.ywart.com	Y	N	N	ywart.com
+www.ywart.com	Y	N	N	ywart.com
+adidas.world.tmall.com	Y	N	N	tmall.com
+mall.dcinside.com	Y	N	N	dcinside.com
+gall.dcinside.com	Y	N	N	dcinside.com
+www.dcinside.com	Y	N	N	dcinside.com
+gucn.world.tmall.com	Y	N	N	tmall.com
+shop.99.com	Y	N	N	99.com
+qhd.focus.cn	Y	N	N	focus.cn
+focus.cn	N	Y	N	focus.cn
+www.miniclip.com	Y	N	N	miniclip.com
+miniclip.com	N	Y	N	miniclip.com
+gap.world.tmall.com	Y	N	N	tmall.com
+peacebird.world.tmall.com	Y	N	N	tmall.com
+discoveryexpedition.world.tmall.com	Y	N	N	tmall.com
+promotion.wemakeprice.com	Y	N	N	wemakeprice.com
+wemakeprice.com	N	Y	N	wemakeprice.com
+www.verywellmind.com	N	Y	N	www.verywellmind.com
+www.instiz.net	Y	N	N	instiz.net
+dickies.world.tmall.com	Y	N	N	tmall.com
+www.bbc.co.uk	Y	N	N	bbc.co.uk
+emp.bbc.co.uk	Y	N	N	bbc.co.uk
+sfbay.craigslist.org	Y	N	N	craigslist.org
+www.craigslist.org	Y	N	N	craigslist.org
+singapore.craigslist.org	Y	N	N	craigslist.org
+forums.craigslist.org	Y	N	N	craigslist.org
+sales.tribuna.com	N	Y	N	sales.tribuna.com
+politics.caijing.com.cn	Y	N	N	caijing.com.cn
+www.skyrock.com	Y	N	N	skyrock.com
+planeterap.skyrock.com	Y	N	N	skyrock.com
+francoise-208.skyrock.com	Y	N	N	skyrock.com
+maitrejulienfr.skyrock.com	Y	N	N	skyrock.com
+krazrap.skyrock.com	Y	N	N	skyrock.com
+difool.skyrock.com	Y	N	N	skyrock.com
+www.51240.com	Y	N	N	51240.com
+www.exx.com	Y	N	N	exx.com
+depositfiles.com	N	Y	N	depositfiles.com
+langsha.world.tmall.com	Y	N	N	tmall.com
+www.ft.com	Y	N	N	ft.com
+errors-next.ft.com	Y	N	N	ft.com
+help.naver.com	Y	N	N	naver.com
+section.cafe.naver.com	Y	N	N	naver.com
+veta.naver.com	Y	N	N	naver.com
+newsstand.naver.com	Y	N	N	naver.com
+search.naver.com	Y	N	N	naver.com
+www.naver.com	Y	N	N	naver.com
+nv.veta.naver.com	Y	N	N	naver.com
+castbox.shopping.naver.com	Y	N	N	naver.com
+aimer.world.tmall.com	Y	N	N	tmall.com
+indavideo.hu	N	Y	N	indavideo.hu
+www.lifewire.com	N	Y	N	www.lifewire.com
+lee.world.tmall.com	Y	N	N	tmall.com
+www.neoseeker.com	Y	N	N	neoseeker.com
+autoin.edaily.co.kr	Y	N	N	edaily.co.kr
+www.edaily.co.kr	Y	N	N	edaily.co.kr
+www.lotteimall.com	Y	N	N	lotteimall.com
+lotteimall.com	N	Y	N	lotteimall.com
+support.microsoft.com	Y	N	N	microsoft.com
+dn.chinafloor.cn	Y	N	N	chinafloor.cn
+www.chinafloor.cn	Y	N	N	chinafloor.cn
+zcwood.co.chinafloor.cn	Y	N	N	chinafloor.cn
+chinafloor.cn	N	Y	N	chinafloor.cn
+irian.co.chinafloor.cn	Y	N	N	chinafloor.cn
+jnsg.co.chinafloor.cn	Y	N	N	chinafloor.cn
+yjfloor.co.chinafloor.cn	Y	N	N	chinafloor.cn
+
+
+
+#######################################
+# Summary for setting domains [normal] #
+#######################################
+
+#domainsInvolved = 3959, #domains = 149, #domainsSetAsSuper = 126, #domainsSetAsItself = 23, #domainsSetAsBoth = 0
+{
+  "staticxx.facebook.com": {
+    "facebook.com": 469
+  },
+  "kolonsport.world.tmall.com": {
+    "tmall.com": 7
+  },
+  "www.jd.com": {
+    "jd.com": 6
+  },
+  "www.jd.hk": {
+    "jd.hk": 1
+  },
+  "www.ndtv.com": {
+    "ndtv.com": 7
+  },
+  "social.ndtv.com": {
+    "ndtv.com": 4
+  },
+  "food.ndtv.com": {
+    "ndtv.com": 1
+  },
+  "sports.ndtv.com": {
+    "ndtv.com": 2
+  },
+  "lyqwdz.co.chinachugui.com": {
+    "chinachugui.com": 1
+  },
+  "chinachugui.com": {
+    "chinachugui.com": 10
+  },
+  "jm.chinachugui.com": {
+    "chinachugui.com": 1
+  },
+  "jcz.chinachugui.com": {
+    "chinachugui.com": 1
+  },
+  "fsebery.co.chinachugui.com": {
+    "chinachugui.com": 1
+  },
+  "www.chinachugui.com": {
+    "chinachugui.com": 3
+  },
+  "inaafi.co.chinachugui.com": {
+    "chinachugui.com": 1
+  },
+  "senpai.co.chinachugui.com": {
+    "chinachugui.com": 1
+  },
+  "entive.co.chinachugui.com": {
+    "chinachugui.com": 1
+  },
+  "qiannaimei.world.tmall.com": {
+    "tmall.com": 9
+  },
+  "www.facebook.com": {
+    "facebook.com": 56
+  },
+  "www.yuemei.com": {
+    "yuemei.com": 1
+  },
+  "yuemei.com": {
+    "yuemei.com": 1
+  },
+  "tao.yuemei.com": {
+    "yuemei.com": 2
+  },
+  "vk.com": {
+    "vk.com": 27
+  },
+  "www.iciba.com": {
+    "iciba.com": 1
+  },
+  "www.geihui.com": {
+    "geihui.com": 7
+  },
+  "taobao.geihui.com": {
+    "geihui.com": 1
+  },
+  "onair.kbs.co.kr": {
+    "kbs.co.kr": 1
+  },
+  "office.kbs.co.kr": {
+    "kbs.co.kr": 1
+  },
+  "www.bankia.es": {
+    "bankia.es": 9
+  },
+  "www.qq.com": {
+    "qq.com": 2
+  },
+  "www.rainews.it": {
+    "rainews.it": 34
+  },
+  "rainews.it": {
+    "rainews.it": 8
+  },
+  "nest.com": {
+    "nest.com": 1
+  },
+  "plan.danawa.com": {
+    "danawa.com": 1
+  },
+  "prod.danawa.com": {
+    "danawa.com": 2
+  },
+  "danawa.com": {
+    "danawa.com": 4
+  },
+  "www.danawa.com": {
+    "danawa.com": 1
+  },
+  "www.nfl.com": {
+    "nfl.com": 1
+  },
+  "guoqing.china.com.cn": {
+    "china.com.cn": 3
+  },
+  "www.china.com.cn": {
+    "china.com.cn": 1
+  },
+  "blog.gusuwang.com": {
+    "gusuwang.com": 1
+  },
+  "my.mail.ru": {
+    "mail.ru": 1
+  },
+  "cdn.hypemarks.com": {
+    "cdn.hypemarks.com": 2
+  },
+  "top.cafe.daum.net": {
+    "daum.net": 1
+  },
+  "search.daum.net": {
+    "daum.net": 5
+  },
+  "play-tv.kakao.com": {
+    "kakao.com": 1
+  },
+  "www.zhihu.com": {
+    "zhihu.com": 2
+  },
+  "lining.world.tmall.com": {
+    "tmall.com": 9
+  },
+  "chejiahao.autohome.com.cn": {
+    "autohome.com.cn": 1
+  },
+  "www.melon.com": {
+    "melon.com": 8
+  },
+  "ticket.melon.com": {
+    "ticket.melon.com": 1
+  },
+  "melon.com": {
+    "melon.com": 2
+  },
+  "vod.melon.com": {
+    "melon.com": 2
+  },
+  "sudoku-servis2.pravda.sk": {
+    "pravda.sk": 1
+  },
+  "nike.world.tmall.com": {
+    "tmall.com": 7
+  },
+  "fairwhale.world.tmall.com": {
+    "tmall.com": 9
+  },
+  "sports.khan.co.kr": {
+    "khan.co.kr": 1
+  },
+  "khan.co.kr": {
+    "khan.co.kr": 7
+  },
+  "news.khan.co.kr": {
+    "khan.co.kr": 2
+  },
+  "www.mynewsdesk.com": {
+    "mynewsdesk.com": 1
+  },
+  "fortune.nate.com": {
+    "nate.com": 1
+  },
+  "news.nate.com": {
+    "nate.com": 1
+  },
+  "nate.com": {
+    "nate.com": 1
+  },
+  "www.rediff.com": {
+    "rediff.com": 8
+  },
+  "money.rediff.com": {
+    "rediff.com": 2
+  },
+  "moscow.shop.megafon.ru": {
+    "shop.megafon.ru": 1
+  },
+  "search.dangdang.com": {
+    "dangdang.com": 1
+  },
+  "dangdang.com": {
+    "dangdang.com": 2
+  },
+  "shop.dangdang.com": {
+    "dangdang.com": 1
+  },
+  "www.gse.harvard.edu": {
+    "gse.harvard.edu": 1
+  },
+  "gainreel.world.tmall.com": {
+    "tmall.com": 10
+  },
+  "uaq.dubizzle.com": {
+    "dubizzle.com": 1
+  },
+  "rak.dubizzle.com": {
+    "dubizzle.com": 2
+  },
+  "www.bol.com": {
+    "bol.com": 1
+  },
+  "www.567pan.com": {
+    "567pan.com": 2
+  },
+  "www.nasdaq.com": {
+    "nasdaq.com": 7
+  },
+  "nasdaq.com": {
+    "nasdaq.com": 1
+  },
+  "www.deezer.com": {
+    "deezer.com": 1
+  },
+  "www.cbc.ca": {
+    "cbc.ca": 5
+  },
+  "support.lenovo.com.cn": {
+    "lenovo.com.cn": 1
+  },
+  "www.twitch.tv": {
+    "twitch.tv": 1
+  },
+  "www.doctissimo.fr": {
+    "doctissimo.fr": 6
+  },
+  "www.newsweek.com": {
+    "newsweek.com": 7
+  },
+  "www.ntv.com.tr": {
+    "ntv.com.tr": 3
+  },
+  "pages.ywart.com": {
+    "ywart.com": 3
+  },
+  "www.ywart.com": {
+    "ywart.com": 1
+  },
+  "adidas.world.tmall.com": {
+    "tmall.com": 1
+  },
+  "mall.dcinside.com": {
+    "dcinside.com": 2
+  },
+  "gall.dcinside.com": {
+    "dcinside.com": 2
+  },
+  "www.dcinside.com": {
+    "dcinside.com": 1
+  },
+  "gucn.world.tmall.com": {
+    "tmall.com": 10
+  },
+  "shop.99.com": {
+    "99.com": 2
+  },
+  "qhd.focus.cn": {
+    "focus.cn": 1
+  },
+  "focus.cn": {
+    "focus.cn": 1
+  },
+  "www.miniclip.com": {
+    "miniclip.com": 8
+  },
+  "miniclip.com": {
+    "miniclip.com": 1
+  },
+  "gap.world.tmall.com": {
+    "tmall.com": 10
+  },
+  "peacebird.world.tmall.com": {
+    "tmall.com": 5
+  },
+  "discoveryexpedition.world.tmall.com": {
+    "tmall.com": 10
+  },
+  "promotion.wemakeprice.com": {
+    "wemakeprice.com": 1
+  },
+  "wemakeprice.com": {
+    "wemakeprice.com": 1
+  },
+  "www.verywellmind.com": {
+    "www.verywellmind.com": 7
+  },
+  "www.instiz.net": {
+    "instiz.net": 7
+  },
+  "dickies.world.tmall.com": {
+    "tmall.com": 9
+  },
+  "www.bbc.co.uk": {
+    "bbc.co.uk": 2
+  },
+  "emp.bbc.co.uk": {
+    "bbc.co.uk": 1
+  },
+  "sfbay.craigslist.org": {
+    "craigslist.org": 1
+  },
+  "www.craigslist.org": {
+    "craigslist.org": 13
+  },
+  "singapore.craigslist.org": {
+    "craigslist.org": 4
+  },
+  "forums.craigslist.org": {
+    "craigslist.org": 8
+  },
+  "sales.tribuna.com": {
+    "sales.tribuna.com": 1
+  },
+  "politics.caijing.com.cn": {
+    "caijing.com.cn": 1
+  },
+  "www.skyrock.com": {
+    "skyrock.com": 5
+  },
+  "planeterap.skyrock.com": {
+    "skyrock.com": 1
+  },
+  "francoise-208.skyrock.com": {
+    "skyrock.com": 1
+  },
+  "maitrejulienfr.skyrock.com": {
+    "skyrock.com": 1
+  },
+  "krazrap.skyrock.com": {
+    "skyrock.com": 1
+  },
+  "difool.skyrock.com": {
+    "skyrock.com": 1
+  },
+  "www.51240.com": {
+    "51240.com": 1
+  },
+  "www.exx.com": {
+    "exx.com": 1
+  },
+  "depositfiles.com": {
+    "depositfiles.com": 2
+  },
+  "langsha.world.tmall.com": {
+    "tmall.com": 7
+  },
+  "www.ft.com": {
+    "ft.com": 6
+  },
+  "errors-next.ft.com": {
+    "ft.com": 6
+  },
+  "help.naver.com": {
+    "naver.com": 1
+  },
+  "section.cafe.naver.com": {
+    "naver.com": 1
+  },
+  "veta.naver.com": {
+    "naver.com": 1
+  },
+  "newsstand.naver.com": {
+    "naver.com": 2
+  },
+  "search.naver.com": {
+    "naver.com": 1
+  },
+  "www.naver.com": {
+    "naver.com": 1
+  },
+  "nv.veta.naver.com": {
+    "naver.com": 3
+  },
+  "castbox.shopping.naver.com": {
+    "naver.com": 1
+  },
+  "aimer.world.tmall.com": {
+    "tmall.com": 7
+  },
+  "indavideo.hu": {
+    "indavideo.hu": 1
+  },
+  "www.lifewire.com": {
+    "www.lifewire.com": 10
+  },
+  "lee.world.tmall.com": {
+    "tmall.com": 10
+  },
+  "www.neoseeker.com": {
+    "neoseeker.com": 1
+  },
+  "autoin.edaily.co.kr": {
+    "edaily.co.kr": 1
+  },
+  "www.edaily.co.kr": {
+    "edaily.co.kr": 3
+  },
+  "www.lotteimall.com": {
+    "lotteimall.com": 1
+  },
+  "lotteimall.com": {
+    "lotteimall.com": 1
+  },
+  "support.microsoft.com": {
+    "microsoft.com": 1
+  },
+  "dn.chinafloor.cn": {
+    "chinafloor.cn": 1
+  },
+  "www.chinafloor.cn": {
+    "chinafloor.cn": 4
+  },
+  "zcwood.co.chinafloor.cn": {
+    "chinafloor.cn": 1
+  },
+  "chinafloor.cn": {
+    "chinafloor.cn": 8
+  },
+  "irian.co.chinafloor.cn": {
+    "chinafloor.cn": 1
+  },
+  "jnsg.co.chinafloor.cn": {
+    "chinafloor.cn": 1
+  },
+  "yjfloor.co.chinafloor.cn": {
+    "chinafloor.cn": 1
+  }
+}

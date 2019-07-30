@@ -1,0 +1,10 @@
+https://www.telenet.be/nlproductenmobielprijs-volgens-verbruik
+https://www.telenet.be/nlklantenservice#experience_tag=televisie
+https://www.telenet.be/nlpromosoverzichtpromos-in-de-kijker
+https://www.telenet.be/nlklantenserviceproductoverzicht?intcmp=intent
+https://www.telenet.be/
+https://www.telenet.be/nlproductentv-en-entertainmentplay-sportsoverzicht
+https://www.telenet.be/nlaansluitbaarheid?intcmp=BETLN_NL_HP__BRE_1_AANSLUITBAAR
+https://www.telenet.be/nlontdektv-app
+https://mijn.telenet.be/mijntelenet/rgw/settings.do?action=showBasicSettings
+https://www.telenet.be/nlpromoklantenprijs?intcmp=intent

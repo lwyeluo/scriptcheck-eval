@@ -1,0 +1,10 @@
+https://www.dummies.com/social-media
+https://www.dummies.com/art-center/music/singing/
+https://www.dummies.com/programming/networking/
+https://www.dummies.com/education/math/statistics/
+https://www.dummies.com/
+https://www.dummies.com/education/math/pre-calculus/complex-numbers-and-polar-coordinates/
+https://www.dummies.com/education/science/physics/
+https://www.dummies.com/test-prep/accuplacer-for-dummies-cheat-sheet/
+https://www.dummies.com/education/internet-basics/twitch-chat-commands/
+https://www.dummies.com/crafts/

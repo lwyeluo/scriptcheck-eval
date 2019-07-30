@@ -1,0 +1,10 @@
+https://downmagaz.com/men_magazine/
+https://downmagaz.com/tags/The+Sun/
+https://downmagaz.com/tags/Starburst/
+https://downmagaz.com/page/2/
+http://www.downmagaz.com/
+http://www.downmagaz.com/film_magazine
+https://downmagaz.com/newspapers/187885-daily-star-07212019.html
+https://downmagaz.com/fantasy_magazine/
+https://downmagaz.com/tags/Asia/
+https://downmagaz.com/music_mag/

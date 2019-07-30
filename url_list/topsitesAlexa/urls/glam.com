@@ -1,0 +1,10 @@
+https://www.glam.com/author/catherines/
+https://www.glam.com/author/holly/
+https://www.glam.com/category/lifestyle/
+https://www.glam.com/wellness/7-bad-habits-that-slow-down-your-metabolism/
+https://www.glam.com/category/culture/
+https://www.glam.com/beauty/best-waterproof-makeup-for-summer-2018/
+https://www.glam.com/fashion/the-best-dressed-celebrities-at-the-2019-oscars/
+https://www.glam.com/
+https://www.glam.com/fashion/outdoor-outfits-for-summer-occassions/
+https://www.glam.com/relationships/best-sex-toys-for-women/

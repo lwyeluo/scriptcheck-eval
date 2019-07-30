@@ -1,0 +1,10 @@
+https://mst.vip.com/3z0xj8i3Xa2KVWdMREkYrw.php?client=vipcms&mst_page_type=guide&mst_cdi=1&wapid=mst_1775178&extra_type=1&rn=1
+https://www.vip.com/global.vip.com
+https://www.vip.com/
+https://www.vip.com/lady.vip.com
+https://www.vip.com/beauty.vip.com
+https://www.vip.com/sport.vip.com
+https://www.vip.com/kid.vip.com
+https://www.vip.com/home.vip.com
+https://www.vip.com/acce.vip.com
+https://www.vip.com/www.vip.combrand_date.php?f=button

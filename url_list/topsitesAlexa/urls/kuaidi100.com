@@ -1,0 +1,10 @@
+http://sso.kuaidi100.com/user/logout.jsp
+https://www.kuaidi100.com/network/plist.shtml
+https://www.kuaidi100.com/
+https://www.kuaidi100.com/about/contact.shtml
+https://www.kuaidi100.com/help/
+https://c.kuaidi100.com/
+https://www.kuaidi100.com/all/
+https://www.kuaidi100.com/help/qa.shtml
+https://www.kuaidi100.com/cloud/print/index.shtml
+https://www.kuaidi100.com/openapi/cloudprintele.shtml

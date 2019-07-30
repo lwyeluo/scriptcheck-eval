@@ -1,0 +1,10 @@
+https://www.sinemalar.com/film/263810/sesinde-ask-var
+https://www.sinemalar.com/film/250884/angry-birds-2
+https://www.sinemalar.com/fragman253682jiang-hu-er-nv0
+https://www.sinemalar.com/liste/temmuz-2019da-vizyona-damga-vuracak-olan-filmler
+https://www.sinemalar.com/film/679/amelie
+https://www.sinemalar.com/
+https://www.sinemalar.com/sozlesme'
+https://www.sinemalar.com/film/262734/ecinni-tilsimli-mezar
+https://www.sinemalar.com/filmleren-iyi-kore-filmleri
+https://www.sinemalar.com/film/245723/condorito-la-pelcula

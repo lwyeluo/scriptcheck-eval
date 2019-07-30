@@ -1,0 +1,10 @@
+https://www.mojang.com/
+https://www.mojang.com/categoryrealms
+https://www.mojang.com/categoryminecraft
+https://www.mojang.com/201611got-time-to-spare-try-our-hour-of-code-2016-edition
+https://www.mojang.com/categoryminecon
+https://www.mojang.com/201611on-consoles-this-holiday-elytra-end-cities-and-amped-up-terrain
+https://www.mojang.com/categorystory-mode
+http://www.mojang.com/2016/11/share-your-real-life-minecraft-moments/
+https://account.mojang.com/terms
+https://www.mojang.com/201611pocket-and-win-10-getting-10-the-ender-update-soon

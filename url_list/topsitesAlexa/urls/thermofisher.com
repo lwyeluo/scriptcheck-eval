@@ -1,0 +1,10 @@
+https://www.thermofisher.com/
+https://www.thermofisher.com/www.thermofisher.comsgenhometechnical-resourcesinstrument-support.html
+https://www.thermofisher.com/www.thermofisher.comsgenhomereferencesgibco-cell-culture-basicscell-culture-protocolscell-culture-useful-numbers.html
+https://www.thermofisher.com/www.thermofisher.comsgenhomesupportwebinars.html
+https://www.thermofisher.com/order/catalog/en/US/adirect/lt?cmd=partnerMktLogin
+https://www.thermofisher.com/www.thermofisher.comsgenhomelife-scienceprotein-biology.html
+https://www.thermofisher.com/www.thermofisher.comsgenhomelife-scienceagricultural-biotechnologyagrigenomics.html
+https://www.thermofisher.com/www.thermofisher.comsgenhomeproducts-and-servicespromotionsiBright-your-life-ipac.html?ICID=L1-SA-NP_01-BID-WB38813-iBrightFL1500-20190705-SG
+https://www.thermofisher.com/www.thermofisher.comsgenhomereferencesprotocols.html
+https://www.thermofisher.com/www.thermofisher.comsgenhomeindustrialmass-spectrometry.html

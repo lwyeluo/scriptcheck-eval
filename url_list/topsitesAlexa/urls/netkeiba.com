@@ -1,0 +1,10 @@
+https://www.netkeiba.com/
+https://news.netkeiba.com/?pid=news_view&no=155070
+https://books.netkeiba.com/?rf=footer
+https://www.netkeiba.com/game/umasta.html?rf=footer
+https://orepro.netkeiba.com/bet/event_race.html?race_id=201901010211&mode=init&rf=pcevent
+https://books.netkeiba.com/?pid=book_info&id=47
+https://news.netkeiba.com/?pid=column_view&cid=44097&rf=top_headline
+https://www.netkeiba.com/paper/?rf=footer
+https://regist.netkeiba.com/?pid=premium&rf=footer
+https://chiki.netkeiba.com/?rf=footer

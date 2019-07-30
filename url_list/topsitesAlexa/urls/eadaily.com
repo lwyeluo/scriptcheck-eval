@@ -1,0 +1,10 @@
+https://www.eadaily.com/runews20190721po-porucheniyu-putina-iz-nizhnego-novgoroda-v-abhaziyu-otpravili-morozhenoe
+https://www.eadaily.com/runews20190719skifskoe-zoloto-ugrozy-ukrainy-i-delfiny-mutanty-krym-za-nedelyu
+https://www.eadaily.com/runews20190720glava-verhovnoy-rady-podpisal-zakon-o-himicheskoy-kastracii-pedofilov
+https://www.eadaily.com/runews20190715mvd-gruzii-obyasnilo-chto-proizoshlo-na-granice-s-azerbaydzhanom
+https://www.eadaily.com/runews20190720innu-churikovu-pereveli-iz-reanimacii-v-obychnuyu-palatu
+https://www.eadaily.com/runews20190710
+https://www.eadaily.com/runews20190721ssha-poka-ne-predstavili-dokazatelstv-unichtozheniya-iranskogo-drona
+https://www.eadaily.com/rudossier
+https://www.eadaily.com/runews20190720v-klaypede-zayavili-chto-spg-terminal-ispolzuetsya-ochen-aktivno
+https://www.eadaily.com/

@@ -1,0 +1,10 @@
+http://status.norton.com/
+https://www.norton.com/
+https://www.norton.com/norton-utilities
+https://www.norton.com/products
+https://identitysafe.norton.com/password-generator/
+https://www.norton.com/norton-mobile-security
+https://identitysafe.norton.com/
+https://manage.norton.com
+https://www.norton.com/norton-security-for-one-device
+https://manage.norton.com/Account?feature=billing-info

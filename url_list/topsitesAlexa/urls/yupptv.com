@@ -1,0 +1,10 @@
+https://www.yupptv.com/channels/colors-tamil
+https://www.yupptv.com/channels/news7tamil/live
+https://www.yupptv.com/catchup
+https://www.yupptv.com/channels/star-vijay/bigg-boss-tamil/latest
+https://www.yupptv.com/tv-channels/telugu
+https://www.yupptv.com/help/terms-and-conditions
+https://www.yupptv.com/
+https://www.yupptv.com/movies/kuppathu-raja
+https://www.yupptv.com/channels/kbo/live
+https://www.yupptv.com/tv-channels/malayalam

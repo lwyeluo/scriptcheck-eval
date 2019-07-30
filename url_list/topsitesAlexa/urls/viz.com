@@ -1,0 +1,10 @@
+https://www.viz.com/
+https://www.viz.com/watchtv-seriessailor-moon-video-season-5product5977
+https://www.viz.com/watch
+https://www.viz.com/company-faq
+https://www.viz.com/community
+https://www.viz.com/giftsredeem
+https://www.viz.com/haikasoru
+https://www.viz.com/blog/posts/your-guide-to-viz-san-diego-comic-con
+https://www.viz.com/studio-ghibli-library
+https://www.viz.com/my-hero-academia

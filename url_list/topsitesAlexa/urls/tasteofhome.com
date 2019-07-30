@@ -1,0 +1,10 @@
+https://www.tasteofhome.com/article/rainbow-chip-cookie-recipe/
+https://www.tasteofhome.com/course/dinner-recipes/
+https://www.tasteofhome.com/collection/fresh-salsas-made-with-fruit/
+https://www.tasteofhome.com/login/index?returnurl=https://www.tasteofhome.com/?_cmp=recipeoftheday&_ebid=recipeoftheday7202019&_mid=292045&os_ehash=286c77be7e32f9d1334bf54bb49baedbd87f8dcf
+https://www.shoptasteofhome.com/?utm_source=toh.com&utm_medium=website&utm_campaign=homepagemenu1805
+https://www.tasteofhome.com/collection/butterfinger-desserts/
+http://goto.tasteofhome.com/redirects/23040
+https://www.tasteofhome.com/collection/gluten-free-foods-for-kids/
+https://www.tasteofhome.com/
+https://www.shoptasteofhome.com/?utm_source=toh.com&utm_medium=website&utm_campaign=homepage1806

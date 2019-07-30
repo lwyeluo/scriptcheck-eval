@@ -1,0 +1,10 @@
+https://global.alipay.com/index.htm
+https://zcbprod.alipay.com/index.htm
+https://www.alipay.com
+https://auth.alipay.com/login/index.htm?goto=https%3A%2F%2Fwww.alipay.com%2F
+https://fun.alipay.com/certificate/jyxkz.htm
+https://yebprod.alipay.com/yeb/index.htm
+https://fun.alipay.com/certificate/zfxkz.htm
+https://ab.alipay.com/i/lianxi.htm
+https://www.alipay.com/
+https://open.alipay.com/platform/home.htm?from=zhuzhanfooter20160818

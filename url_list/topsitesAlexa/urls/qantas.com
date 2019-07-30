@@ -1,0 +1,10 @@
+https://www.qantas.com/sgendestinationsaustraliasakangaroo-island.html
+https://www.qantas.com/jpja.html
+https://www.qantas.com/mxen.html
+https://www.qantas.com/sgentravel-infobaggagedangerous-goodspersonal-items-toiletries-and-medicinal-items.html
+https://www.qantas.com/caen.html
+https://www.qantas.com/sgenbook-a-tripflightsqantas-explorer.html
+https://www.qantas.com/sgentravel-infospecific-needscontact-us-about-specific-needs.html
+https://www.qantas.com/sgentravel-infocheck-inairport-check-in.html
+https://www.qantas.com/hkzh_TW.html
+https://www.qantas.com/

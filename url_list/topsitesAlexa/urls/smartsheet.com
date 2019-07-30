@@ -1,0 +1,10 @@
+https://channel.smartsheet.com/English/
+https://www.smartsheet.com/try-it
+https://www.smartsheet.com/consulting
+https://www.smartsheet.com/solutions/sales
+https://www.smartsheet.com/content-center
+https://community.smartsheet.com/
+https://www.smartsheet.com/customers/ge
+https://developers.smartsheet.com/
+https://www.smartsheet.com/contact?fts=contact-header-nav
+https://www.smartsheet.com/

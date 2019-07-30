@@ -1,0 +1,10 @@
+http://www.el-nacional.com/
+http://www.el-nacional.com/caricaturas/edo-ilustrado/edo-aniversario-cabrujas_135638
+http://www.el-nacional.com/musica
+http://www.el-nacional.com/noticias/columnista/estrategia-madurista_289350
+http://www.el-nacional.com/autores/ovidio-perez-morales
+http://www.el-nacional.com/ee-uu
+http://www.el-nacional.com/autores/adolfo-p-salgueiro
+http://www.el-nacional.com/noticias/deportes/salomon-rondon-reencontrara-con-rafa-benitez-superliga-china_289186
+http://www.el-nacional.com/noticias/mundo/corea-del-sur-dono-medio-millon-dolares-para-venezolanos-peru_285149
+http://www.el-nacional.com/noticias/mundo/investigan-espana-recibos-falsos-residencia-venezolanos-cubanos_287746

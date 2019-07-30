@@ -1,0 +1,10 @@
+https://www.lifehacker.ru/
+https://lifehacker.ru/trejler-seriala-xraniteli/
+https://lifehacker.ru/refriday/
+https://lifehacker.ru/kak-vybrat-smartfon/
+https://lifehacker.ru/xiaomi-mijia-electric-screwdriver/
+https://lifehacker.ru/aliexpress-perfectionism/
+https://lifehacker.ru/video-poleznye-privychki/
+https://lifehacker.ru/video-kak-perestat-stesnyatsya/
+https://lifehacker.ru/avengers-record/
+https://lifehacker.ru/tyomnyj-rezhim-smartfona/

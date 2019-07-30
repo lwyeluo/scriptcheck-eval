@@ -1,0 +1,10 @@
+https://www.verywellfit.com
+https://www.verywellfit.com/how-many-calories-do-i-burn-every-day-3495464
+https://www.verywellfit.com/weight-loss-nutrition-4157005
+https://www.verywellfit.com/running-overview-4581850
+https://www.verywellfit.com/bmi-what-is-bmi-or-body-mass-index-3120088
+https://www.verywellfit.com/cardio-workouts-that-maximize-afterburn-4110550
+https://www.verywellfit.com/legal#cookies
+https://www.verywellfit.com/fitness-beginners-overview-4581864
+https://www.verywellfit.com/
+https://www.verywellfit.com/weight-loss-exercise-4157000

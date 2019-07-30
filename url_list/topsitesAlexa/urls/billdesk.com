@@ -1,0 +1,10 @@
+http://www.billdesk.com/part_bill.htm
+http://www.billdesk.com/billers.htm
+http://www.billdesk.com/secure.htm
+https://www.billdesk.com/
+http://www.billdesk.com/index1.htm
+http://www.billdesk.com/helpcenter.htm
+http://www.billdesk.com/company.htm
+http://www.billdesk.com/company.htmindex.htm
+http://www.billdesk.com/index.htm
+https://payments.billdesk.com/pb/

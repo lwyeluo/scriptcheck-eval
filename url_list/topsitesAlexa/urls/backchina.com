@@ -1,0 +1,10 @@
+https://www.backchina.com/comments20190721news-636302-1.html
+https://www.backchina.com/special/placead/
+https://www.backchina.com/
+https://www.backchina.com/comments20190721news-636318-1.html
+https://www.backchina.com/forum.php?mod=post&action=newthread&fid=1257&special=1
+https://www.backchina.com/comments20190721news-636248-1.html
+https://www.backchina.com/comments20190720news-636130-1.html
+https://www.backchina.com/comments20190720news-636215-1.html
+https://www.backchina.com/infolistnews-405
+https://www.backchina.com/infolistnews-375

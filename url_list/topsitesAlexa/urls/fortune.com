@@ -1,0 +1,10 @@
+https://fortune.com/2019/07/11/virgin-galactic-space-tourism/
+https://fortune.com/2019/07/18/kyoto-animation-reputation-fan-base/
+https://fortune.com/2019/07/18/berkeley-gender-neutral-ordinance-terms/
+https://fortune.com/2019/07/10/exclusive-visa-pours-millions-into-cryptocurrency-startup-anchorage/
+https://fortune.com/2019/06/17/pope-franci-energy-ceos-change-message-climate-change/
+https://fortune.com/section/real-estate/
+https://fortune.com/2019/07/19/oitnb-final-episode-legacy/
+https://fortune.com/2019/07/11/wimbledon-2019-ibm-tech/
+https://fortune.com/2019/07/20/ebay-devin-wenig-coding/
+https://www.fortune.com/

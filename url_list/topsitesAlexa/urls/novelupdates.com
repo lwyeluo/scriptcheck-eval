@@ -1,0 +1,1 @@
+https://www.novelupdates.com/

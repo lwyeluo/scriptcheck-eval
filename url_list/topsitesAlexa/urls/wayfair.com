@@ -1,0 +1,10 @@
+https://www.wayfair.com/furniture/cat/futons-sleeper-sofas-c413902.html
+https://www.wayfair.com/furniture/sb0/bar-carts-c1773657.html
+https://www.wayfair.com/
+https://www.wayfair.com/lighting/sb0/post-lights-c416513.html
+https://www.wayfair.com/lighting/sb0/solar-outdoor-lights-c447076.html
+https://www.wayfair.com/outdoor/sb0/hammocks-c531555.html
+https://www.wayfair.com/decor-pillows/sb0/decorative-objects-c215465.html
+https://www.wayfair.com/appliances/cat/refrigerators-c1862562.html
+https://www.wayfair.com/brand/bnd/le-creuset-c244579.html
+https://www.wayfair.com/outdoor/sb0/porch-swings-c215141.html

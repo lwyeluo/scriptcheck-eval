@@ -1,0 +1,10 @@
+https://www.wacom.com/
+https://www.wacom.com/en-usproductsstylusbamboo-sketch
+https://www.wacom.com/en-usproductspen-computerswacom-cintiq-pro-studio
+https://www.wacom.com/en-ca
+https://www.wacom.com/en-usproductssmartpadsbamboo-folio
+https://developer.wacom.com/
+https://www.wacom.com/es-pe
+https://www.wacom.com/en-usabout-wacomnews-and-events
+https://www.wacom.com/fr-ca
+https://www.wacom.com/supportcontact-support

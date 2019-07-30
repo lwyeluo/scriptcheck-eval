@@ -1,0 +1,10 @@
+https://www.boredpanda.com/other/
+https://www.boredpanda.com/owners-look-like-their-pets-hair-style/#post-comments-area
+https://www.boredpanda.com/photography-rock-your-ugly-waleed-shah/
+https://www.boredpanda.com/
+https://www.boredpanda.com/stranger-things-demogorgon-yard-sprinkler-amazon-bigmouthinc/?utm_source=trending&utm_medium=link&utm_campaign=sidebar
+https://www.boredpanda.com/photography-rock-your-ugly-waleed-shah/#post-comments-area
+https://www.boredpanda.com/fashion/
+https://www.boredpanda.com/inedible-things-look-like-food/
+https://www.boredpanda.com/terms-of-service
+https://www.boredpanda.com/greek-hachiko-loyal-dog-waiting-for-dead-owner/

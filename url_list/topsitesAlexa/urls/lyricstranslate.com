@@ -1,0 +1,10 @@
+https://www.lyricstranslate.com/
+https://www.lyricstranslate.com/ened-sheeran-south-border-lyrics.html
+https://www.lyricstranslate.com/entranslatorschwiering-wolfgang
+https://www.lyricstranslate.com/entranslatorenjovher
+https://www.lyricstranslate.com/entranslatorjadis
+https://www.lyricstranslate.com/enlt-site-rules
+https://www.lyricstranslate.com/encollectioneleni-foureira-%CE%B5%CE%BB%CE%AD%CE%BD%CE%B7-%CF%86%CE%BF%CF%85%CF%81%CE%AD%CE%B9%CF%81%CE%B1-eleni-foureira-tracklist
+https://www.lyricstranslate.com/ensoolking-esp%C3%A9rance-lyrics.html
+https://lyricstranslate.com/es
+https://lyricstranslate.com/sr

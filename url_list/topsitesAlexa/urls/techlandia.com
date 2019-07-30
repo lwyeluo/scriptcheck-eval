@@ -1,0 +1,10 @@
+https://www.techlandia.com/techlandia.comhardware
+https://www.techlandia.com/techlandia.comterms-of-use
+https://www.techlandia.com/techlandia.cominternet
+https://techlandia.com/13717832/como-hacer-una-captura-de-pantalla-en-windows-10
+https://techlandia.com/13717843/los-mejores-moviles-relacion-calidad-precio-de-2019
+https://www.techlandia.com/techlandia.comprivacy-policy
+https://techlandia.com/13717836/como-descargar-canciones-y-musica-de-youtube-sin-programas
+https://www.techlandia.com/
+https://www.techlandia.com/techlandia.comsocial-media
+https://www.techlandia.com/techlandia.comabout-us

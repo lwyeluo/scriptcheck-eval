@@ -1,0 +1,10 @@
+https://www.coub.com/create
+https://www.coub.com/friendswho-to-follow
+https://www.coub.com/
+https://www.coub.com/featuredstories
+https://www.coub.com/tos
+https://www.coub.com/communityart
+https://www.coub.com/communitynsfw
+https://www.coub.com/communitycoub-of-the-day
+https://www.coub.com/communitymashup
+https://www.coub.com/devdocs

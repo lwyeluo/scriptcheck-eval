@@ -1,0 +1,10 @@
+https://www.harpersbazaar.com/
+https://www.harpersbazaar.com/culturepoliticsa28426171elizabeth-warren-kamala-harris-presidential-ticket
+https://www.harpersbazaar.com/weddingphotosa28413244ruthie-friedlander-steven-chaiken-wedding
+https://www.harpersbazaar.com/culturepoliticsa28211603elizabeth-warren-democratic-primary-debate-explained
+https://www.harpersbazaar.com/culturea282506952020-presidential-candidates-female-heroes
+https://www.harpersbazaar.com/nl
+https://www.harpersbazaar.com/celebritylatesta28455612selena-gomez-maid-of-honor-dress-priscilla-deleon-wedding
+https://www.harpersbazaar.com/culturefilm-tv
+https://www.harpersbazaar.com/beautyhealth
+https://www.harpersbazaar.com/beautyhaira28455147serena-williams-blonde-ombre-hair

@@ -1,0 +1,10 @@
+https://www.anthropologie.com/gift-card
+https://www.anthropologie.com/plus-size-skirts
+https://www.anthropologie.com/all-plus-size-clothing
+https://www.anthropologie.com/sale-shoes-accessories
+https://www.anthropologie.com/bottoms-jeans
+https://www.anthropologie.com/tools-brushes
+https://www.anthropologie.com/kids
+https://www.anthropologie.com/
+https://www.anthropologie.com/kids-clothing
+https://www.anthropologie.com/helprequest-catalog

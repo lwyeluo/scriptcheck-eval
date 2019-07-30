@@ -1,0 +1,10 @@
+https://www.nieuwsblad.be/digitale-krant
+https://www.nieuwsblad.be/cnt/dmf20190719_04518188
+https://www.nieuwsblad.be/cnt/dmf20190720_04519761
+https://www.nieuwsblad.be/accountlogon
+https://www.nieuwsblad.be/video
+https://www.nieuwsblad.be/cnt/dmf20190719_04517699
+https://www.nieuwsblad.be/cnt/dmf20190721_04519830
+https://www.nieuwsblad.be/cnt/dmf20190715_04511211
+https://www.nieuwsblad.be/cnt/dmf20190715_04510974
+https://www.nieuwsblad.be/

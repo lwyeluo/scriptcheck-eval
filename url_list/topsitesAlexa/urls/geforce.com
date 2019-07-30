@@ -1,0 +1,10 @@
+http://www.geforce.com/whats-new/guides
+https://www.geforce.com/whats-new/guides/geforce-garage-scratch-build-series-video-5-how-to-mod-your-graphics-card
+http://www.geforce.com/whats-new/guidesnewsletter
+https://www.geforce.com/whats-new/guides/fortnite-battle-royale-nvidia-highlights-guide#disqus_thread
+https://www.geforce.com/drivers
+https://www.geforce.com/whats-new/guides/geforce-garage-scratch-build-series-video-4-how-to-apply-three-basic-finishes-to-metal-surfaces#disqus_thread
+http://www.geforce.com/drivers
+http://www.geforce.com/hardware/geforce-garage
+https://www.geforce.com/
+https://forums.geforce.com/

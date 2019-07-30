@@ -1,0 +1,10 @@
+https://vod.walla.co.il/
+https://vod.walla.co.il/movie/3138853
+https://www.walla.co.il/
+https://beautymagazine.walla.co.il/item/3245608
+https://news.walla.co.il/item/3061281
+https://food.walla.co.il/item/3245585
+https://beautymagazine.walla.co.il/item/3237065
+https://e.walla.co.il/item/3248548
+https://yoram.walla.co.il/
+https://vod.walla.co.il/movie/2880292

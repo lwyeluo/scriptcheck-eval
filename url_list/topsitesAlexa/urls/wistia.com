@@ -1,0 +1,10 @@
+https://www.wistia.com/status.wistia.com
+https://www.wistia.com/soapboxpricing
+https://www.wistia.com/video-marketingplatform
+https://www.wistia.com/soapboxget-in-touch
+https://www.wistia.com/soapboxteams
+https://www.wistia.com/pricing
+https://www.wistia.com/
+https://wistia.com/series/brandwagon
+https://secure.wistia.com/login
+https://www.wistia.com/learn#subscribe

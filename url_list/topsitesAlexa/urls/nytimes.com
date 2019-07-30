@@ -1,0 +1,10 @@
+https://www.nytimes.com/section/opinion?pagetype=Homepage&action=click&module=Opinion
+https://www.nytimes.com/section/t-magazine
+https://www.nytimes.com/20190717magazinebob-dylan-and-the-myth-of-boomer-idealism.html
+https://www.nytimes.com/section/opinion
+https://www.nytimes.com/educationleftnav
+https://www.nytimes.com/section/travel
+https://www.nytimes.com/section/obituaries
+https://www.nytimes.com/
+https://www.nytimes.com/20190720uspoliticstrump-race-record.html#commentsContainer
+https://www.nytimes.com/video/opinion

@@ -1,0 +1,10 @@
+https://e.mail.ru/password/restore/
+https://r.mail.ru/cls951827/e.mail.ru/login?lang=ru_RU&Page=
+https://sportmail.ru/news/boxing/38050719/?frommail=1
+https://r.mail.ru/n275254611?sz=45&rnd=106160779
+https://r.mail.ru/n275254613?sz=45&rnd=106160779
+https://sportmail.ru/news/football-rus-premier/38049571/?frommail=1
+https://sportmail.ru/news/football-rus-premier/38049647/
+https://www.mail.ru/
+https://sportmail.ru/news/tennis/38050663/?frommail=1
+https://www.mail.ru/auto.mail.ru

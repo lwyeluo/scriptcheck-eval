@@ -1,0 +1,10 @@
+https://www.qr-code-generator.com/free-qr-code-creator/
+https://www.qr-code-generator.com/qr-codes-onbusiness-cards
+https://id.qr-code-generator.com/
+https://www.qr-code-generator.com/qr-codes-ontable-tents
+https://www.qr-code-generator.com/
+https://ro.qr-code-generator.com/
+https://www.qr-code-generator.com/solutions/email-qr-code/
+https://tr.qr-code-generator.com/
+https://www.qr-code-generator.com/qr-codes-onproduct-packaging
+https://www.qr-code-generator.com/qr-codes-onbrochures

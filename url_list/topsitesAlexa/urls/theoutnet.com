@@ -1,0 +1,10 @@
+https://www.theoutnet.com/en-in
+https://www.theoutnet.com/en-sg/page/help/privacy-policy
+https://www.theoutnet.com/en-dk
+https://www.theoutnet.com/en-sg/shop/designers/smythson
+https://www.theoutnet.com/
+https://www.theoutnet.com/en-sgaccountmyreturn
+https://www.theoutnet.com/en-mg
+https://www.theoutnet.com/en-sg/page/affiliates
+https://www.theoutnet.com/en-az
+https://www.theoutnet.com/en-sg/shop/list/vacation-shop/designers/dodo-bar-or

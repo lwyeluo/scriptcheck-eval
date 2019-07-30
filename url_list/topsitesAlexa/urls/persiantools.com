@@ -1,0 +1,10 @@
+https://www.persiantools.com/more/article/%D8%A7%DB%8C%D9%85%DB%8C%D9%84-%D9%85%D8%A7%D8%B1%DA%A9%D8%AA%DB%8C%D9%86%DA%AF-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1%DB%8C%D8%A7%D8%A8%DB%8C-%D8%A7%DB%8C%D9%85%DB%8C%D9%84%DB%8C/
+https://www.persiantools.com/about
+https://www.persiantools.com/more/article/%d8%b4%d9%86%d8%a7%d8%b3%d8%a7%db%8c%db%8c-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%da%a9%d8%a7%d8%b1%d8%aa-%da%af%d8%b1%d8%a7%d9%81%db%8c%da%a9-%da%a9%d8%a7%d9%85%d9%be%db%8c%d9%88%d8%aa%d8%b1/
+https://www.persiantools.com/servervps
+https://www.persiantools.com/more/article/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D8%B3%D9%88%DA%A9%D8%AA%E2%80%8C-cpu/
+https://www.persiantools.com/
+https://www.persiantools.com/hostinglinux-iran
+https://www.persiantools.com/more/article/%d8%a7%d9%85%d9%86%db%8c%d8%aa-%d9%88%d8%b1%d8%af%d9%be%d8%b1%d8%b3-wp-hide-security-enhancer/
+https://order.persiantools.com/basket/
+https://support.persiantools.com/

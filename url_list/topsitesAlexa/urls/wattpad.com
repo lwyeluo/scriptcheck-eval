@@ -1,0 +1,10 @@
+https://support.wattpad.com
+https://www.wattpad.com/about
+https://www.wattpad.com/premium.wattpad.com
+https://www.wattpad.com/terms
+https://after.wattpad.com
+https://www.wattpad.com/privacy
+http://business.wattpad.com
+https://company.wattpad.com/work-at-wattpad
+https://www.wattpad.com/
+https://www.wattpad.com/writers

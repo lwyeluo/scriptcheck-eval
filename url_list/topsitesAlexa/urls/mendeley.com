@@ -1,0 +1,10 @@
+http://dev.mendeley.com/
+https://www.mendeley.com/reference-managementweb-importer
+https://www.mendeley.com/reference-managementpremium
+https://www.mendeley.com/release-notes
+https://www.mendeley.com/funding
+https://www.mendeley.com/reference-managementcitation-plugin
+https://www.mendeley.com/termscookie-policy
+https://www.mendeley.com/downloads
+https://www.mendeley.com/
+https://www.mendeley.com/careers

@@ -1,0 +1,10 @@
+https://www.boston.com/tag/local-news
+https://www.boston.com/news/local-news/2019/07/18/navy-warship-wwii-found-maine
+https://www.boston.com/tag/car-culture
+https://www.boston.com/section/food
+http://realestate.boston.com/section/style/
+https://www.boston.com/tag/movies
+https://www.boston.com/travel/travel/2019/07/15/when-book-cheap-airfare
+https://www.boston.com/news/local-news/2019/07/03/shark-sightings-cape-cod-massachusetts
+https://www.boston.com/
+https://www.boston.com/culture/events/2019/07/19/insomniacs-are-invited-to-the-night-cafe

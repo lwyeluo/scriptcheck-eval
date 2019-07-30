@@ -1,0 +1,10 @@
+http://zongyi.ifensi.com/zy-21664/
+http://movie.ifensi.com/film-30888/
+http://zongyi.ifensi.com/zy-294/
+http://movie.ifensi.com/film-31236/
+http://www.ifensi.com/
+http://movie.ifensi.com/film-31656/
+http://photo.ifensi.com/photo-1532752.html
+http://movie.ifensi.com/film-32410/
+http://www.ifensi.com/list24/3-0-0-0/
+http://movie.ifensi.com/film-31531/

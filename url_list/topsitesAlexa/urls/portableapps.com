@@ -1,0 +1,10 @@
+https://www.portableapps.com/platformfeatures
+https://www.portableapps.com/news
+https://www.portableapps.com/newsletter
+https://www.portableapps.com/news2019-07-20--cdex-portable-2.20-released
+https://www.portableapps.com/community
+https://www.portableapps.com/news2019-07-20--calibre-portable-3.46.0-released
+https://portableapps.com/donate
+https://www.portableapps.com/nl
+https://www.portableapps.com/news2019-07-20--putty-portable-0.72-released
+https://www.portableapps.com/

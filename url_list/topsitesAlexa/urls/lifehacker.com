@@ -1,0 +1,10 @@
+https://www.lifehacker.com/lifehacker.com
+https://lifehacker.com/how-much-do-planes-actually-get-cleaned-in-between-flig-1836455238/#replies
+https://www.lifehacker.com/
+https://twocents.lifehacker.com/how-to-keep-negative-compounding-from-derailing-your-fi-1836530454
+https://lifehacker.com/how-to-use-affect-versus-effect-1836526644/#replies
+https://www.lifehacker.com/deadspin.com
+https://skillet.lifehacker.com
+https://lifehacker.com/how-to-get-an-airline-to-match-your-elite-status-from-a-1836567069/#replies
+https://www.lifehacker.com/splinternews.com
+https://lifehacker.com/how-to-stream-the-veronica-mars-movie-before-binging-se-1836562129

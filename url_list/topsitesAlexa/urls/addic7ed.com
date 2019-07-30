@@ -1,0 +1,10 @@
+https://www.addic7ed.com/
+https://www.addic7ed.com/user709426
+http://www.addic7ed.com/log.php?mode=versions
+https://www.addic7ed.com/user11400
+http://www.addic7ed.com/log.php?mode=news
+https://www.addic7ed.com/user946153
+https://www.addic7ed.com/rss.php?mode=hotspot
+https://www.addic7ed.com/log.php?mode=translated
+http://www.addic7ed.com/most_downloaded.php
+https://www.addic7ed.com/log.php?mode=episodes

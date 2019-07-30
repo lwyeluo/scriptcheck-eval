@@ -1,0 +1,10 @@
+https://resource.xinpianchang.com/video/list?cate=City
+https://www.xinpianchang.com/
+https://www.xinpianchang.com/channelindexsort-like
+https://www.xinpianchang.com/channelindexid-1sort-like?from=indexAd
+https://edu.xinpianchang.com/subject/1
+https://www.xinpianchang.com/activity
+https://resource.xinpianchang.com/audio/list/pond5?cate=Happy
+https://www.xinpianchang.com/activity?cateid=56
+https://www.xinpianchang.com/activity?cateid=49
+https://resource.xinpianchang.com/audio/list/pond5?cate=Action

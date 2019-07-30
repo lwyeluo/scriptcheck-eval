@@ -1,0 +1,10 @@
+https://www.traveloka.com/en-sg/hotel/singapore/singapore/city/changi-107648
+https://www.traveloka.com/en-sg/activities/singapore/product/universal-studios-singapore-1001603749383
+https://www.traveloka.com/
+https://www.traveloka.com/en-sg/hotel/indonesia/region/bali-102746
+https://www.traveloka.com/en-sg/activities/singapore/product/sea-aquarium-1000772871513
+https://www.traveloka.com/en-sg/flight/to/Seoul.ICN/1
+https://www.traveloka.com/traveloka-quick
+https://www.traveloka.com/en-sg/qantas-airlines
+https://www.traveloka.com/en-sg/login
+https://www.traveloka.com/stay-guarantee

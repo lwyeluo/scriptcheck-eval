@@ -1,0 +1,10 @@
+https://www.pepperfry.com/furniture-dining-chairs.html?type=hover-furniture-cat
+https://www.pepperfry.com/decor-curios-fridge-magnets-people-places-fridge-magnets.html?type=hover-curios
+https://www.pepperfry.com/kitchen-dining-kitchen-tools-cutting-boards.html?type=hover-kitchenware
+https://www.pepperfry.com/
+https://www.pepperfry.com/kitchen-cookware-cooking-pans-tawas.html?type=hover-kitchenware
+https://www.pepperfry.com/bar-furniture-bar-sets.html?type=hover-furniture-cat
+https://www.pepperfry.com/lamps-lighting-street-lights.html?type=hover-lamps
+https://www.pepperfry.com/hardware-electricals-bathroom-fixtures-cloth-robe-hooks.html?type=hover-bath
+https://www.pepperfry.com/furniture-wine-racks.html?type=hover-furniture-cat
+https://www.pepperfry.com/bath-towels-hand-towel.html?type=hover-bath

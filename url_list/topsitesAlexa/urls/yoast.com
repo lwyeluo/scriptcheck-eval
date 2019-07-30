@@ -1,0 +1,1 @@
+https://www.yoast.com/

@@ -1,0 +1,10 @@
+https://www.stardoll.com/fr
+https://www.stardoll.com/endesign
+https://www.stardoll.com/endolls-gamesgames.php
+https://www.stardoll.com/engamesview.php?id=9
+https://www.stardoll.com/ru
+https://www.stardoll.com/endolls-games
+https://www.stardoll.com/enhelpsection.php?sectionId=18
+https://www.stardoll.com/hu
+https://ox.stardoll.com/www/delivery/ck.php?bannerid=51630
+https://www.stardoll.com/

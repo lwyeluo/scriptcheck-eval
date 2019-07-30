@@ -1,0 +1,10 @@
+https://www.basketball-reference.com/leadersast_active.html
+https://www.basketball-reference.com/leaderstrb_career.html
+https://www.basketball-reference.com/leaguesNBA_2017.html
+https://www.basketball-reference.com/aboutcontact.html
+https://www.basketball-reference.com/teamsCHA
+https://www.basketball-reference.com/leaguesNBA_2019_games.html
+https://www.basketball-reference.com/play-indextsl_finder.cgi
+https://www.basketball-reference.com/play-indextscore.cgi
+https://www.basketball-reference.com/nblteams
+https://www.basketball-reference.com/

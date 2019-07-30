@@ -1,0 +1,10 @@
+https://www.tapatalk.com/vip_plus_introduction
+https://www.tapatalk.com/
+https://www.tapatalk.com/privacy_policy
+https://www.tapatalk.com/register
+https://www.tapatalk.com/tapatalk_mobile
+https://www.tapatalk.com/support
+https://www.tapatalk.com/privacy_shield
+https://www.tapatalk.com/groups/tapatalksupport
+https://www.tapatalk.com/end_user_license_agreement
+https://www.tapatalk.com/api_tos

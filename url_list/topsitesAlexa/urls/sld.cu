@@ -1,0 +1,10 @@
+http://www.sld.cu/anuncio/2019/05/30/convoca-el-cnicm-al-curso-el-dilema-retorico-de-la-comunicacion-cientifica-el-est
+http://www.sld.cu/infocwis_page?icw_res_id=Curso%20din%C3%A1mico.%20B%C3%BAsqueda%20Avanzada%20en%20Google%20Scholar%20y%20Google%2F1312&icw_br_ids=1_312
+http://www.sld.cu/infocwis_page?icw_res_id=Curso%20din%C3%A1mico.%20Portal%20de%20Infomed%2F1140&icw_br_ids=1_140
+http://www.sld.cu/pagina/2016/02/04/informacion-actualizada-sobre-el-virus-del-zika
+http://www.sld.cu/infocwis_page?icw_res_id=Curso%20Din%C3%A1mico.%20Biblioteca%20Virtual%20de%20Salud%20%28BVS%29%2F1131&icw_br_ids=1_131
+http://www.sld.cu/node?page=5
+http://www.sld.cu/servicios-de-infomed
+http://www.cencomed.sld.cu/
+http://www.sld.cu/
+http://www.sld.cu/infocwis_page?icw_res_id=Curso%20din%C3%A1mico.%20%20ClinicalKey%2F1154&icw_br_ids=1_154

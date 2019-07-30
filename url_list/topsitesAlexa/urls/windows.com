@@ -1,0 +1,10 @@
+https://insider.windows.com/zh-cnprogram-agreement
+https://insider.windows.com/
+https://blogs.windows.com/
+https://www.windows.com/www.microsoftstore.com.cncart
+https://insider.windows.com/zh-cncommunity-champs
+https://insider.windows.com/zh-cnpreviews-highlights
+https://insider.windows.com/zh-cnlocale
+https://www.windows.com/
+https://www.windows.com/zh-cnwindowsworldwide
+https://insider.windows.com/zh-cn/podcast/quantum-leaps-and-windows-updates/

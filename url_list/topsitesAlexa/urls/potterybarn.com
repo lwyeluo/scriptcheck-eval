@@ -1,0 +1,10 @@
+https://www.potterybarn.com/shopsaleview-all-saletabletop-sale-view-all?cm_type=gnav
+https://www.potterybarn.com/shopfurnituresofa-sectional-collections?cm_type=gnav
+https://www.potterybarn.com/shopoutdoorview-all-outdoor-furniture?cm_type=gnav
+https://www.potterybarn.com/shopbeddinggray?cm_type=gnav
+https://www.potterybarn.com/
+https://www.potterybarn.com/tips-and-ideas/how-to-hang-artwork/?cm_type=gnav
+https://www.potterybarn.com/shopaccessories-decorall-art?cm_type=gnav
+https://www.potterybarn.com/shopbathbath-hardware-collections?cm_type=gnav
+https://www.potterybarn.com/shoporganizationall-wall-organizationracks-hooks-storage?cm_type=gnav
+https://www.potterybarn.com/tips-and-ideas/paint-landing/?cm_re=hpfooter4-_-default-_-sherwinwilliams

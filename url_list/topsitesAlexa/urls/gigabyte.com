@@ -1,0 +1,10 @@
+https://www.gigabyte.com/WebPage299b2b_product.html
+https://www.gigabyte.com/ARM-Server
+https://www.gigabyte.com/Press
+https://www.gigabyte.com/SocialMedia
+https://reseller.b2b.gigabyte.com/
+https://www.gigabyte.com/
+https://www.gigabyte.com/PressAwards
+https://www.gigabyte.com/SupportWarranty
+https://www.gigabyte.com/Chassis
+https://www.gigabyte.com/Motherboard

@@ -1,0 +1,10 @@
+https://www.mediamarkt.es/www.mediamarkt.esescategory_etapa-de-potencia-702134.html
+https://www.mediamarkt.es/es/shop/zona-samsung.html
+https://www.mediamarkt.es/www.mediamarkt.esescategory_multifunción-láser-701459.html
+https://www.mediamarkt.es/es/shop/zona-huawei.html
+https://www.mediamarkt.es/www.mediamarkt.esescategory_gps-702131.html
+https://www.mediamarkt.es/www.mediamarkt.esescategory_aspiradores-con-bolsa-701265.html
+https://www.mediamarkt.es/
+https://www.mediamarkt.es/www.mediamarkt.esescategory_libros-701353.html
+https://www.mediamarkt.es/www.mediamarkt.esescategory_cámaras-réflex-701197.html
+https://www.mediamarkt.es/es/category/_hifi-701229.html

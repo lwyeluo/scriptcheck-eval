@@ -1,0 +1,10 @@
+https://www.gotomeeting.com/de-ch
+https://www.gotomeeting.com/en-sgmeetingonline-meeting-support
+https://www.gotomeeting.com/en-au
+https://www.gotomeeting.com/
+https://www.gotomeeting.com/en-sgcontact-sales
+https://www.gotomeeting.com/en-hk
+https://www.gotomeeting.com/en-us
+https://www.gotomeeting.com/en-sgmeetingcontact-sales
+https://www.gotomeeting.com/nl-nl
+https://www.gotomeeting.com/en-sgwebinar

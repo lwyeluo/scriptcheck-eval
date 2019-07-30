@@ -1,0 +1,10 @@
+https://slack.com/intl/en-sg/slack-tips
+https://slack.com/intl/en-sg/customer-stories/everlane-happy-returns
+https://slack.com/intl/en-sg/solutions/sales
+https://slack.com/intl/en-sg/pricing
+https://slack.com/intl/en-sg/legal
+https://slack.com/intl/en-sg/help/contact
+https://www.slack.com/
+https://slack.com/intl/en-sg/customer-stories/shopify
+https://slack.com/intl/en-sg/media-kit
+https://slack.com/intl/de-de/

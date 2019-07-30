@@ -3,6 +3,7 @@
 import os
 from result_handler.frameChain import FrameChain
 from result_handler.vulnWebPage import VulnWebPage
+from result_handler import _logger
 
 
 class ParseLog(object):
@@ -66,6 +67,12 @@ class ParseLog(object):
 		if len(info) != 5:
 			raise Exception("Bad format for metadata: " + line)
 
+		# the length of frame chain minus the len(frame_chain.getFramesInfo()) != 1, means there is an error
+		length_of_chain = info[1].strip(' ').strip('"')
+		if int(length_of_chain) != len(frame_chain.getFramesInfo()) + 1:
+			print("---> ERROR for that frame chain. Please check it. (%s, %d)" % (line, len(frame_chain.getFramesInfo())))
+			return False
+
 		frame_info = {
 			'url': url,
 			'domain': domain,
@@ -99,7 +106,8 @@ class ParseLog(object):
 
 	def handleFeatureSetDomain(self, line, frame_chain, has_collected_metadata):
 		if not has_collected_metadata:
-			raise Exception("You are setting domain before collecting metadata. line is " + line)
+			print(">>> [ERROR] You are setting domain before collecting metadata. line is " + line)
+			return
 
 		line = line[line.index(self._feature_set_domain):]
 		_, _, remain = line.partition("=")
@@ -129,7 +137,7 @@ class ParseLog(object):
 		event = info[1].strip(' ')
 		if self.is_debug:
 			print("line EVENT [%s] %s" % (event, line))
-		if event in ["load", "readystatechange", "unload"]:
+		if event in ["load", "readystatechange", "unload", "loadend", "visibilitychange"]:
 			return event
 		return None
 
@@ -170,6 +178,10 @@ class ParseLog(object):
 			while self.idx < self.length - 1:
 				self.idx += 1
 				line = self.content[self.idx]
+
+				# we ignore the chrome-search://local-ntp/
+				if "chrome-search://local-ntp/" in line:
+					continue
 
 				# here we are in the next frame in current series frame chain
 				if self._feature_frame_chain in line:
@@ -253,6 +265,11 @@ class ParseLog(object):
 				print("They are triggered by event [%s]" % frame1['triggered_by_event'])
 			return False
 
+		if 'triggered_by_event' in frame0.keys():
+			if self.is_debug:
+				print("They are triggered by event [%s]" % frame0['triggered_by_event'])
+			return False
+
 		# Feature 1: they have different effective domains
 		domain0, domain1 = frame0['domain'], frame1['domain']
 		# if frame0 has set its domain, update domain0
@@ -276,10 +293,17 @@ class ParseLog(object):
 
 		print(parent_origin0, ", ", parent_origin1)
 		print(parent_domain0, ", ", parent_domain1)
+		# get the main frame's domain
+		main_domain = self.domain
+		if parent_origin0 == '':
+			main_domain = frame0['domain']
+		elif parent_origin1 == '':
+			main_domain = frame1['domain']
+		# ignore the top frame
 		if parent_origin0 == '' or parent_origin1 == '':
 			# here one of them is the top frame
 			domain = parent_domain0 + parent_domain1
-			return self.domain not in domain
+			return main_domain not in domain
 
 		# if parent_origin0 != parent_origin1:
 		# 	return True
@@ -320,7 +344,8 @@ class ParseLog(object):
 				# whether they has different features
 				if self.hasDifferentFeatures(frame0, frame1) and self.hasJSStack(frame1):
 					if self.is_debug:
-						print("\n!!!! We found a vuln frame chain: %s, %s\n" % (str(frame0), str(frame1)))
+						print("\n!!!! We found a vuln frame chain: %s, %s. \n\tthe chain is%s\n" %
+							  (str(frame0), str(frame1), frame_chain['chain']))
 					vuln_frame_chain_with_diff_features.append(frame_chain)
 					break
 
@@ -336,9 +361,9 @@ class ParseLog(object):
 
 
 def test(domain="yahoo.com"):
-	from result_handler import _result_alexa_dir
+	from result_handler import _topsites_dir
 
-	ret_dir = os.path.join(_result_alexa_dir, domain)
+	ret_dir = os.path.join(os.path.join(_topsites_dir, "results"), domain)
 	if os.path.exists(ret_dir) and os.path.isdir(ret_dir):
 		files = os.listdir(ret_dir)
 		for ret_file in files:

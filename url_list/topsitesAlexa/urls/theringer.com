@@ -1,0 +1,10 @@
+https://www.theringer.com/
+https://www.theringer.com/authors/amelia-wedemeyer
+https://www.theringer.com/movies/2019/7/18/20696843/rick-alverson-the-mountain-comedy-entertainment-jeff-goldblum
+https://www.theringer.com/movies
+https://www.theringer.com/winging-it
+https://www.theringer.com/2019/7/19/20700193/beto-orourke-get-your-act-together-donald-trump-rally
+https://www.theringer.com/authors/robert-mays
+https://www.theringer.com/authors/steven-hyden
+https://www.theringer.com/dual-threat-ryen-russillo
+https://www.theringer.com/authors/ben-lindbergh

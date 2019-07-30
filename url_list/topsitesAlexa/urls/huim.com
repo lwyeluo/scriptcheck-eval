@@ -1,0 +1,10 @@
+https://www.huim.com/?t=4#type
+http://www.huim.com/mall/
+https://www.huim.com/push
+https://www.huim.com/souquan
+https://www.huim.com/push#push_rrs
+https://www.huim.com/
+https://www.huim.com/contentsaboutus
+https://www.huim.com/#type
+https://www.huim.com/?t=6#type
+https://www.huim.com/app

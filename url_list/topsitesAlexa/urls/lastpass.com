@@ -1,0 +1,10 @@
+https://lastpass.com/download
+https://lastpass.com/misc_download2.php?tab=linux&anchor=linux#linuxlplinux&lang=zh
+https://www.lastpass.com/zhteam-password-manager
+https://lastpass.com/families/payment
+https://www.lastpass.com/zhhow-lastpass-works
+https://forums.lastpass.com/
+https://lastpass.com/press-room/?lang=zh
+https://www.lastpass.com/zhusername-generator
+https://www.lastpass.com/zhproductsidentity
+https://www.lastpass.com/

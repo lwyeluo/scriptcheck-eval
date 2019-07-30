@@ -1,0 +1,10 @@
+https://www.downloadtwittervideo.com/fr/
+https://www.downloadtwittervideo.com/hu/
+https://www.downloadtwittervideo.com/m/zh-cn/
+https://www.downloadtwittervideo.com/nl/
+https://www.downloadtwittervideo.com/ar/
+https://www.downloadtwittervideo.com/zh-cn/
+https://www.downloadtwittervideo.com/jp/
+https://www.downloadtwittervideo.com/
+https://www.downloadtwittervideo.com/id/
+https://www.downloadtwittervideo.com/de/

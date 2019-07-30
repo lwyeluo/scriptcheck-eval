@@ -1,0 +1,10 @@
+https://www.netacad.com/www.youtube.comembedNiZWvLqGL3s?iframe=true
+https://www.netacad.com/portal/user/redeem/token
+https://www.netacad.com/educators
+https://www.netacad.com/careerscertifications
+https://www.netacad.com/coursessecurity
+https://www.netacad.com/portal/saml_login
+https://www.netacad.com/coursesnetworking
+https://www.netacad.com/careerssuccess-stories
+https://www.netacad.com/zh-hans
+https://www.netacad.com/

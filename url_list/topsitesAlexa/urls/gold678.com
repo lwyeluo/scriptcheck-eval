@@ -1,0 +1,10 @@
+https://www.gold678.com/ams.fx678.comdeliveryck.php?n=aec4ac3d&cb=INSERT_RANDOM_NUMBER_HERE
+https://www.gold678.com/C201907191205092240
+https://www.gold678.com/C201907201542412249
+https://www.gold678.com/jgjp
+https://www.gold678.com/C201907211431042465
+https://www.gold678.com/C201907210838202467
+https://www.gold678.com/zjpy
+https://www.gold678.com/www.gold678.comdySGBPUSD
+https://www.gold678.com/C201907121149292078
+https://www.gold678.com/

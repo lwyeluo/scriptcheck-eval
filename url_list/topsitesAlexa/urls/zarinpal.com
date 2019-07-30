@@ -1,0 +1,10 @@
+https://www.zarinpal.com/faq.html
+https://help.zarinpal.com/easypay/
+https://www.zarinpal.com/blog
+https://www.zarinpal.com/
+https://help.zarinpal.com/
+https://www.zarinpal.com/terms.html
+https://www.zarinpal.com/application.html
+https://www.zarinpal.com/lab/
+https://www.zarinpal.com/lab
+https://www.zarinpal.com/contact.html

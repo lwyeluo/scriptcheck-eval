@@ -1,0 +1,10 @@
+https://www.shipstation.com/pricing/
+https://www.shipstation.com/stories/ugmonk/
+https://www.shipstation.com/stories
+https://www.shipstation.com/privacy-policy
+https://www.shipstation.com/partners/
+https://www.shipstation.com/features
+https://www.shipstation.com/
+https://www.shipstation.com/videos
+https://www.shipstation.com/about-us
+https://www.shipstation.com/welcome-podcast-listener/

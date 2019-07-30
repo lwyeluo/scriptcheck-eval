@@ -1,0 +1,10 @@
+https://www.rockpapershotgun.com/game/limbo/
+https://www.rockpapershotgun.com/game/kingdom-wars-2-definitive-edition/
+https://forum.rockpapershotgun.com/
+https://www.rockpapershotgun.com/game/grand-theft-auto-v/
+https://www.rockpapershotgun.com/2019/07/09/dota-underlords-review/
+https://www.rockpapershotgun.com/tag/mobile-gaming/
+https://www.rockpapershotgun.com/tag/dan-gartman/
+https://www.rockpapershotgun.com/game/inside/
+https://www.rockpapershotgun.com/2019/07/18/plants-vs-zombies-3-announced-for-mobile/#comments
+https://www.rockpapershotgun.com/

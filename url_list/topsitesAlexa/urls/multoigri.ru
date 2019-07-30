@@ -1,0 +1,10 @@
+http://www.multoigri.ru/igri-dryzya-angelov
+http://www.multoigri.ru/igri-monsuno
+http://www.multoigri.ru/igri-rapuncel
+http://www.multoigri.ru/igri-golovolomki
+http://www.multoigri.ru/igri-krasniy-shar
+http://www.multoigri.ru/igri-prilipaly
+http://www.multoigri.ru/igri-ekvestriya
+http://www.multoigri.ru/
+http://www.multoigri.ru/igri-shimmer-i-shayn
+http://www.multoigri.ru/gameigra-chervyachki-i-sladosti

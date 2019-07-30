@@ -1,0 +1,10 @@
+https://event.kkday.com/zh-cn/about/TermsAndConditions
+https://event.kkday.com/zh-cn/about/about
+https://event.kkday.com/zh-cn/about/privacy
+https://b2d.kkday.com/
+https://www.kkday.com/
+https://event.kkday.com/zh-tw/blogger
+https://www.kkday.com/zh-cn/affiliate/
+http://blog.kkday.com/
+https://event.kkday.com/zh-cn/about/media-report
+http://event.kkday.com/zh-cn/about/why-kkday

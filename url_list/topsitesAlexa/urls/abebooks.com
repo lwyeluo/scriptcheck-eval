@@ -1,0 +1,10 @@
+https://www.abebooks.com/collections?cm_sp=TopNav-_-Home-_-Collections
+https://www.abebooks.com/servletSignOff?cm_sp=TopNav-_-Home-_-Login&ph=2
+https://www.abebooks.com/booksCompanyInformationcontact.shtml?cm_sp=Ftr-_-Home-_-about2
+https://www.abebooks.com/booksfirst-printing-collectible-modern-booksfirst-editions.shtml?cm_sp=merch-_-merch-_-merch
+https://www.abebooks.com/
+https://www.abebooks.com/www.iberlibro.com?cm_sp=Ftr-_-Home-_-sites8
+https://www.abebooks.com/servletShopBasketPL?cm_sp=TopNav-_-Home-_-SB
+https://www.abebooks.com/servletSearchEntry?cm_sp=TopNav-_-Home-_-Advs
+https://www.abebooks.com/www.abebooks.it?cm_sp=Ftr-_-Home-_-sites5
+https://www.abebooks.com/my-accountpurchases?cm_sp=TopNav-_-Home-_-Orders

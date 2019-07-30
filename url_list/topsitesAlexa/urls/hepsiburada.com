@@ -1,0 +1,10 @@
+http://b2b.hepsiburada.com
+https://www.hepsiburada.com/apple-iphone-x-64-gb-apple-turkiye-garantili-pm-HB000007PV9R
+https://www.hepsiburada.com/
+https://www.hepsiburada.com/apple-iphone-7-plus-32-gb-apple-turkiye-garantili-pm-HB0000012S8N
+https://www.hepsiburada.com/xiaomi-redmi-note-7-64-gb-xiaomi-turkiye-garantili-p-HBV00000IMW2E
+https://www.hepsiburada.com/aracini-seyahate-hazirla-c-80573195
+https://www.hepsiburada.com/staticpage/106634483734550
+https://www.hepsiburada.com/sony-whch500l-kulakustu-wireless-kulaklik-mavi-p-HBV00000AHQGU
+https://www.hepsiburada.com/durex-uzayan-zevk-40-li-prezervatif-avantaj-paketi-p-HBV000003RFBS?magaza=Hepsiburada
+https://www.hepsiburada.com/hepsiburada-home-novado-4-kapakli-2-cekmeceli-gardirop-beyaz-p-MBMETGM070

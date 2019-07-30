@@ -1,0 +1,10 @@
+http://www.easybib.com/guides/?from=footer
+http://support.easybib.com
+https://easybib.com/grammar-and-plagiarism/
+http://www.easybib.com/sitemap
+https://www.easybib.com/grammar-and-plagiarism
+http://developer.easybib.com
+http://www.easybib.com/guides/cookie-notice/
+http://titlepage.easybib.com/
+https://www.easybib.com/
+http://www.easybib.com/guides/category/blog-posts/

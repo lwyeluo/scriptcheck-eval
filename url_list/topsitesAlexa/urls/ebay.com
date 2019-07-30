@@ -1,0 +1,10 @@
+https://www.ebay.com/sch/i.html?_nkw=david+bowie+barbie
+https://www.ebay.com/e/fashion/michael-kors-062419
+https://www.ebay.com/e/sales-events/vq-070819-dyson-sale
+https://www.ebay.com/b/Sports-Memorabilia-Fan-Shop-Sports-Cards/64482/bn_1857919
+https://www.ebay.com/b/Collectible-Comics/63/bn_1865459
+https://www.ebay.com/b/Fishing-Equipment-Supplies/1492/bn_1851047
+https://www.ebay.com/
+https://www.ebay.com/b/Musical-Instruments-Gear/619/bn_1865601
+https://www.ebay.com/b/Camping-Hiking-Equipment/16034/bn_1959887
+https://my.ebay.com/ws/eBayISAPI.dll?MyEbay&gbh=1&CurrentPage=MyeBayAllSelling&ssPageName=STRK:ME:LNLK:MESX

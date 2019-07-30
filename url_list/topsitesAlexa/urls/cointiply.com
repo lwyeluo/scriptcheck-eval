@@ -1,0 +1,10 @@
+http://www.cointiply.com/
+http://www.cointiply.com/termspasswordreset
+http://www.cointiply.com/termsterms
+http://www.cointiply.com/terms
+https://status.cointiply.com
+http://www.cointiply.com/privacy
+http://www.cointiply.com/termssupport
+http://www.cointiply.com/login
+http://www.cointiply.com/register
+http://www.cointiply.com/termspayments

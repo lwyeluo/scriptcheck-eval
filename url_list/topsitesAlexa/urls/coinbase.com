@@ -1,0 +1,10 @@
+https://www.coinbase.com/signup
+https://ventures.coinbase.com
+https://pro.coinbase.com
+https://www.coinbase.com/usdc
+https://www.coinbase.com/bitcoin-taxes
+https://www.coinbase.com/buy-bitcoincash
+https://www.coinbase.com/
+https://www.coinbase.com/buy-xrp
+https://www.coinbase.com/buy-litecoin
+https://coinbase.com/earn

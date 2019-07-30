@@ -1,0 +1,10 @@
+https://ifttt.com/join
+https://www.ifttt.com/terms
+https://www.ifttt.com/privacy
+https://www.ifttt.com/
+https://www.ifttt.com/trust
+https://help.ifttt.com
+https://www.ifttt.com/about
+https://www.ifttt.com/discover
+https://ifttt.com/
+https://platform.ifttt.com/

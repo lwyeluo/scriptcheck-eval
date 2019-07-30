@@ -1,0 +1,10 @@
+https://www.tvn24.pl/czarno-na-bialym,42,mwirus-hiv-konsekwencje-nieswiadomosci,946571.html
+https://www.tvn24.pl/krakow,50
+https://www.tvn24.pl/sam-presti-i-billy-donovan-z-oklahoma-city-thunder-z-pogrozkami-po-oddaniu-paula-george-a,954272,s.html
+https://www.tvn24.pl/
+https://www.tvn24.pl/wiadomosci-ze-swiata,2ukraina-niedzielne-wybory-wywoluja-obawy-co-do-przyszlosci,954573.html
+https://www.tvn24.pl/magdalena-piekarska-wygrala-z-nowotworem-najgorsza-mysl-ze-umre,953851,s.html#forum
+http://fakty.tvn24.pl/
+https://www.tvn24.pl/ciekawostki-michalki,5wybierz-najciekawsze-wideo-tygodnia-w-tvn24-pl,954118.html
+https://www.tvn24.pl/internet-hi-tech-media,40cwiczenia-raf-w-wielkiej-brytanii-samolot-laduje-na-plazy,899576.html
+https://www.tvn24.pl/robert-lewandowski-trafil-do-kosza-z-polowy-boiska,954551,s.html

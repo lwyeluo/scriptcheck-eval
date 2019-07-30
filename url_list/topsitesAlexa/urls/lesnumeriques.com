@@ -1,0 +1,10 @@
+https://www.lesnumeriques.com/volant.html
+https://www.lesnumeriques.com/montre-sport.html
+https://www.lesnumeriques.com/console-de-jeu.html
+https://www.lesnumeriques.com/accessoire-pour-tablettecomparatif-claviers-pour-tablettes-tactiles-a1570.html
+https://www.lesnumeriques.com/
+https://www.lesnumeriques.com/capteur-activitecomparatif-capteurs-activite-mouvements-a1712.html
+https://www.lesnumeriques.com/imprimantecomparatif-imprimantes-laser-multifonctions-a486.html
+https://www.lesnumeriques.com/pile-rechargeable.html
+https://www.lesnumeriques.com/robot-cuiseur-multifonctionmeilleurs-robots-cuiseurs-multifonctions-a3727.html
+https://www.lesnumeriques.com/capteur-activitexiaomi-mi-smart-band-4-p52695test.html

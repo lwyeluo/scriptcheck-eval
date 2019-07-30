@@ -1,0 +1,10 @@
+https://www.eurosport.ru/boxing
+https://www.eurosport.ru/handballworld-championship
+https://www.eurosport.ru/fencingstory_sto7381801.shtml
+https://www.eurosport.ru/basketballworld-cup-w
+https://www.eurosport.ru/bobsleigholympics
+https://www.eurosport.ru/cyclinggiro-d-italia
+https://www.eurosport.ru/
+https://www.eurosport.ru/figure-skatingolympics
+https://www.eurosport.ru/freestyle-skiing
+https://www.eurosport.ru/luge

@@ -1,0 +1,10 @@
+https://smartphones.gadgethacks.com/collection/gift-guides/
+https://www.gadgethacks.com/collection/privacy-security
+https://www.gadgethacks.com/collection/features-coming-soon/
+https://ios.gadgethacks.com/collection/iphone7/
+https://android.gadgethacks.com/how-to/easily-change-your-play-store-country-download-region-locked-apps-games-0186542/
+https://www.gadgethacks.com/collection/social-media/
+https://nexus5.gadgethacks.com/
+https://ios.gadgethacks.com/how-to/mark-episodes-as-played-apple-podcasts-remove-them-from-your-up-next-queue-0199670/
+https://www.gadgethacks.com/collection/gaming/
+https://www.gadgethacks.com/

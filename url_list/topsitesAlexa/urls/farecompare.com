@@ -1,0 +1,10 @@
+https://www.farecompare.com/travel-advice
+https://www.farecompare.com/flightsDallas-Fort_Worth-DFWcity.html
+https://www.farecompare.com/flightseuropezone.html
+https://www.farecompare.com/hotels
+https://www.farecompare.com/flightsSan-Francisco-SFOcity.html
+https://www.farecompare.com/flightscentralamericazone.html
+https://www.farecompare.com/flightsCharlotte-CLTcity.html
+https://www.farecompare.com/flightsCanada-CAcountry.html
+https://www.farecompare.com/about-farecompare
+https://www.farecompare.com/

@@ -1,0 +1,10 @@
+https://www.everydayhealth.com/
+https://www.everydayhealth.com/contact-us
+https://www.everydayhealth.com/lifestylehealthy-living
+https://www.everydayhealth.com/www.everydayhealth.comcolumnshealth-answerstruths-about-alzheimers-disease
+https://www.everydayhealth.com/www.everydayhealth.comlifestylefood
+https://www.everydayhealth.com/www.everydayhealth.comcolumnstrevis-gleason-life-with-multiple-sclerosisstormy-weather-brings-ms-mind
+https://www.everydayhealth.com/www.everydayhealth.compsoriatic-arthritisexpert-tips-on-diagnosing-treating-psoriatic-arthritis
+https://www.everydayhealth.com/sexual-healthsexually-transmitted-diseases
+https://www.everydayhealth.com/www.everydayhealth.comdiet-nutritiondrinking-less-boosts-wellbeing-even-moderate-drinkers-study
+https://www.everydayhealth.com/www.everydayhealth.cominfectious-diseasesmaking-optimal-choices-about-antibiotics-your-childs-ear-nose-throat-infection

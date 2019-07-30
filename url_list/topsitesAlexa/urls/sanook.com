@@ -1,0 +1,10 @@
+https://www.sanook.com/www.sanook.comtravel
+http://video.sanook.com/
+https://www.sanook.com/www.sanook.comnews7841166
+https://www.sanook.com/www.sanook.comnewsentertain
+https://www.sanook.com/www.sanook.comnews7841278
+https://www.sanook.com/www.sanook.comhitech
+https://muan.sanook.com/
+https://www.sanook.com/
+http://news.sanook.com/lotto/
+https://www.sanook.com/www.sanook.comauto

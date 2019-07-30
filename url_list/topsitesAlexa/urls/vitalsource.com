@@ -1,0 +1,10 @@
+https://www.vitalsource.com/productsfinancial-modeling-in-excel-chris-pope-v9781119130239
+https://www.vitalsource.com/login
+https://www.vitalsource.com/en-ca
+https://www.vitalsource.com/redeem
+https://get.vitalsource.com/contact-us/
+https://www.vitalsource.com/faqs
+https://www.vitalsource.com/refund-policy
+https://get.vitalsource.com/company/
+https://www.vitalsource.com/
+https://press.vitalsource.com

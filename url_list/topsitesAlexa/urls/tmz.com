@@ -1,0 +1,10 @@
+https://www.tmz.com/2019/07/21/soulja-boy-changes-jail-release-social-media-home-robbery/#comments
+https://www.tmz.com/categories/crime/
+https://www.tmz.com/2019/07/11/pablo-escobar-brother-elon-musk-flamethrower-idea/
+https://www.tmz.com/
+https://www.tmz.com/categories/nba/
+https://www.tmz.com/2019/04/30/soulja-boy-sentenced-probation-violation-house-raid-240/
+https://www.tmz.com/2019/07/20/jussie-smollett-lawyers-osundairo-brothers-defamation-lawsuit-dismiss/
+https://www.tmz.com/categories/nfl/
+https://www.tmz.com/2019/07/14/soulja-boy-released-early-jail-good-behavior/
+https://www.tmz.com/2019/07/10/gilbert-arenas-miraculously-not-hurt-crazy-maybach-crash/

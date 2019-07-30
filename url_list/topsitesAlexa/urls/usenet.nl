@@ -1,0 +1,10 @@
+https://www.usenet.nl/UNFShopobjuserusShowLostPassword.cfm
+https://www.usenet.nl/unfshopobjcartcaShowCheckout.cfm
+https://it.usenet.nl/
+https://www.usenet.nl/
+https://www.usenet.nl/unfshopmiscsupportmiscHotline.cfm
+https://www.usenet.nl/unfshopmiscmiscShowTerms.cfm
+https://www.usenet.nl/unfshopmiscsupportmiscShowFaq.cfm
+https://www.usenet.nl/unfshopmiscmiscShowContact.cfm
+https://www.usenet.nl/unfshopmiscmiscNewsreaderSoftware.cfm
+https://www.usenet.nl/unfshopmiscmiscShowUseConditions.cfm

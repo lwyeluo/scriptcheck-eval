@@ -1,0 +1,10 @@
+https://www.paisabazaar.com/gold-ratekolkata
+https://www.paisabazaar.com/fixed-deposit
+https://www.paisabazaar.com/saving-schemesepf-interest-rate
+https://www.paisabazaar.com/bankingkarur-vysya-bank-net-banking-login
+https://www.paisabazaar.com/insurance-companies
+https://www.paisabazaar.com/insurance-companieshdfc-life-insurance
+https://www.paisabazaar.com/standard-chartered-bank
+https://www.paisabazaar.com/support
+https://www.paisabazaar.com/
+https://www.paisabazaar.com/disclaimer

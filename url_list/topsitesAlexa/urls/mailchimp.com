@@ -1,0 +1,10 @@
+https://www.mailchimp.com/digital-ads
+https://login.mailchimp.com/
+https://www.mailchimp.com/resources
+https://www.mailchimp.com/featurestemplates
+https://admin.mailchimp.com/account/?ref=plums_nav
+https://www.mailchimp.com/announcementsbenmailchimps-evolution
+https://admin.mailchimp.com/reports/?ref=plums_nav
+https://www.mailchimp.com/marketing-glossary
+https://www.mailchimp.com/
+https://mailchimp.com/signup/

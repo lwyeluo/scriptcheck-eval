@@ -1,0 +1,10 @@
+http://games.bronav.com/playGames-for-GirlsCookie-Crush-2.html
+http://games.bronav.com/categoryJump-N-Run-Games
+http://adserver.adtech.de/adlink/3.0/4896/6654118/0/225/ADTECH;loc=300;grp=[group];kvrefd=www.bronav.com
+http://www.bronav.com/about#about
+http://games.bronav.com/
+http://adserver.adtech.de/adlink/3.0/4896/6654119/0/170/ADTECH;loc=300;grp=[group];kvrefd=www.bronav.com
+http://www.bronav.com/feedback
+http://www.bronav.com/
+http://www.bronav.com/about#privacypolicy
+http://www.bronav.com/about#agreement

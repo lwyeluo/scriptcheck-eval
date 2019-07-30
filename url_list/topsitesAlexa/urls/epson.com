@@ -1,0 +1,10 @@
+http://epson.com.mx/
+http://global.epson.com/innovation/
+http://www.epson.com.tw/
+http://www.epson.com.vn/
+http://epson.com.ve/
+https://www.epson.com/
+http://global.epson.com/privacy/global_termsofuse.htm
+http://global.epson.com/asia/index.html
+http://latin.epson.com/select/
+http://global.epson.com/SR/

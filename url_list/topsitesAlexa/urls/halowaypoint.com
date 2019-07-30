@@ -1,0 +1,10 @@
+https://www.halowaypoint.com/en-us/games/halo-spartan-assault/xbox-360/leaderboards/social?missionId=1001
+https://www.halowaypoint.com/ja-jp
+https://www.halowaypoint.com/en-usgameshalo-5-guardiansxbox-oneservice-recordsplayers
+https://www.halowaypoint.com/en-usnews?categoryName=esports
+https://halo4stats.halowaypoint.com/en-us/Halo4//home
+https://www.halowaypoint.com/
+https://www.halowaypoint.com/en-uscommunity
+https://www.halowaypoint.com/en-usshop
+https://www.halowaypoint.com/en-us/games/halo-spartan-strike
+https://www.halowaypoint.com/en-au

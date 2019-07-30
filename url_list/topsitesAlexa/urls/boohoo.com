@@ -1,0 +1,10 @@
+https://www.boohoo.com/
+https://www.boohoo.com/womens/shoes/new-in
+https://www.boohoo.com/womens/skirts
+https://www.boohoo.com/womensdressesyellow-dresses?prefn1=color&prefv1=Yellow
+https://www.boohoo.com/womens/looks/influencers/influencer-2
+https://www.boohoo.com/womens/dresses/blazer-dresses
+https://www.boohoo.com/womenstops?prefn1=size&prefv1=22
+https://www.boohoo.com/womens/tops/t-shirts-vests
+https://www.boohoo.com/menst-shirts-vests?prefn1=size&prefv1=XXXXL
+https://www.boohoo.com/page/refer-a-friend.html?home_8_position3_refer-a-friend

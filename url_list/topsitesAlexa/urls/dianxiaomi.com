@@ -1,0 +1,10 @@
+http://help.dianxiaomi.com/
+https://www.dianxiaomi.com/joinUs.htm
+https://www.dianxiaomi.com/uservipDetail.htm
+https://www.dianxiaomi.com/
+https://www.dianxiaomi.com/indexUrlCategorylink.htm
+https://www.dianxiaomi.com/index.htm
+https://www.dianxiaomi.com/link.htm
+https://www.dianxiaomi.com/user/forgetPwd.htm
+https://www.dianxiaomi.com/privacy.htm
+https://www.dianxiaomi.com/contact.htm

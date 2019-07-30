@@ -1,0 +1,10 @@
+https://www.brightspace.com/k-12
+https://www.brightspace.com/enterprisecustomers
+https://www.brightspace.com/resources#filter=.segment-higher-education
+https://www.brightspace.com/events
+https://community.brightspace.com
+https://try.brightspace.com/corp/
+https://www.brightspace.com/higher-education
+https://www.brightspace.com/resources
+https://www.brightspace.com/resourceswebinars#filter=.segment-higher-education
+https://www.brightspace.com/

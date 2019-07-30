@@ -1,0 +1,10 @@
+https://www.codashop.com/ae
+https://www.codashop.com/sg
+https://www.codashop.com/id
+https://www.codashop.com/mm
+https://www.codashop.com/ma
+https://www.codashop.com/
+https://www.codashop.com/jp
+https://www.codashop.com/kh
+https://www.codashop.com/kw
+https://www.codashop.com/br

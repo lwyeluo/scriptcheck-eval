@@ -1,0 +1,10 @@
+https://shazoo.ru/2019/07/20/82132/borderlands-game-of-the-year-enhanced-stala-vremenno-besplatnoj-v-steam#commentNumber:5
+https://shazoo.ru/tags/217/review
+https://shazoo.ru/2019/07/21/82173/sdcc-2019-pervyj-trejler-star-trek-picard#commentNumber:15
+https://shazoo.ru/2019/07/16/81983/novyj-trejler-borderlands-3-so-happy-together
+https://shazoo.ru/2019/07/20/82162/sdcc-2019-novye-podrobnosti-seriala-vedmak-ot-netflix
+https://shazoo.ru/2019/07/20/82157/sdcc-2019-tizer-nenazvannogo-filma-po-hodyachim-mertvecam
+https://shazoo.ru/2019/07/20/82140/sdcc-2019-pervyj-tizer-vedmaka-ot-netflix#commentNumber:183
+https://shazoo.ru/tags/136/gearbox-software
+https://shazoo.ru/tags/495/usa
+https://www.shazoo.ru/

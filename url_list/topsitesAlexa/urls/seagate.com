@@ -1,0 +1,10 @@
+https://www.seagate.com/sgenconsumerbackup
+https://www.seagate.com/sgen
+https://labs.seagate.com/
+https://www.seagate.com/sgenour-story
+https://www.seagate.com/sgeninternal-hard-drivescreative-professionals
+https://www.seagate.com/sgenenterprise-storageexos-drivesexos-x-drives
+https://www.seagate.com/sgensupportdownloads
+https://www.seagate.com/sgenpartners
+https://www.seagate.com/sgeninternal-hard-drivesssdfirecuda-ssd
+https://www.seagate.com/

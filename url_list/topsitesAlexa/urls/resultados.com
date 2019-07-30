@@ -1,0 +1,10 @@
+https://www.resultados.com/futebolfranca
+https://www.resultados.com/futeboleuamls
+https://www.resultados.com/futeboleslovaquia
+https://www.resultados.com/futebolturquia1-lig
+https://www.resultados.com/futebolindiaisl
+https://www.resultados.com/
+https://www.resultados.com/futebolindialiga-indiana
+https://www.resultados.com/futebolucrania
+https://www.resultados.com/futebolargelia1-divisao
+https://www.resultados.com/futebolcolombialiga-aguila

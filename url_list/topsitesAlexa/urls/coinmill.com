@@ -1,0 +1,10 @@
+https://www.coinmill.com/CLP_calculator.html
+https://www.coinmill.com/DZD_calculator.html
+https://www.coinmill.com/
+https://in.coinmill.com/
+https://www.coinmill.com/GIP_calculator.html
+https://www.coinmill.com/HTG_calculator.html
+https://www.coinmill.com/MAX_calculator.html
+https://www.coinmill.com/JOD_calculator.html
+https://www.coinmill.com/RON_calculator.html
+https://www.coinmill.com/CAD_calculator.html

@@ -1,0 +1,10 @@
+https://www.hm.com/setcountry?country=ae&lang=ar&name=United+Arab+Emirates&orguri=%2F
+https://www.hm.com/setcountry?country=co&lang=es&name=Colombia&orguri=%2F
+https://www.hm.com/setcountry?country=nz&lang=en&name=New+Zealand&orguri=%2F
+https://www.hm.com/setcountry?country=vn&lang=vi&name=Vietnam&orguri=%2F
+https://www.hm.com/
+https://www.hm.com/setcountry?country=se&lang=sv&name=Sweden&orguri=%2F
+https://www.hm.com/setcountry?country=no&lang=no&name=Norway&orguri=%2F
+https://www.hm.com/setcountry?country=my&lang=ms&name=Malaysia&orguri=%2F
+https://www.hm.com/setcountry?country=ca&lang=fr&name=Canada&orguri=%2F
+https://www.hm.com/setcountry?country=qa&lang=ar&name=Qatar&orguri=%2F

@@ -1,0 +1,10 @@
+https://www.librus.pl/szkolysystemye-sekretariatopis-systemu
+https://www.librus.pl/doradca-dyrektora/zadaj-pytanie/
+https://www.librus.pl/szkoly/szkolenia/szkolenia-i-konferencje-ckn/
+https://www.librus.pl/2019/02/20/librus-partnerem-innowacyjnego-systemu-zarzadzania-oswiata-w-radomiu/
+https://sekretariat.librus.pl/
+https://platforma.librus.pl/
+https://www.librus.pl/szkolyprogramygenerator-www
+https://www.librus.pl/szkolyprogramyplan-lekcjicharakterystyka-programu
+https://www.librus.pl/
+https://www.librus.pl/kontakt/formularz-kontaktowy/?ro=0&pr=26

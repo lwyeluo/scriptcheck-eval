@@ -1,0 +1,10 @@
+http://www.ireadweek.com/index.php?m=article&a=index&id=13379
+http://www.ireadweek.com/index.php?g=portal&m=index&a=index&p=2
+http://www.ireadweek.com/
+http://www.ireadweek.com/index.php?m=article&a=index&id=13374
+http://www.ireadweek.com/index.php?m=article&a=index&id=13372
+http://www.ireadweek.com/index.php?m=page&a=index&id=1
+http://www.ireadweek.com/index.php?g=portal&m=index&a=index&p=611
+http://www.ireadweek.com/index.php?m=article&a=index&id=13376
+http://www.ireadweek.com/index.php?m=article&a=index&id=13369
+http://www.ireadweek.com/index.php?m=article&a=index&id=13366

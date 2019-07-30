@@ -1,0 +1,10 @@
+https://www.amtrak.com/about-amtrak.html
+https://www.amtrak.com/site-search-results.html
+https://www.amtrak.com/guestrewards?intcmp=wsp_promo-card_link_agr-acquisiton_hpcard6
+https://www.amtrak.com/onboard.html
+https://www.amtrak.com/
+https://www.amtrak.com/terms-and-conditions.html
+https://www.amtrak.com/timetables.html
+https://www.amtrak.com/regions/west.html
+https://www.amtrak.com/sharefares?intcmp=wsp_hp-hero_link_share-fares_frame1
+https://www.amtrak.com/pets?intcmp=wsp_promo-card_link_pets_hpcard3

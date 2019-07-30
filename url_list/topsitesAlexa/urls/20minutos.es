@@ -1,0 +1,10 @@
+https://www.20minutos.es/gonzoo/noticia/perro-llora-muerte-amo-ataud-3709847/0/#social
+https://www.20minutos.es/horoscopo/solar/prediccion/sagitario/21/07/2019/
+https://www.20minutos.es/noticia/3709221/0/sanchez-hara-anuncios-programa-no-presencia-iglesias-gobierno/
+https://www.20minutos.es/deportes/minuteca/carreras-populares/
+https://blogs.20minutos.es/xx-siglos/2019/07/20/los-libros-de-historia-mas-vendidos-en-junio-de-2019/
+https://www.20minutos.es/minuteca/fernando-lopez-miras/
+https://www.20minutos.es/
+https://www.20minutos.es/especiales/
+https://www.20minutos.es/minuteca/psoe/
+https://www.20minutos.es/gente/

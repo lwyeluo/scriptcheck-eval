@@ -1,0 +1,10 @@
+https://tidal.com/browse/album/113132641
+https://www.tidal.com/download
+https://my.tidal.com/account
+https://career.tidal.com
+https://www.tidal.com/try-now
+https://tidal.com/browse/album/113190581
+https://tidal.com/browse/album/113148912
+https://www.tidal.com/
+https://www.tidal.com/contact
+https://listen.tidal.com/login

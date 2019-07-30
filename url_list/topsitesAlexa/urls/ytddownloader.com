@@ -1,0 +1,10 @@
+https://www.ytddownloader.com/premium.php?ft=0
+https://www.ytddownloader.com/ios
+https://www.ytddownloader.com/macosx
+http://www.ytddownloader.com/download.html
+https://www.ytddownloader.com/android
+https://www.ytddownloader.com/video_sites.html
+https://www.ytddownloader.com/
+https://www.ytddownloader.com/privacy.html#cookie
+https://www.ytddownloader.com/contact_us.html
+https://www.ytddownloader.com/privacy.html

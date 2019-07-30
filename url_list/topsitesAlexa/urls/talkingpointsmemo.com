@@ -1,0 +1,10 @@
+https://talkingpointsmemo.com//profile/johnjudis
+https://talkingpointsmemo.com/edblog/trump-is-no-george-wallace-hes-worse
+https://talkingpointsmemo.com/
+https://talkingpointsmemo.com/news/trump-go-back-2020-campaign
+https://talkingpointsmemo.com/news/ferguson-activist-representative-resigns
+https://talkingpointsmemo.com/muckraker/hope-hicks-cohen-documents-stormy-daniels-nadler
+https://talkingpointsmemo.com/profile/tpmjoe
+https://talkingpointsmemo.com/edblog/john-paul-stevens-death-deborah-pearlstein
+https://www.talkingpointsmemo.com/
+https://www.talkingpointsmemo.com/advertise

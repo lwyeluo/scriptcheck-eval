@@ -1,0 +1,10 @@
+https://vendorportal.woot.com
+https://www.woot.com/faq?ref=w_ft_wt_faq#ref=www.woot.com/footer/link@1.4
+https://www.woot.com/offersnexx-garage-smart-garage-door-controller-6?ref=w_cnt_gw_dly_img
+https://www.woot.com/?ref=w_ft_tn_w_1#ref=www.woot.com/footer/site@1.9-woot/logo
+https://www.woot.com/cart?ref=w_gh_mc_icon#ref=www.woot.com/header
+https://forums.woot.com/c/everything-but-woot
+https://www.woot.com/about?ref=w_gh_abt
+https://www.woot.com/category/home?ref=w_ft_tn_hm_2#ref=www.woot.com/footer/site@2.9-home/photo
+https://forums.woot.com/t/456464
+https://www.woot.com/

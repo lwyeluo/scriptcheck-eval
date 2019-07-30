@@ -1,0 +1,10 @@
+https://www.aemet.es/esidiSDS-WAS
+https://www.aemet.es/esconocermasaeronautica
+https://enc2019.aemet.es/
+https://www.aemet.es/esomm
+http://www.aemet.es/va/portada
+https://www.aemet.es/esconocenosnuestra_historia
+https://www.aemet.es/esempleo_y_becasbecas
+https://www.aemet.es/esconocermasrecursos_en_lineapublicaciones_y_estudiosestudiosdetallesolascalor
+https://www.aemet.es/esconocermasmeteoeducajuegos
+https://www.aemet.es/

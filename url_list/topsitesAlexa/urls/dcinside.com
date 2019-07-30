@@ -1,0 +1,10 @@
+https://www.dcinside.com/
+https://mall.dcinside.com/
+https://mall.dcinside.com/?from=A16
+https://gall.dcinside.com/m
+https://gall.dcinside.com
+https://event.dcinside.com/
+https://event.dcinside.com
+https://nstatic.dcinside.com/dc/w/policy/youth_policy.html
+https://gall.dcinside.com/board/lists/?id=hit
+https://www.dcinside.com/company

@@ -1,0 +1,10 @@
+https://www.shopperapproved.com/reviews/vividseats.com/
+https://www.vividseats.com/Search.action?regionId=0
+https://www.vividseats.com/
+https://www.vividseats.com/concertsceline-dion-tickets.html
+https://www.vividseats.com/nflnew-england-patriots-tickets.html
+https://www.vividseats.com/partners.html
+https://www.vividseats.com/concertsgrand-ole-opry-tickets.html
+https://www.vividseats.com/theatredave-chappelle-tickets.html
+https://www.vividseats.com/concertstwenty-one-pilots-tickets.html
+https://www.vividseats.com/blog

@@ -1,0 +1,10 @@
+https://www.opentable.com/s?covers=2&dateTime=2019-07-21%2019%3A00&latitude=1.29&longitude=103.86&cuisineids=c6c2a49e-0d43-4ea0-b4ff-40a612e5aabc
+https://www.opentable.com/www.opentable.comkentuckycities
+https://www.opentable.com/www.opentable.commontanacities
+https://www.opentable.com/indianapolis-restaurants
+https://www.opentable.com/rkeyaki-pan-pacific-singapore-marina-square?corrid=5b20b431-4419-4251-97d9-8103fdca8e3c
+https://www.opentable.com/milwaukee-restaurants
+https://www.opentable.com/
+https://www.opentable.com/ccancun-restaurants
+https://www.opentable.com/www.opentable.comgkansas-citymanhattan-restaurants
+https://www.opentable.com/www.opentable.comibaltimorebaltimore-restaurants

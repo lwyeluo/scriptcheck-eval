@@ -1,0 +1,10 @@
+https://www.cpuid.com/softwares/cpu-z-android.html
+https://www.cpuid.com/softwares/hwmonitor-pro.html
+https://www.cpuid.com/softwares/perfmonitor-2.html
+https://www.cpuid.com/goodies.html
+https://www.cpuid.com/
+https://www.cpuid.com/privacy-policy.html
+https://www.cpuid.com/news/62-cpu-z-1-85-amd-agesa-version.html
+https://www.cpuid.com/softwares/cpu-z.html
+https://www.cpuid.com/bug-report.html
+https://www.cpuid.com/softwares/hwmonitor-pro-android.html

@@ -1,0 +1,10 @@
+https://onlinemultfilmy.ru/anime/genre/etti/
+https://onlinemultfilmy.ru/anime/genre/mistika/
+https://onlinemultfilmy.ru/anime/genre/drama/
+https://onlinemultfilmy.ru/pervoklassnyj-advokat-2-sezon/
+https://www.onlinemultfilmy.ru/
+https://www.onlinemultfilmy.ru/smeshariki-multiki
+https://www.onlinemultfilmy.ru/dreamworks
+https://onlinemultfilmy.ru/collections/pro-zmej/
+https://onlinemultfilmy.ru/collections/pro-inoplanetyan/
+https://onlinemultfilmy.ru/collections/pro-pingvinov/

@@ -1,0 +1,10 @@
+https://www.bignox.com/
+https://www.bignox.com/blog/noxplayer-6-2-8-0-release-note/
+https://www.bignox.com/endownloadfullPackage
+https://en.bignox.com/pg/ragnarok
+https://www.bignox.com/blog/call-duty-mobile-play-pc-noxplayer/
+https://www.bignox.com/about
+https://kr.bignox.com
+https://en.bignox.com/download/fullPackage
+https://fr.bignox.com
+https://ph.bignox.com

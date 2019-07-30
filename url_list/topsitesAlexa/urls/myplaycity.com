@@ -1,0 +1,10 @@
+https://www.myplaycity.com/free-patience-games
+https://www.myplaycity.com/forge_of_empires
+https://www.myplaycity.com/
+https://www.myplaycity.com/hard_ride
+https://www.myplaycity.com/free-racing-games
+https://www.myplaycity.com/how_to_uninstall
+https://www.myplaycity.com/fishao
+https://www.myplaycity.com/free-hidden-object-games
+https://www.myplaycity.com/klondike
+https://www.myplaycity.com/free-simulation-games

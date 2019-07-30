@@ -1,0 +1,10 @@
+https://kamus.tokopedia.com/
+https://www.tokopedia.com/pulsa/
+https://www.tokopedia.com/p/makanan-minuman
+https://www.tokopedia.com/discovery/influencer-by-me
+https://tiket.tokopedia.com/kereta-api?ispulsa=1
+https://www.tokopedia.com/
+https://www.tokopedia.com/terms.pl
+https://www.tokopedia.com/emas/
+https://seller.tokopedia.com/edu/about-topads/
+https://www.tokopedia.com/flight

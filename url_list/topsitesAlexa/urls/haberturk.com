@@ -1,0 +1,10 @@
+https://www.haberturk.com/fenerbahce-bursaspor-maci-canli-izle-fenerbahce-bursaspor-maci-saat-kacta-hangi-kanalda-2506010-spor
+https://www.haberturk.com/youtube-premium-2019-youtube-premium-urununde-hangi-ozellikler-var-reklamsiz-olacak-2506168-teknoloji
+https://www.haberturk.com/boyle-giderse-antalya-da-16-milyon-turist-hedefi-gecilir-2506320-ekonomi
+https://www.haberturk.com/videohaberizle15-temmuzdan-yeni-goruntuler-meclis-kameralari-bombalama-anini-kaydetti649996
+https://www.haberturk.com/asiri-agirlik-sonrasi-bir-bir-dusmeye-basladilar-2505778
+https://www.haberturk.com/htgastroseyahat
+https://www.haberturk.com/siirt-haberleri
+https://hthayat.haberturk.com/guzellik/haber/1051824-dudaginizin-sekli-hakkinizda-ne-soyluyor?utm_source=haberturk_anasayfa&utm_medium=slidernews
+https://hthayat.haberturk.com/astroloji/index/koc
+https://www.haberturk.com/

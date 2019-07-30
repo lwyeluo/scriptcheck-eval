@@ -1,0 +1,10 @@
+https://www.litcharts.com/litsilas-marner
+https://www.litcharts.com/litthe-destructors
+https://www.litcharts.com/litthe-way-to-rainy-mountain
+https://www.litcharts.com/litmurder-on-the-orient-express
+https://www.litcharts.com/
+https://www.litcharts.com/lita-long-way-home-a-memoir
+https://www.litcharts.com/litthe-martian
+https://www.litcharts.com/litnotes-of-a-native-son
+https://www.litcharts.com/litoryx-and-crake
+https://www.litcharts.com/litamusing-ourselves-to-death

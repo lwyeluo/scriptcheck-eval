@@ -1,0 +1,10 @@
+https://www.shopbop.com/whats-newbrv=113198.htm
+https://www.shopbop.com/boutique-designer-clothingbrv=113773.htm
+https://www.shopbop.com/clarebrv=111988.htm
+https://www.shopbop.com/actionsdesignerindexviewAlphabeticalDesigners.action#headingH
+https://www.shopbop.com/actionsdesignerindexviewAlphabeticalDesigners.action
+https://www.shopbop.com/shoes-trend-gladiators-strappy-sandalsbrv=113488.htm
+https://www.shopbop.com/ciaboutShopBopcareers.html#cs=ov=107241201960,os=1,link=footerInformationCareers
+https://www.shopbop.com/
+https://www.shopbop.com/specsbrv=137342.htm
+https://www.shopbop.com/our-must-haves-carolines-heartsbrv=157188.htm

@@ -1,0 +1,10 @@
+https://sp.babyblog.ru/
+https://www.babyblog.ru/cb3-nedelya
+https://www.babyblog.ru/crcr20
+https://www.babyblog.ru/photoconcurs
+https://www.babyblog.ru/userlentaNadushenka
+https://www.babyblog.ru/bioderma2019?utm_source=brand_bb&utm_medium=cpc&utm_term=article&utm_campaign=bioderma2019
+https://www.babyblog.ru/cb9-mesyac-beremennosti
+https://www.babyblog.ru/cb2-nedelya
+https://www.babyblog.ru/
+https://www.babyblog.ru/crcr51

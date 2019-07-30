@@ -1,0 +1,10 @@
+https://www.pcmag.com/
+https://www.pcmag.com/reviewsnas
+https://www.pcmag.com/newsletter_manage
+https://www.pcmag.com/deals
+https://www.pcmag.com/roundup/254982/the-best-security-suites
+https://www.pcmag.com/article2/0,2817,1329778,00.asp
+https://www.pcmag.com/article331910how-to-delete-your-facebook-account
+https://www.pcmag.com/review/369482/rainmachine-pro-8
+https://www.pcmag.com/encyclopedia/
+https://www.pcmag.com/roundup336650the-best-video-streaming-services

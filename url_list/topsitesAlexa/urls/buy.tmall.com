@@ -1,0 +1,10 @@
+https://buy.tmall.com/www.taobao.comsitemap.php
+https://buy.tmall.com/
+https://buy.tmall.com/www.yunos.com
+https://buy.tmall.com/www.alibaba.com
+https://buy.tmall.com/www.taobao.comaboutjoin.php
+https://buy.tmall.com/www.alipay.com
+https://buy.tmall.com/www.taobao.com
+https://buy.tmall.com/www.taobao.comaboutpartners.php
+https://buy.tmall.com/www.taobao.comindex_global.php
+https://buy.tmall.com/news.alibaba.comspecialsaboutalibabaaligroupindex.html

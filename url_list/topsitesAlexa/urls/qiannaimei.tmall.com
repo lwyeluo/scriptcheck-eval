@@ -1,0 +1,10 @@
+https://qiannaimei.tmall.com/detail.tmall.comitem.htm?spm=a212k0.12153887.0.0.6df3687dVzy8yK&id=523250297969&scene=taobao_shop
+https://qiannaimei.tmall.com/qiannaimei.tmall.comsearch.htm?search=y&orderType=hotsell_desc
+https://qiannaimei.tmall.com/detail.tmall.comitem.htm?spm=a1z10.3-b-s.w4011-14463339176.253.4c2d34caBrCeSP&id=551307205512&rn=c1c862435a38278b3b7b2693885e2361&abbucket=17&scene=taobao_shop
+https://qiannaimei.tmall.com/world.taobao.com
+https://qiannaimei.tmall.com/world.taobao.comhelperknowledge.htm?spm=0.0.0.0.xubXvQ&kid=6541303
+https://qiannaimei.tmall.com/detail.tmall.comitem.htm?spm=a1z10.3-b-s.w4011-14463339176.253.4c2d34caBrCeSP&id=558412381729&rn=c1c862435a38278b3b7b2693885e2361&abbucket=17&scene=taobao_shop
+https://qiannaimei.tmall.com/qiannaimei.tmall.comprd085228.htm?spm=a1z10.1-b-s.w5003-20217105722.1.22355d4dPJHa0M&scene=taobao_shop
+https://qiannaimei.tmall.com/detail.tmall.comitem.htm?spm=a212k0.12153887.0.0.3099687dJ5KlO7&id=575352742619&scene=taobao_shop
+https://qiannaimei.tmall.com/detail.tmall.comitem.htm?spm=a212k0.12153887.0.0.3099687dJ5KlO7&id=550397114742&scene=taobao_shop
+https://qiannaimei.tmall.com/

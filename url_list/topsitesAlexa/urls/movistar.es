@@ -1,0 +1,10 @@
+http://trustivity.es/movistar.es-opiniones
+https://atencionalcliente.movistar.es/preguntas-frecuentes/?pid=PA-home-ql7e
+https://www.movistar.es/particularesmoviltarifas-movilestarifas-contrato-tarjeta?filter=fusion&pid=PA-home-ql2c
+https://web.movistar.es/particulares/promociones/fusion-seleccion?pid=origen-seo&PA-home-ql7d&_ga=2.104270464.1840491555.1544425939-1395331843.1543396537/?pid=origen-seo&PA-home-ql7d
+https://www.movistar.es/particularestelevisionotros-canales-tv
+https://www.movistar.es/particularesmovilmoviles?prefilter99=smartphones&pid=tealium_clic_PA-control-ofertas-moviles
+https://www.movistar.es/
+https://www.movistar.es/particularestelevisionseleccion-deportes
+https://www.movistar.es/particularesmoviltarifas-moviles
+https://www.movistar.es/mimovistar-cliente/publico/acceso/privado/datosPersonales

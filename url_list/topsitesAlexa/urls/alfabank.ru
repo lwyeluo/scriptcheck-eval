@@ -1,0 +1,10 @@
+https://alfabank.ru/
+https://www.alfabank.ru/get-money
+https://www.alfabank.ru/everydaydebit-cards
+https://alfabank.ru/sme/rko/onepercent/?code=onepersent2&platformId=alfasite
+https://www.alfabank.ru/make-moneyservice-for-savingmoneybox-zp
+https://www.alfabank.ru/make-moneystrahovanie_vkladov
+https://www.alfabank.ru/get-moneycredit-cards100-days
+https://www.alfabank.ru/make-moneysavings-accountalfa
+https://www.alfabank.ru/
+https://www.alfabank.ru/get-moneymortgageprogramsdigital

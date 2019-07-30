@@ -1,0 +1,10 @@
+https://www.purepeople.com/articlenagui-a-ete-figurant-dans-un-clip-culte-des-annees-80_a3441381
+https://www.purepeople.com/www.purepeople.compeoplealbert-de-monaco_p64
+https://www.purepeople.com/articleaure-atika-poignante-ceremonie-d-hommage-a-zdar-avec-leur-fille-angelica_a3443211
+https://www.purepeople.com/articlepaul-12-coups-de-midi-a-boude-ses-parents-six-mois-une-anecdote-genante_a3443691
+https://www.purepeople.com/articleeva-longoria-folle-de-son-mari-jose-antonio-baston-l-amour-passion-a-capri_a3443901
+https://www.purepeople.com/www.purepeople.compeoplerobin-williams_p979
+https://www.purepeople.com/www.purepeople.compeopleleonardo-dicaprio_p147
+https://www.purepeople.com/articlefort-boyard-qui-se-cache-derriere-le-personnage-de-lady-boo_a3444051
+https://www.purepeople.com/tagdivorce_t1291
+https://www.purepeople.com/

@@ -1,0 +1,10 @@
+https://www.foxitsoftware.com/infographics/
+https://www.foxitsoftware.com/company/privacy-policy.php
+http://languages.foxitsoftware.com/
+https://www.foxitsoftware.com/support/tutorial/
+https://www.foxitsoftware.com/pdf-reader/view-print-pdf/
+https://www.foxitsoftware.com/pdf-editor/merge-split-pdf/
+https://www.foxitsoftware.com/products/ultraforms-2d-barcode-generator/
+https://www.foxitsoftware.com/pdf-editor/annotate-pdf/
+https://www.foxitsoftware.com/products/pdf-toolkit
+https://www.foxitsoftware.com/

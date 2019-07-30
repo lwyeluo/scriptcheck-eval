@@ -1,0 +1,10 @@
+https://www.cebupacificair.com/en-bn
+https://www.cebupacificair.com/en-sgpagesfeatured-destinationscheap-flights-to-australia
+https://www.cebupacificair.com/en-sg/pages/plan-trip/baggage-info
+https://www.cebupacificair.com/en-th
+https://www.cebupacificair.com/en-sg/Pages/plan-trip/travel-reminders/
+https://www.cebupacificair.com/en-sg/pages/plan-trip/campaigns
+https://www.cebupacificair.com/en-sg/pages/wwf-bright-skies
+https://www.cebupacificair.com/en-sgpagesfeatured-destinationscheap-flights-to-cebu
+https://www.cebupacificair.com/
+https://www.cebupacificair.com/en-sgpagesfeatured-destinationscheap-flights-to-japan

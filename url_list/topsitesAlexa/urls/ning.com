@@ -1,0 +1,10 @@
+https://www.ning.com/oauth?provider=facebook
+https://developer.ning.com/
+https://creators.ning.com/
+https://www.ning.com/contact-us/
+https://www.ning.com/about-us/
+https://www.ning.com/features/
+https://www.ning.com/create-business-website
+https://www.ning.com/termsofservice
+https://www.ning.com/
+https://www.ning.com/what-is-ning/

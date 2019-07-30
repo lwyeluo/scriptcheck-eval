@@ -1,0 +1,10 @@
+https://www.blastingnews.com/editorial/verification-fact-checking-standards/
+https://www.blastingnews.com/about-us/
+https://www.blastingnews.com/editorial/unnamed-sources-policy/
+https://www.blastingnews.com/privacy/
+https://www.blastingnews.com/it.blastingnews.com
+https://www.blastingnews.com/fr.blastingnews.com
+https://www.blastingnews.com/uk.blastingnews.com
+https://www.blastingnews.com/staff/contributors/
+https://www.blastingnews.com/
+https://www.blastingnews.com/us.blastingnews.com

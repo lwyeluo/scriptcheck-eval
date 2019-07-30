@@ -1,0 +1,10 @@
+http://client.updatestar.com/en/updatestar/awardsreviews/
+https://store.updatestar.com/282/?scope=checkout&cart=s5491&coupon=3BU-MH5-3K3&x-src=web
+http://client.updatestar.com/en/repair/use-cases/
+https://client.updatestar.com/en/localbackup/overview/
+https://www.updatestar.com/
+http://client.updatestar.com/en/poll
+https://client.updatestar.com/en/privacy
+http://client.updatestar.com/en/appcleaner/download/
+https://www.updatestar.com/enbackupbundle
+https://www.updatestar.com/enappcleaneroverview

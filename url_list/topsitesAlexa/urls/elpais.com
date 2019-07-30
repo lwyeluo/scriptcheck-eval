@@ -1,0 +1,10 @@
+https://elpais.com/cultura/2019/07/19/actualidad/1563535332_604941.html#comentarios
+https://www.elpais.com/
+https://elpais.com/elpais/2019/04/10/escaparate/1554897644_673568.html
+https://descuentos.elpais.com/codigo-de-descuento-barcelo-hoteles?i=Widget-EP
+https://descuentos.elpais.com/el-corte-ingles-rebajas?&utm_source=ElPaisWidget_elcorteingles&utm_medium=referral&utm_content=BannerHP&utm_campaign=ES_bannerhome_Special
+https://www.elpais.com/cat.elpais.comcat20190719opinion1563540390_297196.html
+https://www.elpais.com/elpais.comtaggame_of_thronesa
+https://elpais.com/elpais/2019/07/15/videos/1563183079_426262.html?autoplay=1
+https://elpais.com/elpais/2019/07/15/mamas_papas/1563181192_742425.html
+https://www.elpais.com/elpais.comelpaisestilo.html

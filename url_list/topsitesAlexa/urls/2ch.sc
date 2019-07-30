@@ -1,0 +1,10 @@
+https://www.2ch.sc/2ch.scchisaiwww2chsc0622.html
+https://www.2ch.sc/www2chsc1108.html
+http://find.2ch.sc/moritapo/notlogin.php
+http://c.2ch.sc/
+https://www.2ch.sc/
+http://epg.2ch.sc/
+http://p2.2ch.sc/
+http://info.2ch.sc/guide/adv.html#saku_guide
+http://info.2ch.sc/blog.html
+https://www.2ch.sc/www2chscindex.html

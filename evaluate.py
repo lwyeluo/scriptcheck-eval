@@ -11,6 +11,7 @@ if __name__ == '__main__':
 	parser.add_argument('--domain', '-d', type=str, metavar="DOMAIN", help="The domain.")
 	parser.add_argument('--all', action='store_true', help="All possible targets.")
 	parser.add_argument('--Alexa', action='store_true', help="For Alexa top sites.")
+	parser.add_argument('--Alexa-subdomains', action='store_true', help="For subdomains of Alexa top sites.")
 
 	'''
 		Handle URL List
@@ -28,14 +29,15 @@ if __name__ == '__main__':
 	# --crawl-url -d DOMAIN | --crawl-url --Alexa
 	parser.add_argument('--crawl-url', action='store_true',
 						help='For subdomains, crawl urls for a DOMAIN (with -d).'
-							 'For top sites, use with --Alexa')
+							 'For top sites, use with --Alexa.'
+							 'For document.domain of top sites. use with --Alexa-subdomains')
 
 	'''
 		Parse Log
 	'''
-	# -p China|Alexa
-	parser.add_argument('--parse-log', '-p', type=str, choices=['Alexa', 'China'],
-						help="Parse the Chrome's logs")
+	# --parse-log China|Alexa
+	parser.add_argument('--parse-log', type=str, choices=['Alexa', 'China'],
+						help="Parse the Chrome's logs for Alexa|China top sites")
 	# -f LOG_FILE -d DOMAIN
 	parser.add_argument('--parse-log-with-filename', '-f', type=str, metavar="LOG_FILENAME",
 						help="Parse the result for a give log. Use it with -d.")
@@ -93,6 +95,10 @@ if __name__ == '__main__':
 			from url_crawler.crawler import run
 
 			run(None, type='Alexa')
+		elif args.Alexa_subdomains:
+			from document_domain.crawlSubDomainURL import run
+
+			run()
 		else:
 			raise Exception("Please use '--parse-url -d DOMAIN' or '--parse-url -f LIST_FILE' ")
 
@@ -116,16 +122,14 @@ if __name__ == '__main__':
 	####################################################
 
 	elif args.parse_log:
-		# -p China|Alexa
+		# --parse-log  China|Alexa
 
-		if args.parse_log == 'Alexa':
-			from result_handler import parseAlexaResult
+		if args.parse_log in ['Alexa', 'China']:
+			from result_handler import parseResult
 
-			parseAlexaResult.run()
-		elif args.parse_log == 'China':
-			from result_handler import parseChinaResult
-
-			parseChinaResult.run()
+			parseResult.run(args.parse_log)
+		else:
+			raise Exception("Use --parse-log China|Alexa")
 
 	elif args.parse_log_with_filename and args.domain:
 		# -f LOG_FILE -d DOMAIN

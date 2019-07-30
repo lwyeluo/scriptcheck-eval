@@ -1,0 +1,10 @@
+https://www.flipkart.com/qcricket-world-cup-t-shirt?otracker=undefined_footer_footer
+https://www.flipkart.com/grocery-supermart-store?marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/pagespaymentsecurity?otracker=undefined_footer_navlinks
+https://www.flipkart.com/kids-accessoriesschool-suppliesschool-bagspr?sid=d69,thr,wsp&otracker=undefined_footer_footer
+https://www.flipkart.com/qsony-cameras?otracker=undefined_footer_footer
+https://www.flipkart.com/
+https://www.flipkart.com/grocerystaplessugar-jaggery-saltpr?sid=73z,bpe,fdl&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/wearable-smart-devicessmart-watchesfossil~brandpr?sid=ajy,buh&fm=neo%2Fmerchandising&iid=M_d36929f8-5e5e-4c24-8131-d042d7dd2f7c_20.WSAVY4XBOV2A&otracker=hp_omu_Smart%2BWearables%2B%2526%2BHome%2BDevices_2_7.dealCard.OMU_WSAVY4XBOV2A_5&otracker1=hp_omu_WHITELISTED_neo%2Fmerchandising_Smart%2BWearables%2B%2526%2BHome%2BDevices_NA_dealCard_cc_2_NA_view-all_5&cid=WSAVY4XBOV2A
+https://www.flipkart.com/apple-iphone-x-space-gray-64-gbpitmexrgv6hctyrav?otracker=undefined_footer_footer
+https://www.flipkart.com/washing-machinesbosch~brandpr?sid=j9e,abm,8qx&otracker=undefined_footer_footer

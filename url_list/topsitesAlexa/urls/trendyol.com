@@ -1,0 +1,10 @@
+https://www.trendyol.com/kucuk-ev-aletleri?qs=navigation
+https://www.trendyol.com/inci?qs=footer
+https://www.trendyol.com/kadin+gunluk-ayakkabi?qs=navigation
+https://www.trendyol.com/kozmetiksiveno+rosece+ecos3+ecowell+logona+sonett+the-lifeco+sante+aksu-vital+desert-essence+kiss-my-face+shiffa-home+softem+cotoneve+natracare+seventh-generation?qs=navigation
+https://www.trendyol.com/erkek+gomlek?qs=navigation
+https://www.trendyol.com/oje?qs=navigation
+https://www.trendyol.com/erkek+saat?qs=navigation
+https://www.trendyol.com/avon?qs=footer
+https://www.trendyol.com/bebek-giyim?qs=navigation
+https://www.trendyol.com/

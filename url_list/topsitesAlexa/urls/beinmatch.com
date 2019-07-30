@@ -1,0 +1,10 @@
+http://www.beinmatch.com/home/videos
+http://www.beinmatch.com/home/videos/10
+http://www.beinmatch.com/home/videos/15
+http://www.beinmatch.com/home/videos/5450
+http://www.beinmatch.com/home/videos/5
+http://www.beinmatch.com/
+http://www.beinmatch.com/home/videos/5445
+http://www.beinmatch.com/home/videos/20
+http://www.beinmatch.com/home/videos/25
+http://www.beinmatch.com/home/videos/5455

@@ -1,0 +1,10 @@
+https://www.nastygal.com/gb/womens/shoes/sandals
+https://www.nastygal.com/gb/whats-new?home_splash_1.1_whats-new
+https://www.nastygal.com/gb/customer-service#folder-cs-folder-legal
+https://www.nastygal.com/gb/page/about-us.html
+https://www.nastygal.com/
+https://www.nastygal.com/gb/womens/accessories/bags
+https://www.nastygal.com/gbwomensaccessories
+https://www.nastygal.com/gb/myaccount
+https://www.nastygal.com/gb/womens/shorts
+https://www.nastygal.com/gb/whats-new?mmcta_5_promo_whats-new

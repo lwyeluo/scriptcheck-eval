@@ -1,0 +1,10 @@
+https://www.rg.ru/20190718iadernyj-burevestnik-novaia-krylataia-raketa-stanet-oruzhiem-vozmezdiia.html?_openstat=cmcucnU7QWNjZW50czvQn9GA0L7QtdC60YLRizsy
+https://www.rg.ru/zvezdy_pobedyindex.html
+https://www.rg.ru/20190718rekonstrukciia-pozhara.html
+https://www.rg.ru/20190716reg-dfochetvero-muzhchin-utonuli-v-iakutii-spasaia-troih-detej.html
+https://www.rg.ru/20190718kak-predlozhennoe-amerikanskim-vrachom-lechenie-raka-pomoglo-devochke-iz-rossii.html?_openstat=cmcucnU7QWNjZW50czvQkNC60YbQtdC90YLRiyDQsiDRiNCw0LQutC1OzE=
+https://www.rg.ru/gazetasubbotasvezh.html
+https://www.rg.ru/fascicles
+https://www.rg.ru/20190721zelenskij-prodemonstriroval-plachevnoe-sostoianie-krejsera-ukraina.html
+https://www.rg.ru/20190719reg-sibfoputin-nazval-nerazberihoj-situaciiu-s-vyplatami-postradavshim-ot-pavodka.html
+https://www.rg.ru/

@@ -1,0 +1,10 @@
+https://www.au.com/
+https://www.au.com/internetapplication?aa_bid=we-we-gn-3112
+https://www.au.com/entertainment?bid=we-com-autoplu-0008
+https://www.au.com/support?bid=we-com-autoplu-0005
+https://www.au.com/5g?aa_bid=we-5g-003
+https://www.au.com/twitter.comau_official
+https://www.au.com/mobileservice?bid=we-we-gn-3004
+https://www.au.com/mobilecampaign?bid=we-we-gn-3006
+https://www.au.com/googlehome?bid=we-com-autopld-0004
+https://www.au.com/paymentpoint?bid=we-com-autoppb-0059

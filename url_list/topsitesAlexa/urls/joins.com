@@ -1,0 +1,10 @@
+https://www.joins.com/MediaList.aspx?mseq=18
+https://www.joins.com/MediaList.aspx?mseq=35
+https://www.joins.com/MediaList.aspx?mseq=106
+https://www.joins.com/MediaList.aspx?mseq=40
+https://www.joins.com/
+https://www.joins.com/MediaList.aspx?mseq=33
+https://www.joins.com/MediaList.aspx?mseq=44
+https://www.joins.com/MediaList.aspx?mseq=181
+http://help.joins.com
+https://www.joins.com/MediaList.aspx?mseq=165

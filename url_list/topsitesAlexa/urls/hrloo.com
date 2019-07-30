@@ -1,0 +1,10 @@
+https://passport.hrloo.com/account/register
+https://www.hrloo.com/rz/14311146.html
+https://www.hrloo.com/vclass/
+http://www.hrloo.com/rz/14536162.html
+http://www.hrloo.com/jl#jl3p
+http://zhaopin.hrloo.com/
+https://zhaopin.hrloo.com/hr/data
+http://www.hrloo.com/rz/14537418.html
+https://www.hrloo.com/
+http://www.hrloo.com/qa/t/4992326

@@ -1,13 +1,13 @@
 # coding=utf-8
 
-import logging
 from result_handler.vulnWebPage import VulnWebPage
+from result_handler import _logger
 
 
 class FinalResultList(object):
 	def __init__(self, results):
 		self._results = results
-		self._log = logging
+		self._log = _logger
 		# the distribution of frame chains
 		self._dist_frame_chain = {}  # {sizeOfFrameChain: Webpages}
 		self._dist_frame_chain_with_stack = {}  # {sizeOfFrameChain: Webpages}
@@ -87,7 +87,7 @@ class FinalResultList(object):
 		for k in keys:
 			v = self._dist_frame_chain[k]
 			d = str(k) + '\t' + str(len(v))  # length\t#webpages
-			d += '\t' + ','.join(v)  # \twebpages
+			#d += '\t' + ','.join(v)  # \twebpages
 			self._log.info(d)
 
 	def printDistributionTableWithJSStack(self):
@@ -101,7 +101,7 @@ class FinalResultList(object):
 		for k in keys:
 			v = self._dist_frame_chain_with_stack[k]
 			d = str(k) + '\t' + str(len(v))  # length\t#webpages
-			d += '\t' + ','.join(v)  # \twebpages
+			#d += '\t' + ','.join(v)  # \twebpages
 			self._log.info(d)
 
 	def printDistributionTableWithDiffFeatures(self):
@@ -115,7 +115,7 @@ class FinalResultList(object):
 		for k in keys:
 			v = self._dist_frame_chain_with_diff_feature[k]
 			d = str(k) + '\t' + str(len(v))  # length\t#webpages
-			d += '\t' + ','.join(v)  # \twebpages
+			#d += '\t' + ','.join(v)  # \twebpages
 			self._log.info(d)
 
 	def printInfoOfVulnWebpages(self):

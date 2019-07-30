@@ -1,0 +1,10 @@
+https://dnevnik.ru/features
+https://help.dnevnik.ru/home
+https://help.dnevnik.ru
+https://dnevnik.ru/features#/students
+https://dnevnik.ru/directorship
+https://dnevnik.ru/agreements/terms
+https://dnevnik.ru/features#/governments
+https://dnevnik.ru/contacts
+https://login.dnevnik.ru/join/role
+https://www.dnevnik.ru/

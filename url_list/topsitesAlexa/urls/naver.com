@@ -1,0 +1,10 @@
+https://help.naver.com/support/contents/contents.nhn?serviceNo=605&categoryNo=18215
+http://newsstand.naver.com/?list=ct1&pcode=047
+http://newsstand.naver.com/?list=ct1&pcode=327
+https://www.naver.com/policyservice.html
+https://www.naver.com/
+http://search.naver.com/search.naver?where=nexearch&query=%EA%B7%9C%ED%98%84&sm=top_lve&ie=utf8
+https://www.naver.com/policyprivacy.html
+https://section.cafe.naver.com/
+http://news.naver.com/main/list.nhn?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y&aid=0010970432
+https://nid.naver.com/nidregister.form?url=https%3A%2F%2Fwww.naver.com

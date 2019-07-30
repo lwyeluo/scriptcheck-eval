@@ -1,0 +1,10 @@
+https://eu.louisvuitton.com/eng-e1/homepage
+https://www.louisvuitton.com/
+https://tw.louisvuitton.com/zht-tw/homepage
+https://fr.louisvuitton.com/fra-fr/homepage
+https://en.louisvuitton.com/eng-nl/homepage?dispatchCountry=SE
+https://ru.louisvuitton.com/rus-ru/homepage
+https://hk.louisvuitton.com/eng-hk/homepage
+https://en.louisvuitton.com/eng-nl/homepage?dispatchCountry=MC
+https://es.louisvuitton.com/esp-es/homepage
+https://au.louisvuitton.com/eng-au/homepage

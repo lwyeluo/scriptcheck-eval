@@ -1,0 +1,10 @@
+https://www.coinmarketcap.com/currencieswaves
+https://www.coinmarketcap.com/currenciesgolem-network-tokenshistorical-data
+https://www.coinmarketcap.com/currenciesnano
+https://www.coinmarketcap.com/currencieszilliqa#markets
+https://www.coinmarketcap.com/currenciesholo#charts
+https://www.coinmarketcap.com/currenciesren#charts
+https://www.coinmarketcap.com/currenciestron
+https://www.coinmarketcap.com/currenciesstatushistorical-data
+https://www.coinmarketcap.com/currencieschainlink#markets
+https://www.coinmarketcap.com/

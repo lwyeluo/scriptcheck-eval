@@ -1,0 +1,10 @@
+https://www.winxdvd.com/
+https://www.winxdvd.com/resourcemp4.htm
+https://www.winxdvd.com/resourcebest-free-dvd-decrypter-software-review.htm
+https://www.winxdvd.com/backup-dvdhow-to-backup-dvd-collection.htm
+https://www.winxdvd.com/downloadwinx-hd-video-converter-for-mac.dmg
+https://www.winxdvd.com/hd-video-converter-for-mac
+https://www.winxdvd.com/specialofferindex.htm?home
+https://www.winxdvd.com/company
+https://www.winxdvd.com/dvd-ripper-for-mac
+https://www.winxdvd.com/resourcefree-dvd-ripper-software-for-copy-protected-dvds.htm

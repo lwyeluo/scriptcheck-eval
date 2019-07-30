@@ -1,0 +1,10 @@
+https://www.si.com/
+https://www.si.com/nba20190720james-harden-chris-paul-all-good-rockets-thunder-trade
+https://www.si.com/photos
+https://www.si.com/nfl20190719chicago-bears-2019-preview-matt-nagy-khalil-mack-mitchell-trubisky
+https://www.si.com/soccerwomens-world-cup
+https://www.si.com/mlb20190721yankees-trade-deadline-questions
+https://www.si.com/wnbastandings
+https://www.si.com/mlb20190718jake-arrieta-phillies-aching-to-turn-around-season
+https://www.si.com/college-footballpolls
+https://www.si.com/tech-media

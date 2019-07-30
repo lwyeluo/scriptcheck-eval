@@ -1,0 +1,10 @@
+https://discoveryexpedition.tmall.com/detail.tmall.comitem.htm?id=590029788560
+https://discoveryexpedition.tmall.com/detail.tmall.comitem.htm?id=593940728131
+https://discoveryexpedition.tmall.com/discoveryexpedition.tmall.comcategory-1313324961.htm?search=y&parentCatId=805494025&parentCatName=%D0%AC%C6%B7&catName=%C2%C3%D0%D0%D0%AC
+https://discoveryexpedition.tmall.com/rate.taobao.comuser-rate-UvFxbMC8GMCNSvNTT.htm
+https://discoveryexpedition.tmall.com/detail.tmall.comitem.htm?spm=a212k0.12153887.0.0.41e0687df4QkF7&id=592023982988&scene=taobao_shop
+https://discoveryexpedition.tmall.com/discoveryexpedition.tmall.comsearch.htm
+https://discoveryexpedition.tmall.com/detail.tmall.comitem.htm?id=588766097427
+https://discoveryexpedition.tmall.com/discoveryexpedition.tmall.comcategory-792368417.htm?search=y&parentCatId=772462813&parentCatName=%CF%C2%D7%B0&catName=%B9%A4%D7%B0%D0%DD%CF%D0%BF%E3
+https://discoveryexpedition.tmall.com/
+https://discoveryexpedition.tmall.com/detail.tmall.comitem.htm?id=586472279314

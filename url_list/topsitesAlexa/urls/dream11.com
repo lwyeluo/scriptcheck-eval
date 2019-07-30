@@ -1,0 +1,10 @@
+https://www.dream11.com/games/cricket/indian-premier-league
+https://www.dream11.com/hockeycreate-team{{tour.id}}{{id}}?returnUrl=hockeyleagues{{tour.slug}}{{tour.id}}{{id}}
+https://www.dream11.com/leagues?utm_source=landingFooter
+https://www.dream11.com
+https://www.dream11.com/games/cricket-matches/kings-xi-punjab-vs-rajasthan-royals
+https://www.dream11.com/cricketcreate-team{{tour.id}}{{id}}?returnUrl=cricketleagues{{tour.slug}}{{tour.id}}{{id}}
+https://www.dream11.com/games/football/indian-super-league
+https://www.dream11.com/nbacreate-team{{tour.id}}{{id}}?returnUrl=nbaleagues{{tour.slug}}{{tour.id}}{{id}}
+https://www.dream11.com/login?ru=%2Fleagues
+https://www.dream11.com/

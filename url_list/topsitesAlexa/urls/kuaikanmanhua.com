@@ -1,0 +1,10 @@
+https://www.kuaikanmanhua.com/
+https://www.kuaikanmanhua.com/websdownload
+https://www.kuaikanmanhua.com/webtopic2213
+https://www.kuaikanmanhua.com/proveanimationlist
+https://www.kuaikanmanhua.com/webssendletter
+https://www.kuaikanmanhua.com/webtopic2319
+https://www.kuaikanmanhua.com/webshelp
+https://www.kuaikanmanhua.com/webtopic700
+https://www.kuaikanmanhua.com/webtopic4384
+https://www.kuaikanmanhua.com/webtopic1871

@@ -1,0 +1,10 @@
+https://www.jntufastupdates.com/jntua-b-pharmacy-2-1-3-1-4-1-academic-calendar-2019-20/
+https://www.jntufastupdates.com/category/cet-exams/eamcet-exam/
+https://www.jntufastupdates.com/
+https://www.jntufastupdates.com/jntua-b-pharmacy-2-1-3-1-4-1-time-tables-2019/
+https://www.jntufastupdates.com/tspsc-one-time-registration/
+https://www.jntufastupdates.com/au-degree-2nd-4th-6th-sem-results-2019/
+https://www.jntufastupdates.com/jntuk-4-2-revaluation-results-2019/
+https://www.jntufastupdates.com/ca-cpt-results-june-2019/
+https://www.jntufastupdates.com/category/karnataka/
+https://www.jntufastupdates.com/category/kerala/

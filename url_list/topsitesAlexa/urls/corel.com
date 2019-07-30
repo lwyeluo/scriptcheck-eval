@@ -1,0 +1,10 @@
+https://www.corel.com/enlegal-information?hptrack=mmftr
+https://www.corel.com/envolume-licensingeducation?hptrack=mmftr
+https://www.corel.com/
+http://shop.learn.corel.com/products/rules-and-elements-of-composition?hptrack=mmothr
+https://www.corel.com/enpartner-program?hptrack=mmftr
+https://www.corel.com/enemployment-opportunities?hptrack=mmftr
+http://learn.corel.com/painting-home/?hptrack=mmlrn
+http://learn.corel.com/video-home/?hptrack=mmlrn
+https://www.corel.com/ennewsroom?hptrack=mmftr
+https://www.corel.com/enour-storyour-executive-team?hptrack=mmftr

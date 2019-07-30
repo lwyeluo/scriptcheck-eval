@@ -1,0 +1,10 @@
+https://www.obozrevatel.com/health/sexualhealth/tabletki-dlya-muzhskoj-silyi-ekspertyi-predupredili-ob-opasnosti-lekarstv-iz-interneta.htm
+https://www.obozrevatel.com/currency
+https://www.obozrevatel.com/lady/rest/
+https://www.obozrevatel.com/sport/football/
+https://www.obozrevatel.com/sport/sport/ukrainka-harlan-vyiigrala-chempionat-mira-zakolov-rossiyanku.htm
+https://www.obozrevatel.com/economics/economy/
+https://www.obozrevatel.com/economics/
+https://www.obozrevatel.com/crime/hotyat-vzyat-kiev-vojska-rossii-zametili-v-chernobyilskoj-zone.htm
+https://www.obozrevatel.com/kiyany/life/
+https://www.obozrevatel.com/

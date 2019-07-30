@@ -1,0 +1,10 @@
+https://www.mos.ru/services/catalog/cat/29532/popular/
+https://www.mos.ru/afisha
+https://www.mos.ru/newsitem58823073
+https://www.mos.ru/pgu/ru/services/link/48
+https://www.mos.ru/newsitem58912073
+https://www.mos.ru/newsitem58836073
+https://www.mos.ru/city/projects/renovation/
+https://www.mos.ru/
+https://www.mos.ru/services/catalog/cat/146532/popular/
+https://ag.mos.ru

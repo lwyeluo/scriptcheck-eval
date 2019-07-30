@@ -1,0 +1,10 @@
+https://www.mgmresorts.com/encompanybilldirect.html
+https://www.mgmresorts.com/ensign-inprofile.html#winloss
+https://www.mgmresorts.com/encasino.html
+https://www.mgmresorts.com/enmlife-rewards-programmagazine.html
+https://nomadlasvegas.mgmresorts.com
+https://www.mgmresorts.com/ensign-inprofile.html#itinerary
+https://beaurivage.mgmresorts.com
+https://bellagio.mgmresorts.com
+https://www.mgmresorts.com/hotel-offer-id/ab04bf50-872c-444b-ba06-7d44b35c8ff8?icid=DMP_FWR_BB_HO_BookDirect_06212019_LV_MGMRI_ab04bf50-872c-444b-ba06-7d44b35c8ff8
+https://www.mgmresorts.com/

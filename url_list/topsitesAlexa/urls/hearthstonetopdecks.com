@@ -1,0 +1,1 @@
+https://www.hearthstonetopdecks.com/

@@ -1,0 +1,10 @@
+https://www.cardinalcommerce.com/false-declines
+https://www.cardinalcommerce.com/news-and-eventsindustry-news
+https://support.cardinalcommerce.com
+https://www.cardinalcommerce.com/news-and-events
+https://www.cardinalcommerce.com/Customers
+https://www.cardinalcommerce.com/savings-calculator
+https://www.cardinalcommerce.com/news-and-eventsindustry-news2018july-18sabre-cybersource-visa-solution-partner
+https://www.cardinalcommerce.com/partnerspayment-processors-and-acquirers
+https://www.cardinalcommerce.com/
+https://www.cardinalcommerce.com/partnerswhy

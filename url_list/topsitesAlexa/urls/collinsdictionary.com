@@ -1,0 +1,10 @@
+https://www.collinsdictionary.com/login?returnTo=https:www.collinsdictionary.com
+https://www.collinsdictionary.com/browse/english/words-starting-with-t
+https://www.collinsdictionary.com/browse/english/words-starting-with-v
+https://www.collinsdictionary.com/browse/english/words-starting-with-digit
+https://www.collinsdictionary.com/browse/english/words-starting-with-d
+https://www.collinsdictionary.com/dictionary/english-chinese
+https://www.collinsdictionary.com/cobuild#wordpartners
+https://www.collinsdictionary.com/
+https://www.collinsdictionary.com/browse/english/words-starting-with-j
+https://www.collinsdictionary.com/dictionary/english-italian

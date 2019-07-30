@@ -1,0 +1,10 @@
+https://ew.com/comic-con/2019/07/17/supergirl-season-5-melissa-benoist-lena-kara-crisis-leviathan/
+https://www.ew.com/
+https://ew.com/comic-con/2019/07/20/the-flash-sendhil-ramamurthy-bloodwork-season-6/
+https://ew.com/awards/golden-globes/
+https://ew.com/comic-con/2019/07/20/tom-hiddleston-loki-series-details/
+https://ew.com/comic-con/2019/07/19/rick-and-morty-season-4-first-look-taika-waititi/
+https://www.ew.com/tvtv-reviews
+https://ew.com/podcasts/
+https://www.magazine.store/entertainment-weekly/?utm_source=ew.com&utm_medium=owned&utm_campaign=i905ewr5w1211
+https://ew.com/awards/tony-awards/

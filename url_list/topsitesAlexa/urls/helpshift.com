@@ -1,0 +1,10 @@
+https://www.helpshift.com/products/trust-at-helpshift/
+https://www.helpshift.com/company/careers/
+https://www.helpshift.com/customer-service-glossary
+https://www.helpshift.com/customers
+https://www.helpshift.com/
+https://www.helpshift.com/companycareers
+https://www.helpshift.com/products/apis/
+https://uploads.helpshift.com/2019/02/19171538/Service-Across-Touchpoints.svg
+https://www.helpshift.com/products/customer-service-channels/
+https://www.helpshift.com

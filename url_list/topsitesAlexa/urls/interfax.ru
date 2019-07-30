@@ -1,0 +1,10 @@
+https://www.interfax.ru/world669878
+https://www.interfax.ru/russia669841
+https://www.interfax.ru/world669809
+https://www.interfax.ru/culture
+https://www.interfax.ru/world669846
+https://www.interfax.ru/business669787
+https://www.interfax.ru/world669845
+https://www.interfax.ru/world669832
+https://www.interfax.ru/interview667510
+https://www.interfax.ru/

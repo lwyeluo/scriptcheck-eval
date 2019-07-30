@@ -1,0 +1,10 @@
+https://www.wpbeginner.com/deals/wpengine-coupon/
+https://www.wpbeginner.com/privacy-policy/
+https://www.wpbeginner.com/category/opinion/
+https://www.wpbeginner.com/start-here/
+https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-internal-server-error-in-wordpress/
+https://www.wpbeginner.com/plugins/how-to-change-author-url-slug-and-base-in-wordpress/
+https://www.wpbeginner.com/beginners-guide/free-recording-wordpress-workshop-for-beginners/
+https://www.wpbeginner.com/
+https://www.wpbeginner.com/wordpress-plugins/monsterinsights-google-analytics-plugin/
+https://www.wpbeginner.com/category/plugins/

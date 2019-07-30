@@ -1,0 +1,10 @@
+https://dev.mysql.com/doc/index-cluster.html
+https://www.mysql.com/why-mysqlwhite-papersmysql-document-store-top-10-reasons
+https://www.mysql.com/customersview?id=892
+https://www.mysql.com/certification/
+https://www.mysql.com/products/cluster/
+https://www.mysql.com/
+https://dev.mysql.com/doc/#topic
+https://www.mysql.com/why-mysql
+https://www.mysql.com/customersview?id=555
+https://www.mysql.com/products/standard/

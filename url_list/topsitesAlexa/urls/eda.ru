@@ -1,0 +1,10 @@
+https://www.eda.ru/receptytarator
+https://eda.ru/media/luchshie-recepti-strani
+https://www.eda.ru/receptygorchica
+https://www.eda.ru/receptymors
+https://www.eda.ru/receptymiso
+https://www.eda.ru/
+https://www.eda.ru/receptysalaty-na-zimy
+https://www.eda.ru/receptytrubochki
+https://www.eda.ru/receptykanape
+https://www.eda.ru/receptyeskalop

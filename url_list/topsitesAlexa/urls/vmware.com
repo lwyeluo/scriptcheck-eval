@@ -1,0 +1,10 @@
+https://www.vmware.com/radius/impact/world-no-operating-rooms-mercy-ships/?src=WWW_US_HPST_MercyShips_Radius
+https://www.vmware.com/fr.html
+https://www.vmware.com/it.html
+https://www.vmware.com/helplegal.html
+https://www.vmware.com/ru.html
+https://www.vmware.com/pt.html
+https://www.vmware.com/gohol-ll-watch?src=WWW_US_HPH2_AppleWatchRaffleHOL_SiteLink
+https://www.vmware.com/worldwide.html
+https://www.vmware.com/au.html
+https://www.vmware.com/

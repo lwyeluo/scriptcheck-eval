@@ -1,0 +1,10 @@
+https://www.patagonia.com/fly-fishing.html
+https://www.patagonia.com/shop/dvds
+https://www.patagonia.com/shop/womens-baselayers
+https://www.patagonia.com/customer-service.html
+https://www.patagonia.com/shop/mens-fleece
+https://www.patagonia.com/
+https://www.patagonia.com/actionworks
+https://www.patagonia.com/shop/womens-shorts
+https://www.patagonia.com/shop/planing-collection
+https://www.patagonia.com/sitemap/

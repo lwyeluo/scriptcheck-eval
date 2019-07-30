@@ -1,0 +1,10 @@
+http://www.abcnews.go.com/
+https://abcnews.go.com/Press_Release/social-media-imagevideo-solicitation-rights-confirmation-guidelines/story?id=60443540
+https://abcnews.go.com/US/wireStory/lsu-lineman-shot-dog-returns-daily-life-64436106
+http://www.abcnews.go.com/Politicsvideotrump-claims-happy-send-back-chant-campaign-rally-64442065
+https://abcnews.go.com/GMA/Style/hipdot-launches-spongebob-squarepants-cosmetics-collection/story?id=64413092
+https://abcnews.go.com/International/wireStory/death-toll-rises-15-chinese-gas-plant-explosion-64464955
+http://www.abcnews.go.com/Internationalhong-kong-police-find-large-cache-explosives-aheadstory?id=64457649
+https://abcnews.go.com/Politics/dhs-warns-russian-efforts-divide-america-pineapple-pizza/story?id=64444702
+http://www.abcnews.go.com/Internationalphotoscelebrating-summer-world-63723284
+https://abcnews.go.com/Site/page?id=3271346&cat=ABCNews.com%20comments

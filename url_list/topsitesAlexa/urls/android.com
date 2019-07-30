@@ -1,0 +1,10 @@
+https://source.android.com/
+https://www.android.com/
+https://www.android.com/tv
+https://www.android.com/devices
+https://www.android.com/enterpriserecommended
+https://www.android.com/everyone
+https://www.android.com/switch
+https://www.android.com/the-platform
+https://developer.android.com/
+https://developer.android.com/studio

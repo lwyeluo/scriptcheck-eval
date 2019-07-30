@@ -1,0 +1,10 @@
+https://www.cineplex.com/NewsDonald-Glover-Seth-Rogen-and-Billy-Eichner-talk-reimagining-The-Lion-King-and-working-with-Beyonce
+https://www.cineplex.com/NewsJake-Gyllenhaal-on-bringing-mystery-and-humanity-to-the-MCU-in-Spider-Man-Far-From-Home
+https://www.cineplex.com/Magazine
+https://www.cineplex.com/
+https://www.cineplex.com/Showtimes?cmpid=MainNavEN_showtimes
+https://www.cineplex.com/Moviehistoire-de-jouets-4
+https://www.cineplex.com/Events?cmpid=MainNavEN_events
+https://www.cineplex.com/EventsMetOpera
+https://www.cineplex.com/EventsEventScreen
+https://www.cineplex.com/Theatres4DX

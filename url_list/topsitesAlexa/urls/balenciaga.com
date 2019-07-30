@@ -1,0 +1,10 @@
+https://www.balenciaga.com/sg/men/caps
+https://www.balenciaga.com/
+https://www.balenciaga.com/sg/women/shoes-sale
+https://www.balenciaga.com/#womenwomen_accessories
+https://www.balenciaga.com/sgAccountWishList
+https://www.balenciaga.com/sg/women/jewelry-sale
+https://www.balenciaga.com/sg/men/collections/fallwinter-17-18_section
+https://www.balenciaga.com/sg/women/kids
+https://www.balenciaga.com/sg/unisex/collections/women-fall-winter-17-u_section
+https://www.balenciaga.com/sg/women/winter-18-book

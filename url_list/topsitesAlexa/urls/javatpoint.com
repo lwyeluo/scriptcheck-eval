@@ -1,0 +1,10 @@
+https://www.javatpoint.com/java-tutorial
+https://www.javatpoint.com/intellij-idea-tutorial
+https://www.javatpoint.com/jquery-tutorial
+https://training.javatpoint.com/
+https://www.javatpoint.com/numpy-tutorial
+https://www.javatpoint.com/testng-tutorial
+https://www.javatpoint.com/discrete-mathematics-tutorial
+https://www.javatpoint.com/rust-tutorial
+https://www.javatpoint.com/mobile-communication-tutorial
+https://www.javatpoint.com/

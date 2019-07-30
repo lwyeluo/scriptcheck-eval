@@ -1,0 +1,10 @@
+https://www.thetrainline.com/en/destinations/trains-to-amsterdam
+https://www.thetrainline.com/en/train-companies/italo
+https://www.thetrainline.com/destinations
+https://www.thetrainline.com/en/train-times/rome-to-florence
+https://www.thetrainline.com/trains/europe/popular-journeys
+https://www.thetrainline.com/season-tickets
+https://www.thetrainline.com/en/train-companies/sncf/tgv
+https://www.thetrainline.com/
+https://www.thetrainline.com/train-times/off-peak
+https://www.thetrainline.com/airport-transfers

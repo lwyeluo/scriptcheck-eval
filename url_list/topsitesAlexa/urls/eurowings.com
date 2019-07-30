@@ -1,0 +1,10 @@
+https://www.eurowings.com/usdiscoveroffersblindbooking.html
+https://www.eurowings.com/usbookingoffersflights-to-DEPAD.html
+https://www.eurowings.com/usinformationdestinations-routesflight-schedule.html
+https://www.eurowings.com/usbookingoffersflights-to-GRSKG.html
+https://www.eurowings.com/usinformationour-faressmart.html
+https://www.eurowings.com/usinformationon-board.html
+https://www.eurowings.com/usinformationat-the-airport.html
+https://www.eurowings.com/
+https://www.eurowings.com/uslegal-informationterms-of-use.html
+https://www.eurowings.com/usinformationon-boardtravel-media.html

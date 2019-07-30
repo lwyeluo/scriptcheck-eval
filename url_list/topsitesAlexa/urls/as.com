@@ -1,0 +1,10 @@
+https://www.as.com/sg.as.comagrastv_englisha?omnil=src-sab
+https://en.as.com/en/2019/07/16/football/1563299393_856957.html
+https://en.as.com/en/2019/07/19/football/1563549282_703287.html#EnlaceComentarios
+https://en.as.com/en/2019/07/20/football/1563631550_747249.html
+https://en.as.com/tag/paris_saint_germain/a/
+https://www.as.com/sg.as.comtagfc_barcelonaa?omnil=src-sab
+https://en.as.com/en/2019/07/13/other_sports/1563029964_475154.html
+https://www.as.com/chile.as.comchile?nrd=1
+https://en.as.com/en/2019/07/04/football/1562244025_389483.html
+https://www.as.com/

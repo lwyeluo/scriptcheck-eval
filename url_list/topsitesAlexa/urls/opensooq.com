@@ -1,0 +1,10 @@
+https://www.opensooq.com/
+https://ye.opensooq.com/ar
+https://kw.opensooq.com/ar
+https://bh.opensooq.com/ar
+https://www.opensooq.com/ar
+https://jo.opensooq.com/ar
+https://ae.opensooq.com/ar
+https://ly.opensooq.com/ar
+https://ps.opensooq.com/ar
+https://iq.opensooq.com/ar

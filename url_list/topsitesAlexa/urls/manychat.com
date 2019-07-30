@@ -1,0 +1,10 @@
+https://support.manychat.com/support/home
+https://manychat.com/privacy.html
+https://manychat.com/pricing
+https://manychat.com/tos.html
+https://manychat.com/course?utm_medium=Website&utm_source=ManyChat.com&utm_campaign=Free+Course
+https://manychat.com/agency/listing
+https://blog.manychat.com/building-ecommerce-chatbots-that-work/
+https://www.manychat.com/
+https://status.manychat.com/
+https://blog.manychat.com/facebook-messenger-marketing-blueprints/

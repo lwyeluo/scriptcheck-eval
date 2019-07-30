@@ -1,0 +1,10 @@
+https://www.zippyshare.com/?locale=nl
+http://support.zippyshare.com/index.php?act=tickets&code=open
+https://www.zippyshare.com/www.zippyshare.comsitesuploader.jsp
+https://www.zippyshare.com/sitesforgot.jsp
+https://www.zippyshare.com/?locale=en
+https://www.zippyshare.com/?locale=hu
+https://www.zippyshare.com/
+https://www.zippyshare.com/?locale=es
+https://www.zippyshare.com/?locale=sv
+https://www.zippyshare.com/?locale=pt

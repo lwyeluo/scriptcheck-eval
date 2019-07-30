@@ -1,0 +1,10 @@
+https://www.mvnrepository.com/artifactorg.junit.platformjunit-platform-console-standaloneusages
+https://www.mvnrepository.com/artifactio.simplesourcesimplesaga-sharedusages
+https://www.mvnrepository.com/artifactio.ratpackratpack-core
+https://www.mvnrepository.com/
+https://www.mvnrepository.com/artifactio.simplesource
+https://www.mvnrepository.com/artifactorg.junit.jupiterjunit-jupiter-engine5.5.1
+https://www.mvnrepository.com/open-sourcelogging-bridges
+https://www.mvnrepository.com/artifactio.ratpackratpack-groovy
+https://www.mvnrepository.com/tags
+https://www.mvnrepository.com/open-sourcepdf-libraries

@@ -1,0 +1,10 @@
+http://www.game-game.com.ua/page2page2
+http://www.game-game.com.ua/page2
+http://www.game-game.com.ua/page3
+http://www.game-game.com.ua/page2page2314
+http://www.game-game.com.ua/page2313
+http://www.game-game.com.ua/page2314
+http://www.game-game.com.ua/
+http://www.game-game.com.ua/page4
+http://www.game-game.com.ua/page2page5
+http://www.game-game.com.ua/page2page2313

@@ -1,0 +1,10 @@
+https://www.patreon.com/EasyAllies
+https://www.patreon.com/c/nonprofits
+https://www.patreon.com/ctutorials-and-education
+https://www.patreon.com/ccommunities
+https://www.patreon.com/policy
+https://www.patreon.com/productpricing
+https://www.patreon.com/cwriting
+https://blog.patreon.com/tag/patreon-u
+https://www.patreon.com/
+https://www.patreon.com/juicyscoop

@@ -1,0 +1,10 @@
+https://www.zulily.com/account/messenger?rel=top_flyout
+https://www.zulily.com/ca-transparency-in-supply-chains-act
+https://www.zulily.com/e/bernardo-388125.html
+https://www.zulily.com/invite/refer/?rel=top_flyout
+https://www.zulily.com/www.ballarddesigns.com
+https://www.zulily.com/account/favorites/?rel=top_flyout
+https://www.zulily.com/about-us
+https://www.zulily.com/www.hsn.com
+https://www.zulily.com/
+https://www.zulily.com/e/hunter-375819.html

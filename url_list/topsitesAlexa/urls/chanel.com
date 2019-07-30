@@ -1,0 +1,10 @@
+https://www.chanel.com/en_WW/fashion/haute-couture/fall-winter-2019-20.html
+https://www.chanel.com/
+https://www.chanel.com/en_WW/watches-jewelry/fine-jewelry
+https://www.chanel.com/en_WW/fashion/collection/collection-metiers-art-2018-19-new-york.html
+https://www.chanel.com/en_WW/fragrance-beauty/makeup/c/ultra-le-teint.html
+https://www.chanel.com/en_WW/fragrance-beauty/skincare/c/sublimage-essence-lumiere.html
+https://www.chanel.com/en_WW/fashion.html
+http://inside.chanel.com/en/chanel-goes-west
+https://www.chanel.com/services.chanel.comen_WWpolicieslegal
+https://www.chanel.com/services.chanel.comen_WWpoliciesprivacy

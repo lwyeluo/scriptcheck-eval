@@ -1,0 +1,10 @@
+http://www.kmart.com
+https://www.kmart.com/searsholdings.comaboutkmartrecalls
+https://www.kmart.com/pharmacy.kmart.comnewrx-landing
+https://www.kmart.com/en_usdapleasing.html
+https://www.kmart.com/kmart-gift-cards.html
+http://www.kmart.com/stores.html
+https://www.kmart.com/en_ussitemap.html
+https://www.kmart.com/csprivacynb-100000000000006
+http://www.kmart.com?adcell=freestorepickupshopnow
+https://www.kmart.com/

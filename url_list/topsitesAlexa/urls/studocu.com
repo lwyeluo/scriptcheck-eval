@@ -1,0 +1,10 @@
+https://www.studocu.com/en/search/managerial-economics
+https://www.studocu.com/en/document/sunway-university/general-chemistry-i/other/defn-list-definition-list-for-cie-a-level-chemistry-9701/1014713/view
+https://www.studocu.com/en/book/mechanics-of-materials/russell-c-hibbeler-s-c-fan/21827
+https://www.studocu.com/en/book/fundamentals-of-futures-and-options-markets/hull-john/13037
+https://www.studocu.com/en/cookie-statement
+https://www.studocu.com/en/search/principles-of-economics
+https://www.studocu.com/en/book/basic-engineering-circuit-analysis/j-david-irwin-robert-m-nelms/2934
+https://www.studocu.com/en/search/organisational-behaviour
+https://www.studocu.com/en/search/supply-chain-management
+https://www.studocu.com/

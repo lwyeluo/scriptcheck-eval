@@ -1,0 +1,10 @@
+https://www.groupon.com/customer_support
+https://www.groupon.com/
+https://www.groupon.com/merchant?utm_medium=referral&utm_campaign=groupon-footer&utm_source=groupon
+https://www.groupon.com/legallicenses
+https://www.groupon.com/browse?category=beauty-and-spas
+https://www.groupon.com/couponsstoresmacys.com
+https://www.groupon.com/getaways
+https://www.groupon.com/couponsstoressamsung.com
+https://www.groupon.com/programsstudent
+https://www.groupon.com/localflowers

@@ -1,0 +1,10 @@
+https://www.instantcheckmate.com/dmca
+https://www.instantcheckmate.com/
+https://www.instantcheckmate.com/peoplev
+https://www.instantcheckmate.com/glossary
+https://www.instantcheckmate.com/peopleq
+https://www.instantcheckmate.com/peopled
+https://www.instantcheckmate.com/cancel
+https://www.instantcheckmate.com/glossarysex-offender-database
+https://www.instantcheckmate.com/crimewire
+https://www.instantcheckmate.com/faqs

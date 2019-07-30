@@ -1,0 +1,10 @@
+https://blogs.findlaw.com/courtside/2019/05/alabamas-new-abortion-ban-read-it-here.html
+https://forms.findlaw.com/
+https://civilrights.findlaw.com/
+https://pview.findlaw.com/profiles/lawyer/a/1.html
+https://lawyers.findlaw.com/lawyer/lawyer_dir/search/jsp/name_search.jsp
+https://blogs.findlaw.com/injured/2019/07/another-study-another-piece-of-bad-news-for-e-cig-users.html
+https://www.findlaw.com/
+https://smallbusiness.findlaw.com/
+https://pview.findlaw.com/profiles/lawfirm/a/1.html
+https://traffic.findlaw.com/

@@ -1,0 +1,10 @@
+https://personal.help.royalmail.com/app/answers/detail/a_id/317/
+https://www.royalmail.com/personalreceiving-mailpay-a-fee
+http://www.royalmail.com/cookies-policy
+http://shop.royalmail.com
+https://www.royalmail.com/personaluk-deliverysigned-2nd-class
+https://shop.royalmail.com/postage-and-packaging/envelopes
+http://www.myroyalmail.com/
+https://www.royalmail.com/
+http://www.royalmail.com/atoz
+https://personal.help.royalmail.com/app/answers/detail/a_id/62

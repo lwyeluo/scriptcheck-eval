@@ -1,0 +1,10 @@
+https://www.powtoon.com/privacy-policy#aboutcookies
+https://www.powtoon.com/labs
+https://www.powtoon.com/privacy-policy
+https://www.powtoon.com/jobs/
+https://www.powtoon.com/powtoon-for-powerpoint
+https://www.powtoon.com/accountsignup
+https://www.powtoon.com/marketing-videos-internal
+https://www.powtoon.com/powtoon-gallery
+https://www.powtoon.com/it-home
+https://www.powtoon.com/

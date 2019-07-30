@@ -1,0 +1,10 @@
+http://o2tvseries.com/search/recently_added
+http://o2tvseries.com/search/genre
+http://o2tvseries.com/y
+http://www.o2tvseries.com/
+http://o2tvseries.com/v
+http://o2tvseries.com/a
+http://o2tvseries.com/d
+http://o2tvseries.com/p
+http://o2tvseries.com/
+http://o2tvseries.com/search/list_all_tv_series

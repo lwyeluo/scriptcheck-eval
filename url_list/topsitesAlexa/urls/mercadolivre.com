@@ -1,0 +1,10 @@
+https://produto.mercadolivre.com.br/MLB-1246217937-aparelho-de-jantar-cha-e-cafe-42-pecas-oxford-coup-lindy-hop-_JM#c_id=/home/collections/item&c_campaign=amantes-da-cozinha&c_uid=48ecc6b8-170e-4447-8121-d3ec966d4a7f
+https://www.mercadolivre.com.br/pagar-online-com-mercadopago/
+https://ofertas.mercadolivre.com.br/ofertas-da-semana#menu-user
+https://home.mercadolivre.com.br/livros/#c_id=/home/categories/element&c_category_id=MLB1196&c_uid=268bf100-cc70-44ed-b6cb-93f2ed741878
+https://www.mercadolivre.com/
+https://produto.mercadolivre.com.br/MLB-1228342360-conjunto-de-panelas-7-pecas-ceramic-life-smart-brinox-_JM#c_id=/home/collections/item&c_campaign=amantes-da-cozinha&c_uid=8aec87a2-e216-49ab-bf61-0dc2f0aafa18
+https://home.mercadolivre.com.br/ferramentas-construcao/#c_id=/home/categories/element&c_category_id=MLB263532&c_uid=ddf2eaeb-ec10-45c4-9ef4-1d1f51a38112
+https://home.mercadolivre.com.br/colecoes/#c_id=/home/categories/element&c_category_id=MLB1798&c_uid=5e6a45d6-711e-46fc-a753-5f5d8f230a35
+https://www.mercadolivre.com.br/gz/app
+https://home.mercadolivre.com.br/musica/#c_id=/home/categories/element&c_category_id=MLB1168&c_uid=5f59e8fa-9e2c-49ea-9049-6cee28c9b14e

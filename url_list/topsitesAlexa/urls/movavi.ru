@@ -1,0 +1,10 @@
+https://www.movavi.ru/screen-capture-studio-mac?asrc=main_menu
+https://www.movavi.ru/video-editor-business-mac?asrc=main_menu_work
+https://www.movavi.ru/pdf.movavi.ru?asrc=main_menu_work
+https://www.movavi.ru/
+https://www.movavi.ru/videoeditor-download/
+https://www.movavi.ru/www.movavi.comnl
+https://www.movavi.ru/screen-recorder
+https://www.movavi.ru/learning-portal
+https://www.movavi.ru/www.movavi.comdk
+https://www.movavi.ru/suite?asrc=main_menu

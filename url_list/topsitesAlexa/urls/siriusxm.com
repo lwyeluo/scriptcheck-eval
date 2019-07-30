@@ -1,0 +1,10 @@
+https://www.siriusxm.com/news&issues?intcmp=GN_HEADER_NEW_Browse_NewsandIssues
+https://www.siriusxm.com/ourmostpopularpackages?intcmp=GN_HEADER_NEW_Subscribe_AllPackages
+https://www.siriusxm.com/phxsxmgeneral
+https://www.siriusxm.com/sxm-tryfree?intcmp=GN_FOOTER_NEW_GetSiriusXM_StartMySiriusXMTrial
+https://www.siriusxm.com/music?intcmp=GN_HEADER_NEW_Browse_Music
+https://www.siriusxm.com/80son8
+https://www.siriusxm.com/yachtrockradio
+https://www.siriusxm.com/athome
+https://www.siriusxm.com/sxm-tryfree
+https://www.siriusxm.com/

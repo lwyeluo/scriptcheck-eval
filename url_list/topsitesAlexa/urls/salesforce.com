@@ -1,0 +1,10 @@
+https://www.salesforce.com/de/
+https://www.salesforce.com/approductsplatformapp-devdigital-experiences
+https://www.salesforce.com/apevents
+https://www.salesforce.com/apformdemoplatform-heroku?d=nav-heroku-demo
+https://www.salesforce.com/ap/crm/?d=70130000000Ysay
+https://www.salesforce.com/approductscommerce-cloudplatformdigital-commerce
+https://www.salesforce.com/approductsanalytics-cloudsolutionseinstein-data-discovery
+https://www.salesforce.com/ap/
+https://help.salesforce.com/htssologinpage
+https://www.salesforce.com/

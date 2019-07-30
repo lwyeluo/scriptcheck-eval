@@ -1,0 +1,10 @@
+https://www.fastcompany.com/innovation-by-design2018
+https://www.fastcompany.com/most-innovative-companies2019
+https://www.fastcompany.com/903791266-american-cities-ask-for-responsible-tourism-pledge
+https://www.fastcompany.com/newsletters
+https://www.fastcompany.com/magazineissue-233
+https://www.fastcompany.com/
+https://www.fastcompany.com/sectionthe-recommender
+https://www.fastcompany.com/section50-days-to-the-moon
+https://events.fastcompany.com/fcgrill/
+https://www.fastcompany.com/magazineissue-231

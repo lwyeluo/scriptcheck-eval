@@ -1,0 +1,10 @@
+https://www.biblegateway.com/www.biblegateway.com
+https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_bbc0719
+https://www.biblegateway.com/newsletters
+https://www.biblegateway.com/legalterms
+https://www.biblegateway.com/help
+https://www.biblegateway.com/logout
+https://www.biblegateway.com/useraccount
+https://www.biblegateway.com/newsroom
+https://www.biblegateway.com/site-map
+https://www.biblegateway.com/

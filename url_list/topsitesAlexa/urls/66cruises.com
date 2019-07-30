@@ -1,0 +1,10 @@
+http://www.66cruises.com/cruises.html
+http://www.66cruises.com/help_209.html
+http://www.66cruises.com/video.html
+http://www.66cruises.com/
+http://www.66cruises.com/help_208.html
+http://www.66cruises.com/destination.html
+http://www.66cruises.com/help_203.html
+http://www.66cruises.com/tz.html
+http://www.66cruises.com/qq.html
+http://m.66cruises.com/

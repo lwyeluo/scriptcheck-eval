@@ -1,0 +1,10 @@
+https://blue.mmo-champion.com/topic/1106508-hotfixes-july-19-2019/
+https://www.mmo-champion.com/content/8640-Message-From-Frank-Pearce-and-J-Allen-Brack
+https://www.mmo-champion.com/heroes
+https://www.mmo-champion.com/content/7855-Battle-for-Azeroth-World-Boss-Guide-Loot-and-Locations
+https://blue.mmo-champion.com/topic/1106993-arena-world-championship-summer-cup-4/
+https://www.mmo-champion.com/content/8641-Patch-8-2-Hotfixes-July-19th
+https://www.mmo-champion.com/content/8174-Darkshore-Warfront-Preview-Patch-8-1
+https://www.mmo-champion.com/
+https://www.mmo-champion.com/content/8206-Patch-8-1-Tides-of-Vengeance-Live-This-Week!
+https://www.mmo-champion.com/content/8176-Kotaku-Warcraft-Version-of-Pokemon-Go-Rumor-New-Islands-Preview-in-Patch-8-1#newislands

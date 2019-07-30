@@ -1,0 +1,10 @@
+http://promo.mytvsuper.com/contact-us
+https://programme.mytvsuper.com/tc/122653
+http://promo.mytvsuper.com/tc
+http://promo.mytvsuper.com/tc/Multi-view
+https://promo.mytvsuper.com/tc/tutorial
+https://promo.mytvsuper.com/tc/faq
+http://promo.mytvsuper.com/tc/eu_privacy_overview
+https://www.mytvsuper.com/tc/liveChat
+https://programme.mytvsuper.com/tc/120998/
+https://www.mytvsuper.com/

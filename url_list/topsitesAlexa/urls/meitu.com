@@ -1,0 +1,10 @@
+https://www.meitu.com/t9_chibi_maruko_chan
+https://www.meitu.com/meituspa
+https://www.meitu.com/mall/?/#/personal/recovery_order
+http://corp.meitu.com/about/overview/
+https://www.meitu.com/services/repair.html
+https://www.meitu.com/mall/?/#/personal/scode/form
+https://www.meitu.com/mall/?/#/personal/order/six_month
+http://corp.meitu.com/about/culture/
+https://www.meitu.com/m8s
+https://www.meitu.com/

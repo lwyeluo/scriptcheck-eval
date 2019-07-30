@@ -1,0 +1,10 @@
+https://www.mint.com/how-mint-worksinvestments
+https://www.mint.com/personal-finance-interviews
+https://www.mint.com/how-mint-works
+https://www.mint.com/how-mint-workssecurity
+https://www.mint.com/how-mint-works/alerts
+https://www.mint.com
+https://www.mint.com/personal-finance-4
+https://www.mint.com/ira-rollover/
+https://www.mint.com/how-mint-worksbudgets
+https://www.mint.com/

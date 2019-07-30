@@ -1,0 +1,10 @@
+https://www.archdaily.com/catalog/us/search/category/finishes-floors-rubber-cork?ad_name=flyout&ad_medium=categories
+https://www.archdaily.com/
+https://www.archdaily.com/921348/stephane-beel-on-architecture-and-technology/
+https://www.archdaily.com/catalog/us/search/category/construction-materials-fabric-textile-architecture-freestanding-umbrellas?ad_name=flyout&ad_medium=categories
+https://www.archdaily.com/search/projects/categories/nightlife?ad_name=flyout&ad_medium=categories
+https://www.archdaily.com/913493bialmed-headquarters-3xa5c910bfc284dd1e494000aa6-bialmed-headquarters-3xa-photo
+https://www.archdaily.com/search/projects/categories/monuments?ad_name=flyout&ad_medium=categories
+https://www.archdaily.com/921309phil-freelon-architect-for-social-equity
+https://www.archdaily.com/search/projects/categories/houses?ad_name=flyout&ad_medium=categories
+https://www.archdaily.com/921452child-psychiatry-hospitalization-building-of-12-beds-in-bures-sur-yvette-a-plus-samueldelmas5d30f1eb284dd127930001a2-child-psychiatry-hospitalization-building-of-12-beds-in-bures-sur-yvette-a-plus-samueldelmas-photo

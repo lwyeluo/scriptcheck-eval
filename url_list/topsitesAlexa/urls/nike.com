@@ -1,0 +1,10 @@
+https://store.nike.com/sg/en_gb/pw/mens-skateboarding/7puZpd2
+https://store.nike.com/sg/en_gb/pw/mens-football-shoes/7puZ896Zoi3
+https://store.nike.com/sg/en_gb/pw/mens-socks/7puZpco
+https://www.nike.com/
+https://store.nike.com/sg/en_gb/pw/mens-nikelab/7puZofo
+https://www.nike.com/sg/en_gb/c/nikelab
+https://store.nike.com/sg/en_gb/pw/womens-accessories-equipment/7ptZobv
+https://www.nike.com/sg/en_gb/c/nikeid
+https://store.nike.com/sg/en_gb/pw/mens-tennis-shoes/7puZ8r0Zoi3
+https://www.nike.com/ch/en_gb/

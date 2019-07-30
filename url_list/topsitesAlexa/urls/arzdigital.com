@@ -1,0 +1,10 @@
+https://www.arzdigital.com/
+https://arzdigital.com/tag/%d8%b1%db%8c%d9%be%d9%84/
+https://arzdigital.com/how-to-buy-bitcoins/
+https://arzdigital.com/what-is-dogecoin/
+https://arzdigital.com/category/business/internet-of-things/
+https://arzdigital.com/iranians-buy-bitcoins-for-foreign-travels-instead-of-the-dollar/
+https://arzdigital.com/wall-street-analyst-bernstein-bitcoin-censorship-resistant-asset-class/
+https://arzdigital.com/what-is-cryptokitties/
+https://arzdigital.com/avoid-providing-payment-services-to-digital-currency-business/
+https://arzdigital.com/iranian-government-agreed-to-electricity-rates-for-crypto-mining/

@@ -1,0 +1,10 @@
+https://www.stranamam.ru/cat/domovodstvo/
+https://www.stranamam.ru/post14225873
+https://www.stranamam.ru/community/21060/
+https://www.stranamam.ru/cat/otdyh/
+https://www.stranamam.ru/
+https://www.stranamam.ru/post/14226121/
+https://www.stranamam.ru/post/14225570/
+https://www.stranamam.ru/post/14225544/
+https://www.stranamam.ru/article/14192068/
+https://login.mediafort.ru/oauth/gmail/stranamam/?backurl=https://www.stranamam.ru/

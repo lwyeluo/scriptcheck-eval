@@ -1,0 +1,10 @@
+https://www.amazon.com/interestbasedadsref=footer_iba
+https://www.amazon.com/primeref=nav_tooltip_redirect136-1016606-0088723
+https://www.amazon.com/
+https://www.amazon.com/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fref%3Dgw_sgn_ib%2F136-1016606-0088723&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&marketPlaceId=ATVPDKIKX0DER&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&
+https://www.amazon.com/Reload-Your-Gift-Card-Balanceb?ie=UTF8&node=10232440011&ref_=footer_reload_us
+https://www.amazon.com/b?node=17938598011&pf_rd_p=4315301c-65a8-4494-b3e9-2711d524d1fe&pf_rd_r=5T9G2MG7P7G4RSFKARHA
+https://www.amazon.com/Nintendo-Switch-Gray-JoydpB01LTHP2ZKref=br_asw_pdt-4136-1016606-0088723?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=5T9G2MG7P7G4RSFKARHA&pf_rd_t=36701&pf_rd_p=4e908f83-e253-4b4f-aa20-cc6159b99ff0&pf_rd_i=desktop
+https://www.amazon.com/Calvin-Klein-Womens-Skinny-JeandpB01BTK5FEKref=br_asw_pdt-3136-1016606-0088723?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=5T9G2MG7P7G4RSFKARHA&pf_rd_t=36701&pf_rd_p=87b9aac0-fdb6-44a6-b642-f004f24e2b26&pf_rd_i=desktop
+https://www.amazon.com/Mirari-Wake-Alarm-Clock-Night-LightdpB00EAHSBV4ref=br_asw_pdt-4136-1016606-0088723?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=5T9G2MG7P7G4RSFKARHA&pf_rd_t=36701&pf_rd_p=741d0972-27c8-4d35-a0b9-00a935402ac9&pf_rd_i=desktop
+https://www.amazon.com/iRobot-Roomba-675-Connectivity-CarpetsdpB07DL4QY5Vref=br_asw_pdt-6136-1016606-0088723?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=&pf_rd_r=5T9G2MG7P7G4RSFKARHA&pf_rd_t=36701&pf_rd_p=741d0972-27c8-4d35-a0b9-00a935402ac9&pf_rd_i=desktop

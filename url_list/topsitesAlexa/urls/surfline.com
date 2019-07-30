@@ -1,0 +1,10 @@
+https://www.surfline.com/
+https://www.surfline.com/surf-report1st-st-jetty584204214e65fad6a7709ce7
+https://www.surfline.com/surf-forecastsel-salvador58581a836630e24c44879040
+https://www.surfline.com/surf-reportthe-rock5842041f4e65fad6a7708bd7
+https://discover.surfline.com/ads/
+https://www.surfline.com/travelunited-statesflorida-surfing-and-beaches4155751
+https://www.surfline.com/surf-forecaststreasure-coast-palm-beach58581a836630e24c44878fe2
+https://www.surfline.com/surf-reportnew-smyrna-beach5842041f4e65fad6a7708871
+https://www.surfline.com/surf-reportlas-flores5842041f4e65fad6a7708dbe
+https://www.surfline.com/surf-reportwaimea-bay5842041f4e65fad6a7708895

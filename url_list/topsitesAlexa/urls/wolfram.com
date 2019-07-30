@@ -1,0 +1,10 @@
+http://www.wolfram.com/wolfram-u/calendar/?source=nav
+http://mathworld.wolfram.com/?source=nav
+https://www.wolfram.com/natural-language-understanding?source=frontpage-computation
+http://www.wolfram.com/wolfram-one/?source=footer
+http://community.wolfram.com/content?curTag=jobs&source=nav
+http://www.wolfram.com/solutions/industry/econometrics/?source=nav
+http://www.wolfram.com/solutions/industry/data-science/?source=nav
+http://www.wolfram.com/language/elementary-introduction/?source=nav
+https://www.wolfram.com/featuresetnotebooks?source=frontpage-computation
+https://www.wolfram.com/

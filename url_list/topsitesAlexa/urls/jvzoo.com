@@ -1,0 +1,10 @@
+https://www.jvzoo.com/portal
+https://www.jvzoo.com/portalcdn-cgilemail-protection
+https://www.jvzoo.com/features
+https://www.jvzoo.com/portalsupport
+https://customer.jvzoo.com/support
+https://www.jvzoo.com/authlogin
+https://www.jvzoo.com/portallegal
+https://www.jvzoo.com/
+https://www.jvzoo.com/about
+https://blog.jvzoo.com/

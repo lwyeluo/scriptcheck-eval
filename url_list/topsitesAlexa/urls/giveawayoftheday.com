@@ -1,0 +1,10 @@
+https://www.giveawayoftheday.com/mstech-folder-icon-basic/
+https://download-basket.giveawayoftheday.com/graphic-design/slidedog/
+https://iphone.giveawayoftheday.com/
+https://www.giveawayoftheday.com/2019/07/12/
+https://www.giveawayoftheday.com/2019/07/10/
+https://www.giveawayoftheday.com/gom-cam-pro-2/
+https://pt.giveawayoftheday.com/
+https://iphone.giveawayoftheday.com/immigration?lang=en
+https://www.giveawayoftheday.com/2019/07/06/
+https://www.giveawayoftheday.com/

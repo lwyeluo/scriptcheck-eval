@@ -1,0 +1,10 @@
+https://www.inc.com/company-culture
+https://www.inc.com/women-in-business
+https://www.inc.com/magazine/201902/will-yakowicz/bird-electric-scooter-travis-vanderzanden-2018-company-of-the-year.html?cid=hmsp4_1
+https://www.inc.com/magazine/201908/graham-winfrey/private-equity-investment-firms-founder-friendly.html?cid=hmpopmag4
+http://www.inc.com/inc5000/list/2018
+https://www.inc.com/creativity
+https://www.inc.com/security
+https://www.inc.com/helpcenter
+https://www.inc.com/franchise
+https://www.inc.com/

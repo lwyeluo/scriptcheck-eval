@@ -1,0 +1,10 @@
+https://www.makemytrip.com/www.makemytrip.cominternational-flights
+https://www.makemytrip.com/www.makemytrip.comhomestays
+https://www.makemytrip.com/www.makemytrip.comdaily-deals
+https://www.makemytrip.com/
+https://www.makemytrip.com/www.makemytrip.comflights
+https://www.makemytrip.com/mybiz.makemytrip.com
+https://www.makemytrip.com/www.makemytrip.comhotels
+https://www.makemytrip.com/www.makemytrip.comholidays-india
+https://www.makemytrip.com/www.makemytrip.comrailways
+https://www.makemytrip.com/www.makemytrip.comblog?intid=Blog_HomePage_Tab_Stories

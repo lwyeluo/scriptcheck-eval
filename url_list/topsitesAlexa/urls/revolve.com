@@ -1,0 +1,10 @@
+https://www.revolve.com/
+https://www.revolve.com/contentsct?type=ps&url=%2Fnike-nsw-zoom-x-vista-grind-%2Fdp%2FNIKR-WZ139%2F%3Fd%3DWomens%26srcType%3Dhp_recs_bs
+https://www.revolve.com/olaplexbrbcd1b5?navsrc=subbeauty
+https://www.revolve.com/lacademiebrf5f5f5?navsrc=subdesigners_bwl
+https://www.revolve.com/contentlpbeauty?navsrc=main
+https://www.revolve.com/salejewelry-accessoriesbrb607de?navsrc=subsale
+https://www.revolve.com/saletopsbr94dfe5?navsrc=subsale
+https://www.revolve.com/feedback
+https://www.revolve.com/bestSellerall-best-sellersbr2022d4?navsrc=subnew
+https://www.revolve.com/jackets-coatsbre4012a?navsrc=subclothing

@@ -1,0 +1,10 @@
+https://www.1001fonts.com/filled-fonts.html
+https://www.1001fonts.com/1980s-fonts.html
+https://www.1001fonts.com/dl.1001fonts.comgladwin.zip
+https://www.1001fonts.com/handwritten-fonts.html
+https://www.1001fonts.com/
+https://www.1001fonts.com/foreign-imitation+runic-fonts.html
+https://www.1001fonts.com/foreign-imitation+mexican-fonts.html
+https://www.1001fonts.com/formal-fonts.html
+https://www.1001fonts.com/www.1001fonts.comgladwin-font.html
+https://www.1001fonts.com/pixel-fonts.html

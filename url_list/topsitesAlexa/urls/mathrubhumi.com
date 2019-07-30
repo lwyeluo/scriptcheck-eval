@@ -1,0 +1,10 @@
+https://www.mathrubhumi.com/
+https://www.mathrubhumi.com/newskeralap-k-biju-met-pranav-who-lost-his-memories-due-to-ldf-s-election-defeat-1.3968915
+https://www.mathrubhumi.com/crime-beatcrime-news8-arrested-for-rape-sisters-1.3974538
+https://www.mathrubhumi.com/education-malayalamnewsdraft-national-policy-on-academic-ethics-suggests-avoid-any-considerations-in-exams-and-interviews-1.3974650
+https://www.mathrubhumi.com/www.mbiseed.com
+https://www.mathrubhumi.com/travel
+https://www.mathrubhumi.com/newsindiairan-s-revolutionary-guard-operatives-capture-the-uk-flagged-tanker-stena-impero-1.3974700
+https://tv.mathrubhumi.com/
+https://www.mathrubhumi.com/movies-musicfeaturesthe-rider-on-the-rain-movie-review-classic-movies-1.3972205
+https://www.mathrubhumi.com/foodrecipieskeralakappa-biriyaani-recipe-1.3972382

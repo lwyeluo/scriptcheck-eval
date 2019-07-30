@@ -1,0 +1,10 @@
+https://www.homeandgardenideas.com/privacyterms
+https://www.homeandgardenideas.com/privacycookies
+https://www.homeandgardenideas.com/cookies
+https://www.homeandgardenideas.com/
+https://www.homeandgardenideas.com/termsterms
+https://www.homeandgardenideas.com/privacyprivacy
+https://www.homeandgardenideas.com/termscookies
+https://www.homeandgardenideas.com/privacy
+https://www.homeandgardenideas.com/terms
+https://www.homeandgardenideas.com/termsprivacy

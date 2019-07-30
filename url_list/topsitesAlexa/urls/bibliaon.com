@@ -1,0 +1,10 @@
+https://www.bibliaon.com/oracao
+https://www.bibliaon.com/amor_casal
+https://www.bibliaon.com/1_reis
+https://www.bibliaon.com/contato
+https://www.bibliaon.com/2_pedro
+https://www.bibliaon.com/mensagens_biblicas
+https://www.bibliaon.com/oseias
+https://www.bibliaon.com/
+https://www.bibliaon.com/genesis
+https://www.bibliaon.com/oracao_do_pai_nosso

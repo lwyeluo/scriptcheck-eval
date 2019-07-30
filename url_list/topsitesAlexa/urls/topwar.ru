@@ -1,0 +1,10 @@
+https://www.topwar.ru/armament
+https://topwar.ru/160283-zhizn-shukshina-kak-srazhenie-za-rodinu.html
+https://politobzor.net/199541-otsutstvie-sistemy-planirovaniya-gubit-moskvu.html?utm_source=topwar.ru
+https://topwar.ru/160167-stena-no-ne-sovsem-ot-pink-flojd.html
+https://topwar.ru/160042-tretja-neudacha-napoleona-bonaparta-za-dunaem-aspern-i-jessling-den-vtoroj-22-maja-1809-g.html
+http://forum.topwar.ru/
+https://finobzor.ru/82091-kitay-pokazyvaet-spad-proizvodstva-pervyy-itog-torgovoy-voyny.html?utm_source=topwar.ru
+https://finobzor.ru/82086-vozrozhdenie-krupnogo-mashinostroitelnogo-zavoda-vgtz-zagruzhen-zakazami.html?utm_source=topwar.ru
+https://www.topwar.ru/
+https://topwar.ru/159762-budni-flota-mjanmy.html

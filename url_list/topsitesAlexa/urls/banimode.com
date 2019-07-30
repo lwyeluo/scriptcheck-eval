@@ -1,0 +1,10 @@
+https://www.banimode.com/385/لوازم-اصلاح-مو
+https://www.banimode.com/
+http://www.banimode.com/93/کمربند
+https://www.banimode.com/Brand/271/بس
+https://www.banimode.com/Brand/211/هپی-ساکس
+https://www.banimode.com/39/کفش-زنانه
+https://www.banimode.com/509/مایو-بچگانه
+https://www.banimode.com/Brand/197/دیباسان
+https://www.banimode.com/Brand/42/نیوآ
+https://www.banimode.com/569/لوازم-حمام

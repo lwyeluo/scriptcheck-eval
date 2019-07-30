@@ -1,0 +1,1 @@
+https://www.stardewvalleywiki.com/

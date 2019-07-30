@@ -1,0 +1,10 @@
+https://www.technologyreview.com/artificial-intelligence
+https://www.technologyreview.com/listscompanies
+https://www.technologyreview.com/climate-change
+https://www.technologyreview.com/profilepatrick-howell-oneill
+https://www.technologyreview.com/smart-cities
+https://www.technologyreview.com/f613983faceapp-ai-could-use-your-face-not-for-face-recognition
+https://www.technologyreview.com/f/613988/toyota-plans-to-launch-its-first-full-evs-in-a-deal-with-chinas-byd/
+https://events.technologyreview.com/video/
+https://www.technologyreview.com/
+https://www.technologyreview.com/listsinnovators-under-352019

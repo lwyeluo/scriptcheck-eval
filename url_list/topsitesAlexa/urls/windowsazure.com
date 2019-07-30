@@ -1,0 +1,10 @@
+https://www.windowsazure.com/zh-cncase-studies
+https://www.windowsazure.com/zh-cnglobal-infrastructure
+https://www.windowsazure.com/
+https://www.windowsazure.com/zh-cnoverviewbuild-on-your-terms
+https://www.windowsazure.com/zh-cnget-started
+https://www.windowsazure.com/authsignin?loginProvider=Microsoft&redirectUri=%2Fzh-cn%2F
+https://www.windowsazure.com/zh-cnblogthanks-for-10-years-and-welcome-to-a-new-chapter-in-sql-innovation
+https://www.windowsazure.com/zh-cnoverviewhybrid-cloud
+https://www.windowsazure.com/zh-cnsolutionsdevops
+https://www.windowsazure.com/zh-cnsolutions

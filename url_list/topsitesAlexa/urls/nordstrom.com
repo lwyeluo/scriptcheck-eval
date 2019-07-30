@@ -1,0 +1,10 @@
+https://www.nordstrom.com/canniversary-sale-women?campaign=0719hpanni1&jid=oj010436-9767&cm_sp=merch-_-corp_9767_oj010436-_-hp_corp_p00_shop&
+https://www.nordstrom.com/cspace-accessories?origin=topnav&breadcrumb=Home%2fDesigner%2fSPACE%3a+Emerging+%26+Advanced+Designer%2fAccessories
+https://secure.nordstrom.com/shopping-bag
+https://shop.nordstrom.com/brands/christian-louboutin?origin=topnav
+https://shop.nordstrom.com/c/mens-designer?origin=topnav
+https://shop.nordstrom.com/c/bar-tools-accessories?origin=topnav
+https://www.nordstrom.com/
+https://shop.nordstrom.com/content/gifts?origin=topnav
+https://www.nordstrom.com/cnordstrom-restaurants?origin=footer&cm_sp=corp-_-corp_AboutUs-_-globalfooternav_restaurants
+https://www.nordstrom.com/cwomens-all-narrow-shoes?origin=topnav&breadcrumb=Home%2fWomen%2fShoes%2fNarrow+Shoes

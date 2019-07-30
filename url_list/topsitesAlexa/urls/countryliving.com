@@ -1,0 +1,10 @@
+https://www.countryliving.com/outdoor-decorating
+https://www.countryliving.com/healthy-recipes
+https://www.countryliving.com/food-drinks
+https://www.countryliving.com/lifea23012541halloween-puns-funny-cute
+https://www.countryliving.com/food-drinksg783picnic-recipes-0609
+https://www.countryliving.com/diy-craftsg22355935halloween-family-activities
+https://www.countryliving.com/home-designcolor
+https://www.countryliving.com/home-designdecorating-ideasg28335824best-adirondack-chair
+https://www.countryliving.com/
+https://www.countryliving.com/valentines-day

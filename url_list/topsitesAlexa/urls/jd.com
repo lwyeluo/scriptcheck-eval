@@ -1,0 +1,10 @@
+https://www.jd.com/wt.jd.com
+https://www.jd.com/anzhuang.jd.com
+https://www.jd.com/www.jd.comzxnewsa172d64e17755263.html
+https://www.jd.com/home.jd.com
+https://www.jd.com/www.jd.comzuozhe7378d855fa5f85d59a5.html
+https://www.jd.com/mvd.jd.com
+https://www.jd.com/channel.jd.compet.html
+https://www.jd.com/yp.jd.com737d9e88919b62184f3.html
+https://www.jd.com/plus.jd.comindex?flow_system=appicon&flow_entrance=appicon11&flow_channel=pc
+https://www.jd.com/

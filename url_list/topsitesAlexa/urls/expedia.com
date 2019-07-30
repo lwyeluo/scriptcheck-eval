@@ -1,0 +1,10 @@
+https://www.expedia.com/Lima-Hotels.d178277.Travel-Guide-Hotels
+https://www.expedia.com/Tahiti-Hotels.d180103.Travel-Guide-Hotels
+https://www.expedia.com/Suva-Hotels.d3302.Travel-Guide-Hotels
+https://www.expedia.com/?currency=ZAR&rfrr=Header.Currency.ZAR
+https://www.expedia.com/Jeddah-Hotels.d1680.Travel-Guide-Hotels
+https://www.expedia.com/Dublin-Hotels.d178256.Travel-Guide-Hotels
+https://www.expedia.com/?currency=CNY&rfrr=Header.Currency.CNY
+https://www.expedia.com/
+https://www.expedia.com/pinfo-otherweb-accessibility-policy
+https://www.expedia.com/Venice-Hotels.d179981.Travel-Guide-Hotels

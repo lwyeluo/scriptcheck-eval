@@ -1,0 +1,10 @@
+https://www.bostonglobe.com/metro20190719officer-files-motion-against-state-police-saying-hasn-admitted-him-academy-without-preconditionsSKloGQQWP8baq6vuOq2BVMstory.html
+https://www.bostonglobe.com/
+https://www.bostonglobe.com/lifestylenames20190719almost-years-after-diagnosis-nbc-anchor-natasha-verma-now-cancer-free-heading-new-statione6egx4Q3fcVv4JSfh0AaWNstory.html
+https://www.bostonglobe.com/metroglobelocal20190705cops-call-this-meals-wheels-stealMHCQYTo9oGWtG6Tx7PFEdLstory.html
+https://www.bostonglobe.com/newsmarijuana20190720legalizing-marijuana-canada-did-everything-differently-here-what-can-learnAPKpz25e0uaCxrKnOD3p0Kstory.html
+https://www.bostonglobe.com/business20190719activists-pledging-organize-boycott-wayfairCaFgJ4lkCmilyrzP8s9HiLstory.html
+https://www.bostonglobe.com/tools/help/terms-service?p1=BGFooter
+https://www.bostonglobe.com/sportstv-radio?p1=BGMenu_Sections
+https://www.bostonglobe.com/sportsredsox20190720here-why-rich-hill-wants-pitch-long-canSO30ynvlS1XuK23A4Fso1Kstory.html
+https://www.bostonglobe.com/lifestylecomics?p1=BGMenu_More

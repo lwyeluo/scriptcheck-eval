@@ -1,0 +1,10 @@
+https://www.songkick.com/designbrandmission
+https://www.songkick.com/metro_areas32258-singapore-singapore#popular-artists-in-metro-area
+https://www.songkick.com/artists26180-wu-yue-tian
+https://www.songkick.com/metro_areas32258-singapore-singapore?filters%5BmaxDate%5D=08%2F21%2F2019&filters%5BminDate%5D=07%2F21%2F2019#date-filter-form
+https://www.songkick.com/
+https://www.songkick.com/artists55905-kelly-jones
+https://www.songkick.com/artists407566-russ
+http://support.songkick.com/
+https://www.songkick.com/tourbox.songkick.com?utm_medium=referral&utm_source=songkick.com&utm_campaign=visitor
+https://www.songkick.com/artists9912349-lil-tecca

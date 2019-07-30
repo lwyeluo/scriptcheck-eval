@@ -1,0 +1,10 @@
+https://www.etihad.com/en-sg/plan-and-book/extra-legroom/
+https://www.etihad.com/en-sg/plan-and-book/book-etihad-express/
+https://www.etihad.com/en-sg/deals/newsletter/
+https://www.etihad.com/en-sg/experience-etihad/family-travel/onboard/
+https://www.etihad.com/
+https://www.etihad.com/en-sgexperience-etihadmobile-app
+https://www.etihad.com/en-sg/experience-etihad/on-board/inflight-entertainment/
+https://www.etihad.com/en-sg/before-you-fly/manage-my-booking/
+https://www.etihad.com/en-sg/plan-and-book/book-airport-transfers/
+https://www.etihad.com/en-sg/about-us/etihad-news/

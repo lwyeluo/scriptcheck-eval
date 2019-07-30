@@ -1,0 +1,10 @@
+https://www.dinamalar.com/www.dinamalar.comjosiyam_main.asp
+http://www.dinamalar.com/dmrbrowser_upgrade.asp
+https://www.dinamalar.com/www.dinamalar.comsplpart_detail.asp?id=69
+https://www.dinamalar.com/www.dinamalar.comsplpart_detail.asp?id=93
+https://www.dinamalar.com/
+https://www.dinamalar.com/www.dinamalar.comobituary.asp
+https://www.dinamalar.com/www.dinamalar.comliterary_pages.asp
+http://www.dinamalar.com/headlinesnew1.asp?year=2019&month=7&date=21&B1=Submit
+https://www.dinamalar.com/www.dinamalar.commatravai.asp
+https://www.dinamalar.com/news_detail.asp?id=2324992

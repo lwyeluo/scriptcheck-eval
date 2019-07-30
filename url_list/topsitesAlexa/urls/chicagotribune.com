@@ -1,0 +1,10 @@
+https://www.chicagotribune.com/real-estatect-re-gentefication-gentrifcation-logan-square-0707-20190702-fmia4wsxdbd2ndcznlx6bselky-story.html
+https://www.chicagotribune.com/consumer-reviewssns-bestreviews-weekend-deals-prime-day-is-over-but-these-deals-are-still-going-20190719-story.html
+https://www.chicagotribune.com/news/breaking/ct-chicago-violence-shootings-20190720-kyuzp7shpzb6fftzj4f4qv4jya-story.html
+https://www.chicagotribune.com/
+https://www.chicagotribune.com/real-estate/dream-homes/#nt=secondarynavbar
+https://www.chicagotribune.com/opinion/letters/#nt=secondarynavbar
+https://www.chicagotribune.com/chi-nara-schoenberg-staff.html
+https://www.chicagotribune.com/chinews-john-kass-20130507-staff.html#nt=byline
+https://www.chicagotribune.com/business/ct-biz-cesar-pelli-dies-chicag0-20190720-53o4rqyte5bjnlyuzdmvlo57yq-story.html
+https://www.chicagotribune.com/newsbreakingct-chicago-immigration-ohare-children-detained-20190718-zmd3663ndngvlj7n2frh3mpjxm-story.html

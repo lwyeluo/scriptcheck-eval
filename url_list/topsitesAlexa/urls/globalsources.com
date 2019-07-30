@@ -1,0 +1,10 @@
+https://www.globalsources.com/gsol/GeneralManager?&design=clean&language=en&action=GetInquireNowBasket&page=inquiry/InqForm&template=RFI&source=GSOLHP_AC&inquiry_path=InquireNow_AC_GSOLHP&inqflow_path=NLI&product_id=1169043418
+https://www.globalsources.com/
+https://www.globalsources.com/www.globalsources.comgsolIFood-Beverage-manufacturersb20000000038443000000185837-1.htm
+https://www.globalsources.com/www.globalsources.comgsolIIntegrated-Circuit-manufacturersb20000000038443000000157475-1.htm
+https://www.globalsources.com/manufacturers/LED-Bulb.html
+https://www.globalsources.com/www.globalsources.comgsolIGarden-Irrigation-manufacturersb20000000038443000000184646-1.htm
+https://www.globalsources.com/www.globalsources.comgsolITravel-Bag-manufacturersb20000000038443000000179108-1.htm
+https://www.globalsources.com/www.globalsources.comTRADESHOWHONGKONG-LIFESTYLESHOW-ABOUT.HTM
+https://www.globalsources.com/www.globalsources.comgsolIMens-Sunglass-manufacturersb20000000038443000000216144-1.htm
+https://www.globalsources.com/manufacturers/Tempered-Glass.html

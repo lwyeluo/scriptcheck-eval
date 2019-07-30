@@ -1,0 +1,10 @@
+https://www.postimg.cc/faq
+https://www.postimg.cc/contact
+https://www.postimg.cc/terms
+https://www.postimg.cc/
+https://www.postimg.cc/plugins
+https://www.postimg.cc/web
+https://www.postimg.cc/signup
+https://www.postimg.cc/privacy
+https://www.postimg.cc/login
+https://www.postimg.cc/about

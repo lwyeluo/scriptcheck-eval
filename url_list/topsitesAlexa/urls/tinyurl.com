@@ -1,0 +1,10 @@
+https://www.tinyurl.com/
+https://www.tinyurl.com/#link
+https://www.tinyurl.com/preview.php
+http://tinyurl.com/KindleWireless
+https://www.tinyurl.com/#toolbar
+https://www.tinyurl.com/#example
+https://tinyurl.com
+https://www.tinyurl.com/cdn-cgilemail-protection#c1b2b4b1b1aeb3b581b5a8afb8b4b3adefa2aeac
+https://www.tinyurl.com/#redirect
+https://www.tinyurl.com/#terms

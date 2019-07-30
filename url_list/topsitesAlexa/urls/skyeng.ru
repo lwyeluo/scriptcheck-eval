@@ -1,0 +1,10 @@
+https://school.skyeng.ru/partner/
+https://corporate.skyeng.ru?from=header
+https://www.skyeng.ru/gowords-android
+https://job.skyeng.ru/?ch=site&utm_source=skyeng.ru&utm_medium=newbutton
+https://www.skyeng.ru/articles
+https://job.skyeng.ru/?ch=site&utm_source=skyeng.ru&utm_medium=footer
+https://www.skyeng.ru/gowords-ios
+https://www.skyeng.ru/contacts
+https://www.skyeng.ru/
+http://school.skyeng.ru/gift/

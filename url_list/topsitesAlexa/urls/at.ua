@@ -1,0 +1,10 @@
+http://at.ua/privacy
+http://at.ua/details
+http://at.ua/terms
+http://narechena.at.ua/
+http://at.ua/abuse
+http://at.ua/storage
+http://at.ua/
+http://at.ua/register?pguid=4044853609
+http://at.ua/contact
+http://at.ua/register

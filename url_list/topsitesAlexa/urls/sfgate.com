@@ -1,0 +1,10 @@
+https://www.sfgate.com/whales-sharks
+https://www.sfgate.com/livingarticleThe-Star-Wars-furniture-you-ve-always-dreamed-14045806.php
+https://blog.sfgate.com/storystudio/2019/03/08/the-ease-of-planning-your-next-wine-tasting-experience-right-at-your-fingertips/?utm_source=sfgatehprail&utm_campaign=partnercollection&utm_medium=referral
+https://www.sfgate.com/businessarticleCarrots-for-carnivores-Don-t-expect-better-14109315.php
+https://www.sfgate.com/outdoorsarticle10-year-old-girl-climbs-Yosemite-El-Capitan-Nose-14015267.php
+https://www.sfgate.com/
+https://www.sfgate.com/newsworldarticleUS-concerned-over-China-s-interference-in-South-14111405.php
+https://www.sfgate.com/newssciencearticleHawaii-expands-power-to-block-telescope-protesters-14104237.php
+https://www.sfgate.com/bayareaarticlebest-hidden-gems-of-the-Bay-Area-suburbs-12178041.php
+https://www.sfgate.com/cannabis

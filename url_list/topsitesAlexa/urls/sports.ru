@@ -1,0 +1,10 @@
+https://www.sports.ru/tribunablogszhaglagdonks362450.html
+https://www.sports.ru/rolland-garros?from=menu&e=sub
+https://www.sports.ru/tribunaboxing?from=menu&e=sub
+https://www.sports.ru/tribunafootballgermany?from=menu&e=sub
+https://www.sports.ru/
+https://www.sports.ru/tribuna/blogs/toyota/?from=menu&e=main
+https://www.sports.ru/eden-hazard/?from=menu&e=sub
+https://www.sports.ru/tribuna/blogs/starfukker/2515078.html
+https://www.sports.ru/football/club/?from=menu&e=sub
+https://www.sports.ru/curling/?from=menu&e=main

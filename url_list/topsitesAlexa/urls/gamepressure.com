@@ -1,0 +1,10 @@
+https://games.gamepressure.com/games_encyclopedia.asp?PLA=1
+http://guides.gamepressure.com/
+https://guides.gamepressure.com/teamfight-tactics/
+https://www.gamepressure.com/games/wolfenstein-cyberpilot/zb53c0
+https://www.gamepressure.com/
+https://www.gamepressure.com/games/eve-online/z518e7
+http://guides.gamepressure.com/game_guides.asp?gameguides=mostpopulargameguides
+http://free2play.gamepressure.com/Supremacy1914/zcff?utm_source=gppromo_hotsg&utm_medium=gppromo_hotsg&utm_term=Supremacy1914&utm_campaign=Supremacy1914
+https://games.gamepressure.com/games_encyclopedia.asp?PLA=6
+https://www.gamepressure.com/games/marvel-ultimate-alliance-3-the-black-order/z155d3

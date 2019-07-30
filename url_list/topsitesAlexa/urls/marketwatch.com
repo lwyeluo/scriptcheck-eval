@@ -1,0 +1,10 @@
+https://www.marketwatch.com/articles/american-express-molson-coors-are-hiking-their-dividends-51563624004?mod=hp_markets
+https://www.marketwatch.com/story/suze-orman-says-you-need-5-million-to-retire-thats-nonsense-2019-01-15?mod=hp_retirement
+https://www.marketwatch.com/investing/stock/key
+https://www.marketwatch.com/story/ok-google-tell-us-why-your-earnings-growth-is-slowing-down-hello-anyone-there-2019-07-19?mod=hp_investing
+https://www.marketwatch.com/investing/research-tools
+https://www.marketwatch.com/column/trump-today
+https://www.marketwatch.com/story/the-economy-is-likely-to-get-a-mediocre-grade-on-its-next-report-card-but-dont-take-it-at-face-value-2019-07-20?mod=hp_econ
+https://www.marketwatch.com/
+https://www.marketwatch.com/story/jeffrey-epsteins-56-million-mansion-could-become-a-real-estate-nightmare-2019-07-12?mod=hp_realestate
+https://www.marketwatch.com/retirement/social-security

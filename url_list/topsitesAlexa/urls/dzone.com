@@ -1,0 +1,10 @@
+https://www.dzone.com/microservices-news-tutorials-toolslist
+https://www.dzone.com/enterprise-integration-training-tools-newslist
+https://www.dzone.com/articlesmicroservices-observability
+https://www.dzone.com/
+https://www.dzone.com/articlesrest-defining-a-resource
+https://www.dzone.com/java-jdk-development-tutorials-tools-news
+https://www.dzone.com/dzonestaffeditionsnew.html
+https://www.dzone.com/enterprise-integration-training-tools-news
+https://www.dzone.com/portals
+https://www.dzone.com/articlesadding-swagger-to-spring-boot

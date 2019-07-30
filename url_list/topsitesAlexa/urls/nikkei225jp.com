@@ -1,0 +1,10 @@
+https://www.nikkei225jp.com/www.dailyfx.comjapanesecalendar
+https://www.nikkei225jp.com/nikkei225jp.comdatanew.php
+https://www.nikkei225jp.com/info.php
+https://www.nikkei225jp.com/nasdaq
+https://www.nikkei225jp.com/nikkei225jp.com
+https://www.nikkei225jp.com/bitcoin
+https://www.nikkei225jp.com/nikkei225jp.combitcoin
+https://www.nikkei225jp.com/finance.yahoo.co.jp
+https://www.nikkei225jp.com/db.225225.jp
+https://www.nikkei225jp.com/

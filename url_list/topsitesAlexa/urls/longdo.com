@@ -1,0 +1,10 @@
+https://www.longdo.com/en
+https://www.longdo.com/
+https://www.longdo.com/userregister
+https://flood.longdo.com/
+https://www.longdo.com/th
+https://dict.longdo.com/portal/contribute
+https://map.longdo.com/files/tutorial-videos/addlocation/index.html
+https://www.longdo.com/userpassword
+https://dict.longdo.com/?page=popthai
+https://traffic.longdo.com/

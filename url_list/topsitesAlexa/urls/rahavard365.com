@@ -1,0 +1,10 @@
+http://www.rahavard365.com/closedassets
+http://www.rahavard365.com/mortgageloan
+http://get.rahavard365.com/win64
+http://www.rahavard365.com/widgets
+http://www.rahavard365.com/watchlist
+http://www.rahavard365.com/
+http://www.rahavard365.com/alerts
+http://www.rahavard365.com/fund
+http://www.rahavard365.com/indexes
+http://www.rahavard365.com/reports

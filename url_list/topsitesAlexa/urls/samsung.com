@@ -1,0 +1,10 @@
+https://www.samsung.com/sgsmartphonesgalaxy-s10
+https://www.samsung.com/sgaccessibility
+https://www.samsung.com/sgexplorephotographywith-galaxyshow-us-your-city
+https://www.samsung.com/sgair-conditioners
+https://www.samsung.com/sgsmartphonesgalaxy-s10buy
+https://www.samsung.com/sgtabletsgalaxy-tab-s5e
+https://www.samsung.com/sgexploreproductivitylifehow-to-get-out-of-a-creative-rut
+https://www.samsung.com/sgsmartphones
+https://www.samsung.com/globalir
+https://www.samsung.com/

@@ -1,0 +1,10 @@
+https://www.funnyjunk.com/abuse
+https://www.funnyjunk.com/channelnews
+https://www.funnyjunk.com/
+https://www.funnyjunk.com/Wow+my+heartLpLaMYc
+https://www.funnyjunk.com/channelwarframeEnchanted+awesome+straight+giraffeRGTaMET
+https://www.funnyjunk.com/channelanimemangaLanguoruncaMha
+https://www.funnyjunk.com/channelpolitics8+more+yearsBocaMOb
+https://www.funnyjunk.com/channelThisIsNotAChanne
+https://www.funnyjunk.com/reportspam
+https://www.funnyjunk.com/Is+god+actually+all+knowingNpMaMAc

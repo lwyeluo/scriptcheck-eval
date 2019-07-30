@@ -1,0 +1,10 @@
+http://corp.sogou.com/private.html
+http://fuwu.sogou.com/
+http://fankui.help.sogou.com/index.php/web/web/index/type/4
+http://123.sogou.com/
+https://www.sogou.com/
+http://dangjian.sogou.com
+http://gouwu.sogou.com/
+http://fanyi.sogou.com?fr=common_index_nav_pc
+http://baike.sogou.com/Home.v
+https://wenwen.sogou.com/?ch=websearch

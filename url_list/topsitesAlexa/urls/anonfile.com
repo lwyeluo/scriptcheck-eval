@@ -1,0 +1,10 @@
+https://anonfile.com/no
+https://anonfile.com/jp
+https://anonfile.com/de
+https://anonfile.com/fi
+https://anonfile.com/pl
+https://anonfile.com/kr
+https://anonfile.com/faq
+https://www.anonfile.com/
+https://anonfile.com/us
+https://anonfile.com/fr

@@ -1,0 +1,10 @@
+https://www.wps.com/eula
+https://www.wps.com/businesssmall-business
+https://blog.wps.com
+https://www.wps.com/
+https://www.wps.com/data-recovery
+https://www.wps.com/office
+https://help.wps.com
+https://www.wps.com/officeandroid
+https://www.wps.com/partners-links
+https://www.wps.com/pdf-to-word

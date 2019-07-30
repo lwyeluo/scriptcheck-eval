@@ -1,0 +1,10 @@
+https://www.carousell.com/categoriesluxury-20
+https://carousell.com/generic?api_path=%2Fsales%2Fpartner%2Fredirect%2Ftrack%2F&redirect_url=https%3A%2F%2Fcaro.sl%2F5or10COESPC
+https://www.carousell.com/linshuning21
+https://www.carousell.com/samplify-your-savings-this-july-9539
+https://www.carousell.com/pstriped-skirt-241131059?t-referrer_browse_type=homepage&t-referrer_source=homepage
+https://www.carousell.com/categoriesphotography-6
+https://www.carousell.com/categoriescar-accessories-109?t-source=homepage
+https://www.carousell.com/linsrl
+https://www.carousell.com/categoriestoys-games-12
+https://www.carousell.com/

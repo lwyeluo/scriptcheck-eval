@@ -1,0 +1,10 @@
+https://www.coupons.com/coupon-codes/homedepot.com/
+https://www.coupons.com/www.coupons.comcoupon-codesbestbuy.com
+https://www.coupons.com/brands
+https://www.coupons.com/coupon-codes/1800flowers.com/
+http://www.coupons.com/thegoodstuff/credit-card-offers/?pid=13306&nid=10&zid=iq37
+https://www.coupons.com/
+https://www.coupons.com/coupon-codes/?PLID=Media_COTHP&CRID=
+https://www.coupons.com/coupon-codes/?plid=carrier&crid=couponcodes
+https://www.coupons.com/coupon-codes/nordstrom.com/
+https://www.coupons.com/couponspet-care-coupons-102

@@ -1,0 +1,10 @@
+https://www.indeedassessments.com/assessments
+https://www.indeedassessments.com/companies
+https://www.indeedassessments.com/hire?hl=en&cc=US
+https://www.indeedassessments.com/assessmentseeoc
+https://www.indeedassessments.com/
+https://www.indeedassessments.com/assessmentsmodule-library
+https://www.indeedassessments.com/assessmentscase-study-regency
+https://www.indeedassessments.com/salaries
+https://www.indeedassessments.com/assessmentsfrequently-asked-questions-job-seeker
+https://www.indeedassessments.com/assessmentsdeveloper-api

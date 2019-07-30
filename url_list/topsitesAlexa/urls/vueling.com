@@ -1,0 +1,10 @@
+https://www.vueling.com/es/ciudades/vuelos-baratos-a-acoruna
+https://www.vueling.com/es/servicios-vueling/prepara-tu-viaje/documentacion-del-viaje
+https://www.vueling.com/it
+https://tickets.vueling.com/RecoveryPoints.aspx
+https://tickets.vueling.com/SearchWebCheckin.aspx?Culture=es-ES
+https://www.vueling.com/es/informacion-para-volar/prepara-tu-viaje
+https://www.vueling.com/gl
+https://tickets.vueling.com/HomePrivateArea.aspx
+https://www.vueling.com/es/informacion-para-volar/vuelos-y-aeropuertos
+https://www.vueling.com/

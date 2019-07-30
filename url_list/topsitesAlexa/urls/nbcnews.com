@@ -1,0 +1,10 @@
+https://www.nbcnews.com/news/us-news/murderer-released-after-being-deemed-too-old-kill-again-kills-n1031736
+https://www.nbcnews.com/news/sports
+https://www.nbcnews.com/politics/2020-election/latino-votes-could-swing-democratic-primary-candidates-know-it-n1031966
+https://www.nbcnews.com/politics/donald-trump/fbi-believed-trump-was-closely-involved-hush-money-scheme-unsealed-n1031246
+https://www.nbcnews.com/news/world/john-bolton-travels-japan-south-korea-amid-heated-trade-dispute-n1032056
+https://www.nbcnews.com/
+https://www.nbcnews.com/mach/science/apollo-11-anniversary-here-are-your-goals-big-or-small-ncna1031241
+https://www.nbcnews.com/pages/about-nbc-news-digital
+https://www.nbcnews.com/think/opinion/hulu-s-veronica-mars-season-4-hyperaware-reboot-fans-have-ncna1031941
+https://www.nbcnews.com/politics/white-house/trump-rebuffs-tehran-s-claim-u-s-did-not-destroy-n1031861

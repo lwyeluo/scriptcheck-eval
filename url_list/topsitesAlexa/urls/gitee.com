@@ -1,0 +1,10 @@
+https://www.gitee.com/
+https://blog.gitee.com/2019/05/29/svn-gitee-readonly-feature/?from=gitee-help-widget
+https://www.gitee.com/explorestarred?lang=Android
+https://www.gitee.com/all-about-git
+https://www.gitee.com/zoujingliwechat-php-sdk
+https://www.gitee.com/terms
+https://gitee.com/
+https://copycat.gitee.com/
+https://www.gitee.com/search
+https://www.gitee.com/signup

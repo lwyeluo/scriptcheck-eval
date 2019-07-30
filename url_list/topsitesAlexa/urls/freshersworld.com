@@ -1,0 +1,10 @@
+https://www.freshersworld.com/jobs/category/teaching-job-vacancies
+https://www.freshersworld.com/
+https://www.freshersworld.com/jobs/company/nuchange-informatics-647914
+https://www.freshersworld.com/jobs-in-hyderabad/999903705
+https://www.freshersworld.com/jobs/category/finance-job-vacancies
+https://www.freshersworld.com/oracle-training-institutes/4343020035
+https://www.freshersworld.com/jobs-in-bangalore/9999016065
+https://www.freshersworld.com/computer-science-engineering-cse-jobs/2222149
+https://www.freshersworld.com/oracle-jobs/3535013
+https://www.freshersworld.com/jobs-in-orissa/9999025

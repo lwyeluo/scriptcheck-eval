@@ -1,0 +1,10 @@
+https://www.2gis.ru/moscowsearch%D0%9F%D0%BE%D0%B5%D1%81%D1%82%D1%8C
+https://www.2gis.ru/moscowsearch%D0%9A%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B0
+https://www.2gis.ru/beta.2gis.rumoscow?utm_source=onlinev4&utm_medium=dashboard&utm_campaign=promo-v5
+https://www.2gis.ru/www.openstreetmap.org
+https://www.2gis.ru/moscowsearch%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B
+https://2gis.ru/moscow/market?utm_source=2gis&utm_medium=homepage&utm_campaign=homepage_dashboard
+https://www.2gis.ru/moscowsearch%D0%90%D0%BF%D1%82%D0%B5%D0%BA%D0%B8
+https://www.2gis.ru/
+https://www.2gis.ru/moscowsearch%D0%9C%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%20%D1%86%D0%B5%D0%BD%D1%82%D1%80
+https://www.2gis.ru/moscowsearch%D0%90%D0%B2%D1%82%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81

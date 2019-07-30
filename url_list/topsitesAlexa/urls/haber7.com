@@ -1,0 +1,10 @@
+http://spor.haber7.com/super-lig/haber/2880076-yeni-yildizinin-golu-basaksehire-yetmedi
+http://otomobil.haber7.com/yeni-modeller
+http://ekonomi.haber7.com/kobi/haber/2878822-dunyayi-gezdi-ama-huzuru-memleketinde-buldu
+http://ekonomi.haber7.com
+http://piyasa.haber7.com/altin
+http://www.haber7.com/dunya/haber/2880060-abd-kongresinde-kotu-ruhlari-kovma-seansi
+http://www.haber7.com/egitim/haber/2879670-ogg-sinav-sonuclari-aciklandi-82-donem-ogg-sinav-sonucu-sorgulama
+http://ekonomi.haber7.com/kobi/haber/2876149-buyuk-heyecan-merkez-haline-gelecek
+http://haber7.com/
+http://www.haber7.com/alinti-yazarlar

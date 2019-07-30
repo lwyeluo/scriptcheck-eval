@@ -1,0 +1,10 @@
+https://www.whosampled.com/
+https://www.whosampled.com/metadata#customers
+https://www.whosampled.com/news20190529competition-win-a-trio-of-salsoul-disco-vinyl-reissues-courtesy-of-be-with-records
+https://www.whosampled.com/copyright
+https://www.whosampled.com/DJ-Fresh-(The-Worlds-Freshest)
+https://www.whosampled.com/genreClassical
+https://www.whosampled.com/browse
+https://www.whosampled.com/jobs
+https://www.whosampled.com/albumPete-RockReturn-Of-The-Sp1200
+https://www.whosampled.com/YG%27z

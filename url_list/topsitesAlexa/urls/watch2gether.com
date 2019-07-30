@@ -1,0 +1,10 @@
+https://www.watch2gether.com/authsign_up
+https://community.watch2gether.com/t/impressum-imprint/594
+https://www.watch2gether.com/
+https://community.watch2gether.com/t/terms-of-service-english/597
+https://www.watch2gether.com/authsign_in
+https://community.watch2gether.com/t/data-privacy-policy-english/591
+https://www.watch2gether.com/pagestools
+https://www.watch2gether.com/pagesplus
+https://community.watch2gether.com/t/how-to-use-watch2gether/736
+https://community.watch2gether.com

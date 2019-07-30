@@ -1,0 +1,10 @@
+https://answers.informer.com
+https://www.informer.com/blog/2019-05-08/droid-informer-client-updated/
+https://software.informer.com
+https://www.informer.com/blog/
+https://macdownload.informer.com
+http://punbb.informer.com
+https://www.informer.com
+https://www.informer.com/
+https://feed.informer.com
+https://formac.informer.com

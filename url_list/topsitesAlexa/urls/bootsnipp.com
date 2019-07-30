@@ -1,0 +1,10 @@
+http://bootsnipp.com?page=7
+https://www.bootsnipp.com/
+https://bootsnipp.com/tags/3.1.0
+https://bootsnipp.com/snippets/nNoMz
+https://bootsnipp.com/tags/2.3.2
+https://bootsnipp.com/snippets/VvlPR
+https://bootsnipp.com/snippets/3522X
+https://bootsnipp.com/forum/bootstrap
+http://bootsnipp.com?page=8
+https://www.bootsnipp.com/purecss

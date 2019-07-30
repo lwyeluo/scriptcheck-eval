@@ -1,0 +1,10 @@
+https://style.nv.ua/znamenitosti.html
+https://style.nv.ua/food-drink.html
+https://nv.ua/world/geopolitics.html
+https://style.nv.ua/blogs/nevozmozhno-zabyt-pochemu-nekotorye-dela-luchshe-ne-zavershat-50033064.html
+https://nv.ua/ukraine/events/intervyu-s-andreem-kobolevym-smotret-onlayn-50030892.html
+https://nv.ua/opinion/vybory-2019-o-russkom-mire-i-populistah-50033047.html
+https://nv.ua/ukraine/vremya-peremen-s-nv.html?utm_source=nv.ua&utm_medium=1&utm_campaign=ukrainevremya-peremen-s-nv.html
+https://nv.ua/ukraine/politics/v-doneckoy-oblasti-policiya-vyyavila-uzhe-podpisannye-protokoly-golosovaniya-50033153.html
+https://nv.ua/world/countries/kndr-v-licah-zhenshchiny-kim-chen-yna-50032554.html
+https://www.nv.ua/

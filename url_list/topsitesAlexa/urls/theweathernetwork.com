@@ -1,0 +1,10 @@
+https://www.theweathernetwork.com/mapsus-highway-forecast
+https://www.theweathernetwork.com/ca/news/article/how-weather-technology-has-changed-forecasting-in-30-years?utm_campaign=30ansTWNapril19&utm_medium=Web&utm_source=Pbox_300X250&utm_content=TWN-Gen
+https://www.theweathernetwork.com/
+https://www.theweathernetwork.com/caabout-usprivacy-policy
+https://www.theweathernetwork.com/mapscurrent-weather
+https://www.theweathernetwork.com/forecastsprecipitationlist
+https://www.theweathernetwork.com/weather-infoout-of-this-world
+https://www.theweathernetwork.com/hourly-weather-forecastlist
+https://www.theweathernetwork.com/forecastsair-qualitylist
+https://www.theweathernetwork.com/videosgallery

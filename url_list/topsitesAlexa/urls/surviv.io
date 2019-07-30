@@ -1,0 +1,10 @@
+https://www.amazon.com/s?rh=n%3A7141123011%2Cp_4%3Asurviv.io&ref=w_bl_sl_s_ap_web_7141123011
+http://surviv.io/stats/?type=most_kills&team=squad&t=daily&mapId=1
+https://www.amazon.com/s?rh=n%3A7141123011%2Cp_4%3Asurviv.io&ref=w_bl_sl_s_ap_web_7141123011gpcustomer-preferencesselect-languageref=topnav_lang?preferencesReturnUrl=%2F
+https://www.amazon.com/s?rh=n%3A7141123011%2Cp_4%3Asurviv.io&ref=w_bl_sl_s_ap_web_7141123011gphelpcustomeraccessibility
+https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fs%3Fref%3Dw_bl_sl_s_ap_web_7141123011%26rh%3Dn%253A7141123011%252Cp_4%253Asurviv.io%26ref_%3Dnav_ya_signin%26_encoding%3DUTF8&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&
+https://www.amazon.com/s?rh=n%3A7141123011%2Cp_4%3Asurviv.io&ref=w_bl_sl_s_ap_web_7141123011gpyourstorehome?ref_=nav_cs_ys
+https://www.surviv.io/stats
+https://www.amazon.com/s?rh=n%3A7141123011%2Cp_4%3Asurviv.io&ref=w_bl_sl_s_ap_web_7141123011gpcustomer-preferencesselect-currencyref=footer_cop?ie=UTF8&preferencesReturnUrl=%2F
+http://surviv.io/stats/?type=most_kills&team=solo&t=weekly&mapId=2
+https://www.surviv.io/

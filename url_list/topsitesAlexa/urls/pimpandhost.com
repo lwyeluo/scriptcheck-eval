@@ -1,0 +1,10 @@
+https://www.pimpandhost.com/contact
+https://www.pimpandhost.com/sitecams
+https://www.pimpandhost.com/
+https://www.pimpandhost.com/signup
+https://www.pimpandhost.com/postupdate
+https://www.pimpandhost.com/sitecontact?adv
+https://www.pimpandhost.com/forum
+https://www.pimpandhost.com/login
+https://www.pimpandhost.com/plugins
+https://www.pimpandhost.com/site#

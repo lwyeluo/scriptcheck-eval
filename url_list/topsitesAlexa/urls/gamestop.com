@@ -1,0 +1,10 @@
+https://www.gamestop.com/collectionfortnite
+https://www.gamestop.com/stores
+https://www.gamestop.com/browse/ps-vita/accessories/batteries-chargers?nav=131af-a5
+https://www.gamestop.com/browse/nintendo-3ds/accessories?nav=28-xu0,1358-1a2
+https://www.gamestop.com/3rd-party-gift-cardsnintendo-eshop-10-ecard138750?loc=recordlist
+https://www.gamestop.com/browse/games/playstation-3?nav=28-xu0,138d-ffff2418-50
+https://www.gamestop.com/
+https://www.gamestop.com/browse/playstation-4/accessories?nav=28-xu0,131dc-50-58
+https://www.gamestop.com/browse/playstation-3/fighting?nav=138d-69
+https://www.gamestop.com/browse/xbox-360/action?nav=1385-56

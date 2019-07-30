@@ -1,0 +1,10 @@
+https://www.itch.io/
+https://www.itch.io/developers
+https://www.itch.io/gimportantlittlegamescodemancer-ch-1add-to-collection?source=home
+https://www.itch.io/gamestag-survival
+https://blendogames.itch.io/quadrilateralcowboy
+https://direkris.itch.io/you-are-jeff-bezos
+https://www.itch.io/gamestag-zombies
+https://www.itch.io/docslegalterms
+https://witherstudios.itch.io/immure
+https://www.itch.io/gamesprice-1500

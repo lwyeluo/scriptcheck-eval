@@ -1,0 +1,10 @@
+https://navient.com/
+https://news.navient.com
+https://www.navient.com/new-to-navient
+https://www.navient.com/money-and-financessuccess-stories
+https://news.navient.com/
+https://www.navient.com/contact-us
+https://www.navient.com/in-repaymenttaxes-and-interest
+https://www.navient.com/
+https://www.navient.com/sitemap
+https://www.navient.com/military-benefits

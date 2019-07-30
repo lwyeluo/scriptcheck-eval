@@ -1,0 +1,10 @@
+https://www.99.com/
+https://wjzd.99.com/
+https://reg.99.com/NDUser_Register_New.aspx
+https://my.99.com
+https://zf.99.com
+https://cos.99.com
+https://zf.99.com/index/
+https://t.99.com/
+https://my.99.com/
+https://shop.99.com/Pay/Index.html

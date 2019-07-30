@@ -1,0 +1,10 @@
+https://news.hi.ru/sport/139218
+https://news.hi.ru/cosmos
+https://news.hi.ru
+https://news.hi.ru/in-the-world/139201
+http://id.hi.ru/nmain/oauth/twitter.php
+https://news.hi.ru/auto/139214
+https://news.hi.ru/hi-tech/139194
+https://news.hi.ru/hi-tech/139193
+http://corp.hi.ru/contact
+http://www.hi.ru/

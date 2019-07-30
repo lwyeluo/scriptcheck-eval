@@ -1,0 +1,10 @@
+https://www.gucci.com/inten
+https://www.gucci.com/intencabeautymakeuplipstick-c-beauty-lips
+https://www.gucci.com/intes
+https://www.gucci.com/intencachildrenboysboys-special-occasion-c-boys-special-occasion
+https://www.gucci.com/intencawomenwomens-ready-to-wear-c-women-readytowear
+https://www.gucci.com/intencadecorchairs-armchairs-c-decor-chairs
+https://www.gucci.com/intencawomenwomens-ready-to-wearwomens-pants-shorts-c-women-readytowear-pants-and-shorts
+https://www.gucci.com/intenstcareers-landing
+https://www.gucci.com/intenstabout-gucci
+https://www.gucci.com/

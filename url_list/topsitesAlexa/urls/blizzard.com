@@ -1,0 +1,10 @@
+https://www.blizzard.com/pt-br/
+https://news.blizzard.com/zh-tw/news/23053770
+https://support.blizzard.com/
+https://www.blizzard.com/company/about/
+https://www.blizzard.com/ja-jp/
+https://careers.blizzard.com?blzcmp=hp_explorecta_careers
+https://www.blizzard.com/zh-tw/
+https://www.blizzard.com/legal/b04001c4-dc81-480d-a475-5e276e241e4f/
+https://www.blizzard.com/zh-tw/legal/5228219c-6411-4f2f-a45b-9399069538ea/
+https://www.blizzard.com/

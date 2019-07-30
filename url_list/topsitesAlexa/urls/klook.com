@@ -1,0 +1,10 @@
+https://www.klook.com/en-SG
+https://www.klook.com/en-SGactivity127-gardens-by-the-bay-singapore?krt=r10&krid=dd818c25-79b5-41ed-5b00-91728d199534
+https://www.klook.com/en-SG/europe-rail/
+https://www.klook.com/airasiabig
+https://www.klook.com/en-SGcity29-osaka
+https://www.klook.com/en-SGcity2-hong-kong
+https://www.klook.com/en-SGactivity10840-imperial-hot-spring-resort-experience-zhuhai-guangdong?krt=r11&krid=85451f26-74d7-4478-6552-905486fc6e91
+https://www.klook.com/en-SGfaq?ask_klook
+https://www.klook.com/en-SGcookiepolicy
+https://www.klook.com/

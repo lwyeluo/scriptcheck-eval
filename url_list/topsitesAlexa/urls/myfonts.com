@@ -1,0 +1,10 @@
+https://www.myfonts.com/fontscraft-supply-coroad-race-extra
+https://www.myfonts.com/infolegal
+https://www.myfonts.com/hotnewfonts
+https://www.myfonts.com/WhatTheFont
+https://www.myfonts.com/myquotes
+https://www.myfonts.com/myfavorites
+https://www.myfonts.com/WhatTheFontmobile
+https://www.myfonts.com/foundryboxtube-labs
+https://www.myfonts.com/searchtag%3Adisplayfonts?sort=sales
+https://www.myfonts.com/

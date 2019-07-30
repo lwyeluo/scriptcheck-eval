@@ -1,0 +1,10 @@
+https://www.kohls.com/catalogluggage-suitcases.jsp?CN=Department:Luggage%20%26%20Suitcases&icid=hpmf-promoofferLUGGAGE50
+https://www.kohls.com/featureprivacy-policy.jsp#calirights
+https://www.kohls.com/catalogkids-backpacks-accessories.jsp?CN=AgeAppropriate:Kids+Product:Backpacks+Department:Accessories&BST=3692545&icid=hpmf-kidsbackpacks
+https://www.kohls.com/catalogmens-tops-tees-tops-clothing.jsp?CN=Gender:Teen%20Guys+Gender:Mens+Product:Tops%20%26%20Tees+Category:Tops+Department:Clothing+MerchPricing:Under%20%2420+MerchPricing:%2420.00&BL=y&BST=3520414&icid=hpmf-offer20underteesmenym
+https://www.kohls.com/ecom/PrintPass/HOMESAVE10/20190712-webstore-homesave10-print-pass-9320.html
+https://www.kohls.com/featureabout-our-ads.jsp
+https://www.kohls.com/
+https://cs.kohls.com/app/answers/help_topic/c/22,4
+https://www.kohls.com/catalogmens-jeans-bottoms-clothing.jsp?CN=Gender:Mens+Product:Jeans+Category:Bottoms+Department:Clothing&BST=3690033:2547912&icid=hpmf-ymjeans
+https://www.kohls.com/catalogpedometers-fitness-trackers-electronics-accessories-electronics.jsp?CN=Category:Electronics%20Accessories+Department:Electronics&BST=3296179&icid=hpmf-fitnesstrackers

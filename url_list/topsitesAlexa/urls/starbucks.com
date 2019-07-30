@@ -1,0 +1,10 @@
+https://www.starbucks.com/coffeeespressolatte-beverages
+https://www.starbucks.com/about-us/company-information/online-policies/privacy-policy
+https://app.starbucks.com/
+https://www.starbucks.com/responsibilitycommunitydiversity-and-inclusion
+https://www.starbucks.com/
+https://stories.starbucks.com/
+https://www.starbucks.com/coffeehow-to-brewcoffee-brewer
+https://www.starbucks.com/menufoodyogurt-and-fruit
+https://www.starbucks.com/responsibilitycommunitystarbucks-foundation
+https://www.starbucks.com/responsibilitysourcingstore-products

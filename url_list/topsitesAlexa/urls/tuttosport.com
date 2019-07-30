@@ -1,0 +1,10 @@
+https://www.tuttosport.com/news/calcio/serie-a/inter/2019/07/20-59126810/conte_inter_la_base_c_e_ma_bisogna_migliorare_tanto_/?a=2
+https://www.tuttosport.com/widget/utility/2015/11/24-6139847/redazione/
+https://www.tuttosport.com/news/calcio/golden-boy/2019/07/15-58934647/golden_boy_da_100_a_80_ecco_la_lista_aggiornata_-_vota/?a=3
+https://www.tuttosport.com/basket/
+https://www.tuttosport.com/news/edicola/2019/07/20-59141391/juve_la_prima_da_sarri_toro_dopo_il_debrecen_il_mercato_mondiali_di_nuoto_laddio_dargento_della_tigre_manila/?a=3
+https://www.tuttosport.com/
+https://www.tuttosport.com/cookie_policy.html
+https://www.tuttosport.com/livematchcentreincontro.html?competition=638&match=1053215
+https://www.tuttosport.com/livematchcentreincontro.html?competition=638&match=1053214
+https://www.tuttosport.com/news/calcio/serie-a/juventus/2019/07/20-59109450/sarri_pogba_un_giocatore_che_mi_piace_ma_dello_united/

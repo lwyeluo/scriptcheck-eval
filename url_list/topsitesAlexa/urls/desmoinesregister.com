@@ -1,0 +1,10 @@
+https://www.desmoinesregister.com/picture-gallerylifeliving-wellragbrai20180718photos-pies-on-ragbrai36963285
+https://www.desmoinesregister.com/storynewsinvestigations20190718iowa-day-care-licensing-violations-15-people-have-been-arrested-safety-childcare-licensed-regulation1699287001
+https://www.desmoinesregister.com/sectionglobalwashington
+https://account.desmoinesregister.com/pay
+http://static.desmoinesregister.com/rss/
+https://www.desmoinesregister.com/communitieswest-des-moines
+https://www.desmoinesregister.com/opinionletters-two-cents
+https://www.desmoinesregister.com/businessdevelopment
+https://www.desmoinesregister.com/iowa-caucusesopinions-columns
+https://www.desmoinesregister.com/

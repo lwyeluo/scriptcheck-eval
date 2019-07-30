@@ -1,0 +1,10 @@
+https://www.sherdog.com/syndication.php
+http://www.sherdog.com/fighter/Ode-Osbourne-137969
+http://www.sherdog.com/news/rankings/Sherdogs-WMMA-PoundforPound-Top-10-158471
+https://www.sherdog.com/newsnewsBoxing-Manny-Pacquiao-vs-Keith-Thurman-PlaybyPlay-Results-Round-Scoring-158679
+https://www.sherdog.com/
+https://www.sherdog.com/newsrankings1Sherdogs-Official-Mixed-Martial-Arts-Rankings-158473
+http://www.sherdog.com/fighter/Armando-Villarreal-141205
+https://www.sherdog.com/eventsBellator-228-Pitbull-vs-Archuleta-78613
+http://www.sherdog.com/tag/year-end-awards
+https://www.sherdog.com/videosrecentKlidson-Abreu-UFC-on-ESPN-4-PostFight-Scrum-13875

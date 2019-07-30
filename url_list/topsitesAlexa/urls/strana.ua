@@ -1,0 +1,1 @@
+https://www.strana.ua/

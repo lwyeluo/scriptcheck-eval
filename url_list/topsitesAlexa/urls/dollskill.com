@@ -1,0 +1,10 @@
+https://www.dollskill.com/clothingtopssweaters-cardigans.html
+https://www.dollskill.com/
+https://www.dollskill.com/payments-and-ordering
+https://www.dollskill.com/directory/currency/switch/currency/HKD/
+https://www.dollskill.com/whats-new.html?p_=1&c_=35-8&i_=our_favs&s_=http:www.dollskill.comaccessories.html
+https://www.dollskill.com/clothingbottoms.html
+https://www.dollskill.com/directory/currency/switch/currency/JPY/
+https://www.dollskill.com/lookzin-dust-we-trustburner-face-jewels-makeup.html
+https://www.dollskill.com/wait-for-it-la
+https://www.dollskill.com/makeupface-jewels-and-body-paintglitter-sparkle.html

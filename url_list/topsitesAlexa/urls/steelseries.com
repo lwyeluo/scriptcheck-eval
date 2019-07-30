@@ -1,0 +1,10 @@
+https://www.steelseries.com/gaming-headsets#nintendo-switch
+https://www.steelseries.com/gaming-controllers
+https://www.steelseries.com/gaming-products
+https://www.steelseries.com/about
+https://www.steelseries.com/affiliate-program
+https://www.steelseries.com/gaming-headsets#playstation
+http://careers.steelseries.com/
+https://www.steelseries.com/gaming-accessories
+https://www.steelseries.com/membership
+https://www.steelseries.com/

@@ -1,0 +1,10 @@
+https://www.imooc.com/coding.imooc.comclass342.html?mc_marking=c5a3de541d57c8b0f8adb42c41479892&mc_channel=syb11
+https://www.imooc.com/www.imooc.comlearn1151?mc_marking=9d0c45da6adcaa709d10e10d8ebcddc6&mc_channel=syb17
+https://www.imooc.com/class.imooc.comsc53?mc_marking=7bc8ba653c7861f689001ad9138cab9d&mc_channel=syb26
+https://www.imooc.com/read
+https://www.imooc.com/courselist?c=xntest
+https://www.imooc.com/class.imooc.comsc30?mc_marking=605daf8603c59b1522e51bf12ad7700d&mc_channel=syb28
+https://www.imooc.com/courselist?c=aws
+https://www.imooc.com/www.imooc.comlearn988?mc_marking=dce36388dbfc942a1d01880e63a59e4c&mc_channel=qianduankaifa2
+https://www.imooc.com/courselist?c=zjj
+https://www.imooc.com/

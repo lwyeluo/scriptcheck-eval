@@ -1,0 +1,10 @@
+https://www.genbeta.com/actualidadtviso-cierra-plataforma-streaming-que-nacio-series-ly-no-ha-logrado-sacar-su-idea-adelante
+https://www.genbeta.com/navegadores/cuidado-estas-populares-extensiones-chrome-firefox-recopilan-venden-tus-datos
+https://www.genbeta.com/
+https://www.genbeta.com/redes-sociales-y-comunidadescapture-especie-reddit-vida-real-que-utiliza-tu-camara-para-conectarte-grupos-personas
+https://www.genbeta.com/www.xataka.com?utm_source=genbeta&utm_medium=network&utm_campaign=favicons
+https://www.genbeta.com/redes-sociales-y-comunidadesyoutube-retira-ocho-listas-reproduccion-tematica-erotica-denunciadas-sexualizar-videos-menores
+https://www.genbeta.com/www.diariodelviajero.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer
+https://www.genbeta.com/actualidad/vision-netflix-futuro-streaming-incluye-suscripcion-exclusiva-para-moviles
+https://www.genbeta.com/actualidadaprobado-impuesto-digital-global-google-facebook-apple-deberan-pagar-impuestos-todos-paises-donde-ganen-dinero
+https://www.genbeta.com/categoriaweb

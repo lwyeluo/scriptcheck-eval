@@ -1,0 +1,10 @@
+https://www.verystream.com/signup
+https://www.verystream.com/affiliate
+https://www.verystream.com/copyright
+https://www.verystream.com/api
+https://www.verystream.com/news
+https://www.verystream.com/contact
+https://www.verystream.com/about
+https://www.verystream.com/faq
+https://www.verystream.com/tos
+https://www.verystream.com/

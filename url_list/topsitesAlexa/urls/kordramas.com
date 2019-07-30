@@ -1,0 +1,10 @@
+https://kordramas.com/tag/hotel-del-luna/
+https://kordramas.com/panduan-download-tutorial-cara-download/
+https://kordramas.com/hotel-del-luna-subtitle-indonesia/
+https://kordramas.com/tag/mafia-game-in-prison/
+https://kordramas.com/drama-korea-class-of-lies-episode-1-subtitle-indonesia/
+https://kordramas.com/page/2/
+https://kordramas.com/variety-show/
+https://kordramas.com/the-law-of-the-jungle-in-myanmar-and-myeik-episode-373-subtitle-indonesia/
+https://www.kordramas.com/mellowads.comnetworkspaceB8D0FD7B059A
+https://www.kordramas.com/

@@ -1,0 +1,10 @@
+https://community.serif.com
+https://legacy.serif.com
+https://forum.affinity.serif.com
+https://affinity.serif.com/privacy/
+https://www.serif.com/zh-cn
+https://affinity.serif.com/contact/
+https://www.serif.com/
+https://store.serif.com/buy/photoplus/
+https://www.serif.com/zh-cnlocale
+https://affinity.serif.com

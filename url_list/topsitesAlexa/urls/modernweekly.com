@@ -1,0 +1,10 @@
+http://style.modernweekly.com/style
+http://life.modernweekly.com/travel
+http://www.modernweekly.com/culture30834
+http://www.modernweekly.com/street30858
+http://www.modernweekly.com/
+http://business.modernweekly.com/lead
+http://www.modernweekly.com/newstv30864
+http://style.modernweekly.com/fashion
+http://www.modernweekly.com/star30888
+http://tv.modernweekly.com/styletv

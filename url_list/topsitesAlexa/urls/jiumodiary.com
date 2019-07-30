@@ -1,0 +1,10 @@
+http://service.weibo.com/share/share.php?url=http%3A%2F%2Fwww.jiumodiary.com&searchPic=true
+http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=http%3A%2F%2Fwww.jiumodiary.com
+http://www.douban.com/recommend/?url=http%3A%2F%2Fwww.jiumodiary.com
+https://app.yinxiang.com/clip.action?url=http%3A%2F%2Fwww.jiumodiary.comForgotPassword.action
+https://app.yinxiang.com/clip.action?url=http%3A%2F%2Fwww.jiumodiary.comaboutlearn_more
+http://service.weibo.com/share/share.php?url=http%3A%2F%2Fwww.jiumodiary.com&searchPic=trueweibo.comlogin
+https://www.jiumodiary.com/
+https://app.yinxiang.com/clip.action?url=http%3A%2F%2Fwww.jiumodiary.com
+http://service.weibo.com/share/share.php?url=http%3A%2F%2Fwww.jiumodiary.com&searchPic=trueweibo.com
+http://weibo.com/signup/signup.php?from=zw&vsrc=app_sharepop&backurl=http%3A%2F%2Fservice.t.sina.com.cn%2Fshare%2Fshare.php%3Furl%3Dhttp%253A%252F%252Fwww.jiumodiary.com%26searchPic%3Dtrue&showlogo=0&appsrc=cUcI1A

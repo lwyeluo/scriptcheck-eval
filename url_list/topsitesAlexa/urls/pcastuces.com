@@ -1,0 +1,10 @@
+https://forum.pcastuces.com/maj_windows_defender-f13s14659.htm
+https://prix.pcastuces.com/bonplan-cle_usb_30_kingston_datatraveler_50_64_go_a_11virgule80_euros-11850.htm
+https://www.pcastuces.com/pratique/multimedia/wmp/default.htm
+https://www.pcastuces.com/pratique/windows/supprimer_recalcitrant_unlocker/page1.htm
+https://www.pcastuces.com/pratique/internet/twitter/default.htm
+https://www.pcastuces.com/devenir.htm
+https://www.pcastuces.com/newsletterlettresdefault.htm
+https://www.pcastuces.com/
+https://www.pcastuces.com/pratiquedossiers.asp
+https://prix.pcastuces.com/bonsplans.rss

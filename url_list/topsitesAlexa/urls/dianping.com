@@ -1,0 +1,10 @@
+https://www.dianping.com/www.dianping.comshop15082118
+http://www.dianping.com/singapore/ch30/g136
+http://www.dianping.com/singapore/hotel/g3020
+https://www.dianping.com/www.dianping.comsingaporech10g115
+https://www.dianping.com/
+https://www.dianping.com/www.dianping.comwuhan
+https://www.dianping.com/www.dianping.comsingaporefood
+http://www.dianping.com/search/keyword/2311/50_%E6%8A%97%E8%A1%B0%E8%80%81
+http://www.dianping.com/singapore/ch25/g33879
+http://www.dianping.com/singapore/hotel/g33830n10

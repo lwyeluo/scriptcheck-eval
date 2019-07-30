@@ -1,0 +1,10 @@
+http://www.ip138.com/jb.htm
+http://www.ip138.com/lingdai
+http://www.ip138.com/post/yzbm/yzbm.htm
+http://www.ip138.com/zhengze
+http://www.ip138.com/
+http://www.ip138.com/ditie
+http://www.ip138.com/utf8
+http://www.ip138.com/sj/
+http://www.ip138.com/gb.htm
+http://www.ip138.com/sanwei

@@ -1,0 +1,10 @@
+http://www.netsuite.com/portalsolutionssmallbusiness.shtml?inid=hp-smallbusiness
+http://oracle.netsuite.com/southafrica-Home
+http://www.netsuite.com/portalplatform.shtml
+http://www.netsuite.com/
+http://www.netsuite.com/portaldevelopersoverview.shtml
+http://www.netsuite.com/portalpartnersaccountant-program.shtml
+http://www.netsuite.com/portalproductserp.shtml
+http://oracle.netsuite.com/UAE-Home
+https://grow.netsuite.com/LP=4460?regsource=EM&nsCampaignCode=Email_Horiz_GartnerQuadrant_0519&elqCampaignName=Email_Horiz_GartnerQuadrant_0519&elqCampaignId=2399?inid=hp-gartnerQuadrant
+http://www.netsuite.com/portalresourcedemo.shtml

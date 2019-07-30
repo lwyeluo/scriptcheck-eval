@@ -1,0 +1,10 @@
+https://www.uniregistry.com/account-signup
+https://www.uniregistry.com/pricing
+https://www.uniregistry.com/domain-brokerage
+https://www.uniregistry.com/security#privacy
+https://www.uniregistry.com/domains
+https://www.uniregistry.com/why-premium-names
+https://www.uniregistry.com/legal
+https://www.uniregistry.com/domain-parking
+https://www.uniregistry.com/
+https://www.uniregistry.com/whois

@@ -1,0 +1,10 @@
+http://www.xinhuanet.com/photo/2019-07/21/c_1124779523.htm
+http://www.xinhuanet.com/local/2019-07/20/c_1124777273.htm
+http://www.xinhuanet.com/ent/2019-07/21/c_1124778504.htm
+http://www.xinhuanet.com/
+http://imgs.xinhuanet.com/icon/home/asianet.htm
+http://www.xinhuanet.com/photo/2019-07/21/c_1124779557.htm
+http://www.xinhuanet.com/ent/2019-07/21/c_1124778489.htm
+http://cx.xinhuanet.com/2019-07/21/c_138244405.htm
+http://wx.xinhuanet.com/
+http://www.xinhuanet.com/world/2019-07/21/c_1124778376.htm

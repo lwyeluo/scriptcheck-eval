@@ -1,0 +1,10 @@
+https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dawn.com%2Fnews%2F1495338&display=popup&ref=plugin
+https://www.dawn.com/privacy
+https://www.dawn.com/news/1495115/nawaz-rejected-deal-due-to-unacceptable-conditions-maryam
+https://www.dawn.com/news/1495332/amnesty-deadline-for-govt-employees-hiding-job-status-extended
+https://twitter.com/share?text=4%20killed%20over%20witchcraft%20allegations%20in%20India%0A&url=https%3A%2F%2Fwww.dawn.com%2Fnews%2F1495364&counturl=https%3A%2F%2Fwww.dawn.com%2Fnews%2F1495364
+https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dawn.com%2Fnews%2F1495301&display=popup&ref=plugin
+https://www.dawn.com/
+https://www.dawn.com/authors/8539/navtej-sarna
+https://www.dawn.com/news/1495251/how-to-be-lazy-and-still-look-good
+https://www.dawn.com/must-read

@@ -1,0 +1,10 @@
+http://gestyy.com/aboutus
+http://gestyy.com/benefits
+http://gestyy.com/languageru
+http://gestyy.com/languageen
+http://gestyy.com/referral-program
+http://gestyy.com/
+http://gestyy.com/privacy
+http://gestyy.com/contactcontact
+http://gestyy.com/howitworks
+http://gestyy.com/login

@@ -1,0 +1,10 @@
+https://www.pof.com/poftest.aspx
+https://www.pof.com/register.aspx?id=1
+https://www.pof.com/ca.pof.com
+https://www.pof.com/basicsearch.aspx
+https://secure.pof.com/upgrade.aspx?cta=dt_menuupgradelink_1&d=15&lang=en&from=web_
+https://www.pof.com/
+https://www.pof.com/br.pof.com
+https://www.pof.com/mx.pof.com
+https://www.pof.com/fr.pof.com
+https://www.pof.com/inbox.aspx

@@ -1,0 +1,10 @@
+http://www.neopets.com/preferences.phtml
+http://www.neopets.com/userinfo.phtml
+http://www.neopets.com/spotlight.phtml
+http://www.neopets.com/
+http://www.neopets.com/neohomepropertyshow10693943
+http://www.neopets.com/spotlightscustompetcustom_spotlight_results.phtml
+http://www.neopets.com/customise
+http://www.neopets.com/pound
+http://www.neopets.com/myaccount.phtml
+http://www.neopets.com/gamesgame.phtml?game_id=1061

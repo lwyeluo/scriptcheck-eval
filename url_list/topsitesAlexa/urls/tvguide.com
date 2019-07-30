@@ -1,0 +1,10 @@
+https://www.tvguide.com/watch-this-now/
+https://www.tvguide.com/videos/play/everything-you-need-to-know-before-the-veronica-mars-revival/
+https://www.tvguide.com/news/we-rank-the-100-best-shows-right-now/
+https://www.tvguide.com/mobile/
+https://www.tvguide.com/news/amazon-prime-day-2019/
+https://www.tvguide.com/news/listen-every-episode-recap-island-an-unofficial-love-island-podcast/
+https://www.tvguide.com/news/every-marvel-movie-disney-series-coming-out-until-2022/
+https://www.tvguide.com/new-tonight/
+https://www.tvguide.com/news/doom-patrol-renewed-for-season-2-dc-universe-hbo-max/
+https://www.tvguide.com/

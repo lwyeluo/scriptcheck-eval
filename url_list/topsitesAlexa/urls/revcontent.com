@@ -1,0 +1,10 @@
+https://www.revcontent.com/signupcareers
+https://www.revcontent.com/www.revcontent.comcareers
+https://www.revcontent.com/
+https://www.revcontent.com/blog.revcontent.com
+https://www.revcontent.com/signuptwitter.comrevcontent
+https://www.revcontent.com/intercom.helprevcontent2privacy-policyrevcontents-privacy-policy
+https://www.revcontent.com/signup
+https://www.revcontent.com/faq.revcontent.com
+https://www.revcontent.com/login
+https://www.revcontent.com/intercom.helprevcontent2compliance-policies-and-proceduresgeneral-requirementscopyright

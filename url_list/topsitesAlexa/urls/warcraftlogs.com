@@ -1,0 +1,10 @@
+https://www.warcraftlogs.com/
+https://www.warcraftlogs.com/br.warcraftlogs.com
+https://www.warcraftlogs.com/guildid77011
+https://www.warcraftlogs.com/serverid362
+https://www.warcraftlogs.com/guildid221967
+https://www.warcraftlogs.com/serverid389
+https://www.warcraftlogs.com/characterUSbleeding-hollowMoonwáffle
+https://www.warcraftlogs.com/characterEUгордунниКельанор
+https://www.warcraftlogs.com/characterid21023699?mode=detailed&zone=23#metric=dps
+https://www.warcraftlogs.com/zonerankings23#metric=dps&class=DPS

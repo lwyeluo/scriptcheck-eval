@@ -1,0 +1,10 @@
+https://spravochnick.ru/nalogi/
+https://spravochnick.ru/medicina/
+https://spravochnick.ru/bibliotechno-informacionnaya_deyatelnost/
+https://spravochnick.ru/televidenie/
+https://spravochnick.ru/bezopasnost_zhiznedeyatelnosti/
+https://spravochnick.ru/himiya/
+https://www.spravochnick.ru/fizikadinamikavtoroy_zakon_nyutona
+https://spravochnick.ru/ekonomicheskaya_teoriya/
+https://www.spravochnick.ru/
+https://spravochnick.ru/tehnologicheskie_mashiny_i_oborudovanie/

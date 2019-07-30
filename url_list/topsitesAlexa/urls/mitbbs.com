@@ -1,0 +1,10 @@
+https://www.mitbbs.com/
+https://www.mitbbs.com/bbsdocFujian.html
+https://www.mitbbs.com/bbsdocScitechNews.html
+https://www.mitbbs.com/user_infoscherbenmeerscherbenmeer
+https://www.mitbbs.com/bbsdocJoke.html
+https://www.mitbbs.com/news_wenzhangBusinessNews31275927.html
+https://www.mitbbs.com/bbsdocShandong.html
+https://www.mitbbs.com/user_infowsbioguy2wsbioguy2
+https://www.mitbbs.com/bbsdocUSANews.html
+https://www.mitbbs.com/article_tPopNews31286095.html

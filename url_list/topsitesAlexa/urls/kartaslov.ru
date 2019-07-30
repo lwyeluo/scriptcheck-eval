@@ -1,0 +1,10 @@
+http://www.kartaslov.ru/слова-и-выражения-на-буквуз
+http://www.kartaslov.ru/слова-и-выражения-на-буквум
+http://www.kartaslov.ru/научи-бота
+http://www.kartaslov.ru/слова-и-выражения-на-буквуф
+http://www.kartaslov.ru/слова-и-выражения-на-буквуи
+http://www.kartaslov.ru/
+http://www.kartaslov.ru/слова-и-выражения-на-буквук
+http://www.kartaslov.ru/слова-и-выражения-на-буквущ
+http://www.kartaslov.ru/слова-и-выражения-на-буквуц
+http://www.kartaslov.ru/слова-и-выражения-на-буквух

@@ -1,0 +1,10 @@
+https://mmalegend.ru/raspisanie-ufc/
+https://www.instagram.com/mmalegend.ru/
+https://mmalegend.ru/category/k-1/
+https://mmalegend.ru/ufc-on-espn-4-dos-anjos-vs-edwards-pryamaya-translyatsiya/
+https://mmalegend.ru/menni-pakyao-kit-turman/
+https://mmalegend.ru/ufc-240-data-uchastniki-i-kard/
+https://mmalegend.ru/page/57/
+https://mmalegend.ru/tag/rajan-holl/
+https://mmalegend.ru/category/best-mma/
+https://www.mmalegend.ru/

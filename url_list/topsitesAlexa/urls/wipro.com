@@ -1,0 +1,10 @@
+https://www.wipro.com/semiconductors
+https://www.wipro.com/innovationedge-computing-in-a-5g-network
+https://www.wipro.com/themessoftware-defined-everything--sdx-
+https://www.wipro.com/en-nordic
+https://www.wipro.com/
+https://www.wipro.com/products-and-platforms
+https://www.wipro.com/holmesform
+https://www.wipro.com/consumer-electronics
+https://www.wipro.com/analyticsthe-smarter-water-utility
+https://www.wipro.com/holmeswhy

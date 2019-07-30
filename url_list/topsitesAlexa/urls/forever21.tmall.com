@@ -1,0 +1,10 @@
+https://forever21.tmall.com/search1.taobao.combrowsead_search_shop.htm
+https://forever21.tmall.com/dongtai.taobao.comhubnew_arrival.htm?scm=1046.1.7.1
+https://forever21.tmall.com/www.taobao.comabout
+https://forever21.tmall.com/www.alibaba.com
+https://forever21.tmall.com/mai.taobao.comseller_admin.htm
+https://forever21.tmall.com/www.taobao.comaboutcopyright.php
+https://forever21.tmall.com/guang.taobao.com
+https://forever21.tmall.com/list.taobao.combrowsecat-0.htm?taobao_from=6
+https://forever21.tmall.com/www.1688.com
+https://forever21.tmall.com/

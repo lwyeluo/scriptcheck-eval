@@ -1,0 +1,10 @@
+https://www.digitaltrends.com/home/amazon-echo-tips-and-tricks/
+https://www.digitaltrends.com/page/19/
+https://www.digitaltrends.com/computing/how-to-change-your-gmail-account-password/
+https://www.digitaltrends.com/
+https://www.digitaltrends.com/cars/
+https://www.digitaltrends.com/computing/google-chrome-76-incognito-mode/
+https://www.digitaltrends.com/cell-phone-reviews/apple-iphone-xs-max-review/
+https://www.digitaltrends.com/mobile/best-android-games/
+https://www.digitaltrends.com/podcasts/trends-with-benefits-podcast/
+https://www.digitaltrends.com/users/simonhill/

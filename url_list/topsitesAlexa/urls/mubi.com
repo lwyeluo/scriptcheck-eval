@@ -1,0 +1,10 @@
+https://creativeeurope.mubi.com/
+https://www.mubi.com/feed
+https://www.mubi.com/about
+https://www.mubi.com/filmstudent
+https://www.mubi.com/
+https://www.mubi.com/showing
+https://www.mubi.com/rentals
+https://www.mubi.com/ways-to-watch
+https://www.mubi.com/gifts
+https://www.mubi.com/terms_of_service

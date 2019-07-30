@@ -1,0 +1,10 @@
+https://www.dek-d.com/activityshownews.php?id=50991
+https://www.dek-d.com/education/53112/
+https://wwwback.dek-d.com/admission/ontour/
+https://www.dek-d.com/meet
+https://www.dek-d.com/boardtcaspolsci
+https://www.dek-d.com/boardview3936586
+https://www.dek-d.com/boardview3936536
+https://www.dek-d.com/teentrends/53123/
+https://www.dek-d.com/
+https://my.dek-d.com/dek-d/control/iframeforgetlog.html

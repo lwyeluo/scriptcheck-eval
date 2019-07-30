@@ -1,0 +1,10 @@
+https://www.payoneer.com/about/media-center/#awards
+https://www.payoneer.com
+https://payouts.payoneer.com/partners/or.aspx?pid=YOYIZC74IO2s4KZQp7tgsw%3d%3d
+https://www.payoneer.com/ru/
+https://www.payoneer.com/partners/refer-a-friend/
+https://www.payoneer.com/enterprise/customer-disclosures-and-complaints/
+https://www.payoneer.com/enterprise/
+https://www.payoneer.com/about/
+https://www.payoneer.com/careers
+https://www.payoneer.com/

@@ -1,0 +1,10 @@
+https://www.startpage.com/searchsettings?lang=tw
+https://www.startpage.com/
+https://www.startpage.com/twpics.html
+https://www.startpage.com/blog/
+https://www.startpage.com/searchsettings?lang=twtwpics.html
+https://www.startpage.com/blog/press/
+https://www.startpage.com/twabout-us.html
+https://www.startpage.com/ensearchdownload-startpage-plugin.html
+https://www.startpage.com/twsearchprivacy-policy.html
+https://support.startpage.com/index.php?/Knowledgebase/List

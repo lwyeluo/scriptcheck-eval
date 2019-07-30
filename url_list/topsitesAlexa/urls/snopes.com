@@ -1,0 +1,10 @@
+https://www.snopes.com/fact-check/priest-pushed-off-brazil-stage/
+https://www.snopes.com/how-to-support/
+https://www.snopes.com/about-snopes/
+https://www.snopes.com/fact-check/rachel-chandler-clinton-epstein/
+https://www.snopes.com/news/2019/07/08/trump-deportation-protections/
+https://www.snopes.com/ontheissues-coming-soon/
+https://www.snopes.com/50-hottest-urban-legends/
+https://www.snopes.com/how-to-support-snopes/
+https://www.snopes.com/faq/makes-snopes-reliable-resource/
+https://www.snopes.com/

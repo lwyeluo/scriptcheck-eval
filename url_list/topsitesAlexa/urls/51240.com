@@ -1,0 +1,10 @@
+https://www.51240.com/wendu.51240.com
+https://www.51240.com/
+https://www.51240.com/gzip.51240.com
+https://www.51240.com/mianji.51240.com
+https://www.51240.com/gonglv.51240.com
+https://www.51240.com/foxue.51240.com
+https://www.51240.com/jsmin.51240.com
+https://www.51240.com/yali.51240.com
+https://www.51240.com/speed.51240.com
+https://www.51240.com/huawenpinkuaishurufa.51240.com

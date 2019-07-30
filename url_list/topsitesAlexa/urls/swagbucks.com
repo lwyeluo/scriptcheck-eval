@@ -1,0 +1,10 @@
+https://www.swagbucks.com/g/how-it-works
+https://www.swagbucks.com/make-money-free-online
+https://www.swagbucks.com/mobile
+https://www.swagbucks.com/
+https://help.swagbucks.com
+https://www.swagbucks.com/shop
+https://www.swagbucks.com/discover
+https://www.trustpilot.com/review/www.swagbucks.com
+https://www.swagbucks.com/surveys
+https://www.swagbucks.com/gprivacy

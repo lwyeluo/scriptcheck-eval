@@ -1,0 +1,10 @@
+http://www.espnfc.com/transfers/news
+http://www.espnfc.com/real-madrid/story/3903833/zidane-drops-bale-bomb-we-hope-he-leaves-soon
+http://www.espnfc.com/major-league-soccer/19/video/3903830/quakes-continue-winning-ways-vs-vancouver
+http://www.espnfc.com/report?gameId=533154
+http://www.espnfc.com/report?gameId=533152
+http://www.espnfc.com/video/mls-highlights/150/index
+http://www.espnfc.com/major-league-soccer/19/index
+http://www.espnfc.com/international-champions-cup/2326/index
+http://www.espnfc.com/video/mls-highlights/150/video/3903791/fc-dallas-pounce-on-sporting-kc-mistakes-in-away-win
+http://www.espnfc.com/

@@ -1,0 +1,10 @@
+http://www.openculture.com/2014/08
+http://www.openculture.com/2015/03/74-books-curated-by-female-creatives.html
+http://www.openculture.com/2019/03
+http://www.openculture.com/category/psychology
+http://www.printfriendly.com/print/?url=http%3A%2F%2Fwww.openculture.com%2F2019%2F07%2Frichard-feynmans-technique-for-learning-something-new.html&item=Open+Culture
+http://www.openculture.com/2006/09
+https://www.openculture.com/
+http://www.openculture.com/2014/05/when-neil-young-rick-james-created-the-60s-motown-band-the-mynah-birds.html
+http://www.openculture.com/2011/12
+http://www.openculture.com/physics_free_courses

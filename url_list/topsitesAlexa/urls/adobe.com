@@ -1,0 +1,10 @@
+https://www.adobe.com/mena_en
+https://www.adobe.com/tr
+https://www.adobe.com/
+https://www.adobe.com/creativecloud/photography.html?promoid=GMCWYDH2&mv=other
+http://www.adobe.com/creativecloud/plans.html?promoid=WKRCJFZD&mv=other
+https://www.adobe.com/ch_de
+https://www.adobe.com/ch_fr
+https://www.adobe.com/be_fr
+https://www.adobe.com/si
+https://www.adobe.com/ca_fr

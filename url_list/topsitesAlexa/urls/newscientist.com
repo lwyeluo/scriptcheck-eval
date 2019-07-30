@@ -1,0 +1,10 @@
+https://www.newscientist.com/articlemg24332391-800-sibling-rivalry-how-birth-order-affects-your-personality-and-health
+https://www.newscientist.com/issues
+https://www.newscientist.com/about
+https://www.newscientist.com/subscriptionconnect-to-qss
+https://www.newscientist.com/article2210536-chinese-space-station-tiangong-2-is-about-to-fall-from-space
+https://www.newscientist.com/articlemg24332391-400-dont-miss-electric-rivals-immortality-and-a-time-travelling-bard
+https://www.newscientist.com/rss-feeds
+https://www.newscientist.com/subjectspace
+https://www.newscientist.com/articlemg24232340-300-how-many-steps-a-day-do-you-really-need-spoiler-it-isnt-10000
+https://www.newscientist.com/

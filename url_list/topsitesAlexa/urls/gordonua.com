@@ -1,0 +1,10 @@
+https://www.gordonua.com/newspoliticssluga-naroda-golos-sila-i-chest-vyzyvayut-u-ukraincev-nadezhdu-oppozicionnyy-blok-strah-opros-shustera-1128892.html#photo
+https://www.gordonua.com/newshealth.html
+https://www.gordonua.com/
+https://gordonua.com/bulvar/news/49-letnyaya-lopes-v-bodi-so-stringami-stancevala-na-koncrte-v-nyu-yorke-1127814.html
+https://gordonua.com/bulvar/news/akter-dizel-shou-krutogolov-stanet-otcom-vo-vtoroy-raz-1128362.html#photo
+https://www.gordonua.com/tagsoppozitsionnyj-blok.html
+https://www.gordonua.com/htmlgosocial4.html
+https://www.gordonua.com/newspoliticssud-v-italii-prigovoril-markiva-k-24-godam-tyurmy-zelenskiy-pomiloval-litvinova-glavnoe-za-den-1111151.html
+https://www.gordonua.com/htmlgosocial2.html
+https://gordonua.com/xml/rss.html

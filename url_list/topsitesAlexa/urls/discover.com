@@ -1,0 +1,10 @@
+https://www.discover.com/credit-cards/cash-back/nhl-card.html?ICMPGN=PUB_HNAV_CARDS_NHL
+https://www.discover.com/
+https://www.discover.com/credit-cards/no-annual-fee/?ICMPGN=ACQ_HNAV_ALL_CC_NAF
+https://www.discover.com/credit-cards/cash-back/nhl-card.html?ICMPGN=ACQ_HNAV_ALL_CC_NHL_CARD
+https://www.discover.com/home-equity-loans/?ICMPGN=PUB_FTR_PROD_DHE
+https://www.discover.com/personal-loans/help/contact-us.html?ICMPGN=PUB_HDR_HELP_DPL
+https://www.discover.com/credit-cards/cash-back/it-card.html?ICMPGN=ACQ_HNAV_ALL_CC_DIT_CARD
+https://www.discover.com/credit-cards/cash-back/it-card.html?ICMPGN=PUB_HNAV_CARDS_IT
+https://www.discover.com/home-equity-loans/home-improvement/?ICMPGN=PUB_HNAV_LOANS_DHE_IMPROVE
+https://www.discover.com/student-loans/private.html?acmpgn=O_DIS_DCOM_XS_X_PRVT

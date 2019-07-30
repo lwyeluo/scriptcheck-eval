@@ -1,0 +1,10 @@
+https://www.byjus.com/biologyzoology
+https://www.byjus.com/ncert-solutions-class-9-mathschapter-5-introduction-to-euclids-geometry
+https://byjus.com/ncert-solutions-class-9/
+https://www.byjus.com/ncert-solutions-class-10-mathschapter-5-arithmetic-progressions-and-geometric-progression
+https://byjus.com/gre/
+https://www.byjus.com/msbshsemaharashtra-board-question-papers
+https://www.byjus.com/free-cat-prepbyjus-app-review-on-cat
+https://byjus.com/physics/
+https://www.byjus.com/kseeb
+https://www.byjus.com/

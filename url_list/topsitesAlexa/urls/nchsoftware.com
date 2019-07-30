@@ -1,0 +1,10 @@
+https://twitter.com/home?status=Check+out+all+of+the+great+programs+from+%40nchsoftware+www.nchsoftware.comabout
+https://www.nchsoftware.com/general/sitemap.html
+https://www.nchsoftware.com/index.html
+https://twitter.com/home?status=Check+out+all+of+the+great+programs+from+%40nchsoftware+www.nchsoftware.com
+https://twitter.com/home?status=Check+out+all+of+the+great+programs+from+%40nchsoftware+www.nchsoftware.comaccountbegin_password_reset
+https://www.nchsoftware.com/
+https://twitter.com/home?status=Check+out+all+of+the+great+programs+from+%40nchsoftware+www.nchsoftware.comaccountcomplete
+https://www.facebook.com/share.php?u=https://www.nchsoftware.com/
+https://www.nchsoftware.com/capture/debutpsetup.exe
+https://www.nchsoftware.com/capture/index.html

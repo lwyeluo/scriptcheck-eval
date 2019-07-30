@@ -1,0 +1,10 @@
+https://forvo.com/word/daesh/
+https://forvo.com/languages/lb/
+https://forvo.com/word/dachshund/
+https://forvo.com/users/
+https://el.forvo.com/
+https://forvo.com/word/charcuterie/
+https://forvo.com/word/ng/
+https://forvo.com/word/dictionary/
+https://www.forvo.com/
+https://forvo.com/blog/2019/04/forvo_kids%2C_new_app_already_available%21/

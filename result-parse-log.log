@@ -1,0 +1,196 @@
+
+
+
+#######################################
+# TABLE for frame chain distribution  #
+#######################################
+length	#webpages	webpages
+1	11437
+2	740
+3	643
+4	37
+5	340
+6	21
+7	135
+8	9
+9	164
+10	24
+11	33
+12	3
+13	98
+14	1
+15	17
+16	4
+17	27
+18	8
+19	29
+20	10
+21	11
+22	12
+23	9
+24	13
+25	22
+26	1
+27	10
+28	15
+29	17
+30	1
+31	6
+32	9
+33	11
+35	5
+36	1
+37	23
+38	1
+39	4
+41	3
+43	14
+45	13
+47	13
+48	1
+49	12
+51	10
+53	19
+55	29
+57	8
+58	1
+59	2
+60	3
+61	7
+62	1
+63	4
+65	3
+67	8
+69	3
+71	10
+73	4
+77	1
+81	10
+83	3
+87	37
+88	1
+89	1
+91	4
+92	5
+93	22
+95	1
+97	22
+99	982
+
+
+
+#######################################################
+# TABLE for frame chain (with JS stack) distribution  #
+#######################################################
+length	#webpages	webpages
+2	38
+3	637
+4	37
+5	340
+6	21
+7	135
+8	9
+9	164
+10	24
+11	33
+12	3
+13	98
+14	1
+15	17
+16	4
+17	27
+18	8
+19	29
+20	10
+21	11
+22	12
+23	9
+24	13
+25	22
+26	1
+27	10
+28	15
+29	17
+30	1
+31	6
+32	9
+33	11
+35	5
+36	1
+37	23
+38	1
+39	4
+41	3
+43	14
+45	13
+47	13
+48	1
+49	12
+51	10
+53	19
+55	29
+57	8
+58	1
+59	2
+60	3
+61	7
+62	1
+63	4
+65	3
+67	8
+69	3
+71	10
+73	4
+77	1
+81	10
+83	3
+87	37
+88	1
+89	1
+91	4
+92	5
+93	22
+95	1
+97	22
+99	982
+
+
+
+############################################################
+# TABLE for frame chain (with diff features) distribution  #
+############################################################
+length	#webpages	webpages
+15	2
+16	1
+31	1
+
+
+
+#######################################
+# Information for vuln webpages #
+#######################################
+
+Url	filename	MaxLengthOfFrameChain	MaxVulnFrameChain
+https://www.kijiji.it/libri-fisDlJZCo9EM	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/url_list/topsitesAlexa/results/kijiji.it/https:,,www.kijiji.it,libri-fisDlJZCo9EM	15	-5:5_https://www.google.com.sg/-5:4_https://www.google.com.sg/-5:5_https://www.google.com.sg/-5:4_https://www.google.com.sg/-5:5_https://www.google.com.sg/-5:4_https://www.google.com.sg/-5:5_https://www.google.com.sg/-5:4_https://www.google.com.sg/-5:5_https://www.google.com.sg/-5:8_https://www.google.com.sg/-5:5_https://www.google.com.sg/-5:8_https://www.google.com.sg/-5:5_https://www.google.com.sg/-5:8_https://www.google.com.sg/-5:5_https://www.google.com.sg/
+https://www.kijiji.it/offerte-rlL321XDyh	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/url_list/topsitesAlexa/results/kijiji.it/https:,,www.kijiji.it,offerte-rlL321XDyh	15	-6:5_https://www.google.com.sg/-6:4_https://www.google.com.sg/-6:5_https://www.google.com.sg/-6:4_https://www.google.com.sg/-6:5_https://www.google.com.sg/-6:4_https://www.google.com.sg/-6:5_https://www.google.com.sg/-6:4_https://www.google.com.sg/-6:5_https://www.google.com.sg/-6:8_https://www.google.com.sg/-6:5_https://www.google.com.sg/-6:8_https://www.google.com.sg/-6:5_https://www.google.com.sg/-6:8_https://www.google.com.sg/-6:5_https://www.google.com.sg/
+http://www.bancadigitalbod.coma3y0IFln7q	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/url_list/topsitesAlexa/results/bancadigitalbod.com/http:,,www.bancadigitalbod.coma3y0IFln7q	31	-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:6_https://www.google.com/-5:5_https://www.google.com/-5:6_https://www.google.com/-5:5_https://www.google.com/-5:6_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/-5:4_https://www.google.com/-5:5_https://www.google.com/
+https://www.tutorialspoint.comDkC8NZOQ3v	/Users/lwyeluo/Workspaces/lab-project/browser/tim-evaluate/url_list/topsitesAlexa/results/tutorialspoint.com/https:,,www.tutorialspoint.comDkC8NZOQ3v	16	-6:14_https://googleads.g.doubleclick.net/-6:11_https://googleads.g.doubleclick.net/-6:14_https://googleads.g.doubleclick.net/-6:5_https://googleads.g.doubleclick.net/-6:14_https://googleads.g.doubleclick.net/-6:11_https://googleads.g.doubleclick.net/-6:14_https://googleads.g.doubleclick.net/-6:11_https://googleads.g.doubleclick.net/-6:14_https://googleads.g.doubleclick.net/-6:11_https://googleads.g.doubleclick.net/-6:14_https://googleads.g.doubleclick.net/-6:11_https://googleads.g.doubleclick.net/-6:14_https://googleads.g.doubleclick.net/-6:11_https://googleads.g.doubleclick.net/-6:14_https://googleads.g.doubleclick.net/-6:21_https://googleads.g.doubleclick.net/
+
+
+RATE: number_of_vuln_webpages/number_of_tested_webpages = 4, 15208, 0.026302%
+
+
+
+#######################################
+# Summary for setting domains [normal] #
+#######################################
+
+#domainsInvolved = 3166, #domains = 153, #domainsSetAsSuper = 129, #domainsSetAsItself = 24, #domainsSetAsBoth = 0
+
+
+
+#######################################
+# Summary for setting domains [restricted] #
+#######################################
+
+#domainsInvolved = 2708, #domains = 134, #domainsSetAsSuper = 129, #domainsSetAsItself = 5, #domainsSetAsBoth = 0

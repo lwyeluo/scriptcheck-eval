@@ -1,0 +1,10 @@
+https://www.decolar.com/
+https://www.decolar.com/www.despegar.com.co
+https://www.decolar.com/www.decolar.com
+https://www.decolar.com/atracoes-turisticas/lon/atracoes-londres?H=SO_2:2
+https://www.decolar.com/www.despegar.com.pe
+https://www.decolar.com/atracoes-turisticas/sao/atracoes-sao+paulo?H=SO_2:4
+https://www.decolar.com/atracoes-turisticas/nyc/atracoes-nova+york?H=SO_2:3
+https://www.decolar.com/carros/c-sao/?H=SO_1:4
+https://www.decolar.com/carros/c-cun/?H=SO_1:8
+https://www.decolar.com/www.despegar.cl

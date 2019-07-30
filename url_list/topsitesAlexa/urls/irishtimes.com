@@ -1,0 +1,10 @@
+https://www.irishtimes.com/sponsored
+https://www.irishtimes.com/sportrugbyall-blacks-deny-pumas-first-win-with-tight-victory-1.3962936
+https://www.irishtimes.com/life-and-styleabroad
+https://www.irishtimes.com/podcasts
+https://www.irishtimes.com/
+https://www.irishtimes.com/life-and-styleabroadwelcome-to-my-place-auckland-1.3951325
+https://www.irishtimes.com/sportgaelic-gamesgaelic-footballtyrone-quell-rebel-s-yell-to-close-in-on-semi-finals-1.3962913
+https://www.irishtimes.com/opinionbreda-o-brien-child-s-voice-ignored-in-surrogacy-debate-1.3961648
+https://www.irishtimes.com/staticarticleindex
+https://www.irishtimes.com/life-and-stylehow-artificial-intelligence-will-do-our-dirty-work-take-our-jobs-and-change-our-lives-1.3960509

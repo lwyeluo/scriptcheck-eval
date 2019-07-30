@@ -1,0 +1,10 @@
+https://www.jansatta.com/trending
+https://www.jansatta.com/lifestyle/sawan-somvar-2019-know-more-about-what-you-should-eat-during-sawan-somvar-vrat/1090158/
+https://www.jansatta.com/duniya-mere-aage
+https://www.jansatta.com/trending-news
+https://www.jansatta.com/khelfootball
+https://www.jansatta.com/columns
+https://www.jansatta.com/rajya/ex-delhi-cm-congress-leader-sheila-dikshit-demise-news-live-updates-funeral-on-nigam-bodh-ghat-journey-route-before-last-rite-time-location-details-jsp/1091880/
+https://www.jansatta.com/health-news-hindi/benefits-of-laughter-reduce-risks-of-heart-attack/659414/
+https://www.jansatta.com/rajya/sheila-dikshit-demise-poses-new-challenge-for-congress-leadership-ahead-of-delhi-assembly-election-jsp/1092036/
+https://www.jansatta.com/

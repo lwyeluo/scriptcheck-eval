@@ -1,0 +1,10 @@
+https://www.classdojo.com/ko-kr
+https://www.classdojo.com/resources
+https://www.classdojo.com/pa-in
+https://www.classdojo.com/uk-ua
+http://status.classdojo.com
+https://home.classdojo.com/#/signup
+https://home.classdojo.com
+https://www.classdojo.com/pt-pt
+https://www.classdojo.com/jobs
+https://www.classdojo.com/

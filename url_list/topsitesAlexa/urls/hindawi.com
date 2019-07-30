@@ -1,0 +1,10 @@
+https://mts.hindawi.com
+https://www.hindawi.com/journalsscn
+https://www.hindawi.com/resources
+https://www.hindawi.com/journalsacp
+https://www.hindawi.com/journalsgeofluids
+https://www.hindawi.com/journalsjhe20199874591
+https://www.hindawi.com/
+https://www.hindawi.com/journalsjoph
+https://mts.hindawi.com/
+https://www.hindawi.com/authors

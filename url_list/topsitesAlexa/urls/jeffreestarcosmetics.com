@@ -1,0 +1,10 @@
+https://www.jeffreestarcosmetics.com/pagesmeet-me
+https://jeffreestarcosmetics.com/products/magic-star-concealer?variant=27671657578579
+https://www.jeffreestarcosmetics.com/accountregister
+https://www.jeffreestarcosmetics.com/account
+https://www.jeffreestarcosmetics.com/collectionsfashion
+https://www.jeffreestarcosmetics.com/productsthe-gloss
+https://www.jeffreestarcosmetics.com/collectionsjawbreaker-collection
+https://www.jeffreestarcosmetics.com/
+https://www.jeffreestarcosmetics.com/pagesfaq
+https://www.jeffreestarcosmetics.com/collectionsvelour-lip-scrub

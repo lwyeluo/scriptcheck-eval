@@ -1,0 +1,10 @@
+http://www.cyberforum.ru/c-linux/
+http://www.cyberforum.ru/
+http://www.cyberforum.ru/coreldraw/
+http://www.cyberforum.ru/java-ide/
+http://www.cyberforum.ru/free-pascal/
+http://www.cyberforum.ru/mathematical-analysis/
+http://www.cyberforum.ru/php-regex/
+http://www.cyberforum.ru/1c/
+http://www.cyberforum.ru/development/
+http://www.cyberforum.ru/wpf-silverlight/

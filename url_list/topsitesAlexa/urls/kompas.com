@@ -1,0 +1,10 @@
+https://indeks.kompas.com/terpopuler
+https://money.kompas.com/whatsnew
+https://news.kompas.com/search
+https://jobs.kompas.com
+https://tekno.kompas.com/business
+http://sorot.kompas.com
+https://www.kompas.com/
+https://www.kompas.com
+https://sains.kompas.com/search
+https://entertainment.kompas.com/budaya

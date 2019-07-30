@@ -1,0 +1,10 @@
+https://www.vrbo.com/
+https://www.vrbo.com/discoveryhub
+https://www.vrbo.com/searchkeywords:united-statesfilter:73
+https://www.vrbo.com/search/keywords:south-lake-tahoe-ca-usa/filter:64
+https://www.vrbo.com/vacation-rentals/usa/washington/puget-sound/seattle
+https://www.vrbo.com/search/keywords:kauai-hi-usa/filter:30
+https://www.vrbo.com/searchkeywords:united-statesfilter:72
+https://www.vrbo.com/search/keywords:lake-tahoe-usa/filter:64
+https://www.vrbo.com/vacation-rentals/usa/california/san-diego-county/san-diego
+https://www.vrbo.com/search/keywords:colorado-usa/filter:79/filter:55

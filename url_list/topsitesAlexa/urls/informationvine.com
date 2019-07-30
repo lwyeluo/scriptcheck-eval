@@ -1,0 +1,10 @@
+https://www.informationvine.com/cookiesterms
+https://www.informationvine.com/cookies
+https://www.informationvine.com/privacyprivacy
+https://www.informationvine.com/cookiesprivacy
+https://www.informationvine.com/privacy
+https://www.informationvine.com/cookiescookies
+https://www.informationvine.com/
+https://www.informationvine.com/privacyterms
+https://www.informationvine.com/terms
+https://www.informationvine.com/privacycookies

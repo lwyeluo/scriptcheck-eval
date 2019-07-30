@@ -1,0 +1,10 @@
+http://www.hdpfans.com/thread-828382-1-1.html
+http://www.hdpfans.com/forum-937-1.html
+http://www.hdpfans.com/
+http://www.hdpfans.com/forum-17-1.html
+http://www.hdpfans.com/pingceprojector
+http://www.hdpfans.com/thread-828386-1-1.html
+http://www.hdpfans.com/forum-971-1.html
+http://www.hdpfans.com/plugin.php?id=tryout&ac=article&aid=550
+http://www.hdpfans.com/forum-1030-1.html
+http://www.hdpfans.com/thread-788208-1-1.html

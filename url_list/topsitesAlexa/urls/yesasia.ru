@@ -1,0 +1,10 @@
+https://www.yesasia.ru/article/712735
+https://www.yesasia.ru/article/719077
+https://www.yesasia.ru/article/718933
+https://www.yesasia.ru/article/714244
+https://www.yesasia.ru/article/718967
+https://www.yesasia.ru/
+https://www.yesasia.ru/cat/c-news
+https://www.yesasia.ru/cat/%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%b2%d1%8c%d1%8e
+https://www.yesasia.ru/article/author/abonit
+https://www.yesasia.ru/article/717765

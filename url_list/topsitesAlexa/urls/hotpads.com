@@ -1,0 +1,10 @@
+https://www.hotpads.com/
+https://www.hotpads.com/arizona
+https://www.hotpads.com/new-york-nyapartments-for-rent
+https://www.hotpads.com/north-dakota
+https://www.hotpads.com/las-vegas-nvapartments-for-rent
+https://www.hotpads.com/georgia
+https://www.hotpads.com/denver-coapartments-for-rent
+https://www.hotpads.com/new-jersey
+https://www.hotpads.com/oklahoma
+https://www.hotpads.com/new-mexico

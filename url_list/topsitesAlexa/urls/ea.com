@@ -1,0 +1,10 @@
+https://www.ea.com/zh-cngames
+https://www.ea.com/zh-cnnewstour-the-ea-china-studio
+https://www.ea.com/zh-cnlegal
+https://www.ea.com/zh-cninformation
+https://www.ea.com/zh-cngamesred-alert-ol
+https://www.ea.com/zh-cnnewsfo4-zhao-lina
+https://www.ea.com/
+https://www.ea.com/zh-cnnewsfo4-video-update-20-07
+https://tos.ea.com/legalapp/WEBTERMS/US/sc/PC/
+https://www.ea.com/zh-cncareers

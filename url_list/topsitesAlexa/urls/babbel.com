@@ -1,0 +1,10 @@
+https://about.babbel.com/en_GB/imprint
+https://www.babbel.com/
+https://www.babbel.com/course-descriptionlearn-turkish-online
+https://www.babbel.com/uk.babbel.comregistrationnew
+https://www.babbel.com/course-descriptionlearn-dutch-online
+https://www.babbel.com/accounts.babbel.comen_GBaccountssign_in
+https://www.babbel.com/en/magazine
+https://www.babbel.com/it.babbel.com?locale=it
+https://www.babbel.com/learn-danish
+https://blog.babbel.com/en/
