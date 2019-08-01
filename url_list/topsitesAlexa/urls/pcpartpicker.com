@@ -1,1 +1,0 @@
-https://pcpartpicker.com/

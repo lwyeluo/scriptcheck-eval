@@ -20,5 +20,5 @@ _node_binary = "node"
 # get the nodejs script, which checks the loading status and gets domains for all same-origin frames
 _node_filename = os.path.join(_dir, "find_recursive_subframes.js")
 # timeout for each webpage
-_timeout = 60
-_timeout_for_node = 10
+_timeout = 300
+_timeout_for_node = 30

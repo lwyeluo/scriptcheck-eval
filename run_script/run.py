@@ -58,7 +58,7 @@ class RunUrl(object):
 										  stdout=ret_fd)
 		logging.info('>>> START ' + self.url)
 
-		time.sleep(5)
+		time.sleep(10)
 
 		print(_node_binary, _node_filename)
 		process_node = subprocess.Popen([_node_binary, _node_filename, self.url, str(_timeout_for_node)], stdout=subprocess.PIPE,

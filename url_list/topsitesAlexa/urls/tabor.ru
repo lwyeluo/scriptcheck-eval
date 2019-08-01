@@ -1,9 +1,0 @@
-https://tabor.ru/help
-https://tabor.ru/view_women
-https://tabor.ru/topic_rubrics
-https://tabor.ru/signup
-https://tabor.ru/znakomstva-po-stranam
-https://tabor.ru/reviews
-https://tabor.ru/
-https://tabor.ru/feed
-https://tabor.ru/restore

@@ -1,9 +1,0 @@
-https://help.animoto.com/hc/en-us
-https://s3.amazonaws.com/p-static.animoto.com/iphone/license.html
-https://animoto.com/legal/privacy_policy
-https://animoto.com/legal/terms
-https://animoto.com/pricing
-https://animoto.com/affiliates
-https://animoto.com
-https://animoto.com/about
-https://animoto.com/

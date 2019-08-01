@@ -1,1 +1,0 @@
-https://www.aptoide.com/

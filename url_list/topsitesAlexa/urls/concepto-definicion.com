@@ -1,1 +1,0 @@
-https://concepto-definicion.com/

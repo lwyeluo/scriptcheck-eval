@@ -1,9 +1,0 @@
-https://zvuk.com/terms
-https://zvuk.com/genres
-https://zvuk.com/playlists
-https://zvuk.com/
-https://zvuk.com/donate
-https://zvuk.com/new
-https://zvuk.com/top100
-https://zvuk.com/privacy
-https://zvuk.com/about

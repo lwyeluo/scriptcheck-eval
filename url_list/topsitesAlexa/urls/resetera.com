@@ -1,1 +1,0 @@
-https://www.resetera.com/

@@ -1,1 +1,0 @@
-https://cut-urls.com/

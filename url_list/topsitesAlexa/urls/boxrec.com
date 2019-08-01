@@ -1,9 +1,0 @@
-https://boxrec.com/cn
-https://boxrec.com/de
-https://boxrec.com/forum/
-https://boxrec.com/pl
-https://boxrec.com/
-https://boxrec.com/fr
-https://boxrec.com/es
-https://boxrec.com/ru
-https://boxrec.com/en

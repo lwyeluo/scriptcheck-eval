@@ -1,1 +1,0 @@
-https://reviewedsoftwareapps.com/
