@@ -1,1 +1,1 @@
-https://www.colorlib.com/
+https://colorlib.com/

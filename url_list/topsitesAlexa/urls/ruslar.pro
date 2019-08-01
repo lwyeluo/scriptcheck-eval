@@ -1,10 +1,10 @@
-https://ruslar.pro/video/YrcAUR06OFo
-https://ruslar.pro/show/Приключения фильмы новые
-https://www.ruslar.pro/mobile
-https://ruslar.pro/show/узбек+кино+янгилари
+https://ruslar.pro/
 https://ruslar.pro/show/Фантастика+фильмы+новые
-https://ruslar.pro/videoman/UCB4BRxXp2TsMCe8kU29h3Qw
-https://ruslar.pro/videoman/UC7wgf7YAEMvh7-BStvlBZEg
-https://ruslar.pro/videoman/UCI8A_dbOeuL4-kEcvfOZiGQ
-https://ruslar.pro/video/VWD8HSwEhA8
-https://www.ruslar.pro/
+https://ruslar.pro/video/xEmMnatyn5A
+https://ruslar.pro/show/турецкие+сериалы
+https://ruslar.pro/video/KpTbNeCeDng
+https://ruslar.pro/show/Мелодрамы фильмы новые
+https://ruslar.pro/videoman/UCu5qnZlGXenvxu9vETWZPCg
+https://ruslar.pro/video/OucSGs98qJI
+https://ruslar.pro/video/AW8LcbPcS-s
+https://ruslar.pro/show/Боевики новые

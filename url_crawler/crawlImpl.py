@@ -91,7 +91,7 @@ class CrawlerImpl(object):
 				# urls.add(h)
 				url_q.put(h)
 		elif isinstance(homepage, str):
-			# urls.add(homepage)
+			urls.add(homepage)
 			url_q.put(homepage)
 
 		# crawler
@@ -116,3 +116,11 @@ class CrawlerImpl(object):
 			for url in urls:
 				f.write(url + "\n")
 			f.close()
+
+	def test(self):
+		url = 'https://sinoptik.ua'
+		domain = matchRawDomainFromURL(url)
+		print(self.requests_for_url(url, domain))
+
+if __name__ == '__main__':
+	CrawlerImpl(100).test()

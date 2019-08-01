@@ -1,1 +1,1 @@
-https://www.keepa.com/
+https://keepa.com/

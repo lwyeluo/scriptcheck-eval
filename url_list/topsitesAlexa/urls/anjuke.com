@@ -1,10 +1,10 @@
-https://www.anjuke.com/tools/online/service ;?>
-https://bannan.anjuke.com
-https://taizhou.anjuke.com
-https://tongchuan.anjuke.com
-https://zhangzhou.anjuke.com
+https://kfzx.anjuke.com/
 https://www.anjuke.com/
-https://m.anjuke.com/cs/sale/
-https://zhuanghe.anjuke.com
-https://honghe.anjuke.com
-https://lvliang.anjuke.com
+https://jingmen.anjuke.com
+https://wuwei.anjuke.com
+https://suihua.anjuke.com
+https://m.anjuke.com/dg/sale/
+https://hetian.anjuke.com
+https://shennongjia.anjuke.com
+https://m.anjuke.com/zz/sale/
+https://jiangmen.anjuke.com

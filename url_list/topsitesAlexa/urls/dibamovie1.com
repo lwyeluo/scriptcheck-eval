@@ -1,1 +1,1 @@
-https://www.dibamovie1.com/
+https://dibamovie1.com/

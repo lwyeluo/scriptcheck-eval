@@ -1,1 +1,1 @@
-https://www.prohbtd.com/
+https://prohbtd.com/

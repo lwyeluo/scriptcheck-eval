@@ -1,1 +1,1 @@
-https://www.drop.com/
+https://drop.com/

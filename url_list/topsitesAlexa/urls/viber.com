@@ -1,10 +1,10 @@
 https://www.viber.com/
-https://www.viber.com/download/
-https://www.viber.com/terms/viber-privacy-policy/
-https://www.viber.com/tl/
-https://www.viber.com/business/
+https://account.viber.com/en/
+https://www.viber.com/features/
+https://www.viber.com/communities/
+https://www.viber.com/terms/viber-terms-use/
 https://www.viber.com/hu/
-https://download.viber.com/apk/ViberAndroid-9.6.5.5.apk
-https://www.viber.com/brand-center/
+https://www.viber.com/fr/
+https://www.viber.com/terms/viber-privacy-policy/
 https://support.viber.com
-https://www.viber.com/careers/
+https://download.viber.com/apk/ViberAndroid-9.6.5.5.apk

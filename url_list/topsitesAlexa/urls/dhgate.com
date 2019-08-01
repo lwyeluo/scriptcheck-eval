@@ -1,10 +1,10 @@
-https://www.dhgate.com/wholesale/water-bottle/c024061001027.html#hp1806_featoff-Headlamps, Tents & Shelters & Water Bottles3
-https://www.dhgate.com/wholesale/beauty-equipment/c018003.html#hp1806_newa-8
-https://www.dhgate.com/help.dhgate.comhelpbuyerhelpen.php?acts=hot#hp1806_cs-1-b
-https://www.dhgate.com/dg.dhgate.comreviewwebreviewlist.do#hp1806_review-mdh
-https://www.dhgate.com/wholesale/sheer+yoga+pants.html#hp1806_poppro-2-1
-https://www.dhgate.com/activities/health-beauty.html
-https://ru.dhgate.com/
-https://www.dhgate.com/activities/sports-outdoors.html#pu1806-lc-3
-https://www.dhgate.com/activities/jewelry.html#pu1806-lc-9
+https://www.dhgate.com/wholesale/false-eyelashes/c018008024003.html#hp1806_featoff-False Eyelashes, Magnetic Eyeliner & Nail Gel1
+http://dg.dhgate.com/contact/contactUs.do#hp1806_helptop-contactUs
 https://www.dhgate.com/
+https://www.dhgate.com/activities/computers-networking.html#pu1806-lc-12
+https://www.dhgate.com/activities/promotion/selfRequest.html#pu1806-head-8
+https://www.dhgate.com/promotion/all/20160624-AppDownload-lp.html#hp1806-APP-head
+https://www.dhgate.com/wholesale/cycling-protective-gear/c024057005.html#hp1806_featoff-Cycling Protective Gear, Tents & Shelters & Hydration Gear1
+https://www.dhgate.com/sales/3c20190730.html#hp1806_mban2
+https://www.dhgate.com/activities/promotion/Overseas-stock.html#pu1806-head-4
+https://www.dhgate.com/activities/weddings-events.html#pu1806-lc-10

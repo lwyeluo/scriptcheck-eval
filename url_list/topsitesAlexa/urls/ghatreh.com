@@ -1,10 +1,8 @@
-https://www.ghatreh.com/newsnn47952979رونمایی-داروی-جدید
-https://www.ghatreh.com/newsnn47955870قرق-شکنی-روستای-رمنت-بابل
-https://www.ghatreh.com/newsnn47955881افتتاح-مرکز-عملیات-ایمنی-اضطراری-شرکت-فرودگاه
-https://www.ghatreh.com/newsnn47954383سلطان-مسکن-ادعا-تکذیب
-https://www.ghatreh.com/newstag18786-020
-https://www.ghatreh.com/newstag4189-محمدجواد ظریف020
-https://www.ghatreh.com/newsnn47950471انگلیس-خبیث-دزدی-دریایی-کند-جمهوری-اسلامی-عناصر-مؤمن-این
+http://www.ghatreh.com/news/redirect.php?url=http%3A%2F%2Fecovision.ir%2Fview%2F84134%2F
+http://www.ghatreh.com/news/redirect.php?url=http%3A%2F%2Fcitrowcid.org%2F
+http://www.ghatreh.com/news/redirect.php?url=http%3A%2F%2Fcongress60.org%2F
 https://www.ghatreh.com/
-https://www.ghatreh.com/newssrc191-اقتصاد مقاومتی020
-https://www.ghatreh.com/newssrc229-پانا020
+http://www.ghatreh.com/news/redirect.php?url=http%3A%2F%2Fghatre.com%2F
+http://www.ghatreh.com/news/redirect.php?url=http%3A%2F%2Fkahrizak.com/%2Ffa
+http://en.ghatreh.com/rss.php
+http://www.ghatreh.com/news/redirect.php?url=https%3A%2F%2Fmahak-charity.org%2Fmain%2Findex.php%2Ffa%2Fmng

@@ -1,10 +1,1 @@
-https://www.leetcode-cn.com/region
-https://www.leetcode-cn.com/terms
-https://www.leetcode-cn.com/regionsupport
-https://support.leetcode-cn.com/hc/request/new/
-https://www.leetcode-cn.com/
-https://www.leetcode-cn.com/regionterms
-https://www.leetcode-cn.com/jobslingkou
-https://www.leetcode-cn.com/regionjobslingkou
-https://www.leetcode-cn.com/privacy
-https://www.leetcode-cn.com/support
+https://leetcode-cn.com/

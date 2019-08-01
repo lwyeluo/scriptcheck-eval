@@ -1,1 +1,1 @@
-https://www.zhaket.com/
+https://zhaket.com/

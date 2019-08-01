@@ -1,1 +1,1 @@
-https://www.yts.pm/
+https://yts.pm/

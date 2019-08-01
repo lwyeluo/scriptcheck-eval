@@ -1,10 +1,1 @@
-http://www.fc2.com/fc2knowhow.netcn
-http://www.fc2.com/help.fc2id.comcopyrightstoscn
-https://contents.fc2.com/language_change.php?lang=cn
-http://www.fc2.com/analyzer.fc2cn.comcn
-http://www.fc2.com/fc2id.comcn
-http://www.fc2.com/ranking.fc2cn.comcn
-http://www.fc2.com/fc2id.comcncompany.html
-http://www.fc2.com/fc2livecn.com
-http://www.fc2.com/
-http://www.fc2.com/clap.fc2cn.comcn
+https://fc2.com/

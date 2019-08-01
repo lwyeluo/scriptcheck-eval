@@ -1,10 +1,1 @@
-https://www.torrentmap.com/bbs/board.php?bo_table=sports
-https://www.torrentmap.com/bbs/board.php?bo_table=mobile
-https://www.torrentmap.com/bbs/board.php?bo_table=kr_drama&wr_id=70063
-https://www.torrentmap.com/bbsboard.php?bo_table=music&wr_id=9504
-https://www.torrentmap.com/bbs/board.php?bo_table=movie_new&wr_id=38806
 https://www.torrentmap.com/
-https://www.torrentmap.com/bbs/board.php?bo_table=kr_drama&wr_id=70116
-https://www.torrentmap.com/bbs/board.php?bo_table=kr_drama&wr_id=70123
-https://www.torrentmap.com/bbs/board.php?bo_table=eng_drama1
-https://www.torrentmap.com/etc/link.php?v=111

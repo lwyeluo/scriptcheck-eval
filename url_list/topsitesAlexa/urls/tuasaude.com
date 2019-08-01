@@ -1,10 +1,1 @@
-https://www.tuasaude.com/cbeleza-e-cosmetica
-https://www.tuasaude.com/page5
-https://www.tuasaude.com/cprimeiros-socorros
-https://www.tuasaude.com/cdoencas-geneticas
-https://www.tuasaude.com/cha-para-descer-a-menstruacao-atrasada
-https://www.tuasaude.com/sintomas-de-sarampo
-https://www.tuasaude.com/cdiabetes
 https://www.tuasaude.com/
-https://www.tuasaude.com/termos-de-uso
-https://www.tuasaude.com/cdoencas-infecciosas

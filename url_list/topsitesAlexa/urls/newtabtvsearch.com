@@ -1,10 +1,10 @@
-https://www.newtabtvsearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.phpcookies.php
 https://www.newtabtvsearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.php
-http://search.newtabtvsearch.com/privacy.phpcookies.php
-https://www.newtabtvsearch.com/license_agreement.php
+https://www.newtabtvsearch.com/privacy.php#privacy-ancorcookies.php
+https://www.newtabtvsearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.phpcookies.phpcookies.phpcookies.phpcookies.php
+https://www.newtabtvsearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.phpcookies.php
+https://www.newtabtvsearch.com/
+https://www.newtabtvsearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.phpcookies.phpcookies.phpcookies.php
 https://www.newtabtvsearch.com/privacy.php#privacy-ancorcookies.phpcookies.php
 https://www.newtabtvsearch.com/privacy.php#privacy-ancor
-http://search.newtabtvsearch.com/privacy.php
-https://www.newtabtvsearch.com/privacy.php#privacy-ancorcookies.php
-http://search.newtabtvsearch.com/uninstall.php
-https://www.newtabtvsearch.com/
+https://www.newtabtvsearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.phpcookies.phpcookies.php
+https://www.newtabtvsearch.com/license_agreement.php

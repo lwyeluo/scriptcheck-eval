@@ -1,1 +1,1 @@
-https://www.igetintopc.com/
+https://igetintopc.com/

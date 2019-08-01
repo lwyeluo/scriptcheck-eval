@@ -1,10 +1,5 @@
-http://www.ultrasurfing.com/business-and-techmove-over-hollywood-tourist-island-cyprus-is-ready-to-roll
-http://www.ultrasurfing.com/business-and-techin-sluggish-russian-economy-halal-sees-growth
-http://ultrasurfing.com//index.html
-http://www.ultrasurfing.com/sportszidane-a-disgrace-over-bale-exit-comments-agent
-http://www.ultrasurfing.com/top-storiesbrilliant-pacquiao-downs-thurman-to-capture-wba-crown
 http://www.ultrasurfing.com/
+http://ultrasurfing.com//top-stories/index.html
+http://ultrasurfing.com//index.html
 http://ultrasurfing.com//business-and-tech/index.html
-http://www.ultrasurfing.com/sportswow-wow-wow-philippines-goes-wild-for-force-at-40-pacquiao
-http://www.ultrasurfing.com/top-storiesukraine-president-zelenskys-party-tipped-to-win-parliament-vote
 http://ultrasurfing.com//sports/index.html

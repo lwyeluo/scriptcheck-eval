@@ -1,10 +1,1 @@
-https://www.slither.io/
-https://www.slither.io/contact
-https://www.slither.io/contactcontactprivacy
-https://www.slither.io/privacy
-https://www.slither.io/privacyprivacy
-https://www.slither.io/privacycontact
-https://www.slither.io/contactprivacy
-https://www.slither.io/contactprivacyprivacy
-https://www.slither.io/contactcontact
-https://www.slither.io/contactcontactcontact
+https://slither.io/

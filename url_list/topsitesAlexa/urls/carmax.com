@@ -1,10 +1,10 @@
-https://socialresponsibility.carmax.com/
+https://www.carmax.com/notice-of-accessibility
+https://foundation.carmax.com
 https://www.carmax.com/articles
 https://www.carmax.com/articles/best-midsize-suv-ranking
-https://www.carmax.com/carsfordescape
-https://www.carmax.com/notice-of-accessibility
-https://www.carmax.com/carssport-utilities
-https://www.carmax.com/articlesbest-compact-suvs
-https://www.carmax.com/sell-my-car
-https://www.carmax.com/stores
+https://www.carmax.com/service
+https://www.carmax.com/about-carmax
+https://www.carmax.com/privacy-policy
+https://socialresponsibility.carmax.com/
 https://www.carmax.com/
+https://www.carmax.com/terms#ca-disclosure

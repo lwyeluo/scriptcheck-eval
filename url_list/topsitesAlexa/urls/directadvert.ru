@@ -1,10 +1,10 @@
-https://www.directadvert.ru/text/help
-https://www.directadvert.ru/text/offer
-https://www.directadvert.ru/text/about#privacy_policy
-https://exchange.directadvert.ru/
-https://www.directadvert.ru/blogs
+https://www.directadvert.ru/text/about#vacancies
+https://agent.directadvert.ru/password_reminder
+https://www.directadvert.ru/text/about
 https://partner.directadvert.ru/
+https://www.directadvert.ru/blogs
+https://agent.directadvert.ru/
+https://www.directadvert.ru/text/help
 https://www.directadvert.ru/
 https://www.directadvert.ru/text/buyers
-https://www.directadvert.ru/articles
-https://www.directadvert.ru/text/about
+https://www.directadvert.ru/text/offer

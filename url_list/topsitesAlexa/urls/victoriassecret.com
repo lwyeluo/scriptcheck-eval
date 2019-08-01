@@ -1,10 +1,4 @@
-https://www.victoriassecret.com/
-https://www.victoriassecret.com/pink
-https://www.victoriassecret.com/vsswimwear
-https://www.victoriassecret.com/vs
-https://www.victoriassecret.com/vsbeauty
-https://www.victoriassecret.com/vssale
 https://www.victoriassecret.com/beauty
-https://www.victoriassecret.com/vsaccessories
-https://www.victoriassecret.com/vssleepwear
-https://www.victoriassecret.com/vslingerie
+https://www.victoriassecret.com/
+https://www.victoriassecret.com/swimwear
+https://www.victoriassecret.com/pink

@@ -1,1 +1,1 @@
-https://www.ouo.io/
+https://ouo.io/

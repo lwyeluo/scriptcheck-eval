@@ -1,10 +1,4 @@
-http://www.1ppt.com/xiazainianhui
-http://www.1ppt.com/aboutaboutus.html
-http://www.1ppt.com/kejianyouer
+http://www.1ppt.com
+http://www.1ppt.com/bbs.html
 http://www.1ppt.com/
-http://www.1ppt.com/sucai
-http://www.1ppt.com/tags452
-http://www.1ppt.com/datasitemap.html
-http://www.1ppt.com/mobanaiqing
-http://www.1ppt.com/moban
-http://www.1ppt.com/mobanqita
+http://www.1ppt.com/tags.php

@@ -1,10 +1,1 @@
 https://www.significados.com/
-https://www.significados.com/democracia
-https://www.significados.com/bullying
-https://www.significados.com/amor
-https://www.significados.com/expresiones-en-ingles
-https://www.significados.com/marco-teorico
-https://www.significados.com/tecnologia-e-innovacion
-https://www.significados.com/diversidad
-https://www.significados.com/acerca-de-significados
-https://www.significados.com/gamer

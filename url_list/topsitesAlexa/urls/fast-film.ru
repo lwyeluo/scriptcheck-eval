@@ -1,10 +1,2 @@
-http://www.fast-film.ru/trailer74214
-http://www.fast-film.ru/www.tvcok.ru
-http://www.fast-film.ru/trailer72672
+http://www.fast-film.ru/search.html
 http://www.fast-film.ru/
-http://www.fast-film.ru/filmsimpsonyi.html
-http://www.fast-film.ru/film720p-1080p-rossyipyuyuyu-chast.html
-http://www.fast-film.ru/trailer70506
-http://www.fast-film.ru/trailer72279
-http://www.fast-film.ru/filmgrand-tur.html
-http://www.fast-film.ru/userpassword_reset

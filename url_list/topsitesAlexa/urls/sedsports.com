@@ -1,1 +1,1 @@
-http://www.sedsports.com/
+http://sedsports.com/

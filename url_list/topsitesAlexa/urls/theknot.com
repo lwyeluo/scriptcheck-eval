@@ -1,10 +1,10 @@
-https://www.theknot.com/marketplacewedding-planners
 https://www.theknot.com/content/best-wedding-planning-tips
 https://shop.theknot.com/stationery/save-the-dates
-https://www.theknot.com/registrycouplesearch
+https://www.theknot.com/marketplace
+https://weddingshop.theknot.com/gifts/recipient/for-bridesmaids?utm_source=theknot.com&utm_medium=referral&utm_campaign=TKsubnav&utm_content=BPG
+https://help.theknot.com/forums/263843-theknot-com-ideas-feedback
+https://www.theknot.com/bridal-fashion-week
+https://www.theknot.com/content/12-month-wedding-planning-countdown
+https://www.theknot.com/marketplace/forged-in-the-north-brooklyn-ny-976192
 https://www.theknot.com/
-https://www.theknot.com/content/wedding-theme-ideas
-https://www.theknot.com/marketplacewedding-reception-venues
-https://www.theknot.com/wedding-timeline
-https://www.theknot.com/wedding-planning-app
-https://www.theknot.com/fashionbridesmaid-dresses
+https://www.theknot.com/registry

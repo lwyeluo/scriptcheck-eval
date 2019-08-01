@@ -1,1 +1,1 @@
-https://www.playdauntless.com/
+https://playdauntless.com/

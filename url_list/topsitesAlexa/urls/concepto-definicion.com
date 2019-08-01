@@ -1,1 +1,1 @@
-https://www.concepto-definicion.com/
+https://concepto-definicion.com/

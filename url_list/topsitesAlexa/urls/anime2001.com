@@ -1,1 +1,1 @@
-https://www.anime2001.com/
+https://anime2001.com/

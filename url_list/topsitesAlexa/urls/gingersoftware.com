@@ -1,10 +1,10 @@
-https://www.gingersoftware.com/features
-https://www.gingersoftware.com/contentpress-releases
-https://www.gingersoftware.com/ginger-for-schools
-https://www.gingersoftware.com/contentblog
-https://www.gingersoftware.com/company-overview
 https://www.gingersoftware.com/
 https://www.gingersoftware.com/contactus
-https://www.gingersoftware.com/english-onlinespelling-book
+https://www.gingersoftware.com/about
+https://www.gingersoftware.com/company-overview
+https://www.gingersoftware.com/spellcheck
 https://www.gingersoftware.com/grammarcheck
-https://www.gingersoftware.com/synonyms
+https://www.gingersoftware.com/extensions
+https://www.gingersoftware.com/termsandprivacy
+https://www.gingersoftware.com/translation
+https://www.gingersoftware.com/affiliateprogram

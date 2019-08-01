@@ -1,10 +1,10 @@
-https://www.mylife.com/people-search/n/
-https://www.mylife.com/amanda-merrill/e36635295827148
-https://www.mylife.com/showRegistration.pub
-https://www.mylife.com/people-search/g/
 https://www.mylife.com/
 https://www.mylife.com/ashley-martson/e21300630019896
-https://www.mylife.com/azriel-clary/e101203024263486
-https://www.mylife.com/people-search/o/
-https://www.mylife.com/blog
+https://www.mylife.com/privacy-policy
 https://www.mylife.com/privacy?page=privacy
+https://www.mylife.com/people-search/h/
+https://www.mylife.com/jeremy-kappell/e435039602148
+https://www.mylife.com/people-search/t/
+https://www.mylife.com/amanda-merrill/e36635295827148
+https://www.mylife.com/brittany-pattakos/e90651376219320
+https://www.mylife.com/people-search/j/

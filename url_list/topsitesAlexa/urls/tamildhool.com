@@ -1,10 +1,1 @@
-https://www.tamildhool.com/colors-tamil/
-https://www.tamildhool.com/sun-tv/sun-tv-show/
-https://www.tamildhool.com/zee-tamil/zee-tamil-show/genes/genes-21-07-2019/
-https://www.tamildhool.com/zee-tamil/zee-tamil-show/petta-rap/petta-rap-21-07-2019-zee-tamil-tv-show/
-https://www.tamildhool.com/sun-tv/
-https://www.tamildhool.com/zee-tamil/zee-tamil-serial/
-https://www.tamildhool.com/vijay-tv/vijay-tv-show/start-music/
-https://www.tamildhool.com/vijay-tv/vijay-tv-serial/
-https://www.tamildhool.com/sun-tv/sun-tv-show/senior-chutties/senior-chutties-21-07-2019/
 https://www.tamildhool.com/

@@ -1,1 +1,1 @@
-https://www.cuevana2.io/
+https://cuevana2.io/

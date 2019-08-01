@@ -1,10 +1,10 @@
-https://www.calottery.com/winwinners-handbook
-https://www.calottery.com/playscratchers-games
-https://www.calottery.com/lucky-retailersmore-ways-to-buy
-https://www.calottery.com/happeningsmobile-app
-https://www.calottery.com/playwhats-my-game
+https://www.calottery.com/media
+https://www.calottery.com/site-map
+https://www.calottery.com/vendors
+https://www.calottery.com/terms-of-service
 https://www.calottery.com/
-https://www.calottery.com/winwinner storiesfred-alcaraz
-https://www.calottery.com/about-usdistrict-offices
-https://www.calottery.com/HappeningsLottery-Tvfunding-education-videos?v=cathedral-city-high-school-2016
-https://www.calottery.com/playsecond-chancemy-submissions
+https://www.calottery.com/play
+https://www.calottery.com/giving-back
+https://www.calottery.com/sign-in?redir=http://www.calottery.com/my-account
+https://www.calottery.com/privacy-policy
+https://www.calottery.com/play-responsibly

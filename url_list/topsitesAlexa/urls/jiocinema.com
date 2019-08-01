@@ -1,10 +1,10 @@
-https://www.jiocinema.com/moviesmy-list
-https://www.jiocinema.com/
-https://www.jiocinema.com/moviestv
-https://www.jiocinema.com/moviesmusic
-https://www.jiocinema.com/watch-luka-chuppi-full-movie-online
-https://www.jiocinema.com/tv
+https://www.jiocinema.com/my-listmy-list
+https://www.jiocinema.com/my-listclips
 https://www.jiocinema.com/my-list
-https://www.jiocinema.com/clips
 https://www.jiocinema.com/music
 https://www.jiocinema.com/movies
+https://www.jiocinema.com/tv
+https://www.jiocinema.com/my-listtv
+https://www.jiocinema.com/
+https://www.jiocinema.com/clips
+https://www.jiocinema.com/watch-luka-chuppi-full-movie-online

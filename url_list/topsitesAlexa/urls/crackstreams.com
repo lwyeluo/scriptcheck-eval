@@ -1,10 +1,1 @@
-https://www.crackstreams.com/boxingstreamswatch-thurman-vs-pacquiao-ppvnbastreams
-https://www.crackstreams.com/boxingstreamswatch-thurman-vs-pacquiao-ppvmmastreams
-https://www.crackstreams.com/boxingstreamswatch-thurman-vs-pacquiao-ppvboxingstreams
-https://www.crackstreams.com/boxingstreamswatch-thurman-vs-pacquiao-ppv
-https://www.crackstreams.com/nbastreams
-https://www.crackstreams.com/mmastreams
-https://www.crackstreams.com/mmastreamswatch-ufc-dos-anjos-vs-edwards
-https://www.crackstreams.com/boxingstreams
-https://www.crackstreams.com/
-https://www.crackstreams.com/nflstreams
+https://crackstreams.com/

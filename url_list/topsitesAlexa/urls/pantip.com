@@ -1,10 +1,10 @@
-https://www.pantip.com/tagSpider-Man
-https://www.pantip.com/forumgreenzone
-https://www.pantip.com/forum
-https://www.pantip.com/tagà¸­à¸²à¸«à¸²à¸£à¸¡à¸±à¸à¸ªà¸§à¸´à¸£à¸±à¸à¸´
-https://www.pantip.com/tagà¹à¸à¸µà¹à¸¢à¸§à¸à¹à¸²à¸à¸à¸£à¸°à¹à¸à¸¨
-https://www.pantip.com/forumnew_topic
-https://www.pantip.com/tagà¸à¸à¹à¸à¹à¸à¸à¹à¸²à¸
-https://www.pantip.com/topic39072757
-https://www.pantip.com/
-https://www.pantip.com/tagà¸à¸³à¸­à¸²à¸«à¸²à¸£
+https://pantip.com/forumcamera
+https://pantip.com/topic39099961
+https://pantip.com/tagà¸à¸²à¸£à¸à¸±à¸à¸à¸²à¸ªà¸±à¸à¸à¸¡ (Social Development)
+https://pantip.com/
+https://pantip.com/topic39082834
+https://pantip.com/forum
+https://pantip.com/tagà¸§à¸µà¸£à¸¢à¸² à¸à¸²à¸ (à¸§à¸µ BNK48)
+https://pantip.com/tagà¸ à¸¹à¸¡à¸´à¸¨à¸²à¸ªà¸à¸£à¹
+https://pantip.com/tagà¸¨à¸²à¸¥à¸²à¸à¸à¹à¸¨à¸£à¹à¸²
+https://pantip.com/forumhoroscope

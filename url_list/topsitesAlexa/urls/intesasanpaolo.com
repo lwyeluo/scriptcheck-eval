@@ -1,10 +1,4 @@
-https://www.intesasanpaolo.com/itnewsinnovazione-e-fintech.html
-https://www.intesasanpaolo.com/itcommonfooteraccessibilita.html
-https://www.intesasanpaolo.com/itnews.html
-https://www.intesasanpaolo.com/itcommonfooterchiusura-filiali.html
-https://www.intesasanpaolo.com/itcommonfooterdecreto-legislativo-231-2001.html
+http://www.banchestere.intesasanpaolo.com/bancheestere/it.html
 https://www.intesasanpaolo.com/
-https://www.intesasanpaolo.com/itpersone-e-famiglietutti-i-giornipaghi-all-istante.html
-https://www.intesasanpaolo.com/itcommonfooterservizi-di-investimento.html
-https://www.intesasanpaolo.com/itpersone-e-famiglietutti-i-giornicontrolli-le-spese.html
-http://www.corporate.intesasanpaolo.com/
+https://www.intesasanpaolo.com/it/common/footer/trasparenza.html
+https://www.group.intesasanpaolo.com/scriptIsir0/si09/eng_index.jsp

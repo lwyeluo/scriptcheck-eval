@@ -1,10 +1,7 @@
-https://www.leagueofgraphs.com/de
-https://www.leagueofgraphs.com/rankingsdrakes
+https://play.google.com/store/apps/details?id=leagueofgraphs.com.leagueofgraphs
 https://www.leagueofgraphs.com/
-https://www.leagueofgraphs.com/replayswith-high-kda
-https://www.leagueofgraphs.com/championsbuildskalista
-https://www.leagueofgraphs.com/th
-https://www.leagueofgraphs.com/championsbuildsazir
-https://www.leagueofgraphs.com/tftchampions
-https://www.leagueofgraphs.com/championsbuildscamille
-https://www.leagueofgraphs.com/championsbuildsornn
+https://www.leagueofgraphs.com/contact
+https://www.leagueofgraphs.com/terms-of-use
+https://www.leagueofgraphs.com/infographics
+https://www.leagueofgraphs.com/privacy
+https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://play.google.com/store/apps/details?id%3Dleagueofgraphs.com.leagueofgraphs&followup=https://play.google.com/store/apps/details?id%3Dleagueofgraphs.com.leagueofgraphs

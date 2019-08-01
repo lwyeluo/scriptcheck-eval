@@ -1,1 +1,1 @@
-https://www.proxyof.com/
+https://proxyof.com/

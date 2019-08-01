@@ -1,10 +1,3 @@
-https://news.distrokid.com?source=---------0
-https://news.distrokid.com/latestfacebook.comdistrokidmusic
-https://news.distrokid.com/@pud?source=---------0
-https://news.distrokid.com/payouts-dcdb0e982367?source=---------1#--responses
-https://news.distrokid.com/distrokid-artists-can-now-instantly-update-their-apple-artist-photo-b8b1c07bf757?source=---------7
-https://news.distrokid.com/latest
-https://news.distrokid.com/@pud
-https://www.distrokid.com/instagram
 https://distrokid.com/ludacris/vitamin-d
-https://www.distrokid.com/
+https://distrokid.com
+https://distrokid.com/

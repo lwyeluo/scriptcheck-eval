@@ -1,1 +1,1 @@
-https://www.btcclicks.com/
+https://btcclicks.com/

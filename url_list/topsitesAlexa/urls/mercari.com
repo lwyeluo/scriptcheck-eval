@@ -1,10 +1,3 @@
-https://www.mercari.com/usbrand7019
-https://www.mercari.com/tos
-https://www.mercari.com/help_centerarticle22
-https://www.mercari.com/usbrand4591
 https://www.mercari.com/careers/
+https://www.mercari.com/about/
 https://www.mercari.com/
-https://www.mercari.com/usbrand3908
-https://www.mercari.com/privacy
-https://www.mercari.com/helpcenter
-https://www.mercari.com/help_centertips?id=386&itemId=&path=Shipping%20&%20Handling&source=tips?id=386

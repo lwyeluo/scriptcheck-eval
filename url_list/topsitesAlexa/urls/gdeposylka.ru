@@ -1,1 +1,1 @@
-https://www.gdeposylka.ru/
+https://gdeposylka.ru/

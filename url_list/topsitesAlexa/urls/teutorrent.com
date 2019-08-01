@@ -1,1 +1,1 @@
-https://www.teutorrent.com/
+https://teutorrent.com/

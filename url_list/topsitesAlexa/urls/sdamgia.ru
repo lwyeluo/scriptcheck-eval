@@ -1,1 +1,1 @@
-https://www.sdamgia.ru/
+https://sdamgia.ru/

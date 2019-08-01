@@ -1,10 +1,1 @@
-https://www.livescores.com/soccerpoland
-https://www.livescores.com/soccerhonduras
 https://www.livescores.com/
-https://www.livescores.com/soccerliechtenstein
-https://www.livescores.com/soccercanadapremier-league-fall
-https://www.livescores.com/soccer2019-07-23
-https://www.livescores.com/soccerangola
-https://www.livescores.com/soccerswedenallsvenskanifk-norrkoeping-vs-oestersunds-fk6-16542439
-https://www.livescores.com/soccersweden
-https://www.livescores.com/soccerestonia

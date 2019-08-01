@@ -1,1 +1,1 @@
-https://www.laracasts.com/
+https://laracasts.com/

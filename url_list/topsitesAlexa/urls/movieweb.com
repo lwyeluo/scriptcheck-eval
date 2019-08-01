@@ -1,10 +1,8 @@
-https://www.movieweb.com/movieit-chapter-two
+https://movieweb.com/rss/celebrity-interviews/
+https://movieweb.com
+https://movieweb.com/
+https://movieweb.com/contact/
 https://movieweb.com/rss/
-https://www.movieweb.com/tarantino-polanski-controversy-once-upon-a-time-in-hollywood
-https://www.movieweb.com/movie-news
-https://www.movieweb.com/captain-marvel-2-marvel-phase-4-comic-con
-https://www.movieweb.com/
-https://www.movieweb.com/shang-chi-movie-cast-release-date-cast
-https://www.movieweb.com/movie-reviews
-https://www.movieweb.com/moviejoker-2019
-https://www.movieweb.com/spider-man-hands-statue-satanic-anti-christian-petition
+https://movieweb.com/privacy/
+https://movieweb.com/about/
+https://movieweb.com/terms/

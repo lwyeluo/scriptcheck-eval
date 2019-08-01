@@ -1,1 +1,1 @@
-https://www.feed99buzz.com/
+http://www.feed99buzz.com/

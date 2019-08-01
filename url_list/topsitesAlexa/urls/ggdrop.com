@@ -1,1 +1,1 @@
-https://www.ggdrop.com/
+https://ggdrop.com/

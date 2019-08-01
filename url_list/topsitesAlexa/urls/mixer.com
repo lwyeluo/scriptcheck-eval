@@ -1,1 +1,1 @@
-https://www.mixer.com/
+https://mixer.com/

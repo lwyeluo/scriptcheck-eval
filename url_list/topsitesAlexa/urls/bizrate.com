@@ -1,10 +1,6 @@
-http://www.bizrate.com/appliances/
-https://www.bizrate.com/
-http://www.bizrate.com/musical-instruments-accessories/
-http://www.bizrate.com/babies-kids/
-http://www.bizrate.com/ratings_guide/guide.html
-http://www.bizrate.com/books-magazines/
-http://www.bizrate.com/dvds-videos/
-http://www.bizrate.com/electronics/
-https://www.bizrate.com/electronics
-http://www.bizrate.com/categoryguide/
+http://www.bizrate.com
+http://www.bizrate.com/
+http://www.bizrate.com/color_bumper.xpml
+http://about.bizrate.com/user-agreement
+http://about.bizrate.com/contact-us/site-questions
+http://about.bizrate.com/privacy-policy

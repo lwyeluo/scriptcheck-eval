@@ -1,1 +1,1 @@
-https://www.poki.com/
+https://poki.com/

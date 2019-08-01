@@ -1,1 +1,1 @@
-https://www.wi.cr/
+https://wi.cr/

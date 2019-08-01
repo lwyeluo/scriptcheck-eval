@@ -1,1 +1,1 @@
-https://www.wallpapersafari.com/
+https://wallpapersafari.com/

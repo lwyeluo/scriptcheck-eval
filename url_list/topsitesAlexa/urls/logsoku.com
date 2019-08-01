@@ -1,10 +1,2 @@
-https://www.logsoku.com/bbsopen2ch.netmoney
-https://www.logsoku.com/bbsopen2ch.netgender
-https://www.logsoku.com/bbs2ch.scanime
+https://www.logsoku.com/search?q=%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97
 https://www.logsoku.com/
-https://www.logsoku.com/bbsopen2ch.netjob
-https://www.logsoku.com/bbsopen2ch.netiga
-https://www.logsoku.com/bbsopen2ch.netdon
-https://www.logsoku.com/r2ch.scapplism1562305109
-https://www.logsoku.com/bbsopen2ch.netradio
-https://www.logsoku.com/bbsopen2ch.netpart

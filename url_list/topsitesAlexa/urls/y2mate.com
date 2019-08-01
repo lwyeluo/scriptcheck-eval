@@ -1,1 +1,1 @@
-https://www.y2mate.com/
+https://y2mate.com/

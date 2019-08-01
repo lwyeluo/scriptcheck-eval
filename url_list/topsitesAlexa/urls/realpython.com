@@ -1,1 +1,1 @@
-https://www.realpython.com/
+https://realpython.com/

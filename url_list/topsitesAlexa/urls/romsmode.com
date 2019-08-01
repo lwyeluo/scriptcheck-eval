@@ -1,1 +1,1 @@
-https://www.romsmode.com/
+https://romsmode.com/

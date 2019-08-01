@@ -1,10 +1,1 @@
-http://www.fipi.ru/newrubank
-http://www.fipi.ru/content/otkrytyy-bank-zadaniy-ege
-http://www.fipi.ru/aboutreportsotchety-o-deyatelnosti-fipi
-http://www.fipi.ru/aboutdokumenty-fipi
-http://www.fipi.ru/aboutsotrudnichestvo
 http://www.fipi.ru/
-http://www.fipi.ru/aboutjournal
-http://www.fipi.ru/aboutnapravleniya-deyatelnosti
-http://www.fipi.ru/oge-i-gve-9
-http://www.fipi.ru/aboutnewsvserossiyskaya-akciya-edinyy-den-sdachi-ege-roditelyami

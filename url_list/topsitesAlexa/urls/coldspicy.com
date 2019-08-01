@@ -1,1 +1,1 @@
-https://www.coldspicy.com/
+https://coldspicy.com/

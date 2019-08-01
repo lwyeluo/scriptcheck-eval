@@ -1,1 +1,1 @@
-https://www.movie-streams-online.com/
+https://movie-streams-online.com/

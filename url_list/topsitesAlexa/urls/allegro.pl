@@ -1,10 +1,10 @@
-https://www.allegro.pl/kategoriachemia-oleje-silnikowe-253181
-https://www.allegro.pl/
-https://allegro.pl/oferta/samochod-zdalnie-sterowany-overmax-x-rally-rc-duzy-7201100949?bi_c=Summer2019&bi_m=mpage&
-https://allegro.pl/oferta/mocny-klimatyzator-klimator-oczyszczacz-turbo-5w1-8082771653?bi_m=mpage&
-https://www.allegro.pl/kategoriaantyki-srebra-26047?string=srebr*&price_from=99
-https://www.allegro.pl/kategoriaagd-drobne-67414
-https://allegro.pl/oferta/duzy-podlogowy-wentylator-wiatrak-cyrkulator-50cm-8050839988?bi_c=KMy03RGoEIo&bi_m=mpage&
-https://www.allegro.pl/zobaczstrefa-kolekcjonera
-https://www.allegro.pl/kategoriaantyki-i-sztuka
-https://www.allegro.pl/kategoriaobuwie-25952
+https://allegro.pl/oferta/castrol-edge-professional-ll-iii-5w-30-4l-gratis-7396303205?bi_c=Summer2019&bi_m=mpage&
+https://allegro.pl/ogloszenie/jeep-srt-wersja-red-vapor-kolor-blue-chrom-8309152861
+https://allegro.pl/oferta/basen-ogrodowy-stelazowy-420x84cm-13w1-z-drabinka-8298223070?bi_m=mpage&
+https://allegro.pl/artykuly?&bi_m=mpage
+https://allegro.pl/oferta/wyjatkowy-rower-meski-gorski-mtb-sharp-385m-29-8232982210?bi_m=mpage&
+https://www.ebilet.pl/kino/?utm_term={Kino}&utm_campaign=Allegro - Kategorie&utm_source=allegro.pl&utm_medium=navi&utm_content=/
+https://allegro.pl/oferta/wodny-plac-zabaw-dinoland-basen-zjezdzalnia-intex-8115322010?bi_m=mpage&
+https://allegro.pl/
+https://allegro.pl/ogloszenie/audi-a2-8333877636?bi_m=mpage&
+https://allegro.pl/oferta/krzeslo-brazylijskie-hamak-wiszacy-130-x-100-200kg-8198363105?bi_m=mpage&

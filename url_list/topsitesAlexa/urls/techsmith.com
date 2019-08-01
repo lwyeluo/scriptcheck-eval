@@ -1,10 +1,10 @@
-https://www.techsmith.com/storebundle
-https://www.techsmith.com/storecart
+https://www.techsmith.com/products.html
+https://www.techsmith.com/screen-recorder.html
 https://www.techsmith.com/company.html
-https://www.techsmith.com/applicationsalescontactresellers
-https://www.techsmith.com/downloadcamtasia
-https://www.techsmith.com/storesnagit
-https://www.techsmith.com/video-editor.html
-https://www.techsmith.com/solutions.html
 https://www.techsmith.com/press.html
+https://support.techsmith.com/hc/en-us/articles/115007350548#1
+https://www.techsmith.com/screencastcom.html
+https://www.techsmith.com/sitemap.html
+https://www.techsmith.com/about.html
 https://www.techsmith.com/
+https://www.techsmith.com/education.html

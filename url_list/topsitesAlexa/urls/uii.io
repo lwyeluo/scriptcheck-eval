@@ -1,1 +1,1 @@
-https://www.uii.io/
+https://uii.io/

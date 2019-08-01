@@ -1,10 +1,10 @@
-https://odin3.en.lo4d.com/windows
-https://adobe-reader.en.lo4d.com/windows
 https://en.lo4d.com/windows/security
-https://samsung-easy-printer-manager.en.lo4d.com/windows
+https://bluestacks.en.lo4d.com/windows
+https://www.lo4d.com/corp/about
+https://en.lo4d.com/windows/audio-video-software
 https://en.lo4d.com/windows/hardware
-https://en.lo4d.com/windows/internet
-https://en.lo4d.com/windows/utilities
+https://andy-android-emulator.en.lo4d.com/windows
 https://www.lo4d.com/
-https://nokia-care-suite.en.lo4d.com/windows
-https://en.lo4d.com/windows/educational
+https://en.lo4d.com/windows/business
+https://canon-mf-toolbox.en.lo4d.com/windows
+https://lenovo-shareit.en.lo4d.com/windows

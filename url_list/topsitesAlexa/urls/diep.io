@@ -1,1 +1,1 @@
-https://www.diep.io/
+https://diep.io/

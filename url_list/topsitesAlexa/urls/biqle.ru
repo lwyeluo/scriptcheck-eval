@@ -1,1 +1,1 @@
-https://www.biqle.ru/
+https://biqle.ru/

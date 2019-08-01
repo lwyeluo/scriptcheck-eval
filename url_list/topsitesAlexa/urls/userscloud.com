@@ -1,10 +1,10 @@
 https://userscloud.com/?op=upload_url
-https://userscloud.com/unlimited.html
-https://userscloud.com/?op=change_lang&lang=spanish
-http://support.userscloud.com
 https://userscloud.com/?op=registration
-https://userscloud.com/?op=change_lang&lang=french
-https://userscloud.com/?op=change_lang&lang=indonesia
-https://www.userscloud.com/
+https://userscloud.com/unlimited.html
+https://userscloud.com/reward.html
 https://userscloud.com
+https://www.userscloud.com/
+https://userscloud.com/dmca.html
 https://userscloud.com/privacy.html
+https://userscloud.com/tos.html
+https://userscloud.com/faq.html

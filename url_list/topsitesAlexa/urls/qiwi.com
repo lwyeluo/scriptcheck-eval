@@ -1,1 +1,1 @@
-https://www.qiwi.com/
+https://qiwi.com/

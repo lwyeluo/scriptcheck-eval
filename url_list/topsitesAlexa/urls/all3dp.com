@@ -1,1 +1,1 @@
-https://www.all3dp.com/
+https://all3dp.com/

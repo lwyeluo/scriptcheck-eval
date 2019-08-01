@@ -1,10 +1,1 @@
-https://www.kanobu.ru/gamespcnew
-https://www.kanobu.ru/newsdoktor-manhetten-protestyi-inovyie-geroi-hbo-predstavil-novyij-trejler-hranitelej-415867
-https://www.kanobu.ru/cybersport
-https://www.kanobu.ru/gamespopular-reviews
-https://www.kanobu.ru/contact
-https://www.kanobu.ru/newsloki-vandavizhen-sokolinyij-glaz-sokol-i-zimnij-soldat-vse-o-serialah-marvel-s-sdcc-2019-415877
-https://www.kanobu.ru/articleschego-myihotelibyi-uvidet-v10-sezone-hodyachih-mertvetsov-374114#likes-374114
-https://www.kanobu.ru/
-https://www.kanobu.ru/newsnedodelannyij-raketa-i-pyanyij-tor-zabludilis-vasgarde-vudalennoj-stsenemstitelej-final-415863#likes-415863
-https://www.kanobu.ru/newsloki-vandavizhen-sokolinyij-glaz-sokol-i-zimnij-soldat-vse-o-serialah-marvel-s-sdcc-2019-415877#comments-415877
+https://kanobu.ru/

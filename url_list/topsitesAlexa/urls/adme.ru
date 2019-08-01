@@ -1,10 +1,3 @@
-https://www.adme.ru/cookies
-https://www.adme.ru/profile16773260
-https://www.adme.ru/svoboda-kulturaistoriya-ernesta-hemingueya-pisatelya-kotoryj-kazhdyj-den-ispytyval-sudbu-na-prochnost-2128315
+https://www.facebook.com/www.adme.ru
 https://www.adme.ru/
-https://www.adme.ru/profilelogin
-https://www.adme.ru/svoboda-sdelaj-sam7-rasprostranennyh-mifov-o-gormonah-i-kak-oni-vliyayut-na-organizm-na-samom-dele-2128265
-https://www.adme.ru/svoboda-narodnoe-tvorchestvo20-chelovek-rasskazali-o-nesuraznyh-podarkah-kotorye-oni-zapomnyat-na-vsyu-zhizn-2128215
-https://www.adme.ru/profile31198365
-https://www.adme.ru/svoboda-puteshestviya/rossiyanka-zhivet-v-parizhe-i-bez-prikras-rasskazyvaet-ob-etom-gorode-francuzskij-muzh-tozhe-ne-molchit-2119215/comments
-https://www.adme.ru/tos
+https://my.mail.ru/community/www.adme.ru/

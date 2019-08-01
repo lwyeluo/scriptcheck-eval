@@ -1,9 +1,4 @@
-http://content.betfair.com/misc/?product=portal&sWhichKey=ResponsibleGambling&brand=ALL_BRANDS&region=GBR&locale=pt
 https://www.betfair.com/
-http://content.betfair.com/misc/?product=portal&sWhichKey=gamCare&locale=pt&region=GBR&brand=betfair&entrydomain=betfair.com
-http://www.betfair.com/aboutUs/Terms.and.Conditions/
-http://www.betfair.com/aboutUs/Cookie.Policy/
 http://www.betfair.com/
-http://www.betfair.com/aboutUs/Rules.and.Regulations/
-http://content.betfair.com/misc/?product=portal&sWhichKey=gamCare&locale=pt&region=GBR&brand=betfair&entrydomain=betfair.commisc?product=portal&sWhichKey=ResponsibleGambling
-http://www.betfair.com/aboutUs/Privacy.Policy/
+http://content.betfair.com/misc/?product=portal&sWhichKey=gamCare&locale=pt&region=GBR&brand=betfair&entrydomain=betfair.com
+http://content.betfair.com/misc/?product=portal&sWhichKey=ResponsibleGambling&brand=ALL_BRANDS&region=GBR&locale=pt

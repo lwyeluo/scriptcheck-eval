@@ -1,10 +1,10 @@
-http://www.legacy.com/memorial-sites/2018/
-http://www.legacy.com/about/careers
-https://www.legacy.com/funeral-homes/
-http://www.legacy.com/obituaries/legacy/condolences-charities.aspx
-http://www.legacy.com/news/galleries
+http://www.legacy.com/news/culture-and-trends
 https://www.legacy.com/
-http://www.legacy.com/about/news
 http://www.legacy.com/ns/about/contact.aspx
-http://www.legacy.com/news/celebrity-deaths/notable-deaths
+http://www.legacy.com/news
+http://www.legacy.com/news/galleries
 http://www.legacy.com/news/advice-and-support
+http://www.legacy.com/ns/memorial-sites/
+http://www.legacy.com/obituaries/legacy/condolences-charities.aspx
+http://www.legacy.com/ns/about/newspapers/
+http://www.legacy.com/memorial-sites/2018/

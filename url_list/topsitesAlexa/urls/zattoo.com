@@ -1,10 +1,9 @@
-https://support.zattoo.com/
-https://zattoo.com/de/
-https://www.zattoo.com/
-https://zattoo.com/lu/
 https://zattoo.com/int/
+https://zattoo.com/company/privacy/
+https://zattoo.com/
+https://zattoo.com/de/
 https://zattoo.com/ch/
-https://zattoo.com/company
-https://zattoo.com/dk/
-https://zattoo.com/es/
-https://zattoo.com/gb/
+https://support.zattoo.com/hc/de
+https://support.zattoo.com/hc/en-us
+https://zattoo.com/company/en/privacy/
+https://zattoo.com/ads-settings

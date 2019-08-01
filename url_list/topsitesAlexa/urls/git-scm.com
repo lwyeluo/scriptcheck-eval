@@ -1,10 +1,10 @@
-https://www.git-scm.com/aboutstaging-area
-https://www.git-scm.com/aboutdistributed
-https://www.git-scm.com/about
+https://www.git-scm.com/site
+https://www.git-scm.com/doc
+https://github.com/git/git-scm.com/blob/master/ARCHITECTURE.md
 https://www.git-scm.com/downloads
-https://www.git-scm.com/downloadwin
-https://www.git-scm.com/downloadsguis
-https://www.git-scm.com/community
-https://www.git-scm.com/aboutfree-and-open-source
 https://www.git-scm.com/sfc
+https://github.com/git/git-scm.com
 https://www.git-scm.com/
+https://www.git-scm.com/about
+https://www.git-scm.com/community
+https://github.com/git/git-scm.com/blob/master/MIT-LICENSE.txt

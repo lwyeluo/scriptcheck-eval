@@ -1,10 +1,5 @@
-https://www.razlozhi.ru/patiencestripleklondike3
-https://www.razlozhi.ru/gamesdurakabout#5d34244c82e90c1bca7c7637
-https://www.razlozhi.ru/patiencespairsabout
-https://www.razlozhi.ru/patiencesbrilliantabout
-https://www.razlozhi.ru/patiencesdance
-https://www.razlozhi.ru/gamesnine
-https://www.razlozhi.ru/
-https://www.razlozhi.ru/patiencessol
-https://www.razlozhi.ru/gamesdurakabout#5d3429c082e90c1bca7c7aed
-https://www.razlozhi.ru/patiencesmontecarlo
+https://razlozhi.ru/spider-millennium
+https://razlozhi.ru/
+https://razlozhi.ru/patiences
+https://razlozhi.ru/games
+https://razlozhi.ru/golf

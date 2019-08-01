@@ -1,9 +1,1 @@
-http://transfer.go.com/cgi/transfer.dll?srvc=dis&goto=http://disney.go.com/corporate/privacy/pp_wdig.html&name=g_legalFooter_privacypolicy
-http://transfer.go.com/cgi/transfer.dll?srvc=dis&goto=http://psc.disney.go.com/guestservices/index.html&name=g_legalFooter_faqhelp
-http://transfer.go.com/cgi/transfer.dll?srvc=dis&goto=http://disney.go.com/corporate/privacy/safety.html%3FppLink=pp_wdig&name=g_legalFooter_internetsafety
-http://transfer.go.com/cgi/transfer.dll?srvc=dis&goto=http://disney.go.com/corporate/privacy/terms.html%3FppLink=pp_wdig&name=g_legalFooter_termsofuse
-http://transfer.go.com/cgi/transfer.dll?srvc=dis&goto=http://disney.go.com/guestservices/index.html&name=g_legalFooter_guestservices
-http://home.disney.go.com/index
-http://transfer.go.com/cgi/transfer.dll?srvc=dis&goto=http://home.disney.go.com/sitemap/&name=g_legalFooter_sitemap
-http://transfer.go.com/cgi/transfer.dll?srvc=dis&goto=http://disney.go.com/guestservices/your_account/index.html&name=g_legalFooter_youraccount
 http://disney.go.com/

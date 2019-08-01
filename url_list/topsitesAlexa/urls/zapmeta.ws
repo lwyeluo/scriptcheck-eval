@@ -1,10 +1,1 @@
-https://www.zapmeta.ws/adv
 https://www.zapmeta.ws/
-https://www.zapmeta.ws/?mdc=y&q=
-https://www.zapmeta.ws/infofrequently_asked_questions
-http://www.visymo.com/contact?ref=zapmeta.ws
-https://www.zapmeta.ws/news?mdc=y&q=
-https://www.zapmeta.ws/infopower_of
-https://www.zapmeta.ws/pref
-http://www.visymo.com/disclaimer?ref=zapmeta.ws
-http://www.visymo.com/privacy?ref=zapmeta.ws

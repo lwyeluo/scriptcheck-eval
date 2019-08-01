@@ -1,1 +1,1 @@
-https://www.facenama.com/
+https://facenama.com/

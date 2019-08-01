@@ -1,10 +1,1 @@
-https://www.hdrezka-ag.com/cartoonsbest2019
-http://hdrezka-ag.com/series/drama/31312-spisok-lanya-2015.html
-https://www.hdrezka-ag.com/films
-http://hdrezka-ag.com/films/drama/31350-amundsen-2019.html
-https://www.hdrezka-ag.com/
-https://www.hdrezka-ag.com/filmstravel
-https://www.hdrezka-ag.com/seriesdocumentary31363-vu-tang-klan-titany-zheleznogo-mikrofona-2019.html
-https://www.hdrezka-ag.com/seriesmelodrama30733-sograzhdane-2019.html
-https://www.hdrezka-ag.com/seriesfantasy
-https://www.hdrezka-ag.com/seriescomedy18649-vse-shvacheno-2016.html
+https://hdrezka-ag.com/

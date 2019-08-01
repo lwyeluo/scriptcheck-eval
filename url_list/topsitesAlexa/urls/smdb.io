@@ -1,1 +1,1 @@
-https://www.smdb.io/
+https://smdb.io/

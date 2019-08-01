@@ -1,1 +1,1 @@
-https://www.narutoplanet.ru/
+https://narutoplanet.ru/

@@ -1,10 +1,10 @@
-https://kamus.tokopedia.com/
+https://www.tokopedia.com/p/olahraga
+https://www.tokopedia.com/tagihan/asuransi/prudential/
+https://www.tokopedia.com/p/pertukangan
 https://www.tokopedia.com/pulsa/
 https://www.tokopedia.com/p/makanan-minuman
-https://www.tokopedia.com/discovery/influencer-by-me
-https://tiket.tokopedia.com/kereta-api?ispulsa=1
+https://www.tokopedia.com/p/logam-mulia
 https://www.tokopedia.com/
-https://www.tokopedia.com/terms.pl
-https://www.tokopedia.com/emas/
-https://seller.tokopedia.com/edu/about-topads/
-https://www.tokopedia.com/flight
+https://www.tokopedia.com/mitra-toppers/?nref=mtfoot
+https://www.tokopedia.com/login
+https://www.tokopedia.com/roaming/?ispulsa=1

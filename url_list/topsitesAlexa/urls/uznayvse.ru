@@ -1,10 +1,1 @@
-https://www.uznayvse.ru/goroskop
-https://www.uznayvse.ru/zvezdyi
-https://www.uznayvse.ru/v-mire
-https://www.uznayvse.ru/astrologyznaki-zodiaka-kotorye-legko-poddayutsya-privorotu.html
-https://www.uznayvse.ru/forum
-https://www.uznayvse.ru/interesting-facts7-kinoaktris-lishivshihsya-roli-iz-za-beremennosti.html
-https://www.uznayvse.ru/
-https://www.uznayvse.ru/interesting-facts5-prichin-otkazatsya-ot-nizhnego-belya.html
-https://www.uznayvse.ru/voprosyilichnoe-prostranstvo-kak-voyti-v-komnatu-i-ne-stat-vragom.html
-https://www.uznayvse.ru/astrologykak-znaki-zodiaka-otnosyatsya-k-publichnomu-proyavleniyu-chuvstv.html
+https://uznayvse.ru/

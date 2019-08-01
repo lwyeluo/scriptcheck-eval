@@ -1,1 +1,1 @@
-https://www.auto.ru/
+https://auto.ru/

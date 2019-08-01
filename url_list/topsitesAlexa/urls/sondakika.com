@@ -1,10 +1,4 @@
-https://www.sondakika.com/fotogaleri2019-un-en-atesli-kadini-secilmisti-guzellik
-https://www.sondakika.com/fotogalericamasir-makinaniza-alimunyum-folyo-attiginizda
-https://www.sondakika.com/haberhaber-kamerunlu-masoze-cinsel-saldiri-iddiasina-4-12263645
-https://www.sondakika.com/haberhaber-volvo-yarim-milyon-aracini-geri-cagirdi-12264229
-https://www.sondakika.com/haberhaber-cin-ucak-calmaya-calisan-bu-cocugu-konusuyor-12264560
-https://www.sondakika.com/fotogalerimuge-anli-ile-guven-bana-ya-damga-vuran-game-of
+https://www.yenimedya.com.tr/tickets/?site=sondakika&referrer=https://www.sondakika.com/gazeteler/
+https://www.yenimedya.com.tr/tickets/?site=sondakika&referrer=https://www.sondakika.com/
 https://www.sondakika.com/
-https://www.sondakika.com/haberhaber-nohut-durum-satarak-11-kisiye-istihdam-sagladi-12262513
-https://www.sondakika.com/haberhaber-tir-in-altina-giren-kamyonetin-surucusu-oldu-12261972
-https://www.sondakika.com/haberhaber-tuncer-cucenoglu-son-yolculuguna-ugurlandi-12261400
+https://www.sondakika.com/gazeteler/

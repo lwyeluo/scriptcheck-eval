@@ -1,1 +1,1 @@
-https://www.etherscan.io/
+https://etherscan.io/

@@ -1,10 +1,1 @@
-https://www.udemy.com/coursesbusinessother-business
-https://www.udemy.com/coursespersonal-developmentpersonal-finance
-https://www.udemy.com/coursesoffice-productivityother-productivity
 https://www.udemy.com/
-https://www.udemy.com/coursesoffice-productivity
-https://www.udemy.com/coursesteaching-and-academicslanguage
-https://www.udemy.com/courseslifestylefood-and-beverage
-https://www.udemy.com/coursesmarketingvideo-and-mobile-marketing
-https://www.udemy.com/coursesfinance-and-accountingfinancial-modeling-and-analysis
-https://www.udemy.com/courseslifestyletravel

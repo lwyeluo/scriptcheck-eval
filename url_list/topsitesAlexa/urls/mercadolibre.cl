@@ -1,10 +1,10 @@
-https://articulo.mercadolibre.cl/MLC-440031983-mousepad-gamer-xl-speed-caucho-calidad-premium-70x30cm-_JM#c_id=/home/collections/item&c_campaign=geek&c_uid=0c5f83c7-a503-40b5-abae-4e40ba662af1
-https://articulo.mercadolibre.cl/MLC-453416222-reloj-climber-flowery-plateado-swatch-_JM#c_id=/home/official-stores/item&c_brand_name=Swatch&c_element_order=3&c_uid=aab595f9-77e6-4504-9eec-1554e0c6b0ca
-https://home.mercadolibre.cl/electronica/#c_id=/home/categories/element&c_category_id=MLC1000&c_uid=402d4601-2555-46eb-9ef5-54914fd4c2a1
+https://articulo.mercadolibre.cl/MLC-435423465-maniqui-perchero-de-exhibicion-para-tienda-moda-vestuario-_JM#c_id=/home/collections/item&c_campaign=pasatiempos&c_uid=00632d83-727d-4bd2-9753-ea8c27e857dd
 https://www.mercadolibre.cl/
-https://articulo.mercadolibre.cl/MLC-466434665-correa-swatch-plastico-multicolor-_JM#c_id=/home/official-stores/item&c_brand_name=Swatch&c_element_order=3&c_uid=4619e665-0acb-4b23-bbfe-d4a069287fe2
-https://articulo.mercadolibre.cl/MLC-446505974-goal-zero-yeti-400-estacion-de-recarga-de-baterias-portatil-_JM#c_id=/home/collections/item&c_campaign=geek&c_uid=52b24439-ac98-4871-a95b-57338ff5d1da
-https://home.mercadolibre.cl/arte-y-antiguedades/#c_id=/home/categories/element&c_category_id=MLC1367&c_uid=666da911-15c5-4181-a84b-154c705bbacd
-https://www.mercadolibre.cl/gzhomepaymentsmethods
-https://tienda.mercadolibre.cl/llantas-del-pacifico#c_id=/home/official-stores/element&c_brand_name=Llantas del pacifico&c_element_order=4&c_uid=5554ac22-dac6-46cd-a455-4c2ba2968491
-https://www.mercadolibre.com/jms/mlc/lgz/login?platform_id=ML&go=https%3A%2F%2Fwww.mercadolibre.cl%2F&loginType=explicit
+https://www.mercadolibre.cl/ayuda/terminos-y-condiciones-uso_1843
+https://articulo.mercadolibre.cl/MLC-462383421-camara-ip-motorizada-wifi-hd-cctv-2-antenas-771162-fernapet-_JM#c_id=/home/week-deal/element&c_element_order=2&c_uid=4d07628b-a7a2-484f-8c33-84a7198aaf4d
+https://www.mercadolibre.cl/categorias#nav-header
+https://www.mercadolibre.cl/ofertas/dia-del-nino#DEAL_ID=MLC621&S=DIA-DEL-NINO&V=1&T=MAIN_SLIDER_DESKTOP&L=DIA-DEL-NINO&c_id=/home/exhibitors-carousel/element&c_campaign=ofertas%2Fdia-del-nino&c_element_order=1&c_uid=6fa67ef3-fa55-41c7-a9df-6b2fb81c5fb4
+https://articulo.mercadolibre.cl/MLC-460186971-lego-super-heroes-the-hulkbuster-smash-up-_JM#c_id=/home/official-stores/item&c_brand_name=Lego&c_element_order=1&c_uid=7deb7e7b-8c62-424d-bba4-ba988617cb49
+https://www.mercadolibre.cl/servicios/#c_id=/home/categories/element&c_category_id=MLC1540&c_uid=c6fcc056-cede-471c-8d1a-6bdf189bf729
+https://articulo.mercadolibre.cl/MLC-438519713-saco-de-dormir-camping-nautika-viper-5-12-_JM#c_id=/home/collections/item&c_campaign=pasatiempos&c_uid=9c632e46-5816-4aac-b738-616ddcd2ac11
+https://www.mercadolibre.cl/vehiculos/#c_id=/home/categories/element&c_category_id=MLC1743&c_uid=55825039-c50b-4488-bcad-2c61f704e7d3

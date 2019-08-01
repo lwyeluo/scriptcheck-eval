@@ -1,10 +1,9 @@
-https://www.xue51.com/app26412.html
-https://www.xue51.com/sort195.html
+https://www.xue51.com/ruanjian.html
+https://www.xue51.com/top.html
+https://www.xue51.com/top_new.html
+https://www.xue51.com/rjtj.html
 https://www.xue51.com/
 https://www.xue51.com/zt.html
-https://www.xue51.com/ztbfyxsjbdq
-https://www.xue51.com/sort182.html
+https://www.xue51.com/youxi.html
 https://www.xue51.com/webmap.html
-https://www.xue51.com/sort183.html
-https://www.xue51.com/sort203.html
-https://www.xue51.com/sort197.html
+https://www.xue51.com/yxtj.html

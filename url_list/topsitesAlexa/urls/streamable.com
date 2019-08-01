@@ -1,1 +1,1 @@
-https://www.streamable.com/
+https://streamable.com/

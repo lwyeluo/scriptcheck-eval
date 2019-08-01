@@ -1,10 +1,1 @@
 https://www.porsche.com/
-https://www.porsche.com/france_morocco_
-https://www.porsche.com/central-eastern-europeen_bulgaria_
-https://www.porsche.com/france
-https://www.porsche.com/middle-east_dubai_
-https://www.porsche.com/middle-eastsaudiarabia
-https://www.porsche.com/middle-east_pakistan_
-https://www.porsche.com/pap_sri-lanka_
-https://www.porsche.com/latin-america-es_bolivia_
-https://www.porsche.com/pap_cambodia_

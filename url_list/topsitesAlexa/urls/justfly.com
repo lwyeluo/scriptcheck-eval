@@ -1,10 +1,10 @@
-https://www.justfly.com/my-accountprovide-email
-https://www.justfly.com/my-accountlogin
-https://www.justfly.com/?country=us
+https://www.justfly.com/?campaign=22982
 https://cars.justfly.com
+https://www.justfly.com/flights
 https://www.justfly.com/?country=ca
-http://cars.justfly.com/justfly
 https://www.justfly.com/about-us
-https://www.justfly.com/servicesupport
-https://www.justfly.com/reviews
 https://www.justfly.com/
+https://www.justfly.com/reviews
+https://www.justfly.com/blog/
+https://cars.justfly.com/?client=881877&tv=0363F604
+https://www.justfly.com/?country=us

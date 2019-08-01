@@ -1,10 +1,6 @@
-http://www.e-capcom.com/
-http://megaman.capcom.com
-https://www.capcom.com.tw/news/newsview/2891
-http://store.capcom.com
-https://www.capcom.com.tw/news/newsview/4451
-http://www.asia.capcom.com/
-http://www.capcom.com/us
-http://www.capcom.com/us/
 http://www.capcom.com/
-http://www.capcom.com.tw/
+http://www.capcom.com/capcom/legal_privacy/legal.php
+http://megaman.capcom.com
+http://www.capcom.com/us/
+http://www.capcom.com/capcom/legal_privacy/legal.html
+http://www.capcom.com/capcom/legal_privacy/privacy.html

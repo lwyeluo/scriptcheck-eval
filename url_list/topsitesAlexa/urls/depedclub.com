@@ -1,1 +1,10 @@
-https://www.depedclub.com/
+https://depedclub.com/1st-quarter-grade-6-daily-lesson-log-sy-2019-2020-dll/
+https://depedclub.com/category/deped-memorandums/
+https://depedclub.com/2019/02/13/
+https://depedclub.com/rep-herrera-dy-seeks-salary-increase-for-public-school-teachers/#respond
+https://depedclub.com/category/latest-feature/
+https://depedclub.com/guidelines-on-the-establishment-and-implementation-of-rpms-deped-order-2-s-2015/#respond
+https://depedclub.com/category/instructional-materials/
+https://depedclub.com/
+https://depedclub.com/poea-warns-teachers-on-illegal-recruitment-for-a-japan-school/#respond
+https://depedclub.com/author/pokeherr7/

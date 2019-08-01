@@ -1,10 +1,6 @@
-https://www.ask.com/terms
+https://help.ask.com/hc/en-us/requests/new?ticket_form_id=360000032173
+https://www.ask.com/cookies
+https://www.ask.com/privacy
 https://www.ask.com/
 https://about.ask.com/
-https://help.ask.com/
-https://help.ask.com/hc/en-us/requests/new?ticket_form_id=360000032173
-https://www.ask.com/privacy
-https://www.ask.com/termsprivacy
-https://www.ask.com/cookies
-https://www.ask.com/termsterms
-https://www.ask.com/termscookies
+https://www.ask.com/terms

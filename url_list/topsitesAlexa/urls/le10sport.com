@@ -1,10 +1,2 @@
-https://www.le10sport.com/footballmercatomercato-om-tout-serait-boucle-pour-dario-benedetto-466084
-https://www.le10sport.com/rugbyxv-de-francerugby-xv-de-france-laveu-danthony-belleau-sur-son-statut-de-reserviste-466096
-https://www.le10sport.com/footballmercatomercato-asse-caiazzo-confirme-une-tendance-claire-pour-saliba-465957
-https://www.le10sport.com/footballmercatomercato-psg-sarabia-diallo-quel-doit-etre-le-prochain-coup-de-leonardo-466064
-https://www.le10sport.com/footballligue1as-monaco
-https://www.le10sport.com/footballmercatoexclu-mercato-losc-arsenal-et-naples-en-lutte-finale-pour-nicolas-pepe-466069
-https://www.le10sport.com/footballligue1psg
-https://www.le10sport.com/footballespagnebarcelonebarcelone-griezmann-evoque-son-retour-a-latletico-466097
-https://www.le10sport.com/footballmercatomercato-psg-thomas-tuchel-en-rajoute-une-couche-pour-lavenir-de-neymar-466074
-https://www.le10sport.com/
+https://le10sport.com/rss
+https://le10sport.com/

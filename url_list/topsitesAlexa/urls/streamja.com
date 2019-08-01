@@ -1,1 +1,1 @@
-https://www.streamja.com/
+https://streamja.com/

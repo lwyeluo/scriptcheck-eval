@@ -1,1 +1,1 @@
-https://www.wetransfer.com/
+https://wetransfer.com/

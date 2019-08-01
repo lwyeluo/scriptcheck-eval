@@ -1,1 +1,1 @@
-https://www.fakty.ua/
+https://fakty.ua/

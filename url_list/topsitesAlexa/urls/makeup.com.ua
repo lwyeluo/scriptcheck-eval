@@ -1,10 +1,1 @@
-https://www.makeup.com.ua/categorys206079
-https://www.makeup.com.ua/categorys225745
-https://www.makeup.com.ua/categorys1190
-https://www.makeup.com.ua/categorys20131
-https://www.makeup.com.ua/categorys24082
-https://www.makeup.com.ua/mobileapp
-https://www.makeup.com.ua/
-https://www.makeup.com.ua/product33087
-https://www.makeup.com.ua/categorys1071143
-https://www.makeup.com.ua/categorys520
+https://makeup.com.ua/

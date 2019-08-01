@@ -1,1 +1,1 @@
-https://www.culturacolectiva.com/
+https://culturacolectiva.com/

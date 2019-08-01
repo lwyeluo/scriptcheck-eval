@@ -1,10 +1,3 @@
-https://community.memrise.com
 https://blog.memrise.com
-https://www.memrise.com/zh-cncourses
-https://www.memrise.com/zh-cncookies
+https://community.memrise.com
 https://www.memrise.com/
-https://www.memrise.com/zh-cnpress
-https://www.memrise.com/zh-cnprivacy
-https://www.memrise.com/zh-cn
-https://www.memrise.com/join
-https://www.memrise.com/zh-cnjobs

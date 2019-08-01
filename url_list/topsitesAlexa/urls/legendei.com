@@ -1,1 +1,1 @@
-https://www.legendei.com/
+https://legendei.com/

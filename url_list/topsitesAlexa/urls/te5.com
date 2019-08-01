@@ -1,10 +1,1 @@
-http://www.te5.com/bns/2019/413169.html
-http://www.te5.com/mgames/424101.html
-http://www.te5.com/mgames/435628.html
-http://www.te5.com/mgames/437053.html
-http://bbs.te5.com/thread-14865696-1-1.html
-https://lol.te5.com/2019/428216.html
-http://www.te5.com/bns/2018/391923.html
-http://ka.te5.com/card_69367.shtml
-http://lol.te5.com/zt/2019Msi/index.html
 https://www.te5.com/

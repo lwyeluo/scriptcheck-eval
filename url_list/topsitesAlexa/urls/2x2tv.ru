@@ -1,10 +1,2 @@
-https://www.2x2tv.ru/seriescomedysimpsons
-https://www.2x2tv.ru/seriesspecialsgolden-kollekshn-2016
-https://www.2x2tv.ru/seriestrashkit-stupid-show
-https://www.2x2tv.ru/contacts#contacts
+https://2x2tv.ru/
 https://oauth.vk.com/authorize?client_id=6254523&redirect_uri=http://2x2tv.ru/
-https://www.2x2tv.ru/seriesspecialsnick-cave-the-bad-seeds
-https://www.2x2tv.ru/blogrick-and-morty-contest
-https://www.2x2tv.ru/top100.rambler.runavi3080679
-https://www.2x2tv.ru/miyazaki-world
-https://www.2x2tv.ru/

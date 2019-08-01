@@ -1,1 +1,1 @@
-https://www.appuals.com/
+https://appuals.com/

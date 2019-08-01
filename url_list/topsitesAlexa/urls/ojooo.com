@@ -1,1 +1,1 @@
-https://www.ojooo.com/
+https://ojooo.com/

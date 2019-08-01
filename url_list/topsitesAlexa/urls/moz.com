@@ -1,1 +1,1 @@
-https://www.moz.com/
+https://moz.com/

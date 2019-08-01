@@ -1,1 +1,1 @@
-https://www.progameguides.com/
+https://progameguides.com/

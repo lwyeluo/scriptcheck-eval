@@ -1,10 +1,3 @@
-http://www.vokrugsveta.ru/companynews317332
-http://www.vokrugsveta.ru/blogsamonakhov2019.php
-http://www.vokrugsveta.ru/vs
-http://www.vokrugsveta.ru/quiz315373
-http://www.vokrugsveta.ru/companynews317251
-http://www.vokrugsveta.ru/quiz316774
-http://www.vokrugsveta.ru/article316167
+https://www.instagram.com/vokrugsveta.ru/
+http://map.vokrugsveta.ru/
 http://www.vokrugsveta.ru/
-http://www.vokrugsveta.ru/blogs
-http://www.vokrugsveta.ru/companynews318425

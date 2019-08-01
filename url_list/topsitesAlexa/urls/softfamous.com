@@ -1,1 +1,1 @@
-https://www.softfamous.com/
+https://softfamous.com/

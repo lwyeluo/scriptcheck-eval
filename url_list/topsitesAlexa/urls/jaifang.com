@@ -1,0 +1,10 @@
+http://www.jaifang.com/house/housedetail-352.html
+http://www.jaifang.com/house/housedetail-298.html
+http://www.jaifang.com/house/housedetail-356.html
+http://www.jaifang.com/taihe/newsdetail-38934.html
+http://www.jaifang.com/news/newsdetail-38933.html
+http://www.jaifang.com/house/housedetail-328.html
+http://www.jaifang.com/house/housedetail-388.html
+http://www.jaifang.com/house/housedetail-262.html
+http://www.jaifang.com/house/housedetail-135.html
+http://www.jaifang.com/

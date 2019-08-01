@@ -1,10 +1,10 @@
-https://www.samsclub.com/?xid=hdr_logo
-https://lifelock.samsclub.com?xid=hdr_services_identity-protection-services
-http://corporate.samsclub.com/sams-club-privacy-policy
-https://www.samsclub.com/samsaccountregistrationregistration.jsp?xid=ftr:register-your-membership
+https://help.samsclub.com/app/answers/detail/a_id/354?xid=ftr:shipping-faqs
 https://www.samsclub.com/shockingvalues?xid=hpg_carousel_shocking-values_see-all
-http://photo.samsclub.com/home.aspx?xid=hdr_shop1_photo
+https://help.samsclub.com/app/?xid=ftr:help-center
+https://www5.samsclub.com/yourbusiness/international.aspx?xid=ftr:exports
+https://help.samsclub.com?xid=hdr_message_help-center
 https://auctions.samsclub.com/auction/endingsoon/new/?xid=hdr_shop1_auctions
+https://www5.samsclub.com/yourbusiness/USTruckLoad.aspx?xid=ftr:truckloads
+https://www.samsclub.com/?xid=hdr_logo
 https://www.samsclub.com/
-https://www.samsclub.com/samsshoppingtoolsorderhistoryorderHistory.jsp?xid=ftr:track-orders
-https://www.samsclub.com/samspagedetailscontent.jsp?pageName=returns&xid=ftr:return-refunds
+https://serviceshub.samsclub.com/

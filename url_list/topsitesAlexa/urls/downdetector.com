@@ -1,1 +1,1 @@
-https://www.downdetector.com/
+https://downdetector.com/

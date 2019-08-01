@@ -1,1 +1,1 @@
-https://www.tankionline.com/
+https://tankionline.com/

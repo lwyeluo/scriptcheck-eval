@@ -1,1 +1,1 @@
-https://www.vfxdownload.com/
+https://vfxdownload.com/

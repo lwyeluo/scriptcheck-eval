@@ -1,1 +1,1 @@
-https://www.petapixel.com/
+https://petapixel.com/

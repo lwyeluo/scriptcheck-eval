@@ -1,1 +1,10 @@
-https://www.torrenthaja1.com/
+https://torrenthaja1.com/torrent_kmovie/5845.html
+https://torrenthaja1.com/torrent_ent/35417.html
+https://torrenthaja1.com/bbs/search.php?sfl=wr_subject&sop=and&stx=-next
+https://torrenthaja1.com/bbs/search.php?sfl=wr_subject&sop=and&stx=1
+https://torrenthaja1.com/bbs/search.php?sfl=wr_subject&sop=and&stx=0utlaw
+https://torrenthaja1.com/cm_humor/12527.html
+https://torrenthaja1.com/torrent_ent/35419.html
+https://torrenthaja1.com/bbs/search.php?sfl=wr_subject&sop=and&stx=0728
+https://torrenthaja1.com/
+https://torrenthaja1.com/cm_humortube/4704.html

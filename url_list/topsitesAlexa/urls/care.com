@@ -1,10 +1,10 @@
-https://www.care.com/preschools
-https://www.care.com/pet-sitting-rates
 https://www.care.com/pet-care-jobs
-https://www.care.com/careatwork
-https://www.care.com/house-cleaning-jobs
-https://www.care.com/pet-care
-https://www.care.com/safety-center
-https://www.care.com/c/stories/5777/choosing-an-assisted-living-facility/
+https://www.care.com/affiliate-program-p1059.html
 https://www.care.com/c/stories/6822/carecom-promo-code-coupon-discount-code/
+https://www.care.com/child-care-centers
+https://www.care.com/maid-jobs
+https://www.care.com/home-care
+https://www.care.com/nanny-share
+https://www.care.com/pet-care
+https://www.care.com/tutoring-jobs
 https://www.care.com/

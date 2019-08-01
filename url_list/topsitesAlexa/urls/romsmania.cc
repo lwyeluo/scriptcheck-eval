@@ -1,1 +1,1 @@
-https://www.romsmania.cc/
+https://romsmania.cc/

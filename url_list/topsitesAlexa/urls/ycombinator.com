@@ -1,10 +1,2 @@
-https://www.ycombinator.com/security
-https://www.ycombinator.com/investors
-http://news.ycombinator.com
-https://ycombinator.com/demoday
-https://www.ycombinator.com/press
-https://www.ycombinator.com/continuity
-https://www.ycombinator.com/quotes
-https://www.ycombinator.com/topcompanies
-https://www.ycombinator.com/contact
 https://www.ycombinator.com/
+https://blog.ycombinator.com

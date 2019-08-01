@@ -1,1 +1,1 @@
-https://www.piknu.com/
+https://piknu.com/

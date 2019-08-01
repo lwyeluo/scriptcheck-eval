@@ -1,1 +1,1 @@
-https://www.draxe.com/
+https://draxe.com/

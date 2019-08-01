@@ -1,10 +1,2 @@
-https://www.gtavicecity.ru/gta-san-andreascarsrussian-cars.html
-https://www.gtavicecity.ru/gta-5gta-5-cheats-ps3.html
-https://www.gtavicecity.ru/gta-4gta4-cheats.html
-https://www.gtavicecity.ru/gta-san-andreasmaps1990-map-graffiti.html
-https://www.gtavicecity.ru/gta-4maps
-https://www.gtavicecity.ru/gta-san-andreascleo1074-cleo-4-gta-san-andreas.html
-https://www.gtavicecity.ru/gta-san-andreascars115371-bmw-m5-f90-ghost-kit-2018.html
-https://www.gtavicecity.ru/gta-vice-citymods9642-enb-v0075.html
+https://www.gtavicecity.ru/privacy-policy.html
 https://www.gtavicecity.ru/
-https://www.gtavicecity.ru/gta-san-andreasboats

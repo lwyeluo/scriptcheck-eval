@@ -1,10 +1,1 @@
-http://www.getfvid.com/fr
-http://www.getfvid.com/zh
-http://www.getfvid.com/en/contact
-http://www.getfvid.com/ru
 https://www.getfvid.com/
-http://www.getfvid.com/en/sitemap
-http://www.getfvid.com/nl
-http://www.getfvid.com/de
-http://www.getfvid.com/vi
-http://www.getfvid.com/en/instagram

@@ -1,1 +1,1 @@
-http://www.loveread.ec/
+http://loveread.ec/

@@ -1,10 +1,10 @@
-https://www.senscritique.com/universwarner
-https://www.senscritique.com/serie7_Seeds38471464
+https://www.senscritique.com/search
+https://www.senscritique.com/film/Roads/critique/198595072
+https://www.senscritique.com/musique
+https://www.senscritique.com/bd
+https://www.senscritique.com/univers/warner
+https://www.senscritique.com/films
 https://www.senscritique.com/jeuxvideo
-http://www.senscritique.com/films/cette-semaine
-https://www.senscritique.com/topresultatsLes_meilleures_series_US210487
-https://www.senscritique.com/seriesoeuvres
 https://www.senscritique.com/
-https://www.senscritique.com/serieWayne37880278
 https://www.senscritique.com/apropos
-https://www.senscritique.com/livreL_Humanite_en_Peril_Virons_de_bord_toute39434776
+https://www.senscritique.com/livres

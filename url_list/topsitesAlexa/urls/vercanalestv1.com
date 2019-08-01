@@ -1,1 +1,1 @@
-https://www.vercanalestv1.com/
+https://vercanalestv1.com/

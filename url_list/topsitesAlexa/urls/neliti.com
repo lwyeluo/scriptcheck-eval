@@ -1,10 +1,10 @@
-https://www.neliti.com/journalsbuletin-penelitian-sistem-kesehatan
-https://www.neliti.com/journalshumaniora-ugm
+https://www.neliti.com/journals
+https://www.neliti.com/
 https://www.neliti.com/about
 https://www.neliti.com/kemenkes
-https://www.neliti.com/indexing
-https://www.neliti.com/careers
-https://www.neliti.com/
-https://www.neliti.com/journals
+https://www.neliti.com/badan-pusat-statistik
 https://www.neliti.com/neliti-api
 https://www.neliti.com/libraries
+https://www.neliti.com/indexing
+https://www.neliti.com/universitas-indonesia
+https://www.neliti.com/careers

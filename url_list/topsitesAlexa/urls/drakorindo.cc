@@ -1,1 +1,1 @@
-https://www.drakorindo.cc/
+https://drakorindo.cc/

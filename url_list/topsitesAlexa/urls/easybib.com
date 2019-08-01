@@ -1,10 +1,10 @@
-http://www.easybib.com/guides/?from=footer
-http://support.easybib.com
-https://easybib.com/grammar-and-plagiarism/
 http://www.easybib.com/sitemap
-https://www.easybib.com/grammar-and-plagiarism
-http://developer.easybib.com
+http://support.easybib.com/?Website=External
+http://www.easybib.com/guides/citation-guides/chicago-turabian/
 http://www.easybib.com/guides/cookie-notice/
+http://www.easybib.com/guides/blog/
+http://developer.easybib.com
+http://www.easybib.com/guides/citation-guides/mla-format/
 http://titlepage.easybib.com/
+http://www.easybib.com/guides/citation-guides/apa-format/
 https://www.easybib.com/
-http://www.easybib.com/guides/category/blog-posts/

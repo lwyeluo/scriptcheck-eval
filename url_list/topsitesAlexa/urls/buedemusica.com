@@ -1,1 +1,1 @@
-https://www.buedemusica.com/
+https://buedemusica.com/

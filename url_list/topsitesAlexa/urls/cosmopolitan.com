@@ -1,10 +1,1 @@
-https://www.cosmopolitan.com/sex-love
-https://www.cosmopolitan.com/lifestyleadvicea1845customer-service
-https://www.cosmopolitan.com/politics
-https://www.cosmopolitan.com/entertainmentbooksg28451165best-quick-beach-reads
 https://www.cosmopolitan.com/
-https://www.cosmopolitan.com/entertainmentcelebsa28456123pete-davidson-jokes-sex-with-mom-tan-france
-https://www.cosmopolitan.com/weddings
-https://www.cosmopolitan.com/sitemap
-https://www.cosmopolitan.com/style-beautybeautya28400587gel-nails-last-longer
-https://www.cosmopolitan.com/entertainmenttva28428521queer-eye-exclusive-cheerleading-clip-season-4

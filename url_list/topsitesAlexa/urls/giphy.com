@@ -1,1 +1,1 @@
-http://www.giphy.com/
+https://giphy.com/

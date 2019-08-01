@@ -1,10 +1,3 @@
-https://www.depop.com/about
-https://www.depop.com/aboutaboutspaces
-https://www.depop.com/events
-https://www.depop.com/aboutspaces
-https://www.depop.com/aboutevents
-https://www.depop.com/login
-https://www.depop.com/aboutabout
-https://www.depop.com/aboutjobs
-https://www.depop.com/
 https://press.depop.com
+https://www.depop.com/
+https://www.depop.com

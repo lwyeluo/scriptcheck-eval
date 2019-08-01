@@ -1,1 +1,1 @@
-https://www.apkpure.com/
+https://apkpure.com/

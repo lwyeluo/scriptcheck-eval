@@ -1,1 +1,1 @@
-https://www.znaj.ua/
+https://znaj.ua/

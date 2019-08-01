@@ -1,10 +1,10 @@
+https://www.goodgamestudios.com/careers/hamburg/
+https://www.goodgamestudios.com/games/big-farm-new-harvest/
 https://www.goodgamestudios.com/
-https://www.goodgamestudios.com/games/goodgame-big-farm/
-http://support.goodgamestudios.com/?lang=en
 https://www.goodgamestudios.com/games/empire-world-war-3/
-https://www.goodgamestudios.com/privacy-policy/
-https://empire.goodgamestudios.com/
 https://www.goodgamestudios.com/de/
-https://www.goodgamestudios.com/games/goodgame-big-farm-mobile/
-https://www.goodgamestudios.com/company/partners/
-https://www.goodgamestudios.com/company/press/materials/
+https://www.goodgamestudios.com/terms-of-service/
+https://www.goodgamestudios.com/careers/jobs/
+https://www.goodgamestudios.com/blog/
+https://www.goodgamestudios.com/games/goodgame-empire/
+https://www.goodgamestudios.com/games/goodgame-big-farm/

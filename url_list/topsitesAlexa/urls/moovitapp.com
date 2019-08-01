@@ -1,1 +1,1 @@
-https://www.moovitapp.com/
+https://moovitapp.com/

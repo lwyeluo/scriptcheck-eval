@@ -1,10 +1,5 @@
-https://www.blablacar.ru/ride-sharingкостромамосква
-https://www.blablacar.ru/about-usterms-and-conditions
-https://www.blablacar.ru/about-uscookies-policy
-https://www.blablacar.ru/ride-sharingмоскватула
-https://www.blablacar.ru/ride-sharingярославльмосква
-https://www.blablacar.ru/pro
-https://www.blablacar.ru/
-https://www.blablacar.ru/ride-sharing
+https://www.blablacar.ru/login?redirect=%2F
 https://www.blablacar.ru/register
-https://instagram.com/blablacar.ru
+https://www.blablacar.ru/contact
+https://www.blablacar.ru/
+https://www.blablacar.ru/pro

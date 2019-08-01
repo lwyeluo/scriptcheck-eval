@@ -1,10 +1,6 @@
-https://www.tubitv.com/staticcareers
-https://www.tubitv.com/staticprivacy
-https://www.tubitv.com/staticdevices
+https://tubitv.com/
+https://tubitv.com/signup
+https://tubitv.com/home
 https://help.tubitv.com/hc/en-us
-https://www.tubitv.com/
-https://www.tubitv.com/staticsupport
-https://www.tubitv.com/activate
-https://www.tubitv.com/staticterms
-https://www.tubitv.com/login
-https://www.tubitv.com/home
+https://tubitv.com/activate
+https://tubitv.com/login

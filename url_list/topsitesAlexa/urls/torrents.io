@@ -1,1 +1,1 @@
-https://www.torrents.io/
+https://torrents.io/

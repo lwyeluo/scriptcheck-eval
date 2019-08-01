@@ -1,10 +1,2 @@
-https://www.digitec.ch/deinformationcontactInformation
-https://www.digitec.ch/des1producttypetoner-95
-https://www.digitec.ch/desocialnetworkingservice12
-https://www.digitec.ch/dewiki3012
 https://www.digitec.ch/
-https://www.digitec.ch/dewiki478
-https://www.digitec.ch/des1tagpcs-server-615
-https://www.digitec.ch/Resale
-https://www.digitec.ch/desite246974
-https://www.digitec.ch/desite246965
+https://www.digitec.ch/de

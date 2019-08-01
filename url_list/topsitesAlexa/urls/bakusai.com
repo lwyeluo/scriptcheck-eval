@@ -1,1 +1,1 @@
-https://www.bakusai.com/
+https://bakusai.com/

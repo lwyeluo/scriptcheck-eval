@@ -1,10 +1,9 @@
-https://www.letras.com/shawn-mendessenorita-feat-camila-cabello
-https://www.letras.com/contribuicoesenviar_album
-https://www.letras.com/letraD
-https://www.letras.com/contribuicoes
+https://www.letras.com/lancamentos.html
+https://www.letras.com/playlists.html
+https://www.letras.com/faq.html
 https://www.letras.com/perfil_musical.html
-https://www.letras.com/letra1
-https://www.letras.com/letraE
-https://www.letras.com/letraQ
-https://www.letras.com/letraZ
+https://www.letras.com/playlists/450560/
 https://www.letras.com/
+https://www.letras.com/regras.html
+https://www.letras.com/novidades.html
+https://www.letras.com/aviso-legal.html

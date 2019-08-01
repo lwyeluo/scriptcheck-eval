@@ -1,10 +1,1 @@
 https://www.square-enix.com/
-http://www.hd.square-enix.com/jpn/jpnnewspdf19q4slidesJPN.pdf
-http://eu.square-enix.com/en/home
-http://www.hd.square-enix.com/jpn/
-http://www.hd.square-enix.com/jpn/jpnnewspdf20190621_01.pdf
-http://www.hd.square-enix.com/jpn/jpnnewspdf20190718_01.pdf
-http://www.hd.square-enix.com/eng/
-http://www.hd.square-enix.com/jpn/jpnnewspdf19q4tanshin.pdf
-http://www.hd.square-enix.com/jpn/jpn
-http://www.jp.square-enix.com/

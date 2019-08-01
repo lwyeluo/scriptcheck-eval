@@ -1,9 +1,1 @@
-https://www.teaserfast.ru/registration
 https://www.teaserfast.ru/
-https://www.teaserfast.ru/login
-https://www.teaserfast.ru/rules
-https://www.teaserfast.ru/help
-https://www.teaserfast.ru/news
-https://www.teaserfast.ru/feedback
-https://www.teaserfast.ru/payorder
-https://www.teaserfast.ru/earn

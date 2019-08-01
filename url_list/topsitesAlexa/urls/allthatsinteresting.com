@@ -1,1 +1,1 @@
-https://www.allthatsinteresting.com/
+https://allthatsinteresting.com/

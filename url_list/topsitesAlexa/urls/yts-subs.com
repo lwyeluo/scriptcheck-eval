@@ -1,1 +1,1 @@
-https://www.yts-subs.com/
+https://yts-subs.com/

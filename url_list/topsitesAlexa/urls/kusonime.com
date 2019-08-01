@@ -1,1 +1,1 @@
-https://www.kusonime.com/
+https://kusonime.com/

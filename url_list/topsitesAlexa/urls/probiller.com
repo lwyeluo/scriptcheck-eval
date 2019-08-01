@@ -1,10 +1,6 @@
-https://www.probiller.com/
-https://probiller.com/support/PB
-https://probiller.com/main/TermsAndConditions
-https://probiller.com/faq
-https://probiller.com/supportfaq
-https://probiller.com/support
 https://probiller.com/main/Sitemap
-https://probiller.com/support/MU
-https://probiller.com
 https://probiller.com/legal/privacy
+https://probiller.com/
+https://probiller.com/main/TermsAndConditions
+https://probiller.com/main/RightOfWithdrawal
+https://probiller.com

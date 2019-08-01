@@ -1,1 +1,1 @@
-https://www.gamejolt.com/
+https://gamejolt.com/

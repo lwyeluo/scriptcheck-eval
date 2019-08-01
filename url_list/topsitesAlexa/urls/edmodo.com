@@ -1,10 +1,1 @@
-\"https://new.edmodo.com/account_recovery\"
-\"https://go.edmodo.com/careers\"
-\"https://blog.edmodo.com\"
-\"https://go.edmodo.com/newsroom\"
-\"https://go.edmodo.com/community\"
-\"https://go.edmodo.com/support\"
 https://www.edmodo.com/
-\"https://developers.edmodo.com\"
-\"https://go.edmodo.com/contact\"
-\"https://go.edmodo.com/terms-of-service\"

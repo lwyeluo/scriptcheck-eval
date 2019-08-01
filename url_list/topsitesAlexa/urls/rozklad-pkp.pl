@@ -1,10 +1,5 @@
-https://www.rozklad-pkp.pl/plsq
-https://www.rozklad-pkp.pl/pl
-https://www.rozklad-pkp.pl/
-https://www.rozklad-pkp.pl/plpageprywatnosc
-https://www.rozklad-pkp.pl/plnewsshowgrupa-pkp-podsumowuje-2018-rok
-http://old.rozklad-pkp.pl
-https://www.rozklad-pkp.pl/go.pl.bbelements.compleaseredirect25050112
-https://www.rozklad-pkp.pl/plpageinfolinia-pkp-intercity
-https://www.rozklad-pkp.pl/plnewsshow10-marca-wchodzi-w-ycie-korekta-rozk-adu-jazdy-pkp-intercity-dostosowuje-po-czenia-do-prac-modernizacyjnych
+https://rozklad-pkp.pl/pl
+https://rozklad-pkp.pl/en
 https://rozklad-pkp.pl/
+https://rozklad-pkp.pl/de
+https://rozklad-pkp.pl/ru

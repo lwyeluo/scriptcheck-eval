@@ -1,1 +1,1 @@
-http://www.skribbl.io/
+https://skribbl.io/

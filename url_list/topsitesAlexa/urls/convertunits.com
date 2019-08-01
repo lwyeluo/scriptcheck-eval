@@ -1,10 +1,4 @@
-https://www.convertunits.com/datesfromJul+1,+2019toAug+1,+2019
-https://www.convertunits.com/dateshowmanyMondays-in-2019
-https://www.convertunits.com/SI-units.php
-https://www.convertunits.com/fromlbstokg
+https://www.convertunits.com/privacy.php
 https://www.convertunits.com/
-https://www.convertunits.com/dateshowmanyThursdays-in-2019
-https://www.convertunits.com/salary
-https://www.convertunits.com/frommoles+Californium(IV)+Fluoridetograms
-https://www.convertunits.com/datesfromJan+1,+2019toJan+1,+2020
-https://www.convertunits.com/hourly39
+https://www.convertunits.com/bibliography.php
+https://www.convertunits.com/SI-units.php

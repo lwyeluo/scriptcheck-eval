@@ -1,1 +1,1 @@
-https://www.flipboard.com/
+https://flipboard.com/

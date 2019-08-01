@@ -1,1 +1,1 @@
-https://www.thehackernews.com/
+https://thehackernews.com/

@@ -1,10 +1,10 @@
+https://appcast.io/
 https://appcast.io/product/clickcast/
-https://appcast.io/careers/
-https://www.appcast.io/
 https://appcast.io/sitemap/
-https://appcast.io/platforms/
-https://appcast.io/manufacturing-industry-recruitment-marketing/
-https://appcast.io/financial-services-recruitment-marketing/
-https://appcast.io/resources/
-https://appcast.io/product/solutions-for-agencies/
+https://appcast.io/news/
 https://appcast.io/business-services-recruitment-marketing/
+https://appcast.io/job-sites/
+https://appcast.io/gig-economy-recruitment-marketing/
+https://appcast.io/product/solutions-for-job-sites/
+https://appcast.io/get-a-free-consultation/
+https://appcast.io/recruitment-marketing-resource-hub/

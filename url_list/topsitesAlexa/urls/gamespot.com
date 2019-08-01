@@ -1,10 +1,10 @@
-https://www.gamespot.com/reviews/sea-of-solitude-review-adrift/1900-6417210/
-https://www.gamespot.com/ps4
+https://www.gamespot.com/reviews/
+https://www.gamespot.com/news/
+https://www.gamespot.com/madden-nfl-20/
+https://gamefaqs.gamespot.com/
+https://www.gamespot.com/reviews/solseraph-review-play-god/1900-6417216/
 https://www.gamespot.com/
-https://www.gamespot.com/games
 https://www.gamespot.com/shows/gamespot-of-thrones/
-https://shop.gamespot.com
-https://www.gamespot.com/cyberpunk-2077/
 https://www.gamespot.com/forums/
-https://www.gamespot.com/marvels-avengers/
-https://www.gamespot.com/articlessdcc-2019-star-trek-panels-reveal-picard-discovery1100-6468564
+https://www.gamespot.com/final-fantasy-vii-remake/
+https://www.gamespot.com/star-wars-jedi-fallen-order/

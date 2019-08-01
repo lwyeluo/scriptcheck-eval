@@ -1,1 +1,1 @@
-https://www.daily-inform.ru/
+https://daily-inform.ru/

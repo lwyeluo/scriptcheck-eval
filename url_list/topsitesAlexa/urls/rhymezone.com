@@ -1,10 +1,10 @@
-https://forum.rhymezone.com
+https://forum.rhymezone.com/member/3926-alexandrathelate
 https://www.rhymezone.com/adv
+https://forum.rhymezone.com/forum/main-forum
+https://forum.rhymezone.com/forum/main-forum/453241-senior-discounts
 https://www.rhymezone.com/
 https://forum.rhymezone.com/forum/share-riddles-teasers-and-contests
+https://forum.rhymezone.com/forum/main-forum/453162-when-she-had-kids-of-her-own
+https://forum.rhymezone.com/member/36-amenora
 https://forum.rhymezone.com/forum/get-help-with-writing-and-homework
-https://www.rhymezone.com/rrd.cgi?c=forum&url=homepage
-https://www.rhymezone.com/help
-https://www.rhymezone.com/couplets
-https://www.rhymezone.com/help#privacy
-https://www.rhymezone.com/rrd.cgi?c=ios&url=hp1
+https://forum.rhymezone.com

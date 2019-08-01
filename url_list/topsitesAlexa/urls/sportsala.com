@@ -1,1 +1,1 @@
-https://www.sportsala.com/
+https://sportsala.com/

@@ -1,1 +1,1 @@
-https://www.f1-gate.com/
+https://f1-gate.com/

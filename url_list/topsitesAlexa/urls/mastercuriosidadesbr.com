@@ -1,1 +1,1 @@
-https://www.mastercuriosidadesbr.com/
+http://www.mastercuriosidadesbr.com/

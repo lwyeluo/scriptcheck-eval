@@ -1,1 +1,1 @@
-https://www.sanet.st/
+https://sanet.st/

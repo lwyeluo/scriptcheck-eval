@@ -1,10 +1,10 @@
-https://www.history.com/showsthe-unxplainedseason-1episode-1
+https://www.history.com/apps
 https://www.history.com/news
+https://www.history.com/speeches
 https://www.history.com/
-https://www.history.com/showsancient-aliensplaylistancient-aliens-the-mayans
+https://www.history.com/shows
+https://www.history.com/news/andrew-carnegie-unions-homestead-strike
+https://www.history.com/news/red-summer-1919-riots-chicago-dc-great-migration
+https://history.com/news/ulysses-grant-expulsion-jews-civil-war
 https://www.history.com/this-day-in-history
-https://www.history.com/schedule
-https://www.history.com/showsthe-food-that-built-america
-https://www.history.com/specialsnazis-on-drugs-hitler-and-the-blitzkrieg
-https://www.history.com/showsclassroom
-https://www.history.com/www.mylifetime.com
+https://www.history.com/videos

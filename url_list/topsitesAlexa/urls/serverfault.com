@@ -1,10 +1,1 @@
-https://www.serverfault.com/questions703010adding-drivers-to-a-non-bootable-drive
-https://www.serverfault.com/questionstaggedmongodb
-https://www.serverfault.com/questions
-https://www.serverfault.com/users-1community
-https://www.serverfault.com/questionstaggedubuntu-18.04
-https://www.serverfault.com/questionstaggedamazon-web-services
-https://www.serverfault.com/questions976078not-able-to-run-ansible-playbook-against-ec2-host-ssh-through-terminal-is-worki
-https://www.serverfault.com/?tags=ubuntu
-https://www.serverfault.com/questionstaggedisapi
-https://www.serverfault.com/
+https://serverfault.com/

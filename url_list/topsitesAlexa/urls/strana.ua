@@ -1,1 +1,1 @@
-https://www.strana.ua/
+https://strana.ua/

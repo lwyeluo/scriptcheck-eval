@@ -1,10 +1,10 @@
-https://www.payumoney.com/productexcel-payment.html
+https://developer.payumoney.com/ios/
 https://www.payumoney.com/
 https://developer.payumoney.com/android/
-https://www.payumoney.com/payment-gateway-feature.html
-https://www.payumoney.com/productpayments-button.html
-https://www.payumoney.com/support.html
-https://www.payumoney.com/productpayment-gateway-website.html
+https://developer.payumoney.com/plugins/
+https://developer.payumoney.com/
+https://www.payumoney.com/tnc.html
 https://blog.payumoney.com/?utm_source=website&utm_medium=blog&utm_content=header
-https://www.payumoney.com/productpayment-gateway-sdk.html
-https://www.payumoney.com/productpayouts.html
+https://www.payumoney.com/payment-gateway-feature.html
+https://www.payumoney.com/privacypolicy.html
+https://www.payumoney.com/support.html

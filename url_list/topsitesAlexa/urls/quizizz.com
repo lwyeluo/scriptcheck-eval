@@ -1,1 +1,1 @@
-https://www.quizizz.com/
+https://quizizz.com/

@@ -1,10 +1,1 @@
-https://www.prezi.com/
-https://www.prezi.com/presentation-template?click_source=logged_element&page_location=header_discover_dropdown&element_type=link&element_text=templates
-https://www.prezi.com/ko
-https://www.prezi.com/company-information?click_source=logged_element&page_location=footer_mobile&element_type=link&element_text=company_information
-https://www.prezi.com/terms-of-use?click_source=logged_element&page_location=footer_mobile&element_type=link&element_text=terms
-https://www.prezi.com/ja
-https://www.prezi.com/business?click_source=logged_element&page_location=hamburger_menu&element_type=link&element_text=business
-https://www.prezi.com/businesscustomers?click_source=logged_element&page_location=footer&element_type=link&element_text=customers
-https://www.prezi.com/pt
-https://www.prezi.com/it
+https://prezi.com/

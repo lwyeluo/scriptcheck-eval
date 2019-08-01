@@ -1,1 +1,1 @@
-https://www.firmwarefile.com/
+https://firmwarefile.com/

@@ -1,1 +1,1 @@
-https://www.spring.io/
+https://spring.io/

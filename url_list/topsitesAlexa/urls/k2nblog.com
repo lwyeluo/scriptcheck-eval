@@ -1,1 +1,1 @@
-https://www.k2nblog.com/
+https://k2nblog.com/

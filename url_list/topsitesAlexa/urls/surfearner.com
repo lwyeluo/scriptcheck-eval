@@ -1,1 +1,1 @@
-https://www.surfearner.com/
+https://surfearner.com/

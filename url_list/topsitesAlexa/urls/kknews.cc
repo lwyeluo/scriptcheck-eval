@@ -1,1 +1,1 @@
-https://www.kknews.cc/
+https://kknews.cc/

@@ -1,1 +1,1 @@
-https://www.cut-urls.com/
+https://cut-urls.com/

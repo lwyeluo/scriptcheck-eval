@@ -1,10 +1,1 @@
-https://www.chitai-gorod.ru/catalogkanctovars
-https://www.chitai-gorod.ru/catalogbooksfilosofiya_i_religiya-9645
-https://www.chitai-gorod.ru/catalogbook1200563?watch_fromlist=main_Новинки_литературы
-https://www.chitai-gorod.ru/catalogbook1198882?watch_fromlist=main_Новинки_литературы
-https://www.chitai-gorod.ru/catalogbook1199087?watch_fromlist=main_Скоро_в_продаже
-https://www.chitai-gorod.ru/bookspublishersrosmen
-https://www.chitai-gorod.ru/catalogsouvenir1024910?watch_fromlist=main_Забавные_магнитные_закладки
-https://www.chitai-gorod.ru/catalogbooksuvlecheniya-9564
-https://www.chitai-gorod.ru/catalogsouvenirs
 https://www.chitai-gorod.ru/

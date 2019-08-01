@@ -1,10 +1,1 @@
-https://www.desidime.com/users1097174
-https://www.desidime.com/categorieskitchen-and-home-appliances
-https://www.desidime.com/categoriesmobiles-mobile-accessories
-https://www.desidime.com/categoriesrecharge
-https://www.desidime.com/users1089969
 https://www.desidime.com/
-https://www.desidime.com/forumshot-deals-onlinetopicsflat-80-sale-men-women-kids-clothing
-https://www.desidime.com/deals.atom
-https://www.desidime.com/storessnapdeal
-https://www.desidime.com/?page=2

@@ -1,10 +1,1 @@
-https://www.wallpaperscraft.ru/tag%d0%bb%d0%b5%d0%b2
-https://www.wallpaperscraft.ru/catalogart
-https://www.wallpaperscraft.ru/tag%d0%b1%d1%80%d1%8e%d0%bd%d0%b5%d1%82%d0%ba%d0%b0
-https://www.wallpaperscraft.ru/
-https://www.wallpaperscraft.ru/all1400x1050
-https://www.wallpaperscraft.ru/tagporsche
-https://www.wallpaperscraft.ru/all240x400
-https://www.wallpaperscraft.ru/wallpaperleopard_voda_art_144349
-https://www.wallpaperscraft.ru/tagaudi
-https://www.wallpaperscraft.ru/all2560x1024
+https://wallpaperscraft.ru/

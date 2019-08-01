@@ -1,10 +1,1 @@
-http://www.keldenl.com/You-Snooze-You-Lose
-http://www.keldenl.com/Uber-TicTac
-http://www.keldenl.com/OutfitIt
-http://www.keldenl.com/Ice-Tavern
-http://www.keldenl.com/Web-Tools
-http://www.keldenl.com/MABuddy
-http://www.keldenl.com/Game-Of-Life
-http://www.keldenl.com/myGIF
-http://www.keldenl.com/Risen-Esports
 http://www.keldenl.com/

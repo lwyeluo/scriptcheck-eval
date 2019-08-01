@@ -1,10 +1,7 @@
-https://www.myplaycity.com/free-patience-games
-https://www.myplaycity.com/forge_of_empires
+http://m.myplaycity.com/online/treasures-of-montezuma-2/play.html?lang=en&desktop=1
+http://m.myplaycity.com/online/bob-the-robber/play.html?lang=en&desktop=1
+http://m.myplaycity.com/online/123pandas/play.html?lang=en&desktop=1
 https://www.myplaycity.com/
-https://www.myplaycity.com/hard_ride
-https://www.myplaycity.com/free-racing-games
-https://www.myplaycity.com/how_to_uninstall
-https://www.myplaycity.com/fishao
-https://www.myplaycity.com/free-hidden-object-games
-https://www.myplaycity.com/klondike
-https://www.myplaycity.com/free-simulation-games
+http://m.myplaycity.com/online/farm-frenzy-2/play.html?lang=en&desktop=1
+http://m.myplaycity.com/online/darwinism/play.html?lang=en&desktop=1
+http://m.myplaycity.com/online/meow-dress-up/play.html?lang=en&desktop=1

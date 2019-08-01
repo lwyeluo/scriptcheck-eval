@@ -1,10 +1,1 @@
-https://get.draw.io/pricing#pricingconfluenceserver
-https://www.draw.io/?mode=onedrive
 https://www.draw.io/
-https://about.draw.io/features/training-material/
-https://get.draw.io/pricing#pricingjiracloud
-https://about.draw.io/author/dschweitzer/
-https://get.draw.io/
-https://get.draw.io/featurestraining-material
-https://get.draw.io/terms-conditions
-https://about.draw.io/blog/

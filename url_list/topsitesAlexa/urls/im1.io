@@ -1,1 +1,1 @@
-https://www.im1.io/
+https://im1.io/

@@ -1,1 +1,1 @@
-https://www.fearlessrevolution.com/
+https://fearlessrevolution.com/

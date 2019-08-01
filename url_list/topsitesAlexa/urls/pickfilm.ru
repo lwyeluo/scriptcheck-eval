@@ -1,10 +1,5 @@
-http://www.pickfilm.ru/western
-http://www.pickfilm.ru/genre_year_list
-http://www.pickfilm.ru/top250
-http://www.pickfilm.ru/tagsvideo
-http://www.pickfilm.ru/biography
-http://www.pickfilm.ru/filmelementarno.html
-http://www.pickfilm.ru/filmboevoj-angel.html
 http://www.pickfilm.ru/
-http://www.pickfilm.ru/last-tv
-http://www.pickfilm.ru/releasesdate20181.html
+http://www.pickfilm.ru/advertisment.html
+http://pickfilm.ru
+http://www.pickfilm.ru/contacts.html
+http://www.pickfilm.ru/search.html

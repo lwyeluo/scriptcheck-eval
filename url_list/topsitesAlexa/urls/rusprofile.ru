@@ -1,10 +1,3 @@
 https://www.rusprofile.ru/
-https://www.rusprofile.ru/codes450000
-https://www.rusprofile.ru/codes681000
-https://www.rusprofile.ru/supportsources.html
-https://www.rusprofile.ru/codes770000
-https://www.rusprofile.ru/codes660000
-https://www.rusprofile.ru/codes471000
-https://www.rusprofile.ru/codes290000
-https://www.rusprofile.ru/codes940000
-https://www.rusprofile.ru/ipЙ
+https://www.rusprofile.ru/codes
+https://www.rusprofile.ru/egrul-fns

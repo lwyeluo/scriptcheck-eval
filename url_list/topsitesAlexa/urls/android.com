@@ -1,10 +1,10 @@
-https://source.android.com/
+https://developer.android.com/cars
+https://developer.android.com/things
+https://source.android.com
 https://www.android.com/
-https://www.android.com/tv
-https://www.android.com/devices
-https://www.android.com/enterpriserecommended
-https://www.android.com/everyone
-https://www.android.com/switch
-https://www.android.com/the-platform
 https://developer.android.com/
+https://www.android.com/security-center/
+https://source.android.com/
+https://developer.android.com/distribute
+https://developer.android.com/chrome-os
 https://developer.android.com/studio

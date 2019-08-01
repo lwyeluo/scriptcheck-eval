@@ -1,1 +1,1 @@
-https://www.lpg02.com/
+https://lpg02.com/

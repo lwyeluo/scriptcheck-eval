@@ -1,10 +1,10 @@
-https://www.bobibanking.com/General FAQs.pdf
-https://www.bobibanking.com/BankAwayRetail/web/Arcot_Links/ASBAuserguide_hindi.htm
-https://www.bobibanking.com/ebankingusercreation/
-https://www.bobibanking.com/BOBFAQ
-https://www.bobibanking.com/FAQsonARCOT.pdf
+https://www.bobibanking.com/Online_State_Tax_Hindi.htm
 https://www.bobibanking.com/BankAwayRetail/web/links/disclaimer.html
-https://www.bobibanking.com/BankAwayRetail/web/links/online_security_tips1_hindi.htm
-https://www.bobibanking.com/CIBILScore.htm
-https://www.bobibanking.com/NPSAccOpen.html
 https://www.bobibanking.com/
+https://www.bobibanking.com/Indirect_taxes.htm
+https://www.bobibanking.com/BankAwayRetail/web/Arcot_Links/ASBAuserguide.htm
+https://www.bobibanking.com/BarodaGiftCardHindi.pdf
+https://www.bobibanking.com/RetailFlashDemo/Retaildemo.htm
+https://www.bobibanking.com/NPSAccContribution.html
+https://www.bobibanking.com/FREQUENTLY ASKED QUESTIONS.pdf
+https://www.bobibanking.com/Online_Donation.htm

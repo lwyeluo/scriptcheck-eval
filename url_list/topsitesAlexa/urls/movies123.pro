@@ -1,1 +1,1 @@
-https://www.movies123.pro/
+https://movies123.pro/

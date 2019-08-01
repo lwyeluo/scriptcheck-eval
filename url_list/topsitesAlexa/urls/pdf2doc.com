@@ -1,1 +1,1 @@
-https://www.pdf2doc.com/
+https://pdf2doc.com/

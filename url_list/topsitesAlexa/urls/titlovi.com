@@ -1,1 +1,1 @@
-https://www.titlovi.com/
+https://titlovi.com/

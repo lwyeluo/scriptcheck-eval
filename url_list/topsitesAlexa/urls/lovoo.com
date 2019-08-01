@@ -1,10 +1,7 @@
-https://support.lovoo.com/hc/?p=lovoo&v=3.1&locale=en
-https://stories.lovoo.com/sind-wir-eigentlich/
-http://inside.lovoo.com/press/
-http://inside.lovoo.com/business/app-promotion/
-https://www.lovoo.com/legal/toc
-http://inside.lovoo.com
 https://www.lovoo.com/
+https://stories.lovoo.com/sind-wir-eigentlich/
+https://www.lovoo.com/legal/toc
+https://www.lovoo.com/imprint
 https://stories.lovoo.com/ich-liebe-dich-immer-noch-brief-an-den-ex/
-http://inside.lovoo.com/business/affiliate/
-http://inside.lovoo.com/locations/locations/
+https://stories.lovoo.com/wenn-alles-stimmt-auser-das-bauchgefuhl/
+https://www.lovoo.com/legal/privacy

@@ -1,10 +1,2 @@
-https://www.govoritmoskva.ru/news204711
-https://www.govoritmoskva.ru/news?rubric-select=10
-https://www.govoritmoskva.ru/news204722
-https://www.govoritmoskva.ru/news204707
-https://www.govoritmoskva.ru/news204704
-https://www.govoritmoskva.ru/interviews2615
-https://www.govoritmoskva.ru/usersbloggers4280
-https://www.govoritmoskva.ru/usersbloggers4503
 https://www.govoritmoskva.ru/
-https://www.govoritmoskva.ru/interviews2609
+https://govoritmoskva.ru/blogs/1255/

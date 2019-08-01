@@ -1,10 +1,1 @@
-https://www.sportradar.com/about-usprivacy
-https://www.sportradar.com/mediadata-feeds-and-servicesesports-service
-https://www.sportradar.com/news-archivesportradar-extends-media-partnership-with-nascar
-https://www.sportradar.com/about-uscontact-us
-https://www.sportradar.com/mediagamebeats
-https://www.sportradar.com/about-usour-partners
-https://www.sportradar.com/sportradar-ott
-https://www.sportradar.com/mediahosted-solutionslive-match-tracker
 https://www.sportradar.com/
-https://www.sportradar.com/about-usexclusive-data-partnershipsinternational-tennis-federation

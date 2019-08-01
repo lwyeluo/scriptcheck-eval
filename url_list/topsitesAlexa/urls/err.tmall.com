@@ -1,10 +1,1 @@
-https://err.tmall.com/mai.taobao.com
-https://err.tmall.com/pages.tmall.comwowportalactapp-download?scm=1027.1.1.1
-https://err.tmall.com/www.tmall.hk
-https://err.tmall.com/cart.tmall.comcartmyCart.htm?from=btop
-https://err.tmall.com/shoucang.taobao.comitem_collect.htm
-https://err.tmall.com/trade.taobao.comtradeitemlistlist_sold_items.htm?t=20110530
-https://err.tmall.com/www.taobao.com
-https://err.tmall.com/i.taobao.commy_taobao.htm
 https://err.tmall.com/
-https://err.tmall.com/trade.taobao.comtradeitemlistlist_bought_items.htm?t=20110530

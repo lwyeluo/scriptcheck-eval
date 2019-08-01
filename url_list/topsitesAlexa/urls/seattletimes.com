@@ -1,10 +1,10 @@
-https://projects.seattletimes.com/2019/local/who-should-lead-seattle/
-https://www.seattletimes.com/life/food-drink/its-easy-to-figure-out-what-to-order-at-cemitas-tepeaca-2-in-des-moines-the-majestic-namesake-sandwiches/
-https://www.seattletimes.com/seattle-news/man-drowns-in-elliott-bay-near-centennial-park/
-https://www.seattletimes.com/tag/737-max/
-https://www.seattletimes.com/entertainment/music/seattles-showbox-music-venue-granted-landmark-status/
-https://secure.seattletimes.com/accountcenter/deliveryholds
-https://<?php echo SSO_PREFIX;?>seattletimes.com/accountcenter/
-https://www.seattletimes.com/businessreal-estate
-https://company.seattletimes.com/notices/notice1.html
+https://www.seattletimes.com/rss-feeds/
+https://www.seattletimes.com/seattle-news/crime/deputies-evacuating-businesses-in-burien-following-reports-of-gunfire/
+https://www.seattletimes.com
 https://www.seattletimes.com/
+https://www.seattletimes.com/nation-world/nation/2-moms-active-in-chicago-anti-violence-movement-gunned-down/
+https://www.seattletimes.com/horoscopes/
+https://www.seattletimes.com/pacific-nw-magazine/if-you-cant-find-washington-grown-tart-cherries-its-harder-than-you-might-think-frozen-ones-take-the-cake/
+https://www.seattletimes.com/opinion/letters-to-the-editor/i-love-baltimore-home-to-national-federation-of-the-blind/
+https://secure.seattletimes.com/accountcenter/deliveryholds
+https://www.seattletimes.com/sports/uw-husky-football/uw-2019-defense-primer-can-a-new-cast-of-characters-produce-familiar-results/

@@ -1,1 +1,1 @@
-http://www.classicdb.ch/
+https://classicdb.ch/

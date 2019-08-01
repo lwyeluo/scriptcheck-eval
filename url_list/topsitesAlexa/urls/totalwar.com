@@ -1,10 +1,10 @@
-https://www.totalwar.com/blog/total-war-three-kingdoms-launch-faq/
-https://www.totalwar.com/blog/total-war-three-kingdoms-eight-princes-faq/
-https://www.totalwar.com/support/
-https://www.totalwar.com/blog/the-amethyst-update/
+https://www.totalwar.com/games/warhammer-ii/prophet-and-the-warlock/
 https://www.totalwar.com
-https://dashboard.totalwar.com/home
-https://www.totalwar.com/blog/total-war-three-kingdoms-steam-achievements/
-https://www.totalwar.com/games/three-kingdoms/eight-princes/
+https://www.totalwar.com/blog/the-amethyst-update/
+https://www.totalwar.com/blog/dev-diary-total-war-three-kingdoms-eight-princes-eight-portraits/
+https://www.totalwar.com/support/
+https://academy.totalwar.com/
 https://www.totalwar.com/blog/total-war-three-kingdoms-content-recap/
 https://www.totalwar.com/
+https://forums.totalwar.com/
+https://www.totalwar.com/blog/total-war-three-kingdoms-eight-princes-faq/

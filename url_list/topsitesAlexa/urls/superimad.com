@@ -1,1 +1,1 @@
-http://www.superimad.com/
+http://superimad.com/

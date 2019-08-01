@@ -1,10 +1,7 @@
-https://www.inoreader.com/privacy_policy
-https://blog.inoreader.com/feed
-https://www.inoreader.com/privacy_policyprivacy_policy
-https://www.inoreader.com/
-https://status.inoreader.com
 https://www.inoreader.com/cookie_use
+https://www.inoreader.com/privacy_policy
+https://www.inoreader.com/
 https://www.inoreader.com/tos
-https://www.inoreader.com/developers
+https://www.inoreader.com
+https://status.inoreader.com
 https://www.inoreader.com/login
-http://blog.inoreader.com

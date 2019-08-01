@@ -1,10 +1,1 @@
-https://pw.mmotop.ru
-https://www.mmotop.ru/
-https://rf.mmotop.ru
-https://mmotop.ru/faq
-https://mu.mmotop.ru
-https://la2.mmotop.ru
-https://jd.mmotop.ru
-https://aion.mmotop.ru
-https://mmotop.ru/rules
-https://wow.mmotop.ru
+https://mmotop.ru/

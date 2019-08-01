@@ -1,10 +1,3 @@
-https://www.nest.com/google-nest-storemagazinesustainability
-https://www.nest.com/google-nest-storeorderhistory?hl=en-US
-https://www.nest.com/google-nest-storecategoryconnected_home
-https://www.nest.com/google-nest-storeaccount
-https://www.nest.com/google-nest-store
-https://www.nest.com/connected-home?utm_source=nest_redirect&utm_medium=google_oo&utm_campaign=GS102776&utm_term=control
-https://store.nest.com/orders/
-https://www.nest.com/
-https://store.nest.com/account/subscriptions/
-https://www.nest.com/home.nest.com
+https://nest.com/-apps/learn-more-about-nest/
+https://nest.com/
+https://home.nest.com/

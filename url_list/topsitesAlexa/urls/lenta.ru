@@ -1,1 +1,1 @@
-https://www.lenta.ru/
+https://lenta.ru/

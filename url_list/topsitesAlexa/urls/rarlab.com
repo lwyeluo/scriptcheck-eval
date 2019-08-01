@@ -1,10 +1,1 @@
-https://www.rarlab.com/rarwinrar-x64-571ge.exe
 https://www.rarlab.com/
-https://www.rarlab.com/rarwrar571it.exe
-https://www.rarlab.com/rarwinrar-x64-571uk.exe
-https://www.rarlab.com/rarwinrar-x64-571kr.exe
-https://www.rarlab.com/rarwinrar-x64-571az.exe
-https://www.rarlab.com/rarwinrar-x64-571jp.exe
-https://www.rarlab.com/rarwinrar-x64-571he.exe
-https://www.rarlab.com/rarwrar571uk.exe
-https://www.rarlab.com/rarwinrar-x64-571dk.exe

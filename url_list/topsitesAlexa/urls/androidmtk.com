@@ -1,1 +1,1 @@
-https://www.androidmtk.com/
+https://androidmtk.com/

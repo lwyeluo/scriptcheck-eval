@@ -1,10 +1,3 @@
-http://www.impekao24.pl/#url=aplikacjanakomorki
-http://www.impekao24.pl/#url=aplikacjanakomorkiimpekao24faq
-http://m.pekao24.pl
-http://www.impekao24.pl/#url=aplikacjanakomorkiimpekao24aplikacjanakomorki?topId=40032&botId=40039&appId=40047&folderId=39971
-http://www.impekao24.pl/#url=aplikacjanakomorkiimpekao24kanaltelefoniczny?topId=39990&botId=39993&folderId=39989
-https://www.pekao24.pl/MCPShareDOWNLOADWykaz_funkcji_serwisow_Pekao24.pdf
+http://demo.pekao24.pl/
 https://www.pekao24.pl/
-http://www.impekao24.pl/#url=aplikacjanatablety
-https://www.pekao24.pl/MCPclientlogonhelpPL.html?height=400&width=540&modal=true
 http://demo.pekao24.pl

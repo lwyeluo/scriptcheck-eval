@@ -1,1 +1,1 @@
-https://www.king.com/
+https://king.com/

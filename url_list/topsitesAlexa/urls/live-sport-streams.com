@@ -1,1 +1,1 @@
-https://www.live-sport-streams.com/
+https://live-sport-streams.com/

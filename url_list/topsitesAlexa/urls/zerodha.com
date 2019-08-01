@@ -1,1 +1,1 @@
-https://www.zerodha.com/
+https://zerodha.com/

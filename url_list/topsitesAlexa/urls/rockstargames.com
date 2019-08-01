@@ -1,10 +1,6 @@
 https://www.rockstargames.com/games
-https://www.rockstargames.com/language-selectorselectorchange?currentLocaleBase=%2F&newLocale=en_us
-https://www.rockstargames.com/language-selectorselectorchange?currentLocaleBase=%2F&newLocale=de_de
+https://www.rockstargames.com/cookies
 https://www.rockstargames.com/
-https://www.rockstargames.com/language-selectorselectorchange?currentLocaleBase=%2F&newLocale=pt_br
-https://www.rockstargames.com/language-selectorselectorchange?currentLocaleBase=%2F&newLocale=ko_kr
+https://support.rockstargames.com
 https://www.rockstargames.com/newswire
-https://www.rockstargames.com/language-selectorselectorchange?currentLocaleBase=%2F&newLocale=es_mx
-https://www.rockstargames.com/language-selectorselectorchange?currentLocaleBase=%2F&newLocale=it_it
-https://www.rockstargames.com/language-selectorselectorchange?currentLocaleBase=%2F&newLocale=zh_tw
+https://www.rockstargames.com/videos

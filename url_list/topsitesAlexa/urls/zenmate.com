@@ -1,1 +1,1 @@
-https://www.zenmate.com/
+https://zenmate.com/

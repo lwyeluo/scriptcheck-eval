@@ -1,10 +1,7 @@
-https://www.gametop.com/categorytime-management.html
-https://www.gametop.com/download-free-gamessudden-strike2
-https://www.gametop.com/categorypopular.html
+https://www.gametop.com/privacy.html
+https://www.gametop.com/eula.html
 https://www.gametop.com/about.html
-https://www.gametop.com/fr
 https://www.gametop.com/
-https://www.gametop.com/download-free-gamesrail-nation
-https://www.gametop.com/categorymahjong.html
-https://www.gametop.com/categoryracing.html
-https://www.gametop.com/categorycards.html
+https://www.gametop.com/support.html
+https://www.gametop.com/links.html
+https://www.gametop.com/contact.html

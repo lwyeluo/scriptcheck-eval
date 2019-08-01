@@ -1,10 +1,2 @@
-https://www.couchsurfing.com/
 https://www.couchsurfing.com/places
-http://store.couchsurfing.com/
-http://www.couchsurfing.com/about/safety
-http://www.couchsurfing.com/about/about-us
-https://www.couchsurfing.com/usersauthfacebook?auth_action=sign_up
-http://www.couchsurfing.com/about/how-it-works
-http://www.couchsurfing.com/about/terms-of-use
-https://support.couchsurfing.com
-http://blog.couchsurfing.com/
+https://www.couchsurfing.com/

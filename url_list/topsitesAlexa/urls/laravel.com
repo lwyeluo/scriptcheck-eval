@@ -1,1 +1,1 @@
-https://www.laravel.com/
+https://laravel.com/

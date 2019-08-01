@@ -1,1 +1,1 @@
-https://www.uzimusic.ru/
+https://uzimusic.ru/

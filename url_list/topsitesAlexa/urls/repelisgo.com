@@ -1,1 +1,1 @@
-https://www.repelisgo.com/
+https://repelisgo.com/

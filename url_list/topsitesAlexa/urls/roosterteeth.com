@@ -1,1 +1,1 @@
-https://www.roosterteeth.com/
+https://roosterteeth.com/

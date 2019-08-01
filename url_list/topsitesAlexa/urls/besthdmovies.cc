@@ -1,1 +1,1 @@
-https://www.besthdmovies.cc/
+https://besthdmovies.cc/

@@ -1,1 +1,1 @@
-https://www.sdmoviespoint.ws/
+https://sdmoviespoint.ws/

@@ -1,1 +1,1 @@
-https://www.tinder.com/
+https://tinder.com/

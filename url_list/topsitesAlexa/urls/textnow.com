@@ -1,10 +1,10 @@
-https://engineering.textnow.com
-http://about.textnow.com/contact
-https://www.textnow.com/activate
-http://about.textnow.com/careers
-http://about.textnow.com
+https://www.textnow.com/fairUse
+https://www.textnow.com/privacy
 https://www.textnow.com/terms
-https://www.textnow.com/login?redirectTo=wireless
-https://blog.textnow.com/
 https://www.textnow.com/
+https://www.textnow.com/plans
+https://www.textnow.com/downloads
 https://www.textnow.com/wireless
+https://www.textnow.com/elastic-calling
+https://www.textnow.com/international-calling
+https://www.textnow.com/login?redirectTo=wireless

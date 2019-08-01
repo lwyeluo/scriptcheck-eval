@@ -1,1 +1,1 @@
-https://www.psnprofiles.com/
+https://psnprofiles.com/

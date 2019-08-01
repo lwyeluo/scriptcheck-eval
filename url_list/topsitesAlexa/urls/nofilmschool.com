@@ -1,1 +1,1 @@
-https://www.nofilmschool.com/
+https://nofilmschool.com/

@@ -1,10 +1,5 @@
-http://megatfile.cc/forum/link.php?t=z0cd&v=pkhscaa12e03
-http://megatfile.cc/forumviewforum.php?f=337
-http://megatfile.cc/forum/link.php?t=5xlc&v=kwfhcaa12e03
-http://megatfile.cc/forumviewforum.php?f=1458
-http://megatfile.cc/forum/link.php?t=yynk&v=plzhcaa12e03
+http://megatfile.cc/forum/sitemap
 http://megatfile.cc/
-http://megatfile.cc/forumviewforum.php?f=493
-http://megatfile.cc/megatfile.ccrss
-http://megatfile.cc/forum/link.php?t=yz02&v=pmfjcaa12e03
-http://megatfile.cc/forum/link.php?t=yynv&v=plzacaa12e03
+http://megatfile.cc/forum/ads.php
+http://megatfile.cc/forum/newest
+http://megatfile.cc/forum/abuse.php

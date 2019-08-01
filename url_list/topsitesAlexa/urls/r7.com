@@ -1,10 +1,10 @@
-http://meuestilo.r7.com/casa-e-decoracao
+https://noticias.r7.com/prisma/portugues-de-brasileiro
 https://diversao.r7.com/noticias
+https://diversao.r7.com/
+https://noticias.r7.com/prisma/autos-carros
+https://diversao.r7.com/prisma/ligia-braslauskas-literatura
 https://www.r7.com/
-http://esportes.r7.com/lance/com-time-reserva-athletico-pr-goleia-csa-fora-de-casa-20072019
-http://entretenimento.r7.com/pop
-http://recordtv.r7.com/balanco-geral/videos/anitta-tem-senha-de-celular-do-namorado-e-faz-marcacao-cerrada-20072019
+https://diversao.r7.com/prisma/keila-jimenez
+https://recordtv.r7.com/topissima
 https://diversao.r7.com/humor
-https://noticias.r7.com/prisma/universo-africa
-https://estudio.r7.com/edicoes/noticias
-http://noticias.r7.com/minas-gerais
+https://diversao.r7.com/prisma/mister-sam

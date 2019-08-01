@@ -1,1 +1,1 @@
-https://www.doodle.com/
+https://doodle.com/

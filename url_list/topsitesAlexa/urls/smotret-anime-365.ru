@@ -1,1 +1,1 @@
-https://www.smotret-anime-365.ru/
+https://smotret-anime-365.ru/

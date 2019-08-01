@@ -1,1 +1,1 @@
-https://www.animespire.com/
+https://animespire.com/

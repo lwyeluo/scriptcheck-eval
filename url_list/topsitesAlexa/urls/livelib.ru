@@ -1,10 +1,1 @@
-https://www.livelib.ru/books?utm_source=livelib&utm_medium=smallcarousel&utm_content=homepage&utm_campaign=smallcarousel
-https://www.livelib.ru/review1163157#comments
-https://www.livelib.ru/giveawayspost42878-razdacha-knigi-aleksandry-vasilevoj-glazami-maski
-https://www.livelib.ru/author234934
-https://www.livelib.ru/book1000471482
-https://www.livelib.ru/forumpost14009-knizhnyj-vyzov?utm_source=livelib&utm_medium=carousel&utm_content=homepage&utm_campaign=challenge2019
-https://www.livelib.ru/book1003002260-nozh-yu-nesbjo
-https://www.livelib.ru/book1001115659-knigi-magii-sbornik
-https://www.livelib.ru/readernastena0310
 https://www.livelib.ru/

@@ -1,10 +1,7 @@
+https://www.gwdang.com/market
+https://www.gwdang.com/vipsearch
+https://www.gwdang.com/monitor
+https://www.gwdang.com/trend
+https://www.gwdang.com/quan
 https://www.gwdang.com/
-https://www.gwdang.com/list1E040700
-https://www.gwdang.com/list1A030100
-https://www.gwdang.com/zhidetail11664470?tk=1
-https://www.gwdang.com/list14020200
-https://www.gwdang.com/list12030800
-https://www.gwdang.com/list20040600
-https://www.gwdang.com/list1E020300
-https://www.gwdang.com/list12050700
-https://www.gwdang.com/list24050700
+https://www.gwdang.com/reco

@@ -1,10 +1,1 @@
-https://www.moviesearchcenter.com/mail.google.com
-https://www.moviesearchcenter.com/www.blpsearch.comprivacy
-https://www.moviesearchcenter.com/www.youtube.com
-https://www.moviesearchcenter.com/ad.admitad.comg83b3b940f714868ec1ba4ee68e9c3f
-https://www.moviesearchcenter.com/ad.admitad.comgypaux4mj7f14868ec1ba6af3bd8a89
-https://www.moviesearchcenter.com/s.click.aliexpress.comesHtEaus
-https://www.moviesearchcenter.com/ad.admitad.comgk5cxk4xsu714868ec1ba614935c8f5
-https://www.moviesearchcenter.com/www.amazon.com
-https://www.moviesearchcenter.com/alitems.comg1e8d11449414868ec1ba16525dc3e8
 https://www.moviesearchcenter.com/

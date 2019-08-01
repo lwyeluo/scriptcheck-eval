@@ -1,10 +1,2 @@
-https://www.uhaul.com/Collegeboxes
-https://www.uhaul.com/AboutJournalistRequests.aspx
-https://www.uhaul.com/MyPhotos
 https://www.uhaul.com/
-https://www.uhaul.com/AboutHistory.aspx
-https://jobs.uhaul.com
-https://www.uhaul.com/MovingSuppliesHitch-Accessories
-https://www.uhaul.com/MovingSuppliesPropane-Grills-Smokers
-https://www.uhaul.com/BusinessRentals.aspx
-https://www.uhaul.com/MovingSuppliesBoxes
+https://www.uhaul.com/PropaneRecall.aspx

@@ -1,10 +1,1 @@
-http://desapegacaxias.com/anuncio/mt-moda-fitness-roupas-para-academia/
-http://desapegacaxias.com/ad_category/videogames/
-http://desapegacaxias.com/anuncio/criacao-de-sites-e-lojas-virtuais/
-http://desapegacaxias.com/artigos/
-http://desapegacaxias.com/ad_category/moveis-eletrodomesticos/
-http://desapegacaxias.com/anuncio/melhores-cursos-para-fazer-online/
-http://desapegacaxias.com/author/desapega-caxias/
-http://desapegacaxias.com/ad_category/diversos/
-https://www.desapegacaxias.com/
-http://desapegacaxias.com/author/tairines/
+https://desapegacaxias.com/

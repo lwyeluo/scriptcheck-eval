@@ -1,10 +1,10 @@
-https://1fichier.com/login.pl
 https://1fichier.com/cgu.html
-https://1fichier.com/api.html
-https://1fichier.com/affiliation.html
-https://1fichier.com/abus.html
+https://1fichier.com/login.pl
 https://1fichier.com/hlp.html
-https://1fichier.com/register.pl
+https://1fichier.com/tarifs.html
+https://1fichier.com/abus.html
+https://1fichier.com/
 https://1fichier.com/network.html
+https://1fichier.com/revendeurs.html
+https://1fichier.com/servers.html
 https://1fichier.com/contact.html
-https://www.1fichier.com/

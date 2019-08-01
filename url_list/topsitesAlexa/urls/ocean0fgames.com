@@ -1,1 +1,1 @@
-https://www.ocean0fgames.com/
+https://ocean0fgames.com/

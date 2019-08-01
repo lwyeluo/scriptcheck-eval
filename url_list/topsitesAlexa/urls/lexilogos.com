@@ -1,10 +1,9 @@
-https://www.lexilogos.com/index.htm
 https://www.lexilogos.com/plan_site.htm
-https://www.lexilogos.com/contact.php
-https://www.lexilogos.com/bouscateur.htm
-https://www.lexilogos.com/presentation_lexilogie.htm
-https://www.lexilogos.com/mentions_legales.htm
+https://www.lexilogos.com/index.htm
 https://www.lexilogos.com/nouveau.htm
+https://www.lexilogos.com/contact.php
+https://www.lexilogos.com/mentions_legales.htm
+https://www.lexilogos.com/presentation_lexilogie.htm
 https://www.lexilogos.com/
-https://www.lexilogos.com/index.htmcontact.php
 https://www.lexilogos.com/communication.htm
+https://www.lexilogos.com/bouscateur.htm

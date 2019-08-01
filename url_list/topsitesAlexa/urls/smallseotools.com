@@ -1,1 +1,1 @@
-https://www.smallseotools.com/
+https://smallseotools.com/

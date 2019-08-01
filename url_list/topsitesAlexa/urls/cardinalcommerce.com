@@ -1,10 +1,10 @@
 https://www.cardinalcommerce.com/false-declines
-https://www.cardinalcommerce.com/news-and-eventsindustry-news
-https://support.cardinalcommerce.com
-https://www.cardinalcommerce.com/news-and-events
 https://www.cardinalcommerce.com/Customers
-https://www.cardinalcommerce.com/savings-calculator
-https://www.cardinalcommerce.com/news-and-eventsindustry-news2018july-18sabre-cybersource-visa-solution-partner
-https://www.cardinalcommerce.com/partnerspayment-processors-and-acquirers
+https://payments.cardinalcommerce.com/a-data-driven-solution-to-false-declines
+https://payments.cardinalcommerce.com/notice-something-different-introducing-our-new-brand
+https://info.cardinalcommerce.com/request-demo?utm_campaign=Home%20Page%20Audiences&utm_source=Website&utm_medium=CCA%20Demo
+https://www.cardinalcommerce.com/brown-yanowitz-award-of-excellence
+https://payments.cardinalcommerce.com/data-the-consumer
+https://www.cardinalcommerce.com/learn-ecommerce
 https://www.cardinalcommerce.com/
-https://www.cardinalcommerce.com/partnerswhy
+https://www.cardinalcommerce.com/news-and-events

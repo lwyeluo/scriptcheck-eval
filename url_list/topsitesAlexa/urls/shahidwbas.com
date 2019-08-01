@@ -1,1 +1,1 @@
-https://www.shahidwbas.com/
+https://shahidwbas.com/

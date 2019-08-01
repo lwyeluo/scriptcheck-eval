@@ -1,10 +1,1 @@
-http://www.food.tmall.com/www.etao.com
-http://www.food.tmall.com/www.taobao.comabout
-http://www.food.tmall.com/news.alibaba.comspecialsaboutalibabaaligroupindex.html
-http://www.food.tmall.com/open.taobao.com
-http://www.food.tmall.com/
-http://www.food.tmall.com/www.yunos.com
-http://www.food.tmall.com/pro.taobao.com
-http://www.food.tmall.com/www.tmall.com
-http://www.food.tmall.com/service.taobao.comsupportmainservice_route.htm
-http://www.food.tmall.com/i.taobao.commy_taobao.htm
+https://food.tmall.com/

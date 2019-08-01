@@ -1,10 +1,1 @@
-https://www.livescore.com/soccerafrica
-https://www.livescore.com/soccersan-marino
-https://www.livescore.com/soccerethiopia
-https://www.livescore.com/soccerzimbabwe
-https://www.livescore.com/soccernicaragua
-https://www.livescore.com/soccerscotland
-https://www.livescore.com/soccereuropean-cups
-https://www.livescore.com/soccermoldova
 https://www.livescore.com/
-https://www.livescore.com/soccerworld-cup-women

@@ -1,1 +1,1 @@
-https://www.duckduckgo.com/
+https://duckduckgo.com/

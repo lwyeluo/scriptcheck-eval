@@ -1,10 +1,10 @@
-https://www.forbes.com/forbes-live/event/under-30-global-2019/
-https://www.forbes.com/korea-billionaires/list/
-https://www.forbes.com/cars-bikes/
-https://www.forbes.com/sites/forbesmoneyteam/2019/07/08/own-it-the-modern-guide-to-buying-a-home/#55f7eace5941
-https://www.forbes.com/newsletters/forbes-premium-income-report/
 https://www.forbes.com/
-https://www.forbes.com/sites/workday/
-mailto:corrections@forbes.com?subject=Report Correction&body=Reporting Correction for: %0A %0A Title: Forbes %0A URL: https://www.forbes.com/home_asia/%0A %0A - %0A %0A Your Name: %0A Correction Request: %0A %0A - %0A %0A Thank you for reporting a correction. Forbes Staff will review your concern shortly.
-https://www.forbes.com/forbes-finds/home/
-https://www.forbes.com/policy/
+https://www.forbes.com/asia200/list/#tab:overall
+https://www.forbes.com/self-made-women/
+https://www.forbes.com/ai-big-data/
+https://www.forbes.com/crypto-blockchain/
+https://www.forbes.com/forbes-live/event/2019-cmo-summit-europe/
+https://www.forbes.com/travel/
+https://www.forbes.com/retail/
+https://www.forbes.com/cmo-network/
+https://www.forbes.com/sites/aliciagarciaherrero/2019/07/24/chinas-investments-in-africa-what-the-data-really-says-and-the-implications-for-europe/

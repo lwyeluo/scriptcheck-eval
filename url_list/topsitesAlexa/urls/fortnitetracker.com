@@ -1,1 +1,1 @@
-https://www.fortnitetracker.com/
+https://fortnitetracker.com/

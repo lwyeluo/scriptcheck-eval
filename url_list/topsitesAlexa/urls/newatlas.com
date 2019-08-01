@@ -1,1 +1,1 @@
-https://www.newatlas.com/
+https://newatlas.com/

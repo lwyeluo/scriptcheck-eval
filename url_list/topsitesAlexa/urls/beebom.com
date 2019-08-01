@@ -1,1 +1,1 @@
-https://www.beebom.com/
+https://beebom.com/

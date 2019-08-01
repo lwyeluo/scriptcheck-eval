@@ -1,1 +1,1 @@
-https://www.sharemods.com/
+https://sharemods.com/

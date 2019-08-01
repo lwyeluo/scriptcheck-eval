@@ -1,10 +1,7 @@
-https://gidfilm.ru/video889741-Agenty.organizatsii.SchIT-6.sezon.10.seriya
-https://gidfilm.ru/setAnime.pro.Rossiyu
-https://gidfilm.ru/help
+https://gidfilm.ru/series
 https://gidfilm.ru/
-https://gidfilm.ru/videoview
-https://gidfilm.ru/video889517-Ty.Je.Lyubish.Mamochku.Udary.Kotoroiy.Byut.Po.Ploschadi.Dvoiynym.Uronom-1.sezon.2.seriya.To.Chto.V.Otryade.Odni.Devushki.Sovpadenie.I.Ne.Vydumyvaiy.Nichego.I.Ne.Nado.Tak.Ulybatsya
-https://gidfilm.ru/video889625-Granbelm-1.sezon.3.seriya
-https://gidfilm.ru/setPolitseiyskie.komedii
-https://gidfilm.ru/helprules
-https://gidfilm.ru/video283872-Korol.Lev-Film
+https://gidfilm.ru/movie
+https://gidfilm.ru/anime
+https://gidfilm.ru/blog
+https://gidfilm.ru/help
+https://gidfilm.ru/set

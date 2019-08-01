@@ -1,10 +1,10 @@
-https://www.voicetube.com/usersajax_collect_view19157
-https://www.voicetube.com/usersajax_collect_view76618
-https://www.voicetube.com/videos20769?ref=hot-3day
-https://www.voicetube.com/category3Pets & Animals?order-type=time&order-time=newest
-https://www.voicetube.com/login?apilang=en&next=/&mtc=vt_web_home_header_signin&ref=vt_web_home_header_signin
-https://www.voicetube.com/videos49226?ref=index_recent_video
-https://www.voicetube.com/
-https://www.voicetube.com/videos19172?ref=hot-always
+https://www.voicetube.com/awards
+https://www.voicetube.com/tags_views?ref=footer
+https://www.voicetube.com/tour?ref=footer
+https://www.voicetube.com?ref=www_header
 https://www.voicetube.com/reset_password
-https://www.voicetube.com/usersajax_collect_view75611
+https://www.voicetube.com?ref=www
+https://tw.voicetube.com?ref=www
+https://help.voicetube.com/hc/en-001/categories/360001591732
+https://www.voicetube.com/
+https://www.voicetube.com/signup?apilang=en

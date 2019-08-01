@@ -1,1 +1,1 @@
-https://www.css-tricks.com/
+https://css-tricks.com/

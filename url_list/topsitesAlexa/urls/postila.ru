@@ -1,10 +1,1 @@
-http://www.postila.ru/post15558972
-http://www.postila.ru/id1828674dlya-doma
-http://www.postila.ru/postlikepostId17000819
-http://www.postila.ru/post43565273
-https://auth.postila.ru/auth?provider=mailru&ref=https://postila.ru
-http://pishite.postila.ru/topic/249698-chto-takoe-postila/?lang=ru
-http://www.postila.ru/post12344750
-http://www.postila.ru/natgeo27274-national-geographic-rossiya
-http://www.postila.ru/
-http://www.postila.ru/mifbooks504411-mif__zdorovyiy_obraz_jizni
+https://postila.ru/

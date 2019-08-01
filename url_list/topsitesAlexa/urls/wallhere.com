@@ -1,1 +1,1 @@
-https://www.wallhere.com/
+https://wallhere.com/

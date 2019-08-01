@@ -1,10 +1,10 @@
-https://luxury.tatacliq.com/nappadori
-https://luxury.tatacliq.com/contact
-https://luxury.tatacliq.com/
-https://luxury.tatacliq.com/luxury-women-designer-handbags/c-lsh1110100?offer=&searchCategory=&q=%3Arelevance%3AinStockFlag%3Atrue%3Abrand%3AMBH16B10193&text=&pageFacetData=&isFacet=true&icid2=luxury:menu:handbags:brands:ax:14:130718
-https://luxury.tatacliq.com/luxury-men-men-designer-men-shoes-men-derby-shoes/c-lsh1010103107?&icid2=luxury:menu:men:shoes:derby:21:130718
+https://luxury.tatacliq.com/indiluxe-home-decor-home-fragrances/c-ish1312102?q=%3Arelevance%3AinStockFlag%3Atrue
+https://luxury.tatacliq.com/Beauty
+https://luxury.tatacliq.com/AnitaDongreGrassroot
+https://luxury.tatacliq.com/luxury-women-designer-women-watches/c-lsh1110104?&icid2=luxury:menu:watches:women:viewall:11:130718
+https://luxury.tatacliq.com/luxury/c-lsh1?offer=&searchCategory=&q=:relevance:discountAll:Discounted Items:category:LSH1110104&icid2=lsc:lux:L9:03:lmc:lmb:plp:190619
+https://luxury.tatacliq.com/men-men-designer-men-clothes-men-casual-shirts-hugo-boss/c-lsh1010101104/b-mbh11a00133
+https://luxury.tatacliq.com/Iha
+https://luxury.tatacliq.com/seiko?&icid2=luxury:menu:brands:seikdo:21:130718
 https://www.tatacliq.com/
-https://luxury.tatacliq.com/armani-exchange/c-mbh11w00018
-https://luxury.tatacliq.com/luxury-women-designer-women-accessories-women-scarves-stoles/c-lsh1110103105?&icid2=luxury:menu:women:accessories:scarves:24:210619
-https://luxury.tatacliq.com/indiluxe-women-designer-clothing/c-ISH1010100?offer=&searchCategory=&q=:isDiscountedPrice:inStockFlag:true:category:ISH1010100&icid2=shopindilux:eoss:all2:190619
-https://luxury.tatacliq.com/luxury/c-LSH1?offer=&searchCategory=&q=:relevance:brand:MBH16B10715:relevance:category:LSH1&icid2=luxury:menu:handbags:brands:guess:16:210718
+https://luxury.tatacliq.com/

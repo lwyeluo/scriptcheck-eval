@@ -1,10 +1,10 @@
-https://www.sendspace.com/about.html
-https://www.sendspace.com/terms.html
-https://www.sendspace.com/download_android.html
-https://www.sendspace.com/faqs.html
 https://www.sendspace.com/
+https://www.sendspace.com/dev_index.html
+https://www.sendspace.com/terms.html
+https://www.sendspace.com/forgot.html
 https://www.sendspace.com/help.html
-https://www.sendspace.com/download_tools.html
-https://www.sendspace.com/register.html
 https://www.sendspace.com/premium_upgrade.html
-https://www.sendspace.com/privacy_policy.html
+https://www.sendspace.com/download_tools.html
+https://www.sendspace.com/download_android.html
+https://www.sendspace.com/download_wizard.html
+https://www.sendspace.com/about.html

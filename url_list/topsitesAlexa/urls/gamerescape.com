@@ -1,1 +1,1 @@
-https://www.gamerescape.com/
+https://gamerescape.com/

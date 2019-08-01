@@ -1,1 +1,1 @@
-https://www.disqus.com/
+https://disqus.com/

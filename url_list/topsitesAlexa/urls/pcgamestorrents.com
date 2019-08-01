@@ -1,1 +1,1 @@
-https://www.pcgamestorrents.com/
+https://pcgamestorrents.com/

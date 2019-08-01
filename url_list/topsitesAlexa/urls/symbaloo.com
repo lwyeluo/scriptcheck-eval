@@ -1,10 +1,10 @@
-http://blog.symbaloo.com/disclaimer/disclaimer_us.html
 https://learningpaths.symbaloo.com/
-https://www.ixl.com/?partner=symbaloo&adGroup=home-page&utm_source=symbaloo.com&utm_medium=cpc&utm_campaign=home-page
-https://www.symbaloo.com/startLogin.do
+https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.symbaloo.com&title=I really like Symbaloo! A place where you can organize and share your favorite websites! Do you use Symbaloo too?&summary=I really like Symbaloo! A place where you can organize and share your favorite websites! Do you use Symbaloo too?&source=https%3A%2F%2Fwww.symbaloo.com
+https://www.symbaloo.com/welcome
+https://www.symbaloo.com/quickadd.form
 https://blog.symbaloo.com/
-https://www.symbaloo.com/homemix13eOcPegXh
-https://www.symbaloo.com/mix/shopping83
-https://www.symbaloo.com/homemix13eOcPeggf
-https://www.symbaloo.com/homemix13eOcMZU9A
 https://www.symbaloo.com/
+https://www.symbaloo.com/signup
+https://www.symbaloo.com/mix/shopping83
+https://www.symbaloo.com/?sethomepage=1
+https://www.symbaloo.com/startLogin.do

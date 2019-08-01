@@ -1,10 +1,1 @@
-https://twitter.com/intent/tweet?text=Easily%20downloading%20flash%20videos%20now%20using%20https%3A%2F%2Fwww.flashvd.com/&hashtags=FlashDownloaderaccountbegin_password_resethome
-https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.flashvd.com/%2F&src=sdkpreparse
-https://twitter.com/intent/tweet?text=Easily%20downloading%20flash%20videos%20now%20using%20https%3A%2F%2Fwww.flashvd.com/&hashtags=FlashDownloaderhomehome
-https://twitter.com/intent/tweet?text=Easily%20downloading%20flash%20videos%20now%20using%20https%3A%2F%2Fwww.flashvd.com/&hashtags=FlashDownloadersupport.twitter.comgroups31-twitter-basicstopics104-welcome-to-twitter-supportarticles215585-twitter-101-how-should-i-get-started-using-twitter
-https://twitter.com/intent/tweet?text=Easily%20downloading%20flash%20videos%20now%20using%20https%3A%2F%2Fwww.flashvd.com/&hashtags=FlashDownloader
-https://twitter.com/intent/tweet?text=Easily%20downloading%20flash%20videos%20now%20using%20https%3A%2F%2Fwww.flashvd.com/&hashtags=FlashDownloaderhome
-https://twitter.com/intent/tweet?text=Easily%20downloading%20flash%20videos%20now%20using%20https%3A%2F%2Fwww.flashvd.com/&hashtags=FlashDownloaderaccountbegin_password_reset
 https://www.flashvd.com/
-https://twitter.com/intent/tweet?text=Easily%20downloading%20flash%20videos%20now%20using%20https%3A%2F%2Fwww.flashvd.com/&hashtags=FlashDownloaderaccountbegin_password_resetaccountbegin_password_reset
-https://twitter.com/intent/tweet?text=Easily%20downloading%20flash%20videos%20now%20using%20https%3A%2F%2Fwww.flashvd.com/&hashtags=FlashDownloaderaccountbegin_password_resetsupport.twitter.comgroups31-twitter-basicstopics104-welcome-to-twitter-supportarticles215585-twitter-101-how-should-i-get-started-using-twitter

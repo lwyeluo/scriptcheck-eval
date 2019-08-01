@@ -1,10 +1,10 @@
-https://www.twoo.com/about
+https://www.twoo.com/login?view=forgot
+https://www.twoo.com/faq?login=1
+https://www.twoo.com/?login=0trackhomepage_footerclick16011214256?f=https%3A%2F%2Fitunes.apple.com%2Fapp%2Ftwoo%2Fid486773266%3Fmt%3D8
+https://www.twoo.com/faq?login=0
 https://www.twoo.com/faq
-https://www.twoo.com/trackhomepage_footerclick59067740570?f=https%3A%2F%2Fitunes.apple.com%2Fapp%2Ftwoo%2Fid486773266%3Fmt%3D8
-https://www.twoo.com/aboutterms
-https://www.twoo.com/download
 https://www.twoo.com/?login=0
-https://www.twoo.com/aboutsafety
-https://www.twoo.com/blog
-https://www.twoo.com/aboutprivacy
+https://www.twoo.com/about
+https://blog.twoo.com
 https://www.twoo.com/
+https://www.twoo.com/download

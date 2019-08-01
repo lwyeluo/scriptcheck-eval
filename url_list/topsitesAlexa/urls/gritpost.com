@@ -1,1 +1,1 @@
-https://www.gritpost.com/
+https://gritpost.com/

@@ -1,10 +1,10 @@
-https://www.wd.com/productshome-surveillance-solutions.html
+https://www.wd.com
 https://support-en.wd.com/
-https://www.wd.com/creating-environments-for-data-to-thrive.html
-https://www.wd.com/productsaccessories.html
 https://support-en.wd.com
-https://www.wd.com/solutionsmy-cloud-os30.html
-https://www.wd.com/productsportable-storagemy-passport.html
-https://community.wd.com/
-https://www.wd.com/contentdamwdcwebsitedownloadable_assetsengmiscWD-BSMI-RoHS-Substance-List.pdf
 https://www.wd.com/
+https://support-en.wd.com/app
+https://community.wd.com/
+https://shop.wd.com/store?Action=DisplayEditProfilePage&Locale=en_US&SiteID=wdus
+https://www.wd.com/about-wd.html
+https://www.wd.com/region-selector.html
+https://shop.wd.com/store/wdus/en_US/DisplayActivatePurchasePlanPage/marketID.1115100

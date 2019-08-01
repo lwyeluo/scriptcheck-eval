@@ -1,9 +1,8 @@
-https://app.loboclick.com/publisher
+https://loboclick.com/
+https://loboclick.com/publisher
+https://loboclick.com/terms_conditions
 https://app.loboclick.com/signup
-https://app.loboclick.com/terms_conditions
-https://app.loboclick.com/
-https://app.loboclick.com/privacy_policy
-https://app.loboclick.com/ad_formats
+https://loboclick.com/privacy_policy
+https://loboclick.com/ad_formats
 https://www.loboclick.com/
-https://app.loboclick.com/advertiser
-https://app.loboclick.com/login
+https://loboclick.com/advertiser

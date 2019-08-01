@@ -1,1 +1,1 @@
-https://www.zoon.ru/
+https://zoon.ru/

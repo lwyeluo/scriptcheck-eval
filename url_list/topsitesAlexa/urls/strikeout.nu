@@ -1,10 +1,10 @@
-https://www.strikeout.nu/volleyball
-https://www.strikeout.nu/motogp
-https://www.strikeout.nu/football
+https://www.strikeout.nu/ncaaf
+https://www.strikeout.nu/baseball
+https://www.strikeout.nu/epl
+https://www.strikeout.nu/fighting
+https://www.strikeout.nu/live-sports
 https://www.strikeout.nu/cycling
+https://www.strikeout.nu/mlb
 https://www.strikeout.nu/basketball
-https://www.strikeout.nu/cricket
 https://www.strikeout.nu/rugby-league
-https://www.strikeout.nu/hockey
 https://www.strikeout.nu/
-https://www.strikeout.nu/rugby

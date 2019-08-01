@@ -1,1 +1,1 @@
-https://www.elementor.com/
+https://elementor.com/

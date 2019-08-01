@@ -1,1 +1,1 @@
-https://www.scopamici.com/
+https://scopamici.com/

@@ -1,1 +1,1 @@
-https://www.gameinfo.io/
+https://gameinfo.io/

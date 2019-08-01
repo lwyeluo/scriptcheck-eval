@@ -1,1 +1,1 @@
-https://www.z2i.com/
+https://z2i.com/

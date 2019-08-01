@@ -1,10 +1,10 @@
-https://www.bloglovin.com/login
-https://www.bloglovin.com/fashion-articles
-https://www.bloglovin.com/beauty-articles
+https://www.bloglovin.com/tos
+https://www.bloglovin.com/home-decor-articles
 https://www.bloglovin.com/lifestyle-articles
-https://www.bloglovin.com/what-is-bloglovin
 https://www.bloglovin.com/beauty-vloggers-articles
+https://www.bloglovin.com/tags
+https://www.bloglovin.com/beauty-articles
 https://www.bloglovin.com/
-http://help.bloglovin.com
 https://www.bloglovin.com/food-drink-articles
-http://help.bloglovin.com/
+https://www.bloglovin.com/login
+https://www.bloglovin.com/diy-craft-articles

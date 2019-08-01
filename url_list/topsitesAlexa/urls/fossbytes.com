@@ -1,1 +1,1 @@
-https://www.fossbytes.com/
+https://fossbytes.com/

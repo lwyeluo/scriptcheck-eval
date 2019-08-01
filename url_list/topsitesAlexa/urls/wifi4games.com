@@ -1,10 +1,3 @@
-https://www.wifi4games.com/pc_gamesTotal_War:_Three_Kingdoms.html
-https://www.wifi4games.com/pc_gamesGTA_SAN_ANDREAS.html
-https://www.wifi4games.com/pc_gamesStar_Wars_Battlefront_II.html
-https://www.wifi4games.com/pc_gamesjourney.html
-https://www.wifi4games.com/pc_gamesMy_Friend_Pedro.html
-https://www.wifi4games.com/pc_gamesINSOMNIA:_The_Ark.html
-https://www.wifi4games.com/pc_gamescat%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9.html
-https://www.wifi4games.com/terms
 https://www.wifi4games.com/
-https://www.wifi4games.com/iwaatch.com
+https://www.wifi4games.com/privacy
+https://www.wifi4games.com/terms

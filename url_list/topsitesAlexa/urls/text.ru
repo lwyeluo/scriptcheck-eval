@@ -1,1 +1,1 @@
-https://www.text.ru/
+https://text.ru/

@@ -1,10 +1,10 @@
-https://www.medianewpagesearch.com/license_agreement.php
-http://search.medianewpagesearch.com/uninstall.php
-https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.phpcookies.php
 https://www.medianewpagesearch.com/privacy.php#privacy-ancor
-http://search.medianewpagesearch.com/privacy.php
 https://www.medianewpagesearch.com/
-https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.phpcookies.php
-https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.php
+https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.phpcookies.php
+https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.phpcookies.phpcookies.php
 https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.php
-http://search.medianewpagesearch.com/privacy.phpcookies.php
+https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.phpcookies.php
+https://www.medianewpagesearch.com/license_agreement.php
+https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.php
+https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.phpcookies.phpcookies.phpcookies.phpcookies.php
+https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.phpcookies.phpcookies.phpcookies.php

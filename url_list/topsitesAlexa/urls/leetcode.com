@@ -1,1 +1,1 @@
-https://www.leetcode.com/
+https://leetcode.com/

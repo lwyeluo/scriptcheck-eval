@@ -1,10 +1,10 @@
-https://www.rbth.com/
-https://www.rbth.com/lifestyle330680-russian-accept-return-tsar
+https://jp.rbth.com
+https://www.rbth.com/arts
 https://it.rbth.com
-https://rs.rbth.com
-https://fr.rbth.com
-https://www.rbth.com/blogstatar_straits20170224when-a-russian-doctor-tried-to-crack-the-mystery-of-the-abode-of-lord-shiva_707558
 https://es.rbth.com
-https://www.rbth.com/travel
 https://bg.rbth.com
-https://www.rbth.com
+https://www.rbth.com/travel
+https://rs.rbth.com
+https://www.rbth.com/lifestyle
+https://www.rbth.com/
+https://id.rbth.com

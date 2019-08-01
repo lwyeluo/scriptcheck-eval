@@ -1,10 +1,1 @@
-https://www.tvrain.ru/liteteleshowpedsovetshkola_mechty_kazhdogo_rebenka-489503
-https://www.tvrain.ru/liteteleshowlegendy_velichajshie_lichnosti_20_vekavelichajshie_lichnosti_20_veka_serija_7_dejateli_iskusstva-489279
-https://www.tvrain.ru/teleshowbremja_novostejlope_jap-489505
-https://www.tvrain.ru/teleshowted_dodvy_ne_vo_vlasti_vashih_emotsij_vash_mozg_sozdaet_ih-483342
-https://www.tvrain.ru/teleshowzhenschiny_sverhu
-https://www.tvrain.ru/liteteleshowsamoe_opasnoe_mesto_dlja_raboty
-https://www.tvrain.ru/teleshowfishman_vechernee_shouvolodin-489915
-https://www.tvrain.ru/liteteleshowbbckosmonavty
-https://www.tvrain.ru/liteteleshowed_bollz_amerika_trampa
-https://www.tvrain.ru/
+https://tvrain.ru/

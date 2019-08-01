@@ -1,1 +1,1 @@
-https://www.tetris.com/
+https://tetris.com/

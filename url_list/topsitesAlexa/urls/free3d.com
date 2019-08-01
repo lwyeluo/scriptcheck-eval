@@ -1,1 +1,1 @@
-https://www.free3d.com/
+https://free3d.com/

@@ -1,10 +1,4 @@
-https://www.handy-tab.com/contactscontacts
-https://www.handy-tab.com/howtoprivacy
-https://www.handy-tab.com/contactsprivacy
-https://www.handy-tab.com/howtohowto
-https://www.handy-tab.com/howto
-https://www.handy-tab.com/privacy
-https://www.handy-tab.com/contacts
-https://www.handy-tab.com/howtocontacts
-https://www.handy-tab.com/contactshowto
 https://www.handy-tab.com/
+https://www.handy-tab.com/privacy
+https://www.handy-tab.com/howto
+https://www.handy-tab.com/contacts

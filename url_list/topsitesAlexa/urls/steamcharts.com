@@ -1,1 +1,1 @@
-https://www.steamcharts.com/
+https://steamcharts.com/

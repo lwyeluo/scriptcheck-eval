@@ -1,1 +1,1 @@
-https://www.fap-nation.com/
+https://fap-nation.com/

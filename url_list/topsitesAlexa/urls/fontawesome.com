@@ -1,1 +1,1 @@
-https://www.fontawesome.com/
+https://fontawesome.com/

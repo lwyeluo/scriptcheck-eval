@@ -1,1 +1,1 @@
-https://www.wbijam.pl/
+https://wbijam.pl/

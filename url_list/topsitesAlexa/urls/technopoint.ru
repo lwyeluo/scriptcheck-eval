@@ -1,1 +1,1 @@
-https://www.technopoint.ru/
+https://technopoint.ru/

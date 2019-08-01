@@ -1,1 +1,1 @@
-https://www.torrentfreak.com/
+https://torrentfreak.com/

@@ -1,10 +1,1 @@
-https://www.klikbca.com/klikpayKlikPayinformasi_keamanan.html
-https://klikpay.klikbca.com/login.do?action=registerDirectRequest
-https://www.klikbca.com/OnlineApplicationonline_application.html
-https://www.klikbca.com/klikpayKlikPaybantuan.html
-https://www.klikbca.com/klikpayKlikPayhubungi.html
 https://www.klikbca.com/
-https://klikpay.klikbca.com
-https://www.klikbca.com/klikpayKlikPaytentangklikpay.html
-https://www.klikbca.com/klikpay
-https://www.klikbca.com/mbca

@@ -1,10 +1,2 @@
-https://www.paper-io.com/partnersfeedback
-https://www.paper-io.com/partners
-https://www.paper-io.com/feedbackprivacy
-https://www.paper-io.com/partnerspartners
-https://www.paper-io.com/partnersprivacy
-https://www.paper-io.com/feedbackfeedback
-https://www.paper-io.com/privacy
-https://www.paper-io.com/
-https://www.paper-io.com/feedback
-https://www.paper-io.com/feedbackpartners
+http://paper-io.com/feedback
+http://paper-io.com/

@@ -1,1 +1,1 @@
-http://www.indiaresults.com/
+https://www.indiaresults.com/

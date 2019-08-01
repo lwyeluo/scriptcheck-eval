@@ -1,10 +1,10 @@
-https://www.toptal.com/machine-learning
-https://www.toptal.com/resumeanne-adams
-https://www.toptal.com/devops
-https://www.toptal.com/project-managers
-https://www.toptal.com/contact
-https://www.toptal.com/product-managers/contract
+https://www.toptal.com/finance/fintech
+https://www.toptal.com/product-managers/scrum-product-owner-contractor
 https://www.toptal.com/press-center
 https://www.toptal.com/product-managers/business-analyst
-https://www.toptal.com/designers/ui
+https://www.toptal.com/designers/creative-direction
 https://www.toptal.com/
+https://www.toptal.com/finance
+https://www.toptal.com/ios
+https://www.toptal.com/back-end
+https://www.toptal.com/virtual-reality

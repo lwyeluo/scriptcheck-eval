@@ -1,10 +1,10 @@
-http://www.avia.pro/
-http://www.avia.pro/blogstyuardessa-v-tatuirovka-mif-ili-realnost
-http://www.avia.pro/blogboevye-samolety
-http://www.avia.pro/blogalpiyskiy-patrul-1998-2007
-http://www.avia.pro/reklamodatelyam
-http://www.avia.pro/blogavia-yumor
-http://www.avia.pro/aviakatastrofy
-http://www.avia.pro/blogstyuardessy
-http://www.avia.pro/veroyatnost-katastrofy
-http://www.avia.pro/videopervyy-polyot-samolyota-il-112
+http://avia.pro/voennaya-aviaciya
+http://avia.pro/agregaty-i-uzly-avia-tehniki
+http://avia.pro/sravnenie /
+http://avia.pro/
+http://avia.pro/front?page=2
+http://avia.pro/front?page=4
+http://avia.pro/otpravit-statyu
+http://avia.pro/pomoshch
+http://avia.pro/aviaciya-i-literatura
+http://avia.pro/akcii-aviaciya

@@ -1,10 +1,8 @@
-http://www.van-u.com/controlshaixianindex.aspx
-http://www.van-u.com/helpindex.aspx?m=114004004
-http://www.van-u.com/productitem.aspx?i=100000714832591
-http://www.van-u.com/productsearch.aspx?t=2600
-http://www.van-u.com/productitem.aspx?i=101020014836555
-http://www.van-u.com/productsearch.aspx?t=2402
+http://www.van-u.com/news_100019698539953.html
+http://www.van-u.com/news_100019712251523.html
+http://www.van-u.com/news_100019719323164.html
+http://www.van-u.com/Login.aspx
 http://www.van-u.com/
-http://www.van-u.com/productitem.aspx?i=101020015036823
-http://www.van-u.com/productsearch.aspx?t=2404
-http://www.van-u.com/productsearch.aspx?t=2104
+http://www.van-u.com/reg.aspx
+http://www.van-u.com/news_100019705363963.html
+http://www.van-u.com/login.aspx

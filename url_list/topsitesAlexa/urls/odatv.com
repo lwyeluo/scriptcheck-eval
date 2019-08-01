@@ -1,1 +1,1 @@
-https://www.odatv.com/
+https://odatv.com/

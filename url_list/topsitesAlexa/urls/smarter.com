@@ -1,10 +1,4 @@
-https://www.smarter.com/privacyprivacy
-https://www.smarter.com/privacyterms
-https://www.smarter.com/terms
-https://www.smarter.com/termsterms
-https://www.smarter.com/privacycookies
-https://www.smarter.com/privacy
-https://www.smarter.com/termscookies
 https://www.smarter.com/cookies
-https://www.smarter.com/termsprivacy
 https://www.smarter.com/
+https://www.smarter.com/terms
+https://www.smarter.com/privacy

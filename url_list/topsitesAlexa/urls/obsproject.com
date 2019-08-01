@@ -1,1 +1,1 @@
-https://www.obsproject.com/
+https://obsproject.com/

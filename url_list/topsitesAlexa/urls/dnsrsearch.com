@@ -1,10 +1,1 @@
-http://www.dnsrsearch.com/search?q=Computers
-http://www.dnsrsearch.com/search?q=Personal+Finance
-http://www.dnsrsearch.com/privacy.php
-http://www.dnsrsearch.com/search?q=Lifestyle
-http://www.dnsrsearch.com/search?q=E+Commerce
-http://www.dnsrsearch.com/search?q=Travel
-http://www.dnsrsearch.com/search?q=Shopping
-http://www.dnsrsearch.com/tos.php
 http://www.dnsrsearch.com/
-http://www.dnsrsearch.com/search?q=Insurance

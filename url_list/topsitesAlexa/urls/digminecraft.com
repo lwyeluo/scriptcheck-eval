@@ -1,10 +1,1 @@
-https://www.digminecraft.com/chemistry_elementsindex.php
-https://www.digminecraft.com/block_recipesindex.php
-https://www.digminecraft.com/donate.php
-https://www.digminecraft.com/skinsindex.php
-https://www.digminecraft.com/version_historyindex.php
-https://www.digminecraft.com/about_us.php
-https://www.digminecraft.com/materialsindex.php
-https://www.digminecraft.com/basic_recipesindex.php
-https://www.digminecraft.com/weapon_recipesindex.php
 https://www.digminecraft.com/

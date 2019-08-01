@@ -1,1 +1,1 @@
-https://www.mirrorace.com/
+https://mirrorace.com/

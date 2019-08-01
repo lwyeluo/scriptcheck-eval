@@ -1,1 +1,1 @@
-https://www.calendly.com/
+https://calendly.com/

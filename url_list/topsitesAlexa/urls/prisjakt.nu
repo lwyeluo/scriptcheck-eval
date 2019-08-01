@@ -1,10 +1,10 @@
-https://www.prisjakt.nu/kategori.php?k=932
-https://www.prisjakt.nu/kategori.php?k=1618
-https://www.prisjakt.nu/kategori.php?k=1217
-https://www.prisjakt.nu/kategori.php?k=84
+https://www.prisjakt.nu/infopersonuppgiftspolicy--i6
+https://www.prisjakt.nu/kategori.php?k=1490
+https://www.prisjakt.nu/kategori.php?k=959
+https://www.prisjakt.nu/infocookiepolicy--i7
 https://www.prisjakt.nu/kategori.php?k=1221
 https://www.prisjakt.nu/
-https://www.prisjakt.nu/kategori.php?k=23
-https://www.prisjakt.nu/infocookiepolicy--i7
-https://www.prisjakt.nu/kategori.php?k=956
+https://www.prisjakt.nu/kategori.php?k=894
 https://www.prisjakt.nu/kategori.php?k=107
+https://www.prisjakt.nu/kategori.php?k=384
+https://www.prisjakt.nu/kategori.php?k=2008

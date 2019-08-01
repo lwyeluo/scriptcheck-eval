@@ -1,1 +1,1 @@
-https://www.krunker.io/
+https://krunker.io/

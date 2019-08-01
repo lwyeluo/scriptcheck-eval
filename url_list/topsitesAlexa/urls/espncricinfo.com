@@ -1,10 +1,5 @@
-https://www.espncricinfo.com/cricketpicks
-https://www.espncricinfo.com/story_id27093872why-bat-ball-balance-now-probably-best-in-odi-history
-https://www.espncricinfo.com/story_id27146208the-monga-kimber-world-cup-2019-xi-here-already
-https://www.espncricinfo.com/videoclip?id=27228423
-https://www.espncricinfo.com/story_id27227296would-love-see-associate-teams-world-cup-rashid-khan
-https://www.espncricinfo.com/story_id27217497stuart-broad-bowling-advice-keeps-jackson-bird-wire
-https://www.espncricinfo.com/story_id27174161ethiopian-delights-colombo-evenings
-https://www.espncricinfo.com/story_id27199493ben-stokes-jos-buttler-eoin-morgan-other-england-players-recount-thrilling-world-cup-final
-https://www.espncricinfo.com/story_id27192692cricket-were-end-tomorrow-least-game
+http://stats.espncricinfo.com/ci/engine/records/index.html
+http://www.espncricinfo.com/blogs/content/story/blogs/index.html?genre=569
+http://www.espncricinfo.com/ci/content/page/866033.html
+http://www.espncricinfo.com/25/content/site/25/index.html
 https://www.espncricinfo.com/

@@ -1,1 +1,1 @@
-https://www.igg-games.com/
+https://igg-games.com/

@@ -1,10 +1,4 @@
 https://www.thriftbooks.com/
-https://www.thriftbooks.com/accountyourrewards
-https://www.thriftbooks.com/help#topic-6
-https://www.thriftbooks.com/bmystery-thriller-and-suspense
-https://www.thriftbooks.com/blog
-https://www.thriftbooks.com/help#topic-30
-https://www.thriftbooks.com/bbiographies-and-memoirs
-https://www.thriftbooks.com/beducation-and-reference
-https://www.thriftbooks.com/testimonials.aspx
-https://www.thriftbooks.com/bmystery
+https://www.thriftbooks.com/b/harry-potter/
+https://www.thriftbooks.com/privacy-policy
+https://www.thriftbooks.com/giftcard

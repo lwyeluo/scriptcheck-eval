@@ -1,1 +1,1 @@
-https://www.gamer-info.com/
+https://gamer-info.com/

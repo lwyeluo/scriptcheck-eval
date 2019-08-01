@@ -1,1 +1,1 @@
-https://www.imgur.com/
+https://imgur.com/

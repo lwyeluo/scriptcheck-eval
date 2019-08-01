@@ -1,10 +1,1 @@
-https://www.popularmechanics.com/home
-https://www.popularmechanics.com/cars
-https://www.popularmechanics.com/culture
-https://www.popularmechanics.com/technologysecuritya28424868faceapp-challenge-security-risks
-https://www.popularmechanics.com/space
-https://www.popularmechanics.com/spacemoon-marsa28195823omega-50th-anniversary-moon-landing
-https://www.popularmechanics.com/abouta2922contact-us
-https://www.popularmechanics.com/carscar-technology
-https://www.popularmechanics.com/spacerockets
 https://www.popularmechanics.com/

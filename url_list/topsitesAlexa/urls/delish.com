@@ -1,10 +1,1 @@
-https://www.delish.com/kitchen-toolscookbooksa27892399pre-order-the-delish-insane-sweets-cookbook
-https://www.delish.com/abouta41645community-guidelines
 https://www.delish.com/
-https://www.delish.com/cookingg2137jam-recipes
-https://www.delish.com/cookingrecipe-ideasa28186625chocolate-covered-key-lime-pie-bites-recipe
-https://www.delish.com/food-news
-https://www.delish.com/cookingnutrition
-https://www.delish.com/cooking-basics
-https://www.delish.com/healthy-recipes
-https://www.delish.com/keto-recipes

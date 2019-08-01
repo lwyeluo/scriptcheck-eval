@@ -1,10 +1,10 @@
 https://steamcommunity.com/login/home/?goto=
+https://steamcommunity.com/?browsefilter=mostrecent
+https://steamcommunity.com/app/578080
 https://steamcommunity.com/?subsection=guides
+https://steamcommunity.com/?subsection=videos
+https://steamcommunity.com/?subsection=broadcasts
 https://steamcommunity.com/?subsection=images
-https://steamcommunity.com/app/4000
-https://steamcommunity.com/workshop/
-https://steamcommunity.com/linkfilter/?url=http://www.geonames.org
-https://steamcommunity.com/?subsection=screenshots
-https://steamcommunity.com/discussions/
-https://www.steamcommunity.com/
-https://steamcommunity.com/market/
+https://steamcommunity.com/
+https://steamcommunity.com/app/306130
+https://steamcommunity.com/app/570940

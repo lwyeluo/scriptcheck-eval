@@ -1,1 +1,1 @@
-https://www.shopee.ph/
+https://shopee.ph/

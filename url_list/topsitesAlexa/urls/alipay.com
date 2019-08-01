@@ -1,10 +1,10 @@
 https://global.alipay.com/index.htm
-https://zcbprod.alipay.com/index.htm
-https://www.alipay.com
-https://auth.alipay.com/login/index.htm?goto=https%3A%2F%2Fwww.alipay.com%2F
-https://fun.alipay.com/certificate/jyxkz.htm
-https://yebprod.alipay.com/yeb/index.htm
-https://fun.alipay.com/certificate/zfxkz.htm
-https://ab.alipay.com/i/lianxi.htm
 https://www.alipay.com/
+https://fun.alipay.com/certificate/zfxkz.htm
+https://fun.alipay.com/certificate/jyxkz.htm
+https://auth.alipay.com/login/index.htm?goto=https%3A%2F%2Fwww.alipay.com%2F
+https://www.alipay.com
 https://open.alipay.com/platform/home.htm?from=zhuzhanfooter20160818
+https://global.alipay.com/merchant/portal/open/dashboard/notices
+https://zcbprod.alipay.com/index.htm
+https://global.alipay.com/product-detail.htm?bizCode=OPEN_RPC

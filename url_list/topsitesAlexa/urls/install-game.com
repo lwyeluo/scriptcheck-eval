@@ -1,1 +1,1 @@
-https://www.install-game.com/
+https://install-game.com/

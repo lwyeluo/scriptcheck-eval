@@ -1,1 +1,10 @@
+https://reddit.com.cutestat.com
+http://msk.ruokna.com.cutestat.com
+https://nacionrex.com.cutestat.com
+https://www.cutestat.com/cutestat-lite-tutorials
+https://google.com.cutestat.com
+https://amazon.com.cutestat.com
+https://yahoo.com.cutestat.com
 https://www.cutestat.com/
+https://www.cutestat.com/topsites
+https://titlesearch.us.cutestat.com

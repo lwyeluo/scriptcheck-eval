@@ -1,1 +1,1 @@
-https://www.wallhaven.cc/
+https://wallhaven.cc/

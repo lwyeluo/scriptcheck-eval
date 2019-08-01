@@ -1,1 +1,1 @@
-https://www.telegra.ph/
+https://telegra.ph/

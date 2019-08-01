@@ -1,10 +1,1 @@
-https://www.jiaoping.com/docsmanager-howto.html
-https://www.jiaoping.com/docsRELEASE-NOTES.txt
-https://www.jiaoping.com/managerstatus
-https://www.jiaoping.com/docssecurity-howto.html
-https://www.jiaoping.com/docs
-https://www.jiaoping.com/host-managerhtml
-https://www.jiaoping.com/docsapiindex.html
-https://www.jiaoping.com/docsjndi-datasource-examples-howto.html
-https://www.jiaoping.com/managerhtml
 https://www.jiaoping.com/

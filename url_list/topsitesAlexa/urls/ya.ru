@@ -1,2 +1,1 @@
-https://www.ya.ru/
-https://www.ya.ru/yandex.ru
+https://ya.ru/

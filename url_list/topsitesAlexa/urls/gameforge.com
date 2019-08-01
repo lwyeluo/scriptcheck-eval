@@ -1,1 +1,1 @@
-https://www.gameforge.com/
+https://gameforge.com/

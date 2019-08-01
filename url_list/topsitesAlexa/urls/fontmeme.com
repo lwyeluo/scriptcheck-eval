@@ -1,1 +1,1 @@
-https://www.fontmeme.com/
+https://fontmeme.com/

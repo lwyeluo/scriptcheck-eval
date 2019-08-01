@@ -1,10 +1,2 @@
-https://www.vocabulary.com/profilesmy
-https://www.vocabulary.com/loginfacebook?success=listsvocabgrabber
-https://www.vocabulary.com/loginfacebook
-https://www.vocabulary.com/bowl
-https://www.vocabulary.com/login
-https://www.vocabulary.com/accountusers
-https://www.vocabulary.com/progress
-https://www.vocabulary.com/leaderboards
+https://www.vocabulary.com/blog
 https://www.vocabulary.com/
-https://www.vocabulary.com/educator-edition

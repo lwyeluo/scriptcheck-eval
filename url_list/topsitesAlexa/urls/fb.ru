@@ -1,10 +1,3 @@
-https://www.fb.ru/posthealth-and-safety2019712118437
-https://www.fb.ru/postpets2019721120629
-https://www.fb.ru/postinternet-law2019719119836
-https://www.fb.ru/postnutrition2019720120900
-https://www.fb.ru/
-https://www.fb.ru/postnutrition2019720120843
-https://www.fb.ru/postscience2019720121267
-https://www.fb.ru/lifenews-and-society
-https://www.fb.ru/infofaq
-https://www.fb.ru/postmain-course2019721120354
+https://fb.ru/
+https://fb.ru/signin
+https://fb.ru/search

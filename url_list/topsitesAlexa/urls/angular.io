@@ -1,1 +1,1 @@
-https://www.angular.io/
+https://angular.io/

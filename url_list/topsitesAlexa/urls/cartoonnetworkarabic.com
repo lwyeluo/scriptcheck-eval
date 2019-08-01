@@ -1,10 +1,6 @@
-https://www.cartoonnetworkarabic.com/gamesben-10-omnitrix-glitchplay
-https://www.cartoonnetworkarabic.com/gameswe-bare-bears-chocolate-artistplay
-https://www.cartoonnetworkarabic.com/gamesgumball-oh-no-g-latoplay
+https://www.cartoonnetworkarabic.com/terms-of-use
+https://www.cartoonnetworkarabic.com/privacy-policy
 https://www.cartoonnetworkarabic.com/
-https://www.cartoonnetworkarabic.com/gamesgumball-the-bungeeplay
-https://www.cartoonnetworkarabic.com/gamesteen-titans-go-titans-most-wantedplay
-https://www.cartoonnetworkarabic.com/showmixels
-https://www.cartoonnetworkarabic.com/gamesteen-titans-go-slash-of-justiceplay
-https://www.cartoonnetworkarabic.com/gameswe-bare-bears-polar-forceplay
-https://www.cartoonnetworkarabic.com/showchowder
+https://www.cartoonnetworkarabic.com/cookies-policy
+https://www.cartoonnetworkarabic.com/games
+https://www.cartoonnetworkarabic.com/trademark

@@ -1,1 +1,1 @@
-https://www.bithoven.com/
+https://bithoven.com/

@@ -1,1 +1,1 @@
-https://www.streamelements.com/
+https://streamelements.com/

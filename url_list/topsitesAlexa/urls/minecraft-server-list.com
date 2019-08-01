@@ -1,1 +1,1 @@
-https://www.minecraft-server-list.com/
+https://minecraft-server-list.com/

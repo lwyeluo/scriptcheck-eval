@@ -1,10 +1,1 @@
-https://www.jiguo.com/articleindex16045.html
-https://www.jiguo.com/articlearticle80522.html
-https://www.jiguo.com/userprofileuid2921482.html
-https://www.jiguo.com/eventindex3421.html
-https://www.jiguo.com/searchcategorycid665.html
-https://www.jiguo.com/userprofileuid2927189.html
-https://www.jiguo.com/searchcategorycid657.html
-https://www.jiguo.com/searchcategorycid528.html
 https://www.jiguo.com/
-https://www.jiguo.com/searchcategorycid526.html

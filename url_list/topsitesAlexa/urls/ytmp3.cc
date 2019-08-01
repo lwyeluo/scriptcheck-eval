@@ -1,1 +1,1 @@
-https://www.ytmp3.cc/
+https://ytmp3.cc/

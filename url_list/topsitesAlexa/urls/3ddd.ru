@@ -1,10 +1,6 @@
-https://www.3ddd.ru/forumthreadshowcorona_renderer_3_hotfix_2_proshlo_45_dnei_normalnoi_spokoinoi_zhizni_i_vot_takaia_nezadacha?show_post=1454415
-https://www.3ddd.ru/galleriesgalleryokeanarium_aquatis_v_shveitsarii_sdelano_po_referensu
-https://www.3ddd.ru/galleriesrss
-https://www.3ddd.ru/blogcategorytutorials
-https://www.3ddd.ru/3dmodelscontest
-https://www.3ddd.ru/blogrss
-https://www.3ddd.ru/forumrss
-https://www.3ddd.ru/registerregister
-https://www.3ddd.ru/
-https://www.3ddd.ru/3dmodelsshowmise_bed_by_my_home_collection
+https://3ddd.ru/galleries
+https://3ddd.ru/blog
+https://3ddd.ru/login
+https://3ddd.ru/
+https://3ddd.ru/3dmodels
+https://3ddd.ru/ads

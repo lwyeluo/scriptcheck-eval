@@ -1,1 +1,1 @@
-https://www.my-subs.com/
+https://my-subs.com/

@@ -1,1 +1,1 @@
-https://www.steemit.com/
+https://steemit.com/

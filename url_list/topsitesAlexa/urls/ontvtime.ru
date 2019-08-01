@@ -1,10 +1,10 @@
-http://www.ontvtime.ru/index.php?option=com_user&task=disable_adsprivacy.html
-http://www.ontvtime.ru/index.php?option=com_user&task=disable_adscontactsadministrator.html
-http://www.ontvtime.ru/
+http://www.ontvtime.ru/index.php?option=com_user&task=disable_adsabout.html
 http://www.ontvtime.ru/index.php?option=com_user&task=disable_ads
+http://www.ontvtime.ru/index.php?option=com_user&task=disable_adsprivacy.html
+http://www.ontvtime.ru/
+http://www.ontvtime.ru/index.php?option=com_user&task=disable_adsrecordsindex.php
 http://www.ontvtime.ru/privacy.html
-http://www.ontvtime.ru/contactsadministrator.html
-http://www.ontvtime.ru/channelsindex.php
-http://www.ontvtime.ru/about.html
-http://www.ontvtime.ru/recordsindex.php
 http://www.ontvtime.ru/tv
+http://www.ontvtime.ru/about.html
+http://www.ontvtime.ru/index.php?option=com_user&task=disable_adscontactsadministrator.html
+http://www.ontvtime.ru/index.php?option=com_user&task=disable_adschannelsindex.php

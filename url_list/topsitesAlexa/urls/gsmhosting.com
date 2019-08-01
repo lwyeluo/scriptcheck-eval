@@ -1,1 +1,1 @@
-https://www.gsmhosting.com/
+http://www.gsmhosting.com/

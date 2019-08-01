@@ -1,10 +1,10 @@
-https://www.pastemagazine.com/articlesarticle-typeeditors-picks
-https://www.pastemagazine.com/articles201812the-50-best-movies-of-2018.html
-https://www.pastemagazine.com/articles201812the-25-best-comic-books-of-2018.html
-https://www.pastemagazine.com/articles201907buddy-and-julie-miller-interview-new-album-breakdo.html
+https://www.pastemagazine.com/about
+https://www.pastemagazine.com/daytrotter
+https://www.pastemagazine.com/copyright
 https://www.pastemagazine.com/
+https://www.pastemagazine.com/travel
 https://www.pastemagazine.com/movies
-https://www.pastemagazine.com/articles201906the-best-comic-book-covers-of-june-2019.html
-https://www.pastemagazine.com/politics
+https://www.pastemagazine.com/music
+https://www.pastemagazine.com/books
+https://www.pastemagazine.com/privacy
 https://www.pastemagazine.com/contributor-information
-https://www.pastemagazine.com/advertise

@@ -1,1 +1,1 @@
-https://www.ninjakiwi.com/
+https://ninjakiwi.com/

@@ -1,1 +1,1 @@
-https://www.warriorplus.com/
+https://warriorplus.com/

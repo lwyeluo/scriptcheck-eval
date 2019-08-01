@@ -1,1 +1,1 @@
-https://www.pixabay.com/
+https://pixabay.com/

@@ -1,1 +1,0 @@
-https://www.synchronycredit.com/

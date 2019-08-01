@@ -1,1 +1,1 @@
-https://www.streema.com/
+https://streema.com/

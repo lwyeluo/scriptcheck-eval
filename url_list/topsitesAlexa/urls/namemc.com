@@ -1,1 +1,1 @@
-https://www.namemc.com/
+https://namemc.com/

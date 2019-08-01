@@ -1,1 +1,1 @@
-https://www.getbootstrap.com/
+https://getbootstrap.com/

@@ -1,1 +1,1 @@
-https://www.karanpc.com/
+https://karanpc.com/

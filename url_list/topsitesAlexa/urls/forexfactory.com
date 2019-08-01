@@ -1,10 +1,8 @@
-https://www.forexfactory.com/news934433-eurjpy-weak-close-suggests-more-losses-next-weekhit
-https://www.forexfactory.com/showthread.php?t=708441&goto=lastpost&userid=432309
-https://www.forexfactory.com/news934464-iran-tensions-uk-oil-tanker-was-seized-in
-https://www.forexfactory.com/news934372-secular-outlook-2019-implications-for-investors#post12393442
-https://www.forexfactory.com/showthread.php?t=934463&goto=lastpost&userid=543229
-https://www.forexfactory.com/news934372-secular-outlook-2019-implications-for-investorshit
+https://www.forexfactory.com/blog
 https://www.forexfactory.com
-https://www.forexfactory.com/showthread.php?t=917569&goto=lastpost&userid=616277
-https://www.forexfactory.com/news934448-saudi-king-approves-hosting-us-troops-to-enhance
+https://www.forexfactory.com/contact
 https://www.forexfactory.com/
+https://www.forexfactory.com/products
+https://www.forexfactory.com/mission
+https://www.forexfactory.com/news
+https://www.forexfactory.com/mediakit

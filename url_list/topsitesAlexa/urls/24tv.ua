@@ -1,1 +1,1 @@
-https://www.24tv.ua/
+https://24tv.ua/

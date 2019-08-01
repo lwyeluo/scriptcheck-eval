@@ -1,10 +1,10 @@
+https://www.snapdeal.com/products/kitchen-bathroom-fittings
 https://www.snapdeal.com/
-https://www.snapdeal.com/products/lifestyle-necktie?sort=plrty
-https://www.snapdeal.com/products/appliances-air-purifiers-humidifiers
-https://www.snapdeal.com/products/mens-footwear-casual-shoes?q=ShoeType_s%3ASneakers%7C&sort=plrty
-https://www.snapdeal.com/products/watches-kids?sort=plrty
-https://www.snapdeal.com/products/laptop-skins?sort=plrty
-https://www.snapdeal.com/search?clickSrc=top_searches&keyword=hair dryer&categoryId=0&vertical=p&noOfResults=20&SRPID=topsearch
-https://www.snapdeal.com/products/mens-winter-wear-store?sort=plrty
-https://www.snapdeal.com/brand/tupperware/home-kitchen
-https://www.snapdeal.com/products/men-apparel-tshirts
+https://www.snapdeal.com/product/oppo-purple-oppo-f9-pro/641593030946
+https://www.snapdeal.com/products/home-kitchen-bean-bags?sort=plrty
+https://www.snapdeal.com/brand/mortein/mosquito-fly-repellents
+https://www.snapdeal.com/products/men-apparel-shirts/filters/Fabric_s~100%20Percent%20Cotton
+https://www.snapdeal.com/offers/deal-of-the-day
+https://www.snapdeal.com/page/core-values
+https://www.snapdeal.com/products/sports-hobbies-basketball?sort=plrty&showAds=false
+https://www.snapdeal.com/products/kids-strollers?sort=plrty

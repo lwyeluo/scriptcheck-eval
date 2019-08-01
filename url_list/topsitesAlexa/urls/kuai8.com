@@ -1,0 +1,10 @@
+http://dnf.kuai8.com/gonglue/95daquan/
+http://pc.kuai8.com/zt/tlryxilie/
+http://ka.kuai8.com/info-1336.html
+http://news.kuai8.com/184880.html
+http://shouyou.kuai8.com/game/fgor/
+http://lol.kuai8.com/news/271134.html
+http://ol.kuai8.com/news/275210.html
+http://shouyou.kuai8.com/zt/glxbwysw/
+http://www.kuai8.com/
+http://pc.kuai8.com/zt/ygzbdsh/

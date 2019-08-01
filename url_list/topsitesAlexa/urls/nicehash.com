@@ -1,10 +1,10 @@
-https://www.nicehash.com/helpfees
-https://www.nicehash.com/profitability-calculator
-https://www.nicehash.com/pool-operators
+https://www.nicehash.com/buy
+https://www.nicehash.com/media
+https://www.nicehash.com/farm-mining
+https://www.nicehash.com/about
 https://miner.nicehash.com
+https://www.nicehash.com/pricing
 https://www.nicehash.com/help
-https://www.nicehash.com/login
-https://www.nicehash.com/news
-https://www.nicehash.com/register
 https://www.nicehash.com/
-https://www.nicehash.com/software-developers
+https://www.nicehash.com/sell
+https://www.nicehash.com/doc-api

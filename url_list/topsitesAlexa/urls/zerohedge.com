@@ -1,10 +1,7 @@
-https://www.zerohedge.com/news2019-07-20dave-collum-goes-deep-conspiracy-theories-911-epstein-pizzagate-jfk-and-vegas#comment_stream
-https://www.zerohedge.com/helpreport-offensive-comments
-https://www.zerohedge.com/news2019-07-20woke-capitalism-answering-question-nobody-asked
+https://www.zerohedge.com/donate
 https://www.zerohedge.com/cookie-policy
-https://www.zerohedge.com/news2019-07-20el-chapo-arrives-supermax-prison-after-disappearing-two-days#comment_stream
-https://www.zerohedge.com/helphow-readtip-zero-hedge-without-attracting-interest-human-resourcesthe-treasuryblack-helicopt
-https://www.zerohedge.com/news2019-07-20shape-world-according-old-maps#comment_stream
+https://www.zerohedge.com/contributing-editors
 https://www.zerohedge.com/
-https://www.zerohedge.com/news2019-07-17activist-ackmans-pershing-square-holdings-now-has-activist-problem-its-own
-https://www.zerohedge.com/news2019-07-20congress-boost-minimum-wage-and-teen-joblessness#comment_stream
+https://www.zerohedge.com/policy-on-conflicts
+https://www.zerohedge.com/about
+https://www.zerohedge.com/privacy-policy

@@ -1,1 +1,1 @@
-https://www.livestreamfails.com/
+https://livestreamfails.com/

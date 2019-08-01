@@ -1,10 +1,10 @@
-https://www.ui.com/store.ui.com
-https://www.ui.com/legaltermsofservice
-https://careers.ui.com
-https://airmax.ui.com
-https://www.ui.com/trainingcalendar
-https://www.ui.com/help.ubnt.com
-https://community.ui.com/
+https://inwall-hd.ui.com/
+http://ir.ui.com
+https://unifi-protect.ui.com/
 https://www.ui.com/
+https://community.ui.com/
+https://unifi-network.ui.com/
+https://design.ui.com/#/
 https://airmax.ui.com/
 https://unifi-nanohd.ui.com/
+https://www.ui.com/products/#unifivideo

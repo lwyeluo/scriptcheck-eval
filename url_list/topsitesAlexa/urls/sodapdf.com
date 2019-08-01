@@ -1,10 +1,2 @@
-https://www.sodapdf.com/pdf-to-word
-https://www.sodapdf.com/productssoda-overview#forms
-https://www.sodapdf.com/fr?lang=fr
-https://www.sodapdf.com/buy
-https://www.sodapdf.com/pdf-download-mac
-https://www.sodapdf.com/pdf-to-excel
-https://www.sodapdf.com/split-pdf
-https://www.sodapdf.com/jpg-to-png
 https://www.sodapdf.com/
-https://www.sodapdf.com/e-sign-documents
+https://online.sodapdf.com/

@@ -1,1 +1,1 @@
-https://www.faucethub.io/
+https://faucethub.io/

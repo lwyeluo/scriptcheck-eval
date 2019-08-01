@@ -1,1 +1,1 @@
-https://www.kprofiles.com/
+https://kprofiles.com/

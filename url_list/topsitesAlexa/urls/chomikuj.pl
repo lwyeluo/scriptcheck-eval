@@ -1,10 +1,1 @@
-https://www.chomikuj.pl/
-https://www.chomikuj.pl/actionHelp
-https://www.chomikuj.pl/PolitykaPrywatnosci.aspx
-https://www.chomikuj.pl/Media.aspx
-https://www.chomikuj.pl/chomikbox
-https://www.chomikuj.pl/Platforma.aspx
-https://www.chomikuj.pl/Regulamin.aspx
-https://www.chomikuj.pl/actionCopyright
-https://www.chomikuj.pl/LostPassword.aspx
-https://www.chomikuj.pl/Kontakt.aspx
+https://chomikuj.pl/

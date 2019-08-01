@@ -1,10 +1,10 @@
-https://www.nba.com/news/termsofuse
-https://www.nba.com/draft
-http://careers.nba.com/
-https://thisiswhyweplay.nba.com/
-http://global.nba.com/store-link-handler/?cat=nba_footwear
-https://nbaacademy.nba.com/
+https://globalstores.nba.com/
+https://www.nba.com/freeagents
+https://www.nba.com/key-dates
+https://2kleague.nba.com/
+https://www.nba.com/dunkhq
+https://www.nba.com/2019-western-conference-player-movement
+https://www.nba.com/teams
 https://www.nba.com/closed_captioning
 https://www.nba.com/history
-http://stats.nba.com/
 https://www.nba.com/

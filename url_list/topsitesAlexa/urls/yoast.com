@@ -1,1 +1,1 @@
-https://www.yoast.com/
+https://yoast.com/

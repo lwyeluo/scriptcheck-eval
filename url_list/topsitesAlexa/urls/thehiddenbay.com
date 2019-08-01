@@ -1,1 +1,1 @@
-https://www.thehiddenbay.com/
+https://thehiddenbay.com/

@@ -1,10 +1,10 @@
 https://forum.jquery.com/
-https://plugins.jquery.com/
-https://www.jquery.com/browser-support
-https://blog.jquery.com
-https://jquery.com/browser-support/
+https://api.jquery.com/
 https://learn.jquery.com/
-https://www.jquery.com/download
-https://learn.jquery.com/about-jquery/how-jquery-works/
+https://blog.jquery.com
 https://blog.jquery.com/
-https://www.jquery.com/
+https://jquery.com/download/
+https://jquery.com/browser-support/
+https://api.jquery.com
+https://learn.jquery.com
+https://jquery.com/

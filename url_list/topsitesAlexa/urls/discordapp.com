@@ -1,1 +1,10 @@
-https://www.discordapp.com/
+https://discordapp.com/verification
+https://discordapp.com/developers
+https://discordapp.com/privacy
+https://discordapp.com/
+https://support.discordapp.com/hc/en-us
+https://discordapp.com/branding
+https://discordapp.com/sell-your-game
+https://discordapp.com/terms
+https://discordapp.com/jobs
+https://merch.discordapp.com/

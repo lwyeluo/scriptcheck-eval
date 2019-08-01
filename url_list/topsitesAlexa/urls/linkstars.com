@@ -1,10 +1,2 @@
-https://t.linkstars.com/www.linkstars.comshowaboutcontact_us
-https://www.linkstars.com/userfind
-https://union.linkstars.com/index.php?m=notice&a=notice_detail&category_id=3&notice_id=1372
-https://www.linkstars.com/showweb
-https://t.linkstars.com/www.linkstars.comshowaboutabout_us
+https://www.linkstars.com
 https://www.linkstars.com/
-https://t.linkstars.com/www.linkstars.comshowaboutprivacy_policy
-https://t.linkstars.com/
-https://www.linkstars.com/showad
-https://open.linkstars.com/

@@ -1,10 +1,10 @@
-https://www.trabalhosfeitos.com/
-https://www.trabalhosfeitos.com/www.flickr.comphotosvinothchandar8053137993
+https://www.trabalhosfeitos.com/assine?src=footersitemap.html
+https://www.trabalhosfeitos.com/assine?src=footerlogin.php?src=footer
 https://www.trabalhosfeitos.com/legal.php
-https://www.trabalhosfeitos.com/navegar
+https://www.trabalhosfeitos.com/assine?src=footerprivacy.php
+https://www.trabalhosfeitos.com/assine?src=footerlegal.php
+https://www.trabalhosfeitos.com/
+https://www.trabalhosfeitos.com/assine?src=footer
+https://www.trabalhosfeitos.com/sitemap.html
 https://www.trabalhosfeitos.com/about.php
-https://www.trabalhosfeitos.com/www.flickr.comphotoswysz86758256
-https://www.trabalhosfeitos.com/dashboardcontribute?src=footer
-https://www.trabalhosfeitos.com/creativecommons.orglicensesby2.0
-https://www.trabalhosfeitos.com/ajuda
 https://www.trabalhosfeitos.com/advertise-with-us.php

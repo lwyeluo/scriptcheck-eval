@@ -1,10 +1,10 @@
 https://www.99.com/
-https://wjzd.99.com/
-https://reg.99.com/NDUser_Register_New.aspx
+https://bbs.99.com/
+https://zf.99.com/
 https://my.99.com
-https://zf.99.com
-https://cos.99.com
-https://zf.99.com/index/
+https://jz.99.com/
+https://hbq.99.com/index/
+http://us.99.com/
+https://yhkd.99.com/
+https://my.99.com/activity/2018/wdzt/
 https://t.99.com/
-https://my.99.com/
-https://shop.99.com/Pay/Index.html

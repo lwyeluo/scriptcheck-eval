@@ -1,10 +1,3 @@
-https://www.proxysite.com/feedback
-https://www.proxysite.com/contact
-https://www.proxysite.com/gofacebook.com
-https://www.proxysite.com/goyoutube.com
-https://www.proxysite.com/premium
-https://www.proxysite.com/gotwitter.com
-https://www.proxysite.com/goreddit.com
-https://www.proxysite.com/goimgur.com
-https://www.proxysite.com/my
+https://www.proxysite.com/privacy-policy.html
+https://www.proxysite.com/terms-of-service.html
 https://www.proxysite.com/

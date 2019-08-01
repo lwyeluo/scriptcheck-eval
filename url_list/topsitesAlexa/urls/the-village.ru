@@ -1,10 +1,7 @@
-http://www.the-village.ru/pages/faq
-https://www.the-village.ru/villagecityreact
-https://www.the-village.ru/villagebusinessnew-profession355531-ya-voditel-bespilotnika
-https://www.the-village.ru/villagechildrenchildren-guide355253-detskie-prilozheniya
-https://www.the-village.ru/villagebusinessmanagement
+http://realty.the-village.ru/
+https://www.the-village.ru/login
+https://www.the-village.ru
+https://www.the-village.ru/signup
+https://www.the-village.ru/feeds
 https://www.the-village.ru/
-https://www.the-village.ru/villagebusinessnew-profession
-https://www.the-village.ru/villageservice-shoppingbeauty
-http://www.the-village.ru/pages/license
-https://www.the-village.ru/villagebusinessfinance355819-strahovka-dlya-puteshestviy
+https://www.the-village.ru/news

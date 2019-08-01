@@ -1,10 +1,7 @@
-https://www.pixlr.com/editor
-https://www.pixlr.com/support
-https://www.pixlr.com/blog
-https://www.pixlr.com/
-https://www.pixlr.com/web
-https://www.pixlr.com/privacy-policy
-https://www.pixlr.com/mobile
-https://www.pixlr.com/terms-of-use
-https://www.pixlr.com/x
-https://www.pixlr.com/express
+https://pixlr.com/cookie-policy
+https://pixlr.com/privacy-policy
+https://pixlr.com/mobile
+https://pixlr.com/
+https://pixlr.com/web
+https://pixlr.com/license-and-services-agreement
+https://pixlr.com/terms-of-use

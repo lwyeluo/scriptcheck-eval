@@ -1,10 +1,10 @@
-https://www.rarejob.com/lesson_flow1
-https://www.rarejob.com/experiencescounseling
-https://www.rarejob.com/inquiry
-https://www.rarejob.com/corporate
-https://www.rarejob.com/experiencescurriculum
-https://www.rarejob.com/experiencescoursebusiness
+https://faq.rarejob.com/
 https://www.rarejob.com/
+https://www.rarejob.com/rule
+https://www.rarejob.com/career
+https://www.rarejob.com/inquiry
 https://www.rarejob.com/englishlab
+https://www.rarejob.com/experiences
 https://www.rarejob.com/sitemap
-https://www.rarejob.com/guidelessonticket
+https://www.rarejob.com/school
+https://www.rarejob.com/payment

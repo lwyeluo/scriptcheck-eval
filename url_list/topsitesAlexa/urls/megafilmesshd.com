@@ -1,1 +1,1 @@
-https://www.megafilmesshd.com/
+https://megafilmesshd.com/

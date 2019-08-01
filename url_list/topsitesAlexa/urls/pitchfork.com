@@ -1,1 +1,1 @@
-https://www.pitchfork.com/
+https://pitchfork.com/

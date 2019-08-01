@@ -1,10 +1,10 @@
+https://imagetwist.com/dmca.html
 https://www.imagetwist.com/?op=registration
 https://www.imagetwist.com/?op=forgot_pass
+https://imagetwist.com
 https://www.imagetwist.com/
 https://imagetwist.com/faq.html
-https://imagetwist.com/contact.html
-https://imagetwist.com/login.html
-https://imagetwist.com/dmca.html
-https://imagetwist.com/tos.html
-https://imagetwist.com/?op=registration
 https://imagetwist.com/?op=login
+https://imagetwist.com/tos.html
+https://imagetwist.com/login.html
+https://imagetwist.com/banners.html

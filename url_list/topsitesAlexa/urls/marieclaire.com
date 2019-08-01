@@ -1,10 +1,1 @@
-https://www.marieclaire.com/cocktail-drink-recipes
-http://sweepstakes.marieclaire.com/
-https://www.marieclaire.com/travel
-https://www.marieclaire.com/fashiong28422262nordstrom-anniversary-sale-2019
-https://www.marieclaire.com/celebritya28443926serena-williams-ombre-hair-sports-illustrated-party
-https://www.marieclaire.com/beautyg28433108nordstrom-anniversary-beauty-sale-2019
-https://www.marieclaire.com/food-cocktails
 https://www.marieclaire.com/
-https://www.marieclaire.com/abouta11747advertise-online
-http://service.marieclaire.com/

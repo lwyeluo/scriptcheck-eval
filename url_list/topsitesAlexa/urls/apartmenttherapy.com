@@ -1,10 +1,10 @@
-https://www.apartmenttherapy.com/
-https://www.apartmenttherapy.com/9-fun-ways-to-decorate-those-drab-cinder-block-dorm-walls-36625107
-https://www.apartmenttherapy.com/shop
-https://www.apartmenttherapy.com/karamo-brown-apartment-queer-eye-36627422
-https://www.apartmenttherapy.com/aboutsubmissions
-https://advertising.apartmenttherapy.com
+https://www.apartmenttherapy.com/projects
+https://www.apartmenttherapy.com/property-brothers-season-10-connecticut-house-for-sale-36632076
 https://www.apartmenttherapy.com/real-estate
+https://www.apartmenttherapy.com/the-ultimate-checklist-for-the-college-dorm-36627460
+https://www.apartmenttherapy.com/email?source=landing_homepage
+https://www.apartmenttherapy.com/house-tours
 https://www.apartmenttherapy.com/design
+https://www.apartmenttherapy.com/
 https://www.apartmenttherapy.com/life
-https://www.apartmenttherapy.com/warm-industrial-knoxville-rental-apartment-tour-36627135
+https://www.apartmenttherapy.com/team

@@ -1,1 +1,1 @@
-https://www.corporatefinanceinstitute.com/
+https://corporatefinanceinstitute.com/

@@ -1,10 +1,7 @@
-https://www.shatelland.com/gamexbox1684page
+https://shatelland.com/game/nintendo/709/page
 https://shatelland.com/game/gamevideo/670/page
-https://www.shatelland.com/downloadplugin_music700دانلود-wave-alchemy-drumvolution--پلاگین-و-وی-اس-تی99743
-https://shatelland.com/game/playstation4/681/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%AF%DB%8C%D8%AA%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%DB%8C-mortal-kombat-11-%D8%A8%D8%B1%D8%A7%DB%8C-ps4/99859
-https://www.shatelland.com/about-us
 https://www.shatelland.com/
-https://www.shatelland.com/downloadmilitary567دانلود-مستند-جنگ-جهانی-دوم-به-صورت-رنگی--world-war-ii-in-hd-colour99065
-https://www.shatelland.com/gamenintendo709page
-https://www.shatelland.com/downloadprogramming613دانلود-آموزش-ساخت-اپ-های-اندروید-و-آی-او-اس-با-فلاتر-و-دارت--packt-learn-flutter-and-dart-to-build-ios-and-android-apps99549
-https://www.shatelland.com/gameplaystation4681page
+https://www.shatelland.com/about-us
+https://www.shatelland.com/user?state=forgotPassword
+https://www.shatelland.com/guid
+https://www.shatelland.com/contact-us

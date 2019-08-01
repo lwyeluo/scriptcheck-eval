@@ -1,1 +1,1 @@
-https://www.aniwatcher.com/
+https://aniwatcher.com/

@@ -1,1 +1,1 @@
-https://www.noriskdomain.com/
+https://noriskdomain.com/

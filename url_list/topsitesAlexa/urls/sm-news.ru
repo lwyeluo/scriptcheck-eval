@@ -1,1 +1,10 @@
-https://www.sm-news.ru/
+https://kursk.sm-news.ru/
+https://saratov.sm-news.ru/
+https://sm-news.ru/persons/aleksey-zhuravlev/
+https://cherkessk.sm-news.ru/
+https://yakutsk.sm-news.ru
+https://sm-news.ru/
+https://samara.sm-news.ru
+https://petropavlovsk-kamchatsky.sm-news.ru
+https://sm-news.ru/persons/sergey-naryshkin/
+https://sm-news.ru/important/

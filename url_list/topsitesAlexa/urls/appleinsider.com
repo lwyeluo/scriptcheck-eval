@@ -1,1 +1,1 @@
-https://www.appleinsider.com/
+https://appleinsider.com/

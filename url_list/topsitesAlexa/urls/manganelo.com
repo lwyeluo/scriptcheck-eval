@@ -1,1 +1,1 @@
-https://www.manganelo.com/
+https://manganelo.com/

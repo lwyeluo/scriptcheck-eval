@@ -1,10 +1,10 @@
-https://www.edreams.es/ofertas/vuelos/aerolinea/IB/iberia/
-https://www.edreams.es/fin-de-semana/
-https://www.edreams.es/lowcost/
+https://www.edreams.es/politica-de-privacidad/
 https://www.edreams.es/vuelos/bilbao/BIO/
-https://www.edreams.es/vuelos/la-habana/HAV/
-https://www.edreams.es/vuelos/amsterdam/AMS/
+https://traslados.edreams.es/es-es/?currency=EUR&ref=edreams&campaign=edr-es-es-tab-pc
+https://www.edreams.es/mapa-web/
+https://www.edreams.es/como-funciona/app/
 https://www.edreams.es/vuelos/madrid-roma/MAD/ROM/
+https://www.edreams.es/ofertas/vuelos/aerolinea/
+http://dreamguides.edreams.es/
+https://www.edreams.es/vuelos/amsterdam/AMS/
 https://www.edreams.es/
-https://www.edreams.es/vuelos/baratos/
-https://www.edreams.es/vacaciones-baratas/

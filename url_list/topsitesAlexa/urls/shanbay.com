@@ -1,10 +1,1 @@
-https://www.shanbay.com/newsarticles
-https://www.shanbay.com/bdcclientguide
-https://web.shanbay.com/codetime/home?utm_source=web_codetime&utm_medium=cover_middle_column
-https://www.shanbay.com/coverfollowus
-https://www.shanbay.com/webaccountregister
 https://www.shanbay.com/
-http://blog.shanbay.com/
-https://www.shanbay.com/vocabtest
-https://www.shanbay.com/mintro?app=news
-https://www.shanbay.com/web/ask/answers

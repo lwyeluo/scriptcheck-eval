@@ -1,10 +1,10 @@
-http://go.mediaalpha.com/contact
-http://go.mediaalpha.com/email-subscription
-https://mediaalpha.com/privacy-policy/
-https://mediaalpha.com/advertisers/
-https://mediaalpha.com/news-and-press/
-https://mediaalpha.com/terms-of-use/
 https://mediaalpha.com/company/
 https://mediaalpha.com/
+https://mediaalpha.com/terms-of-use/
+https://mediaalpha.com/news-and-press/
+https://mediaalpha.com
+http://insights.mediaalpha.com/blog
+https://mediaalpha.com/company/careers/
+http://go.mediaalpha.com/email-subscription
+http://go.mediaalpha.com/contact
 https://mediaalpha.com/advertiser-terms/
-https://www.mediaalpha.com/

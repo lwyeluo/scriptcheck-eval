@@ -1,10 +1,7 @@
-https://www.jio.com/
-https://www.jio.com/en-inwhy-jio
-https://www.jio.com/en-inbrand-partners
-https://www.jio.com/JioAppindex.html?root=payBillNow
-https://www.jio.com/JioportalmanageAccounts
+https://careers.jio.com/?_ga=2.75455506.1412552817.1506325533-278711781.1506325533
 https://www.jio.com/JioWebApp/index.html?root=autoPay&source=JIO
-https://www.jio.com/JioAppindex.html?root=trackOrder
-https://www.jio.com/en-inpress-release
-https://itunes.apple.com/app/apple-store/id1140892768?pt=95623818&ct=JioSecurity_jio.com&mt=8&referrer=utm_source%3Djiocom%26utm_medium%3Dwebsite%26utm_term%3Dapp-page-itunes%26utm_content%3D20160601%26utm_campaign%3Dlaunch
-https://www.jio.com/JioportalaboutMe
+https://www.jio.com
+http://www.jio.com/zla/rechargenow
+https://www.jio.com/JioWebApp/index.html?root=login
+https://www.jio.com/
+https://www.jio.com/jio-tunes

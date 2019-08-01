@@ -1,1 +1,1 @@
-https://www.oeaa.cc/
+https://oeaa.cc/

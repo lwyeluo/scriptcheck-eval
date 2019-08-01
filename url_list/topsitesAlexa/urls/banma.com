@@ -1,10 +1,1 @@
 http://www.banma.com/
-http://www.banma.com/sitearticle?aid=56665
-http://www.banma.com/siteaboutUs4
-http://www.banma.com/sitearticle?aid=38148
-http://www.banma.com/sitearticle?aid=56671
-http://www.banma.com/sitearticle?aid=56560
-http://www.banma.com/sitearticle?aid=56661
-http://www.banma.com/sitearticle?aid=22789
-http://www.banma.com/sitelist?id=70
-http://www.banma.com/sitearticle?aid=56623

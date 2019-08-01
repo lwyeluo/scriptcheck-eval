@@ -1,1 +1,1 @@
-https://www.subscene.com/
+https://subscene.com/

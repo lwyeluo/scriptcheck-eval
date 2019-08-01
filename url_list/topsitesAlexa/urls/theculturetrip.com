@@ -1,10 +1,1 @@
-https://www.theculturetrip.com/north-americausaarticlesthe-heights-an-homage-to-muscle-cars-and-americas-open-roads
-https://www.theculturetrip.com/north-america
-https://theculturetrip.com/pride?utm_source=culturetrip&utm_medium=referral&utm_campaign=homepage-tile
-https://www.theculturetrip.com/north-americausaarticlesconnections-with-strangers-a-photo-series-offers-a-window-onto-the-world
-https://www.theculturetrip.com/asiahong-kong
-https://www.theculturetrip.com/the-team
-https://www.theculturetrip.com/cookie-policy
-https://www.theculturetrip.com/europegermanyberlin
-https://www.theculturetrip.com/europefrancearticles10-classic-french-desserts-to-lose-your-mind-over
-https://www.theculturetrip.com/
+https://theculturetrip.com/

@@ -1,10 +1,10 @@
-https://www.flyfrontier.com/travel/travel-info/seating-options/
-https://www.flyfrontier.com/manage-travel/confirmation-code
+https://www.flyfrontier.com/travel/travel-info/airport-info/tsa-precheck/
 https://www.flyfrontier.com/accessibility/
-https://www.flyfrontier.com/travel/travel-info/bag-options/
-https://www.flyfrontier.com/ways-to-save/online-deals/
-https://www.flyfrontier.com/deals/flight-sales/
+https://emails.flyfrontier.com/pub/rf?_ri_=X0Gzc2X=YQpglLjHJlTQGhvsl3IyRTFJeNNR2LzgXpjzfkIg0tFcA6VwjpnpgHlpgneHmgJoXX0Gzc2X=YQpglLjHJlTQGnjsbk2bB7NzggtcGGnzbk9jEueh464bMv
+https://www.flyfrontier.com/optional-services/
+https://www.flyfrontier.com/groups/
 https://www.flyfrontier.com/myfrontier/
-https://www.flyfrontier.com/contact-us/
-https://faq.flyfrontier.com/help
+https://www.flyfrontier.com/travel/travel-info/bag-options/
+https://www.flyfrontier.com/travel/travel-info/seating-options/
 https://www.flyfrontier.com/
+https://www.flyfrontier.com/about-us/

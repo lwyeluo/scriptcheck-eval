@@ -1,1 +1,1 @@
-https://www.arcai.com/
+https://arcai.com/

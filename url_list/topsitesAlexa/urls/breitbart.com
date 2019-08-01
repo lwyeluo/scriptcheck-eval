@@ -1,10 +1,6 @@
-https://www.breitbart.com/border20190719human-smugglers-breach-california-border-barrier-with-cutting-tools#disqus_thread
-https://www.breitbart.com/europe20190720trump-backs-britain-iran-is-in-big-trouble#disqus_thread
-https://www.breitbart.com/politics20190719aoc-squad-we-picking-up-where-civil-rights-movement-left-off#disqus_thread
-https://www.breitbart.com/politics20190719sen-chuck-grassley-denounces-eb-5-giveaway-china-hidden-india-outsourcing-bill#disqus_thread
+https://store.breitbart.com/
+https://store.breitbart.com/cart
 https://www.breitbart.com/
-https://www.breitbart.com/authoramy-furr
-https://www.breitbart.com/asia20190719taiwan-considers-dozens-of-requests-for-asylum-from-hong-kong-protesters
-https://www.breitbart.com/national-security20190719u-n-sanctions-cut-north-koreas-trade-volume-half#disqus_thread
-https://www.breitbart.com/tech20190719twitter-suspends-angel-mom-for-posting-about-illegal-immigration
-https://www.breitbart.com/tech20190720google-blacklists-free-speech-platform-gabs-latest-app#disqus_thread
+https://store.breitbart.com
+https://mediakit.breitbart.com
+https://store.breitbart.com/collections

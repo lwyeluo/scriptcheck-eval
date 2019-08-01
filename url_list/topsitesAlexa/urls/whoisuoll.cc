@@ -1,1 +1,1 @@
-http://www.whoisuoll.cc/
+http://whoisuoll.cc/

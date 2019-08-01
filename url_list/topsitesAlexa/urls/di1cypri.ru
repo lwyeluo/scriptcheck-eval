@@ -1,1 +1,1 @@
-https://www.di1cypri.ru/
+https://di1cypri.ru/

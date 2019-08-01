@@ -1,10 +1,1 @@
-http://www.ed2000.com/register.asp
-http://www.ed2000.com/ShowFile922753.html
-http://www.ed2000.com/ShowFile914474.html
-http://www.ed2000.com/ShowFile922985.html
-http://www.ed2000.com/ShowFile914477.html
-http://www.ed2000.com/ShowFile922735.html
-http://www.ed2000.com/Type图书人文社科
 http://www.ed2000.com/
-http://www.ed2000.com/ShowFile914260.html
-http://www.ed2000.com/ShowFile923507.html

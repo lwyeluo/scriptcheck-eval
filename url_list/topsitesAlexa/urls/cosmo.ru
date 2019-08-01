@@ -1,10 +1,10 @@
-https://www.cosmo.ru/fashionhow_to
-https://www.cosmo.ru/cosmoshop
-https://www.cosmo.ru/beautycosmo-testwowbox-cruise12-byuti-sredstv-vsego-za-1490-rubley
-https://www.cosmo.ru/fashion/star_style/vsegda-v-trende-5-stilnyh-obrazov-s-letney-obuvyu-na-vse-sluchai-zhizni/
-https://www.cosmo.ru/horoscope
-https://www.cosmo.ru/healthweight_calc
+https://sp.cosmo.ru/subaru2019/#!/
+https://www.cosmo.ru/sex-love
+https://www.cosmo.ru/beauty/star_beauty/privet-obem-20-modnyh-prichesok-dlya-tonkih-volos-uchimsya-u-zvezd/
+https://www.cosmo.ru/beauty/cosmo-test/wowbox-cruise12-byuti-sredstv-vsego-za-1490-rubley/
 https://www.cosmo.ru/lifestyle/stil-zhizni/kogda-dengi-ne-problema-dve-istorii-pro-finansovuyu-svobodu/
-https://www.cosmo.ru/cosmoshopoffer
+https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fwww.cosmo.ru%2Frss%2Futf8%2Frss_zen.xml
+https://www.cosmo.ru/lifestyle/travel/5-neochevidnyh-mest-dlya-otpuska/
 https://www.cosmo.ru/
+https://www.cosmo.ru/cosmopolitan-beauty
 http://firsttime.2019.cosmo.ru/?utm_source=cosmo.ru&utm_medium=referral&utm_campaign=Dontmiss

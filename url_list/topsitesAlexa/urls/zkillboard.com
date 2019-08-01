@@ -1,1 +1,1 @@
-https://www.zkillboard.com/
+https://zkillboard.com/

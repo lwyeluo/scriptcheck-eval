@@ -1,1 +1,1 @@
-https://www.passplay.com/
+https://passplay.com/

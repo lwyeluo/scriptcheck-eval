@@ -1,1 +1,1 @@
-https://www.clarovideo.com/
+http://www.clarovideo.com/

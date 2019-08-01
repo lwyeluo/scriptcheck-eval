@@ -1,10 +1,10 @@
-https://keepvid.com/privacy.html
-https://www.keepvid.com/
-https://keepvid.com/video-converter.html
-https://keepvid.com/about.html
-https://keepvid.com/terms.html
-https://keepvid.com/video-editor.html?type=VE
-https://keepvid.com/audio-converter.html
+https://keepvid.com/refund-policy.html
 http://support.keepvid.com/
+https://keepvid.com/terms.html
+https://keepvid.com/video-converter.html
+https://keepvid.com/privacy.html
 https://keepvid.com/video-compressor.html
+https://keepvid.com/
+https://keepvid.com/audio-converter.html
 https://keepvid.com/sites/download-youtube-video.html
+https://keepvid.com/about.html

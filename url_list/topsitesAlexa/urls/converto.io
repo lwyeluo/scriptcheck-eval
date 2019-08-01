@@ -1,10 +1,10 @@
-https://www.facebook.com/sharer/sharer.php?u=https%3A//converto.io
-https://www.converto.io/enterms
-https://www.converto.io/fr
 https://www.converto.io/nl
+https://www.converto.io/ro
+https://www.converto.io/es
+https://www.converto.io/lv
+https://www.converto.io/it
+https://www.converto.io/hu
 https://www.converto.io/
 https://www.converto.io/pl
-https://twitter.com/home?status=The%20easiest%20way%20to%20convert%20any%20YouTube%20video%20to%20MP3%20and%20MP4:%20https%3A//converto.io
-https://www.converto.io/pt
-https://www.converto.io/en
-https://www.converto.io/bg
+https://www.converto.io/enbookmarklet
+https://www.converto.io/fr

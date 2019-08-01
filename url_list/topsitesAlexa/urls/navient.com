@@ -1,10 +1,10 @@
-https://navient.com/
-https://news.navient.com
+https://qa-about.navient.com/Community-and-Commitment
+https://www.navient.com/for-school-aid-offices
+https://about.navient.com
+https://qa-about.navient.com/products-and-services
+https://www.navient.com/social-media-policies
+https://www.navient.com/in-repaymentprivate-student-loans
 https://www.navient.com/new-to-navient
-https://www.navient.com/money-and-financessuccess-stories
-https://news.navient.com/
+https://www.navient.com/money-and-finances
 https://www.navient.com/contact-us
-https://www.navient.com/in-repaymenttaxes-and-interest
 https://www.navient.com/
-https://www.navient.com/sitemap
-https://www.navient.com/military-benefits

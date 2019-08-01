@@ -1,1 +1,1 @@
-https://www.statcounter.com/
+https://statcounter.com/

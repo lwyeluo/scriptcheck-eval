@@ -1,10 +1,8 @@
-http://www.picofile.com/registerprivacy
-http://www.picofile.com/registerterms
-http://www.picofile.com/registerabuse
-http://www.picofile.com/register
-http://www.picofile.com/help
-http://www.picofile.com/
-http://www.picofile.com/privacy
 http://www.picofile.com/abuse
-http://www.picofile.com/contact
+http://www.picofile.com/help
+http://www.picofile.com/privacy
+http://www.picofile.com/register
+http://www.picofile.com/
+http://www.picofile.com
 http://www.picofile.com/terms
+http://www.picofile.com/contact

@@ -1,10 +1,4 @@
-https://9gag.com/notifications
-https://9gag.com/logout
+https://9gag.com/
 https://9gag.com
-https://9gag.com/login
 https://9gag.com/signup
-https://9gag.com/apps?ref=videoUpload
-https://www.9gag.com/memberresend-confirmation
-https://9gag.com/notificationsmemberresend-confirmation
-https://www.9gag.com/
-https://9gag.com/settings
+https://9gag.com/login

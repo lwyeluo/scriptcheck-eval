@@ -1,10 +1,1 @@
-https://www.tomshardware.com/reviews/best-motherboards,3984-2.html
-https://www.tomshardware.com/reviewsbest-psus,4229.html
-https://www.tomshardware.com/reviews/glossary-grayscale-tracking-definition,5885.html
-https://www.tomshardware.com/reviews/about-us,4260.html
 https://www.tomshardware.com/
-http://www.tomshardware.com/rss.html
-https://www.tomshardware.com/articles/review/
-https://www.tomshardware.com/reviewsbest-gaming-laptops,4828.html
-https://forums.tomshardware.com
-https://www.tomshardware.com/reviews/cooler-master-gs750-headset-stand-usb-rgb,6229.html

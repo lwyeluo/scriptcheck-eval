@@ -1,1 +1,1 @@
-https://www.adspy.com/
+https://adspy.com/

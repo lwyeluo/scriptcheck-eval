@@ -1,1 +1,1 @@
-https://www.vimeo.com/
+https://vimeo.com/

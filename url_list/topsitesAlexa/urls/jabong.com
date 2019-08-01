@@ -1,10 +1,1 @@
-https://www.jabong.com/flying-machine
-https://www.jabong.com/mobileapp/?source=topheader_app
-https://www.jabong.com/formalwear?f=Gender%3Awomen%2Cmen%20women
-https://www.jabong.com/global-desi
-https://www.jabong.com/casualwear?f=Categories%3AJeans
-https://www.jabong.com/sports-store
-https://www.jabong.com/view-all-products?f=Categories%3ASuits%2CBlazers
-https://www.jabong.com/all-sports-acc-products
-https://www.jabong.com/spykar
 https://www.jabong.com/

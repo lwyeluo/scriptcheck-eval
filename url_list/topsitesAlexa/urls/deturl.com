@@ -1,10 +1,1 @@
-https://www.deturl.com/search-bar-tool-to-download-youtube-videos.html
-https://www.deturl.com/
-https://www.deturl.com/search-bar-tool-to-download-youtube-videos.htmltos.html
-https://www.deturl.com/search-bar-tool-to-download-youtube-videos.htmlprivacy.html
-https://www.deturl.com/search-bar-tool-to-download-youtube-videos.htmlbookmarklet-to-directly-download-videos-from-youtube.html
-https://www.deturl.com/bookmarklet-to-directly-download-videos-from-youtube.html
-https://www.deturl.com/tos.html
-https://www.deturl.com/www.youtube.comwatch?v=EVBsypHzF3U
-https://www.deturl.com/bookmarklet-to-directly-download-videos-from-youtube.htmltos.html
-https://www.deturl.com/privacy.html
+https://deturl.com/

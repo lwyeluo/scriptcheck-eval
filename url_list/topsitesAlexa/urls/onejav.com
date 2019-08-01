@@ -1,10 +1,4 @@
-https://www.onejav.com/20190716
-https://www.onejav.com/torrentfneo026
-https://www.onejav.com/torrentumd694
-https://www.onejav.com/
-https://www.onejav.com/tag
-https://www.onejav.com/torrentsga132
-https://www.onejav.com/faq
-https://www.onejav.com/actressAkari%20Mitani
-https://www.onejav.com/torrentktkc063_2
-https://www.onejav.com/random
+https://onejav.com/faq
+https://onejav.com/new
+https://onejav.com/
+https://onejav.com/contact

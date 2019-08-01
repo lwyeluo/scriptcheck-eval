@@ -1,10 +1,1 @@
-http://www.rarbt.cc/index.phpsearchindex.html?nianfen=2013
-http://www.rarbt.cc/help1百度网盘电影观看教程.html
-http://www.rarbt.cc/subject26894.html
-http://www.rarbt.cc/index.phpsearchindex.html?zhuyan=周星驰
-http://www.rarbt.cc/index.phpsearchindex.html?area=澳大利亚
-http://www.rarbt.cc/index.phpsearchindex.html?zhuyan=张国荣
-http://www.rarbt.cc/subject26886.html
-http://www.rarbt.cc/subject26884.html
 http://www.rarbt.cc/
-http://www.rarbt.cc/index.phpsearchindex.html?nianfen=2015

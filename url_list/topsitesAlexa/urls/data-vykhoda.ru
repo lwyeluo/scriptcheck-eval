@@ -1,1 +1,1 @@
-https://www.data-vykhoda.ru/
+https://data-vykhoda.ru/

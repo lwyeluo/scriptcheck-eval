@@ -1,1 +1,1 @@
-https://www.uptostream.com/
+https://uptostream.com/

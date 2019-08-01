@@ -1,10 +1,1 @@
-https://www.dragonball-multiverse.com/eu_EHaccueil.html
-https://www.dragonball-multiverse.com/hu_HUaccueil.html
-https://www.dragonball-multiverse.com/nlaccueil.html
-https://www.dragonball-multiverse.com/ro_ROaccueil.html
-https://www.dragonball-multiverse.com/jpaccueil.html
-https://www.dragonball-multiverse.com/la_LAaccueil.html
 https://www.dragonball-multiverse.com/
-https://www.dragonball-multiverse.com/fraccueil.html
-https://www.dragonball-multiverse.com/es_COaccueil.html
-https://www.dragonball-multiverse.com/deaccueil.html

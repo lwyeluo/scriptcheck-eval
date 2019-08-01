@@ -1,10 +1,10 @@
-http://www.tagged.com/terms_of_service.html
 https://www.tagged.com/
-http://www.tagged.com/terms_of_service.htmldisputeresolution.html
-http://www.tagged.com/terms_of_service.html?reg=1
-http://www.tagged.com/safety_practices.html
-http://www.tagged.com/home.html
+http://www.tagged.com/terms_of_service.html?reg=1disputeresolution.html
+http://www.tagged.com/terms_of_service.html?reg=1register.html
+http://www.tagged.com/terms_of_service.html?reg=1contact.html
+https://www.tagged.com/terms_of_service.html
 http://www.tagged.com/tagged_mobile.html
-http://www.tagged.com/terms_of_service.html#privacy_policy
+http://www.tagged.com/terms_of_service.html?reg=1
+http://www.tagged.com/terms_of_service.html
 http://www.tagged.com/terms_of_service.html?#privacy_policy
-http://www.tagged.com/support.html
+http://www.tagged.com/terms_of_service.html#privacy_policy

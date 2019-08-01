@@ -1,10 +1,10 @@
 https://vic1.paradoxwikis.com/Main_Page
-https://skylines.paradoxwikis.com/Cities:_Skylines_Wiki
-https://eu2.paradoxwikis.com/Main_Page
-https://ck2.paradoxwikis.com/Crusader_Kings_II_Wiki
-https://eu3.paradoxwikis.com/Europa_Universalis_3_Wiki
 https://hoi2.paradoxwikis.com/Main_Page
-https://tyranny.paradoxwikis.com/Tyranny_Wiki
+https://steeldivision.paradoxwikis.com/Steel_Division_Wiki
+https://ck2.paradoxwikis.com/Crusader_Kings_II_Wiki
 https://imperator.paradoxwikis.com/Imperator_Wiki
-https://www.paradoxwikis.com/
-https://stellaris.paradoxwikis.com/Stellaris_Wiki
+https://hoi4.paradoxwikis.com/Hearts_of_Iron_4_Wiki
+https://vic2.paradoxwikis.com/Victoria_2_Wiki
+https://eu3.paradoxwikis.com/Europa_Universalis_3_Wiki
+https://skylines.paradoxwikis.com/Cities:_Skylines_Wiki
+https://paradoxwikis.com/

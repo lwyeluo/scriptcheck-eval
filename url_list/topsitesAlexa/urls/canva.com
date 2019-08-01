@@ -1,10 +1,3 @@
-https://www.canva.com/zh_cncreateresumes
-https://www.canva.com/features
-https://www.canva.com/
-https://www.canva.com/signup
-https://www.canva.com/zh_cncreateinfographics
 https://www.canva.com/login
-https://www.canva.com/createbusiness-cards
-https://www.canva.com/create
-https://www.canva.com/createlogos
-https://about.canva.com/zh_cn/pro
+https://www.canva.com/signup
+https://www.canva.com/

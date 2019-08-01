@@ -1,10 +1,9 @@
-https://www.pensador.com/versos_de_amizade
-https://www.pensador.com/mensagem_e_carinho
+https://www.pensador.com/info.php?info=termos
+https://www.pensador.com/info.php?info=sobre
 https://www.pensador.com/
-https://www.pensador.com/fraseMzk
-https://www.pensador.com/autorluis_de_camoes
-https://www.pensador.com/mensagens
-https://www.pensador.com/autorfernando_pessoa
-https://www.pensador.com/rss.php
+https://www.pensador.com/pesquisas.php
+https://www.pensador.com/reportar.php
+https://www.pensador.com/blog.php
+https://www.pensador.com/info.php?info=privacidade
 https://www.pensador.com/contato.php
-https://www.pensador.com/melhores-inspiracoes
+https://www.pensador.com/datas.php

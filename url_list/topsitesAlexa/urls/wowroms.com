@@ -1,1 +1,1 @@
-https://www.wowroms.com/
+https://wowroms.com/

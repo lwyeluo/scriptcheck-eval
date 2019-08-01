@@ -1,1 +1,1 @@
-https://www.hotline.ua/
+https://hotline.ua/

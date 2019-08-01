@@ -1,1 +1,1 @@
-https://www.oursogo.com/
+https://oursogo.com/

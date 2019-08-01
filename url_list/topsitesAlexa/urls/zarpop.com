@@ -1,1 +1,1 @@
-https://www.zarpop.com/
+https://zarpop.com/

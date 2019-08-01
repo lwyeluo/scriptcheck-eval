@@ -1,1 +1,1 @@
-https://www.pr0gramm.com/
+https://pr0gramm.com/

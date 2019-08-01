@@ -1,1 +1,1 @@
-http://www.prnt.sc/
+https://prnt.sc/

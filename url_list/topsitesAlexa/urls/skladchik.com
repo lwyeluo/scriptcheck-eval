@@ -1,1 +1,1 @@
-https://www.skladchik.com/
+https://skladchik.com/

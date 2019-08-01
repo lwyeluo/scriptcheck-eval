@@ -1,10 +1,4 @@
-http://www.51wangdai.com/
-http://www.51wangdai.com/aboutcontact.html
-http://www.51wangdai.com/know/cx96066.html
-http://www.51wangdai.com/know/cx96079.html
-http://www.51wangdai.com/know/aboutrecruit.html
-http://www.51wangdai.com/know/
 http://www.51wangdai.com/bad/
-http://www.51wangdai.com/aboutrecruit.html
-http://www.51wangdai.com/aboutabout.html
-http://www.51wangdai.com/aboutads.html
+http://www.51wangdai.com
+http://www.51wangdai.com/
+http://www.51wangdai.com/know/

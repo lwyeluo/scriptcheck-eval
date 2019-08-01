@@ -1,10 +1,10 @@
-https://www.otomoto.pl/osobowepomorskie
-https://www.otomoto.pl/osobowepodkarpackie
-https://www.otomoto.pl/oferta/porsche-cayenne-s-4-8-fv-23-ID6BXVSZ.html
-https://www.otomoto.pl/osobowebmwseria-1
-https://www.otomoto.pl/oferta/mercedes-benz-klasa-s-niepowtarzalny-i-piekny-s500-w-wersji-long-prosto-z-japoni-ID6C6kKK.html
-https://www.otomoto.pl/osoboweolsztyn
+https://www.otomoto.pl/konto/?origin=observepopup
+https://www.otomoto.pl/konto/?ref%5B0%5D%5Baction%5D=adding&ref%5B0%5D%5Bmethod%5D=index&ref%5B0%5D%5Bcategory%5D=29
+https://www.otomoto.pl/czesci/nowe-ogloszenie/
 https://www.otomoto.pl/konto/rejestracja/
+https://www.otomoto.pl/?category=maszyny-budowlane
 https://www.otomoto.pl
-https://www.otomoto.pl/osoboweopelastrah-2004-2013
+https://www.otomoto.pl/oferta/ford-focus-titanium-bezwypadek-100-aso-duzy-ekran-navi-alufelgi-sync2-ID6C8pms.html
+https://www.otomoto.pl/?category=osobowe
+https://www.otomoto.pl/oferta/skoda-rapid-skoda-w-idealnym-stanie-ID6C76by.html
 https://www.otomoto.pl/

@@ -1,10 +1,10 @@
-https://www.crunchbase.com/organizationrt-capital-management
-https://news.crunchbase.com/news/sec-filing-confirms-shakeup-at-trinity-ventures-now-targeting-its-smallest-fund-in-decades/
-https://www.crunchbase.com/buycrunchbase-pro
+https://news.crunchbase.com/news/compass-raises-370m-as-increasingly-crowded-real-estate-space-heats-up/
+https://about.crunchbase.com/find-investors/
 https://about.crunchbase.com/terms-of-service/privacy-policy/
+https://about.crunchbase.com/find-prospects/
+https://about.crunchbase.com/
 https://about.crunchbase.com/terms-of-service/
-https://www.crunchbase.com/funding_roundbmg-music-publishing-series-a--5c7ba32d
-https://www.crunchbase.com/organizationsecfi
-https://www.crunchbase.com/searcheventsfieldeventslocation_identifiersnewark-new-jersey
-https://www.crunchbase.com/searcheventsfieldeventslocation_identifierslas-vegas-nevada
+https://support.crunchbase.com/hc/en-us/categories/360000109947-User-Data-Privacy
 https://www.crunchbase.com/
+https://news.crunchbase.com/news/ubers-layoffs-could-be-a-warning-for-ipo-hungry-unicorns/
+https://about.crunchbase.com/market-research/

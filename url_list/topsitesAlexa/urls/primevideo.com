@@ -1,10 +1,2 @@
-https://www.primevideo.com/helpref=dvm_MLP_FE_help
-https://www.primevideo.com/storefronthomeref=atv_nb_logo
-https://www.primevideo.com/gp/video/signup/ref=dvm_MLP_sg_Popu_2_ft/355-8089072-0347240?ie=UTF8&fromUnrecMLP=1
-https://www.primevideo.com/auth-redirect/ref=av_auth_ubid/355-8089072-0347240?_encoding=UTF8&returnUrl=%2Fref%3Dav_nav_sign_in%2F355-8089072-0347240
-https://www.primevideo.com/gp/video/signup/ref=dvm_MLP_SG_Join_1_ft/355-8089072-0347240?ie=UTF8&fromUnrecMLP=1
+https://www.primevideo.com/uedataunsticky357-3948781-6786350NoPageTypentpoffrw?tepes=1&id=FKNTGXP41JFB5FZHWV7E
 https://www.primevideo.com/
-https://www.primevideo.com/gp/video/signup/ref=dvm_MLP_sg_prim_ft/355-8089072-0347240?ie=UTF8&fromUnrecMLP=1
-https://www.primevideo.com/helpref=dvm_MLP_FE_privacy?nodeId=202064890
-https://www.primevideo.com/uedataunsticky355-8089072-0347240NoPageTypentpoffrw?tepes=1&id=AR75ADAP6KG666P1ANC1
-https://www.primevideo.com/contactusref=dvm_MLP_FE_contact

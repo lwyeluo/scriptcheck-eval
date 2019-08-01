@@ -1,10 +1,10 @@
-https://www.onlineconverter.com/video
-https://www.onlineconverter.com/ebook
 https://www.onlineconverter.com/result
-https://www.onlineconverter.com/about
+https://www.onlineconverter.com/audio
+https://www.onlineconverter.com/terms
+https://www.onlineconverter.com/privacy
 https://www.onlineconverter.com/support
 https://www.onlineconverter.com
-https://www.onlineconverter.com/terms
+https://www.onlineconverter.com/document
+https://www.onlineconverter.com/video
 https://www.onlineconverter.com/image
-https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.onlineconverter.com
 https://www.onlineconverter.com/

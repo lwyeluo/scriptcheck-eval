@@ -1,10 +1,10 @@
+https://www.oxfordlearnersdictionaries.com/browse/
 https://www.oxfordlearnersdictionaries.com/definition/english/
-https://www.oxfordlearnersdictionaries.com/wordlists/
-https://www.oxfordlearnersdictionaries.com/about/
-https://www.oxfordlearnersdictionaries.com/definition/english/blab
 https://www.oxfordlearnersdictionaries.com/
-https://www.oxfordlearnersdictionaries.com/translate/schulwoerterbuch/
-https://www.oxfordlearnersdictionaries.com/legal-notice
-https://www.oxfordlearnersdictionaries.com/grammar/
-https://www.oxfordlearnersdictionaries.com/faq/
+https://www.oxfordlearnersdictionaries.com/definition/english/muggy
+https://www.oxfordlearnersdictionaries.com/contact-us
 https://www.oxfordlearnersdictionaries.com/account/checkCookie?preUrl=/account/login
+https://www.oxfordlearnersdictionaries.com/system-requirements
+https://www.oxfordlearnersdictionaries.com/grammar/
+https://www.oxfordlearnersdictionaries.com/faq/#Word_lists
+https://www.oxfordlearnersdictionaries.com/terms-and-conditions

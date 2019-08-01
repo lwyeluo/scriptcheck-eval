@@ -1,10 +1,10 @@
-https://www.zippyshare.com/?locale=nl
+http://www.zippyshare.com/sites/terms_and_conditions_of_use.html
+https://www.zippyshare.com/sitesdmca.html
 http://support.zippyshare.com/index.php?act=tickets&code=open
-https://www.zippyshare.com/www.zippyshare.comsitesuploader.jsp
-https://www.zippyshare.com/sitesforgot.jsp
-https://www.zippyshare.com/?locale=en
+https://www.zippyshare.com/sites/terms_and_conditions_of_use.html
+http://blog.zippyshare.com/
+https://www.zippyshare.com/sitesterms_and_conditions_of_use.html
 https://www.zippyshare.com/?locale=hu
+https://www.zippyshare.com/?locale=nl
+https://www.zippyshare.com/sites/uploader.jsp
 https://www.zippyshare.com/
-https://www.zippyshare.com/?locale=es
-https://www.zippyshare.com/?locale=sv
-https://www.zippyshare.com/?locale=pt

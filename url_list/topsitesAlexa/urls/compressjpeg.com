@@ -1,1 +1,1 @@
-https://www.compressjpeg.com/
+https://compressjpeg.com/

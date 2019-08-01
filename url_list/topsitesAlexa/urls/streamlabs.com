@@ -1,1 +1,1 @@
-https://www.streamlabs.com/
+https://streamlabs.com/

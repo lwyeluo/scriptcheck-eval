@@ -1,1 +1,1 @@
-https://www.dramavery.com/
+https://dramavery.com/

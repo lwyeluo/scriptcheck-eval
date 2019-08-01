@@ -1,10 +1,10 @@
-https://www.eastbay.com/categorynew-releases?sort=newArrivals
-https://www.eastbay.com/lookbooks
-https://www.eastbay.com/categoryshoesadidasboost.html
-https://www.eastbay.com/sports.html
-https://www.eastbay.com/ordersearch
+http://blog.eastbay.com/sports/running/5-warmup-dos-and-donts-from-katie-mackey/
 https://www.eastbay.com/text-sign-up
+http://blog.eastbay.com/sports/basketball/best-basketball-shoes-for-aau-season/
+https://www.eastbay.com/football-by-color
+http://blog.eastbay.com/
 https://www.eastbay.com/
 https://www.eastbay.com/app.html
-https://www.eastbay.com/our-proud-partners
-https://www.eastbay.com/helpmilitarydiscount.html
+https://www.eastbay.com/testrun.html
+https://www.eastbay.com/coupons.html
+https://www.eastbay.com/nike-zoom-running

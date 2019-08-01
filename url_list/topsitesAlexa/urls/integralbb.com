@@ -1,10 +1,1 @@
-https://www.integralbb.com/aboutindex.html
 https://www.integralbb.com/
-https://www.integralbb.com/questionquestion.html
-https://www.integralbb.com/tradecoin.html?coinType=5&tradeType=0
-https://www.integralbb.com/servicearticle.html?id=70
-https://www.integralbb.com/tradecoin.html
-https://www.integralbb.com/tradecoin.html?coinType=9&tradeType=0
-https://www.integralbb.com/serviceourService.html?id=2
-https://www.integralbb.com/servicearticle.html?id=48
-https://www.integralbb.com/servicearticle.html?id=67

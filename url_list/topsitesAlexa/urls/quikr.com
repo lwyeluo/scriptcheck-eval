@@ -1,0 +1,10 @@
+http://news.quikr.com/
+https://www.quikr.com/
+https://www.quikr.com/bangalore
+https://www.quikr.com/jobs/delivery-collections+zwqxj1466534506
+https://www.quikr.com/bfsi/personal-loan
+https://www.quikr.com/trivandrum
+https://www.quikr.com/homes/homeloan
+https://www.quikr.com/kochi
+https://www.quikr.com/video?id=vhS7M5IdOpI
+https://www.quikr.com/services/services-India-all

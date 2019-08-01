@@ -1,1 +1,1 @@
-https://www.lihkg.com/
+https://lihkg.com/

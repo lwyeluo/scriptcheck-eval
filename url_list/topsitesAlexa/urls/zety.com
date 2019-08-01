@@ -1,10 +1,1 @@
-https://www.zety.com/blogcareer-advice
-https://www.zety.com/resume-builder
-https://www.zety.com/bloghow-to-write-a-cv
-https://www.zety.com/privacy-policy
-https://www.zety.com/blogjob-search
-https://www.zety.com/blogcover-letter-format
-https://www.zety.com/work-life
-https://www.zety.com/
-https://www.zety.com/bloghow-to-write-a-cover-letter
-https://www.zety.com/blogcv
+https://zety.com/

@@ -1,10 +1,7 @@
-https://www.fileinfo.com/quiz
-https://www.fileinfo.com/extensionjpg
-https://www.fileinfo.com/
-https://www.fileinfo.com/extensionaae
-https://www.fileinfo.com/extensiondb
-https://www.fileinfo.com/tutorials
-https://www.fileinfo.com/helpcitations
-https://www.fileinfo.com/browse
-https://www.fileinfo.com/softwareandroid_file_viewer
-https://www.fileinfo.com/software
+https://fileinfo.com/about
+https://fileinfo.com/search
+https://fileinfo.com/terms
+https://fileinfo.com/developers
+https://fileinfo.com/contact
+https://fileinfo.com/privacy
+https://fileinfo.com/

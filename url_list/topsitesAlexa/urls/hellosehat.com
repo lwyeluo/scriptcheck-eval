@@ -1,1 +1,1 @@
-https://www.hellosehat.com/
+https://hellosehat.com/

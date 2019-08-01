@@ -1,10 +1,1 @@
-https://mostaql.com/p/about
-https://www.mostaql.com/
-https://mostaql.com/project/create
-https://mostaql.com/projects/development
-https://mostaql.com/projects/training
-https://mostaql.com/p/privacy
-https://mostaql.com/p/guarantee
-https://mostaql.com/contact
-https://mostaql.com/portfolios
-http://blog.mostaql.com/
+https://mostaql.com/

@@ -1,1 +1,1 @@
-https://www.borderlands.com/
+https://borderlands.com/

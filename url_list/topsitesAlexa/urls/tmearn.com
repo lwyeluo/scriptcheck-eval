@@ -1,1 +1,1 @@
-https://www.tmearn.com/
+https://tmearn.com/

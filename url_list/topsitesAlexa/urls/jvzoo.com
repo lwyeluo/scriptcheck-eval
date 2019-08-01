@@ -1,10 +1,10 @@
-https://www.jvzoo.com/portal
-https://www.jvzoo.com/portalcdn-cgilemail-protection
-https://www.jvzoo.com/features
-https://www.jvzoo.com/portalsupport
-https://customer.jvzoo.com/support
-https://www.jvzoo.com/authlogin
-https://www.jvzoo.com/portallegal
+https://blog.jvzoo.com/affiliate-marketing-choosing-the-right-products-to-promote/
+https://blog.jvzoo.com/whos-holding-your-wallet/#respond
+https://blog.jvzoo.com/category/tools-integrations/
+https://static.jvzoo.com/team
+https://blog.jvzoo.com/jvzoos-high-performance-leaders-june-2019/
+https://blog.jvzoo.com/page/2/
 https://www.jvzoo.com/
 https://www.jvzoo.com/about
+https://blog.jvzoo.com/category/affiliate-marketing/
 https://blog.jvzoo.com/

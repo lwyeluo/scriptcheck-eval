@@ -1,10 +1,10 @@
+https://www.detmir.ru/catalog/index/name/huggies_2507/?utm_source=bigbanner_26070408&utm_campaign=huggies_listovka635&utm_medium=referral
+https://www.detmir.ru/catalog/index/name/home_cleaning/
 https://www.detmir.ru/
-https://www.detmir.ru/catalog/index/name/athletic_shoes_boys/
-https://www.detmir.ru/catalog/index/name/creative_kits/
-https://www.detmir.ru/catalog/index/name/naduvnye_igrushki/
-https://www.detmir.ru/catalog/index/name/scales/
 https://www.detmir.ru/catalog/index/name/pots_urinals/
-https://www.detmir.ru/catalog/index/name/milk_baby/
-https://www.detmir.ru/pages/electronic-card/
+https://www.detmir.ru/catalog/index/name/dzhempery_girls/
 https://www.detmir.ru/catalog/index/name/narukavniki/
-https://www.detmir.ru/catalog/index/name/cotton_candy/
+https://www.detmir.ru/catalog/index/name/strategic_games/
+https://www.detmir.ru/catalog/index/name/baths/
+https://www.detmir.ru/catalog/index/name/podushki/
+https://www.detmir.ru/catalog/index/name/protective_strip_car_seat/

@@ -1,1 +1,1 @@
-https://www.beginnersbook.com/
+https://beginnersbook.com/

@@ -1,10 +1,7 @@
-https://lady.smi2.ru/
-https://smi2.ru/newdata/adpreview?ad=0&bl=92448&ct=adpreview&ag=0&sct=portalmenusmi2.netcorporateadvertisers
-https://www.smi2.ru/
-https://lady.smi2.ru/smi2.netuserssignin
+https://smi2.ru/rateCurrency
+https://smi2.ru/social
 https://smi2.ru/newdata/adpreview?ad=0&bl=92448&ct=adpreview&ag=0&sct=portalmenu
-https://www.smi2.ru/social
+https://smi2.ru
 http://news.smi2.ru/newdata/news?ad=749008&bl=4000&st=14&ct=adpreview&out=1
-https://smi2.ru/newdata/adpreview?ad=0&bl=92448&ct=adpreview&ag=0&sct=portalmenusmi2.net
-https://www.smi2.ru/rateCurrency
-https://lady.smi2.ru/smi2.runewdatanews?ad=777446&bl=91528&ac_bl=89276&ac_ad=6772053&ct=adpreview_more&out=1&st=20&site_id=46889&ab=
+https://lady.smi2.ru/
+https://smi2.ru/

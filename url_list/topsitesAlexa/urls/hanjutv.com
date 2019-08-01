@@ -1,1 +1,10 @@
+http://www.hanjutv.com/index.php?s=member&c=login&m=indexindex.php?s=member&c=register&m=index
+http://www.hanjutv.com/
+http://www.hanjutv.com/index.php?s=member&c=register&m=index
 https://www.hanjutv.com/
+http://www.hanjutv.com/index.php?s=member&c=login&m=index
+http://www.hanjutv.com/top
+http://www.hanjutv.com/zongyi
+http://www.hanjutv.com/update
+http://www.hanjutv.com/dianying
+http://www.hanjutv.com/hanju

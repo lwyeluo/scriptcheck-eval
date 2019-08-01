@@ -1,10 +1,3 @@
-https://www.moluch.ru/archive183
+http://shop.moluch.ru/
 https://www.moluch.ru/
-https://www.moluch.ru/archive130
-https://www.moluch.ru/scienceMedicine
-https://www.moluch.ru/informationsearchefficiency
-https://www.moluch.ru/scienceCultural_Studies
-https://www.moluch.ru/top100
-https://www.moluch.ru/archive
-https://www.moluch.ru/th8
-https://www.moluch.ru/scienceInformatics
+http://yun.moluch.ru

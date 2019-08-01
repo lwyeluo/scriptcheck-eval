@@ -1,1 +1,1 @@
-https://www.imgflip.com/
+https://imgflip.com/

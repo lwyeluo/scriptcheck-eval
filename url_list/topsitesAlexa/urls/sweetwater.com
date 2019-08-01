@@ -1,10 +1,1 @@
-https://www.sweetwater.com/sweetcare
-https://www.sweetwater.com/about
-https://www.sweetwater.com/aboutcontact
-https://www.sweetwater.com/shopbass
-https://www.sweetwater.com/local
-https://www.sweetwater.com/shop2019-summer-namm-new-products?promo_name=summer_namm_show_2019_products&promo_id=summer_namm_show_2019_products&promo_creative=Banner&promo_position=home_page
-https://www.sweetwater.com/aboutterms-of-use.php
 https://www.sweetwater.com/
-https://www.sweetwater.com/salesummer-drum?promo_name=summer_drum_sale_2019&promo_id=summer_drum_sale_2019&promo_creative=Banner&promo_position=home_page
-https://www.sweetwater.com/aboutcontact#hours

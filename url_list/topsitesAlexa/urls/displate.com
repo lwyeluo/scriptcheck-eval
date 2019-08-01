@@ -1,1 +1,1 @@
-https://www.displate.com/
+https://displate.com/

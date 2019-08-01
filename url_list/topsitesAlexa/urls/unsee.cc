@@ -1,6 +1,5 @@
-https://www.unsee.cc/privacy.html
-https://www.unsee.cc/
-https://www.unsee.cc/faq.html
-https://www.unsee.cc/terms.html
-https://www.unsee.cc/terms.htmlprivacy.html
-https://www.unsee.cc/impressum.html
+https://unsee.cc/faq.html
+https://unsee.cc/terms.html
+https://unsee.cc/
+https://unsee.cc/impressum.html
+https://unsee.cc/privacy.html

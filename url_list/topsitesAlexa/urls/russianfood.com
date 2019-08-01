@@ -1,10 +1,7 @@
-https://www.russianfood.com/www.russianfood.com
-https://www.russianfood.com/recipesbytype?fid=136
-https://www.russianfood.com/recipesbytype?fid=704
-https://www.russianfood.com/recipesbytype?fid=123
-https://www.russianfood.com/themes?theme_id=2
-https://www.russianfood.com/recipesbytype?fid=205
-https://www.russianfood.com/recipesbytype?fid=532
+https://www.russianfood.com/?page=2
+https://www.russianfood.com/?page=9
+https://www.russianfood.com/?page=10
+https://www.russianfood.com/?page=7
+https://www.russianfood.com
+https://www.russianfood.com/?page=8
 https://www.russianfood.com/
-https://www.russianfood.com/recipesbytype?fid=1393
-https://www.russianfood.com/recipesbytype?fid=77

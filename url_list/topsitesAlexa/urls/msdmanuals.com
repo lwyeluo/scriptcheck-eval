@@ -1,10 +1,3 @@
-https://www.msdmanuals.com/privacy.truste.comprivacy-sealvalidation?rid=0a0fd821-0cd2-443b-99ea-9e96f2ccbee9
-https://www.msdmanuals.com/policy.privacyandcookies.eumsdnoscript
-https://www.msdmanuals.com/professionalcontenttermsofuse
-https://www.msdmanuals.com/professionalresourcespagesdisclaimer
-https://www.msdmanuals.com/professionalresourcespagesglobal-medical-knowledge-2020
-https://www.msdmanuals.com/professionalcontentpermissions
 https://www.msdmanuals.com/
-https://www.msdmanuals.com/professionalcontentlicensing
-https://www.msdmanuals.com/privacy.truste.comprivacy-sealvalidation?rid=0077ae82-f489-452b-a850-0e896f5a1566
+https://www.msdmanuals.com/professional
 https://www.msdmanuals.com/home

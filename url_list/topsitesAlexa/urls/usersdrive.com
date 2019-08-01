@@ -1,10 +1,10 @@
 https://usersdrive.com
-https://usersdrive.com/register.html
-https://usersdrive.com/contact.html
 https://usersdrive.com/login.html
-https://usersdrive.com/tos.html
-https://usersdrive.com/?op=payments
-https://usersdrive.com/pages/dmca.html
+https://usersdrive.com/register.html
+https://usersdrive.com/faq.html
+https://usersdrive.com/?op=make_money
 https://usersdrive.com/pages/privacy-policy.html
+https://usersdrive.com/tos.html
 https://www.usersdrive.com/
 https://usersdrive.com/?op=news
+https://usersdrive.com/pages/dmca.html

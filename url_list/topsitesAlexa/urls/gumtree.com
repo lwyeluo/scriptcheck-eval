@@ -1,10 +1,10 @@
 https://www.gumtree.com/blaenau-gwent
-https://www.gumtree.com/shropshire
-https://www.gumtree.com/gloucester
 https://www.gumtree.com/
-https://www.gumtree.com/pmitsubishi2015-mitsubishi-outlander-phev-gx-4hs-estate-hybrid1342506782
-https://www.gumtree.com/somerset
-https://www.gumtree.com/county-armagh
+https://www.gumtree.com/bradford
 https://www.gumtree.com/events-gigs-nightlife
-https://www.gumtree.com/dogsukpuppies
-https://www.gumtree.com/diy-tools-materials
+https://www.gumtree.com/categoriesfor-sale
+https://www.gumtree.com/clothing
+https://www.gumtree.com/nottingham
+https://www.gumtree.com/fife
+https://www.gumtree.com/rutland
+https://www.gumtree.com/clothing-services

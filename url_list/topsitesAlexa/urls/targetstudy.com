@@ -1,1 +1,1 @@
-https://www.targetstudy.com/
+https://targetstudy.com/

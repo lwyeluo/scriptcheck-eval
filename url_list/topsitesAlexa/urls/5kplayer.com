@@ -1,10 +1,10 @@
+https://www.5kplayer.com/index-jp.htm
+https://www.trustpilot.com/review/5kplayer.com
 https://www.5kplayer.com/index-es.htm
-https://www.5kplayer.com/youtube-download
-https://www.5kplayer.com/support
-https://www.5kplayer.com/video-music-playerfree-4k-video-player.htm
-https://www.5kplayer.com/
 https://www.5kplayer.com/sitemap.htm
-https://www.5kplayer.com/youtube-downloadhow-to-download-youtube-videos.htm
-https://www.5kplayer.com/video-music-playerhd-video-player.htm
-https://www.5kplayer.com/downloadmacx-dvd-ripper-pro.dmg
+https://www.5kplayer.com/index-zh.htm
 https://www.5kplayer.com/index-de.htm
+https://www.5kplayer.com/
+https://www.5kplayer.com/index-pt.htm
+https://www.5kplayer.com/play-video-music-5kplayer.htm
+https://www.5kplayer.com/download-online-video-music-5kplayer.htm

@@ -1,1 +1,1 @@
-https://www.read01.com/
+https://read01.com/

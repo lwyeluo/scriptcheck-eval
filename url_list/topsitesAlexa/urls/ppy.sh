@@ -1,1 +1,1 @@
-https://www.ppy.sh/
+https://ppy.sh/

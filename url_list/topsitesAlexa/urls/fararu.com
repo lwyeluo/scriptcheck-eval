@@ -1,10 +1,2 @@
-https://www.fararu.com/fanews403388قیمت-خودرو-در-بازار-امروز-۲-تیر-۹۸-پژو-پارس-۱۰۳۰۰۰۰۰۰-تومان
-https://www.fararu.com/fanews406324ویدئو-استندآپ-کمدی-جنجالی-علیرضا-خمسه-در-کانادا
-https://www.fararu.com/fanews406059تصاویر-آغاز-کمپین-حمایت-از-مستاجران-در-بنگاه‌های-املاک
-https://www.fararu.com/fanews406357اپلیکیشن-تغییرچهره-و-مردانی-که-در-پیری-خوش‌تیپ‌تر-از-زنان‌اند
-https://www.fararu.com/fanews406452اسیدپاشی-در-ایران-هر-روز-یک-قربانی-جدید-می‌گیرد
-https://www.fararu.com/fanews406367تصاویر-دادگاه-عاملان-قتل-علیرضا-شیرمحمدعلی
-https://www.fararu.com/fanews406127ظریف-در-گفتگو-با-cnn-ترامپ-نامه‌ای-به-رهبر-ایران-نداد
-https://www.fararu.com/
-https://www.fararu.com/fanews406396سردار-جعفری-هاشمی-دائما-دنبال-این-بود-جنگ-تمام-شود
-https://www.fararu.com/fanews406400کاردار-سفارت-ایران-در-لندن-احضار-شد
+https://fararu.com/fa/life
+https://fararu.com/

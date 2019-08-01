@@ -1,1 +1,1 @@
-https://www.srchsafe.com/
+https://srchsafe.com/

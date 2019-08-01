@@ -1,10 +1,10 @@
-https://www.libsyn.com/
+https://libsyn.com/
+https://libsyn.com/contact/
 https://support.libsyn.com
-https://libsyn.com/news/
-https://tickets.libsyn.com/en-us/conversation/new
-https://libsyn.com/podcast-hosting-services/
-https://libsyn.com/terms-of-service-mylibsyn/
+https://libsyn.com/plans-pricing
+https://libsyn.com/custom-mobile-apps/
 https://libsyn.com/terms-of-service-beta/
+https://libsyn.com/plans-pricing/
 https://libsyn.com/terms-of-service-website/
-https://support.libsyn.com/faqs/
-https://libsyn.com/payment-policy/
+http://support.libsyn.com
+https://libsyn.com/app-terms-of-service/

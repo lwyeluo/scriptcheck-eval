@@ -1,1 +1,1 @@
-https://www.lootbits.io/
+https://lootbits.io/

@@ -1,1 +1,1 @@
-https://www.cookieandkate.com/
+https://cookieandkate.com/

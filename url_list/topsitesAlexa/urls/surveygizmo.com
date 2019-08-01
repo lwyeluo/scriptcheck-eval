@@ -1,10 +1,10 @@
-https://www.surveygizmo.com/training
-https://www.surveygizmo.com/resourcesblog
-https://www.surveygizmo.com/plans-pricing
-https://www.surveygizmo.com/360-review-package
+https://community.surveygizmo.com/questions/question/catch-22-error-attempt-upgrade-payment-contact-support-upgrade/
+https://community.surveygizmo.com/questions/question/notice-surveygizmo-sign-in-with-google/
+https://help.surveygizmo.com/help/style-your-survey
 https://app.surveygizmo.com/login/v1
-https://www.surveygizmo.com/jobs
-https://www.surveygizmo.com/private-training
-https://www.surveygizmo.com/companyabout
 https://community.surveygizmo.com
+https://help.surveygizmo.com/help
+https://community.surveygizmo.com/
+https://developer.surveygizmo.com/help
+https://help.surveygizmo.com/help/surveygizmo-support-hours
 https://www.surveygizmo.com/
