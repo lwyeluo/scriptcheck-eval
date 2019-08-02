@@ -30,6 +30,7 @@ class RunTopSitesWithMultiMachines(object):
 
     def run(self):
         _logger.info(">>> initial file name is " + self._homepage_file)
+        _logger.info(">>> urls_dir is " + self._urls_dir)
 
         if not os.path.exists(self._urls_dir):
             raise Exception("Please run --split MACHINE_ID first")

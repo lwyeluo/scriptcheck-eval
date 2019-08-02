@@ -175,7 +175,7 @@ if __name__ == '__main__':
             from top_sites import runTopSiteReverse
 
             runTopSiteReverse.run()
-        elif args.machine_id:
+        elif args.machine_id is not None:
             from top_sites import runTopSiteWithMultiMachines
 
             runTopSiteWithMultiMachines.run(args.machine_id)
