@@ -1,0 +1,10 @@
+https://www.lo4d.com/corp/terms
+https://en.lo4d.com/windows/system-optimizer
+https://www.lo4d.com/
+https://adobe-reader.en.lo4d.com/windows
+https://samsung-tool.en.lo4d.com/windows
+https://samfirm.en.lo4d.com/windows
+https://andy-android-emulator.en.lo4d.com/windows
+https://en.lo4d.com/windows/audio-video-software
+https://mouse-jiggler.en.lo4d.com/windows
+https://asus-fan-xpert.en.lo4d.com/windows

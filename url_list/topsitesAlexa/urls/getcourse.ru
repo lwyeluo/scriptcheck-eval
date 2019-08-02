@@ -1,0 +1,10 @@
+https://getcourse.ru/
+https://getcourse.ru/prices
+https://getcourse.ru/vacancy
+https://getcourse.ru/free
+https://getcourse.ru/cms/system/login
+https://getcourse.ru/privacy_policy
+https://getcourse.ru/register
+https://getcourse.ru/course/landings
+https://getcourse.ru/start
+https://getcourse.ru/university

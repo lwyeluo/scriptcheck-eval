@@ -1,0 +1,10 @@
+https://www.ua-football.com/news/tag/Неймар?utm_source=trends&utm_medium=click&utm_campaign=trends
+https://www.ua-football.com/foreign/europa_league
+https://www.ua-football.com/ukrainian
+https://www.ua-football.com/ukrainian/high?utm_source=trends&utm_medium=click&utm_campaign=trends
+https://www.ua-football.com/ukrainian/cup
+https://www.ua-football.com/betting
+https://www.ua-football.com/ukrainian/national
+https://www.ua-football.com/foreign/italy
+https://www.ua-football.com/
+https://www.ua-football.com/ukrainian/rating_clubs

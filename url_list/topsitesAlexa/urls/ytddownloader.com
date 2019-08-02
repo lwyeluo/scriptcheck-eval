@@ -1,0 +1,10 @@
+https://www.ytddownloader.com/privacy.html#cookiefaq.html
+https://www.ytddownloader.com/video_sites.html
+https://www.ytddownloader.com/privacy.html#cookie
+https://www.ytddownloader.com/terms.html
+https://www.ytddownloader.com/privacy.html
+https://www.ytddownloader.com/contact_us.html
+https://www.ytddownloader.com/buy_now.php?t=hp_ytdd&p=win&tracking=hp_ytdd&kt=ytdd
+https://www.ytddownloader.com/
+https://www.ytddownloader.com/faq.html
+https://www.ytddownloader.com/download.html

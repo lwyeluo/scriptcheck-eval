@@ -1,0 +1,10 @@
+https://www.royalcaribbean.com/
+https://www.royalcaribbean.com/caribbean-cruises
+https://www.royalcaribbean.com/gifts/Main/splash
+https://www.royalcaribbean.com/plan-a-cruise/visa-signature-card
+https://www.royalcaribbean.com/booked
+https://www.royalcaribbean.com/canada-cruises
+https://www.royalcaribbean.com/resources/privacy-policy
+https://www.royalcaribbean.com/cruise-from/san-juan-puerto-rico
+https://www.royalcaribbean.com/bahamas-cruises
+https://www.royalcaribbean.com/cruise-deals/summer-cruises

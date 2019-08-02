@@ -1,0 +1,10 @@
+https://tophotels.ru/club/stat/default/index
+https://tophotels.ru/rate
+https://api.tophotels.ru
+https://tophotels.ru/new-hotels
+https://tophotels.ru/informers
+https://tophotels.ru/club/
+http://api.tophotels.ru
+https://tophotels.ru/hotel_select
+https://tophotels.ru/order?tab=complex
+https://tophotels.ru/

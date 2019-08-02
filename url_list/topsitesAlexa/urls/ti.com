@@ -1,0 +1,10 @@
+http://www.ti.com/about-ti/education/engineering-the-future.html
+http://www.ti.com/about-ti/company/technology-manufacturing.html
+https://www.ti.com/applications/communications-equipment/datacom-module/overview.html
+https://www.ti.com/applications/personal-electronics/overview.html
+https://www.ti.com/
+http://www.ti.com/applications/industrial/factory-automation/overview.html
+https://www.ti.com/packaging/docs/partlookup.tsp?keyMatch=part%20markings&tisearch=Search-EN-Everything
+http://www.ti.com/info-store/featured/line-of-credit.html
+http://www.ti.com/applications/personal-electronics/gaming/overview.html
+https://www.ti.com/design-resources/embedded-development/hardware-kits-boards.html

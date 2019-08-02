@@ -1,0 +1,10 @@
+https://onedio.com/haberler
+https://onedio.com/galeriler
+https://onedio.com/
+https://onedio.com/videolar
+https://onedio.com/giybet
+https://onedio.com/cool
+https://onedio.com/yemek
+https://onedio.com/cafe
+https://onedio.com/iq
+https://onedio.com/geribildirim

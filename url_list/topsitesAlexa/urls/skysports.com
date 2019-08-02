@@ -1,0 +1,10 @@
+https://www.skysports.com/tennis
+https://www.skysports.com/football
+https://www.skysports.com/netball
+https://www.skysports.com/esports
+https://www.skysports.com/
+https://www.skysports.com/racing
+https://super6.skysports.com/
+https://www.skysports.com/nba
+https://www.skysports.com/boxing
+https://super6.skysports.com?aff=10252&dcmp=ss_PR_S6_242MIL_19

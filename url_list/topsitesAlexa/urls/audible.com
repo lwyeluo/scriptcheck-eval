@@ -1,0 +1,10 @@
+https://www.audible.com/advsr?pf_rd_p=2fb5a3a0-1e29-4074-911c-f157b6199695&pf_rd_r=ZHGKER9JEPCH8EYVBBY3&ref=a_hp_t1_header_search_adv
+https://www.audible.com/?bp_ua=false&pf_rd_p=442a2e02-8232-4f02-911c-8630c87ad94d&pf_rd_r=ZHGKER9JEPCH8EYVBBY3&ref=a_hp_b1_dlp_footer_0epauthors?pf_rd_p=2fb5a3a0-1e29-4074-911c-f157b6199695&pf_rd_r=Y34P3EM4SBS4A0CJPSYZ&ref=a_hp_t1_navTop_pl0cg0c0r3
+https://www.audible.com/?pf_rd_p=2fb5a3a0-1e29-4074-911c-f157b6199695&pf_rd_r=ZHGKER9JEPCH8EYVBBY3&ref=a_hp_t1_nav_header_logo
+https://www.audible.com/?bp_ua=false&pf_rd_p=442a2e02-8232-4f02-911c-8630c87ad94d&pf_rd_r=ZHGKER9JEPCH8EYVBBY3&ref=a_hp_b1_dlp_footer_0?bp_ua=false&pf_rd_p=442a2e02-8232-4f02-911c-8630c87ad94d&pf_rd_r=Y34P3EM4SBS4A0CJPSYZ&ref=a_hp_b1_dlp_footer_0
+https://www.amazon.com/ap/signin?clientContext=135-3226809-7439018&openid.return_to=https%3A%2F%2Fwww.audible.com%2F&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=audible_shared_web_us&openid.mode=checkid_setup&marketPlaceId=AF2M0KC94RCEA&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=amzn_audible_bc_us&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=900&siteState=audibleid.userType%3Damzn%2Caudibleid.mode%3Did_res%2CclientContext%3D143-0263541-1306006%2CsourceUrl%3Dhttps%253A%252F%252Fwww.audible.com%252F%2Csignature%3DER3b2rlj2Fm8pOW3jPLc7uxuzONYcj3D&pf_rd_p=2fb5a3a0-1e29-4074-911c-f157b6199695&pf_rd_r=ZHGKER9JEPCH8EYVBBY3
+https://www.audible.com/categories?pf_rd_p=2fb5a3a0-1e29-4074-911c-f157b6199695&pf_rd_r=ZHGKER9JEPCH8EYVBBY3&ref=a_hp_t1_navTop_pl0cg0c0r0
+https://www.audible.com/
+https://www.audible.com/adblbestsellers?pf_rd_p=2fb5a3a0-1e29-4074-911c-f157b6199695&pf_rd_r=ZHGKER9JEPCH8EYVBBY3&ref=a_hp_t1_navTop_pl0cg0c0r1
+https://www.audible.com/search?field_publication_date=9178175011&pf_rd_p=2fb5a3a0-1e29-4074-911c-f157b6199695&pf_rd_r=ZHGKER9JEPCH8EYVBBY3&ref=a_hp_t1_navTop_pl0cg0c0r6
+https://www.audible.com/?bp_ua=false&pf_rd_p=442a2e02-8232-4f02-911c-8630c87ad94d&pf_rd_r=ZHGKER9JEPCH8EYVBBY3&ref=a_hp_b1_dlp_footer_0

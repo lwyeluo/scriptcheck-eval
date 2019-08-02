@@ -1,0 +1,10 @@
+https://www.coolmathgames.com/contact-us-about-subscriptions
+https://www.coolmathgames.com/0-johnny-upgrade
+https://www.coolmathgames.com/
+https://www.coolmathgames.com/1-complete-game-list
+https://www.coolmathgames.com/0-tower-of-destiny
+https://www.coolmathgames.com/0-bloxorz
+https://www.coolmathgames.com/0-bloons-tower-defense-3
+https://www.coolmathgames.com/1-wacky-weird-and-wild
+https://www.coolmathgames.com/1-memory-games
+https://www.coolmathgames.com/signup/b2df5a33?origin=/

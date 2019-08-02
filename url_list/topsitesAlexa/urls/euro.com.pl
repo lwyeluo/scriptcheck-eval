@@ -1,0 +1,10 @@
+https://www.euro.com.pl/sokowirowki.bhtml?link=mainnavi
+https://www.euro.com.pl/lodowki.bhtml?link=mainnavi
+https://www.euro.com.pl/torby-do-laptopow.bhtml?link=mainnavi
+https://www.euro.com.pl/cyfrowe-ramki-do-zdjec.bhtml?link=mainnavi
+https://www.euro.com.pl/routery.bhtml?link=mainnavi
+https://www.euro.com.pl/gry-pc.bhtml?link=mainnavi
+https://www.euro.com.pl/obiektywy.bhtml?link=mainnavi
+https://www.euro.com.pl/
+https://www.euro.com.pl/ekspresy-i-kawa.bhtml?link=mainnavi
+https://www.euro.com.pl/agd-male.bhtml

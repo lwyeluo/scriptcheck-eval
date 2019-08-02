@@ -1,0 +1,10 @@
+http://dishd2h.com/
+https://www.d2h.com/consumercorner
+https://www.d2h.com/subscriptionplan
+https://www.d2h.com/downloadsubscription-process-of-a-la-carte.pdf
+https://www.d2h.com/downloadList-Of-Broadcaster-Bouquets.pdf
+https://www.d2h.com/regulatory
+https://www.d2h.com/activeservice
+https://www.d2h.com/
+https://www.d2h.com/downloadCAF-d2h.pdf
+https://www.d2h.com/selfhelp

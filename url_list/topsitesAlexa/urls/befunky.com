@@ -1,0 +1,10 @@
+https://www.befunky.com/features/collage-maker/
+https://blog.befunky.com/tutorials/
+https://www.befunky.com/features/text-editor/
+https://blog.befunky.com/welcome-befunky-plus/
+https://blog.befunky.com/vector-images/
+https://www.befunky.com/
+https://www.befunky.com/fr/
+https://support.befunky.com/hc/en-us/sections/200897109-FAQ
+https://www.befunky.com/terms/?cmfrm=1
+https://support.befunky.com/hc/en-us

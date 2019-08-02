@@ -1,0 +1,10 @@
+https://www.ccleaner.com/ccleaner-mac
+https://www.ccleaner.com/nl-nl
+https://www.ccleaner.com/es-es
+https://www.ccleaner.com/partners#msps
+https://www.ccleaner.com/support
+https://www.ccleaner.com/partners#techandstrategy
+https://secure.ccleaner.com/502/uurl-9rvfvj1xet
+https://www.ccleaner.com/
+https://www.ccleaner.com/it-it
+https://www.ccleaner.com/contact

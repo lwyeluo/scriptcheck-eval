@@ -1,0 +1,10 @@
+https://bonus.vtb.ru/accountforgotpassword
+https://bonus.vtb.ru/mainhowitworks_local
+https://bonus.vtb.ru/catalog
+https://bonus.vtb.ru/
+https://bonus.vtb.ru/Partners
+https://travel.vtb.ru/account
+https://travel.vtb.ru/info
+https://travel.vtb.ru/
+https://travel.vtb.ru/help
+https://www.vtb.ru/

@@ -1,0 +1,10 @@
+https://www.therealreal.com/terms
+https://www.therealreal.com/
+https://promotion.therealreal.com/valuation-washington-dc/
+https://promotion.therealreal.com/valuation-new-york/
+https://promotion.therealreal.com/valuation-dallas/
+https://www.therealreal.com/watches
+https://www.therealreal.com/home
+https://www.therealreal.com/jewelry
+https://promotion.therealreal.com/valuation-los-angeles/
+https://www.therealreal.com/affiliates

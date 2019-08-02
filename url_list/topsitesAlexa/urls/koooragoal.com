@@ -1,0 +1,10 @@
+http://www.koooragoal.com/2019/07/barcelona-vs-chelsea.html
+http://www.koooragoal.com/2019/07/liverpool-vs-napoli.html
+http://www.koooragoal.com/2019/07/tunisia-vs-nigeria.html
+http://www.koooragoal.com
+http://www.koooragoal.com/2018/03/yalla-shoot-live.html
+http://www.koooragoal.com/search/label
+http://www.koooragoal.com/2019/07/al-gounah-vs-al-zamalek.html
+http://www.koooragoal.com/2019/07/algeria-vs-nigeria.html
+http://www.koooragoal.com/
+http://www.koooragoal.com/search/label/%D8%A8%D8%AB%20%D9%85%D8%A8%D8%A7%D8%B4%D8%B1

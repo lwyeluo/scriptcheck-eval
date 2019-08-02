@@ -1,0 +1,10 @@
+https://www.webmd.com/children/default.htm
+https://www.webmd.com/osteoporosis/default.htm
+https://www.webmd.com/about-webmd-policies/about-editorial-policy
+https://www.webmd.com/asthma/allergies-asthma-18/child/avoid-asthma-triggers
+https://www.webmd.com/
+https://www.webmd.com/sitemap
+https://dictionary.webmd.com/default.htm
+https://www.webmd.com/dvt/ss/slideshow-deep-vein-thrombosis-overview
+https://www.webmd.com/sleep-disorders/default.htm
+https://www.webmd.com/mental-health/addiction/ss/slideshow-commonly-abused-drugs

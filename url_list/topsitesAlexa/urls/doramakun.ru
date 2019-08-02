@@ -1,0 +1,10 @@
+http://doramakun.ru/User/47877/
+http://doramakun.ru/User/53431/
+http://doramakun.ru/
+http://doramakun.ru/User/25233/
+http://doramakun.ru/User/34638/
+http://doramakun.ru/search/nobuta/
+http://doramakun.ru/User/32440/
+http://doramakun.ru/User/28111/
+http://doramakun.ru/Donate.html
+http://doramakun.ru/User/29533/

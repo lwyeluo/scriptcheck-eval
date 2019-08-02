@@ -1,0 +1,10 @@
+https://www.pcastuces.com/logitheque/default.htm
+https://www.pcastuces.com/newsletterdesinscription.asp
+https://www.pcastuces.com/newsletteradjarchives.htm
+https://prix.pcastuces.com
+https://goodies.pcastuces.com/fondecran.asp?tri=pop
+https://prix.pcastuces.com/bonplan-ssd_pny_cs900_120_go_a_17virgule99_euros-11921.htm
+https://tracker.pcastuces.com/
+https://www.pcastuces.com/pub.htm
+https://www.pcastuces.com/
+https://www.pcastuces.com/pratique/materiel/multi_ecran/page1.htm

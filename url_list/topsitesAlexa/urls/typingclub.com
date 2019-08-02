@@ -1,0 +1,10 @@
+https://www.typingclub.com/perfect-match
+https://www.typingclub.com/
+https://www.typingclub.com/one-hand-typing
+https://s.typingclub.com/updates.html
+https://www.typingclub.com/terms.html
+https://www.typingclub.com/privacy.html
+https://www.typingclub.com/russkiy
+https://www.typingclub.com/dvorak
+https://www.typingclub.com/going-solo
+https://www.typingclub.com/kids-typing

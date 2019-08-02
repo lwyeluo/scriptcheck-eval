@@ -1,0 +1,10 @@
+https://buffer.com/legal#terms
+https://buffer.com/courses
+https://buffer.com/nonprofits
+https://buffer.com/love
+https://buffer.com/about
+https://buffer.com/salary
+https://buffer.com/analyze
+https://open.buffer.com/salary-formula/
+https://buffer.com/community
+https://buffer.com/

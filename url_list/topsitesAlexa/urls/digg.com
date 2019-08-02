@@ -1,0 +1,10 @@
+https://store.digg.com/sales/the-complete-ethical-hacking-certification-course-2?utm_source=digg.com&utm_medium=referral&utm_campaign=the-complete-ethical-hacking-certification-course-2&utm_term=scsf-332499&utm_content=a0x1P000004HZcJ&scsonar=1
+https://digg.com/about
+https://digg.com/tos
+https://digg.com/community-guidelines
+https://digg.com/faq
+https://store.digg.com?utm_source=digg.com&utm_medium=topnav
+https://digg.com/jobs
+https://digg.com/
+https://digg.com/welcome?next=%2F
+https://digg.com/privacy

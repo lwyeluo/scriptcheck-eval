@@ -1,0 +1,10 @@
+https://www.schoolloop.com/about
+https://www.schoolloop.com/responsive
+https://www.schoolloop.com/ada
+https://www.schoolloop.com/services
+https://helpcenter.schoolloop.com/hc/en-us
+https://www.schoolloop.com/scholloop-acquired-by-think3
+https://www.schoolloop.com/
+https://www.schoolloop.com/privacy-statement
+https://www.schoolloop.com/fast
+https://www.schoolloop.com/featuredsites

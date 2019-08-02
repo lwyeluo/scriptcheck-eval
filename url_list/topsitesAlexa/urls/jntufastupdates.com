@@ -1,0 +1,10 @@
+https://www.jntufastupdates.com/acharya-nagarjuna-university/
+https://www.jntufastupdates.com/category/west-bengal/
+https://www.jntufastupdates.com/category/answer-key/
+https://www.jntufastupdates.com/category/cet-exams/pglcet-exam/
+https://www.jntufastupdates.com/jntuh-b-pharmacy-1-2-adv-supply-2019/
+https://www.jntufastupdates.com/epfo-assistant-prelims-result-2019/
+https://www.jntufastupdates.com/tspsc-one-time-registration/
+https://www.jntufastupdates.com/category/karnataka/
+https://www.jntufastupdates.com/jntuk-results/
+https://www.jntufastupdates.com/

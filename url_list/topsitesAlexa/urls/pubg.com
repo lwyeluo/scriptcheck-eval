@@ -1,0 +1,10 @@
+https://www.pubg.com/2019/07/17/pc-update-4-1-patch-notes-now-on-the-test-server/
+https://www.pubg.com/terms-of-service/
+https://www.pubg.com/es/
+https://www.pubg.com/it/
+https://www.pubg.com/pl/
+https://www.pubg.com/
+https://forums.pubg.com/
+https://www.pubg.com/partners/
+https://www.pubg.com/ru/
+https://www.pubg.com/merch/

@@ -1,0 +1,10 @@
+https://mewe.com/press
+https://mewe.com/pages
+https://mewe.com/myworld
+https://mewe.com/terms
+https://mewe.com/events
+https://mewe.com/
+https://mewe.com/groups
+https://mewe.com/about
+https://mewe.com/privacy
+https://mewe.com/chat

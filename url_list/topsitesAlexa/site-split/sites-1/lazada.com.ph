@@ -1,0 +1,10 @@
+https://www.lazada.com.ph/shop-beauty-supplements/
+https://www.lazada.com.ph/shop-groceries-beverages-uht-milk-milk-powder/
+https://www.lazada.com.ph/shop-boxing-martial-arts-mma/
+https://www.lazada.com.ph/shop-baby-girls-clothing/
+https://www.lazada.com.ph/shop-electronic-gadgets/
+https://www.lazada.com.ph/shop-health-personal-care/
+https://www.lazada.com.ph/shop-motorcycle-jackets/
+https://www.lazada.com.ph/
+https://www.lazada.com.ph/shop-projectors-2/
+https://www.lazada.com.ph/shop-Groceries-Beverages-ChocolateMaltHotCereals-HotChocolate/

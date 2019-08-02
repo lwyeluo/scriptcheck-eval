@@ -1,0 +1,10 @@
+http://gamovideo.com/?op=registration
+http://gamovideo.com/privacy.html
+http://gamovideo.com/3c6tjr5r5kanr
+http://www.gamovideo.com/
+http://gamovideo.com
+http://gamovideo.com/dmca.html
+http://gamovideo.com/?op=upload
+http://gamovideo.com/contact.html
+http://gamovideo.com/faq
+http://gamovideo.com/login.html

@@ -1,0 +1,10 @@
+http://www.mi.com/eg/
+http://www.mi.com/redmibook14/
+http://www.mi.com/service/
+http://static.account.xiaomi.com/html/agreement/account/cn.html
+http://www.mi.com/a/h/10844.html
+https://www.mi.com/service/exchange#back
+https://www.mi.com/kr/
+https://www.mi.com/
+http://www.mi.com/about/privacy/
+https://www.mi.com/mibook/ruby15-2019mx110/

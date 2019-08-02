@@ -1,0 +1,10 @@
+https://www.jotform.com/testimonials/
+https://www.jotform.com/form-templates/category/evaluation-forms
+https://www.jotform.com/form-templates/?classic
+https://www.jotform.com/
+https://www.jotform.com/faq
+https://www.jotform.com/security/
+https://developers.jotform.com/
+https://www.jotform.com/enterprise/
+https://www.jotform.com/form-templates/category/reservation
+https://www.jotform.com/form-templates/?cards

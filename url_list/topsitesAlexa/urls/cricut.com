@@ -1,0 +1,10 @@
+https://cricut.com/en_us/projects#quilting
+https://cricut.com/en_us/cricut-maker
+https://cricut.com/en_us/projects
+https://cricut.com/en_us/press
+https://cricut.com/en_us/cricut-easypress
+https://cricut.com/en_us/partners
+https://cricut.com/en_us/contact-us
+https://cricut.com/
+https://cricut.com/en_us/accessories-and-materials
+https://cricut.com/en_us/projects#paper

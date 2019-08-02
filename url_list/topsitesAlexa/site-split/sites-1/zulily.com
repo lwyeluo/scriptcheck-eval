@@ -1,0 +1,10 @@
+https://www.zulily.com/e/empire-waist-pocket-dresses-s-3x-370090.html
+https://www.zulily.com/privacy-practices#p4
+https://www.zulily.com/
+https://www.zulily.com/e/so-perla-364648.html
+https://www.zulily.com/e/santas-workshop-368491.html
+https://www.zulily.com/terms-conditions
+https://www.zulily.com/category
+https://helpcenter.zulily.com/hc/en-us/
+https://www.zulily.com/categorywomens-plus?ref=header
+https://www.zulily.com/categorytoys-playtime?ref=header

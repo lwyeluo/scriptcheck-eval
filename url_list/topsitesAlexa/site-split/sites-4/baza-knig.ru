@@ -1,0 +1,10 @@
+https://baza-knig.ru/
+https://baza-knig.ru/popadancy/32569-voyna-mirov-vladimir-poselyagin.html
+https://baza-knig.ru/popadancy/32545-adept-tom-vtoroy-kanikuly-oleg-bubela.html
+https://baza-knig.ru/xfsearch/cikl/The+Gam3/
+https://baza-knig.ru/page/3/
+https://baza-knig.ru/xfsearch/ispolnitel/%D0%91%D0%B8%D0%BB%D1%8B%D0%BA+%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD/
+https://baza-knig.ru/index.php?do=feedback
+https://baza-knig.ru/fantastika-fentezi/32571-serdce-drakona-2-kirill-klevanskiy.html
+https://baza-knig.ru/faq.html
+https://baza-knig.ru/page/5/

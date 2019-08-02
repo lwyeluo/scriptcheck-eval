@@ -1,0 +1,10 @@
+https://www.softportal.com/join.html
+https://www.softportal.com/news.html
+https://www.softportal.com/software-46241-network-utilities.html
+https://www.softportal.com/newsoft-1-0-0.html
+https://www.softportal.com/software-38748-mapsme.html
+https://www.softportal.com/nitem-31403.html
+https://www.softportal.com/software-46252-groovepad.html
+https://www.softportal.com/vacancy.html
+https://www.softportal.com/
+https://www.softportal.com/software-43173-adguard.html

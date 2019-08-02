@@ -1,0 +1,10 @@
+https://www.apowersoft.com/pdf-editor
+https://www.apowersoft.com/free-online-screen-recorder
+https://www.apowersoft.com/free-audio-recorder-online
+https://www.apowersoft.com/video-editor
+https://www.apowersoft.com/heic-to-jpg
+https://www.apowersoft.com/all-apowersoft
+https://www.apowersoft.com/promotion
+https://www.apowersoft.com/free-online-iphone-ipad-ipod-transfer
+https://www.apowersoft.com/pdf-converter
+https://www.apowersoft.com/

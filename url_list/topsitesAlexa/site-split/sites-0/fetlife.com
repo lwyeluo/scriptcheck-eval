@@ -1,0 +1,10 @@
+https://fetlife.com/team
+https://fetlife.com/ads
+https://fetlife.com/languages
+https://fetlife.com/glossary
+https://fetlife.com/guidelines
+https://fetlife.com/signup_step_profile
+https://fetlife.com/contact
+https://fetlife.com/help
+https://fetlife.com/privacy
+https://fetlife.com/

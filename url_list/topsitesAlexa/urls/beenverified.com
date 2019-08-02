@@ -1,0 +1,10 @@
+https://www.beenverified.com/faq/privacy/
+https://www.beenverified.com/careers/
+https://www.beenverified.com/people/h/
+https://www.beenverified.com/people/wxyz/
+https://www.beenverified.com/people/b/
+https://www.beenverified.com/white-pages-lookup/
+https://www.beenverified.com/background-checks/
+https://www.beenverified.com/
+https://www.beenverified.com/people/nop/
+https://www.beenverified.com/people/a/

@@ -1,0 +1,10 @@
+https://help.itv.com/hc/en-us
+https://www.itv.com/hub/audi-cup/2a5140a0008
+https://www.itv.com/hub/foyles-war/2a1515a0006
+https://www.itv.com/terms
+https://www.itv.com/hub/lorraine/1a9360a2465
+https://www.itv.com/hub/gemma-collins-diva-espana/2a5936a0001
+https://www.itv.com/hub/dinner-date/1a8783a0255
+https://www.itv.com/cookies
+https://www.itv.com/
+https://www.itv.com/hub/the-only-way-is-essex/1a9310a0220

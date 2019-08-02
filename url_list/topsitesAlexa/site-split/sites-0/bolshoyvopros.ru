@@ -1,0 +1,10 @@
+http://www.bolshoyvopros.ru/pulse.html
+http://www.bolshoyvopros.ru/infopage_rules.html
+http://www.bolshoyvopros.ru/ask.html
+http://www.bolshoyvopros.ru/infopage_about.html
+http://www.bolshoyvopros.ru/infopage_money.html
+http://www.bolshoyvopros.ru/
+http://www.bolshoyvopros.ru
+http://www.bolshoyvopros.ru/infopage_referral.html
+http://www.bolshoyvopros.ru/feedback.html
+http://idea.bolshoyvopros.ru/

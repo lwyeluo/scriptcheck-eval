@@ -1,0 +1,10 @@
+https://xcafe.com/
+https://xcafe.com/terms.php
+https://xcafe.com/models/
+https://xcafe.com/gifs/
+https://xcafe.com/signup.php
+https://xcafe.com/privacypolicy.php
+https://xcafe.com/support.php
+https://xcafe.com/videos/
+https://xcafe.com/channels/
+https://xcafe.com/categories/

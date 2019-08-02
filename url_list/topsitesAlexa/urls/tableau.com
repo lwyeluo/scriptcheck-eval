@@ -1,0 +1,10 @@
+https://www.tableau.com/solutions/customer/lufthansa-saves-30-time-gains-decision-flexibility-and-departmental-autonomy?utm_medium=homepage
+https://www.tableau.com/zh-cn
+https://tc19.tableau.com/?utm_campaign=Awareness-TTC-ALL-ALL-ALL-ALL&utm_medium=Tableau+Conference&utm_source=WWW&utm_campaign_id=2018151&utm_cta=hp_top_banner_ad
+https://www.tableau.com/zh-tw
+https://www.tableau.com/support
+https://www.tableau.com/solutions/customer/university-michigan-health-center-processes-literally-thousands-hours-seconds?utm_medium=homepage
+https://community.tableau.com/welcome
+https://www.tableau.com/
+https://www.tableau.com/privacy
+https://www.tableau.com/de-de

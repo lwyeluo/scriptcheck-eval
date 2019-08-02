@@ -1,0 +1,10 @@
+https://tradingeconomics.com/bangladeshgdp-growth
+https://tradingeconomics.com/switzerlandgdp-growth-annual
+https://tradingeconomics.com/germanypopulation
+https://tradingeconomics.com/
+https://tradingeconomics.com/switzerlandgovernment-budget
+https://tradingeconomics.com/argentinainterest-rate
+https://tradingeconomics.com/bangladeshgdp
+https://tradingeconomics.com/taiwaninterest-rate
+https://tradingeconomics.com/franceindicators
+https://tradingeconomics.com/russiainterest-rate

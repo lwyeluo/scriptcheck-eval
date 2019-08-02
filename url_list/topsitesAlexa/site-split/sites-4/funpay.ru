@@ -1,0 +1,10 @@
+https://funpay.ru/lots/420/
+https://funpay.ru/lots/110/
+https://funpay.ru/lots/448/
+https://funpay.ru/lots/86/
+https://funpay.ru/lots/246/
+https://funpay.ru/lots/362/
+https://funpay.ru/lots/144/
+https://funpay.ru/lots/352/
+https://funpay.ru/lots/505/
+https://funpay.ru/

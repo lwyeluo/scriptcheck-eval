@@ -1,0 +1,10 @@
+https://deals.thenextweb.com/sales/adobe-photoshop-cc-training-bundle/?utm_source=thenextweb.com&utm_medium=dealfeed&utm_campaign=/sales/adobe-photoshop-cc-training-bundle
+https://thenextweb.com/insider/2019/01/07/harley-davidson-debuts-its-all-electric-livewire-motorcycle-at-ces/
+https://index.co/company/spring-labs/funding/series-a?utm_campaign=funding_block&utm_medium=referral&utm_source=thenextweb.com
+https://thenextweb.com/security/2019/08/01/north-korean-hacking-groups-and-copycats-are-going-after-financial-institutions/
+https://thenextweb.com/
+https://thenextweb.com/hardfork/2019/08/01/85-percent-bitcoin-mined-cryptocurrency/
+https://thenextweb.com/author/ravie/
+https://thenextweb.com/hardfork/2019/07/31/uk-financial-watchdog-finally-decides-which-cryptocurrencies-it-wants-to-regulate/
+https://thenextweb.com/author/abhimanyughoshal/
+https://thenextweb.com/section/tech/

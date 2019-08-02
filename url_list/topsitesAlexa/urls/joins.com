@@ -1,0 +1,10 @@
+http://bbs.joins.com/app/member_new_faq
+https://www.joins.com/
+http://bbs.joins.com/app/myjoins_policy/163117
+https://www.joins.com/BBSJoinsPrimeIntro.html
+http://bbs.joins.com/app/myjoins_policy/163117app?module=document&act=dispDocumentPrint&document_srl=163117
+http://bbs.joins.com/app/myjoins_policy/2777964
+http://bbs.joins.com/app/myjoins_policy/163114
+http://bbs.joins.com/app/myjoins_new_faq
+http://bbs.joins.com/app/member_noti
+http://help.joins.com

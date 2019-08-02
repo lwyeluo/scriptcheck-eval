@@ -1,0 +1,10 @@
+https://www.c-sharpcorner.com/article/repository-design-pattern-in-net-core-web-api/
+https://www.c-sharpcorner.com/technologies/career-advice
+https://www.c-sharpcorner.com/article/verify-otp-automatically-in-android-without-sms-read-permission-using-xamarin-fo/
+https://www.c-sharpcorner.com/featured-articles
+https://www.c-sharpcorner.com/article/kotlin-function/
+https://www.c-sharpcorner.com/
+https://www.c-sharpcorner.com/stories
+https://www.c-sharpcorner.com/members/vignesh-mani2
+https://www.c-sharpcorner.com/members/talaviya-bhavdip
+https://www.c-sharpcorner.com/article/release-apk-in-flutter/

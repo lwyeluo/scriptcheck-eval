@@ -1,0 +1,10 @@
+http://cdn.pinduoduo.com/home/static/img/common/business_licence.jpg
+https://www.pinduoduo.com/homeadvice
+https://www.pinduoduo.com/home3c
+https://www.pinduoduo.com/
+https://www.pinduoduo.com/homebrand
+https://www.pinduoduo.com/homesale
+https://cdn.pinduoduo.com/home/static/img/common/business_licence.jpg
+https://jinbao.pinduoduo.com/index?from=pdd
+https://www.pinduoduo.com/social.html
+https://www.pinduoduo.com/homeseckill

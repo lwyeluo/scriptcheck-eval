@@ -1,0 +1,10 @@
+https://lyricstranslate.com/nl
+https://lyricstranslate.com/de
+https://lyricstranslate.com/ar
+https://lyricstranslate.com/
+https://lyricstranslate.com/fr
+https://lyricstranslate.com/tr
+https://lyricstranslate.com/en
+https://lyricstranslate.com/el
+https://lyricstranslate.com/ja
+https://lyricstranslate.com/bg

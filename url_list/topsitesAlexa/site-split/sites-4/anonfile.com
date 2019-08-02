@@ -1,0 +1,10 @@
+https://anonfile.com/pl
+https://anonfile.com/es
+https://anonfile.com/
+https://anonfile.com/faq
+https://anonfile.com/fr
+https://anonfile.com/abuse
+https://anonfile.com/register
+https://anonfile.com/feedback
+https://anonfile.com/terms
+https://anonfile.com/login

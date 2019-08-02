@@ -1,0 +1,10 @@
+https://uchi.ru/terms
+https://assets.uchi.ru/assets/main_pages/photo_slider/photo/photo-9-ca24dfd4c48feccc1f7e3ae61550fe8b.jpg
+https://assets.uchi.ru/docs/license_uchi-ru.pdf
+https://assets.uchi.ru/assets/main_pages/photo_slider/photo/photo-4-d026481dfef6853d4be979f9aadb12cf.jpg
+https://uchi.ru/login_light
+https://assets.uchi.ru/assets/main_pages/photo_slider/photo/photo-10-2ea2c606d344af0be03ff5cdb8ca0e8b.jpg
+https://assets.uchi.ru/assets/main_pages/photo_slider/photo/photo-19-cf2dbeda5cf44bfc6516c60602604bbe.jpg
+https://uchi.ru/matematika
+https://uchi.ru/
+https://assets.uchi.ru/assets/main_pages/photo_slider/photo/photo-16-68303b477c16c699d970cdccce4e9242.jpg

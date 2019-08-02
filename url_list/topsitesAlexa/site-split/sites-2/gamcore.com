@@ -1,0 +1,10 @@
+https://gamcore.com/craps
+https://gamcore.com/movies
+https://gamcore.com/over_18
+https://gamcore.com/poker
+https://nl.gamcore.com/
+https://gamcore.com/shemales
+https://dk.gamcore.com/
+https://gamcore.com/animals
+https://gamcore.com/
+https://gamcore.com/games?page=9

@@ -1,0 +1,10 @@
+https://dashboard.ccavenue.com/web/registration.do?command=navigateSchemeForm
+https://www.ccavenue.com/agreement.jsp
+https://www.ccavenue.com/
+https://www.ccavenue.com/buyers.jsp
+https://www.ccavenue.com/faq_ccav.jsp
+https://dashboard.ccavenue.com/web/contactUs.do?command=navigateContactUs
+https://www.ccavenue.com/whats_new.jsp
+https://www.ccavenue.com/services.jsp
+https://www.ccavenue.com/associates.jsp
+https://www.ccavenue.com/index_ccav.jsp

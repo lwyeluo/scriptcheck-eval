@@ -1,0 +1,10 @@
+http://114.haoyer.com/html/daxue/
+http://114.haoyer.com/html/youxiang/
+http://114.haoyer.com/html/fangchan/
+http://114.haoyer.com/html/shequ/
+http://haoyer.com/
+http://114.haoyer.com/html/yingjian/
+http://114.haoyer.com/html/nvxing/
+http://114.haoyer.com/html/zhaoshang/
+http://114.haoyer.com/html/xiaohua/
+http://114.haoyer.com/html/jijin/

@@ -1,0 +1,10 @@
+https://products.wolframalpha.com/
+https://www.wolframalpha.com/about/
+http://products.wolframalpha.com/mobile/
+http://products.wolframalpha.com/
+https://www.wolframalpha.com/pro/?src=footer
+https://www.wolframalpha.com/social/
+https://www.wolframalpha.com/contact-us/
+https://products.wolframalpha.com/mobile/
+https://www.wolframalpha.com/
+https://www.wolframalpha.com/about/?lbox=auth-favorites

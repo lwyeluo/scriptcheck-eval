@@ -1,0 +1,10 @@
+https://www.mongodb.com/office-locations
+https://university.mongodb.com
+https://www.mongodb.com/mongodb-architecture
+https://resources.mongodb.com/getting-started-with-mongodb
+https://cloud.mongodb.com/user
+https://www.mongodb.com/pressroom
+https://www.mongodb.com/new
+https://www.mongodb.com/world
+https://www.mongodb.com/mongodb-scale
+https://www.mongodb.com/

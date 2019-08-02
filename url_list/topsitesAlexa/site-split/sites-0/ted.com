@@ -1,0 +1,10 @@
+https://www.ted.com/recommends?exploreCTASource=footer.link
+https://www.ted.com/recommends?exploreCTASource=main-nav.item
+https://www.ted.com/people
+https://www.ted.com/topics
+https://www.ted.com/newsletter
+https://www.ted.com/playlists
+https://www.ted.com/podcasts
+https://www.ted.com/
+https://www.ted.com/talks/dan_gross_why_gun_violence_can_t_be_our_new_normal
+https://www.ted.com/playlists/563/great_stories_for_your_commute

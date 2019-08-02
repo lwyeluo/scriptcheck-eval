@@ -1,0 +1,10 @@
+https://www.baidu.com/
+http://ir.baidu.com
+http://www.baidu.com/more/
+http://v.baidu.com
+https://www.baidu.com/more/
+http://www.baidu.com/duty/
+http://e.baidu.com/?refer=888
+http://xueshu.baidu.com
+http://jianyi.baidu.com/
+http://home.baidu.com

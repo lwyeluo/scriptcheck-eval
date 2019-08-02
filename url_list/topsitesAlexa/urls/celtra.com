@@ -1,0 +1,10 @@
+https://www.celtra.com/
+https://www.celtra.com/platform/
+https://www.celtra.com/contact-us/
+https://www.celtra.com/insights/ad-gallery/
+https://www.celtra.com/insights/case-study/
+https://www.celtra.com/company/
+https://www.celtra.com/advertisers/
+https://www.celtra.com/insights/webinars/
+https://www.celtra.com/insights/blogs/
+http://hub.celtra.com/

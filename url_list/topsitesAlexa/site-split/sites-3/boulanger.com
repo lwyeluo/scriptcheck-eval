@@ -1,0 +1,10 @@
+https://www.boulanger.com/resultats?tr=fitbit#searchinputmode=product
+https://www.boulanger.com/plan
+https://www.boulanger.com/resultats?tr=sony#searchinputmode=product
+https://www.boulanger.com/evenement/braderie
+https://www.boulanger.com/
+https://www.boulanger.com/resultats?tr=devialet#searchinputmode=op
+https://www.boulanger.com/resultats?tr=whirlpool#searchinputmode=product
+https://www.boulanger.com/resultats?tr=bose#searchinputmode=product
+https://www.boulanger.com/resultats?tr=moulinex#searchinputmode=product
+https://www.boulanger.com/resultats?tr=rhinoshield#searchinputmode=op

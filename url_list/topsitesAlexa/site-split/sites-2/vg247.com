@@ -1,0 +1,10 @@
+https://www.vg247.com/tag/fortnite/
+https://www.vg247.com/2019/08/01/borderlands-3-moze-trailer/#comments-section
+https://www.vg247.com/2019/07/30/borderlands-3-video-zane/#comments-section
+https://www.vg247.com/2019/08/01/upgrade-ps4-xbox-one-storage-1-tb-western-digital-external-hard-drive-45/#comments-section
+https://www.vg247.com/2019/07/31/the-surge-2-limb-chopping-upgrades-trailer/#comments-section
+https://www.vg247.com/2019/07/30/super-smash-bros-ultimate-4-0-update/#comments-section
+https://www.vg247.com/tag/resident-evil-2/
+https://www.vg247.com/2019/08/01/fortnite-season-10-opening-cinematic-dusty-depot-returns-possible-new-skins/
+https://www.vg247.com/2019/07/30/red-dead-online-elimination-series-bonus/
+https://www.vg247.com/

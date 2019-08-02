@@ -1,0 +1,10 @@
+https://www.cybersport.ru/videos
+https://www.cybersport.ru/fortnite
+https://www.cybersport.ru/pubg
+https://www.cybersport.ru/about
+https://www.cybersport.ru/bets
+https://www.cybersport.ru/privacy_policy
+https://www.cybersport.ru/league-of-legends
+https://www.cybersport.ru/counter-strike-go
+https://www.cybersport.ru/
+https://www.cybersport.ru/warcraft-iii

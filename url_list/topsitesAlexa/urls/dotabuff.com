@@ -1,0 +1,10 @@
+https://www.dotabuff.com/blog?page=4
+https://www.dotabuff.com/blog
+https://www.dotabuff.com/
+https://www.dotabuff.com/achievements
+https://www.dotabuff.com/blog?page=49
+https://www.dotabuff.com/blog?page=5
+https://cs.dotabuff.com/
+https://zh.dotabuff.com/
+https://www.dotabuff.com/players
+https://ru.dotabuff.com/

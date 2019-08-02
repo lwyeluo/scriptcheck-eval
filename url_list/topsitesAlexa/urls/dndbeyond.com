@@ -1,0 +1,10 @@
+https://www.dndbeyond.com/classes
+https://www.dndbeyond.com/game-rules
+https://www.dndbeyond.com/tools
+https://www.dndbeyond.com/essentials
+https://www.dndbeyond.com/feats
+https://www.dndbeyond.com/vehicles
+https://www.dndbeyond.com/sources#Sourcebooks
+https://www.dndbeyond.com/
+https://www.dndbeyond.com/media
+https://www.dndbeyond.com/creations

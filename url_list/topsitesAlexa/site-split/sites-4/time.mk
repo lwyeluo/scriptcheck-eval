@@ -1,0 +1,10 @@
+https://time.mk/
+https://bih.time.mk/
+https://bih.time.mk
+https://cro.time.mk/
+https://cro.time.mk
+https://sh.time.mk
+https://sh.time.mk/
+https://time.mk
+https://time.mk/st/vesti
+https://bg.time.mk

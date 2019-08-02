@@ -1,0 +1,10 @@
+https://soccer365.ru/profile/98984/
+https://soccer365.ru/profile/186772/
+https://soccer365.ru/competitions/716/
+https://soccer365.ru/competitions/20/
+https://soccer365.ru/profile/147813/
+https://soccer365.ru/profile/161390/
+https://soccer365.ru/
+https://soccer365.ru/video/
+https://soccer365.ru/competitions/13/
+https://soccer365.ru/profile/89329/

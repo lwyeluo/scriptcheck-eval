@@ -1,0 +1,10 @@
+https://www.mathway.com/FiniteMath
+https://www.mathway.com/Statistics
+https://www.mathway.com/PreAlgebra
+https://www.mathway.com/Calculus
+https://www.mathway.com/Precalculus
+https://www.mathway.com/Graph
+https://www.mathway.com/Algebra
+https://www.mathway.com/privacy
+https://www.mathway.com/
+https://www.mathway.com/Chemistry

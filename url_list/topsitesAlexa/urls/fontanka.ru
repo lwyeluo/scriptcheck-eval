@@ -1,0 +1,10 @@
+https://www.fontanka.ru/2019/07/31/074/
+https://www.fontanka.ru/2019/08/01/019/
+https://www.fontanka.ru/allcomments.html
+https://calendar.fontanka.ru/articles/8483/
+https://www.fontanka.ru/
+https://www.fontanka.ru/longreads/vandali_hudozhniki_streetart/
+https://www.fontanka.ru/2019/08/01/035/
+https://park.fontanka.ru/
+https://www.fontanka.ru/longreads/kak_bistro_sdelat_vizu/
+https://www.fontanka.ru/2019/07/31/037/

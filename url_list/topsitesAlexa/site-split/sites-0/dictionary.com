@@ -1,0 +1,10 @@
+https://www.dictionary.com/e/crossword/?param=HP
+https://www.dictionary.com/
+https://www.dictionary.com/e/crossword/
+https://www.dictionary.com/e/s/dictionary-coms-top-10-grammar-tips/#1?param=HP
+https://www.dictionary.com/e/video/dumbledore-video/?param=hp
+https://www.dictionary.com/e/list/word-facts/
+https://www.dictionary.com/e/acronyms/
+https://www.dictionary.com/e/list/acronyms/
+https://www.dictionary.com/e/contact/
+https://www.dictionary.com/e/s/rowling-spells/#the-spells-at-hogwarts?param=HP

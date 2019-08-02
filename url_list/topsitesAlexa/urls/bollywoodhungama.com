@@ -1,0 +1,10 @@
+https://www.bollywoodhungama.com/
+https://www.bollywoodhungama.com/terms/
+https://www.bollywoodhungama.com/celebrity/sara-ali-khan/
+https://www.bollywoodhungama.com/videos/first-day-first-show/judgemental-hai-kya-public-review-first-day-first-show-rajkummar-rao-kangana-ranaut/
+https://www.bollywoodhungama.com/news/features/tiger-shroff-wields-worlds-powerful-machine-gun-war/
+https://www.bollywoodhungama.com/videos/movie-songs/jabariya-jodi-macchardani-sidharth-malhotra-parineeti-chopra/
+https://www.bollywoodhungama.com/videos/first-day-first-show/malaal-movie-review-meezaan-jaffrey-sharmin-segal-sanjay-leela-bhansali-fdfs/
+https://www.bollywoodhungama.com/news/box-office-special-features/box-office-judgemental-hai-kya-day-6-overseas/
+https://www.bollywoodhungama.com/news/bollywood/shilpa-shetty-make-comeback-13-years-abhimanyu-dassani-shirley-setias-nikamma/
+https://www.bollywoodhungama.com/photos/first-look/jabariya-jodi/jabariya-jodi-22/

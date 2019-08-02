@@ -1,0 +1,10 @@
+https://www.drugs.com/omeprazole.html
+https://www.drugs.com/alprazolam.html
+https://www.drugs.com/lipitor.html
+https://www.drugs.com/metformin.html
+https://www.drugs.com/
+https://www.drugs.com/lithium.html
+https://www.drugs.com/methocarbamol.html
+https://blog.drugs.com
+https://www.drugs.com/search.php?searchterm=amlodipine
+https://www.drugs.com/sitemap.html

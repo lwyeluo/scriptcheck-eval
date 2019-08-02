@@ -1,0 +1,10 @@
+https://venturebeat.com/author/kylewiggers/
+https://venturebeat.com/2019/07/31/future-group-affiliate-livquik-partners-with-poynt-to-provide-merchants-across-india-with-powerful-commerce-platform/
+https://venturebeat.com/2008/07/
+https://venturebeat.com/2019/02/
+https://venturebeat.com/2008/08/
+https://jobs.venturebeat.com/
+https://venturebeat.com/2012/01/
+https://venturebeat.com/2011/08/
+https://venturebeat.com/2015/01/
+https://venturebeat.com/

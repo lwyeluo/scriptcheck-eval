@@ -1,0 +1,10 @@
+http://race.sanspo.com/boatrace/news/20190801/btrnws19080121590002-n1.html
+https://www.sanspo.com/flash/newslists/flash-n1.html
+http://race.sanspo.com/keiba/keiba.html
+https://www.sanspo.com/sports/tokushu/sports-t36426.html
+https://www.sanspo.com/rss/rss.html
+https://www.sanspo.com/
+http://race.sanspo.com/
+https://www.sanspo.com/baseball/news/20190729/den19072911340002-n1.html
+http://race.sanspo.com/boatrace/boatrace.html
+https://www.sanspo.com/top.html

@@ -1,0 +1,10 @@
+https://www.bikewale.com
+https://www.bikewale.com/
+https://www.bikewale.com/expert-reviews/
+https://www.bikewale.com/sitemap.aspx
+https://www.bikewale.com/visitoragreement.aspx
+https://www.bikewale.com/contactus.aspx
+https://www.bikewale.com/privacypolicy.aspx
+https://www.bikewale.com/advertisewithus.aspx
+https://www.bikewale.com/aboutus.aspx
+https://www.bikewale.com/used/bikes-in-hyderabad/

@@ -1,0 +1,10 @@
+https://www.directvnow.com/
+https://www.directvnow.com/terms-and-conditions.html
+https://www.directvnow.com/privacy
+https://www.directvnow.com/terms-and-conditions
+https://www.directvnow.com/international
+https://www.directvnow.com/accounts/select-plan
+https://www.directvnow.com/accounts/sign-in
+https://www.directvnow.com
+https://www.directvnow.com/sitemap
+https://www.directvnow.com/customer-service

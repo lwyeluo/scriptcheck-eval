@@ -1,0 +1,10 @@
+https://www.careerbuilder.com/user/register?next=https%3A%2F%2Fwww.careerbuilder.com%2F
+https://www.careerbuilder.com/user/help
+https://www.careerbuilder.com/sitemap.aspx
+https://www.careerbuilder.com/s/talent-networks
+https://hiring.careerbuilder.com
+https://www.careerbuilder.com/
+https://www.careerbuilder.com/insights
+https://hiring.careerbuilder.com/recruiting-solutions
+https://www.careerbuilder.com/salary
+https://www.careerbuilder.com/security-and-fraud

@@ -1,0 +1,10 @@
+https://www.passeidireto.com/blog/
+https://www.passeidireto.com/material-de-estudo
+https://www.passeidireto.com/premium
+https://www.passeidireto.com/livros
+http://vagas.passeidireto.com
+https://www.passeidireto.com/
+https://www.passeidireto.com/termos-de-uso
+https://www.passeidireto.com/material-de-estudo?categoria=4
+https://www.passeidireto.com/privacidade
+https://www.passeidireto.com/material-de-estudo?tipo=2

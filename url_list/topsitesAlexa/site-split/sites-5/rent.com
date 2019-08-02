@@ -1,0 +1,10 @@
+https://www.rent.com/rentals-by-type
+https://www.rent.com/apartments-by-city
+https://www.rent.com/pet-friendly-apartments
+https://www.rent.com/cheap-apartments-for-rent
+https://www.rent.com/
+https://www.rent.com/search-by-state
+https://www.rent.com/off-campus-housing
+https://www.rent.com/sitemap
+https://www.rent.com/manage
+https://www.rent.com/housing-near-military-base

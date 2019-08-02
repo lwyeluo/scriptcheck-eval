@@ -1,0 +1,10 @@
+https://www.diynetwork.com/profiles/talent/vanilla-ice
+https://www.diynetwork.com/
+https://www.diynetwork.com/shows/shows-a-z
+https://www.diynetwork.com/shows/tiny-paradise
+https://www.diynetwork.com/how-to/rooms-and-spaces/kitchen/kitchen-color-design-ideas-pictures
+https://www.diynetwork.com/how-to/maintenance-and-repair/cleaning/10-easy-steps-to-keep-your-air-conditioning-unit-running-smoothl
+https://www.diynetwork.com/profiles/talent/matt-blashaw
+https://www.diynetwork.com/how-to/packages/landscape-design
+https://www.diynetwork.com/profiles/talent/scott-mcgillivray
+https://www.diynetwork.com/shows/the-vanilla-ice-project

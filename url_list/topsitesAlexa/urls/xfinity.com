@@ -1,0 +1,10 @@
+https://www.xfinity.com/support/service-center-locations/
+https://www.xfinity.com/compare/comcast-xfinity-vs-verizon-fios
+https://internetsecurity.xfinity.com/
+https://www.xfinity.com/learn/offers
+https://customer.xfinity.com/#/settings/parental-controls
+https://www.xfinity.com/apps?cmpid=FCST_newHP_footer_apps
+https://my.xfinity.com/?CMP=ILC_myxfinity_xfinity-learn_re
+https://www.xfinity.com/learn/channel-lineup
+https://www.xfinity.com/stream/?cmpid=FCST_footer
+https://www.xfinity.com/

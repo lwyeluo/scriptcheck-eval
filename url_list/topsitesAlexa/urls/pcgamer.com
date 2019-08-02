@@ -1,0 +1,10 @@
+https://www.pcgamer.com/warframes-space-flight-update-lets-you-steal-enemy-ships-and-call-on-other-players-for-ground-support/
+https://www.pcgamer.com/doom-eternal-release-date-trailer-everything-we-know/
+https://www.pcgamer.com/hardware/
+https://www.pcgamer.com/news/
+https://www.pcgamer.com/this-gaming-laptop-with-a-gtx-1660-ti-and-32gb-of-ram-is-down-to-dollar1199/
+https://www.pcgamer.com/teamfight-tactics-is-in-chaos-after-todays-patch-unintentionally-made-some-units-super-strong/
+https://www.pcgamer.com/jalopy-developer-is-making-a-game-where-you-build-stuff-while-getting-drunk/
+https://www.pcgamer.com/forced-role-lock-is-the-dramatic-change-overwatch-league-needed/
+https://www.pcgamer.com/
+https://www.pcgamer.com/about-pc-gamer/

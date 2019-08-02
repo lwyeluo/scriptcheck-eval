@@ -1,0 +1,10 @@
+https://www.mindvalley.com/about/team
+https://www.mindvalley.com/events
+https://www.mindvalley.com/lifebook/online/special?itm_source=mv.com&itm_medium=mv_homepagemv&itm_campaign=evergreen_lbo&itm_content=mv&itm_term=mv
+https://www.mindvalley.com/programs/relationships
+https://www.mindvalley.com/programs/impact
+https://www.trustpilot.com/review/www.mindvalley.com
+https://www.mindvalley.com/
+https://www.mindvalley.com/programs/mind
+https://www.mindvalley.com/reunion/
+https://www.mindvalley.com/programs

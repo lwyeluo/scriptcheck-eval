@@ -1,0 +1,10 @@
+https://9xbuddy.com/supportsupport
+https://9xbuddy.com/
+https://9xbuddy.com/sites
+https://9xbuddy.com/support
+https://9xbuddy.com/pageprivacy
+https://9xbuddy.com/sitessites
+https://9xbuddy.com/sitespageprivacy
+https://9xbuddy.com/sitessupport
+https://9xbuddy.com/sitespageterms
+https://9xbuddy.com/pageterms

@@ -1,0 +1,10 @@
+http://www.fipi.ru/about
+http://www.fipi.ru/sitemap
+http://www.fipi.ru/uslugi
+http://fipi.ru/ege-i-gve-11/itogovoe-sochinenie
+http://www.fipi.ru/content/otkrytyy-bank-zadaniy-oge
+http://www.fipi.ru/documents
+http://www.fipi.ru/oge-i-gve-9
+http://www.fipi.ru/actions
+http://www.fipi.ru/
+http://www.fipi.ru/content/otkrytyy-bank-zadaniy-ege

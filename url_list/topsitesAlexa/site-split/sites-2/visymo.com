@@ -1,0 +1,10 @@
+https://www.visymo.com/#contact
+https://www.visymo.com/#explore
+https://www.visymo.com/privacy
+https://www.visymo.com/#home
+https://www.visymo.com/copyright
+https://www.visymo.com/#jobs
+https://www.visymo.com/
+https://www.visymo.com/#brands
+https://www.visymo.com/#culture
+https://www.visymo.com/disclaimer

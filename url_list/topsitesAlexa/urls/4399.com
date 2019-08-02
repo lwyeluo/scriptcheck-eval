@@ -1,0 +1,10 @@
+http://news.4399.com/tjqy/
+http://my.4399.com/yxdmbj/
+http://kbxz.4399.com/
+http://www.4399.com/
+http://zuopin.4399.com/tuya/
+http://news.4399.com/moshen/
+http://my.4399.com/yxhlw/
+http://news.4399.com/aoyazhiguang/
+http://my.4399.com/yxmhzc/
+http://news.4399.com/wmpy/

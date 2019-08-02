@@ -1,0 +1,10 @@
+http://www.psychologies.ru/story/ya-byi-ni-za-chto-ne-stal-a-vstrechatsya-s-tem-kto/
+http://www.psychologies.ru/tests/test/360/
+http://www.psychologies.ru/tests/test/427/
+http://www.psychologies.ru/articles/kogo-i-pochemu-razdrajayut-kormyaschie-materi/
+http://www.psychologies.ru/tests/test/15/
+http://www.psychologies.ru/wellbeing/14-priznakov-fashizma/
+http://www.psychologies.ru/story/myi-sojaleem-chto-stali-roditelyami-istorii-treh-materey/
+http://www.psychologies.ru/standpoint/vyi-uznali-chto-podruge-izmenyaet-muj-govorit-li-ey-ob-etom/
+http://www.psychologies.ru/tests/test/359/
+http://www.psychologies.ru/

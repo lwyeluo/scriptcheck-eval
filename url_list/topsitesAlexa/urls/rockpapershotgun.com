@@ -1,0 +1,10 @@
+https://www.rockpapershotgun.com/
+https://www.rockpapershotgun.com/2019/07/12/best-pc-gaming-deals-of-the-week-12th-july-2019/
+https://www.rockpapershotgun.com/2019/07/31/teamfight-tactics-9-15-items-cheat-sheet-tft-item-recipes/
+https://www.rockpapershotgun.com/tag/paradox-interactive/
+https://www.rockpapershotgun.com/author/tstone/
+https://www.rockpapershotgun.com/2019/07/30/hitman-3-is-coming-and-io-have-a-new-game-in-the-works-too/
+https://www.rockpapershotgun.com/tag/deals/
+https://www.rockpapershotgun.com/author/dominic-white/
+https://www.rockpapershotgun.com/2019/05/23/total-war-three-kingdoms-graphics-performance-how-to-get-the-best-settings-on-pc/
+https://www.rockpapershotgun.com/support-us?utm_source=header&utm_medium=web&utm_campaign=supporter

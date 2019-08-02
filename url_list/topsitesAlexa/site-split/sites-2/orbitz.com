@@ -1,0 +1,10 @@
+https://www.orbitz.com/lp/deals/exclusive-promo-codes-coupons-discounts
+https://www.orbitz.com/Vacation-Packages
+https://www.orbitz.com/
+https://www.orbitz.com/rewards/
+https://www.orbitz.com/g/lc/traveldeals-top-package-deals-under-500
+https://www.orbitz.com/Flights
+https://www.orbitz.com/Activities
+https://www.orbitz.com/Cars
+https://www.orbitz.com/g/dd/flightdeals-under200
+https://www.orbitz.com/reviews/

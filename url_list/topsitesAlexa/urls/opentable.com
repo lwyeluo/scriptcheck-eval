@@ -1,0 +1,10 @@
+https://www.opentable.com/edmonton-restaurants
+https://www.opentable.com/arkansas/cities
+https://www.opentable.com/iowa/cities
+https://www.opentable.com/m/best-restaurants-in-america-for-2017/
+https://www.opentable.com.au
+https://www.opentable.com/s?latitude=39.9&longitude=116.41&dateTime=2019-08-01T23%3A00%3A06&covers=2&intersperseavailability=true
+https://www.opentable.com/maine/cities
+https://www.opentable.com/
+https://www.opentable.com/los-angeles-restaurants
+https://www.opentable.com/georgia/cities

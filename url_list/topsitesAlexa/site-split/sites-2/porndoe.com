@@ -1,0 +1,10 @@
+https://de.porndoe.com/
+https://porndoe.com/signup?utm_campaign=porndoe&utm_medium=desktop&utm_source=mega_menu_sidebar
+https://porndoe.com/dmca
+https://porndoe.com/trends
+https://porndoe.com/categories?sort=alpha
+https://porndoe.com/categories
+https://porndoe.com/about
+https://porndoe.com/sponsored-channels
+https://porndoe.com/
+https://fr.porndoe.com/

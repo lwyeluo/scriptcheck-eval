@@ -1,0 +1,10 @@
+http://www.spb.aif.ru
+http://www.vlad.aif.ru
+http://www.aif.ru/
+http://www.aif.ru/money/economy/budet_li_v_avguste_devalvaciya_rublya_valyutnyy_prognoz
+http://www.arh.aif.ru
+http://www.aif.ru/realty/utilities/vo_skolko_oboydetsya_strahovanie_zhilya_ot_chrezvychaynyh_situaciy
+http://www.saratov.aif.ru
+http://www.rzn.aif.ru
+http://www.aif.ru/politics/world/sovet_ministrov_lnr_pereimenovali_v_pravitelstvo
+http://www.chv.aif.ru

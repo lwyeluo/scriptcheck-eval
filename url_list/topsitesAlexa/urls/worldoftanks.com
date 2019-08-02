@@ -1,0 +1,10 @@
+https://worldoftanks.com/en/news/premium-shop/30-dpa-g-k-0819/
+https://worldoftanks.com/en/news/clan-wars/fire-trail-announcement/
+http://forum.worldoftanks.com/?link_place=wotp_link_footer
+https://worldoftanks.com/en/news/game-modes/homefront-regulations-0719/
+https://worldoftanks.com/en/news/announcements/moon-race-event-result-0719/#x2xp
+https://worldoftanks.com/
+https://worldoftanks.com/en/news/missions/play-your-tanks-class-right-0819/
+https://worldoftanks.com/en/news/premium-shop/tog-ii-offers-0719/
+https://worldoftanks.com/en/news/premium-shop/panhard-ebr-75-fl-10-offer-0819/
+https://worldoftanks.com/en/news/premium-shop/t-shirt-marathon-0719/

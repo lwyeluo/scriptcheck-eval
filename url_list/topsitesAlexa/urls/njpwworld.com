@@ -1,0 +1,10 @@
+https://njpwworld.com/series
+https://njpwworld.com/guide1
+https://njpwworld.com/law
+https://njpwworld.com/faq
+https://njpwworld.com/
+https://njpwworld.com/termsmember
+https://njpwworld.com/about
+https://njpwworld.com/termsbasic
+https://njpwworld.com/tag
+https://njpwworld.com/privacypolicy

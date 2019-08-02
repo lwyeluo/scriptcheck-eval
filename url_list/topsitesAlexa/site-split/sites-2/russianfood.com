@@ -1,0 +1,10 @@
+https://www.russianfood.com
+https://www.russianfood.com/?page=4
+https://www.russianfood.com/
+https://www.russianfood.com/?page=6
+https://www.russianfood.com/?page=7
+https://www.russianfood.com/?page=8
+https://www.russianfood.com/?page=2
+https://www.russianfood.com/?page=10
+https://www.russianfood.com/?page=3
+https://www.russianfood.com/?page=5

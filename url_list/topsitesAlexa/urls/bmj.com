@@ -1,0 +1,10 @@
+https://www.bmj.com/
+https://www.bmj.com/content/366/bmj.l4831
+https://www.bmj.com/content/366/bmj.l4258
+https://www.bmj.com/education
+https://www.bmj.com/company/?int_source=tbmj&int_medium=footer&int_campaign=URLswitch
+https://www.bmj.com/student
+https://www.bmj.com/collections
+http://bestpractice.bmj.com/
+https://www.bmj.com/wellbeing
+https://www.bmj.com/sitemap

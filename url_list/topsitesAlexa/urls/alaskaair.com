@@ -1,0 +1,10 @@
+https://www.alaskaair.com/schedule?lid=nav:explore-schedules&int=AS_NAV_Explore_Schedules
+https://www.alaskaair.com/content/travel-info/policies/children-infants-and-children?lid=nav:info-infChd
+https://www.alaskaair.com/
+https://www.alaskaair.com/en/sitemap/flights-from-city-to-city/page-1
+https://www.alaskaair.com/car-rental/?clientId=300682
+https://www.alaskaair.com/planbook?lid=form:all-search-options
+https://easybiz.alaskaair.com/signin?lid=footer:easyBiz&int=AS_NAV_Footer_-prodID:EasyBiz
+https://www.alaskaair.com/en/sitemap/flights-from-country-to-country/page-1
+https://www.alaskaair.com/content/airports?lid=TAnav:tvlrinfo-airportguides
+https://www.alaskaair.com/content/mileage-plan/how-to-earn-miles/request-credit?lid=nav:mileage-missingCredit&int=AS_NAV_MP_MissingCredit_-prodID:MileagePlan

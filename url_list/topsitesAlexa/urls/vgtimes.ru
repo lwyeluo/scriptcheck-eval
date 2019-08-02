@@ -1,0 +1,10 @@
+https://vgtimes.ru/games/cyberpunk-2077/
+https://vgtimes.ru/articles/59327-5-glavnyh-otlichiy-minecraft-pocket-edition-ot-pc-versii.html
+https://vgtimes.ru/news/59292-v-steam-vyshla-besplatnaya-demoversiya-futbolnogo-simulyatora-pes-2020.html
+https://vgtimes.ru/news/59279-v-set-utekli-vozmozhnye-oblozhka-i-nazvanie-novoy-need-for-speed.html
+https://vgtimes.ru/crew.html
+https://vgtimes.ru/
+https://vgtimes.ru/news/59321-entuziasty-sdelali-strelbu-v-dzhone-uike-realistichnee-video.html
+https://vgtimes.ru/news/59281-vyshla-esche-odna-udalennaya-scena-iz-mstiteley-final-v-ney-zheleznyy-chelovek-breet-enotu-golovu.html
+https://vgtimes.ru/news/59300-skin-gitlera-v-minecraft-stal-prichinoy-bana-strimera-v-twitch.html
+https://vgtimes.ru/news/57103-seksualnuyu-kler-iz-resident-evil-2-prevratili-v-esche-bolee-seksualnuyu-2b-iz-nier-automata-est-video-i-skrinshoty.html

@@ -1,0 +1,10 @@
+http://www.cnforex.com/school/kecheng/article.aspx?id=40#243
+http://user.cnforex.com/user-info.aspx?uname=sAjdPYFoyRhSmh$OwY26vg__
+http://live.cnforex.com/html/2019/08/d731240db5ba54dacb89ccab152dde14.html
+http://xunjiang.cnforex.com/
+http://www.cnforex.com/
+http://www.cnforex.com/comment/html/2019/8/1/d2a4c98b325ba43af5dd144e9b7c7a29.html
+http://user.cnforex.com/
+http://msvc.cnforex.com/LiveAd
+http://user.cnforex.com/user-info.aspx?uname=UfvH2$ra26hlExz1MyQmOQ__
+http://live.cnforex.com/html/2019/08/9be93611f24b38a8a7cd8ba6f3cd84a3.html

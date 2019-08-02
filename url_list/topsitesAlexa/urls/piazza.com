@@ -1,0 +1,10 @@
+https://piazza.com/professors
+https://piazza.com/professors#jennifer_schwartz
+https://piazza.com/toolkit
+https://piazza.com/professors#slobodan_simic
+https://piazza.com/professors#paul_hegarty
+https://piazza.com/signup
+https://piazza.com/network
+https://recruiting.piazza.com
+https://piazza.com/ctl
+https://piazza.com/

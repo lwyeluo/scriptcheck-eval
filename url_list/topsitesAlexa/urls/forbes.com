@@ -1,0 +1,10 @@
+https://www.forbes.com/industry/
+https://www.forbes.com/forbes-finds/home/
+https://www.forbes.com/sharing-economy/
+https://www.forbes.com/forbes-media/advertising/
+https://www.forbes.com/tips/
+https://www.forbes.com/forbes-live/event/under-30-global-2019/
+https://www.forbes.com/self-made-women/
+https://www.forbes.com/
+https://www.forbes.com/forbes-live/event/2019-cmo-summit-europe/
+https://www.forbes.com/forbes-insights/

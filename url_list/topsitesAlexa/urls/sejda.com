@@ -1,0 +1,10 @@
+https://www.sejda.com/
+https://www.sejda.com/hu
+https://www.sejda.com/tr
+https://www.sejda.com/pl
+https://www.sejda.com/privacy
+https://www.sejda.com/ro
+https://www.sejda.com/id
+https://www.sejda.com/es
+https://www.sejda.com/sv
+https://www.sejda.com/vi

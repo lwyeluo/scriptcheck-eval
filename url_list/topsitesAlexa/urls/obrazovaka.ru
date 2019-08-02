@@ -1,0 +1,10 @@
+https://obrazovaka.ru/himiya
+https://obrazovaka.ru/ochen-kratkoe-soderzhanie/kapitanskaya-dochka.html
+https://obrazovaka.ru/dobavit-biografiyu.html
+https://obrazovaka.ru/user/1357
+https://obrazovaka.ru/
+https://obrazovaka.ru/sochinenie/kapitanskaya-dochka/obraz-pugacheva-v-romane
+https://obrazovaka.ru/chitatelskiy-dnevnik/sudba-cheloveka.html
+https://obrazovaka.ru/chitatelskiy-dnevnik/zhizn-i-vorotnik.html
+https://obrazovaka.ru/register
+https://obrazovaka.ru/testy

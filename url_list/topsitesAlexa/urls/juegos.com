@@ -1,0 +1,10 @@
+https://www.juegos.com/politica-de-privacidad
+https://www.juegos.com/todaslascategorias#habilidad
+https://www.juegos.com/
+https://www.juegos.com/cookie-policy
+https://www.juegos.com/todaslascategorias#multijugadores
+https://www.juegos.com/todaslascategorias#chicas
+https://www.juegos.com/informacion-padres
+https://www.juegos.com/todaslascategorias#simulacion
+https://www.juegos.com/todaslascategorias#puzzle
+https://www.juegos.com/privacy-policy-kids

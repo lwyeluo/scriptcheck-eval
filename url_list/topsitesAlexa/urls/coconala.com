@@ -1,0 +1,10 @@
+https://coconala.com/search?parent_category_id=22&provider_statuses[]=video_service&ref=top_categories
+https://coconala.com/search?parent_category_id=16&provider_statuses[]=video_service&ref=top_categories
+https://legal.coconala.com/bbses/?category_ids%5B%5D=4&cn_device=pc&cn_clicked=ranking_02
+https://coconala.com/curations/2
+https://coconala.com/curations/3
+https://coconala.com/pages/about_enterprise
+https://coconala.com/news/332
+https://coconala.com/
+https://legal.coconala.com/bbses/?category_ids%5B%5D=3&cn_device=pc&cn_clicked=ranking_02
+https://legal.coconala.com/bbses/3685?cn_device=pc&cn_clicked=ranking_02

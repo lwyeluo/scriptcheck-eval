@@ -1,0 +1,10 @@
+https://www.transfermarkt.com/aktuell/waspassiertheute
+https://www.transfermarkt.com.tr/newsletter/index
+https://www.transfermarkt.com/
+https://www.transfermarkt.com/newsletter
+https://www.transfermarkt.com.tr/
+https://www.transfermarkt.com.tr
+https://www.transfermarkt.com/1-bundesliga/marktwertaenderungen/wettbewerb/L1
+https://www.transfermarkt.com.tr/emre-mor/transfers/spieler/283223
+https://www.transfermarkt.com.tr?newsupdate=342174&time=2019-08-01_17-42
+https://www.transfermarkt.com/newsletter/index

@@ -1,0 +1,10 @@
+https://onemagic.dstv.com/show/the-river-tshedza
+https://m-net.dstv.com/show/westworld
+https://www.dstv.com/
+https://campaign.dstv.com/access/
+https://now.dstv.com/LiveTv#sport
+http://guide.dstv.com/
+https://campaign.dstv.com/compactplus/
+https://getdstv.dstv.com/SelectDecoder
+http://marketing.dstv.com/DStv/SA/DStv_Newsletter_Premium_Online.html
+https://now.dstv.com/

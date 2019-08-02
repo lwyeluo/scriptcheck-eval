@@ -1,0 +1,1 @@
+https://www.menshealth.com/

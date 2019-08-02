@@ -1,0 +1,10 @@
+https://www.flexmls.com/
+https://www.flexmls.com/events/
+https://www.flexmls.com/ticket/reset_password
+https://www.flexmls.com
+https://www.flexmls.com/training/
+http://www.flexmls.com/news/
+https://www.flexmls.com/jobs/
+http://www.flexmls.com/jobs/
+https://www.flexmls.com/news/
+http://www.flexmls.com/training/

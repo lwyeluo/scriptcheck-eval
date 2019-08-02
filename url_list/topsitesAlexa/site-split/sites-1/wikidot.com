@@ -1,0 +1,10 @@
+https://www.wikidot.com/plans
+http://shop.wikidot.com
+https://www.wikidot.com/
+https://www.wikidot.com/features
+http://blog.wikidot.com
+https://www.wikidot.com/more:explore-features
+https://www.wikidot.com/more:testimonials
+http://community.wikidot.com
+http://www.wikidot.com/legal:terms-of-service
+https://www.wikidot.com/advertise

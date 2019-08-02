@@ -1,0 +1,10 @@
+https://www.meghdadit.com/Brands
+https://meghdadit.com/productlist/455/
+https://meghdadit.com/productlist/cs.true/s.%d8%a7%d8%b3%da%a9%d9%88%d8%aa%d8%b1/
+https://www.meghdadit.com/
+https://meghdadit.com/productlist/765/
+https://meghdadit.com/productlist/cs.true/s.%d9%88%db%8c%d9%84%da%86%d8%b1/
+https://meghdadit.com/productlist/755/
+https://meghdadit.com/productlist/574/
+https://meghdadit.com/productlist/778/
+https://meghdadit.com/productlist/403/

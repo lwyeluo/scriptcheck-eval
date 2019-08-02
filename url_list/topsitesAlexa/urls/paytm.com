@@ -1,0 +1,10 @@
+https://paytm.com/recharge/airtel-prepaid-mobile-online-recharge
+https://paytm.com/broadband-bill-payment
+https://paytm.com/gas-bill-payment/vadodara-gas-limited-vgl
+https://paytm.com/challan-bill-payment
+https://paytm.com/
+https://paytm.com/about-us/partner-with-us-2/
+https://paytm.com/datacard-recharge/mtnl
+https://paytm.com/landline-bill-payment
+https://paytm.com/apartments-electricity-recharge
+https://paytm.com/water-bill-payment/bhopal-municipal-corporation-water

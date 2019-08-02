@@ -1,0 +1,10 @@
+http://fahrplan.sbb.ch/bin/stboard.exe/dn
+https://www.sbb.ch/de/kaufen/
+https://www.sbb.ch/ticketshop/b2c/pipSchritt_0.do
+https://news.sbb.ch/
+https://www.sbb.ch/
+http://fahrplan.sbb.ch/bin/trainsearch.exe/dn?L=vs_vb&tpl=vb
+https://news.sbb.ch/artikel/91416/nicht-hinschauen-im-zug-mit-pendler-kolumnistin-katja-walder
+https://news.sbb.ch/artikel/91584/sbb-fuehrt-auf-sbb-mobile-einen-sparpreisvergleich-ein
+http://fahrplan.sbb.ch/bin/help.exe/dn?tpl=showmap_external
+https://www.sbb.ch/de/meta/kontakte.html

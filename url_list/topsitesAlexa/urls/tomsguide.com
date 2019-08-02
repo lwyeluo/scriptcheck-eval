@@ -1,0 +1,10 @@
+https://www.tomsguide.com/us/best-4k-ultra-hd-tvs,review-2789.html
+https://www.tomsguide.com/archives
+https://www.tomsguide.com/us/best-iphone-deals,review-5965.html
+https://www.tomsguide.com/
+https://www.tomsguide.com/us/best-antivirus,review-2588.html
+https://www.tomsguide.com/best-picks
+https://www.tomsguide.com/topics/smartphones
+https://www.tomsguide.com/news/samsung-galaxy-watch-active-2-rumors-release-date-price-and-features
+https://www.tomsguide.com/news/galaxy-note-10-will-be-no-match-for-iphone-11-benchmark-shows
+https://www.tomsguide.com/us/zoolz-cloud-backup,review-5404.html

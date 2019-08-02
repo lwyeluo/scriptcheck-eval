@@ -1,0 +1,10 @@
+https://watch.hgtv.com/watch/hgtv?utm_source=marketingsite&utm_medium=sitenavigation
+https://www.hgtv.com/design/rooms/kitchens/99-beautiful-kitchen-island-design-ideas-pictures
+https://www.hgtv.com/design/outdoor-design/landscaping-and-hardscaping/15-before-and-after-curb-appeal-makeovers-pictures
+https://www.hgtv.com/
+https://www.hgtv.com/user-profile-page
+https://www.hgtv.com/shows/how-close-can-i-beach/hgtv-beach-night-gallery-pictures
+https://www.hgtv.com/design/packages/hgtv-magazine
+https://www.hgtv.com/shows/tv-schedule
+https://www.hgtv.com/design/news-and-trends/this-saks-off-5th-sale-is-blowin--our-minds
+https://www.hgtv.com/shows/flip-or-flop

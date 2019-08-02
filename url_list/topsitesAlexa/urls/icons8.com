@@ -1,0 +1,10 @@
+https://icons8.com/icon/82889/info
+https://icons8.com/about
+https://www.icons8.com/
+https://icons8.com/icon/84851/calendar
+https://www.icons8.com/line-awesome
+https://icons8.com/icon/5722/play
+https://icons8.com/paid-license-99
+https://www.icons8.com/icons
+https://icons8.com/app
+https://www.icons8.com/app

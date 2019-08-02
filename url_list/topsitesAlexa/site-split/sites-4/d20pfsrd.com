@@ -1,0 +1,10 @@
+https://www.d20pfsrd.com/magic/spell-lists-and-domains/medium
+https://www.d20pfsrd.com/races/other-races/featured-races/arg-catfolk
+http://www.d20pfsrd.com/magic/spellbooks/
+https://www.d20pfsrd.com/
+https://www.d20pfsrd.com/classes/prestige-classes/apg/nature-warden
+https://www.d20pfsrd.com/classes/core-classes/wizard/familiar
+https://www.d20pfsrd.com/magic-items/magic-armor
+https://www.d20pfsrd.com/gamemastering/other-rules/hero-points
+https://www.d20pfsrd.com/extras/community-creations
+https://www.d20pfsrd.com/races/other-races/featured-races/arg-aasimar

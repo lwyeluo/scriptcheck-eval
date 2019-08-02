@@ -1,0 +1,10 @@
+https://www.rediff.com/sports/report/f1-the-german-grand-prix-was-a-wet-and-wild-epic/20190731.htm
+https://www.rediff.com/getahead/report/health-the-secret-behind-this-bikini-models-super-toned-abs/20190724.htm
+http://careers.rediff.com/jobs/
+http://ishare.rediff.com/video/others/after-40-yr-long-wait-retired-peon-finally-lives-his-chopper-dream/11062688
+https://www.rediff.com/news
+https://www.rediff.com/movies
+http://shopping.rediff.com
+https://www.rediff.com/getahead/report/career-want-to-do-a-pg-diploma-in-cyber-crime-read-on/20190730.htm
+https://www.rediff.com/
+https://www.rediff.com/getahead

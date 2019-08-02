@@ -1,0 +1,10 @@
+https://tinypng.com/developers#area-of-interest-detectiondevelopersreferencenodejs
+https://tinypng.com/developers#area-of-interest-detectionphotoshop
+https://tinypng.com/developers#area-of-interest-detectionterms
+https://tinypng.com/analyzer
+https://tinypng.com/third-party
+https://tinypng.com/
+https://tinypng.com/terms
+https://tinypng.com/photoshop
+https://tinypng.com/developers#area-of-interest-detection
+https://tinypng.com/developers

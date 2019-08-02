@@ -1,0 +1,10 @@
+https://neilpatel.com/es/
+https://neilpatel.com/contact/
+https://neilpatel.com/br/
+https://neilpatel.com/it/
+https://neilpatel.com/
+https://neilpatel.com/backlinks/
+https://neilpatel.com/ubersuggest/
+https://neilpatel.com/seo-analyzer/
+https://neilpatel.com/de/
+https://neilpatel.com/ab-testing-calculator/

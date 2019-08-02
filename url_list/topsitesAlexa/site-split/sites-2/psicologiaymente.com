@@ -1,0 +1,10 @@
+https://psicologiaymente.com/miscelanea/caracteristicas-reino-monera
+https://psicologiaymente.com/organizaciones/como-gestionar-equipo-de-trabajo
+https://psicologiaymente.com/
+https://psicologiaymente.com/social/influencia-television
+https://psicologiaymente.com/empresas/quiero-cambiar-de-trabajo
+https://psicologiaymente.com/autores/bertrand-regader
+https://psicologiaymente.com/entrevistas/barbara-zapico
+https://psicologiaymente.com/neurociencias/celulas-schwann
+https://psicologiaymente.com/autores/laura-ruiz-mitjana
+https://psicologiaymente.com/autores/nahum-montagud

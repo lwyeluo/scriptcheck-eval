@@ -1,0 +1,10 @@
+https://www.directadvert.ru/text/buyers
+https://www.directadvert.ru/password_reminder
+https://www.directadvert.ru/text/help
+https://www.directadvert.ru/blogs
+https://www.directadvert.ru/text/user_agreement
+https://www.directadvert.ru/text/about#vacancies
+https://agent.directadvert.ru/
+https://agent.directadvert.ru/password_reminder
+https://www.directadvert.ru/
+https://www.directadvert.ru/text/offer

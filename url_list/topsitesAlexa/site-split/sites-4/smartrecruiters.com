@@ -1,0 +1,10 @@
+https://www.smartrecruiters.com/resources/landing/whitepaper-idc-marketscape-2019/
+https://help.smartrecruiters.com/
+https://www.smartrecruiters.com/
+https://www.smartrecruiters.com/blog/
+https://www.smartrecruiters.com/resources/landing/equinox-case-study/
+https://www.smartrecruiters.com/hiring-success/?utm_medium=jumbotron_banner
+https://www.smartrecruiters.com/responsibility/
+https://www.smartrecruiters.com/resources/landing/avoiding-the-pitfalls-of-erp-systems-in-talent-acquisition/
+https://www.smartrecruiters.com/resources/landing/tipico-case-study/
+https://www.smartrecruiters.com/hiring-success/americas/

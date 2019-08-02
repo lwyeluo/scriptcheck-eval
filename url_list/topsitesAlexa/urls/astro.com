@@ -1,0 +1,10 @@
+https://www.astro.com/prodpr_ow_partner_e.htm
+https://www.astro.com/oroscopo
+https://www.astro.com/prodpr_ak_e.htm
+https://www.astro.com/edued_mispa_e.htm
+https://www.astro.com/horoscopezh
+https://www.astro.com/
+https://www.astro.com/prodpr_al_e.htm
+https://www.astro.com/astrologyin_special_e.htm
+https://www.astro.com/edued_astrologos_e.htm
+https://www.astro.com/astrologyiam_article190710_e.htm

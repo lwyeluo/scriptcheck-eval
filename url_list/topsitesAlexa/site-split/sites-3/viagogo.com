@@ -1,0 +1,10 @@
+https://www.viagogo.com/selltickets
+https://www.viagogo.com/NYC
+https://www.viagogo.com/about
+https://www.viagogo.com/Amsterdam
+https://www.viagogo.com/psg/
+https://www.viagogo.com/AC-Milan-Tickets
+https://www.viagogo.com/
+https://www.viagogo.com/secure/login?ReturnUrl=/secure/myaccount/CustomerSupport
+https://www.viagogo.com/Paris
+https://www.viagogo.com/affiliates

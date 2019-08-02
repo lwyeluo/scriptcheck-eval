@@ -1,0 +1,10 @@
+https://www.coppel.com/pantalon-skinny-marca-refill-para-hombre-pr-1015832
+https://www.coppel.com/tenis-adidas-duramo-9-color-rosa-para-mujer-pr-8009792
+https://www.coppel.com/preguntas-frecuentes
+https://www.coppel.com/ubicacion-de-tiendas-coppel
+https://www.coppel.com/automotriz
+https://www.coppel.com/SearchDisplay?categoryId=102501&storeId=12251&catalogId=10001&langId=-5&sType=SimpleSearch&resultCatEntryType=2&showResultsPage=true&searchSource=Q&pageView=&beginIndex=0&pageSize=18&searchTerm=CICATRICURE
+https://www.coppel.com/horno-de-microondas-daewoo-de-1-1-ft%C2%B3-pm-6257363
+https://www.coppel.com/flats-negros-girls-attitude-para-nina-pr-8112522
+https://www.coppel.com/thinner
+https://www.coppel.com/

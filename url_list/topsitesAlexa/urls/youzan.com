@@ -1,0 +1,10 @@
+https://www.youzan.com/intro/lincense/medical
+https://www.youzan.com/
+https://www.youzan.com/intro/beauty
+https://open.youzan.com/v3/app/sdk
+https://www.youzan.com/intro/cy
+https://www.youzan.com/intro/ga
+https://open.youzan.com/v3/weapp
+https://www.youzan.com/intro/qudao
+https://account.youzan.com/register
+https://www.youzan.com/intro/protection

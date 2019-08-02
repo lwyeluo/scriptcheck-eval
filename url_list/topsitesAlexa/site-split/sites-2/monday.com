@@ -1,0 +1,10 @@
+https://monday.com/jobs
+https://monday.com/pricing
+https://monday.com/integrations
+https://monday.com/
+https://monday.com/about
+https://monday.com/why-monday
+https://monday.com/partnership
+https://auth.monday.com/login
+https://monday.com/enterprise
+https://monday.com/help

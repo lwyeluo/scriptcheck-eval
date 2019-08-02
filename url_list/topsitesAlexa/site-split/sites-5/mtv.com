@@ -1,0 +1,10 @@
+http://www.mtv.com/shows/jersey-shore-family-vacation
+http://www.mtv.com/news/collection/mtv-shows/
+http://www.mtv.com/shows
+http://www.mtv.com/vma/vote/best-pop
+http://www.mtv.com/video-clips/q6bvfj/the-hills-new-beginnings-mischa-and-ashley-give-their-opinions-on-the-drama
+http://www.mtv.com/news/3133401/nick-jonas-priyanka-chopra-kids/
+http://www.mtv.com/shows/ridiculousness
+http://www.mtv.com/news/politics/
+http://www.mtv.com/
+http://www.mtv.com/legal/privacy

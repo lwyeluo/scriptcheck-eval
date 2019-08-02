@@ -1,0 +1,10 @@
+https://es.bravoporn.com/
+https://www.bravoporn.com/terms.php
+https://www.bravoporn.com/contentprogram.php
+https://es.bravoporn.com/terms.php
+https://www.bravoporn.com/
+https://es.bravoporn.com/2257.php
+https://www.bravoporn.com/privacy.php
+https://www.bravoporn.com/support.php
+https://www.bravoporn.com/2257.php
+https://www.bravoporn.com/dmca.php

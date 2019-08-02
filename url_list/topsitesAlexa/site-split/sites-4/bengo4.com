@@ -1,0 +1,10 @@
+https://career.bengo4.com/
+https://corporate.bengo4.com/
+https://www.bengo4.com/c_23/n_9942/
+https://www.bengo4.com/c_1009/n_9941/
+https://www.bengo4.com/static/announce/2/
+https://www.bengo4.com/c_23/n_9939/
+https://www.bengo4.com/c_5/n_9949/
+https://www.bengo4.com/topics
+https://www.bengo4.com/
+https://business.bengo4.com/

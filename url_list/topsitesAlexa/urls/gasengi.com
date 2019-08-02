@@ -1,0 +1,10 @@
+https://www.gasengi.com/fan_village.php
+https://www.gasengi.com/community.php
+http://www.gasengi.com/main/write.php?bo_table=aaaa
+http://www.gasengi.com/main/write.php?bo_table=mantoman
+https://www.gasengi.com/dong.php
+http://www.gasengi.com
+https://www.gasengi.com/
+https://www.gasengi.com:443/main/login.php
+https://www.gasengi.com/sports.php
+https://www.gasengi.com/react.php

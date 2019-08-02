@@ -1,0 +1,10 @@
+https://www.dollskill.com/theblingtour
+https://www.dollskill.com/beauty-products
+https://www.dollskill.com/meet-the-squad
+https://www.dollskill.com/checkout/cart/
+https://www.dollskill.com/hott-in-stock.html
+https://www.dollskill.com/whats-new.html
+https://www.dollskill.com/about/
+https://www.dollskill.com/clearance.html
+https://www.dollskill.com/
+https://www.dollskill.com/vintage-clothing-accessories.html

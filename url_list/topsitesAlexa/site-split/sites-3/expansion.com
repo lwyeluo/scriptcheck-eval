@@ -1,0 +1,10 @@
+https://www.expansion.com/mercados/2019/07/31/5d41c10c468aeb883e8b46fb.html
+https://www.expansion.com/mercados/cronica-bolsa.html?intcmp=MENUHOM24101&s_kw=cronica
+https://www.expansion.com/mercados/cotizaciones/indices/ibextotalreturn_I.NDJ.html
+https://www.expansion.com/registro/registro-proteccion-datos.html
+https://www.expansion.com/blogs/prisma-bursatil/
+https://www.expansion.com/blogs/solo-brexit/2019/07/31/la-libra-hacia-su-minimo-historico.html
+https://www.expansion.com/atencioncliente/
+https://www.expansion.com/empresas/banca/2019/07/31/5d41d6a2e5fdea795f8b4661.html#ancla_comentarios
+https://www.expansion.com/empresas/inmobiliario.html?intcmp=MENUHOM24101&s_kw=inmobiliario
+https://www.expansion.com/

@@ -1,0 +1,10 @@
+https://www.softpedia.com/hubs/Audio-Plugins/
+https://news.softpedia.com/news/microsoft-announces-new-windows-10-reinstall-option-526917.shtml
+https://www.softpedia.com/user/contact.php
+https://www.softpedia.com/
+https://www.softpedia.com/get/Office-tools/Other-Office-Tools/VNote-tamlok.shtml
+https://mobile.softpedia.com/apk/developer/lyrebird-studio-1947
+https://news.softpedia.com/news/importing-data-from-other-browsers-to-chromium-microsoft-edge-526920.shtml
+https://mobile.softpedia.com/apk/xabber/2.6.4%2528634%2529/
+https://mobile.softpedia.com/apk/monkey/3.2.7/
+https://linux.softpedia.com/

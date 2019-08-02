@@ -1,0 +1,10 @@
+https://prsteel.blogsky.com/1398/05/10/post-42/نکاتی-درخصوص-تاسیس-رستوران
+https://www.blogsky.com/login
+https://www.blogsky.com/posts
+https://daddy-long-legs.blogsky.com/1398/05/10/post-1486/زبون-نفهمِ-خر-
+https://www.blogsky.com/
+https://www.blogsky.com/about
+https://idanito.blogsky.com/1398/05/10/post-341/مخزن-آب
+https://www.blogsky.com/terms
+https://www.blogsky.com/ads
+https://danisadogh.blogsky.com/1398/05/10/post-540/طرز-تهیه-سه-نوع-کباب-معروف-ایرانی

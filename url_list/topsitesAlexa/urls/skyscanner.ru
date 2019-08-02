@@ -1,0 +1,10 @@
+https://www.skyscanner.ru/car-hire-in/car-hire-in-anapa/27536417.html
+https://www.skyscanner.ru/flights-to/sip/cheap-flights-to-simferopol-airport.html
+https://www.skyscanner.ru/car-hire-in/car-hire-in-bourgas/27539518.html
+https://www.skyscanner.ru/car-hire-in/car-hire-in-tivat/27547188.html
+https://www.skyscanner.ru/?market=RU&locale=ru-RU
+https://www.skyscanner.ru/
+https://www.skyscanner.ru/hotels/spain/barcelona-hotels/ci-27548283
+https://www.skyscanner.ru/flights-to/lca/cheap-flights-to-larnaca-airport.html
+https://www.skyscanner.ru/car-hire-in/car-hire-in-moscow/27539438.html
+https://www.skyscanner.ru/car-hire-in/car-hire-in-larnaca/27543994.html

@@ -1,0 +1,10 @@
+http://blog.venmo.com/2018/1/instant-bank-transfers
+https://venmo.com/business
+http://blog.venmo.com
+http://blog.venmo.com/search
+https://venmo.com/team
+http://blog.venmo.com?offset=1445437011862
+https://venmo.com/card
+https://help.venmo.com/hc/en-us/articles/217042898
+https://venmo.com/
+https://venmo.com/jobs

@@ -1,0 +1,10 @@
+https://www.pacsun.com/
+https://www.pacsun.com/pacsun/black-raining-daisy-high-waisted-straight-leg-jeans-0860103680303.html
+https://www.pacsun.com/unidays.html
+https://www.pacsun.com/content/brandy-melville.html
+https://www.pacsun.com/account
+https://www.pacsun.com/company/terms-of-use.html
+https://www.pacsun.com/pacsun/solid-17-swim-trunks-0150250500069.html
+https://www.pacsun.com/adidas/mens/
+https://www.pacsun.com/company/social-responsibility.html
+https://www.pacsun.com/content/site-map.html

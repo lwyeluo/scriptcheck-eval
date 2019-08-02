@@ -1,0 +1,10 @@
+https://www.moviefone.com/movie/pokemon-detective-pikachu/Sk68gc0vhwucAnahCFIAD6/showtimes/
+https://www.moviefone.com/places/los-angeles-california/
+https://www.moviefone.com/movie/pavarotti/t2yGtxnt7jjMf0HhuY7kq4/main/
+https://www.moviefone.com/places/chicago-illinois/
+https://www.moviefone.com/movie/late-night/DkMccyME3wLMv30HCohbx2/showtimes/
+https://www.moviefone.com/movie/childs-play/j9zF63rMZD3jvvmBkblKV6/showtimes/
+https://www.moviefone.com/new-on-netflix/
+https://www.moviefone.com/movie/crawl/kU7g16mIhZunJoHn1kqAP6/main/
+https://www.moviefone.com/movie/godzilla-king-of-the-monsters/3sXLGxVaF4yKfFhDldGQF2/main/
+https://www.moviefone.com/

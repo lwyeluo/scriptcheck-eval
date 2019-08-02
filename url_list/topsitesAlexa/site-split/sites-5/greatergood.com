@@ -1,0 +1,10 @@
+https://store.greatergood.com/collections/381-bags?gg_source=GGC&gg_medium=house&gg_campaign=left-nav
+https://theautismsite.greatergood.com/clicktogive/aut/home?gg_source=footer&gg_medium=footer&gg_campaign=GGC
+https://thehungersite.greatergood.com/clickToGive/ths/take-action?gg_source=topnav&gg_medium=topnav&gg_campaign=GGC
+https://store.greatergood.com/collections/465-car?gg_source=GGC&gg_medium=house&gg_campaign=left-nav
+https://store.therainforestsite.greatergood.com?gg_source=footer&gg_medium=footer&gg_campaign=GGC
+https://greatergood.com/
+https://thebreastcancersite.greatergood.com/clickToGive/bcs/home?gg_source=ctgcontent&gg_medium=aboutus&gg_campaign=GGC
+https://store.greatergood.com/collections/367-necklaces?gg_source=GGC&gg_medium=house&gg_campaign=left-nav
+https://greatergood.com
+https://store.greatergood.com/collections/3052-outwear-accessories?gg_source=GGC&gg_medium=house&gg_campaign=left-nav

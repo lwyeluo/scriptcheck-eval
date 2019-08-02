@@ -1,0 +1,10 @@
+https://www.travelandleisure.com/travel-news
+https://www.travelandleisure.com/check-in
+https://www.travelandleisure.com/trip-ideas/bus-train
+https://www.travelandleisure.com/travel-tips/mobile-apps
+https://www.travelandleisure.com/operation-vacation
+https://www.travelandleisure.com/cruises/river-cruises
+https://www.travelandleisure.com/
+https://www.travelandleisure.com/htmlsitemap
+https://www.travelandleisure.com/trip-ideas/solo-travel
+https://www.travelandleisure.com/food-drink/cocktails-spirits

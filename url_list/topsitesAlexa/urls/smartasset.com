@@ -1,0 +1,10 @@
+https://smartasset.com/captivate
+https://smartasset.com/unsubscribe
+https://smartasset.com/press
+https://smartasset.com/blog
+https://smartasset.com/search
+https://smartasset.com/privacy
+https://smartasset.com/about
+https://smartasset.com/
+https://smartasset.com/careers
+https://smartasset.com/terms

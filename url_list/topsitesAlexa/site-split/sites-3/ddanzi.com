@@ -1,0 +1,10 @@
+http://www.ddanzi.com/
+http://market.ddanzi.com/
+http://www.ddanzi.com/doctu
+http://market.ddanzi.com/shop/view.php?index_no=111860353&cate=0B
+http://www.ddanzi.com/hot_all
+http://www.ddanzi.com/free
+http://www.ddanzi.com/blogs
+http://www.ddanzi.com/best_all
+http://www.ddanzi.com/marketplace
+http://www.ddanzi.com/index.php?mid=index&m=1

@@ -1,0 +1,10 @@
+https://www.taboola.com/privacy-policy
+https://www.taboola.com/it
+https://www.taboola.com/ja
+https://sdk.taboola.com/
+https://www.taboola.com/zh-hans
+https://pubhelp.taboola.com/hc/en-us
+https://www.taboola.com/fr
+https://www.taboola.com/publishers
+https://www.taboola.com/
+https://marketing-partners.taboola.com/?int_source=footer_{taboola.com}

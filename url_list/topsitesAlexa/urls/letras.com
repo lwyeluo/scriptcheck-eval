@@ -1,0 +1,9 @@
+https://www.letras.com/faq.html
+https://www.letras.com/playlists.html
+https://www.letras.com/playlists/992834/
+https://www.letras.com/aviso-legal.html
+https://www.letras.com/regras.html
+https://www.letras.com/lancamentos.html
+https://www.letras.com/
+https://www.letras.com/perfil_musical.html
+https://www.letras.com/novidades.html

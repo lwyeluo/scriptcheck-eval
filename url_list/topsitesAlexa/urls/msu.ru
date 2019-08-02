@@ -1,0 +1,10 @@
+https://conf.msu.ru/rus/event/5506/
+https://conf.msu.ru/rus/event/5721/
+https://conf.msu.ru/rus/event/3800/
+https://conf.msu.ru/rus/event/5614/
+https://conf.msu.ru/rus/event/5717/
+https://conf.msu.ru/rus/event/5761/
+https://conf.msu.ru/rus/event/3801/
+https://www.msu.ru/
+https://conf.msu.ru/rus/event/5738/
+https://conf.msu.ru/rus/event/5728/

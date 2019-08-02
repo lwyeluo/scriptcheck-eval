@@ -1,0 +1,10 @@
+https://www.factorio.com/contact
+https://www.factorio.com/content
+https://www.factorio.com/privacy-policy
+https://www.factorio.com/imprint
+https://www.factorio.com/support-overview
+https://www.factorio.com/community
+https://www.factorio.com/buy
+https://www.factorio.com/screenshots
+https://www.factorio.com/help
+https://www.factorio.com/

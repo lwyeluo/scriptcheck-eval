@@ -1,0 +1,10 @@
+https://play.nintendo.com/parents/
+https://events.nintendo.com/roadtrip/
+https://smashbros.nintendo.com/buy/dlc/
+https://careers.nintendo.com/
+https://astralchain.nintendo.com/
+https://www.nintendo.com/consumer/retail/retail_retailers.jsp
+https://www.nintendo.com/
+https://www.nintendo.com/nintendo-direct/
+https://fireemblem.nintendo.com/three-houses/
+https://dragonquest.nintendo.com/builders2/

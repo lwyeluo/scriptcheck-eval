@@ -1,0 +1,10 @@
+https://www.mlb.com/sponsorship
+https://www.mlb.com/whitesox
+https://www.mlb.com/starting-lineups
+http://mlb.mlb.com/mlb/fantasy/injuries/
+https://www.mlb.com/
+http://mlb.mlb.com/fan_forum/podcasts/index.jsp?c_id=mlb&podcast=mlbn_play_ball
+https://www.mlb.com/live-stream-games/subscribe?&affiliateId=MEGAMENU
+https://www.mlb.com/all-star
+https://www.mlb.com/schedule/events#important-dates
+https://www.mlb.com/states-play

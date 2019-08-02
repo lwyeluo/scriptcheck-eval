@@ -1,0 +1,10 @@
+https://www.shopclues.com/footwear-womens-flats.html
+http://www.shopclues.com/safety-locks-and-straps.html
+http://www.shopclues.com/network-data-card.html
+http://www.shopclues.com/home-theater-systems.html
+https://www.shopclues.com/headset-mic.html
+https://www.shopclues.com/automotive-car-accessories.html
+https://www.shopclues.com/
+http://www.shopclues.com/user-agreement.html
+http://www.shopclues.com/automotive-interior-accessories-car-perfumes-and-fresheners.html
+http://www.shopclues.com/fashion.html

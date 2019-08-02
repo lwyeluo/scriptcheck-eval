@@ -1,0 +1,10 @@
+https://www.finishline.com/adidas-originals?mnid=adidasoriginals
+https://www.finishline.com/adidas-boost?icid=LP_HP_footer_SEO_adidasboost
+https://www.finishline.com/waist-packs?icid=GL_accessoriesnav_P2_waistpacks_SP
+https://www.finishline.com/store/90s-styles?mnid=BTS19_hotrightnow_90s
+https://www.finishline.com/new-balance-shoes?mnid=newbalanceshoes
+https://www.finishline.com/nike-air-force-1?icid=LP_HP_footer_SEO_nikeairforceone
+https://www.finishline.com/jordan-retro-shoes?icid=LP_HP_HSPromo1_retro4_LFS
+https://www.finishline.com/
+https://www.finishline.com/converse-shoes?mnid=converseshoes
+https://www.finishline.com/store/adidas-boost?mnid=BTS19_hotrightnow_adidasboost

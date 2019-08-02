@@ -1,0 +1,10 @@
+https://www.fark.com/goto/10510406/www.theguardian.com/world/2019/jul/31/british-student-dies-in-madagascar-after-falling-from-plane%3F
+https://www.fark.com/goto/10510490
+https://www.fark.com/goto/10510706/www.1011now.com/content/news/LPD-Lincoln-woman-arrested-after-exposing-chest-to-drivers-513442241.ht
+https://www.fark.com/top/source-topic/
+https://www.fark.com/goto/10511114
+https://www.fark.com/goto/10509581
+https://www.fark.com/comments/10510933/The-only-sensible-way-to-win-an-argument-is-to-steal-a-bulldozer-destroy-other-persons-front-porch
+https://www.fark.com/geek/
+https://www.fark.com/comments/5
+https://www.fark.com/

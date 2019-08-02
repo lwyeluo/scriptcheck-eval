@@ -1,0 +1,10 @@
+https://www.boohoo.com/womens/dresses/evening-dresses
+https://www.boohoo.com/womens/petite-clothing
+https://www.boohoo.com/mens/collections/neon
+https://www.boohoo.com/
+https://www.boohoo.com/womens/shoes/wide-fit-shoes
+https://www.boohoo.com/womens/plus-size-curve-clothing/plus-curve-maxi-dresses
+https://www.boohoo.com/womens/sale/coats-jackets
+https://www.boohoo.com/womens/looks/power-glam
+https://www.boohoo.com/page/privacy-notice.html
+https://www.boohoo.com/womens/suits-separates

@@ -1,0 +1,10 @@
+http://www.loveradio.ru/biglove_poll.htm
+http://www.loveradio.ru/horoscope.htm#leo
+http://www.loveradio.ru/horoscope.htm#scorpio
+http://www.loveradio.ru/horoscope.htm#virgo
+http://www.loveradio.ru/r_news.htm
+http://www.loveradio.ru/horoscope.htm#capricorn
+http://www.loveradio.ru/news.htm
+http://www.loveradio.ru/biglove_chart.htm
+http://www.loveradio.ru/djs.htm
+http://www.loveradio.ru/

@@ -1,0 +1,10 @@
+https://www.retailmenot.com/cashback
+https://rxsaver.retailmenot.com/?utm_source=retailmenot.com&utm_medium=referral&utm_campaign=global_navpill-identifier
+https://www.retailmenot.com/corp/
+https://www.retailmenot.com/genie?utm_campaign=explore_menu
+https://rxsaver.retailmenot.com/?utm_source=retailmenot.com&utm_medium=referral&utm_campaign=global_nav
+https://www.retailmenot.com/corp/careers/
+https://www.retailmenot.com/blog/
+https://www.retailmenot.com/
+https://secure.retailmenot.com/accounts/login?returnTo=https%3A%2F%2Fwww.retailmenot.com%2F%2F
+https://www.retailmenot.com/giftcards

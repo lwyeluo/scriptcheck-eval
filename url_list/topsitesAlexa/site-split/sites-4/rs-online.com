@@ -1,0 +1,10 @@
+https://hkcn.rs-online.com/web/
+https://jp.rs-online.com/web/
+https://th.rs-online.com/web/
+https://befr.rs-online.com/web/
+https://dk.rs-online.com/web/
+https://www.rs-online.com/
+https://au.rs-online.com/web/
+https://ph.rs-online.com/web/
+https://kr.rs-online.com/web/
+https://fr.rs-online.com/web/

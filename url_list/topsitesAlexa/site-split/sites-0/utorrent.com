@@ -1,0 +1,10 @@
+http://help.utorrent.com
+https://download-new.utorrent.com/endpoint/utweb/track/beta/os/win
+https://cryptopayments.utorrent.com/checkout/?add-to-cart=14
+https://download-new.utorrent.com/endpoint/utweb/track/stable/os/win
+https://store.utorrent.com/849/purl-utproweb?x-source=utpro-homepage-bottom-utweb
+https://www.utorrent.com/remote
+https://store.utorrent.com/849/purl-utafwebw?x-source=utaf-homepage-bottom-utweb
+https://www.utorrent.com/
+https://www.utorrent.com/pro?x-source=utpro-navbar
+https://cryptopayments.utorrent.com/checkout/?add-to-cart=19

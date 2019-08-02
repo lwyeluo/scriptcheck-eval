@@ -1,0 +1,10 @@
+https://gyazo.com/tour
+https://gyazo.com/ja
+https://gyazo.com/gdpr
+https://gyazo.com/contact
+https://gyazo.com/pricing
+https://gyazo.com/
+https://gyazo.com/assets
+https://gyazo.com/teams
+https://gyazo.com/api
+https://gyazo.com/de

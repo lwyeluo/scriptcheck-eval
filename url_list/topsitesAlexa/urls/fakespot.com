@@ -1,0 +1,10 @@
+https://www.fakespot.com/about
+https://www.fakespot.com
+https://www.fakespot.com/privacy-policy
+https://www.fakespot.com/posts
+https://www.fakespot.com/press
+https://www.fakespot.com/blog
+https://www.fakespot.com/top-products
+https://www.fakespot.com/
+https://www.fakespot.com/terms
+https://www.fakespot.com/careers

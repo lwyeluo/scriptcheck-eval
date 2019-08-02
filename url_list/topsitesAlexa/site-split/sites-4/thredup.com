@@ -1,0 +1,10 @@
+https://www.thredup.com/contact
+https://www.thredup.com/
+https://www.thredup.com/summershop
+https://www.thredup.com/go
+https://www.thredup.com/bg
+https://www.thredup.com/bingo-2019
+https://help.thredup.com/en_us/what-countries-do-you-ship-to-r1iBeINpN
+https://www.thredup.com/sitemap
+https://www.thredup.com/resale
+https://www.thredup.com/chooseused

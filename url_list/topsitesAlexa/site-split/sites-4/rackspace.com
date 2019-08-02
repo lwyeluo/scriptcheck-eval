@@ -1,0 +1,10 @@
+https://www.rackspace.com/erp
+https://www.rackspace.com/application-services
+https://www.rackspace.com/
+https://www.rackspace.com/managed-alibaba-cloud
+https://blog.rackspace.com/rackspace-we-dont-warehouse-shoes-or-sell-linens
+https://blog.rackspace.com
+https://blog.rackspace.com/fedramp-transformational-change-in-federal-government
+https://www.rackspace.com/partners
+https://www.rackspace.com/security
+https://www.rackspace.com/why-rackspace

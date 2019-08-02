@@ -1,0 +1,10 @@
+http://www.jzb.com/bbs/xz/
+http://www.jzb.com/bbs/gz/
+http://www.jzb.com/bbs/lf/
+http://www.jzb.com/bbs/zz/
+http://www.jzb.com/bbs/yt/
+http://www.jzb.com/bbs/lz/
+http://www.jzb.com/bbs/sjz/
+http://www.jzb.com/bbs/nt/
+http://www.jzb.com/bbs/fs/
+http://www.jzb.com/

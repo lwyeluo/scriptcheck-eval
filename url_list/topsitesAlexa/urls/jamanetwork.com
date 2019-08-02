@@ -1,0 +1,10 @@
+https://jamanetwork.com/journals/jamasurgery/newonline
+https://jamanetwork.com/journals/jamapediatrics
+https://jamanetwork.com/
+https://sites.jamanetwork.com/colon-cancer-screening/
+https://sites.jamanetwork.com/genetics/
+https://careers.jamanetwork.com/
+https://jamanetwork.com/journals/jamanetworkopen/currentissue
+https://jamanetwork.com/journals/jamafacialplasticsurgery/newonline
+https://jamanetwork.com/journals/jama/currentissue
+https://jamanetwork.com/journals/jamadermatology/newonline

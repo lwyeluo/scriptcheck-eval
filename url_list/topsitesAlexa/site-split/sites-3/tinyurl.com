@@ -1,0 +1,10 @@
+https://tinyurl.com/#link
+https://tinyurl.com/#terms
+https://tinyurl.com
+https://tinyurl.com/#linkcdn-cgilemail-protection#681b1d1818071a1c281c0106111d1a04460b0705
+https://tinyurl.com/#example
+https://tinyurl.com/preview.php
+https://tinyurl.com/
+https://tinyurl.com/privacy.php
+https://tinyurl.com/#toolbar
+https://tinyurl.com/#redirect

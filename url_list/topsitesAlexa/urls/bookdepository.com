@@ -1,0 +1,10 @@
+https://www.bookdepository.com/bestsellers
+https://www.bookdepository.com/bedtime-reading
+https://www.bookdepository.com/gift-guides
+https://www.bookdepository.com/contactus
+https://www.bookdepository.com/lego
+https://www.bookdepository.com/joe-wicks
+https://www.bookdepository.com/adult-colouring-books
+https://www.bookdepository.com/annuals-2019
+https://www.bookdepository.com/
+https://www.bookdepository.com/minecraft

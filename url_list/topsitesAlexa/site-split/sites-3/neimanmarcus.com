@@ -1,0 +1,10 @@
+https://www.neimanmarcus.com/c/Last-Call-Sale-Jewelry-Accessories-cat74260761?icid=drawer_LastCallSale_062619
+https://www.neimanmarcus.com/c/Sale-New-Markdowns-cat58760731?icid=hp_bnr1_BADressSale_072919
+https://www.neimanmarcus.com/c/Last-Call-Sale-Home-cat74260760?icid=drawer_LastCallSale_062619
+https://www.neimanmarcus.com/c/Shoes-All-Designer-Shoes-Sneakers-cat36450731?icid=hp_row4_50c_Sneakers_071919&priorityProdId=prod218350433
+https://www.neimanmarcus.com/c/New-Now-One-Day-Sale-cat62640759?icid=hp_bnr3__OneDaySale_073119
+https://www.neimanmarcus.com/
+https://www.neimanmarcus.com/c/designers-dyson-cat63500750?icid=d_Beauty_Dyson_07152019
+https://www.neimanmarcus.com/c/Designers-Dolce-Gabbana-Handbags-cat40080755?icid=hp_row1_100c_DolceGabbana_073119
+https://www.neimanmarcus.com/c/Shoes-All-Designer-Shoes-Boots-cat45140734?icid=hp_row1_100b_Boots_073119&priorityProdId=prod224130038%2Cprod224130074%2Cprod224130078
+https://www.neimanmarcus.com/c/jewelry-accessories-all-jewelry-cat50910737?icid=hp_row2_33a_Jewelry_073119&PriorityProdId=prod217530634%2Cprod222220243%2Cprod222210031%2Cprod220600291%2Cprod222210035

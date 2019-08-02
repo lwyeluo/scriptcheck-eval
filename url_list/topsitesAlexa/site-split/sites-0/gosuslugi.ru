@@ -1,0 +1,10 @@
+https://www.gosuslugi.ru/10003?from=main
+https://www.gosuslugi.ru/situation/birth/child_residence_registration
+https://www.gosuslugi.ru/10051?from=main
+https://www.gosuslugi.ru/situation/kak_otkryt_svoe_delo/OOO/porjadok_registracii_OOO
+https://www.gosuslugi.ru/help/faq/popular/2395
+https://www.gosuslugi.ru/informationnews2019_06_24_payment_of_fines_by_card_MIR
+https://www.gosuslugi.ru/helpfaqroditeli_i_deti21
+https://www.gosuslugi.ru/10059?from=main
+https://www.gosuslugi.ru/helpfaqvoprosy_po_oplate2421
+https://www.gosuslugi.ru/

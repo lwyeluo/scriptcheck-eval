@@ -1,0 +1,10 @@
+https://www.ixl.com
+https://www.ixl.com/contact
+https://www.ixl.com/
+https://br.ixl.com
+https://ca.ixl.com
+https://de.ixl.com
+https://in.ixl.com
+https://sg.ixl.com
+https://www.ixl.com/signin
+https://www.ixl.com/privacypolicy

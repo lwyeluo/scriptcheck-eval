@@ -1,0 +1,10 @@
+https://www.digitaltrends.com/
+https://www.digitaltrends.com/mobile/best-iphone-games/
+https://www.digitaltrends.com/cool-tech/best-drones/
+https://www.digitaltrends.com/movies/best-shows-on-hulu/
+https://www.digitaltrends.com/how-to/
+https://www.digitaltrends.com/mobile/best-smartphones/
+https://www.digitaltrends.com/home-theater/best-tvs/
+https://www.digitaltrends.com/troubleshooting-earth/
+https://www.digitaltrends.com/tablet-reviews/samsung-galaxy-tab-s6-review/
+https://www.digitaltrends.com/users/rglon/

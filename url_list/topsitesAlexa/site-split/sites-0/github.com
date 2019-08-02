@@ -1,0 +1,10 @@
+https://enterprise.github.com/trial
+https://github.com/features#code-hosting
+https://github.com/trending
+https://github.com/security
+https://github.com/join?plan=business&setup_organization=true&source=home
+https://github.com/
+https://github.com/login
+https://lab.github.com/
+https://github.com/contact
+https://github.com/about

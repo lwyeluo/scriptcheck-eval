@@ -1,0 +1,10 @@
+http://ent.zdface.com/starlib/index.html
+http://fashion.zdface.com/mxcb/rd/2019-07-30/818436.shtml
+http://tech.zdface.com/qyjs/zxcjxm/zyd/2019-06-10/797777.shtml
+http://astro.zdface.com/xzcs/xzxw/2017-05-03/400477.shtml
+http://www.zdface.com/
+http://www.zdface.com/html/about/ad.html
+http://hair.zdface.com/zfrd/zxfx/2018-09-18/750650.shtml
+http://fashion.zdface.com/cldp/lxdp/2017-03-08/348642.shtml
+http://fashion.zdface.com/sjs/2017-05-04/401462.shtml
+http://labs.zdface.com/hfppc/2018-07-26/700804.shtml

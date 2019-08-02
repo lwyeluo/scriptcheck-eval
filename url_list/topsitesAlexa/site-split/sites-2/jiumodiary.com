@@ -1,0 +1,10 @@
+https://www.jiumodiary.com/
+https://app.yinxiang.com/clip.action?url=http%3A%2F%2Fwww.jiumodiary.comRegistration.actionForgotPassword.action
+https://app.yinxiang.com/clip.action?url=http%3A%2F%2Fwww.jiumodiary.comRegistration.actionRegistration.action
+http://service.weibo.com/share/share.php?url=http%3A%2F%2Fwww.jiumodiary.com&searchPic=true
+https://app.yinxiang.com/clip.action?url=http%3A%2F%2Fwww.jiumodiary.comaboutlearn_more
+https://app.yinxiang.com/clip.action?url=http%3A%2F%2Fwww.jiumodiary.comForgotPassword.actionaboutlearn_more
+https://app.yinxiang.com/clip.action?url=http%3A%2F%2Fwww.jiumodiary.comRegistration.action
+https://app.yinxiang.com/clip.action?url=http%3A%2F%2Fwww.jiumodiary.comForgotPassword.action
+https://app.yinxiang.com/clip.action?url=http%3A%2F%2Fwww.jiumodiary.comRegistration.actionaboutlearn_more
+https://app.yinxiang.com/clip.action?url=http%3A%2F%2Fwww.jiumodiary.com

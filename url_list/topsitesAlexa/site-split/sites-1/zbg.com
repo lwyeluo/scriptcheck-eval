@@ -1,0 +1,10 @@
+https://www.zbg.com/recommendRange
+https://www.zbg.com/newsList?type=2
+https://www.zbg.com/otherOtc
+https://www.zbg.com/otherOtcSellOrBuy
+https://www.zbg.com/login
+https://www.zbg.com/exOtc
+https://www.zbg.com/
+https://www.zbg.com/newsList?type=1
+https://www.zbg.com/newmarket
+https://www.zbg.com/vote

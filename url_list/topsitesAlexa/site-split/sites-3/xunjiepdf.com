@@ -1,0 +1,10 @@
+http://yasuo.xunjiepdf.com/
+https://www.xunjiepdf.com/mobileocr
+https://www.xunjiepdf.com/converter
+https://www.xunjiepdf.com/personal
+https://www.xunjiepdf.com/compress
+https://www.xunjiepdf.com/dwon
+https://www.xunjiepdf.com/
+https://www.xunjiepdf.com/invoice
+https://www.xunjiepdf.com/custom-ocr
+https://www.xunjiepdf.com/feedback

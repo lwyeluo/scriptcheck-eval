@@ -1,0 +1,10 @@
+https://support.stripe.com
+https://stripe.com/es-us
+https://stripe.com/enterprise
+https://stripe.com/au
+https://stripe.com/ja-us
+https://stripe.com/en-fi
+https://stripe.com/global
+https://stripe.com/
+https://stripe.com/contact
+https://stripe.com/global#MX

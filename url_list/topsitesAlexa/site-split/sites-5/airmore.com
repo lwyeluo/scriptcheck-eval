@@ -1,0 +1,10 @@
+https://airmore.com/
+https://airmore.com/ios-data-cleaner
+https://airmore.com/android-data-cleaner
+https://airmore.com/security
+https://airmore.com/apowercloud-release.html
+https://airmore.com/android-data-recovery
+https://airmore.com/privacy
+https://airmore.com/screen-mirroring-android.html
+https://airmore.com/contact
+https://airmore.com/about

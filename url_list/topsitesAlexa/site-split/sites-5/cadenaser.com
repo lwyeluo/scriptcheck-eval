@@ -1,0 +1,10 @@
+https://cadenaser.com/emisora/2019/08/01/ser_madrid_sur/1564661600_833048.html
+https://cadenaser.com/
+https://cadenaser.com/emisora/2019/08/01/radio_leon/1564682980_887936.html
+https://cadenaser.com/emisora/2019/07/31/ser_castro_urdiales/1564591467_116115.html
+https://cadenaser.com/tag/homofobia/a/
+https://cadenaser.com/emisora/2019/08/01/radio_barcelona/1564642178_220602.html
+https://cadenaser.com/emisora/2019/08/01/radio_cordoba/1564669081_953361.html
+https://cadenaser.com/ser/2019/07/02/sociedad/1562055715_644643.html
+https://cadenaser.com/ser/2019/07/31/internacional/1564605861_803472.html
+https://cadenaser.com/seccion/ciencia/

@@ -1,0 +1,10 @@
+https://www.telecinco.es/
+https://www.telecinco.es/thegooddoctor/
+https://www.telecinco.es/salvame/chabelita-asraf-altercado-omar-montes_18_2795895205.html
+https://www.telecinco.es/ayudate/
+https://www.telecinco.es/programas/
+https://www.telecinco.es/unplugged/rosa-benito-aniversario-te-arrastro_18_2795895030.html
+https://www.telecinco.es/me-quedo-contigo/
+https://www.telecinco.es/informativos/sociedad/violencia-genero-villagonzalo-operado-hijo-herido_18_2795895107.html
+https://www.telecinco.es/deportes/4011542/videos.html
+https://www.telecinco.es/unplugged/

@@ -1,0 +1,10 @@
+https://photoshop-master.ru/games
+https://photoshop-master.ru/
+https://photoshop-master.ru/lessons/
+https://photoshop-master.ru/premium
+https://photoshop-master.ru/about
+https://photoshop-master.ru/allworks?page=3
+https://photoshop-master.ru/allworks?page=18599
+https://photoshop-master.ru/allworks?page=8
+https://photoshop-master.ru/allworks?page=9
+https://photoshop-master.ru/allworks

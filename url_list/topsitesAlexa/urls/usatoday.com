@@ -1,0 +1,10 @@
+https://cm.usatoday.com/terms/
+https://games.usatoday.com/
+https://sportsweekly.usatoday.com/hsfooter
+https://ftw.usatoday.com/
+https://offers.usatoday.com/specialoffer?gps-source=CPNAVBARBBB
+https://help.usatoday.com
+https://cm.usatoday.com/privacy/#adchoices
+https://cm.usatoday.com/ethical-conduct/
+https://newstips.usatoday.com/
+https://www.usatoday.com/

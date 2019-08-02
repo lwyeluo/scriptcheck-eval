@@ -1,0 +1,10 @@
+https://topcor.ru/10409-na-rossijskie-polja-vyjdut-bespilotnye-kombajny.html
+https://topcor.ru/10052-bitva-za-shelf-kakoe-znachenie-imeet-losharik-dlja-rossii.html
+https://topcor.ru/10352-krutoe-pike-perehodjaschee-v-shtopor-kitaj-i-turcija-dobivajut-boeing.html
+https://topcor.ru/10249-robot-fedor-kotoryj-cherez-mesjac-poletit-v-kosmos-zagovoril.html
+https://topcor.ru/10218-v-rossii-nachalos-sozdanie-dvigatelja-dlja-sverhzvukovogo-lajnera.html
+https://topcor.ru/index.php?do=register
+https://topcor.ru/10405-torgovaja-vojna-ne-zakonchitsja-ssha-i-kitaj-provalili-peregovory.html
+https://topcor.ru/
+https://topcor.ru/10286-proizvodstvo-dvigatelej-rd-276-ostanovleno-v-rossii.html
+https://topcor.ru/10326-ot-volgi-do-eniseja-moschnejshie-rakety-buduschego.html

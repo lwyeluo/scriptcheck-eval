@@ -1,0 +1,10 @@
+https://www.newscientist.com/article/2212086-uk-navy-will-use-ai-guided-robot-submarines-to-find-explosive-mines/
+https://www.newscientist.com/article/2212128-lightsail-2-has-used-sunlight-alone-to-steer-around-earth/
+https://www.newscientist.com/video/2202440-how-the-young-can-rejuvenate-the-old/
+https://www.newscientist.com/article/mg24332410-300-is-reality-real-how-evolution-blinds-us-to-the-truth-about-the-world/
+https://www.newscientist.com/
+https://www.newscientist.com/article/2212153-londons-public-spaces-are-rife-with-multidrug-resistant-bacteria/
+https://www.newscientist.com/video/2206587-blue-planet-iis-steve-simpson-explores-the-sounds-of-the-ocean/
+https://www.newscientist.com/article/2212127-new-type-of-pipe-for-pumping-blood-is-just-liquid-with-no-pipe/
+https://www.newscientist.com/article/2211927-exclusive-can-a-supplement-slow-the-natural-processes-of-ageing/
+https://www.newscientist.com/article/2211976-turtle-embryos-may-control-their-sex-by-moving-inside-their-eggs/

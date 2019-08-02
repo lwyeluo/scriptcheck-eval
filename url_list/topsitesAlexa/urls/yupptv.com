@@ -1,0 +1,10 @@
+https://www.yupptv.com/channels/asianet-tv/live
+https://www.yupptv.com/allpackages.aspx
+https://www.yupptv.com/movies/arjun-reddy
+https://www.yupptv.com/channels/kbo-classic
+https://www.yupptv.com/tv-channels/bangla
+https://www.yupptv.com/movies/house-owner
+https://www.yupptv.com/channels/ptc-punjabi/live
+https://www.yupptv.com/
+https://www.yupptv.com/help/our-products
+https://www.yupptv.com/tvshows/ekkadiki-ee-parugu

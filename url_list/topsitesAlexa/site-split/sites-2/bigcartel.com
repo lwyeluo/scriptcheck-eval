@@ -1,0 +1,10 @@
+https://help.bigcartel.com/supported-browsers
+https://help.bigcartel.com/
+https://www.bigcartel.com/pricing
+https://my.bigcartel.com/signup/platinum
+https://blog.bigcartel.com/
+https://www.bigcartel.com/about
+https://my.bigcartel.com/signup/diamond
+https://developers.bigcartel.com/
+https://www.bigcartel.com/
+https://www.bigcartel.com/examples

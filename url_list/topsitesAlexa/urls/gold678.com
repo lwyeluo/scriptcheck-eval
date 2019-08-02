@@ -1,0 +1,10 @@
+https://www.gold678.com/zjhp
+https://www.gold678.com/hjzx
+http://live.gold678.com/
+https://www.gold678.com/jgpy
+http://www.gold678.com/C/20190731/201907311801101872.html
+https://www.gold678.com/
+http://www.gold678.com/corp/sitemap.html
+https://www.gold678.com/yhdt
+http://brokers.gold678.com/
+http://www.gold678.com/corp/call_revelation.html

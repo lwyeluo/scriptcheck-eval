@@ -1,0 +1,10 @@
+https://www.qr-code-generator.com/company/legal-notice/
+https://www.qr-code-generator.com/customers/qr-code-generator-for-agencies/
+https://www.qr-code-generator.com/features/
+https://www.qr-code-generator.com/about/
+https://www.qr-code-generator.com/solutions/pdf-qr-code/
+https://www.qr-code-generator.com/
+https://www.qr-code-generator.com/customers/
+https://www.qr-code-generator.com/pricing/
+https://nl.qr-code-generator.com/
+https://www.qr-code-generator.com/solutions/facebook-qr-code/

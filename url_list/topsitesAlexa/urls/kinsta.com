@@ -1,0 +1,10 @@
+https://kinsta.com/learn/speed-up-wordpress/
+https://kinsta.com/affiliate-academy/
+https://kinsta.com/legal/
+https://kinsta.com/enterprise-wordpress-hosting/
+https://kinsta.com/press/
+https://kinsta.com/
+https://kinsta.com/blog/
+https://kinsta.com/wordpress-newsletter/
+https://kinsta.com/clients/
+https://kinsta.com/resources/

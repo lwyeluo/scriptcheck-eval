@@ -1,0 +1,10 @@
+https://infinity.icicibank.com/corp/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG&__START_TRAN_FLAG__=Y&FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=ICI&MENU_FLAG=R&_ga=1.163940795.586066769.1459847844
+https://www.icicibank.com/disclaimer.page?
+https://infinity.icicibank.com/corp/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG&__START_TRAN_FLAG__=Y&FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=ICI&MENU_FLAG=I&_ga=2.188442091.256334470.1513570012-457665132.1513259396&ITM=nli_hppn_4_btn_ins_default
+https://www.icicibank.com/statements.page?
+https://money2india.icicibank.com/newm2iNet/
+https://www.icicibank.com/stayconnected.page?
+https://www.icicibank.com/
+https://www.3dsecure.icicibank.com/ACSWeb/EnrollWeb/ICICIBank/main/index.jsp
+https://www.icicibank.com/usa-patriot-act-certification.page?
+https://infinity.icicibank.com/corp/AuthenticationController?FORMSGROUP_ID__=AuthenticationFG&__START_TRAN_FLAG__=Y&FG_BUTTONS__=LOAD&ACTION.LOAD=Y&AuthenticationFG.LOGIN_FLAG=1&BANK_ID=ICI&MENU_FLAG=D&_ga=1.18009337.1707597432.1487838133&ITM=nli_hppn_1_btn_fd_hpband

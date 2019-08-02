@@ -1,0 +1,10 @@
+https://careers.turkishairlines.com/en-US/en-USinternational-employee
+https://careers.turkishairlines.com/en-US/en-USvacant-positionsexperienced-narrow-body-first-officer-b737-a320
+https://careers.turkishairlines.com/en-US/en-USvacant-positionswide-body-captain-b777b787-a330-a340-a350
+https://ebiletfatura.turkishairlines.com/tk/en/Home/Login
+https://careers.turkishairlines.com/en-US/en-USinforming-the-applicant#Contact
+https://www.turkishairlines.com/
+https://careers.turkishairlines.com/en-US/en-USvacant-positions
+https://careers.turkishairlines.com/en-US/en-USadministrativetechnical-unit-employee
+https://corporateclub.turkishairlines.com/en-gb
+https://careers.turkishairlines.com/en-US/

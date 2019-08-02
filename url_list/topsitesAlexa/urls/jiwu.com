@@ -1,0 +1,10 @@
+http://hlbe.jiwu.com
+http://www.jiwu.com/
+http://xn.jiwu.com
+http://taicang.jiwu.com
+http://kunshan.jiwu.com/
+http://mudanjiang.jiwu.com
+http://sz.jiwu.com/
+http://www.jiwu.com/fangjia/
+http://huizhou.jiwu.com
+http://ledong.jiwu.com

@@ -1,0 +1,10 @@
+https://www.mk.ru/culture/2019/07/25/nana-okazalas-muzykalnym-krotom.html
+https://www.mk.ru/stories/renovaciya/
+http://mediaservice.mk.ru/
+https://www.mk.ru/
+https://www.womanhit.ru/psychology/personality/2019-07-11-6znakov-zodiaka-kotorye-skoro-dobjutsja-uspeha/?utm_referrer=mk.ru
+https://www.mk.ru/authors/innadegotkova/
+https://www.mk.ru/culture/2019/07/30/prodyuser-fetisov-suditsya-s-rossiyskim-midom-izza-pasporta.html
+https://www.sportmk.ru/sports/2019/08/01/spokoynee-chem-s-konorom-khabib-gotovitsya-zashhitit-titul-v-boyu-s-pore.html
+https://www.mk.ru/sport/2019/07/31/spartak-raspustil-chempionskiy-sostav-kto-pridet-na-smenu.html
+https://www.mk.ru/economics/2019/07/18/dazhe-oficialnaya-statistika-pokazala-novoe-padenie-dokhodov-rossiyan.html

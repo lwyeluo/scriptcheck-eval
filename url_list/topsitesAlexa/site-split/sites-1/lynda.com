@@ -1,0 +1,10 @@
+https://www.lynda.com/Business-Skills-tutorials/Building-High-Performance-Teams/167028-2.html
+https://www.lynda.com/JavaScript-tutorials/JavaScript-Web-Designers-2016-Q3-REVISION/461841-2.html
+https://www.lynda.com/Business-Skills-tutorials/Leading-Working-Teams/175129-2.html
+https://www.lynda.com/
+https://www.lynda.com/Business-Online-Marketing-tutorials/SEO-Keyword-Strategy-Depth/147030-2.html
+https://www.lynda.com/InDesign-tutorials/InDesign-CC-2018-Essential-Training/625911-2.html
+https://www.lynda.com/WordPress-tutorials/WordPress-Essential-Training/372542-2.html
+https://www.lynda.com/Marketing-Lead-Generation-tutorials/Content-Marketing-Fundamentals-2015/369044-2.html
+https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2017-One-One-Fundamentals/497776-2.html
+https://www.lynda.com/aboutus

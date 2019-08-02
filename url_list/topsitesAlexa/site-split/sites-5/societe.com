@@ -1,0 +1,10 @@
+https://dirigeant.societe.com/
+https://www.societe.com/pages/derniers-dossiers-partenaires.html
+https://www.societe.com/pages/dernieres-fiches-pratiques.html
+https://www.societe.com/pages/dernieres-actualites-news.html
+https://www.societe.com/cgi-bin/vitrine?or=vid
+https://paiement.societe.com/cgi-bin/compte-login
+https://www.societe.com/produits/bilans-gratuits.html
+https://www.societe.com/pages/contact.html
+https://paiement.societe.com/pages/paiement-new.html
+https://www.societe.com/

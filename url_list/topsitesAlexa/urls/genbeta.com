@@ -1,0 +1,10 @@
+https://www.genbeta.com/lomejor
+https://www.genbeta.com/actualidad/spotify-crece-usuarios-encima-sus-previsiones-reduce-sus-perdidas-80
+https://www.genbeta.com/actualidad/se-ha-minado-85-total-bitcoin-para-proximos-120-anos-solamente-quedan-3-15-millones
+https://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=favicons
+https://www.genbeta.com/seguridad/bloquear-ciudades-enteras-mediante-ataques-masivos-a-coches-conectados-probable-e-inquietante-futuro
+https://www.genbeta.com?utm_source=genbeta&utm_medium=network&utm_campaign=footer
+https://www.genbeta.com/
+https://www.genbeta.com/desarrollo/rust-no-solo-amado-programadores-tambien-podria-ser-lenguaje-que-reemplace-a-c-c-microsoft
+https://www.genbeta.com/actualidad/apple-se-une-a-microsoft-google-proyecto-para-migrar-datos-plataformas-dando-mano-a-ecosistema-abierto#to-comments
+https://www.genbeta.com/actualidad/detoxify-te-ayuda-a-desintoxicarte-tus-apps-adictivas-instalando-versiones-falsas-mismas#to-comments

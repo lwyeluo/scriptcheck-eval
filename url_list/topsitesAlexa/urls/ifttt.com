@@ -1,0 +1,10 @@
+https://platform.ifttt.com/
+https://ifttt.com/discover
+https://platform.ifttt.com/contact_sales
+https://ifttt.com/
+https://ifttt.com/join
+https://ifttt.com/login?wp_=1
+https://ifttt.com/careers
+https://ifttt.com/terms
+https://platform.ifttt.com/plans
+https://ifttt.com/discover?source=search_header_icon

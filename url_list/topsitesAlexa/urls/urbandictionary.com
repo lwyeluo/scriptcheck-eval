@@ -1,0 +1,10 @@
+https://www.urbandictionary.com/author.php?author=yurrrrrrr%20
+https://www.urbandictionary.com/
+https://www.urbandictionary.com/browse.php?character=*
+https://www.urbandictionary.com/popular.php?character=A
+https://www.urbandictionary.com/category.php?category=internet
+https://www.urbandictionary.com/define.php?term=the%20issue
+https://www.urbandictionary.com/author.php?author=LJVan
+https://www.urbandictionary.com/define.php?term=watching%20tv
+https://www.urbandictionary.com/remove.form.php?reconsider%5Bdefid_to_remove%5D=1933643
+https://www.urbandictionary.com/define.php?term=SPK

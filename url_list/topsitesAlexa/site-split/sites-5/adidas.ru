@@ -1,0 +1,10 @@
+https://www.adidas.ru/universe
+https://www.adidas.ru/muzhchiny-kepki%7Cpanamy
+https://m.adidas.ru/originals-gazelle
+https://www.adidas.ru/
+https://www.adidas.ru/sandalii_i_slantcy
+https://m.adidas.ru/outlet
+https://www.adidas.ru/miachi-futbol
+https://www.adidas.ru/athletics-id
+https://www.adidas.ru/malchiki-sportivnye_kostiumy
+https://www.adidas.ru/zhenschiny-nite_jogger?grid=true

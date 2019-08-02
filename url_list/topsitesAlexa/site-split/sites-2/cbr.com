@@ -1,0 +1,10 @@
+https://www.cbr.com/
+https://www.cbr.com/category/movies/news-movies/
+https://community.cbr.com/forumdisplay.php?1-CBR-Community
+https://www.cbr.com/category/cbr-exclusives/
+https://www.cbr.com/category/tv/news-tv/
+https://www.cbr.com/category/lists/
+https://www.cbr.com/category/tv/reviews-tv/
+https://www.cbr.com/category/movies/reviews-movies/
+https://community.cbr.com/
+https://www.cbr.com

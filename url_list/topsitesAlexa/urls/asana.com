@@ -1,0 +1,10 @@
+https://asana.com/leadership
+https://asana.com/terms#terms-of-service
+https://asana.com/product
+https://asana.com/developers
+https://app.asana.com/-/forgot_password
+https://asana.com/pricing
+https://asana.com/diversity-and-inclusion
+https://asana.com/company
+https://certifiedpros.asana.com/
+https://asana.com/

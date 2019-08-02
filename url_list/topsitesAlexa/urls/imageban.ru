@@ -1,0 +1,10 @@
+https://www.imageban.ru/rule
+https://www.imageban.ru/faq#zip
+https://www.imageban.ru/gold
+https://www.imageban.ru/ads
+https://www.imageban.ru/favorites
+https://www.imageban.ru/
+https://www.imageban.ru/compilation
+https://www.imageban.ru/about
+https://www.imageban.ru/myalbum
+https://www.imageban.ru/zip

@@ -1,0 +1,10 @@
+https://www.zippyshare.com/?locale=pl
+https://www.zippyshare.com/sitesterms_and_conditions_of_use.html
+https://www.zippyshare.com/sites/terms_and_conditions_of_use.html
+https://www.zippyshare.com/?locale=en
+https://www.zippyshare.com/?locale=fr
+https://www.zippyshare.com/
+https://www.zippyshare.com/sitesdmca.html
+https://www.zippyshare.com
+https://www.zippyshare.com/?locale=ro
+https://www.zippyshare.com/?locale=lt

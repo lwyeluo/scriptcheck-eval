@@ -1,0 +1,10 @@
+https://www.desmos.com/terms
+https://www.desmos.com/art
+https://www.desmos.com/
+https://support.desmos.com/hc/en-us
+https://www.desmos.com/about
+https://teacher.desmos.com
+https://www.desmos.com/geometry
+https://www.desmos.com/partners
+https://www.desmos.com/math
+https://www.desmos.com/accessibility

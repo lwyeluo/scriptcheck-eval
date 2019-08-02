@@ -1,0 +1,10 @@
+https://www.webteb.com/
+https://www.webteb.com/questions
+https://baby.webteb.com/pregnancy
+https://www.webteb.com/living-healthy
+https://www.webteb.com/articles/العنبر-ما-هو-وهل-له-من-فوائد_21328
+https://www.webteb.com/articles/ما-هي-اهم-فوائد-البطيخ_14240
+https://www.webteb.com/articles/محاذير-قبل-صبغ-الشعر_21312
+https://www.webteb.com/multimedia/videos
+https://www.webteb.com/tongue
+https://www.webteb.com/symptoms

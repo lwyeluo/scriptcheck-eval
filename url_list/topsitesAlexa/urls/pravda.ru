@@ -1,0 +1,10 @@
+https://www.pravda.ru/society/family/pbringing/
+https://www.pravda.ru/gardening/1405403-Phlox/
+https://www.pravda.ru/news/districts/1427944-child/?utm_referrer=main_last_news_list
+https://www.pravda.ru/realty/1427691-house/
+https://www.pravda.ru/news/zoo/1427476-cat/
+https://www.pravda.ru/
+https://www.pravda.ru/realty/
+https://www.pravda.ru/news/politics/1427943-online/?utm_referrer=main_last_news_list
+https://www.pravda.ru/science/
+https://www.pravda.ru/health/1426618-kotova/

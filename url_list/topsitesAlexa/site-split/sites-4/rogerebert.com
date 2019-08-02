@@ -1,0 +1,10 @@
+https://www.rogerebert.com/cast-and-crew
+https://www.rogerebert.com/
+https://www.rogerebert.com/channels
+https://www.rogerebert.com/chazs-blog
+https://www.rogerebert.com/festivals-and-awards
+https://www.rogerebert.com/contact-us
+https://www.rogerebert.com/thumbnails
+https://www.rogerebert.com/movies
+https://www.rogerebert.com/feeds
+https://www.rogerebert.com/memoriam

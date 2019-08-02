@@ -1,0 +1,10 @@
+https://www.indiewire.com/t/box-office/
+https://www.indiewire.com/2019/01/the-office-reunion-mindy-kaling-amy-ryan-1202038542/
+https://www.indiewire.com/about-us/
+https://www.indiewire.com/t/filmmaker-toolkit/
+https://www.indiewire.com/2019/07/wga-challenger-craig-mazin-drops-out-agency-fight-1202162401/
+https://www.indiewire.com/t/interviews/
+https://www.indiewire.com/
+https://www.indiewire.com/t/iw-honors/
+https://www.indiewire.com/2019/07/the-irishman-trailer-scorsese-de-niro-pacino-pesci-1202161953/
+https://www.indiewire.com/2019/07/midsommar-cinematography-bright-technicolor-fairy-tale-ari-aster-pawel-pogorzelski-1202155560/

@@ -1,0 +1,10 @@
+https://www.viki.com/community_perks
+https://www.viki.com/explore?country=japan
+https://www.viki.com/networks
+https://www.viki.com/community_resources
+https://www.viki.com/explore
+https://www.viki.com/genres
+https://www.viki.com/
+https://www.viki.com/outbound?url=https%3A%2F%2Fwww.soompi.com
+https://www.viki.com/partners
+https://www.viki.com/privacy

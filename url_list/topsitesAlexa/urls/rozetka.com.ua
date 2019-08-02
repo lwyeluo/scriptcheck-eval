@@ -1,0 +1,10 @@
+https://rozetka.com.ua/
+https://rozetka.com.ua/tovary-dlya-doma/c2394287/
+https://rozetka.com.ua/krasota-i-zdorovje/c4629305/
+https://rozetka.com.ua/promo/summershot/
+https://rozetka.com.ua/instrumenty-i-avtotovary/c4627858/
+https://rozetka.com.ua/sport-i-uvlecheniya/c4627893/
+https://rozetka.com.ua/shoes_clothes/c1162030/
+https://rozetka.com.ua/news-articles-promotions/promotions/mentos_10819_skidki.html
+https://rozetka.com.ua/news-articles-promotions/promotions/promo_status=active;types=gifts/
+https://rozetka.com.ua/news-articles-promotions/promotions/promo_status=active;types=prizes/

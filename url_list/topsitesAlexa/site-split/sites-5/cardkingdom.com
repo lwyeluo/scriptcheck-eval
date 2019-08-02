@@ -1,0 +1,10 @@
+https://blog.cardkingdom.com/
+https://blog.cardkingdom.com/throne-of-eldraine-coming-soon/
+https://www.cardkingdom.com/commandershop
+https://blog.cardkingdom.com/category/brawl/
+https://www.cardkingdom.com/sellcart
+https://blog.cardkingdom.com/new-products-september-2017/
+https://blog.cardkingdom.com/10-cards-to-bring-back-with-brought-back/
+https://blog.cardkingdom.com/category/limited/
+https://www.cardkingdom.com/
+https://www.cardkingdom.com/builder

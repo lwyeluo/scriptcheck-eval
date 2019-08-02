@@ -1,0 +1,10 @@
+https://www.bartleby.com/102/
+https://www.bartleby.com/338/
+https://www.bartleby.com/topics/American-Culture-Essay
+https://www.bartleby.com/
+https://www.bartleby.com/topics/Music-Essay
+https://www.bartleby.com/topics/Sociological-Perspective-Essay
+https://www.bartleby.com/privacy#caprivacy
+https://www.bartleby.com/topics/Fahrenheit-Essay
+https://www.bartleby.com/topics/Mass-Media-Essay-Topics
+https://www.bartleby.com/topics/Yellow-Wallpaper-Essay

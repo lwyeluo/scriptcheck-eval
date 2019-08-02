@@ -1,0 +1,10 @@
+https://www.opinionlab.com/resources/guideebooks/
+https://www.opinionlab.com/about/partners/
+https://www.opinionlab.com/resources/videoswebinars/
+https://www.opinionlab.com/about/contact/
+https://www.opinionlab.com/cookie-consent/
+https://www.opinionlab.com/resources/whitepapers/
+https://www.opinionlab.com/about/careers/
+https://www.opinionlab.com/sitemap/
+https://www.opinionlab.com/tour/take-action/
+https://www.opinionlab.com/

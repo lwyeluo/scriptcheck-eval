@@ -1,0 +1,10 @@
+https://www.computerhope.com/jargon/h/html.htm
+https://www.computerhope.com/issues/ch000984.htm
+https://www.computerhope.com/history/
+https://www.computerhope.com/cgi-bin/wotd.cgi?yesterday
+https://www.computerhope.com/share/
+https://www.computerhope.com/msdos.htm
+https://www.computerhope.com/cgi-bin/quiz.pl?crypt=53616c7465645f5feaec956f74916a004b54248fe8223736b7f7d96b91aae60ec15e2ef36be15bd9f02c9c7cd2477b8e81f58992fee08d19fed52a84dda41d33b63b2b01be6f4420b90cb8842e4906a4
+https://www.computerhope.com/more.htm
+https://www.computerhope.com/
+https://www.computerhope.com/feedback/

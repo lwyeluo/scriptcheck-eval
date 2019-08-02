@@ -1,0 +1,10 @@
+http://cdn.popin.cc/file/report_read.vol3_fin_TC.pdf
+http://www.popin.cc/home/privacy.html
+https://www.popin.cc/
+https://www.popin.cc/zh/
+http://cdn.popin.cc/file/report_read.vol1_fin_TC.pdf
+http://cdn.popin.cc/report/read_report_20140611.pdf
+https://www.popin.cc/kr/
+http://www.popin.cc/discovery/
+https://www.popin.cc/action/
+http://cdn.popin.cc/report/read_report_20141217.pdf

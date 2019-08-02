@@ -1,0 +1,10 @@
+https://www.clubic.com/page_2.html
+https://www.clubic.com/telecharger-fiche11003-mozilla-firefox.html
+https://www.clubic.com/telecharger-fiche13628-adobe-reader.html
+https://www.clubic.com/telecharger-fiche11113-avast-antivirus-gratuit.html
+https://www.clubic.com/page_3.html
+https://www.clubic.com/
+https://www.clubic.com/bons-plans/soldes/actualite-865877-soldes-fnac-enceinte-colonne-focal-chorus-promo.html
+https://www.clubic.com/contact.html
+https://www.clubic.com/telecharger-fiche9632-winrar.html
+https://www.clubic.com/telecharger-fiche431791-office-2016.html

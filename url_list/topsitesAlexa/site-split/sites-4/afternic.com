@@ -1,0 +1,10 @@
+https://www.afternic.com/domain-parking
+https://www.afternic.com/activation
+https://www.afternic.com/domain-reseller-network
+https://www.afternic.com/legal
+https://www.afternic.com/
+https://www.afternic.com/domain-search
+https://www.afternic.com/domain-account
+https://www.afternic.com/contact-afternic
+https://www.afternic.com/new-website-domains
+https://www.afternic.com/legal#privacy_policy

@@ -1,0 +1,10 @@
+https://www.tutorialspoint.com/ms_project/index.htm
+https://www.tutorialspoint.com/computer_glossary.htm
+https://www.tutorialspoint.com/mongodb/index.htm
+https://www.tutorialspoint.com/cplusplus/index.htm
+https://www.tutorialspoint.com/hibernate/index.htm
+https://www.tutorialspoint.com/netmeeting.php
+https://www.tutorialspoint.com/
+https://www.tutorialspoint.com/current_affairs/index.htm
+https://www.tutorialspoint.com/java_technology_tutorials.htm
+https://www.tutorialspoint.com/db2/index.htm

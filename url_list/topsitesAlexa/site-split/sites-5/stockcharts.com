@@ -1,0 +1,10 @@
+https://www.stockcharts.com/sitemap.html
+http://scan.stockcharts.com/discussion/2/readme-a-newcomers-guide-to-s-c-a-n
+http://scan.stockcharts.com/discussion/1827/scan-for-bollinger-bands-in-my-watchlists
+http://scan.stockcharts.com/categories/scc-other
+https://www.stockcharts.com/
+http://scan.stockcharts.com/categories/other-charting-tools
+http://scan.stockcharts.com/discussion/1828/adding-items-to-the-output-of-a-scan
+https://store.stockcharts.com/cart
+http://scan.stockcharts.com/
+https://store.stockcharts.com/

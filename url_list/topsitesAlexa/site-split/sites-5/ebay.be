@@ -1,0 +1,10 @@
+https://www.benl.ebay.be/sch/?_sacat=14339
+https://www.benl.ebay.be/sch/?_sacat=131090
+https://www.befr.ebay.be/sch/Informatique,-réseaux-/58058/i.html
+https://www.benl.ebay.be/sch/?_sacat=267
+https://www.befr.ebay.be/sch/DVD,-cinéma-/11232/i.html
+https://www.befr.ebay.be/sch/Maison-/11700/i.html
+https://www.benl.ebay.be/sch/?_sacat=1249
+https://www.befr.ebay.be/sch/Céramiques,-verres-/870/i.html
+https://www.befr.ebay.be/sch/Musique,-CD,-vinyles-/11233/i.html
+https://www.ebay.be/

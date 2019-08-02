@@ -1,0 +1,10 @@
+https://www.smithsonianmag.com/
+https://subscribe.smithsonianmag.com/sub.php?idx=245&inetz=www-page-footer&ipromo=|perm|sub||text||grey||DFLT
+https://subscribe.smithsonianmag.com/sub.php?idx=245&inetz=dropdown-cover-R-D&ipromo=|perm|sub||dropdown||cover||DFLT
+https://www.smithsonianjourneys.org/catalog/?src=sjmod-new-hp&utm_source=smithsonianmag.com&utm_medium=module&utm_campaign=sjmod-new-hp&utm_content=request-a-catalog=rightrail
+https://subscribe.smithsonianmag.com/sub.php?idx=245&inetz=header-L-D&ipromo=|perm|sub||header||blue||DFLT
+https://subscribe.smithsonianmag.com/sub.php?idx=245&inetz=sticky-top-nav-D&ipromo=|perm|sub||text||red||DFLT
+https://subscribe.smithsonianmag.com/sub.php?idx=245&inetz=dropdown-R-D&ipromo=|perm|sub||dropdown||||DFLT
+https://www.smithsonianmag.com/issue/june-2019/
+https://www.smithsonianmag.com/issue/may-2019/
+https://subscribe.smithsonianmag.com/gift.php?idx=246&inetz=header-L-D&ipromo=|perm|gift||header||blue||DFLT

@@ -1,0 +1,10 @@
+https://www.maketecheasier.com/eliminate-unfortunately-app-has-stopped-android/
+https://www.maketecheasier.com/advertise/
+https://www.maketecheasier.com/about/
+https://www.maketecheasier.com/author/traceyrosenberger/
+https://www.maketecheasier.com/author/shujaa/
+https://www.maketecheasier.com/software/5kplayer/
+https://www.maketecheasier.com/contact/
+https://www.maketecheasier.com/
+https://www.maketecheasier.com/capital-one-data-breach-credit-card-applications/
+https://www.maketecheasier.com/author/kennkimari/

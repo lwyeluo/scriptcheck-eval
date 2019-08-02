@@ -1,0 +1,10 @@
+https://eda.ru/recepty/vypechka-deserty/kievskiy-tort-136979
+https://eda.ru/recepty/rizotto
+https://eda.ru/media/vopros/pochemu-yayca-obychno-edyat-na-zavtrak
+https://eda.ru/media/master-klass/kak-prigotovit-flan
+https://eda.ru/recepty/sendvichi
+https://eda.ru/media/master-klass/kak-gotovit-yayca
+https://eda.ru/media/vnesezonnye-recepty
+https://eda.ru/
+https://eda.ru/faq
+https://eda.ru/media/vopros

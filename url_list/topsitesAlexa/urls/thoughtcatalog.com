@@ -1,0 +1,10 @@
+https://thoughtcatalog.com/january-nelson/
+https://thoughtcatalog.com/tag/sagittarius/
+https://thoughtcatalog.com/category/creepy/
+https://thoughtcatalog.com/
+https://thoughtcatalog.com/tag/virgo/
+https://thoughtcatalog.com/writers/
+https://thoughtcatalog.com/tag/scorpio/
+https://thoughtcatalog.com/category/self-improvement/
+https://thoughtcatalog.com/tag/names/
+https://thoughtcatalog.com/terms-conditions/

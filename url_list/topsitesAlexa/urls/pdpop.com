@@ -1,0 +1,10 @@
+http://www.pdpop.com/event/event_contents.php?event_name=tv조선100원
+http://bbs.pdpop.com/board_re.php?code=F_19
+http://copyright.pdpop.com/
+http://www.pdpop.com/event/event_contents.php?event_name=chanelA
+http://www.pdpop.com/event/event_contents.php?event_name=honeytv
+http://www.pdpop.com/event/201412_kbs_enddm_re.html
+http://bbs.pdpop.com/board_re.php?mode=remote
+http://www.pdpop.com/event/event_contents.php?event_name=mbn100
+http://www.pdpop.com/event/multidown_event_re.html?mode=mac
+http://www.pdpop.com/

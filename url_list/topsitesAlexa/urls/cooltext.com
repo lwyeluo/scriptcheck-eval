@@ -1,0 +1,10 @@
+https://cooltext.com/Logos-Heavy
+https://cooltext.com/Logo-Design-Glitter
+https://cooltext.com/Logo-Design-Animated-Glow
+https://cooltext.com/Logos-Gold
+https://cooltext.com/Logos-Blue
+https://cooltext.com/Logo-Design-Candy
+https://cooltext.com/Logo-Design-iText
+https://cooltext.com/Logo-Design-Studio-54
+https://cooltext.com/Logo-Design-Glowing-Steel
+https://cooltext.com/

@@ -1,0 +1,10 @@
+https://www.eltiempo.es/madrid.html
+https://www.eltiempo.es/domingo-06.html
+https://www.eltiempo.es/ayuda.html
+https://www.eltiempo.es/pamplona.html
+https://www.eltiempo.es/
+https://noticias.eltiempo.es/perseidas-2019-un-espectaculo-para-los-mas-trasnochadores/
+https://www.eltiempo.es/polen
+https://www.eltiempo.es/playa-sotavento-jandia-jandia.html
+https://www.eltiempo.es/playa-de-muro.html
+https://noticias.eltiempo.es/

@@ -1,0 +1,10 @@
+https://mijisou.com/about#agreemt
+https://mijisou.com/about#policy
+https://mijisou.com/about#agreemtabout#policy
+https://mijisou.com/about
+https://mijisou.com/about#agreemtabout
+https://mijisou.com/about#faq
+https://mijisou.com/about#pay
+https://mijisou.com/
+https://mijisou.com/about#agreemtabout#agreemt
+https://mijisou.com/about#agreemtabout#pay

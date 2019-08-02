@@ -1,0 +1,10 @@
+https://www.ugent.be/nl/univgent/organisatie/faculteiten
+https://www.ugent.be/student/nl/studeren/les-en-examenroosters
+https://www.ugent.be/nl/actueel/zonnepanelen-zee-ugent-aquacultuur.htm
+https://www.ugent.be/
+https://www.ugent.be/nl/cookies
+https://login.ugent.be/login?service=https%3A%2F%2Fwww.ugent.be%2Flogged_in%3Fcame_from%3Dhttps%253A%252F%252Fwww.ugent.be%252F
+https://www.ugent.be/nl/bedrijven
+https://www.ugent.be/nl/univgent
+https://www.ugent.be/nl/agenda/1537194754372
+https://www.ugent.be/nl

@@ -1,0 +1,10 @@
+https://www.redflagdeals.com/deal/apparel/reebok-back-to-school-sale-40-off-select-shorts-tanks-and-tees-doorcrasher-deals/
+https://forums.redflagdeals.com/hot-deals-f9/?c=9
+https://forums.redflagdeals.com/rogers-chatr-rogers-switch-deal-2300959/
+http://forums.redflagdeals.com/freedom-mobile-30-credit-service-outages-ymmv-2297895/
+https://forums.redflagdeals.com/hot-deals-f9/?c=53
+http://forums.redflagdeals.com/beauty-wellness-f128/
+http://forums.redflagdeals.com/art-photography-f89/
+https://forums.redflagdeals.com/hot-deals-f9/?c=7
+https://forums.redflagdeals.com/cell-phones-f88/
+https://www.redflagdeals.com/

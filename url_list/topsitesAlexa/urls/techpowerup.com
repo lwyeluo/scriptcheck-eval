@@ -1,0 +1,10 @@
+https://www.techpowerup.com/img/MFB00e36v059wt6H.jpg
+https://www.techpowerup.com/img/1lqujse4J20Ly0GI.jpg
+https://www.techpowerup.com/img/94uCBzIaQuoNg7ZZ.jpg
+https://www.techpowerup.com/
+https://www.techpowerup.com/img/WLNxGydC1SVZWYpq.jpg
+https://www.techpowerup.com/img/FazXXgxGUBln1Mlf.jpg
+https://www.techpowerup.com/img/ANwdROlLvrcYHdN4.jpg
+https://www.techpowerup.com/img/g52beMyiHxxyaiuX.jpg
+https://www.techpowerup.com/img/Ta0HCinD1LWRN6Qw.jpg
+https://www.techpowerup.com/img/YEA3APOdGinpzAbw.jpg

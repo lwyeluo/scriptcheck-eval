@@ -1,0 +1,10 @@
+https://chelyabinsk.leroymerlin.ru
+https://leroymerlin.ru/catalogue/skobyanye-izdeliya/
+https://leroymerlin.ru/catalogue/sad/
+https://pyatigorsk.leroymerlin.ru
+https://leroymerlin.ru/catalogue/santehnika/
+https://orel.leroymerlin.ru
+https://leroymerlin.ru/
+https://ekaterinburg.leroymerlin.ru
+https://krasnodar.leroymerlin.ru
+https://vladivostok.leroymerlin.ru

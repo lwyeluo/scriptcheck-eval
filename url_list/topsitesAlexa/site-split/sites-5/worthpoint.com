@@ -1,0 +1,10 @@
+https://www.worthpoint.com/newsletter-landing-page
+https://www.worthpoint.com/marks
+https://www.worthpoint.com/articles/category/video
+https://www.worthpoint.com/library
+https://www.worthpoint.com/
+https://www.worthpoint.com/careers
+https://www.worthpoint.com/advertise-with-us
+https://www.worthpoint.com/about
+https://www.worthpoint.com/reseller-application
+https://www.worthpoint.com/data-partners

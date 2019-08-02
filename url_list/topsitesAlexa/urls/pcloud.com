@@ -1,0 +1,10 @@
+https://docs.pcloud.com/
+https://www.pcloud.com/family.html
+https://www.pcloud.com/int_pr_policy.html
+https://www.pcloud.com/reseller.html
+https://my.pcloud.com/
+https://www.pcloud.com/privacy_policy.html
+https://www.pcloud.com/
+https://www.pcloud.com/affiliate.html
+https://my.pcloud.com/#page=referral
+https://www.pcloud.com/encrypted-cloud-storage.html

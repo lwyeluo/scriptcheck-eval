@@ -1,0 +1,10 @@
+http://blog.shareasale.com/
+https://www.shareasale.com/family-and-kids.cfm
+https://www.shareasale.com/home-and-garden.cfm
+https://www.shareasale.com/technology.cfm
+https://www.shareasale.com/merchantagreement.cfm
+https://www.shareasale.com/health.cfm
+https://www.shareasale.com/out-programs.cfm
+https://www.shareasale.com/sports-and-rec.cfm
+https://www.shareasale.com/
+https://www.shareasale.com/PrivacyPolicy.pdf

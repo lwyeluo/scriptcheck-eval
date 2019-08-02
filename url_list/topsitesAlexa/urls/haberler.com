@@ -1,0 +1,10 @@
+https://fotogaleri.haberler.com/genc-kadin-acik-giyindi-diye-otobus-soforu/
+https://www.haberler.com/
+https://www.haberler.com/caretta-caretta-alaninda-drift-atan-surucuye-rekor-12295305-haberi/
+https://www.haberler.com/sukru-sozen/
+https://www.haberler.com/mevlut-cavusoglu/
+https://www.haberler.com/bankalarin-konut-faizi-indirimine-albayrak-tan-12296018-haberi/
+https://www.haberler.com/unal-karaman/
+https://www.haberler.com/aboubakar-super-lig-e-geri-donuyor-duyurdular-12295018-haberi/
+https://www.haberler.com/audi-cup-ta-sampiyon-tottenham-12293764-haberi/
+https://fotogaleri.haberler.com/prim-borcu-olanlar-dikkat-yil-sonu-sona-eriyor/

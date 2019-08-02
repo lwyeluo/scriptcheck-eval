@@ -1,0 +1,10 @@
+https://www.duomai.com/index.php?m=siter&a=register
+https://www.duomai.com/index.php?m=article&a=view&cate_id=16&id=68
+https://www.duomai.com/index.php?m=article&a=notice&cate_id=5&id=117599
+https://www.duomai.com/index.php?m=article&a=suggestion
+https://www.duomai.com/index.php?m=scoremall&a=detail&production_id=60
+https://www.duomai.com/index.php?m=siter_act&a=view&ads_id=168
+https://www.duomai.com/index.php?m=article&a=notice&cate_id=51&id=117636
+https://www.duomai.com/index.php?m=article&a=notice&cate_id=51&id=117598
+https://www.duomai.com/index.php?m=article&a=view&cate_id=41&id=102
+https://www.duomai.com/

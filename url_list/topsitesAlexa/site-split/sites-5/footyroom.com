@@ -1,0 +1,10 @@
+https://footyroom.com/lemix/clubs-who-have-had-bad-transfer-window-116124
+https://footyroom.com/competitions/23/league-cup
+https://footyroom.com/search?q=Arsenal
+https://footyroom.com/competitions/46/africa-cup-of-nations
+https://footyroom.com/competitions/4/confederations-cup
+https://footyroom.com/
+https://footyroom.com/competitions/3871/nations-league
+https://footyroom.com/lemix/united-soon-to-confirm-nicolas-pepe-signing-116083
+https://footyroom.com/matches/79967324/hertha-berlin-vs-west-ham-united/review
+https://footyroom.com/matches/79965638/paris-saint-germain-vs-sydney-fc/review

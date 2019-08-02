@@ -1,0 +1,10 @@
+https://serdeorange.orange.es/?internal_source=orange&internal_medium=header&internal_term=cabecera+cliente+ventajas+ser+orange&internal_campaign=movil
+https://acercadeorange.orange.es/calidad/calidad-servicio/?internal_source=orange&internal_medium=home&internal_term=pie+nuestra+compania+calidad+servicio&internal_campaign=medios
+https://www.orange.es/cookies.html?internal_source=orange&internal_medium=home&internal_term=pie+corporativo+politica+cookies&internal_campaign=medios
+https://tv.orange.es/orange-tv-cine-y-series/?internal_source=orange&internal_medium=header&internal_term=cabecera+no+cliente+orange+tv+cine+series&internal_campaign=adsl
+https://www.orange.es/empresas/grandes-empresas?internal_source=orange&internal_medium=header&internal_term=cabecera+enlace+segmento&internal_campaign=movil
+https://www.orange.es/servicios.html?internal_source=orange&internal_medium=header&internal_term=cabecera+no+cliente+servicios+orange&internal_campaign=movil
+https://lared.orange.es/?internal_source=orange&internal_medium=home&internal_term=pie+nuestra+compania+red+orange&internal_campaign=medios
+https://correo.orange.es/?internal_source=orange&internal_medium=home&internal_term=pie+enlaces+rapidos+correo+orange&internal_campaign=medios
+https://www.orange.es/
+https://ssl.orange.es/cobertura/?internal_source=orange&internal_medium=home&internal_term=pie+enlaces+rapidos+consulta+cobertura+fibra&internal_campaign=movil&AAC_PROMO_CODE=37018

@@ -1,0 +1,10 @@
+https://promos.privatbank.ua/ua
+https://privatbank.ua/kak-poluchit-otpravit-dengi-za-granicu
+https://agent.privatbank.ua/
+https://privatbank.ua/
+https://privatbank.ua/pokupka-zheleznodorozhnyh-avtobusnyh-aviabiletov-po-besplatnomu-telefonu-3700
+https://privatbank.ua/poleznyje-dokumenty
+https://blago.privatbank.ua/
+https://privatbank.ua/stan-agentom
+https://privatbank.ua/qrcode
+https://privatbank.ua/vip

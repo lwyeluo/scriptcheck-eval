@@ -1,0 +1,10 @@
+https://locations.capitalone.com/
+https://www.capitalone.com/applications/eno/
+https://diversity.capitalone.com/inclusion/
+https://www.capitalone.com/commercial/
+https://www.capitalone.com/support-center/
+http://press.capitalone.com/phoenix.zhtml?c=251626&p=irol-overview
+https://verified.capitalone.com/sic-ui/#/esignin
+https://www.capitalone.com/learn-grow/?external_id=COF01_HUB_HPBANNER_D99
+https://www.capitalone.com/applications/alexa/?Log=1&EventType=Link&ComponentType=T&LOB=MTS::LCTMJBE8Z&PageName=Alexa%20terms%20and%20conditions&PortletLocation=4;16-col;2-1-1-2-1&ComponentName=Terms-and-conditionsN3w;9&ContentElement=4;Return%20to%20Capital%20One%20Skill&TargetLob=MTS::LCTMJBE8Z&TargetPageName=Capital%20One%20Skill%20New&referer=https:%2F%2Fwww.capitalone.com%2Fapplications%2Falexa%2Fterms
+https://www.capitalone.com/

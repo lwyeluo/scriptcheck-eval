@@ -1,0 +1,10 @@
+https://www.ebaumsworld.com/feels
+https://www.ebaumsworld.com/pictures
+https://www.ebaumsworld.com/popular
+https://www.ebaumsworld.com/
+https://www.ebaumsworld.com/?page=5
+https://www.ebaumsworld.com/ftw
+https://www.ebaumsworld.com/blogs
+https://www.ebaumsworld.com/images
+https://www.ebaumsworld.com/ouch
+https://www.ebaumsworld.com/videos

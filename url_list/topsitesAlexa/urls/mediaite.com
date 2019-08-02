@@ -1,0 +1,10 @@
+https://www.mediaite.com/tv/joe-scarborough-goes-off-on-dem-debate-attacks-on-obama-give-me-a-break-who-is-advising-you/#disqus_thread
+https://www.mediaite.com/news/ohio-republican-calls-on-trump-to-silence-rally-crowd-if-they-start-racist-chant-in-cincinnati/
+https://www.mediaite.com/
+https://www.mediaite.com/tv/cnn-panel-roasts-cory-booker-for-delivery-of-kool-aid-line-with-black-phrases-you-dont-enunciate-every-word/
+https://www.mediaite.com/tv/msnbcs-joy-reid-and-joe-scarborough-scold-2020-dems-for-attacking-obama-more-than-trump/
+https://www.mediaite.com/election-2020/cnn-contributor-who-advised-biden-fawns-over-candidates-rocky-debate-performance/
+https://www.mediaite.com/page/2/
+https://www.mediaite.com/election-2020/booker-stuns-audience-by-torching-biden-on-crime-you-destroyed-communities-like-mine/#disqus_thread
+https://www.mediaite.com/tv/andrew-yang-torches-reality-tv-show-debates-in-closing-statement-this-is-why-we-elected-trump/
+https://www.mediaite.com/tv/fox-friends-guest-appaling-that-don-lemon-jake-tapper-hosted-cnn-debate-after-calling-trumps-rhetoric-racist/#disqus_thread

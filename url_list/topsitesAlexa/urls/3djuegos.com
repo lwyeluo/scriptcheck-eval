@@ -1,0 +1,10 @@
+https://www.3djuegos.com/noticias-ver/195422/sony-amenaza-con-subir-el-precio-de-ps4-y-quiz-tambin-de/
+https://www.3djuegos.com/juegos/avances/30702/5324/0/concrete-genie/
+https://www.3djuegos.com/
+https://www.3djuegos.com/29293/control/
+https://www.3djuegos.com/13924/cyberpunk-2077/
+https://www.3djuegos.com/25964/days-gone/
+https://www.3djuegos.com/foro-de/122506/0/fifa-19-ultimate-team/
+https://www.3djuegos.com/33103/the-dark-pictures-man-of-medan/
+https://www.3djuegos.com/noticias-ver/195463/xbox-scarlett-quiere-ofrecer-algo-ms-que-buenos-grficos/
+https://www.3djuegos.com/juegos/avances/13924/5309/0/cyberpunk-2077/

@@ -1,0 +1,10 @@
+https://www.jaleco.com/
+https://chrome.jaleco.com/
+https://uc-browser.jaleco.com/
+https://yt-music-downloader.jaleco.com/
+https://opera.jaleco.com/
+http://winrar.jaleco.com/
+https://8-ball-pool.jaleco.com/
+https://www.jaleco.com/windows/business-software
+https://bandicam.jaleco.com/
+http://technic-launcher.jaleco.com/

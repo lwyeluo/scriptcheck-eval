@@ -1,0 +1,10 @@
+http://malayalam.indiatyping.com
+http://marathi.indiatyping.com
+http://gst.indiatyping.com/gst-tax-invoice
+http://punjabi.indiatyping.com
+http://www.indiatyping.com/
+http://assamese.indiatyping.com/
+http://www.indiatyping.com/index.php
+http://sanskrit.indiatyping.com/
+http://oriya.indiatyping.com
+http://urdu.indiatyping.com/

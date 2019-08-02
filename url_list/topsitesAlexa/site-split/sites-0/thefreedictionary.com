@@ -1,0 +1,10 @@
+https://idioms.thefreedictionary.com
+https://www.thefreedictionary.com/
+http://www.thefreedictionary.com/_/help/help1.htm
+https://es.thefreedictionary.com/
+http://acronyms.thefreedictionary.com
+http://www.thefreedictionary.com/advertise-with-us.htm
+https://ru.thefreedictionary.com/
+https://pt.thefreedictionary.com/
+https://acronyms.thefreedictionary.com
+https://encyclopedia.thefreedictionary.com/Bix+Beiderbecke+Memorial+Jazz+Festival

@@ -1,0 +1,10 @@
+http://www.apornstories.com/wrestling/
+http://www.apornstories.com/The-Trap-Part-1/
+http://www.apornstories.com/
+http://www.apornstories.com/interracial/
+http://www.apornstories.com/paulina-from-the-quick-and-dirty-collection/
+http://www.apornstories.com/bondage/
+http://www.apornstories.com/cookies/
+http://www.apornstories.com/office/
+http://www.apornstories.com/lesbian/
+http://www.apornstories.com/authors/

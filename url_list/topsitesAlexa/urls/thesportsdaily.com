@@ -1,0 +1,10 @@
+https://thesportsdaily.com/category/nhl/
+https://thesportsdaily.com/category/frozen-notes/
+https://thesportsdaily.com/category/mlb/
+https://thesportsdaily.com/category/panther-rules/
+https://thesportsdaily.com/category/pirates-breakdown/
+https://thesportsdaily.com/category/rams-ramblings/
+https://thesportsdaily.com/category/nittany-lions-den/
+https://thesportsdaily.com/category/angels-win/
+https://thesportsdaily.com/category/packers-press/
+https://thesportsdaily.com/

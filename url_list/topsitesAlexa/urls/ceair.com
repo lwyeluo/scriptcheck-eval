@@ -1,0 +1,10 @@
+http://www.ceair.com/guide2/dhgnystj/index.html
+http://www.ceair.com/guide2/kzhl/index.html
+http://www.ceair.com/
+http://www.ceair.com/server/aoc/
+https://vacations.ceair.com/detail/310011159.html
+http://www.ceair.com/a/wounded_soldier.html?productCode=GMTH,JCTH
+http://ebapp.ceair.com/IrregularFlight/WebApp/IrrPrint/common.html
+http://www.ceair.com/guide2/dhjd/jxzs.html
+http://www.ceair.com/guide2/jfljgz/index.html
+https://vacations.ceair.com/detail/310013929.html

@@ -1,0 +1,10 @@
+https://sec-sso.click-sec.com/loginweb/
+https://www.click-sec.com/corp/guide/kabu/
+https://www.click-sec.com/corp/info/risk/
+https://www.click-sec.com/corp/guide/ixop/
+https://faq.click-sec.com/
+https://faq.click-sec.com/?r_navi
+https://www.click-sec.com/corp/support/
+https://sec-sso.click-sec.com/loginweb/sso-redirect?s=01&p=03
+https://www.click-sec.com/corp/info/bestexe/
+https://www.click-sec.com/

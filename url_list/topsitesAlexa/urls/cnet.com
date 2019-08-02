@@ -1,0 +1,10 @@
+https://cbsi.secure.force.com/CBSi/knowledgehome?referer=cnet.comCBSiarticlesFAQPassword-problems?retURL=%2FCBSi%2Fapex%2Fknowledgehome%3Freferer%3Dcnet.com&popup=false&categories=CBS_Interactive%3ACNET&template=template_cnet&referer=cnet.com&data=&cfs=SFS_TECH
+https://cbsi.secure.force.com/CBSi/knowledgehome?referer=cnet.comCBSiarticlesFAQHow-do-I-cancel-my-order?retURL=%2FCBSi%2Fapex%2Fknowledgehome%3Freferer%3Dcnet.com&popup=false&categories=CBS_Interactive%3ACNET&template=template_cnet&referer=cnet.com&data=&cfs=SFS_TECH
+https://cbsi.secure.force.com/CBSi/knowledgehome?referer=cnet.comCBSiarticlesFAQHow-CNET-tests-products?retURL=%2FCBSi%2Fapex%2Fknowledgehome%3Freferer%3Dcnet.com&popup=false&categories=CBS_Interactive%3ACNET&template=template_cnet&referer=cnet.com&data=&cfs=SFS_TECH
+https://cbsi.secure.force.com/CBSi/knowledgehome?referer=cnet.comCBSisubmitcase?template=template_cnet&referer=cnet.com&cfs=SFS_TECH
+https://cbsi.secure.force.com/CBSi/knowledgehome?referer=cnet.comCBSiarticlesFAQWhy-can-t-I-sign-into-CNET-with-my-Google-or-Yahoo-account-anymore?retURL=%2FCBSi%2Fapex%2Fknowledgehome%3Freferer%3Dcnet.com&popup=false&categories=CBS_Interactive%3ACNET&template=template_cnet&referer=cnet.com&data=&cfs=SFS_TECH
+https://www.cnet.com/
+https://cbsi.secure.force.com/CBSi/knowledgehome?referer=cnet.comCBSiknowledgehome?referer=cnet.com
+https://cbsi.secure.force.com/CBSi/knowledgehome?referer=cnet.comCBSisitefeedback?template=template_cnet&referer=cnet.com&cfs=SFS_TECH
+https://www.cnet.com/more-news/
+https://cbsi.secure.force.com/CBSi/knowledgehome?referer=cnet.com

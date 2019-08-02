@@ -1,0 +1,10 @@
+https://www.ridus.ru/kartina-dnya
+https://www.ridus.ru/poleznoe
+https://map.ridus.ru
+https://www.ridus.ru/grazhdanskaya-zhurnalistika
+https://www.ridus.ru/news/303145
+https://www.ridus.ru/photos
+https://www.ridus.ru/razvlecheniya
+https://www.ridus.ru/interesnoe
+https://www.ridus.ru/
+https://www.ridus.ru/search

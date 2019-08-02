@@ -1,0 +1,10 @@
+https://www.ubereats.com/?mod=selectLanguage&ps=1en-UScities
+https://www.ubereats.com/?mod=selectLanguage&ps=1en-UScitiesen-UScities
+https://www.ubereats.com/?mod=selectLanguage&ps=1
+https://www.ubereats.com/?mod=selectLanguage&ps=1en-US
+https://www.ubereats.com
+https://www.ubereats.com/
+https://www.ubereats.com/?mod=selectLanguage&ps=1en-UScitiesen-US
+https://about.ubereats.com/gift-cards/
+https://about.ubereats.com
+https://www.ubereats.com/?mod=selectLanguage&ps=1?mod=selectLanguage&ps=1

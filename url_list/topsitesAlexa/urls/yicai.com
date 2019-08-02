@@ -1,0 +1,10 @@
+https://www.yicai.com/huodong/
+https://www.yicai.com/video/
+http://buy.yicai.com/
+https://www.yicai.com/vip/
+https://www.yicai.com/topic/
+https://www.yicai.com/
+https://www.yicai.com/data/
+https://www.yicai.com/brief
+https://www.yicai.com/news/
+https://www.yicai.com/law/

@@ -1,0 +1,10 @@
+https://www.wanyx.com/zt/minecraft/
+https://www.wanyx.com/
+https://www.wanyx.com/game/8882.html
+https://www.wanyx.com/video/8608.html
+https://www.wanyx.com/news/63461.html
+https://www.wanyx.com/game/15688.html
+https://www.wanyx.com/game/61057.html
+https://www.wanyx.com/game/1120.html
+https://www.wanyx.com/game/31692.html
+https://www.wanyx.com/zt/xxhhmjhj/

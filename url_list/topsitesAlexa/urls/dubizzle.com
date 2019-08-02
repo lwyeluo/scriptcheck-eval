@@ -1,0 +1,10 @@
+https://fujairah.dubizzle.com/en/property-for-rent/residential/villahouse/
+https://www.dubizzle.com/
+https://alain.dubizzle.com/motors/used-cars/
+https://fujairah.dubizzle.com/en/property-for-sale/residential/apartment/
+https://abudhabi.dubizzle.com/en/property-for-sale/residential/villahouse/
+https://abudhabi.dubizzle.com/
+https://sharjah.dubizzle.com/en/property-for-sale/residential/apartment/
+https://fujairah.dubizzle.com/en/property-for-rent/residential/apartmentflat/
+https://sharjah.dubizzle.com/motors/used-cars/
+https://ajman.dubizzle.com/jobs/

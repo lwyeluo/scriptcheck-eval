@@ -1,0 +1,10 @@
+https://www.ableton.com/en/blog/loop/
+https://learningmusic.ableton.com/
+https://makingmusic.ableton.com/thinking-like-an-amateur
+https://makingmusic.ableton.com/
+https://www.ableton.com/en/packs/lofi-hiphop/
+https://www.ableton.com/
+https://www.ableton.com/en/packs/vocalisms/#?instruments=voices
+https://www.ableton.com/en/one-thing/
+https://loop.ableton.com/
+https://www.ableton.com/en/blog/gazelle-twin-21st-century-jester/

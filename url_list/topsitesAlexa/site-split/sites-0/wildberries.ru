@@ -1,0 +1,10 @@
+https://www.wildberries.ru/catalog/detyam/shkola
+https://www.wildberries.ru/catalog/dom-i-dacha/zdorove
+https://www.wildberries.ru/services/publichnaya-oferta
+https://www.wildberries.ru/services/voprosy-i-otvety?2_1
+https://www.wildberries.ru/services/sposoby-oplaty
+https://www.wildberries.ru/catalog/podarki
+https://www.wildberries.ru/
+https://www.wildberries.ru/catalog/obuv
+https://www.wildberries.ru/catalog/tovary-dlya-zhivotnyh
+https://www.wildberries.ru/catalog/premium

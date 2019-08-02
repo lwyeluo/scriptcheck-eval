@@ -1,0 +1,10 @@
+https://www.desjardins.com/particuliers/projets-evenements/index.jsp
+https://www.desjardins.com/particuliers/epargne-placements/index.jsp
+https://www.desjardins.com/entreprises/investissement-placements/index.jsp
+https://www.desjardins.com/securite/index.jsp
+https://www.desjardins.com/entreprises/assurances/index.jsp
+https://www.desjardins.com/coopmoi/entreprises/index.jsp
+https://www.desjardins.com/particuliers/vous-etes/index.jsp
+https://www.desjardins.com/a-propos/espace-fournisseurs/index.jsp
+https://www.desjardins.com/a-propos/responsabilite-sociale-cooperation/index.jsp
+https://www.desjardins.com/

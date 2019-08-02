@@ -1,0 +1,10 @@
+https://www.rev.com/contact
+https://www.rev.com/blog/powerful-transcript-tools
+https://www.rev.com/reviews
+https://www.rev.com/transcription
+https://www.rev.com/voicerecorder
+https://www.rev.com/
+https://www.rev.com/freelancers
+https://www.rev.com/careers
+https://www.rev.com/caption
+https://www.rev.com/callrecorder

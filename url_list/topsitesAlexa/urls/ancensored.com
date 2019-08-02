@@ -1,0 +1,10 @@
+http://ancensored.com/advanced-search
+http://ancensored.com/about.html
+http://ancensored.com/sextapes
+http://fr.ancensored.com/
+http://de.ancensored.com/
+http://pt.ancensored.com/
+http://ancensored.com/tv-show
+http://ancensored.com/
+http://es.ancensored.com/
+http://ancensored.com/help.html

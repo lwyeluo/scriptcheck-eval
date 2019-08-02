@@ -1,0 +1,10 @@
+https://www.lotto.pl/konfiguracja-przegladarki
+https://www.lotto.pl/wysokie-wygrane
+https://www.lotto.pl/aktualnosci
+https://www.lotto.pl/kaskada
+https://www.lotto.pl/super-szansa
+https://www.lotto.pl/regulamin-serwisu-lotto
+https://www.lotto.pl/eurojackpot
+https://www.lotto.pl/ekstra-pensja
+https://www.lotto.pl/wyniki-gier
+https://www.lotto.pl/

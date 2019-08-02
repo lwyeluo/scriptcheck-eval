@@ -1,0 +1,10 @@
+https://www.mckinsey.com/contact-us
+https://www.mckinsey.com/accessibility-statement
+https://www.mckinsey.com/user-registration/signin
+https://www.mckinsey.com/local-language-information
+https://www.mckinsey.com/solutions
+https://www.mckinsey.com/user-registration/register
+https://www.mckinsey.com/terms-of-use
+https://www.mckinsey.com/locations
+https://www.mckinsey.com/
+https://www.mckinsey.com/privacy-policy

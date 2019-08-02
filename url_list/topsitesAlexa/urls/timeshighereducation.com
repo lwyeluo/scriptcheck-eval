@@ -1,0 +1,10 @@
+https://www.timeshighereducation.com/about-us
+https://www.timeshighereducation.com/privacy-policy
+http://service.weibo.com/share/share.php?url=https%3A%2F%2Fwww.timeshighereducation.com%2F&title=Home
+https://www.timeshighereducation.com/our-partners
+https://www.timeshighereducation.com/contact-us
+https://www.timeshighereducation.com/student
+https://www.timeshighereducation.com/us-campaign-vows-might-mean-limited-help-black-colleges
+https://www.timeshighereducation.com/carnegie-mellon-sees-africa-growth-wise-investment
+https://www.timeshighereducation.com/summits/worldacademic/2019/
+https://www.timeshighereducation.com/

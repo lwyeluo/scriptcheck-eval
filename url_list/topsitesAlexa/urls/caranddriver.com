@@ -1,0 +1,10 @@
+https://www.caranddriver.com/polestar
+https://backfires.caranddriver.com/login
+https://www.caranddriver.com/jaguar
+https://www.caranddriver.com/jeep
+https://www.caranddriver.com/ram
+https://www.caranddriver.com/lincoln
+https://www.caranddriver.com/
+https://www.caranddriver.com/koenigsegg
+https://www.caranddriver.com/mercedes-amg
+https://www.caranddriver.com/subaru

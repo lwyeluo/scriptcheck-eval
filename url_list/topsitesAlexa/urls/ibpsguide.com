@@ -1,0 +1,10 @@
+https://www.ibpsguide.com/
+https://www.ibpsguide.com/financial-awareness-questions-day-91
+https://www.ibpsguide.com/special-ebook-for-lic-aao-sbi-po-exam-reasoning-study-materials
+https://www.ibpsguide.com/scoring-part
+https://www.ibpsguide.com/computer-awareness-quiz
+https://www.ibpsguide.com/logical-reasoning/basic-concepts-reasoning
+https://estore.ibpsguide.com/rrb-online-test-series?utm_source=website&utm_medium=traffic&utm_campaign=FreemockIG
+https://www.ibpsguide.com/special-ebook-for-sbi-po-prelims-exam-english-phrase-replacement-study-materials
+https://estore.ibpsguide.com/offer
+https://estore.ibpsguide.com/online-courses/bank-po-clerk?utm_source=website&utm_medium=traffic&utm_campaign=FreemockIG

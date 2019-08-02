@@ -1,0 +1,10 @@
+https://mn.puzzle-english.com
+https://puzzle-english.com/other
+https://ko.puzzle-english.com
+https://www.puzzle-english.com/
+https://puzzle-english.com/plan_settings
+https://puzzle-english.com/dialogs
+https://www.puzzle-english.com/termsofuse-privacy-policy
+https://www.puzzle-english.com/faq
+https://puzzle-english.com?force_ru
+https://de.puzzle-english.com

@@ -1,0 +1,10 @@
+https://help.turnitin.com/Status.htm
+https://help.turnitin.com/Privacy_and_Security/Privacy_and_Security.htm#Terms
+https://help.turnitin.com/feedback-studio/turnitin-website/student/quickstart.htm
+https://www.turnitin.com/contact
+https://www.turnitin.com/login_page.asp?lang=en_us
+https://www.turnitin.com/
+https://help.turnitin.com/Privacy_and_Security/Privacy_and_Security.htm#Privacy
+https://www.turnitin.com/community/global-innovation-awards
+https://www.turnitin.com/blog
+https://www.turnitin.com/resources

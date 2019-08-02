@@ -1,0 +1,10 @@
+https://search.soft112.com/mp3.f4l12ivcia.html
+https://backup4all-professional.soft112.com/
+https://categories.soft112.com/Audio-and-Multimedia.Other.html
+https://categories.soft112.com/Business.Office-Suites-and-Tools.html
+https://www.soft112.com/
+https://categories.soft112.com/Desktop.Other.html
+https://categories.soft112.com/Business.Accounting-and-Finance.html
+https://categories.soft112.com/Development.Other.html
+https://categories.soft112.com/Web-Development.html
+https://traveling-go.soft112.com/download.html

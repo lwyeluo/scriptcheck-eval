@@ -1,0 +1,10 @@
+https://rod.kaidee.com/c11-auto-car/?cartype=10000004
+https://www.kaidee.com/
+http://nps.kaidee.com/form
+https://baan.kaidee.com/c2-realestate/
+https://www.kaidee.com/farm/
+https://www.kaidee.com
+https://rod.kaidee.com/product-349251355
+https://rod.kaidee.com/
+https://rod.kaidee.com/product-349248302
+https://rod.kaidee.com/c11-auto-car/

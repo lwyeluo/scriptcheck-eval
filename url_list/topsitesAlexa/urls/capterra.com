@@ -1,0 +1,10 @@
+https://www.capterra.com/general-review
+https://blog.capterra.com/small-business-martech-stack/
+https://www.capterra.com/careers
+https://www.capterra.com/contact
+https://www.capterra.com/resources
+https://blog.capterra.com
+https://www.capterra.com/
+https://www.capterra.com/categories
+https://www.capterra.com/news
+https://www.capterra.com/vp/login

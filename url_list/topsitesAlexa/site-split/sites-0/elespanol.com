@@ -1,0 +1,10 @@
+https://www.elespanol.com/social/20190731/zascas-perez-reverte-solo-usted-no-sabe-leer/417458940_0.html
+https://www.elespanol.com/sociedad/sucesos/
+https://www.elespanol.com/corazon/television/20190801/azucar-moreno-lazos-sangre-pasado-refuerza/418208182_0.html#view_load_comments_module_418208182_0
+https://www.elespanol.com/enrique_recio/
+https://www.elespanol.com/manuel_de_la-chica/
+https://www.elespanol.com/deportes/motor/motogp/
+https://www.elespanol.com/reportajes/20190731/ejemplar-castigo-mario-rescata-barranco-guardia-civil/417959043_0.html#view_load_comments_module_417959043_0
+https://www.elespanol.com/marina_ochoa/
+https://www.elespanol.com/
+https://www.elespanol.com/ferrer_molina/

@@ -1,0 +1,10 @@
+http://ja.aliexpress.com
+http://pl.aliexpress.com
+https://it.aliexpress.com
+https://helppage.aliexpress.com/buyercenter/questionList.htm?searchKey=&viewKey=1&page=1&categoryIds=9205389&banner=0
+http://pt.aliexpress.com
+https://portals.aliexpress.com/
+http://www.aliexpress.com/sitemap.html
+http://helppage.aliexpress.com/buyercenter/questionAnswer.htm?isRouter=0&viewKey=1&id=24111171&categoryIds=9205381
+https://de.aliexpress.com
+https://www.aliexpress.com/

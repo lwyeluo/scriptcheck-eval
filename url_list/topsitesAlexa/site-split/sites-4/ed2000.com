@@ -1,0 +1,10 @@
+https://www.ed2000.com/
+https://www.ed2000.com/help.asp
+https://www.ed2000.com/ShowAffice.asp
+https://www.ed2000.com/FileList.asp?FileHot=1
+https://www.ed2000.com/about.asp
+https://www.ed2000.com
+https://www.ed2000.com/UserPannel.asp?menu=ManageFile
+https://www.ed2000.com/register.asp
+https://www.ed2000.com/FileList.asp
+https://www.ed2000.com/law.asp

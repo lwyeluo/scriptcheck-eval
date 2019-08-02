@@ -1,0 +1,10 @@
+https://www.paperlesspost.com/flyer
+https://www.paperlesspost.com/unsubscribe
+https://www.paperlesspost.com/terms-of-service
+https://www.paperlesspost.com/sitemap
+https://www.paperlesspost.com/
+https://www.paperlesspost.com/birthday
+https://www.paperlesspost.com/online-invitations
+https://www.paperlesspost.com/partners
+https://www.paperlesspost.com/PPToS822019.pdf
+https://www.paperlesspost.com/blog/summer-party-idea-a-campfire-dinner-with-jenni-kayne/

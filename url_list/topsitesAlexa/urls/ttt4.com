@@ -1,0 +1,10 @@
+https://www.ttt4.com/puzzle-games/
+https://www.ttt4.com/aircraft-games/
+https://www.ttt4.com/fighting-games/
+https://www.ttt4.com/skill-games/
+https://www.ttt4.com/memory-games/
+https://www.ttt4.com/car-games/earn-to-die-2012-part-2.html
+https://www.ttt4.com/soccer-games/football-legends-2016.html
+https://www.ttt4.com/fighting-games/arcane.html
+https://www.ttt4.com/cooking-games/strawberry-shortcake.html
+https://www.ttt4.com/

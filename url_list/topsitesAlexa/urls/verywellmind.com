@@ -1,0 +1,10 @@
+https://www.verywellmind.com/overview-of-the-icd-11-4589392
+https://www.verywellmind.com/what-is-bibliotherapy-4687157
+https://www.verywellmind.com/stress-management-overview-4581770
+https://www.verywellmind.com/
+https://www.verywellmind.com/treating-bipolar-disorder-3576129
+https://www.verywellmind.com/what-is-rejection-sensitivity-4682652
+https://www.verywellmind.com/the-enneagram-of-personality-4691757
+https://www.verywellmind.com/what-is-holism-4685432
+https://www.verywellmind.com/emotions-4157165
+https://www.verywellmind.com/about-us#ContactUs

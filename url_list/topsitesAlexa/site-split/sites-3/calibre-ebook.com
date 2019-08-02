@@ -1,0 +1,10 @@
+https://www.calibre-ebook.com/bugs
+https://www.calibre-ebook.com/download
+https://www.calibre-ebook.com/es
+https://drmfree.calibre-ebook.com
+https://www.calibre-ebook.com/
+https://www.calibre-ebook.com/fr
+https://www.calibre-ebook.com/sv
+https://www.calibre-ebook.com/get-involved
+https://www.calibre-ebook.com/about
+https://www.calibre-ebook.com/pt_BR

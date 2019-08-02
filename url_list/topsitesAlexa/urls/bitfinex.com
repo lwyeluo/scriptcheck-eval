@@ -1,0 +1,10 @@
+https://www.bitfinex.com/stats
+https://www.bitfinex.com/about
+https://www.bitfinex.com/app
+https://www.bitfinex.com/
+https://www.bitfinex.com/funding_book
+https://www.bitfinex.com/fees
+https://www.bitfinex.com/posts
+https://support.bitfinex.com/hc/en-us/sections/115001039645-Currencies-Tokens
+https://www.bitfinex.com/order_book
+https://www.bitfinex.com/features

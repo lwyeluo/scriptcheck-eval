@@ -1,0 +1,10 @@
+https://bdnews24.com/business/2019/08/01/mobil-bangladesh-unveils-four-new-products-at-partners-meet-2019
+https://bdnews24.com/classifieds/jobs/dhaka--education
+https://bdnews24.com/politics/2019/07/30/bnp-asks-health-minister-dhaka-mayors-to-quit-over-dengue
+https://bdnews24.com/politics/2019/07/21/washington-doesnt-restrict-participants-freedom-to-express-views-at-us-sponsored-event-embassy
+https://bdnews24.com/cityelections/
+https://bdnews24.com/narayanganj-city-polls/
+https://bdnews24.com/10thanniversary/
+https://bdnews24.com/classifieds/houses-apartments-for-rent/apartments--coxs-bazar
+https://bdnews24.com/world/2019/08/01/us-to-announce-death-of-osama-bin-laden-s-son-hamza
+https://bdnews24.com/

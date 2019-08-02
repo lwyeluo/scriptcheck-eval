@@ -1,0 +1,10 @@
+https://www.soompi.com/cookies
+https://www.soompi.com/es
+https://www.soompi.com/soompi-community-guidelines
+https://www.soompi.com/
+https://www.soompi.com/popular
+https://www.soompi.com/jobs
+https://www.soompi.com/latest
+https://www.soompi.com/terms
+https://www.soompi.com/apps
+https://www.soompi.com/trending

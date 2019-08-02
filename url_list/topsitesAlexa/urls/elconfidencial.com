@@ -1,0 +1,10 @@
+https://www.elconfidencial.com/tags/empresas/haciaunfuturomejor-innovacion-19850/
+https://www.elconfidencial.com/descuentos/vueling
+https://www.elconfidencial.com/tags/temas/psicologia-5271/
+https://www.elconfidencial.com/decompras/2019-05-30/robot-cocina-wifi-lidl-vuelve_2043286/
+https://www.elconfidencial.com/alma-corazon-vida/2019-08-01/ikea-comida-restaurante-vender-muebles-arma-secreta_2152107/
+https://www.elconfidencial.com/tags/temas/arte-6092/
+https://www.elconfidencial.com/deportes/motociclismo/
+https://www.elconfidencial.com/tags/temas/alimentacion-5601/
+https://www.elconfidencial.com/
+https://www.elconfidencial.com/motor/2019-08-01/operacion-salida-nuevo-radar-dgt-carreteras_2156755/

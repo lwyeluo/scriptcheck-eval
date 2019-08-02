@@ -1,0 +1,10 @@
+https://www.thebalancecareers.com/military-careers-4161856
+https://www.thebalancecareers.com/finding-a-job-4161644
+https://www.thebalancecareers.com/best-army-jobs-highest-paying-jobs-in-the-u-s-army-4684113
+https://www.thebalancecareers.com/career-paths-4161858
+https://www.thebalancecareers.com/
+https://www.thebalancecareers.com/can-you-make-a-living-as-a-freelancer-4589075
+https://www.thebalancecareers.com/best-jobs-in-higher-education-administration-4684127
+https://www.thebalancecareers.com/entertainment-careers-4161780
+https://www.thebalancecareers.com/keep-track-of-what-you-do-so-resume-updates-are-easy-4687133
+https://www.thebalancecareers.com/6-illegal-reasons-to-fire-someone-4685152

@@ -1,0 +1,10 @@
+https://www.tubebuddy.com/termsofuse
+https://www.tubebuddy.com/faq
+https://www.tubebuddy.com/about
+https://www.tubebuddy.com/privacy
+https://www.tubebuddy.com/alexa
+https://www.tubebuddy.com/tools#research
+https://www.tubebuddy.com/
+https://www.tubebuddy.com/tools
+https://www.tubebuddy.com/pricing
+https://www.tubebuddy.com/partners

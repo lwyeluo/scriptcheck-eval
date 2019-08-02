@@ -1,0 +1,10 @@
+https://www.shatelland.com/contact-us
+https://www.shatelland.com/
+https://www.shatelland.com/user?state=forgotPasswordupload
+https://shatelland.com/game/nintendo/709/page
+https://www.shatelland.com/upload
+https://www.shatelland.com/guid
+https://www.shatelland.com/about-us
+https://shatelland.com/game/playstation4/681/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%D8%AF%DB%8C%D8%AA%D8%A7%DB%8C-%D8%A8%D8%A7%D8%B2%DB%8C-mortal-kombat-11-%D8%A8%D8%B1%D8%A7%DB%8C-ps4/99859
+https://www.shatelland.com/user?state=forgotPassword
+https://shatelland.com/game/gamevideo/670/page

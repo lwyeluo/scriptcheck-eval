@@ -1,0 +1,10 @@
+https://www.jetblue.com/flight-tracker-and-status
+https://www.jetblue.com/airline-partners
+http://work-here.jetblue.com/
+https://www.jetblue.com/
+https://www.jetblue.com/destinations/los-angeles-area-flights
+https://www.jetblue.com/travel-agents
+https://book.jetblue.com/B6/webqtrip.html?journeySpan=MC
+https://www.jetblue.com/jetblue-for-good
+http://help.jetblue.com/SRVS/CGI-BIN/webcgi.exe?New,Kb=askBlue,case=obj(3068)
+http://blog.jetblue.com/

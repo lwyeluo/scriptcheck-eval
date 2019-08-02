@@ -1,0 +1,10 @@
+https://az.oriflame.com/
+https://ee.oriflame.com/
+https://es.oriflame.com/
+https://lt.oriflame.com/
+https://www.oriflame.com/
+https://lv.oriflame.com/
+https://ua.oriflame.com/
+https://mn.oriflame.com/
+https://pe.oriflame.com/
+https://ng.oriflame.com/

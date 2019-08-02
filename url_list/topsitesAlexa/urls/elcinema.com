@@ -1,0 +1,10 @@
+https://elcinema.com/now
+http://plaza.elcinema.com
+https://www.elcinema.com/
+http://forum.elcinema.com/t/topic/194161/
+http://forum.elcinema.com/t/topic/194633/
+https://elcinema.com/video/category/3?order=latest
+http://forum.elcinema.com/c/site-feedback/13-category
+https://www.elcinema.com/now
+https://www.elcinema.com/booking
+https://www.elcinema.com/video

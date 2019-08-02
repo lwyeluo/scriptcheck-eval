@@ -1,0 +1,10 @@
+https://www.wipro.com/holmes/
+https://www.wipro.com/
+https://careers.wipro.com/holmes-advantage.aspx
+https://careers.wipro.com/holmes-advantage.aspxprivacy-statement.aspx
+https://careers.wipro.com/privacy-statement.aspx
+https://careers.wipro.com/holmes-advantage.aspxprivacy-statement.aspxprivacy-statement.aspx
+https://careers.wipro.com/privacy-statement.aspxprivacy-statement.aspx
+https://www.wipro.com/brand/
+https://careers.wipro.com/
+https://careers.wipro.com/privacy-statement.aspxprivacy-statement.aspxprivacy-statement.aspx

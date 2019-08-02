@@ -1,0 +1,10 @@
+https://www.pulzo.com/opinion
+https://www.pulzo.com/nacion/necropsia-cuerpo-joven-muerto-base-militar-lizama-PP742392
+https://www.pulzo.com/terminos-y-condiciones
+https://www.pulzo.com/economia
+https://www.pulzo.com/video
+https://www.pulzo.com/nacion
+https://www.pulzo.com/
+https://www.pulzo.com/deportes
+https://www.pulzo.com/ultimas-noticias
+https://www.pulzo.com/virales

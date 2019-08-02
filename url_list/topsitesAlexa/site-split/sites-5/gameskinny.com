@@ -1,0 +1,10 @@
+https://www.gameskinny.com/
+https://www.gameskinny.com/tv
+https://www.gameskinny.com/about#advertising
+https://www.gameskinny.com/popular
+https://www.gameskinny.com/about#contact
+https://www.gameskinny.com/4pv37/subscribe-to-gameskinny-via-rss-or-email/
+https://www.gameskinny.com/browse
+https://www.gameskinny.com/culture
+https://www.gameskinny.com/login
+https://www.gameskinny.com/news

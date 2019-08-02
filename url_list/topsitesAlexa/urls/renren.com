@@ -1,0 +1,10 @@
+https://openapi.360.cn/oauth2/authorize?client_id=5ddda4458747126a583c5d58716bab4c&response_type=code&redirect_uri=http://www.renren.com/bind/tsz/tszLoginCallBack&scope=basic&display=default
+http://dev.renren.com/
+http://page.renren.com/register/regGuide/
+http://st.renren.com
+https://www.renren.com/
+http://www.renren.com
+https://oauth.api.189.cn/emp/oauth2/authorize?app_id=296961050000000294&response_type=code&redirect_uri=http://www.renren.com/bind/ty/tyLoginCallBack
+http://down.renren.com/pczbzs/rrzb_Setup-13.exe
+http://zhibo.renren.com/
+http://www.renren.com/siteinfo/privacy

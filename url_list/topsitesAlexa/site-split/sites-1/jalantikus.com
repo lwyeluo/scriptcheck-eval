@@ -1,0 +1,10 @@
+https://jalantikus.com/tips/perbedaan-sistem-operasi-android-ios/
+https://jalantikus.com/games/terminator-genisys-revolution/
+https://jalantikus.com/games/bus-simulator-lintas-jawa-windows/
+https://jalantikus.com/apps/download/5686/
+https://jalantikus.com/gokil/meme-thr-2018/
+https://jalantikus.com/tips/cara-membuat-keyboard-hp-jadi-gaming-rgb-mudah-gratis/
+https://jalantikus.com/tips/pengguna-iphone-ogah-ganti-android/
+https://jalantikus.com/
+https://jalantikus.com/tips/kejadian-unik-indonesia-terekam-google-maps/
+https://jalantikus.com/tips/film-song-joong-ki/

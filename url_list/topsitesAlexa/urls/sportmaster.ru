@@ -1,0 +1,10 @@
+http://job.sportmaster.ru
+http://zakupki.sportmaster.ru/personal/company/register
+http://job.sportmaster.ru/
+https://www.sportmaster.ru/
+http://zakupki.sportmaster.ru/personal/company/list
+http://zakupki.sportmaster.ru/
+http://zakupki.sportmaster.ru/contacts/
+http://zakupki.sportmaster.ru/personal/company/
+https://m.sportmaster.ru
+https://www.sportmaster.ru?nomobile=1

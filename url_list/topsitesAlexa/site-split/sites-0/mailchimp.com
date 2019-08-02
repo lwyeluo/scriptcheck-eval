@@ -1,0 +1,10 @@
+https://status.mailchimp.com
+https://mailchimp.com/resources/early-holiday-marketing-tips/?utm_source=mc-social&utm_medium=login&utm_campaign=resource&utm_content=early-holiday-marketing-tips
+https://mailchimp.com/legal/cookies/
+https://mailchimp.com/
+https://mailchimp.com/help/about-api-keys/#find+or+generate+your+api+key
+https://developer.mailchimp.com/
+https://developer.mailchimp.com
+https://mailchimp.com
+https://login.mailchimp.com/
+https://us1.api.mailchimp.com/playground/

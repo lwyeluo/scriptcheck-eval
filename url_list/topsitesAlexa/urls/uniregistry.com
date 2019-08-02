@@ -1,0 +1,10 @@
+https://uniregistry.com/market-fees-rules
+https://uniregistry.com/domain-brokerage
+https://uniregistry.com/sell-domains
+https://uniregistry.com/contact-sales
+https://uniregistry.com/blog
+https://uniregistry.com/buy-domains
+https://uniregistry.com/contact-us
+https://uniregistry.com/account-signup
+https://uniregistry.com/
+https://uniregistry.com/app

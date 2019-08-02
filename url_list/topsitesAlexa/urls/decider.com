@@ -1,0 +1,10 @@
+https://decider.com/show/southern-charm/
+https://decider.com/what-to-watch/
+https://decider.com/platform/pbs/
+https://decider.com/2019/07/12/road-house-on-netflix-review/
+https://decider.com/2019/07/31/orange-is-the-new-black-piper-is-the-worst/
+https://decider.com/what-to-watch/queer-eye-season-4/
+https://decider.com/platform/fxnow/
+https://decider.com/what-to-watch/mood/adventurous/
+https://decider.com/about/
+https://decider.com/

@@ -1,0 +1,10 @@
+https://mixer-1ruplus.ru/?new_cat=4
+https://mixer-1ruplus.ru/?new_cat=2
+https://mixer-1ruplus.ru/?new_cat=4?new_cat=5
+https://mixer-1ruplus.ru/?new_cat=4?new_cat=1
+https://mixer-1ruplus.ru/?new_cat=4?new_cat=6
+https://mixer-1ruplus.ru/?new_cat=5
+https://mixer-1ruplus.ru/?new_cat=6
+https://mixer-1ruplus.ru/?new_cat=1
+https://mixer-1ruplus.ru/?new_cat=3
+https://mixer-1ruplus.ru/

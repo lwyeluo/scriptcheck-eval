@@ -1,0 +1,10 @@
+http://katfile.com/privacy_policy.html
+http://katfile.com/legal.html
+http://katfile.com/tos.html
+http://katfile.com/make-money.html
+http://www.katfile.com/
+http://katfile.com/faq.html
+http://katfile.com/refund_policy.html
+http://katfile.com
+http://katfile.com/dmca.html
+http://katfile.com/abuse.html

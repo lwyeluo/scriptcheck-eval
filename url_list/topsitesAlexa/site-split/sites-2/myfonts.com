@@ -1,0 +1,10 @@
+https://www.myfonts.com/secure/login/myorderskitbuild.html
+https://www.myfonts.com/secure/login/
+https://www.myfonts.com/secure/login/newsletters
+https://www.myfonts.com/secure/login/myrenewals
+https://www.myfonts.com/bundles
+https://www.myfonts.com/
+https://www.myfonts.com/secure/login/myfavorites
+https://www.myfonts.com/secure/login/WhatTheFontforum
+https://www.myfonts.com/secure/login/securereset_password
+https://www.myfonts.com/secure/login/myalbums

@@ -1,0 +1,10 @@
+http://www.pc6.com/mach/macys/
+http://www.pc6.com/iphoneh/ipbook/
+http://www.pc6.com/pc/shipinxz/
+http://www.pc6.com
+http://www.pc6.com/softview/SoftView_48898.html
+http://www.pc6.com/
+http://www.pc6.com/pc/danji/
+http://www.pc6.com/iphoneh/ipjiaoyou/
+http://www.pc6.com/infoview/Article_183708.html
+http://www.pc6.com/z/gamek/

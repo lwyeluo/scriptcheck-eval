@@ -1,0 +1,10 @@
+https://template.typeform.com/to/fC4mOE
+https://www.typeform.com/connect/
+https://www.typeform.com/quizzes/
+https://www.typeform.com/blog/news/
+https://www.typeform.com/
+https://www.typeform.com/product/
+https://www.typeform.com/l/partners/
+https://admin.typeform.com/to/dwk6gt/
+https://developer.typeform.com/
+https://status.typeform.com/

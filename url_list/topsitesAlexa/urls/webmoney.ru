@@ -1,0 +1,10 @@
+https://funding.webmoney.ru/create
+https://payments.webmoney.ru/home/index
+https://www.webmoney.ru/rus/help/start/pretenzi-iski.shtml
+https://events.webmoney.ru
+https://escrow.webmoney.ru
+https://payments.webmoney.ru
+https://escrow.webmoney.ru/
+https://www.webmoney.ru/
+http://escrow.webmoney.ru/
+http://masspayment.webmoney.ru/

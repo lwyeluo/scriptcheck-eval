@@ -1,0 +1,10 @@
+https://school.dek-d.com/category/high-school
+https://www.dek-d.com/starissue/53282/
+https://www.dek-d.com/
+https://www.dek-d.com/education/53201/
+https://www.dek-d.com/pre-onet/
+https://www.dek-d.com/tag/ปรมาจารย์ลัทธิมาร/game/
+https://www.dek-d.com/writer/store/
+https://www.dek-d.com/casting/
+https://www.dek-d.com/writer/53213/
+https://www.dek-d.com/store/view_info.php?product=115

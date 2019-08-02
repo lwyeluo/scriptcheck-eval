@@ -1,0 +1,10 @@
+https://www.fastcompany.com/magazine
+https://www.fastcompany.com/privacy-policy
+https://getpocket.com/explore/fastcompany.com
+https://www.fastcompany.com/videos
+https://www.fastcompany.com/
+https://www.fastcompany.com
+https://www.fastcompany.com/entertainment
+https://www.fastcompany.com/terms-and-conditions
+https://magazine.fastcompany.com/loc/FST/sidenav1999
+https://www.fastcompany.com/co-design

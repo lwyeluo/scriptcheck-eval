@@ -1,0 +1,10 @@
+https://www.cnnturk.com/spor
+https://www.cnnturk.com/iyiliksaglik
+https://www.cnnturk.com/galeriler
+https://www.cnnturk.com/rss
+https://www.cnnturk.com/sosyal-medya
+https://www.cnnturk.com/teknoloji
+https://www.cnnturk.com/
+https://www.cnnturk.com/son-dakika-haberleri
+https://www.cnnturk.com/canli-yayin
+https://www.cnnturk.com/tv

@@ -1,0 +1,10 @@
+http://668640.shop.258.com
+http://cortana.shop.258.com
+https://www.258.com/
+http://jixie.258.com/cp/914
+http://682624.shop.258.com
+https://www.258.com/gnzh
+http://651770.shop.258.com
+http://www.258.com/psearch/key/G
+http://680740.shop.258.com
+http://684792.shop.258.com

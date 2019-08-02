@@ -1,0 +1,10 @@
+https://www.yota.ru/pay
+https://b2b.yota.ru
+https://www.yota.ru/
+https://www.yota.ru/store
+https://www.yota.ru/contacts
+https://www.yota.ru/mnp
+https://www.yota.ru/coverage
+https://www.yota.ru/map-sales
+https://www.yota.ru/modem
+https://www.yota.ru/voice

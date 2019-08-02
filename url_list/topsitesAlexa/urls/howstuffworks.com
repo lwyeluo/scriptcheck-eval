@@ -1,0 +1,10 @@
+https://adventure.howstuffworks.com/
+https://home.howstuffworks.com/home-improvement/household-hints-tips/cleaning-organizing/hydrogen-peroxide-uses.htm
+https://science.howstuffworks.com/innovation/new-inventions/liquid-magnets.htm
+https://lifestyle.howstuffworks.com/
+https://science.howstuffworks.com/science-vs-myth/what-if/what-if-everyone-in-world-recycled.htm
+https://home.howstuffworks.com/
+https://recipes.howstuffworks.com/take-a-bite-out-of-cheese-curds-video.htm
+https://www.howstuffworks.com
+https://www.howstuffworks.com/newsletter.htm
+https://www.howstuffworks.com/

@@ -1,0 +1,10 @@
+http://classic.esquire.com/article/2019/4/1/the-paper-of-gotcha
+http://classic.esquire.com/issue/19730701
+http://classic.esquire.com/article/1973/7/1/the-lover-joy-williams
+http://classic.esquire.com/article/1969/5/1/mr-bridge
+http://classic.esquire.com/issue/19680701
+http://classic.esquire.com/article/2000/7/1/everest-at-the-bottom-of-the-sea
+http://classic.esquire.com/article/1966/10/1/the-life-and-suspiciously-hard-times-of-anthony-quinn
+http://classic.esquire.com
+http://classic.esquire.com/article/1999/10/1/youll-never-look-at-hillary-clinton-the-same-way-again
+https://www.esquire.com/

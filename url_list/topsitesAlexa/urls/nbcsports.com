@@ -1,0 +1,10 @@
+https://www.nbcsports.com/olympic-channel
+https://www.nbcsports.com/
+https://mlb.nbcsports.com/2019/07/31/braves-acquire-reliever-shane-greene-from-tigers/
+https://www.nbcsports.com/nfl
+https://motorsports.nbcsports.com/2019/08/01/dixon-a-legitimate-threat-to-win-2019-ntt-indycar-series-championship/
+https://profootballtalk.nbcsports.com/2019/07/31/report-cowboys-ezekiel-elliott-are-not-close/
+https://nba.nbcsports.com/2019/07/31/james-harden-russell-westbrook-will-be-under-load-management-next-year/
+https://soccer.nbcsports.com/2019/07/31/as-pochettino-lashes-out-do-spurs-have-big-problem/
+https://www.nbcsports.com/mlb
+https://www.nbcsports.com/video/dolphins-kenyan-drake-miami-miracle-vs-patriots-coach-brian-flores

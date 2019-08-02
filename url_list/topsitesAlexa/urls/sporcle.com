@@ -1,0 +1,10 @@
+https://www.sporcle.com/blog/2019/07/whats-the-difference-between-bugs-and-insects/
+https://www.sporcle.com/
+https://www.sporcle.com/page5.html
+https://www.sporcle.com/blog/2019/07/why-is-pound-abbreviated-as-lb/
+https://www.sporcle.com/page6.html
+https://www.sporcle.com/page4.html
+https://www.sporcle.com/page8.html
+https://www.sporcle.com/page7.html
+https://www.sporcle.com/page2.html
+https://www.sporcle.com/page3.html

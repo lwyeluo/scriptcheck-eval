@@ -1,0 +1,10 @@
+https://www.overstock.com/bathroom
+https://www.overstock.com/intlcountryselect
+https://www.overstock.com/myaccount
+https://www.overstock.com/
+https://www.overstock.com/dorm-room-essentials
+https://www.overstock.com/shop-by-style?products=18608231,20985576,11041284,16644949,14310095,16481072,13564903,11682729,14310041,20295495,13392853,12180340,8859663,14061991
+https://www.overstock.com/deals
+https://www.overstock.com/cart
+https://www.overstock.com/living-room?products=6600047,14309889,20370359,10071714,20506472,5103481,20263567,10425482,19956804,20295495,22799586,8926200,24097608,12223655,22466165,7110229,21148401
+https://www.overstock.com/login?redirect_url=%2Fmyaccount

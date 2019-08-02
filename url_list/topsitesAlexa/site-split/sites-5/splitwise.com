@@ -1,0 +1,10 @@
+https://www.splitwise.com/
+https://www.splitwise.com/privacy
+https://blog.splitwise.com
+https://www.splitwise.com/login
+http://feedback.splitwise.com
+http://feedback.splitwise.com/knowledgebase
+https://www.splitwise.com/press
+https://www.splitwise.com/jobs
+https://www.splitwise.com/mobile
+https://www.splitwise.com/about

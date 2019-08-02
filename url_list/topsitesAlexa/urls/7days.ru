@@ -1,0 +1,10 @@
+https://7days.ru/
+https://7days.ru/promokodi/kupony-aliexpress?from=top-menu
+https://7days.ru/advertising.php
+https://7days.ru/promokodi/promokod-ebay
+https://7days.ru/promokodi/promokod-asos?from=top-menu
+https://7days.ru/promokodi/kupony-biglion?from=top-menu
+https://7days.ru/promokodi/kody-bonprix
+https://7days.ru/promokodi/promokod-svyaznoy
+https://7days.ru/games/?from=top-menu
+https://7days.ru/promokodi/promokod-sportmaster?from=top-menu

@@ -1,0 +1,10 @@
+https://support.eveonline.com/hc/en-us
+https://secure.eveonline.com/buy/
+https://www.eveonline.com/omega
+https://updates.eveonline.com/
+https://www.eveonline.com/player-resources
+https://secure.eveonline.com/signup/
+https://fiction.eveonline.com/
+https://www.eveonline.com/
+https://www.eveonline.com/recruit
+https://www.eveonline.com/articles

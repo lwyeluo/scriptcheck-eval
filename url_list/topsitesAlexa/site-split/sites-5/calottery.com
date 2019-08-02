@@ -1,0 +1,10 @@
+https://www.calottery.com/media
+https://www.calottery.com/happenings
+https://www.calottery.com/site-map
+https://www.calottery.com/play
+https://www.calottery.com/retailer
+https://static.www.calottery.com/~/media/Footer_Pages/aCSL%201367%20Language%20Access%20Complaint-update.pdf
+https://www.calottery.com/play-responsibly
+https://www.calottery.com/terms-of-service
+https://www.calottery.com/about-us
+https://www.calottery.com/

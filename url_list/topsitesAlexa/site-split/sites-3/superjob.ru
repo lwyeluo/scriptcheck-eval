@@ -1,0 +1,10 @@
+https://www.superjob.ru/registration.html
+https://krasnodar.superjob.ru
+https://mo.superjob.ru
+https://ekaterinburg.superjob.ru
+https://hr.superjob.ru/
+https://nn.superjob.ru
+https://www.superjob.ru/
+https://nsk.superjob.ru
+https://students.superjob.ru
+https://api.superjob.ru

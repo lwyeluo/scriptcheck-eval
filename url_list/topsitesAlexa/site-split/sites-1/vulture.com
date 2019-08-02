@@ -1,0 +1,10 @@
+https://www.vulture.com/2019/07/amber-ruffin-late-night-cats-marvel-diverse-casting.html
+https://www.vulture.com/2019/07/tom-kenny-explains-spongebob-memes.html
+https://www.vulture.com/2019/07/black-thought-reviews-some-of-his-dope-credits.html
+https://www.vulture.com/2019/07/best-new-true-crime-podcasts-tonya-harding.html
+https://www.vulture.com/
+http://www.vulture.com
+https://www.vulture.com/article/best-anime-on-netflix.html
+https://www.vulture.com/2019/07/this-week-in-comedy-podcasts-the-jackie-and-laurie-show.html
+https://www.vulture.com/2019/07/motion-smoothing-is-ruining-cinema.html
+https://www.vulture.com/2019/07/hal-prince-directed-the-best-musical-production-i-ever-saw.html

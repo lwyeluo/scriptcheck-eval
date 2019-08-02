@@ -1,0 +1,10 @@
+https://extensions.sketchup.com/
+https://forums.sketchup.com
+https://extensions.sketchup.com/en/developer_center/sketchup_sdk
+https://blog.sketchup.com
+https://forums.sketchup.com/c/developers
+https://learn.sketchup.com
+https://www.sketchup.com/terms-of-service
+https://www.sketchup.com/try-sketchup
+http://ruby.sketchup.com/
+https://www.sketchup.com/

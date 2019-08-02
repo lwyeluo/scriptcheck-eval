@@ -1,0 +1,10 @@
+https://www.datezone.com/#register
+https://www.datezone.com/groups/
+https://www.datezone.com/videos/
+https://www.datezone.com/cameras/
+https://www.datezone.com/
+https://www.datezone.com/privacy/
+https://www.datezone.com/news/
+https://www.datezone.com/#login
+https://www.datezone.com/#recover
+https://www.datezone.com/search/

@@ -1,0 +1,10 @@
+https://www.boyfriendtv.com/tags/
+https://www.boyfriendtv.com/registration/?utm_source=registration&utm_medium=desktop&utm_campaign=registration-top
+https://www.boyfriendtv.com/registration/?utm_source=registration&utm_medium=desktop&utm_campaign=registration-toplogin?fw=https%3A%2F%2Fwww.boyfriendtv.com%2Fregistration%2F%3Futm_source%3Dregistration%26utm_medium%3Ddesktop%26utm_campaign%3Dregistration-top
+https://www.boyfriendtv.com/playlists/
+https://www.boyfriendtv.com/
+https://www.boyfriendtv.com/best-galleries/
+https://www.boyfriendtv.com/?s=
+https://www.boyfriendtv.com/best-videos/
+https://www.boyfriendtv.com/models/
+https://forum.boyfriendtv.com/

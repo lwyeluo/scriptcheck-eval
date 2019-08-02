@@ -1,0 +1,10 @@
+https://www.wikiloc.com/trails/outdoor/colombia
+https://www.wikiloc.com/trails/outdoor/austria
+https://www.wikiloc.com
+https://www.wikiloc.com/wikiloc/privacy.html?v2.0#cookies
+https://it.wikiloc.com
+https://www.wikiloc.com/wikiloc/pois.do
+https://www.wikiloc.com/trails/outdoor/switzerland
+https://www.wikiloc.com/jobs
+https://www.wikiloc.com/
+https://www.wikiloc.com/wikiloc/terms_en.html?v5.1

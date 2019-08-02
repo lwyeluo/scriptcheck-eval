@@ -1,0 +1,10 @@
+https://contact.dailywire.com/speakers/
+https://www.dailywire.com/contact
+https://www.dailywire.com/podcasts
+https://www.dailywire.com/careers
+https://www.dailywire.com/contact#advertising
+https://www.dailywire.com/privacy-policy
+https://www.dailywire.com/terms-of-use
+https://www.dailywire.com/
+https://www.dailywire.com/search
+https://www.dailywire.com/authors

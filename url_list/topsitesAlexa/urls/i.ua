@@ -1,0 +1,10 @@
+https://perevod.i.ua/
+http://catalog.i.ua/catalog/172/
+http://catalog.i.ua/catalog/7/
+https://www.i.ua/
+http://catalog.i.ua/catalog/40/
+http://catalog.i.ua/catalog/13/
+http://catalog.i.ua/catalog/14/
+http://pda.i.ua/
+http://mail.i.ua/
+http://catalog.i.ua/catalog/11/

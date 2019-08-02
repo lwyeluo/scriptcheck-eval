@@ -1,0 +1,10 @@
+https://www.blackmagicdesign.com/au
+https://www.blackmagicdesign.com/pt
+https://www.blackmagicdesign.com/it
+https://www.blackmagicdesign.com/mx
+https://www.blackmagicdesign.com/de
+https://www.blackmagicdesign.com/products#atem-live-production-switchers
+https://www.blackmagicdesign.com/cn
+https://www.blackmagicdesign.com/br
+https://www.blackmagicdesign.com/company
+https://www.blackmagicdesign.com/

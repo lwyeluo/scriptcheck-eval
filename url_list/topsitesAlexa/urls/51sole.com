@@ -1,0 +1,10 @@
+http://jiancai.51sole.com/b2c/list_24211_3/
+http://jiancai.51sole.com
+http://corp.51sole.com/
+http://xiangbao.51sole.com
+http://hkjum1204816.51sole.com/companyproductdetail_182222516.htm
+http://snt.51sole.com/productlist/153/190/b0/
+http://pige.51sole.com/b2c/b2clist_20015_3/
+http://www.51sole.com/
+http://www.51sole.com/so1302185.html
+http://www.51sole.com/dongguan/

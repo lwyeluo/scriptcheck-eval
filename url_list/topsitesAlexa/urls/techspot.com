@@ -1,0 +1,10 @@
+https://www.techspot.com/downloads/instant-messaging/
+https://www.techspot.com/
+https://www.techspot.com/community/topics/startup-aims-to-bring-its-porous-silicon-battery-to-evs-and-grid-storage.255497/
+https://www.techspot.com/downloads/5223-spotify/similar/
+https://www.techspot.com/news/81230-verizon-activates-5g-network-four-additional-us-cities.html
+https://www.techspot.com/news/81204-over-100-million-playstation-4-consoles-have-now.html
+https://www.techspot.com/category/mobile/
+https://www.techspot.com/category/google/
+https://www.techspot.com/news/81231-tiny-thinkpad-has-functional-trackpoint-even-plays-games.html
+https://www.techspot.com/privacy.html

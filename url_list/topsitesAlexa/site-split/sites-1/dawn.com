@@ -1,0 +1,10 @@
+https://www.dawn.com/
+https://www.dawn.com/news/1496842/whats-stopping-expats-from-building-new-pakistan
+https://www.dawn.com/news/1497474/pakistan-formally-offers-india-consular-access-to-spy-kulbhushan-jadhav
+https://www.dawn.com/news/1330100/canvas-the-reclusive-artist
+https://www.dawn.com/news/1496708/the-grapevine#comments
+https://www.dawn.com/news/1497351/authorities-say-bear-in-viral-video-is-fine
+https://www.dawn.com/news/1497433/trumps-smile
+https://www.dawn.com/news/1497477/big-blow-for-the-opposition-journalists-politicos-react-to-sanjranis-shock-victory-in-no-trust-vote
+https://www.dawn.com/authors/496/touqir-hussain
+https://www.dawn.com/news/1497211/ptis-man-in-ghotki

@@ -1,0 +1,10 @@
+https://www.mturk.com/help
+https://www.mturk.com/get-started
+https://www.mturk.com/
+https://www.mturk.com/worker
+https://requester.mturk.com/status/
+https://www.mturk.com/pricing
+https://www.mturk.com/resources
+https://www.mturk.com/legal-licenses
+https://www.mturk.com/product-details
+https://www.mturk.com/customers

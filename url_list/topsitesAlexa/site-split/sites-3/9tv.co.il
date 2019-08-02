@@ -1,0 +1,10 @@
+http://9tv.co.il/news/2019/07/22/272931.html
+http://9tv.co.il/news/2019/07/23/272986.html
+http://9tv.co.il/news/2019/05/28/270930.html
+http://9tv.co.il/news/2019/07/30/273264.html
+http://9tv.co.il/news/2019/08/01/273329.html
+http://9tv.co.il/news/see-listen/
+http://9tv.co.il/news/middle-east/
+https://www.9tv.co.il/
+http://9tv.co.il/video/2019/07/29/79985.html
+http://9tv.co.il/news/2019/07/23/273007.html

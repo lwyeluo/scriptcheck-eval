@@ -1,0 +1,10 @@
+https://www.marketwatch.com/story/former-health-clinic-employee-admits-telling-job-seekers-their-names-were-too-ghetto-2019-07-31
+https://www.marketwatch.com/story/shell-profit-drops-as-lower-oil-prices-offset-rising-production-2019-08-01
+https://www.marketwatch.com/investing/stock/k
+https://www.marketwatch.com/retirement/best-new-ideas-in-retirement
+https://www.marketwatch.com/graphics/best-place-to-retire/
+https://www.marketwatch.com/investing/stock/twlo
+https://www.marketwatch.com/personal-finance/family-finance
+https://www.marketwatch.com/investing/stock/vz
+https://www.marketwatch.com/video/democratic-candidates-back-trump-impeachment-proceedings-during-debate/5BBAB08D-7602-4DC6-AD2D-68BF66990742.html
+https://www.marketwatch.com/

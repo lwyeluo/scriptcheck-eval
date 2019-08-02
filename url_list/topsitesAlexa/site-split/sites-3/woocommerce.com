@@ -1,0 +1,10 @@
+https://woocommerce.com/product-category/woocommerce-extensions/shipping-methods/inventory-fulfillment/
+https://woocommerce.com/product-category/woocommerce-extensions/operations/point-of-sale/
+https://woocommerce.com/product-category/woocommerce-extensions/marketing-extensions/social/
+https://woocommerce.com/product-category/woocommerce-extensions/operations/import-export-extensions/
+https://woocommerce.com/experts/
+https://docs.woocommerce.com/document/frequently-asked-questions/
+https://woocommerce.com/developers/
+https://woocommerce.com/refund-policy/
+https://woocommerce.com/product-category/storefront-extensions/
+https://woocommerce.com/

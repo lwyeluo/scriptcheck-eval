@@ -1,0 +1,10 @@
+https://www.yapo.cl/los_lagos
+https://www2.yapo.cl/login
+https://www.yapo.cl/valparaiso
+https://www.yapo.cl/los_rios
+https://www.yapo.cl/coquimbo
+https://www2.yapo.cl/reset_password?op=1
+https://www.yapo.cl/tarapaca
+https://www.yapo.cl/
+https://www.yapo.cl/promocional/invierno-calentito?
+https://www.yapo.cl/region_metropolitana

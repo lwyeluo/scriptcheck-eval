@@ -1,0 +1,10 @@
+https://secondlife.com/
+https://secondlife.com/?lang=ru-RU
+https://secondlife.com/land/?lang=en-US
+https://secondlife.com/destinations
+https://join.secondlife.com?lang=en-US
+https://secondlife.com/destinations/?lang=en-US
+https://secondlife.com/destinations/games/?lang=en-US
+https://secondlife.com/?lang=tr-TR
+https://secondlife.com/?lang=fr-FR
+https://secondlife.com/?lang=de-DE

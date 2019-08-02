@@ -1,0 +1,10 @@
+https://www.zumiez.com/mens/hoodies.html?dir=desc&order=recommended
+https://www.zumiez.com/the-stash
+https://www.zumiez.com/storelocator
+https://www.zumiez.com/
+https://www.zumiez.com/snow.html?all=sale&d=1000093%2C1000107&gender=womens
+https://www.zumiez.com/entrance/
+https://www.zumiez.com/skate/
+https://www.zumiez.com/help/faq/
+https://www.zumiez.com/accessories/hats.html?dir=desc&order=recommended
+https://www.zumiez.com/winaweekend#request-the-catalog

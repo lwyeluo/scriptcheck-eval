@@ -1,0 +1,10 @@
+https://www.hespress.com/writers/index.1.html
+https://www.hespress.com/blogs.html
+https://www.hespress.com/le-dessin-du-jour/index.1.html
+https://www.hespress.com/advertising-on-hespress.html
+https://www.hespress.com/baisse/index.1.html
+https://www.hespress.com/
+https://www.hespress.com/team.html
+https://www.hespress.com/opinions/index.1.html
+https://www.hespress.com/publier.html
+https://www.hespress.com/site-web.html

@@ -1,0 +1,10 @@
+https://www.sportsdirect.com/customerservices
+https://www.sportsdirect.com/jobs
+https://www.sportsdirect.com/the-boot-room
+https://www.sportsdirect.com/ladies
+https://www.sportsdirect.com/puma
+https://www.sportsdirect.com/
+https://www.sportsdirect.com/adidas
+https://www.sportsdirect.com/sale?promo_name=fos-offer
+https://www.sportsdirect.com/calvin-klein
+https://www.sportsdirect.com/Login?addto=wishlist&returnurl=%2f

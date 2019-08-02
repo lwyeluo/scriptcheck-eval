@@ -1,0 +1,10 @@
+https://rueconomics.ru/403179-doktor-myasnikov-nazval-rasprostranennye-i-opasnye-oshibki-rossiyan-pri-lechenii-zabolevanii
+https://rueconomics.ru/403087-mvd-predlozhilo-lgoty-zhelayushchim-poluchit-grazhdanstvo-rf-ukraincam
+https://rueconomics.ru/403099-roskontrol-obyavil-luchshie-marki-russkoi-kolbasy
+https://rueconomics.ru/403176-poroshenko-sam-davno-oproverg-svoe-avtorstvo-nevypolneniem-minskikh-soglashenii
+https://rueconomics.ru/vse-novosti
+https://rueconomics.ru/403156-polskii-politolog-koreiba-ustroil-draku-s-ukraincem-na-shou-skabeevoi
+https://rueconomics.ru/403166-ekspert-rasskazala-o-paradoksalnykh-motivakh-tipichnogo-rossiiskogo-korrupcionera
+https://rueconomics.ru/403114-ministerstvo-oborony-opublikovalo-video-s-udarami-po-terroristam
+https://rueconomics.ru/403177-uchastie-nato-v-armi-2019-govorit-o-bespoleznosti-propagandistskikh-priemov-zapada
+https://rueconomics.ru/

@@ -1,0 +1,10 @@
+https://www.goo-net.com/
+https://www.goo-net.com/pit/reserve/index.html?utm_source=goo-net.com&utm_medium=referral&utm_campaign=reserve_work&utm_term=atgoo
+https://www.goo-net.com/user_review/
+https://www.goo-net.com/goopassport/goo_mail_back/20190723/
+https://www.goo-net.com/goonet/php/estimate/cart.php
+https://www.goo-net.com/com/tire/
+https://www.goo-net.com
+https://www.goo-net.com/goonet/php/userreview/input.php
+https://www.goo-net.com/cgi-bin/goonet/campaign/form/entry.cgi?contents_key=goo_estimate_enquete&disposal=input
+https://auction.goo-net.com/

@@ -1,0 +1,10 @@
+https://comicbook.com/tv-shows/2019/08/01/game-of-thrones-finale-script-drogon-iron-throne/
+https://comicbook.com/marvel/2019/07/30/avengers-endgame-captain-marvel-more-powerful-thor/
+https://comicbook.com/
+https://comicbook.com/anime/2019/07/31/jojos-bizarre-adventure-where-does-finale-leave-giorno-anime-manga/
+https://comicbook.com/anime/2019/07/31/cardcaptor-sakura-anime-cosplayer-sets-world-record-manga/
+https://comicbook.com/marvel/2019/08/01/falcon-and-winter-soldier-tv-show-disney-plus-sebastian-stan-anthony-mackie-thirst-tweets/
+https://comicbook.com/starwars/2019/08/01/star-wars-titles-disney-plus-launch-force-awakens-clone-wars-/
+https://comicbook.com/tv-shows/2019/08/01/the-boys-major-character-absences-terror-season-1/
+https://comicbook.com/gaming/2019/08/01/pubg-mobile-team-up-superstar-showdown-episode-1-nba-stars/
+https://comicbook.com/starwars/?Page=1

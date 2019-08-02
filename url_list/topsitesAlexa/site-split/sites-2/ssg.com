@@ -1,0 +1,10 @@
+http://www.ssg.com/search.ssg?target=all&query=%ec%ba%90%eb%a1%af&src_area=item_list
+http://www.ssg.com/event/eventDetail.ssg?promId=1100344210
+http://www.ssg.com/search.ssg?target=all&query=3%eb%8b%a8%ec%84%9c%eb%9e%8d%ec%9e%a5&src_area=item_list
+http://tv.ssg.com
+http://earlymorning.ssg.com/event/eventDetail.ssg?promId=1100430135
+http://department.ssg.com/specialStore/brand-amorepacific/main.ssg?tarea=store6005main
+http://www.ssg.com/event/eventDetail.ssg?promId=1100376614
+http://www.ssg.com/event/eventDetail.ssg?promId=1100432551
+http://www.ssg.com/search.ssg?target=all&query=%ec%bb%a4%ed%8a%bc&src_area=item_list
+http://www.ssg.com/

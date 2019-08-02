@@ -1,0 +1,10 @@
+https://blog.coinmarketcap.com/contact/
+https://blog.coinmarketcap.com/category/analysis/
+https://blog.coinmarketcap.com/2018/11/27/according-to-coinmarketcap-2018-edition/#comment-820
+https://coinmarketcap.com/mobile/
+https://blog.coinmarketcap.com/2018/11/27/according-to-coinmarketcap-2018-edition/?utm_source=coinmarketcap.com&utm_medium=web&utm_campaign=nav2
+https://blog.coinmarketcap.com
+https://blog.coinmarketcap.com/2018/11/27/according-to-coinmarketcap-2018-edition/#comment-817
+https://coinmarketcap.com/api
+https://coinmarketcap.com/
+https://shop.coinmarketcap.com?utm_source=coinmarketcap

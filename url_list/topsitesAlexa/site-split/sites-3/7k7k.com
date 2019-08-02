@@ -1,0 +1,10 @@
+http://www.7k7k.com/tag/1/
+http://www.7k7k.com/tag/183/
+http://www.7k7k.com/flash175870.htm
+http://www.7k7k.com/flash197479.htm
+http://www.7k7k.com/flash_fl461_1.htm
+http://www.7k7k.com/tag3313
+http://www.7k7k.com/tag/195/
+http://www.7k7k.com/
+http://www.7k7k.com/flash177624.htm
+http://news.7k7k.com/longzhigu2/

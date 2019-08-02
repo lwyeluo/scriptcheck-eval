@@ -1,0 +1,10 @@
+https://www.stitchfix.com/kids
+https://www.stitchfix.com/influencer-program
+https://multithreaded.stitchfix.com/blog/
+https://support.stitchfix.com/hc/en-us/articles/204222994-FAQ
+https://www.stitchfix.com/privacy
+https://www.stitchfix.com/men
+https://www.stitchfix.com/supply-chain-information
+https://newsroom.stitchfix.com/
+https://www.stitchfix.com/iphone-app
+https://www.stitchfix.com/

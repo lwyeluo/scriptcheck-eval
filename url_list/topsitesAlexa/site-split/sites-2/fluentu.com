@@ -1,0 +1,10 @@
+https://www.fluentu.com/korean/
+https://www.fluentu.com/login/
+https://www.fluentu.com/
+https://www.fluentu.com/press/
+https://www.fluentu.com/pricing/?type=academic
+https://www.fluentu.com/signup/?type=student
+https://www.fluentu.com/terms/
+https://www.fluentu.com/english/
+https://www.fluentu.com/japanese/
+https://www.fluentu.com/ja/

@@ -1,0 +1,10 @@
+https://lessportsplus.dhnet.be/moteurs/formule-1/pour-faire-douter-mercedes-c-est-maintenant-5d4321039978e254e24e5f8a
+https://actualite-regionale.dhnet.be/
+https://lessportsplus.dhnet.be/cyclisme/tour-de-france/a-paris-a-velo-on-depasse-les-autos-5d41b4b0f20d5a58a89a34e6
+https://www.dhnet.be/
+https://www.dhnet.be/edition-abonne
+https://gourmandiz.dhnet.be/au-resto/8570/incroyable-mais-vrai-une-glace-aux-frites
+https://www.dhnet.be/copyright
+https://codepromo.dhnet.be/code-promo/ici-paris-xl-belgique
+https://lessportsplus.dhnet.be/football/diablesrouges/big-rom-et-cr7-detonnant-mais-complementaire-5d431e979978e254e24e5f83
+https://www.dhnet.be/dossiers

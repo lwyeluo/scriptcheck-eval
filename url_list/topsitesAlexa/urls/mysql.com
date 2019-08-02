@@ -1,0 +1,10 @@
+https://dev.mysql.com/doc/workbench/en/
+https://www.mysql.com/consulting/
+https://www.mysql.com/training/
+https://www.mysql.com/
+https://www.mysql.com/about/legal/
+https://dev.mysql.com/downloads/
+https://www.mysql.com/sitemap.html
+https://dev.mysql.com/doc/index-cluster.html
+https://www.mysql.com/certification/
+https://dev.mysql.com/

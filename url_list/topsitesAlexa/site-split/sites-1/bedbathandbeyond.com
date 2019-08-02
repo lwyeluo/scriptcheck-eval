@@ -1,0 +1,10 @@
+https://thekitchen.bedbathandbeyond.com/
+https://www.bedbathandbeyond.com/1/3/gifts-for-mom
+https://www.bedbathandbeyond.com/1/3/duvet-covers
+https://www.bedbathandbeyond.com/1/2/indexd1.html
+https://www.bedbathandbeyond.com/1/1/indexd1.html
+https://www.bedbathandbeyond.com/store/static/chefcentral
+https://www.bedbathandbeyond.com/1/4/indexc1.html
+https://www.bedbathandbeyond.com/1/2/index1.html
+https://www.bedbathandbeyond.com/1/3/throw-pillows
+https://www.bedbathandbeyond.com/

@@ -1,0 +1,10 @@
+https://wanwang.aliyun.com/
+https://www.aliyun.com/product/rds/sqlserver
+https://www.aliyun.com/
+https://www.aliyun.com/product/swas
+https://www.aliyun.com/jianzhan
+https://www.aliyun.com/product/eip
+https://wanwang.aliyun.com/mail
+https://tm.aliyun.com/
+https://www.aliyun.com/product/ecs
+https://www.aliyun.com/product/sas

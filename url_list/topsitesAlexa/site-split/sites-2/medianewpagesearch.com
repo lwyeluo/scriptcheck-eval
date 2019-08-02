@@ -1,0 +1,10 @@
+https://www.medianewpagesearch.com/license_agreement.php
+https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.php
+https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.phpcookies.phpcookies.phpcookies.php
+https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.phpcookies.phpcookies.php
+https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.phpcookies.php
+https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.phpcookies.php
+https://www.medianewpagesearch.com/privacy.php#privacy-ancor
+https://www.medianewpagesearch.com/
+https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.php
+https://www.medianewpagesearch.com/privacy.php#privacy-ancorcookies.phpcookies.phpcookies.phpcookies.phpcookies.phpcookies.phpcookies.php

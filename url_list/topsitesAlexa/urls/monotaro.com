@@ -1,0 +1,10 @@
+https://ihc.monotaro.com/
+https://flier.monotaro.com/69190/pageview/pageview.html
+https://help.monotaro.com/app/answers/detail/a_id/156
+http://help.monotaro.com/app/answers/detail/a_id/13
+http://help.monotaro.com/app/answers/detail/a_id/136
+https://recruit.monotaro.com/career/
+https://www.monotaro.com/?displayId=104
+http://help.monotaro.com/app/answers/detail/a_id/12
+https://help.monotaro.com/
+https://www.monotaro.com/

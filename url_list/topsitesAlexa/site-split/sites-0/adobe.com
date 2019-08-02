@@ -1,0 +1,10 @@
+https://www.adobe.com/
+https://stock.adobe.com/?as_channel=adobe_com&as_campclass=brand&as_campaign=January_lobby_campaign&as_source=lobby&as_camptype=users&as_audience=awareness&as_content=anonymous&promoid=SPVLMB6L&mv=other
+https://acrobat.adobe.com/us/en/acrobat.html?promoid=VG52KL3M&mv=other
+https://stock.adobe.com/?as_channel=adobe_com&as_campclass=brand&as_campaign=January_lobby_campaign&as_source=lobby&as_camptype=users&as_audience=awareness&as_content=anonymous&promoid=SPVLMB6L&mv=othercollectionsLUdR4CkFtZZ7FGKUNfwEHqaMlhchs2M4?filters%5Bcontent_type%3Avideo%5D=1
+https://www.adobe.com/cn
+https://stock.adobe.com/?as_channel=adobe_com&as_campclass=brand&as_campaign=January_lobby_campaign&as_source=lobby&as_camptype=users&as_audience=awareness&as_content=anonymous&promoid=SPVLMB6L&mv=othercollectionseditorialFUE4yfsk1DvmvJhaTSWKYanu8z7YmZ8s
+https://stock.adobe.com/?as_channel=adobe_com&as_campclass=brand&as_campaign=January_lobby_campaign&as_source=lobby&as_camptype=users&as_audience=awareness&as_content=anonymous&promoid=SPVLMB6L&mv=otherCategorysports922?load_type=category
+https://www.adobe.com/creativecloud.html?promoid=6JMR7GVW&mv=other
+https://www.adobe.com/creativecloud/photography.html?promoid=ZP46FBD9&mv=other#mini-plans-web-cta-photoshop-lightroom-card
+https://www.adobe.com/creativecloud/catalog/desktop.html?promoid=6DWQ7LLX&mv=other#mini-plans-web-cta-creative-cloud-card

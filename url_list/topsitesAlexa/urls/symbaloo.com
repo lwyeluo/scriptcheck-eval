@@ -1,0 +1,10 @@
+https://blog.symbaloo.com/
+https://www.ixl.com/?partner=symbaloo&adGroup=home-page&utm_source=symbaloo.com&utm_medium=cpc&utm_campaign=home-page
+https://www.symbaloo.com/welcome
+https://learningpaths.symbaloo.com/
+https://www.symbaloo.com/mix/shopping83
+https://www.symbaloo.com/quickadd.form
+https://www.symbaloo.com/
+https://www.symbaloo.com/signup
+https://www.symbaloo.com/?sethomepage=1
+https://www.symbaloo.com/startLogin.do

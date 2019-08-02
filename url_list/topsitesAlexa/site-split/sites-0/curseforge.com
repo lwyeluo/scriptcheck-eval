@@ -1,0 +1,10 @@
+https://www.curseforge.com/twitch-signup?returnUrl=%2ftwitch-login?returnUrl=%2ftwitch-signup
+https://www.curseforge.com/twitch-login?returnUrl=%2ftwitch-login?returnUrl=%2ftwitch-login
+https://www.curseforge.com/
+https://www.curseforge.com/all-games
+https://www.curseforge.com/twitch-login?returnUrl=%2ftwitch-signup?returnUrl=%2ftwitch-login
+https://www.curseforge.com/twitch-signup?returnUrl=%2f
+https://www.curseforge.com/twitch-login?returnUrl=%2f
+https://www.curseforge.com/twitch-login?returnUrl=%2ftwitch-login?returnUrl=%2ftwitch-logintwitch-signup?returnUrl=%2ftwitch-login
+https://www.curseforge.com/twitch-login?returnUrl=%2ftwitch-login?returnUrl=%2ftwitch-logintwitch-login?returnUrl=%2ftwitch-login
+https://www.curseforge.com/twitch-signup?returnUrl=%2ftwitch-signup?returnUrl=%2ftwitch-signup

@@ -1,0 +1,10 @@
+https://www.yelp.com/search?cflt=professional&find_loc=San+Francisco%2C+CA%2C+US
+https://www.yelp.com/search?cflt=shopping&find_loc=San+Francisco%2C+CA%2C+US
+https://www.yelp.com/lisboa
+https://www.yelp.com/amsterdam
+https://www.yelp.com/台北市
+https://www.yelp.com/user_details?userid=Ggg6GPlET8L7RLpxueJ8Yg
+https://www.yelp.com/search?find_desc=Delivery&find_loc=San+Francisco%2C+CA
+https://www.yelp.com/stockholm
+https://www.yelp.com/user_details?userid=HOAlLLP4JSIC5s2KcoDC_w
+https://www.yelp.com/

@@ -1,0 +1,10 @@
+https://sofifa.com/players?na=108
+https://sofifa.com/?currency=GBP
+https://sofifa.com/
+https://sofifa.com/players?pn=14
+https://sofifa.com/players?na=70
+https://sofifa.com/?col=tt&sort=desc
+https://sofifa.com/players?na=45
+https://sofifa.com/players?na=27
+https://sofifa.com/players?pn=8
+https://sofifa.com/leagues

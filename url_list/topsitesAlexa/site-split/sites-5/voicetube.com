@@ -1,0 +1,10 @@
+https://help.voicetube.com/hc/en-001/categories/360001591732
+https://www.voicetube.com/
+https://www.voicetube.com/login?apilang=en&next=/&mtc=vt_web_home_header_signin&ref=vt_web_home_header_signin
+https://www.voicetube.com/legal
+https://www.voicetube.com?ref=www_header
+https://www.voicetube.com/?ref=if_nonlogin_views
+https://www.voicetube.com/signup?apilang=en
+https://www.voicetube.com/jobs
+https://www.voicetube.com/feedback
+https://www.voicetube.com/login?apilang=en&next=&mtc=vt_web_home_header_signin&ref=vt_web_home_header_signin

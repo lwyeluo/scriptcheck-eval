@@ -1,0 +1,10 @@
+https://10fastfingers.com/login
+https://10fastfingers.com/impressum
+https://10fastfingers.com/top1000
+https://10fastfingers.com/
+https://10fastfingers.com/impressum#privacy-policy
+https://10fastfingers.com/competitions
+https://10fastfingers.com/typing-test/english
+https://10fastfingers.com/cookie-policy
+https://10fastfingers.com/impressum#datenschutzerklaerung
+https://10fastfingers.com/text-practice

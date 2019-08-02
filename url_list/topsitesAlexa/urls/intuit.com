@@ -1,0 +1,10 @@
+https://www.intuit.com/blog/intuitlife/from-intern-to-employee-early-career-tips-from-former-intuit-interns/
+https://quickbooks.intuit.com/?sc=seq_intuit_qb_click_nav
+https://careers.intuit.com
+https://proconnect.intuit.com/tax-online/?s_cid=Intuit.com_Products-footer_TaxOnline
+https://turbotax.intuit.com/?cid=seq_intuit_tt_click_hd
+https://quickbooks.intuit.com/?sc=seq_intuit_qb_click_ft
+https://www.intuit.com/
+https://proconnect.intuit.com/proseries/?s_cid=Intuit.com_Products-footer_ProSeries
+https://proconnect.intuit.com/?s_cid=intuit.com_Head
+https://accountants-community.intuit.com/products/proconnect-help-en-us/?s_cid=INTUIT.COM_Homepage_Productsupport

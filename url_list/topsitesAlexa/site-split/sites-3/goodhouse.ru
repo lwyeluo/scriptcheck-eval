@@ -1,0 +1,10 @@
+https://www.goodhouse.ru/blog-redakcii
+https://www.goodhouse.ru/home/najdi-vremja-dlja-zhizni/nikakogo-fotoshopa-8-genialnyh-sposobov-sdelat-krasivye-fotografii/
+https://www.goodhouse.ru/health/fitness/na-schetu-kazhdyy-kilogramm-kak-sledit-za-vesom-i-ne-popravlyatsya/
+https://www.goodhouse.ru/blog-redakcii/novosti-redakcii/kto-voshel-v-zvezdnoe-zhyuri-premii-vremya-zhenshchin-2019/video
+https://www.goodhouse.ru/blog-redakcii/novosti-redakcii/kto-voshel-v-zvezdnoe-zhyuri-premii-vremya-zhenshchin-2019/
+https://www.goodhouse.ru/vopros-otvet
+https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fwww.goodhouse.ru%2Frss%2Fanews-news.xml
+https://www.goodhouse.ru/home/pets/skazhite-a-kak-pravilno-pochistit-zuby-sobake-i-zachem-eto-voobshche-delat/
+https://www.goodhouse.ru/
+https://www.goodhouse.ru/health/zdorovye/7-povsednevnyh-privychek-kotorye-uvelichivayut-risk-diabeta/

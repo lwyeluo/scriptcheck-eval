@@ -1,0 +1,10 @@
+http://b9good.com/
+http://b9good.com/index.php/search/tagid/21663
+http://b9good.com/index.php/search/tagid/21707
+http://b9good.com/index.php/search/tagid/21703
+http://b9good.com/index.php/search/tagid/21678
+http://b9good.com/index.php/search/tagid/21691
+http://b9good.com/index.php/search/tagid/21662
+http://b9good.com/index.php/search/tagid/21658
+http://b9good.com/index.php/search/tagid/21661
+http://b9good.com/index.php/search/tagid/21659

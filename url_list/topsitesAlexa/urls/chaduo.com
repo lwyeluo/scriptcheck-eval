@@ -1,0 +1,10 @@
+http://www.chaduo.com/news.php
+http://www.chaduo.com/joinus.html
+http://www.chaduo.com/join.php
+http://www.chaduo.com/merchants_join.php
+http://www.chaduo.com/page.php?action=Seller_Jczx
+http://www.chaduo.com/category.php
+http://www.chaduo.com/index.html
+http://www.chaduo.com/news-gjcx-1.html
+http://www.chaduo.com/culture.php?type=txcp
+http://www.chaduo.com/

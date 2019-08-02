@@ -1,0 +1,10 @@
+http://www.kuai8.com/
+http://pc.kuai8.com/game/jy1800/
+http://shouyou.kuai8.com/news/
+http://shouyou.kuai8.com/news/275243.html
+http://www.kuai8.com/zt/
+http://ol.kuai8.com/game/menghuanxiyou2/
+http://dnf.kuai8.com/news/270505.html
+http://wuxia.kuai8.com/
+http://v.kuai8.com/show/120712.html
+http://ol.kuai8.com/game/tianyamingyue/

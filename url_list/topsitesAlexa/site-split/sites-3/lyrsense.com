@@ -1,0 +1,10 @@
+https://de.lyrsense.com/
+https://en.lyrsense.com/game
+https://es.lyrsense.com/
+https://lyrsense.com/
+https://forum.lyrsense.com/
+https://it.lyrsense.com/
+https://lyrsense.com/tags
+https://soundtrack.lyrsense.com/
+https://lyrsense.com/hitParad
+https://fr.lyrsense.com/

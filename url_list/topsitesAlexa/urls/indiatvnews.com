@@ -1,0 +1,10 @@
+https://www.indiatvnews.com/lifestyle/relationships
+https://www.indiatvnews.com/sports/cricket-differences-off-the-field-is-fine-as-long-there-is-full-commitment-on-it-kapil-dev-on-kohli-rohit-rift-539738
+https://www.indiatvnews.com/video/elections
+https://www.indiatvnews.com/news/india-weather-forecast-for-today-august-1-monsoons-delhi-mumbai-vadodara-rains-live-updates-539589
+https://www.indiatvnews.com/photos/world
+https://www.indiatvnews.com/
+https://www.indiatvnews.com/lifestyle/travel
+https://www.indiatvnews.com/entertainment/movie-review/super-30-movie-review-hrithik-roshan-as-anand-kumar-impresses-inspiring-life-story-447
+https://www.indiatvnews.com/news/india-unnao-rape-case-kuldeep-sengar-political-career-congress-bsp-bjp-539676
+https://www.indiatvnews.com/aap-ki-adalat-21-years/

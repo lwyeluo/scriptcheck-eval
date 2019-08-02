@@ -1,0 +1,10 @@
+https://mihanwebhost.com/contacts.php
+https://my.mihanwebhost.com/submitticket.php?step=2&deptid=3
+https://mihanwebhost.com/feedbacks.php
+https://my.mihanwebhost.com/laravel-cpanel-host.php
+https://my.mihanwebhost.com/cart.php?gid=1
+https://my.mihanwebhost.com/cart.php?gid=21
+https://my.mihanwebhost.com/cart.php?gid=renewals
+https://mihanwebhost.com/servermarket.php
+https://mihanwebhost.com/
+https://jobs.mihanwebhost.com

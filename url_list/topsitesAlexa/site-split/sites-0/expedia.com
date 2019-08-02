@@ -1,0 +1,10 @@
+https://www.expedia.com/?currency=ISK&rfrr=Header.Currency.ISK
+https://www.expedia.com/Easter-Island-Hotels.d6053648.Travel-Guide-Hotels
+https://www.expedia.com/
+https://www.expedia.com/Montego-Bay-Hotels.d180106.Travel-Guide-Hotels
+https://www.expedia.com/Grand-Cayman-Hotels.d602874.Travel-Guide-Hotels
+https://www.expedia.com/South-America.d6023117.Destination-Travel-Guides?rfrr=HP.Regions.SouthAmerica
+https://www.expedia.com/Abu-Dhabi-Hotels.d6053838.Travel-Guide-Hotels
+https://www.expedia.com/?siteid=4406
+https://www.expedia.com/Reykjavik-Hotels.d6054688.Travel-Guide-Hotels
+https://www.expedia.com/Cabo-San-Lucas-Hotels.d9631.Travel-Guide-Hotels

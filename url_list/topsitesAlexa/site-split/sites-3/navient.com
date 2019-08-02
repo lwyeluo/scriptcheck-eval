@@ -1,0 +1,10 @@
+https://www.navient.com/in-repayment
+https://www.navient.com/in-repaymentprivate-student-loans
+https://www.navient.com/in-repaymentcredit-reporting
+https://www.navient.com/military-benefits
+https://navient.com/
+https://about.navient.com
+https://news.navient.com
+https://www.navient.com/contact-us
+https://www.navient.com/
+https://about.navient.com/values-and-people

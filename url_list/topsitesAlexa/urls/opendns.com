@@ -1,0 +1,10 @@
+https://login.opendns.com/?return_to=https://dashboard.opendns.com/resetssosso
+https://login.opendns.com/?return_to=https://dashboard.opendns.com/resetsso
+https://signup.opendns.com/premiumdns/
+https://login.opendns.com/?return_to=https://dashboard.opendns.com/
+https://login.opendns.com/?return_to=https://dashboard.opendns.com/ssoreset
+https://login.opendns.com/?return_to=https://dashboard.opendns.com/reset
+https://login.opendns.com/?return_to=https://dashboard.opendns.com/ssosso
+https://login.opendns.com/?return_to=https://dashboard.opendns.com/sso
+https://www.opendns.com/
+https://login.opendns.com/?return_to=https://dashboard.opendns.com/resetreset

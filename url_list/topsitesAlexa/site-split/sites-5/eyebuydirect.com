@@ -1,0 +1,10 @@
+https://www.eyebuydirect.com/prescription-lens
+https://www.eyebuydirect.com/community
+https://www.eyebuydirect.com/eyecare
+https://www.eyebuydirect.com/guides
+https://www.eyebuydirect.com/blog/
+https://www.eyebuydirect.com/discount-coupons
+https://www.eyebuydirect.com/gift-cards
+https://www.eyebuydirect.com/
+https://www.eyebuydirect.com/about-us
+https://fr.eyebuydirect.com?force=1

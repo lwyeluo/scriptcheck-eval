@@ -1,0 +1,10 @@
+https://www.hotels-delta.com/hotel-deals/delta-us-luxury/?intlid=3
+https://www.hotels-delta.com/hotel-deals/delta-us-last/?intlid=tile2
+https://www.hotels-delta.com/?wapb3=%7Cc.500863%7Cl.en_US%7Ct.Site%7Cs.HomepageShopHotelsprofilefindbookings.html
+https://www.delta.com/
+https://www.hotels-delta.com/?wapb3=%7Cc.500863%7Cl.en_US%7Ct.Site%7Cs.HomepageShopHotelscustomer_carecookie_policy.html
+https://pro.delta.com/content/common/en/agencymap.html
+https://www.hotels-delta.com/?wapb3=%7Cc.500863%7Cl.en_US%7Ct.Site%7Cs.HomepageShopHotelsglobal_sites.html
+https://www.hotels-delta.com/?wapb3=%7Cc.500863%7Cl.en_US%7Ct.Site%7Cs.HomepageShopHotelsprofilefindbookings.html?intlid=HOME+%3A%3A+header_accounts_section
+https://www.hotels-delta.com/?wapb3=%7Cc.500863%7Cl.en_US%7Ct.Site%7Cs.HomepageShopHotels
+https://news.delta.com

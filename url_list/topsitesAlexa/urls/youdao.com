@@ -1,0 +1,10 @@
+https://ai.youdao.com/
+http://techblog.youdao.com/
+http://cidian.youdao.com/mobile.html?keyfrom=dict2.index
+https://recite.youdao.com/
+https://recite.youdao.com/?vendor=chanpindaohang
+http://dict.youdao.com/?keyfrom=dict2.index
+http://www.youdao.com/terms/privacy.html
+http://shared.youdao.com/images/license/publicationLicense.png
+https://ke.youdao.com/?keyfrom=dict2.index
+https://www.youdao.com/

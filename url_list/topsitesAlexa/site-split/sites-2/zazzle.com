@@ -1,0 +1,10 @@
+https://www.zazzle.com/about/accessibility
+https://www.zazzle.com/jobs
+https://www.zazzle.com/inspiration
+https://www.zazzle.com/c/invitations
+https://www.zazzle.com/c/file+folders
+https://www.zazzle.com/mk/policy/user_agreement
+https://www.zazzle.com/store/lionking
+https://www.zazzle.com/c/lunch+boxes
+https://www.zazzle.com/c/tshirts
+https://www.zazzle.com/

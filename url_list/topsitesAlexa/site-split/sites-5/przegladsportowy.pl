@@ -1,0 +1,10 @@
+https://www.przegladsportowy.pl/
+https://www.przegladsportowy.pl/zuzel/tomasz-gollob-musi-uwazac-wytrzyma-jeszcze-maksymalnie-dwie-operacje/tv0te0m
+https://ksiegarnia.przegladsportowy.pl/
+https://www.przegladsportowy.pl/pilka-nozna/pko-ekstraklasa/tabele/?tid=nfwc7
+https://www.przegladsportowy.pl/ps-historia/pawel-nastula-wspomina-igrzyska-olimpijskie-w-atlancie-or-ps-historia/fs3h5fe
+https://www.przegladsportowy.pl/pilka-nozna/ligi-zagraniczne/serie-a/international-champions-cup-manchester-united-ac-milan-relacja-na-zywo/jv1lkdb
+https://plejada.pl/?utm_source=www.przegladsportowy.pl&utm_medium=banner&utm_campaign=ikona
+https://www.przegladsportowy.pl/pilka-nozna/pko-ekstraklasa/piast-gliwice/pko-ekstraklasa-piast-gliwice-pogon-szczecin-relacja-na-zywo/jn1w5z0
+https://www.przegladsportowy.pl/pilka-nozna/pko-ekstraklasa/lechia-gdansk/el-ligi-europy-brondby-lechia-10-gol-arajuuriego-wideo/gbwqpxf
+https://www.przegladsportowy.pl/zuzel/pge-ekstraliga

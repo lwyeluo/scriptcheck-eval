@@ -1,0 +1,10 @@
+https://traveltriangle.com/Honeymoon-Places
+https://traveltriangle.com/singapore-tourism
+https://traveltriangle.com/seasonal-packages
+https://traveltriangle.com/
+https://traveltriangle.com/tour-packages?destination_type=all&trip_types[]=Water+Activities
+https://traveltriangle.com/kashmir-tourism
+https://traveltriangle.com/kerala-tourism
+https://traveltriangle.com/sikkim-tourism
+https://traveltriangle.com/malaysia-tourism
+https://traveltriangle.com/Family-Places

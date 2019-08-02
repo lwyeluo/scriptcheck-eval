@@ -1,0 +1,10 @@
+https://www.eastbay.com/
+https://www.eastbay.com/affiliates.html
+https://www.eastbay.com/text-sign-up
+http://blog.eastbay.com/
+https://www.eastbay.com/our-proud-partners
+https://www.eastbay.com/sitemap.html
+https://www.eastbay.com/football-by-color
+https://www.eastbay.com/giftcards.html
+https://www.eastbay.com/fitpromise.html
+https://www.eastbay.com/app.html

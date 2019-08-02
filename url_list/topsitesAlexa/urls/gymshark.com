@@ -1,0 +1,10 @@
+https://dk.gymshark.com
+https://no.gymshark.com
+https://support.gymshark.com/hc/en-us/articles/207791643-International-Delivery-Outside-UK-
+https://www.gymshark.com
+https://se.gymshark.com
+https://www.gymshark.com/
+https://de.gymshark.com
+https://au.gymshark.com
+https://uk.gymshark.com
+https://eu.gymshark.com

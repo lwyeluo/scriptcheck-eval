@@ -1,0 +1,10 @@
+https://www.ajc.com/
+https://www.ajc.com/sports/in-the-game/
+https://www.ajc.com/sports/county-county/H1Vjc2wZ02K165U7Z1TkMK/
+https://www.ajc.com/lifestyles/clark-howard/HUB8nuNEPuJF8LXw4FZijO/
+https://www.ajc.com/events/water-fun-things-metro-atlanta-this-weekend/0ZFUvPpfP8AekpcZSFu92O/
+https://www.ajc.com/things-to-do/
+https://www.ajc.com/life/home-garden/private-quarters/
+https://classifieds.ajc.com/ads/celebrations/
+https://www.ajc.com/sports/atlanta-united-players-enjoy-mls-all-star-experiences/F9Rub7MHIzIeOiP7Tcc0nN/
+https://www.ajc.com/the-a-list/

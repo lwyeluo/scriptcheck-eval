@@ -1,0 +1,10 @@
+https://www.amazon.es/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.es%2Fref%3Dgw_sgn_ib%2F260-9913971-0724813&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=esflex&openid.mode=checkid_setup&marketPlaceId=A1RKKUPIHCS9HS&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&&pf_rd_p=f6e1c2ce-685a-4b74-aac5-de548e94cebd&pf_rd_r=K1VWSAG3V2EHQX4WQTXH
+https://www.amazon.es/b?node=6546186031&pf_rd_p=0f4a75cd-e39b-4a41-b93b-2fe19b8ccbb2&pf_rd_r=K1VWSAG3V2EHQX4WQTXH
+https://www.amazon.es/bbp?ref_=nav_cs_bf
+https://www.amazon.es/b?_encoding=UTF8&ld=AZESGNOSellC&node=2383605031&ref_=nav_cs_sell
+https://services.amazon.es/handmade.htm?ref=azessoafoo&ld=AZESHNDFooter
+https://www.amazon.es/b?node=4637273031&pf_rd_p=b3eaeb77-0016-4b01-a7e7-884c03a27da5&pf_rd_r=K1VWSAG3V2EHQX4WQTXH
+https://www.amazon.es/ref=footer_logo
+https://www.amazon.es/b?node=2181872031&pf_rd_p=5d302e9f-3545-41ec-b480-cd310a744f20&pf_rd_r=K1VWSAG3V2EHQX4WQTXH
+https://www.amazon.es/b?node=14740297031&pf_rd_p=d9207bab-b880-4fb3-a86c-e64e0752f6b5&pf_rd_r=K1VWSAG3V2EHQX4WQTXH
+https://www.amazon.es/

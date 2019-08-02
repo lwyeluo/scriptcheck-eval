@@ -1,0 +1,10 @@
+https://l.patheos.com/ebook-mdriscoll-signup/?track1=House_MDM_P&sourceid=83
+https://www.patheos.com/library/lutheran
+https://www.patheos.com/blogs/throughcatholiclenses/2019/07/autism-is-not-due-to-parental-sin-fr-valanmahal/
+https://www.patheos.com/blogs/rogereolson/2019/07/my-religious-roots-a-sentimental-journey-and-pilgrimage-story/
+https://www.patheos.com/blogs/protestprotest/2019/07/trump-may-be-the-least-of-evangelicals-troubles/
+https://www.patheos.com/library/using-patheos-for-research
+https://www.patheos.com/
+https://www.patheos.com/blogs/daniellekingstrom/2019/07/what-if-its-christ-privilege-and-not-white-privilege/
+https://www.patheos.com/library/sufism
+https://www.patheos.com/new-visions

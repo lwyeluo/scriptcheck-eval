@@ -1,0 +1,10 @@
+https://stackoverflow.com
+https://stackoverflow.com/jobs/directory/developer-jobs
+https://stackoverflow.com/
+https://stackoverflow.com/enterprise
+https://stackoverflow.com/jobs?med=site-ui&ref=jobs-tab
+https://chat.stackoverflow.com
+https://stackoverflow.com/users/signup?ssrc=site_switcher&returnurl=%2fusers%2fstory%2fcurrent
+https://pt.stackoverflow.com
+https://insights.stackoverflow.com/
+https://stackoverflow.com/jobs/salary

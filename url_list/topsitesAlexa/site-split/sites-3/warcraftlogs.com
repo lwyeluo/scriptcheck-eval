@@ -1,0 +1,10 @@
+https://classic.warcraftlogs.com
+https://ru.warcraftlogs.com/
+https://www.warcraftlogs.com
+https://www.warcraftlogs.com/
+https://www.warcraftlogs.com/help/privacy
+https://fr.warcraftlogs.com/
+https://tw.warcraftlogs.com/
+https://es.warcraftlogs.com/
+https://www.warcraftlogs.com/login
+https://br.warcraftlogs.com/

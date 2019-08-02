@@ -1,0 +1,10 @@
+https://kw.cleartrip.com
+https://www.cleartrip.com/hotels
+https://www.cleartrip.com/trains
+https://www.cleartrip.com/top-deals
+https://www.cleartrip.com/alerts
+https://www.cleartrip.com/
+https://www.cleartrip.com/activities
+https://holidayplanner.cleartrip.com/
+https://www.cleartrip.com/status
+https://www.cleartrip.com/flights

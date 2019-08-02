@@ -1,0 +1,10 @@
+https://www.cinepolis.com/
+https://www.cinepolis.com/aplicaciones-moviles
+https://www.cinepolis.com/proveedores
+https://www.cinepolis.com/vip
+https://www.cinepolis.com/proximos-estrenos
+https://www.cinepolis.com.gt
+https://static.cinepolis.com/resources/mx/documents/codigo_de_integridad_cinepolis.pdf
+https://static.cinepolis.com/resources/mx/documents/Terminos-y-condiciones-CINECASH.pdf
+https://static.cinepolis.com/resources/mx/documents/aviso-de-privacidad-cinepolis.pdf
+https://www.cinepolis.com/proximas-aperturas

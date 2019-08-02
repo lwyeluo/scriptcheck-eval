@@ -1,0 +1,10 @@
+https://fortune.com/2019/07/31/deepmind-kidney-injuries/
+https://fortune.com/2019/07/23/warren-buffett-lunch-tron-justin-sun-cryptocurrency/
+https://fortune.com/2019/06/22/products-sized-for-singles/
+https://fortune.com/longform/abbvie-humira-drug-costs-innovation/
+https://fortune.com/2019/07/29/the-top-10-u-s-cities-for-tech-jobs/
+https://fortune.com/2019/07/25/automakers-trump-carbon-emissions-epa/
+https://fortune.com/section/ledger/
+https://fortune.com/
+https://fortune.com/2019/08/01/debate-joe-biden-op-ed-women/
+https://fortune.com/section/finance/

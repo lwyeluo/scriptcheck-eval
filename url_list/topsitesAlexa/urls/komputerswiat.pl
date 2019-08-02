@@ -1,0 +1,10 @@
+https://www.komputerswiat.pl/aktualnosci/aplikacje/google-play-pass-nowa-subskrypcja-ktora-da-dostep-do-licznych-aplikacji-i-gier/c7ve82t
+https://www.komputerswiat.pl/gamezilla/aktualnosci/playstation-plus-poznalismy-gry-z-oferty-na-sierpien-rosnie-cena-abonamentu/gcqfl8r
+https://www.komputerswiat.pl/aktualnosci/aplikacje/tinder-netflix-i-youtube-najbardziej-dochodowymi-aplikacjami-w-zeszlym-kwartale/kwscn37
+https://www.komputerswiat.pl/poradniki/rankingi/jakie-sluchawki-bezprzewodowe-do-200-zl-zobacz-top-10-modeli/brcp3j8
+https://www.komputerswiat.pl/
+https://www.komputerswiat.pl/gamezilla/recenzje/recenzja-harry-potter-wizards-unite-tworcy-pokemon-go-znow-oczarowali/rjvlkwz
+https://www.komputerswiat.pl/recenzje
+https://download.komputerswiat.pl/bezpieczenstwo/antywirusy/dr-web-cureit
+https://download.komputerswiat.pl/grafika-i-fotografia/edytory-graficzne/portrait-professional
+https://www.komputerswiat.pl/aktualne-wydanie

@@ -1,0 +1,10 @@
+http://kk.bb868.com/bf.htm
+http://kk.bb868.com/pl1.htm
+http://kk.bb868.com/tupian/guanggao.htm
+http://www.bb868.com
+http://www.bb868.com/bbs_reg.asp
+http://kk.bb868.com/zd.htm
+http://bb868.com/
+http://www.bb868.com/
+http://kk.bb868.com/kj.htm
+http://kk.bb868.com/yq1.htm

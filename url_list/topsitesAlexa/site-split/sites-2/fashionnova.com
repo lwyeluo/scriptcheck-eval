@@ -1,0 +1,10 @@
+https://www.fashionnova.com/collections/graphic-tops
+https://www.fashionnova.com/collections/15-pants
+https://www.fashionnova.com/collections/jeans
+https://www.fashionnova.com/
+https://support.fashionnova.com/hc/en-us/articles/115000494752
+https://www.fashionnova.com/collections/performance-tops-1
+https://www.fashionnova.com/collections/wear-to-work-bottoms
+https://www.fashionnova.com/collections/mens-straight-jeans
+https://www.fashionnova.com/collections/the-logo-shop
+https://www.fashionnova.com/collections/little-black-bikini

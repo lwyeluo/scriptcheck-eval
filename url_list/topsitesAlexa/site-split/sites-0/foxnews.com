@@ -1,0 +1,10 @@
+https://www.foxnews.com/entertainment/kanye-west-christian-rapper-nicki-minaj-chance-the-rapper
+https://www.foxnews.com/lifestyle/forever-21-apologizes-diet-bars-plus-size-shipments
+https://www.foxnews.com/sports
+https://www.foxnews.com/opinion/tom-del-beccaro-trump-tax-returns-gavin-newsom-supreme-court-democrats-california
+https://www.foxnews.com/lifestyle/disney-fashion-line-match-dog
+https://www.foxnews.com/politics/kirsten-gillibrand-says-she-can-explain-white-privilege-to-suburban-white-women-who-voted-for-trump
+http://press.foxnews.com/
+https://www.foxnews.com/category/tech/topics/video-games
+https://www.foxnews.com/
+https://www.foxnews.com/politics/harris-mocks-gabbard-attack-on-her-ag-record-says-shes-top-tier-candidate-being-attacked-by-someone-at-zero-or-1-percent

@@ -1,0 +1,9 @@
+http://www.weiyun.com/download.html
+http://www.weiyun.com/xy.html
+https://www.weiyun.com/download.html
+http://www.weiyun.com/complaint.html
+https://www.weiyun.com/vip
+https://www.weiyun.com
+https://www.weiyun.com/xy.html
+https://www.weiyun.com/
+http://www.weiyun.com/mobile/xy.html

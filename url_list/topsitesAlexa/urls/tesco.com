@@ -1,0 +1,10 @@
+https://www.tesco.com/deliverysaver/
+https://www.tesco.com/phones/shop/pay-as-you-go-phones
+https://www.tesco.com/phones/
+https://www.tesco.com/help/site-map/
+https://secure.tesco.com/clubcard/?sc_cmp=ref*tdchp*stc*tesco.com*new_homepage_taxonomy&utm_source=tesco.com_homepage&utm_medium=tesco.com&utm_campaign=new_homepage_taxonomy
+https://www.tesco.com/groceries/en-GB/zone/Go-Cook/?icid=dchp_bs2_gocook_wk23
+https://realfood.tesco.com/under-30-minute-meals.html?icid=dchp_nav
+https://www.tesco.com/zones/clothing/kids/
+https://www.tesco.com/zones/clothing/mens/
+https://www.tesco.com/

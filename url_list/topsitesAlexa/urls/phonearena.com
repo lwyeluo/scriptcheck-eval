@@ -1,0 +1,10 @@
+https://www.phonearena.com/database
+https://www.phonearena.com/privacy
+https://www.phonearena.com/news
+https://www.phonearena.com/team
+https://www.phonearena.com/aboutus
+https://www.phonearena.com/
+https://www.phonearena.com/new-phones
+https://www.phonearena.com/jobs
+https://www.phonearena.com/contacts
+https://www.phonearena.com/terms_of_use

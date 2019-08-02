@@ -1,0 +1,10 @@
+https://www.donationalerts.com/contacts
+https://www.donationalerts.com/brand
+https://www.donationalerts.com/help/obs-studio-installation
+https://www.donationalerts.com/help/text-to-speech-setup
+https://www.donationalerts.com/help/what-to-learn-from-the-top-streamers
+https://www.donationalerts.com/showcase
+https://www.donationalerts.com/help
+https://www.donationalerts.com/terms-of-service
+https://www.donationalerts.com/legal
+https://www.donationalerts.com/

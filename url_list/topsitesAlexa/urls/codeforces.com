@@ -1,0 +1,10 @@
+http://codeforces.com/contest/690
+https://codeforces.com/blog/entry/68655
+https://codeforces.com/search?query=third+division
+https://codeforces.com/register
+https://codeforces.com/
+https://codeforces.com/help
+https://codeforces.com/search?query=alice
+https://codeforces.com/blog/entry/68204
+https://codeforces.com/search?query=574
+https://codeforces.com/search?query=codeforces+global+rounds

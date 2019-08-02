@@ -1,0 +1,10 @@
+https://www.hearthpwn.com/cards?filter-premium=1&filter-set=105&filter-unreleased=1&display=3
+https://www.hearthpwn.com/new-content
+https://www.hearthpwn.com/cards?filter-premium=1&filter-set=110&filter-unreleased=1&display=3
+https://www.hearthpwn.com/decks
+https://www.hearthpwn.com/forums
+https://www.hearthpwn.com/cards?filter-unreleased=1&filter-set=103&filter-premium=1&display=3
+https://www.hearthpwn.com/cards?filter-unreleased=1&filter-set=101&filter-premium=1&display=3
+https://www.hearthpwn.com/cards?filter-premium=1&filter-set=106&filter-unreleased=1&display=3
+https://www.hearthpwn.com/
+https://www.hearthpwn.com/cards?filter-unreleased=1&filter-set=100&filter-premium=1&display=3

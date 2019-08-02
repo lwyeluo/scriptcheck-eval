@@ -1,0 +1,10 @@
+https://www.wimp.com/a-dedicated-mama-skunk-helps-her-babies-over-a-curb/
+https://www.wimp.com/
+https://www.wimp.com/fascinating-explanation-of-the-advances-being-made-in-photorealistic-material-simulations/
+https://www.wimp.com/japanese-railway-hosts-cat-cafe-on-a-moving-train-with-adoptable-kittens-riding-on-board/
+https://www.wimp.com/zombie-chicken-comes-back-to-life-and-crawls-off-dining-table-as-diner-screams-in-terror/
+https://www.wimp.com/this-man-actually-puts-soda-into-a-humidifier/
+https://www.wimp.com/the-engineering-behind-edge-the-highest-outdoor-observation-deck-in-the-western-hemisphere-planned-for-nyc/
+https://www.wimp.com/a-restaurant-in-bangkok-has-been-simmering-their-renowned-beef-noodle-soup-for-45-years/
+https://www.wimp.com/category/technology/
+https://www.wimp.com/category/incredible/

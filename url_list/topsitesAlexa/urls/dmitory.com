@@ -1,0 +1,10 @@
+https://www.dmitory.com/japan
+https://www.dmitory.com/index.php?mid=latest&group_srl=68077051
+https://www.dmitory.com/info
+https://www.dmitory.com/photo
+https://www.dmitory.com/index.php?mid=latest&act=dispMemberSignUpForm
+https://www.dmitory.com/index.php?mid=latest&page=1
+https://www.dmitory.com/index.php?mid=latest&act=dispMemberFindAccount
+https://www.dmitory.com/kdrama
+https://www.dmitory.com/politics
+https://www.dmitory.com/

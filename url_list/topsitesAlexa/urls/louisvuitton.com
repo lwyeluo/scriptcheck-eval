@@ -1,0 +1,10 @@
+https://www.louisvuitton.com/
+https://en.louisvuitton.com/eng-nl/homepage?dispatchCountry=MC
+https://kr.louisvuitton.com/kor-kr/homepage
+https://en.louisvuitton.com/eng-nl/homepage?dispatchCountry=FI
+https://uk.louisvuitton.com/eng-gb/homepage
+https://en.louisvuitton.com/eng-nl/homepage?dispatchCountry=BE
+https://en.louisvuitton.com/eng-nl/homepage?dispatchCountry=LU
+https://it.louisvuitton.com/ita-it/homepage
+https://en.louisvuitton.com/eng-nl/homepage?dispatchCountry=AT
+https://en.louisvuitton.com/eng-nl/homepage?dispatchCountry=NL

@@ -1,0 +1,10 @@
+https://www.seloger.com/demenagement.htm#?BD=Head_check_list
+https://www.seloger.com/immobilier/locations/immo-paris-75/bien-appartement/type-studio/
+https://www.seloger.com/location.htm#?BD=Head_LO_Loc_2
+https://www.seloger.com/vente.htm#?BD=Head_AC_Vente_2
+https://www.seloger.com/biens-vendus#?BD=Head_AC_BiensVendus
+https://www.seloger.com/
+https://www.seloger.com/annuaire/#?BD=Head_AC_Annuaire_13
+https://www.seloger.com/immobilier/locations/immo-paris-75/bien-appartement/
+https://www.seloger.com/immobilier/locations/immo-marseille-13/bien-appartement/
+https://www.seloger.com/annuaire/

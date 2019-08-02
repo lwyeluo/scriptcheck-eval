@@ -1,0 +1,10 @@
+https://www.formula1.com/en.html
+https://www.formula1.com/
+https://tickets.formula1.com/en/pc-paddock-club
+https://www.formula1.com/en/latest/all.html
+https://fantasy.formula1.com/
+https://account.formula1.com/#/en/my-account
+https://www.formula1.com/en/latest/tags.germany.4gWsE0tvK0GmAmCWYaCSSs.html
+https://f1store.formula1.com/stores/f1/en?portal=CHMHGTFG&CMP=PSC-CHMHGTFG
+https://account.formula1.com/#/en/my-subscription
+https://tickets.formula1.com/en/h-formula1-hospitality

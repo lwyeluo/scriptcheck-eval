@@ -1,0 +1,10 @@
+https://www.xing.com/people/a/
+https://nwx.xing.com
+https://www.xing.com/xas?sc_o=SI-4110_footer_link_admanager
+https://www.xing.com/
+https://www.xing.com/people/g/
+https://www.xing.com/people/f/
+https://www.xing.com/people/i/
+https://www.xing.com/people/t/
+https://www.xing.com/people/r/
+https://www.xing.com/salary/

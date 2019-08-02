@@ -1,0 +1,10 @@
+https://pgy.oray.com/router/index.html
+https://console.oray.com/center/workorder
+https://domain.oray.com/seo#messages
+https://hsk.oray.com/news
+https://console.oray.com/payment/storeorder
+https://www.oray.com/about/contact.html
+https://b.oray.com
+https://hsk.oray.com/
+https://www.oray.com/
+https://www.oray.com/about/join.html

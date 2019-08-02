@@ -1,0 +1,10 @@
+https://www.politico.com/
+https://www.politico.com/staff/victoria-guida
+https://www.politico.com/agenda/story/2019/07/24/gentrification-credit-discrimination-000937
+https://www.politico.com/story/2019/07/31/kelly-craft-un-ambassador-senate-approval-1629607
+https://www.politico.com/blogs/under-the-radar
+https://www.politico.com/staff/andrew-desiderio
+https://www.politico.com/tag/education
+https://www.politico.com/video/2019/07/31/gillibrand-questions-biden-pay-equity-068648
+https://www.politico.com/story/2019/07/29/top-dccc-staffer-out-amid-diversity-uproar-1439525
+https://www.politico.com/story/2019/07/30/powell-trump-trade-interest-rates-1625961

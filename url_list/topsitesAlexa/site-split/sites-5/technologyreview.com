@@ -1,0 +1,10 @@
+https://www.technologyreview.com/
+https://go.technologyreview.com/newsletters/the-algorithm/
+https://go.technologyreview.com/newsletters/chain-letter/
+https://forms.technologyreview.com/future-compute/
+https://www.technologyreview.com/f/614046/deepminds-algorithm-can-predict-serious-kidney-injury-48-hours-before-it-happens/
+https://go.technologyreview.com/newsletters
+https://go.technologyreview.com/newsletters/the-download/?_ga=2.237705664.1931400345.1555229637-1773775866.1536158157
+https://events.technologyreview.com/emtech/19/?discount=TRSITEMIT#section-register
+https://events.technologyreview.com/events/
+https://go.technologyreview.com/newsletters/fwd-economy

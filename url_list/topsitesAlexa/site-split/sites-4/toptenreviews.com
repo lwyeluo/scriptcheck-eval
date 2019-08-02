@@ -1,0 +1,10 @@
+https://www.toptenreviews.com/about-us
+https://www.toptenreviews.com/best-student-loans
+https://www.toptenreviews.com/best-gas-lawn-mowers
+https://www.toptenreviews.com/archives
+https://www.toptenreviews.com/logitech-circle-2-review
+https://www.toptenreviews.com/best-discount-ink-cartridges-stores
+https://www.toptenreviews.com/best-adobe-deals
+https://www.toptenreviews.com/best-vision-care
+https://www.toptenreviews.com/money/deals
+https://www.toptenreviews.com/

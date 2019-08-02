@@ -1,0 +1,10 @@
+https://www.yamaha.com/?headeren
+https://www.yamaha.com/?headerja
+https://www.yamaha.com/?headeren2countries
+https://www.yamaha.com/
+https://www.yamaha.com/?headerenterms_of_use
+https://www.yamaha.com/?header2countries
+https://www.yamaha.com/?header?header
+https://www.yamaha.com/?header
+https://www.yamaha.com/?headerenaccessibility
+https://www.yamaha.com/?headerenprivacy_policy

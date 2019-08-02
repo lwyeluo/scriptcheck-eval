@@ -1,0 +1,10 @@
+https://www.flirt4free.com/faq.php
+https://www.flirt4free.com/2257.php
+https://www.flirt4free.com/terms.php
+https://www.flirt4free.com/?language=fr
+https://www.flirt4free.com/?language=se
+https://www.flirt4free.com/broadcasters.php
+https://www.flirt4free.com/?language=pt
+https://www.flirt4free.com/dmca.php
+https://www.flirt4free.com/?displayAll=2
+https://www.flirt4free.com/

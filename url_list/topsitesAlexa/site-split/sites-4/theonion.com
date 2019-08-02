@@ -1,0 +1,10 @@
+https://www.theonion.com/
+https://ogn.theonion.com/10-greatest-video-game-sequels-of-all-time-1836853606
+https://www.theonion.com/dan-coats-resigns-as-director-of-national-intelligence-1836847713
+https://local.theonion.com/man-likes-ex-girlfriend-s-tweet-in-effort-to-smooth-ove-1836882632
+https://politics.theonion.com/kirsten-gillibrand-appeals-to-detroit-voters-by-touting-1836866786
+https://www.theonion.com/search
+https://politics.theonion.com/de-blasio-appealing-to-rural-voters-by-touting-destruct-1836866716
+https://entertainment.theonion.com
+https://www.theonion.com/study-finds-reading-this-article-to-completion-provides-1836884449
+https://www.theonion.com/c/news-in-photos

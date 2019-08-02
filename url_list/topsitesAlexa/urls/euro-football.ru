@@ -1,0 +1,10 @@
+https://www.euro-football.ru/article/34/1004208806_koreyskaya_liga_raskritikovala_yuventus_v_svyazi_s_otsutstviem_ronaldu#comment
+https://www.euro-football.ru/champ/germany.htm
+https://www.euro-football.ru/match/1004183094-penafiel-tondela-smotret-onlajn-pryamuyu-translyatsiyu-3-august-2019
+https://www.euro-football.ru/match/1004183778-dinamo-zagreb-ferencvarosh-smotret-onlajn-pryamuyu-translyatsiyu-6-august-2019
+https://www.euro-football.ru/match/1004174930-chukarichki-melde-smotret-onlajn-pryamuyu-translyatsiyu-31-july-2019
+https://www.euro-football.ru/champ/moldova.htm
+https://www.euro-football.ru/article/31/1004208893_bavariya_informaciya_o_soglasii_sane_pereyti_v_nash_klub_ne_sootvetstvuet_deystvitelnosti
+https://www.euro-football.ru/article/29/1004208292_konovalov_etot_sezon_rukovodstvo_spartaka_poschitalo_poteryannyim_v_plane_borbyi_za_zoloto_i_budet_stroit_novuyu_komandu
+https://www.euro-football.ru/
+https://www.euro-football.ru/article/29/1004208852_petrushin_v_derbi_mnogo_golov_ne_jdu_-_u_dinamo_problemyi_s_atakoy_a_spartak_poteryal_silnyih_igrokov_v_napadenii

@@ -1,0 +1,10 @@
+https://www.varzesh3.com/
+https://www.varzesh3.com/contact
+http://charge.varzesh3.com/
+https://video.varzesh3.com
+http://fantasy.varzesh3.com
+https://www.varzesh3.com/policy
+https://www.varzesh3.com/dev
+https://www.varzesh3.com/about
+https://www.varzesh3.com/livescore
+https://www.varzesh3.com/careers

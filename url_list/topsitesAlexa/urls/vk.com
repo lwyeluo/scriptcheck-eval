@@ -1,0 +1,10 @@
+https://vk.com/about
+https://vk.com/dev
+https://vk.com/join
+https://m.vk.com
+https://vk.com/support?act=home
+https://vk.com/
+https://vk.com/restore
+https://vk.com/products
+https://vk.com/jobs
+https://vk.com/terms

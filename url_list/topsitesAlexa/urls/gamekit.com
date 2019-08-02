@@ -1,0 +1,10 @@
+https://gamekit.com/
+https://gamekit.com/terms/v3/service/
+https://gamekit.com/terms/v3/point-award/
+https://sealsplash.geotrust.com/splash?&dn=gamekit.com
+https://www.trustpilot.com/review/gamekit.com?stars=5contact
+https://www.trustpilot.com/review/gamekit.com?stars=5
+https://www.trustpilot.com/review/gamekit.com?stars=5users5d404e20f9c235875c0b3238
+https://gamekit.com/terms/v3/privacy/
+https://gamekit.com/terms/cookies/
+https://www.trustpilot.com/review/gamekit.com?stars=5users5d40b6d31a9bed3eb029e87b

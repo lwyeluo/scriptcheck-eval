@@ -1,0 +1,10 @@
+https://www.aetna.com/about-us.html
+https://news.aetna.com/community/
+https://news.aetna.com/innovation-landing/
+https://news.aetna.com/access/
+https://news.aetna.com/
+http://investor.aetna.com/phoenix.zhtml?c=110617&p=irol-financialinfolanding
+https://news.aetna.com/news-releases/
+https://www.aetna.com/about-us/login.html#tab_link_tabs_2
+https://www.aetna.com/
+https://news.aetna.com/media-resources/

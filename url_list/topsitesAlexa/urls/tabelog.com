@@ -1,0 +1,10 @@
+https://tabelog.com/yamanashi/
+https://magazine.tabelog.com/articles/83207
+https://tabelog.com/rstLst?award_prize%5B%5D=1
+https://tabelog.com/yamaguchi/
+https://tabelog.com/
+https://award.tabelog.com/hyakumeiten/2019/yakitori/
+https://tabelog.com/okayama/
+https://magazine.tabelog.com/articles/82984
+https://tabelog.com/rvwr/kimuraikumi/
+https://tabelog.com/rvwrs/rvwr_ranking

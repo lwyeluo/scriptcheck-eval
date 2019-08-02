@@ -1,0 +1,10 @@
+https://challonge.com/tournamentbracket_generator
+https://challonge.com/search/tournaments?filters%5Bgame_id%5D=600&subdoamin=false
+https://challonge.com/search/tournaments?filters%5Bgame_id%5D=141059&subdoamin=false
+https://challonge.com/search/tournaments?filters%5Bgame_id%5D=394&subdoamin=false
+https://challonge.com/privacy_policy
+https://challonge.com/search/tournaments
+https://challonge.com/contact
+https://challonge.com/communities
+https://challonge.com/user_session/new?continue=%2F
+https://challonge.com/

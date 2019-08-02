@@ -1,0 +1,10 @@
+https://www.thriftbooks.com/giftcard
+https://www.thriftbooks.com/shipping-costs
+https://www.thriftbooks.com/
+https://www.thriftbooks.com/testimonials
+https://www.thriftbooks.com/app
+https://www.thriftbooks.com/privacy-policy
+https://www.thriftbooks.com/b/august-is-back-to-school/
+https://www.thriftbooks.com/library
+https://www.thriftbooks.com/site-security
+https://www.thriftbooks.com/terms-of-use

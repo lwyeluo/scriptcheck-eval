@@ -1,0 +1,10 @@
+https://cbsi.secure.force.com/CBSi/knowledgehome?referer=zdnet.com
+https://www.zdnet.com/video/
+https://www.zdnet.com/blog/
+https://www.zdnet.com/user/login/?appId=1101
+https://www.zdnet.com/
+https://academy.zdnet.com/
+http://narratives.zdnet.com/
+https://downloads.zdnet.com/
+https://www.zdnet.com/pictures/
+https://www.zdnet.com/user/registration/?appId=1101

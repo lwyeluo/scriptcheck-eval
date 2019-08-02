@@ -1,0 +1,10 @@
+https://www.goodgamestudios.com/
+https://www.goodgamestudios.com/games/goodgame-empire/
+https://www.goodgamestudios.com/careers/faq/
+https://www.goodgamestudios.com/games/empire-world-war-3/
+https://www.goodgamestudios.com/sitemap/
+https://www.goodgamestudios.com/games/goodgame-big-farm/
+https://empire.goodgamestudios.com/
+https://www.goodgamestudios.com/terms-of-service/
+https://www.goodgamestudios.com/games/goodgame-big-farm-mobile/
+https://www.goodgamestudios.com/company/contact/

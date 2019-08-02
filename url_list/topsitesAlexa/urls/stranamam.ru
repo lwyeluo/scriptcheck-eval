@@ -1,0 +1,10 @@
+https://www.stranamam.ru/
+https://www.stranamam.ru/post/14237807/
+https://www.stranamam.ru/article/14237648/#comments
+https://www.stranamam.ru/contests/
+https://www.stranamam.ru/cat/conference/
+https://www.stranamam.ru/catalog/detsady/
+https://www.stranamam.ru/community/1051187/
+https://www.stranamam.ru/albums/
+https://www.stranamam.ru/tags/692/
+https://www.stranamam.ru/post/14230717/

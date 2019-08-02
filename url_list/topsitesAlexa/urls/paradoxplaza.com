@@ -1,0 +1,10 @@
+https://www.paradoxplaza.com/legal-static-info-ca.html
+https://www.paradoxplaza.com/games/
+https://play.paradoxplaza.com
+https://www.paradoxplaza.com/new-releases/
+https://www.paradoxplaza.com/support-static-info-ca.html
+https://legal.paradoxplaza.com
+https://www.paradoxplaza.com/news
+https://www.paradoxplaza.com/about-us-static-info-ca.html
+https://www.paradoxplaza.com/
+https://www.paradoxplaza.com/playtest-static-info-ca.html

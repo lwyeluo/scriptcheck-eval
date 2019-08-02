@@ -1,0 +1,10 @@
+https://luxury.tatacliq.com/luxury/c-lsh1?offer=&searchCategory=&q=:relevance:brand:MBH21A00073:category:LSH1&icid2=luxury:menu:brands:zk:38:190619
+https://luxury.tatacliq.com/indiluxe-beauty-grooming-beauty-beauty-skin-care/c-ish1410100100?q=%3Arelevance%3AinStockFlag%3Atrue?&icid2=indilux:menu:beauty:skincare:fragrances:2:190718
+https://luxury.tatacliq.com/ayca
+https://luxury.tatacliq.com/homeclp?&icid2=lsb:lux:L4:01:home:lmc:plp:220719&icid=
+https://luxury.tatacliq.com/women-women-design-handbags-women-wallets-cardholders-coach/c-lsh1110100105/b-mbh16w00238
+https://luxury.tatacliq.com/fendi?&icid2=luxury:menu:brands:fendi:10:270818
+https://www.tatacliq.com/
+https://luxury.tatacliq.com/anantaya
+https://luxury.tatacliq.com/aadyam
+https://luxury.tatacliq.com/

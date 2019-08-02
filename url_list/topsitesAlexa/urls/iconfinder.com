@@ -1,0 +1,10 @@
+https://www.iconfinder.com/clothes-accessory-icons
+https://www.iconfinder.com/pixel-style-icons
+https://www.iconfinder.com/halloween-icons
+https://www.iconfinder.com/family-home-icons
+https://www.iconfinder.com/
+https://www.iconfinder.com/icon-editor
+https://www.iconfinder.com/summer-icons
+https://www.iconfinder.com/electronics-appliances-icons
+https://www.iconfinder.com/glyph-style-icons
+https://www.iconfinder.com/tags

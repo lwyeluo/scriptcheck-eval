@@ -1,0 +1,10 @@
+https://teksty-pesenok.ru/rus-monetochkatekst-pesni-kazhdyj-raz6693521
+https://teksty-pesenok.ru/rus-klava-kokatekst-pesni-zaya6726666
+https://teksty-pesenok.ru/rus-babek-mamedrzaev-feat-mrid
+https://teksty-pesenok.ru/rus-anbu-42-x-vesnatekst-pesni-mejd-in-chajna6717276
+https://teksty-pesenok.ru/rus-babek-mamedrzaev-feat-mridtekst-pesni-odinokij-molodoj6722479
+https://teksty-pesenok.ru/al-fakhertekst-pesni-muzyka-dlya-dushi6727046
+https://teksty-pesenok.ru/rsac
+https://teksty-pesenok.ru/
+https://teksty-pesenok.ru/jony-hammali-navaitekst-pesni-bez-tebya-ya-ne-ya6718036
+https://teksty-pesenok.ru/jony-hammali-navai

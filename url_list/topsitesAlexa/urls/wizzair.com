@@ -1,0 +1,10 @@
+https://cars.wizzair.com/Home.do?adplat=homepage_navtab&preflang=en&utm_source=wizz&utm_medium=referral&utm_campaign=plan_menu_car_rental
+https://wizzair.com/en-gb/information-and-services/contact/contact-us
+https://wizzair.com/en-gb/information-and-services/wizz-services/wizz-for-families
+https://wizzair.com/en-gb/information-and-services/about-us/company-information
+https://wizzair.com/en-gb/information-and-services/prices-discounts/fares-bundles
+https://wizzair.com/en-gb/flights/trip-planner
+https://wizzair.com/en-gb/information-and-services/career/pilots
+https://wizzair.com/en-gb/information-and-services/prices-discounts/refunds-and-compensations
+https://wizzair.com/en-gb/information-and-services/booking-information/how-to-book
+https://wizzair.com/

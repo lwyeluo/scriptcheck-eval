@@ -1,0 +1,10 @@
+https://www.redfin.com/careers
+https://ssl.cdn-redfin.com/static-images/about/ibs-statement-texas-2015.pdf
+https://www.redfin.com/why-redfin
+https://www.redfin.com/mobile
+https://www.redfin.com/why-sell
+http://investors.redfin.com
+http://press.redfin.com/about?c=252734&p=irol-about
+https://www.redfin.com/disclaimer
+https://www.redfin.com/why-buy
+https://www.redfin.com/

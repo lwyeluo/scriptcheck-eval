@@ -1,0 +1,10 @@
+https://store.giantbomb.com/products/giant-bomb-new-white-logo-t-shirt-charcoal?variant=20536116805686
+https://store.giantbomb.com/products/giant-bomb-new-white-logo-t-shirt-charcoal?variant=20536116805686collectionsouterwear
+https://store.giantbomb.com
+https://store.giantbomb.com/products/giant-bomb-mens-at-nite-t-shirt-2019?variant=20154069516342
+https://store.giantbomb.com/products/giant-bomb-new-white-logo-t-shirt-charcoal?variant=20536116805686productsproperty-of-giant-bomb-t-shirt-pre-order
+https://www.giantbomb.com/
+https://store.giantbomb.com/products/giant-bomb-minolo-mug
+https://store.giantbomb.com/products/giant-bomb-new-white-logo-t-shirt-charcoal?variant=20536116805686collectionsheadwear
+https://store.giantbomb.com/products/giant-bomb-new-white-logo-t-shirt-charcoal?variant=20536116805686collectionsother-bomb-stuff
+https://store.giantbomb.com/products/giant-bomb-new-white-logo-t-shirt-charcoal?variant=20536116805686collectionstees

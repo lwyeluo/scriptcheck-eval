@@ -1,0 +1,10 @@
+https://www.latimes.com/world-nation/story/2019-07-31/tentative-date-jeffrey-epstein-trial
+https://games.latimes.com/
+https://www.latimes.com/entertainment-arts
+https://www.latimes.com/about/for-the-record/
+https://www.latimes.com/espanol/https:/www.latimes.com/politics/articulo/2019-08-01/el-debate-destaca-la-diversidad-de-los-democratas-pero-tambien-sus-fuertes-divisiones-raciales
+https://www.latimes.com/politics/story/2019-07-31/democratic-debate-harris-biden-takeaways-night-two
+https://www.latimes.com/espanol/comida
+https://www.latimes.com/
+https://www.latimes.com/environment
+https://www.latimes.com/entertainment-arts/story/2019-07-31/can-quibi-reinvent-mobile-storytelling

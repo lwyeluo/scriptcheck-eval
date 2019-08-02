@@ -1,0 +1,10 @@
+https://www.starhit.ru/novosti/doch-dmitriya-hvorostovskogo-pokazala-jivot-na-poslednih-srokah-beremennosti-181997/
+https://www.starhit.ru/novosti/anita-tsoy-otmenila-kontsertyi-iz-za-travmyi-181993/
+https://www.starhit.ru/lifestyle/grandioznyiy-final-konkursa-miss-maxim-2019-sostoyalsya-181385/
+https://www.starhit.ru/lifestyle/mobilnoe-kino-pochemu-syemki-na-smartfon-zavoevyivayut-vse-bolshuyu-populyarnost-181925/
+https://www.starhit.ru/interview/ekaterina-kolisnichenko-stoilo-tak-dolgo-terpet-bol-chtobyi-uvidet-syina-179989/
+https://www.starhit.ru/novosti/drug-borisa-grebenschikova-lyubov-tolkalina-soprovojdaet-ego-bolshe-dvuh-let-181905/
+https://www.starhit.ru/novosti/pervyiy-potseluy-boyfrend-ani-lorak-opublikoval-nejnoe-foto-s-pevitsey-181841/
+https://www.starhit.ru/
+https://www.starhit.ru/photoistorii/anjelika-varum-igor-nikolaev-i-lyubov-uspenskaya-na-prezentatsii-knigi-leonida-agutina-180657/
+https://www.starhit.ru/style/pozoloti-ruchku-znaki-zodiaka-sposobnyie-okazatsya-na-grani-nischetyi-181089/

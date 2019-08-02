@@ -1,0 +1,10 @@
+https://www.citilink.ru/catalog/computers_and_notebooks/all_in_one_desktops/1119880/
+https://www.citilink.ru/actions/304975/
+https://www.citilink.ru/
+https://www.citilink.ru/registration/
+https://www.citilink.ru/actions/304999/
+https://www.citilink.ru/news/product/
+https://www.citilink.ru/feedback-new/
+https://www.citilink.ru/about/service/viezd/
+https://www.citilink.ru/catalog/mobile/notebooks/1093264/
+https://www.citilink.ru/catalog/mobile/

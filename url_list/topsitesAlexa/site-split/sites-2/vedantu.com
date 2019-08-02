@@ -1,0 +1,10 @@
+https://www.vedantu.com/sample-papers/cbse-sample-question-papers-for-class-9
+https://www.vedantu.com/sample-papers/icse-sample-question-papers-for-class-10
+https://www.vedantu.com/revision-notes/cbse-class-10-notes
+https://www.vedantu.com/vfind-me-a-teacherintroduction?grade=6
+https://www.vedantu.com/ncert-solutions/ncert-solutions-class-9-science
+https://www.vedantu.com/
+https://www.vedantu.com/cbse/important-questions-class-9
+https://www.vedantu.com/igcse/igcse-past-question-papers
+https://www.vedantu.com/iit-jee/jee-advanced-online-mock-test-series
+https://www.vedantu.com/syllabus/cbse-syllabus

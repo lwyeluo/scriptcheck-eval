@@ -1,0 +1,10 @@
+https://www.marca.com/mundo-marca/2019/08/01/5d42aa0322601d49748b45e3.html
+https://www.marca.com/motor/motogp/gp-republica-checa/2019/08/01/5d427769268e3e03668b45b1.html#js-comentar-5d427769268e3e03668b45b1-div
+https://www.marca.com/futbol/liga-italiana.html?intcmp=MENUPROD&s_kw=liga-italiana
+https://www.marca.com/futbol/liga-francesa/clasificacion.html?intcmp=MENUPROD&s_kw=liga-francesa-clasificacion
+https://www.marca.com/
+https://www.marca.com/futbol/espanyol.html?intcmp=MENUESCU&s_kw=espanyol
+https://www.marca.com/futbol/liga-italiana/calendario.html?intcmp=MENUPROD&s_kw=liga-italiana-calendario-resultados
+https://www.marca.com/ajedrez.html?intcmp=MENUPROD&s_kw=ajedrez
+https://www.marca.com/buzz/2019/08/01/5d429a49268e3e76718b45b0.html
+https://www.marca.com/baloncesto/acb/2019/08/01/5d42b022ca4741a5638b45ed.html#js-comentar-5d42b022ca4741a5638b45ed-div

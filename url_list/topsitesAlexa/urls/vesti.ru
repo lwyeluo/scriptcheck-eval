@@ -1,0 +1,10 @@
+https://www.vesti.ru/videos?cid=4261
+https://www.vesti.ru/
+https://www.vesti.ru/videos?cid=4921
+https://www.vesti.ru/doc.html?id=3174159
+https://www.vesti.ru/videos/show/vid/805905/#/video/https%3A%2F%2Fplayer.vgtrk.com%2Fiframe%2Fvideo%2Fid%2F1927515%2Fstart_zoom%2Ftrue%2FshowZoomBtn%2Ffalse%2Fsid%2Fvesti%2FisPlay%2Ftrue%2F%3Facc_video_id%3D805905
+https://www.vesti.ru/videos?cid=4381
+https://www.vesti.ru/doc.html?id=3174241
+https://auto.vesti.ru/
+https://www.vesti.ru/videos?cid=4961
+https://www.vesti.ru/videos?cid=3881

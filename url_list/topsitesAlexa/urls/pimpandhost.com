@@ -1,0 +1,10 @@
+https://pimpandhost.com/login
+https://pimpandhost.com/signup
+https://pimpandhost.com/contact
+https://pimpandhost.com/album/6228105
+https://forum.pimpandhost.com/
+https://pimpandhost.com/album/6228124
+https://pimpandhost.com/
+https://pimpandhost.com/album/6228346
+https://pimpandhost.com/posts
+https://pimpandhost.com/plugins

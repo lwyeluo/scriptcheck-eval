@@ -1,0 +1,10 @@
+https://hegartymaths.com/login/learner
+https://hegartymaths.com/blog
+https://hegartymaths.com/login/teacher
+https://hegartymaths.com/press
+https://hegartymaths.com/story
+https://hegartymaths.com/
+https://hegartymaths.com
+https://hegartymaths.com/success
+https://hegartymaths.com/contact-us
+https://hegartymaths.com/trial

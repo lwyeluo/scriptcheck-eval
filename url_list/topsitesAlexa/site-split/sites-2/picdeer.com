@@ -1,0 +1,10 @@
+http://picdeer.com/
+http://picdeer.com/tag/football
+http://picdeer.com/driesmertens
+http://picdeer.com/feedback
+http://picdeer.com/account-removal
+http://picdeer.com/chef.q8
+http://picdeer.com/maripalma
+http://picdeer.com/brunoberti
+http://picdeer.com/list/3844
+http://picdeer.com/terms-of-service

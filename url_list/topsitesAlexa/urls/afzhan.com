@@ -1,0 +1,10 @@
+http://www.afzhan.com/st184063/
+http://www.afzhan.com/product/t2397/list.html
+http://www.afzhan.com/product/t2528/list.html
+http://www.afzhan.com/product/t2656/list.html
+http://www.afzhan.com/purchase-tend/detail/6369.html
+http://www.afzhan.com/news/detail/76425.html
+http://www.afzhan.com/product/t0/list_p1_k%E8%AE%BF%E5%AE%A2%E6%9C%BA.html
+http://www.afzhan.com/product/t2358/list.html
+http://www.afzhan.com/st180346/product_11613003.html
+http://www.afzhan.com/

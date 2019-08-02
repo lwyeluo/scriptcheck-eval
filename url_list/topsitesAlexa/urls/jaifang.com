@@ -1,0 +1,10 @@
+http://www.jaifang.com/house/housedetail-441.html
+http://www.jaifang.com/house/housedetail-370.html
+http://www.jaifang.com/jinggangshan/
+http://www.jaifang.com/house/housedetail-302.html
+http://www.jaifang.com/house/housedetail-339.html
+http://www.jaifang.com/yongfeng/
+http://www.jaifang.com/house/housedetail-412.html
+http://www.jaifang.com/
+http://www.jaifang.com/house/housedetail-389.html
+http://www.jaifang.com/house/housedetail-333.html

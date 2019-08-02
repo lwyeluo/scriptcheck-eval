@@ -1,0 +1,10 @@
+https://regnum.ru/analytics/sport.html
+https://regnum.ru/news/it.html
+https://regnum.ru/news/sport/2678911.html
+https://regnum.ru/news/economy/2678891.html
+https://regnum.ru/news.html
+https://regnum.ru/main.html
+https://regnum.ru/news/innovatio.html
+https://regnum.ru/analytics/innovatio.html
+https://regnum.ru/analytics/it.html
+https://regnum.ru/

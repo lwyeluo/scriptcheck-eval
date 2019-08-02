@@ -1,0 +1,10 @@
+https://www.musixmatch.com/explore
+https://www.musixmatch.com/
+https://support.musixmatch.com
+https://about.musixmatch.com/eula
+https://about.musixmatch.com/community/overview
+https://www.musixmatch.com/sign-up
+https://about.musixmatch.com/copyright
+https://about.musixmatch.com/privacy-policy
+https://www.musixmatch.com/sign-in
+https://about.musixmatch.com/cookie-policy

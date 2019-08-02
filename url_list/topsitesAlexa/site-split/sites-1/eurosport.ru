@@ -1,0 +1,10 @@
+https://video.eurosport.ru/tennis/wimbledon/2019/video_vid1221119.shtml
+https://video.eurosport.ru/tennis/atp-washington-doubles/2019/video_vid1225892.shtml
+https://www.eurosport.ru/eurosport/story_sto4289203.shtml
+https://video.eurosport.ru/cycling/tour-de-france/2019/video_vid1225750.shtml
+https://www.eurosport.ru/football/champions-league/2019-2020/live_mtc1112094.shtml
+https://video.eurosport.ru
+https://www.eurosport.ru/athletics/european-championships/
+https://video.eurosport.ru/tennis/wimbledon/2019/video_vid1220272.shtml
+https://www.eurosport.ru/
+https://www.eurosport.ru/eurosport/story_sto6835694.shtml

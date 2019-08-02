@@ -1,0 +1,10 @@
+https://www.ionos.com/partner?__lf=Static
+https://www.ionos.com/
+https://www.ionos.com/terms-gtc/general-terms-and-conditions/
+https://www.ionos.com/newsroom
+https://www.ionos.com/digitalguide
+https://www.ionos.com/startupguide
+https://www.ionos.com/terms-gtc/terms-privacy/
+https://www.ionos.com/management
+https://www.ionos.com/consultant
+https://www.ionos.com/new-brand

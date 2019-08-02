@@ -1,0 +1,10 @@
+https://www.flyfrontier.com/deals/discount-den/
+https://www.flyfrontier.com/travel/travel-info/bundle-save/
+https://www.flyfrontier.com/travel/travel-info/seating-options/
+https://www.flyfrontier.com/travel/travel-info/bag-options/
+https://www.flyfrontier.com/about-us/
+https://www.flyfrontier.com/
+https://news.flyfrontier.com/
+https://emails.flyfrontier.com/pub/rf?_ri_=X0Gzc2X=YQpglLjHJlTQGhvsl3IyRTFJeNNR2LzgXpjzfkIg0tFcA6VwjpnpgHlpgneHmgJoXX0Gzc2X=YQpglLjHJlTQGnjsbk2bB7NzggtcGGnzbk9jEueh464bMv
+https://www.flyfrontier.com/manage-travel/confirmation-code
+https://www.flyfrontier.com/legal/

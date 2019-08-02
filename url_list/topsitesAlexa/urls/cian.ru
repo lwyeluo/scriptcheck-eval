@@ -1,0 +1,10 @@
+https://kirov.cian.ru
+https://krym.cian.ru
+https://roshal.cian.ru/
+https://volokolamsk.cian.ru/
+https://www.cian.ru/sale/flat/213995965/
+https://www.cian.ru/kupit-kvartiru-moskva-metro-kuncevskaya/
+https://www.cian.ru/kupit-kvartiru-moskva-metro-sretenskiy-bulvar/
+https://www.cian.ru/kupit-kvartiru-moskva-stanciya-mck-botanicheskiy-sad/
+https://www.cian.ru/kupit-kvartiru-moskva-yuzhnoe-medvedkovo-0454/
+https://www.cian.ru/

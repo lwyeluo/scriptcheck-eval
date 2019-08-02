@@ -1,0 +1,10 @@
+https://www.quikr.com/quikr-assured-products
+https://www.quikr.com/entertainment/all-India
+https://www.quikr.com/Education-Training/gId-194
+https://www.quikr.com/delhi
+https://www.quikr.com/services/credit-card-in-bangalore-evaluate
+https://www.quikr.com/services/b2b-suppliers-India-all?cp=side-menu&utm_source=QuikrEasyHP
+https://www.quikr.com/
+https://www.quikr.com/bangalore
+https://www.quikr.com/help
+https://www.quikr.com/jaipur

@@ -1,0 +1,10 @@
+https://www.lentainform.com/categorybeauty
+https://www.lentainform.com/categorypolitics
+https://www.lentainform.com/categorycooking
+https://www.lentainform.com/categoryparenting
+https://www.lentainform.com/categorylifestyle
+https://www.lentainform.com/categoryshowbiz
+https://www.lentainform.com/categorytravel
+https://www.lentainform.com/categoryrealty
+https://www.lentainform.com/
+https://www.lentainform.com/categorysociety

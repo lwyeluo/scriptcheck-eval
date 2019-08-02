@@ -1,0 +1,10 @@
+https://es.b-ok.cc/
+https://b-ok.cc/categories
+https://el.b-ok.cc/
+https://pt.b-ok.cc/
+https://de.b-ok.cc/
+https://b-ok.cc/faq.php
+https://ru.b-ok.cc/
+https://b-ok.cc/
+https://zh.b-ok.cc/
+https://en.b-ok.cc/

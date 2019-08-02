@@ -1,0 +1,10 @@
+https://xhamsterpremium.com/videos
+https://gold.xhamsterpremium.com/?page=2
+https://gold.xhamsterpremium.com/
+https://gold.xhamsterpremium.com/?page=6
+https://xhamsterpremium.com/categories
+https://xhamsterpremium.com/amateurs
+https://xhamsterpremium.com/
+https://gold.xhamsterpremium.com/join#sign-in
+https://studio.xhamsterpremium.com/
+https://xhamsterpremium.com/studios

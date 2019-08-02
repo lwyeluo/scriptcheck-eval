@@ -1,0 +1,10 @@
+https://www.vox.com/recode
+https://www.vox.com/ezra-klein-show-podcast/2019/7/31/20732041/varshini-prakash-sunrise-movement-green-new-deal
+https://www.vox.com/authors/tara-golshan
+https://www.vox.com/
+https://www.vox.com/2019/7/31/20700688/bachelorette-finale-hannah-brown-slut-shaming-luke-jed
+https://www.vox.com/authors/kaitlyn-tiffany
+https://www.vox.com/authors/alexia-fernandez-campbell
+https://www.vox.com/authors/constance-grady
+https://www.vox.com/energy-and-environment
+https://www.vox.com/authors/umair-irfan

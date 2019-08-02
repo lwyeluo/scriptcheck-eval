@@ -1,0 +1,10 @@
+https://www.agame.com/terms_of_use
+https://www.agame.com/allcategories#adventure
+https://www.agame.com/privacy-policy-kids-parents
+https://www.agame.com/information-for-parents
+https://www.agame.com/allcategories#multiplayer
+https://www.agame.com/privacy-policy
+https://www.agame.com/cookie-policy
+https://www.agame.com/
+https://www.agame.com/allcategories#racing
+https://www.agame.com/allcategories#action

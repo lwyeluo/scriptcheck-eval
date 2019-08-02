@@ -1,0 +1,10 @@
+https://www.phone.instantcheckmate.com/sitemap/
+https://www.phone.instantcheckmate.com/privacy-policy
+https://www.phone.instantcheckmate.com
+https://www.phone.instantcheckmate.com/
+https://www.instantcheckmate.com/limited-license
+https://www.phone.instantcheckmate.com/faqs
+https://www.phone.instantcheckmate.com/limited-license
+https://www.instantcheckmate.com/cancel
+https://www.instantcheckmate.com/dmca
+https://www.instantcheckmate.com/

@@ -1,0 +1,10 @@
+https://www.racedepartment.com/forums/
+https://www.racedepartment.com/help/terms-of-service/
+https://www.racedepartment.com/calendar
+https://www.racedepartment.com/
+https://www.racedepartment.com/media/
+https://www.racedepartment.com/downloads/
+https://www.racedepartment.com/categories/racing-esports.400/
+https://www.racedepartment.com/pember/membership-new
+https://www.racedepartment.com/forums/racedepartment-podcast.539/
+https://www.racedepartment.com/members/

@@ -1,0 +1,10 @@
+https://www.seattletimes.com/entertainment/visual-arts/visualizing-violence-how-one-art-project-aims-to-show-how-widespread-gun-violence-is/
+https://www.seattletimes.com/seattle-news/crime/redmond-police-investigate-suspicious-death-of-man-found-injured-in-middle-of-street/
+https://www.seattletimes.com/opinion/a-reset-for-seattle-city-council/
+https://www.seattletimes.com/
+https://www.seattletimes.com/business/several-hundred-pyramid-alehouse-workers-win-suit-over-unpaid-wages/
+https://www.seattletimes.com/explore/shop-northwest/need-a-digital-detox-3-agendas-for-screen-free-fun-in-seattle/
+https://www.seattletimes.com/seattle-news/transportation/what-questions-do-you-have-about-seattles-streetcars-including-the-proposed-first-avenue-line/
+https://www.seattletimes.com/seattle-news/washington-drivers-licenses-could-soon-offer-nonbinary-gender-choice/
+https://www.seattletimes.com/life/wellness/cutting-out-ultra-processed-food-can-be-hard-on-schedule-budget-here-are-real-world-ways-to-do-it/
+https://www.seattletimes.com/business/desperate-for-workers-aging-japan-turns-to-robots-for-health-care/

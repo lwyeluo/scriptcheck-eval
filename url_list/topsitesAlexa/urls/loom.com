@@ -1,0 +1,10 @@
+https://www.loom.com/blog/
+https://www.loom.com/privacy-policy
+https://www.loom.com/privacy
+https://www.loom.com/press
+https://www.loom.com/terms
+https://www.loom.com/use-cases
+https://www.loom.com/desktop
+https://www.loom.com/download
+https://www.loom.com/pricing
+https://www.loom.com/

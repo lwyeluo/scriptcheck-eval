@@ -1,0 +1,10 @@
+https://www.surveymonkey.com/
+https://investor.surveymonkey.com/?ut_source=footer
+https://ko.surveymonkey.com/?ut_source=footer
+https://www.surveymonkey.com/mp/gdpr/?ut_source=footer
+https://www.surveymonkey.com/mp/aboutus/leadership/?ut_source=footer
+https://apply.surveymonkey.com/?ut_source=megamenu
+https://www.surveymonkey.com/mp/sitemap/?ut_source=footer
+https://www.surveymonkey.com/mp/aboutus/?ut_source=footer
+https://no.surveymonkey.com/?ut_source=footer
+https://www.surveymonkey.com/?ut_source=footer

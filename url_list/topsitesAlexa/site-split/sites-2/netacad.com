@@ -1,0 +1,10 @@
+https://www.netacad.com/
+https://www.netacad.com/about-networking-academy
+https://www.netacad.com/netacad_academy_search?academy_type=ca
+https://www.netacad.com
+https://www.netacad.com/zh-hans
+https://www.netacad.com/ja
+https://www.netacad.com/data-protection
+https://www.netacad.com/ru
+https://www.netacad.com/employers
+https://www.netacad.com/educators

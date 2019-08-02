@@ -1,0 +1,10 @@
+https://api.weibo.com/oauth2/authorize?response_type=code&client_id=3567679925&redirect_uri=http://www.nongjx.com/usermanage/openlogin.aspx?args=weibo,/usermanage/default.aspx
+http://www.nongjx.com/news/detail/71559.html
+http://www.nongjx.com/news/detail/71510.html
+http://www.nongjx.com/gzd
+http://www.nongjx.com/
+http://www.nongjx.com/news/detail/71479.html
+http://www.nongjx.com/wrj
+http://www.nongjx.com/offer/fbqg.html
+http://www.nongjx.com/usermanage/login.aspx
+http://www.nongjx.com/shop/

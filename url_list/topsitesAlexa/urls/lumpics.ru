@@ -1,0 +1,10 @@
+https://lumpics.ru/let-me-google-it-for-you/#comment-143343
+https://lumpics.ru/nvidia-physx-driver/
+https://lumpics.ru/how-to-put-an-apostrophe-in-word/
+https://lumpics.ru/
+https://lumpics.ru/error-in-windows-script-host-how-to-fix-it/#comment-143327
+https://lumpics.ru/how-get-into-facebook-page/#comment-143298
+https://lumpics.ru/how-to-replace-the-word-in-the-word/
+https://lumpics.ru/how-to-delete-photos-in-odnoklassniki/#comment-143333
+https://lumpics.ru/how-to-remove-app-not-installed-error-on-android/#comment-143325
+https://lumpics.ru/how-to-convert-a-video/

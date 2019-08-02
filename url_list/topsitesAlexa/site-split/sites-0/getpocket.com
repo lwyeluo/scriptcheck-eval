@@ -1,0 +1,10 @@
+https://getpocket.com/tos
+https://getpocket.com/privacy
+https://getpocket.com/login?s=homepage
+https://getpocket.com/about
+https://getpocket.com/signup?ep=1
+https://help.getpocket.com
+https://getpocket.com/jobs
+https://getpocket.com/premium?ep=1
+https://getpocket.com/
+https://getpocket.com/login?ep=1

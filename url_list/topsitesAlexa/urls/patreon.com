@@ -1,0 +1,10 @@
+https://www.patreon.com/c/visualartists
+https://www.patreon.com/
+https://www.patreon.com/press
+https://www.patreon.com/juicyscoop
+https://www.patreon.com/c/music
+https://www.patreon.com/about
+https://www.patreon.com/frannerd
+https://www.patreon.com/kameronhurley
+https://www.patreon.com/c/writing
+https://www.patreon.com/c/podcasts

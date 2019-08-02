@@ -1,0 +1,10 @@
+https://www.nouvelobs.com/abonnement
+http://programme-tv.nouvelobs.com/
+https://www.nouvelobs.com/editos-et-chroniques/
+https://www.nouvelobs.com/societe/20190728.OBS16506/a-l-ecole-de-la-deuxieme-chance-du-chef-thierry-marx-ici-on-n-est-pas-gentil-on-est-vrai.html
+http://consodurable.blogs.nouvelobs.com/
+https://www.nouvelobs.com/
+https://www.nouvelobs.com/voyage/20190703.OBS15420/de-la-corse-a-la-bretagne-decouvrez-tous-nos-bons-plans-pour-vos-vacances.html
+https://www.nouvelobs.com/design/
+https://www.nouvelobs.com/monde/20190725.OBS16364/cette-oligarchie-algerienne-qui-investit-en-masse-dans-l-immobilier-parisien.html
+https://www.nouvelobs.com/jeux/20190613.OBS14317/gagnez-des-places-pour-l-avant-premiere-du-film-the-pretenders.html

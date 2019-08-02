@@ -1,0 +1,10 @@
+https://www.cliffsnotes.com/discover-contact
+https://www.cliffsnotes.com/study-guides
+https://www.cliffsnotes.com/student-life
+https://www.cliffsnotes.com/test-prep
+https://www.cliffsnotes.com/disclaimer
+https://www.cliffsnotes.com/literature
+https://www.cliffsnotes.com/discover-advertise
+https://www.cliffsnotes.com/
+https://www.cliffsnotes.com/discover-about
+https://www.cliffsnotes.com/sitemap

@@ -1,0 +1,10 @@
+https://kopilkaurokov.ru/tehnologiya
+https://kopilkaurokov.ru/prochee
+https://kopilkaurokov.ru/corect
+https://kopilkaurokov.ru/informatika
+https://kopilkaurokov.ru/
+https://kopilkaurokov.ru/obschestvoznanie
+https://kopilkaurokov.ru/logopediya
+https://kopilkaurokov.ru/zavuchu
+https://kopilkaurokov.ru/finansovaya-gramotnost
+https://kopilkaurokov.ru/okruzhayushchiy-mir

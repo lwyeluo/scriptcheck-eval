@@ -1,0 +1,10 @@
+http://guide.qyer.com/app/
+http://tool.qyer.com/qtag
+https://z.qyer.com/cruise/
+http://z.qyer.com/car/?utm_source=c03729731-pc&utm_medium=partner&utm_campaign=entry&utm_term=qyer_nav
+https://www.qyer.com/
+https://nav.qyer.com/about
+http://z.qyer.com/
+https://z.qyer.com/
+http://nav.qyer.com/member
+http://plan.qyer.com/create

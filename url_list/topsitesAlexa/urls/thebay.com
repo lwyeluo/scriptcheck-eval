@@ -1,0 +1,10 @@
+https://www.thebay.com/BeautyGift-Setsshop_N-4ztf05Ne-6ja3nm
+https://www.thebay.com/Make-Up-For-EverBeautyshop_N-1z134cmZ4zteysNe-6lvnb6
+https://www.thebay.com/WomenWomen-s-ShoesComfort-Shoesshop_N-4ztfupNe-6ja3nm
+https://www.thebay.com/WomenSleepwear-and-Loungeshop_N-4ztft8Ne-6ja3nm
+https://www.thebay.com/HomeFurniture-and-MattressesLiving-Room-Furnitureshop_N-4ztf8fNe-6ja3nm
+https://www.thebay.com/WomenJewelleryFine-Jewelleryshop_N-4ztfpsNe-6ja3nm
+https://www.thebay.com/WomenBest-Sellersshop_N-4ztforNe-6ja3nm
+https://www.thebay.com/WomenWomen-s-ClothingDesigner-Clothingshop_N-4ztfr7
+https://www.thebay.com/
+https://www.thebay.com/WomenDesigner-ClothingSkirts-Shortsshop_N-4ztfr7Z1z13znxZ1z13zrc

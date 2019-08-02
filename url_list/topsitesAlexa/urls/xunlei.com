@@ -1,0 +1,10 @@
+https://www.xunlei.com/v2018/dist/aboutusdetail.html#team
+https://www.xunlei.com/v2018/dist/aboutusdetail.html#contactus
+https://www.xunlei.com/v2018/dist/aboutusdetail.html#news
+https://www.xunlei.com/
+https://www.xunlei.com/v2018/dist/openplatform.html
+http://bbs.xunlei.com/forum.php
+https://www.xunlei.com/images/wlwh.jpg
+http://biz.xunlei.com/market/
+https://www.xunlei.com/images/yp.jpg
+https://www.xunlei.com/v2018/dist/aboutusdetail.html#honor

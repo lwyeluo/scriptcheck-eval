@@ -1,0 +1,10 @@
+https://www.lavanguardia.com/vida
+https://www.lavanguardia.com/series
+https://www.lavanguardia.com/local/catalunya
+https://www.lavanguardia.com/
+https://www.lavanguardia.com/politica-privacidad
+https://www.lavanguardia.com/cultura
+http://agenda.lavanguardia.com/
+https://www.lavanguardia.com/horoscopo/20190731/463481480746/horoscopo-hoy-jueves-zodiaco.html
+https://www.lavanguardia.com/quienes-somos
+https://www.lavanguardia.com/deportes/resultados/champions-league

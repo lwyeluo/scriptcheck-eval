@@ -1,0 +1,10 @@
+https://www.twoo.com/about?login=0
+https://www.twoo.com/download
+https://www.twoo.com/about
+https://www.twoo.com/download?login=1
+https://www.twoo.com/login?view=forgot
+https://www.twoo.com/
+https://www.twoo.com/?login=0
+https://blog.twoo.com
+https://www.twoo.com/download?login=0
+https://www.twoo.com/faq

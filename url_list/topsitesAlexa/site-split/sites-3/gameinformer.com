@@ -1,0 +1,10 @@
+https://www.gameinformer.com/covers
+https://www.gameinformer.com/
+https://www.gameinformer.com/previews
+https://www.gameinformer.com/columns
+https://www.gameinformer.com/ngt
+https://www.gameinformer.com/terms
+https://www.gameinformer.com/index?_wrapper_format=html&page=1
+https://www.gameinformer.com/hubs
+https://www.gameinformer.com/news
+https://www.gameinformer.com/iceborne

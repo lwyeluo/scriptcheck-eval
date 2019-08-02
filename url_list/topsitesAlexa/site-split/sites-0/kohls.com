@@ -1,0 +1,10 @@
+https://www.kohls.com/
+https://www.kohls.com/catalog.jsp?CN=Assortment:EOS%20Sandals%202019&BL=y&BST=3523951:3607280:3483417:3502345:3574960:3418800&icid=hpmf-offereossandals
+https://www.kohls.com/catalog.jsp?CN=InStoreOnline:Pick%20Up%20in%20Store&BL=y
+https://www.kohls.com/ecom/OnlineOnly/BOPUS1025.html
+https://www.kohls.com/stores.shtml
+https://www.kohls.com/sale-event/kohl-s-cares.jsp?icid=hpmf-kohlscareslp
+https://www.kohls.com/ecom/Kcash/10KohlsCash_REDEEM3.html
+https://apply.kohls.com/
+https://www.kohls.com/catalog.jsp?CN=InStoreOnline:Pick%20Up%20in%20Store&icid=hpmf-bopus
+https://credit.kohls.com/eCustService/

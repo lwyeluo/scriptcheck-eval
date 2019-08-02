@@ -1,0 +1,10 @@
+https://terrikon.com/
+https://terrikon.com/football
+https://terrikon.com/livescore
+https://terrikon.com/boxing
+https://terrikon.com/olympic-2014
+https://terrikon.com/olympic-2018
+https://terrikon.com/blogs
+https://terrikon.com/olympic-2010
+https://terrikon.com/worldcup-2014
+https://terrikon.com/basketball

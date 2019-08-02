@@ -1,0 +1,10 @@
+https://www.kinonews.ru/
+https://www.kinonews.ru/photos
+https://forum.kinonews.ru/tema217163/
+https://www.kinonews.ru/adverts
+https://www.kinonews.ru/article_88035
+https://www.kinonews.ru/trailers17739#comments
+https://www.kinonews.ru/person_170/robert-redford
+https://www.kinonews.ru/authorreviews
+https://forum.kinonews.ru/tema216666/
+https://forum.kinonews.ru/tema91660/

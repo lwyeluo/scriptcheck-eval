@@ -1,0 +1,10 @@
+https://www.waves.com/refer
+https://www.waves.com/merch
+https://www.waves.com/
+https://www.waves.com/webinars
+https://www.waves.com/student-discounts
+https://www.waves.com/hardware
+https://www.waves.com/certification
+https://www.waves.com/contact-us
+https://www.waves.com/blog
+https://www.waves.com/bundles

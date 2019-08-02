@@ -1,0 +1,10 @@
+http://abiturient.spbu.ru
+http://abiturient.spbu.ru/priem/bakalavriat/grafic-feb-2014.html
+http://edu.spbu.ru/obuchenie-za-rubezhom-po-programmam-obmena.html
+http://uosd.spbu.ru/UOSDmain.php
+https://spbu.ru/postupayushchim
+http://psrs.spbu.ru
+https://spbu.ru/universitet
+https://dspace.spbu.ru
+https://spbu.ru/history
+https://spbu.ru/

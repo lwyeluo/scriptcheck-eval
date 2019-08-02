@@ -1,0 +1,10 @@
+https://www.mailerlite.com/integrations
+https://www.mailerlite.com/support
+https://www.mailerlite.com/blog
+https://www.mailerlite.com/legal
+https://www.mailerlite.com/experts
+https://www.mailerlite.com/request-a-demo
+https://www.mailerlite.com/features
+https://www.mailerlite.com/
+https://www.mailerlite.com/newsletter-examples
+https://www.mailerlite.com/pricing

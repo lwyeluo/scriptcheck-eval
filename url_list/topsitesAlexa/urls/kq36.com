@@ -1,0 +1,10 @@
+https://www.kq36.com/31/
+https://www.kq36.com/job_list.asp?Job_ClassI_Id=2&F_P_Job=4
+https://www.kq36.com/per_list.asp?Job_ClassI_Id=2&Job_ClassII_Id=71&Job_ClassIII_Id=47
+https://www.kq36.com/job_list.asp?Job_ClassI_Id=2&Job_ClassII_Id=21
+https://www.kq36.com/job_list.asp?Job_ClassI_Id=2&Job_ClassII_Id=48&Job_ClassIII_Id=94
+https://www.kq36.com/job_list.asp?Job_ClassI_Id=2&Job_ClassII_Id=71
+https://www.kq36.com/jobs/2206625
+https://www.kq36.com/
+https://www.kq36.com/520/114/#addself
+https://www.kq36.com/job_list.asp?Job_ClassI_Id=2&Job_ClassII_Id=48

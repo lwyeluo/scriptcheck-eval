@@ -1,0 +1,10 @@
+https://www.geni.com/worldfamilytree
+https://www.geni.com/corp/apps/
+https://www.geni.com/
+https://www.geni.com/login
+https://www.geni.com/discussions
+https://www.geni.com/company/privacy
+https://www.geni.com/dna-tests
+https://www.geni.com/company/terms_of_use
+https://www.geni.com/people/Rt-Hon-Boris-Johnson-MP-PC-Prime-Minister-of-the-United-Kingdom/6000000011177409367
+https://www.geni.com/people

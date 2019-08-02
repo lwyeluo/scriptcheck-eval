@@ -1,0 +1,10 @@
+https://skylines.paradoxwikis.com/Cities:_Skylines_Wiki
+https://eu2.paradoxwikis.com/Main_Page
+https://ck2.paradoxwikis.com/Crusader_Kings_II_Wiki
+https://paradoxwikis.com/
+https://aod.paradoxwikis.com/Main_Page
+https://vic1.paradoxwikis.com/Main_Page
+https://eu3.paradoxwikis.com/Europa_Universalis_3_Wiki
+https://hoi2.paradoxwikis.com/Main_Page
+https://hoi4.paradoxwikis.com/Hearts_of_Iron_4_Wiki
+https://stellaris.paradoxwikis.com/Stellaris_Wiki

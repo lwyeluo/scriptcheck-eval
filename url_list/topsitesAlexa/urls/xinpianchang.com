@@ -1,0 +1,10 @@
+https://resource.xinpianchang.com/video/list?cate=City
+https://resource.xinpianchang.com/photo/list/pond5?cate=Fashion
+https://www.xinpianchang.com/activity?cateid=49
+https://resource.xinpianchang.com
+https://resource.xinpianchang.com/video/list?cate=Underwater
+https://www.xinpianchang.com/
+https://resource.xinpianchang.com/photo/list/pond5?cate=Business
+https://resource.xinpianchang.com/video/list
+https://edu.xinpianchang.com
+https://resource.xinpianchang.com/audio/list/pond5?cate=Action

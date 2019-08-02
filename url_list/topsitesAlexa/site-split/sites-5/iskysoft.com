@@ -1,0 +1,10 @@
+https://pdf.iskysoft.com/
+https://www.iskysoft.com/other/sitemap.html
+https://www.iskysoft.com/download.html
+https://www.iskysoft.com/review/teorex-iresizer-review.html
+https://toolbox.iskysoft.com/data-recovery.html
+https://toolbox.iskysoft.com/whatsapp-transfer-backup-and-restore.html
+https://www.iskysoft.com/data-eraser-for-mac.html
+https://www.iskysoft.com/other/privacy.html
+https://www.iskysoft.com/slideshow-maker-mac.html
+https://www.iskysoft.com/

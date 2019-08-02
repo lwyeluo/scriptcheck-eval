@@ -1,0 +1,10 @@
+https://www.nerdwallet.com/cost-of-living-calculator?trk=nw_gn1_4.0
+https://www.nerdwallet.com/?trk=nw_gn_4.0
+https://www.nerdwallet.com/balance-transfer-credit-cards?trk=nw_gn1_4.0
+https://www.nerdwallet.com/balance-transfer-credit-cards
+https://www.nerdwallet.com/checking-accounts?trk=nw_gn1_4.0
+https://www.nerdwallet.com/zero-percent-credit-cards
+https://www.nerdwallet.com/
+https://www.nerdwallet.com/blog/nerdwallet-compare-inc-licenses-and-disclosures/
+https://www.nerdwallet.com/the-best-credit-cards?trk=nw_gn1_4.0
+https://www.nerdwallet.com/leadership?trk=nw_gf_5.0

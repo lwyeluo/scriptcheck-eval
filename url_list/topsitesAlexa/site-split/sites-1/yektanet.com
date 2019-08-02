@@ -1,0 +1,10 @@
+https://www.yektanet.com/native-advertising/
+https://www.yektanet.com/about-yektanet/#jobs
+https://www.yektanet.com/contact/
+https://www.yektanet.com/retargeting/
+https://www.yektanet.com/%d8%b3%d9%88%d8%a7%d9%84%d8%a7%d8%aa-%d9%85%d8%aa%d8%af%d8%a7%d9%88%d9%84/
+https://www.yektanet.com/push-notification-ads/
+https://www.yektanet.com/banner-advertising/
+https://en.yektanet.com
+https://www.yektanet.com/about-yektanet/
+https://www.yektanet.com/

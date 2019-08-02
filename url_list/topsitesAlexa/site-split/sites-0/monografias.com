@@ -1,0 +1,10 @@
+https://www.monografias.com/categorias/Comunicaci%C3%B3n
+https://www.monografias.com/categorias/El-aborto
+https://www.monografias.com/categorias/Leyes-de-los-gases
+https://www.monografias.com/
+https://www.monografias.com/categorias/Sistema-internacional-de-medidas
+https://www.monografias.com/categorias/Tipos-de-aborto
+https://www.monografias.com/categorias/Religiones
+https://www.monografias.com/Lengua_y_Literatura/index.shtml
+https://www.monografias.com/Quimica/index.shtml
+https://www.monografias.com/categorias/Leyes-de-reforma

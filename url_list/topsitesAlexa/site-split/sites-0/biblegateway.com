@@ -1,0 +1,10 @@
+https://www.biblegateway.com/blog/2019/08/what-does-being-a-servant-leader-really-mean-an-interview-with-ralph-e-enlow-jr/?utm_source=bg&utm_medium=bghome&utm_campaign=blog
+https://www.biblegateway.com/
+https://www.biblegateway.com/blog/2019/07/how-jesus-modeled-change-an-interview-with-hal-donaldson/?utm_source=bg&utm_medium=bghome&utm_campaign=blog
+https://www.biblegateway.com/mybiblegateway/
+https://www.biblegateway.com/blog/2019/06/a-life-dedicated-to-evangelism-an-interview-with-luis-palau/?utm_source=bg&utm_medium=bghome&utm_campaign=blogimage&utm_source=bg&utm_medium=bghome&utm_campaign=blogbutton
+https://www.biblegateway.com/blog/2019/07/a-week-in-the-life-of-a-slave-an-interview-with-john-byron/?utm_source=bg&utm_medium=bghome&utm_campaign=blog
+https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_cbsb0724
+https://www.biblegateway.com/newsroom
+https://www.biblegateway.com/blog/2019/07/get-to-the-core-of-the-bible-an-interview-with-mark-e-moore/?utm_source=bg&utm_medium=bghome&utm_campaign=blog
+https://www.biblegateway.com/blog/2019/06/a-life-dedicated-to-evangelism-an-interview-with-luis-palau/?utm_source=bg&utm_medium=bghome&utm_campaign=blogimage&utm_source=bg&utm_medium=bghome&utm_campaign=blogimage

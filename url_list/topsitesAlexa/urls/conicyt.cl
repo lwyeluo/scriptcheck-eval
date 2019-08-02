@@ -1,0 +1,10 @@
+https://www.conicyt.cl/blog/2019/02/15/septima-sesion-ordinaria-del-consejo-de-la-sociedad-civil/
+https://www.conicyt.cl/regional/2019/05/06/v-concurso-de-accion-regional-para-el-desarrollo-territorial-mediante-proyectos-de-id-colaborativa-con-pymes/
+https://ayuda.conicyt.cl/hc/es
+https://www.conicyt.cl/explora/xxiii-concurso-nacional-de-proyectos-explora-para-elaboracion-de-productos-de-divulgacion-de-las-ciencias-y-la-tecnologia-2019-2020/
+https://www.conicyt.cl/
+https://www.conicyt.cl/fondef/2018/11/22/segunda-etapa-i-concurso-idea-tematico-en-adulto-mayor/
+https://www.conicyt.cl/mujeres-en-ciencia-y-tecnologia/
+https://www.conicyt.cl/pci/2019/06/concurso-stic-amsud-convocatoria-nacional-2019/
+https://www.conicyt.cl/becasconicyt/2019/01/03/beca-de-asistencia-a-eventos-para-estudiantes-de-doctorado-convocatoria-2019/
+https://www.conicyt.cl/documentos-y-estadisticas/

@@ -1,0 +1,10 @@
+https://news.hi.ru/culture
+http://www.hi.ru/
+https://news.hi.ru/auto/140972
+https://news.hi.ru/home/140788
+https://news.hi.ru/home/140991
+https://news.hi.ru/economy/140838
+https://news.hi.ru/economy/141018
+https://news.hi.ru/home/140997
+https://news.hi.ru/cosmos
+https://news.hi.ru/hi-tech/141014

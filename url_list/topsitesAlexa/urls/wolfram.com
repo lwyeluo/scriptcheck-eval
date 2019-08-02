@@ -1,0 +1,10 @@
+http://www.wolfram.com/solutions/industry/image-processing/?source=nav
+http://www.wolfram.com/products/?source=footer
+http://www.wolfram.com/solutions/industry/electrical-engineering/?source=nav
+https://www.wolfram.com/
+http://www.wolfram.com/solutions/industry/actuarial-sciences/?source=nav
+http://www.wolfram.com/cloud/?source=nav
+http://www.wolfram.com/solutions/industry/mechanical-engineering/?source=nav
+http://www.wolfram.com/?source=footer
+http://www.wolfram.com/engine/?source=footer
+http://www.wolfram.com/solutions/industry/financial-risk-management/?source=nav

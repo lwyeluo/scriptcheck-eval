@@ -1,0 +1,10 @@
+https://www.cpuid.com/contact.html
+https://www.cpuid.com/news/63-2019.html
+https://www.cpuid.com/softwares/powermax.html
+https://www.cpuid.com/credits.html
+https://www.cpuid.com/bug-report.html
+https://www.cpuid.com/news/62-cpu-z-1-85-amd-agesa-version.html
+https://www.cpuid.com/softwares/perfmonitor-2.html
+https://www.cpuid.com/news.html
+https://www.cpuid.com/
+https://www.cpuid.com/softwares/cpu-z.html

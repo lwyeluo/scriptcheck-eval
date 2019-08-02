@@ -1,0 +1,10 @@
+https://www.rottentomatoes.com/dvd
+https://editorial.rottentomatoes.com/now-streaming/
+https://www.rottentomatoes.com/about
+https://editorial.rottentomatoes.com/article/most-memorable-movie-moments-avengers-infinity-war-snap/
+https://editorial.rottentomatoes.com/article/everything-we-know-about-the-lord-of-the-rings-amazon-series/
+https://editorial.rottentomatoes.com/article/10-great-tv-shows-that-failed-in-their-final-seasons/
+https://www.rottentomatoes.com/
+https://www.rottentomatoes.com/critics
+https://editorial.rottentomatoes.com/the-zeros/
+https://editorial.rottentomatoes.com/weekly-ketchup/

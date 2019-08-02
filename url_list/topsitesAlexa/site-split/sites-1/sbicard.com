@@ -1,0 +1,10 @@
+https://www.sbicard.com/en/personal/credit-cards/lifestyle/doctors-ima-sbi-card.page
+https://www.sbicard.com/en/personal/pay.page#area10
+https://www.sbicard.com/en/personal/credit-cards/rewards/sbi-card-prime.page
+https://www.sbicard.com/
+https://www.sbicard.com/en/corporate/credit-cards.page#central-travel
+https://www.sbicard.com/en/corporate/credit-cards.page#utility
+https://www.sbicard.com/en/corporate/customized-solutions.page#area3
+https://www.sbicard.com/en/personal/benefits.page
+https://www.sbicard.com/creditcards/app/user/login
+https://www.sbicard.com/en/personal/pay.page#area8

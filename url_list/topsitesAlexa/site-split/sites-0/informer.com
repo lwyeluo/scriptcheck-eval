@@ -1,0 +1,10 @@
+https://www.informer.com/blog/
+https://formac.informer.com
+https://software.informer.com
+https://macdownload.informer.com
+https://www.informer.com/blog/2019-05-08/droid-informer-client-updated/
+https://www.informer.com/blog/2018-12-24/merry-christmas-and-happy-new-year-3/
+http://punbb.informer.com
+https://www.informer.com/
+https://www.informer.com/about/
+https://answers.informer.com

@@ -1,0 +1,10 @@
+https://www.guru3d.com/content-overview
+https://www.guru3d.com/files-details/amd-radeon-adrenalin-edition-19-7-5-driver-download.html
+https://www.guru3d.com/knowledgebase/index.html
+https://www.guru3d.com/
+https://forums.guru3d.com/threads/nvidia-435-80-pre-release-driver.427869/
+https://www.guru3d.com/articles-pagesjoin-the-rig-of-the-month-competition,1.html
+https://newsletter.guru3d.com/lists/?p=subscribe&id=1
+https://www.guru3d.com/articles-categories
+https://www.guru3d.com/articles-pages/toshiba-nas-n300-10tb-hdd-review,1.html
+https://www.guru3d.com/articles-pages/corsair-sf750-platinum-power-supply-review,1.html

@@ -1,0 +1,10 @@
+https://www.microcenter.com/
+https://seal.digicert.com/seals/popup/?tag=TpT_SmJ5&url=www.qa.microcenter.com&lang=en&cbr=1520019393909
+https://www.microcenter.com/site/content/CUTtheCORD.aspx
+https://www.microcenter.com/search/search_results.aspx?N=4294967292+519
+https://account.microcenter.com/Login.aspx?RedirectUrl=https://www.microcenter.com/
+https://account.microcenter.com/Registration.aspx
+https://cart.microcenter.com/cart.aspx
+https://www.microcenter.com/site/products/gaming.aspx
+https://www.microcenter.com/site/content/custom-pc-builder.aspx
+https://www.microcenter.com/category/4294967288,4294966363/Apple-Laptops

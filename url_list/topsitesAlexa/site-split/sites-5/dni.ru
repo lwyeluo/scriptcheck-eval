@@ -1,0 +1,10 @@
+https://dni.ru/game/
+https://dni.ru/contacts.html
+https://dni.ru/theme/dom2/
+https://dni.ru/forum/
+http://moscow.dni.ru/
+https://dni.ru/promokody/
+https://dni.ru/
+https://dni.ru/polit/2019/7/23/428470.html
+https://dni.ru/legal.html
+https://dni.ru/horoscope/

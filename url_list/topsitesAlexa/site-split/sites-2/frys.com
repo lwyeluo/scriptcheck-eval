@@ -1,0 +1,10 @@
+https://www.frys.com/category/Outpost/Cell+Phones+&+Mobile+Devices/Bluetooth+Headsets+&+Speakers/
+https://www.frys.com/category/Outpost/PC+Components/Motherboards/
+https://www.frys.com/
+https://www.frys.com/category/Outpost/Cameras/Drones+&+Aerial+Photography/
+https://www.frys.com/category/Outpost/Cell+Phones+&+Mobile+Devices/Smart+Tracker+Tags/
+https://www.frys.com/ac/customerservice/
+https://www.frys.com/template/computerspc
+https://www.frys.com/category/Outpost/PCtab/Optical+Drives+&+Storage+Devices/
+https://www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/C6LegalNotices#employment
+https://www.frys.com/template/help/index/FE30/Service3/Assistance/Middle_Topics/A8WhenWillMyOrderArrive

@@ -1,0 +1,10 @@
+https://www.inc.com/guides-and-reviews/technology
+https://www.inc.com/innovate
+https://www.inc.com/godaddy/perfecting-your-multi-channel-sales-strategy.html?cid=hmbv1
+https://www.inc.com/theinclife
+https://www.inc.com/guides-and-reviews/finance
+https://www.inc.com/michelle-cheng/tuftandneedle-2018-company-of-the-year-nominee.html?cid=hmsp4_3
+https://www.inc.com/drinks-with
+https://www.inc.com/best-industries/index.html?cid=hmsp5_1
+https://www.inc.com/magazine/201902/tom-foster/austin-texas-tyler-haney-outdoor-voices-2018-surge-cities.html?cid=hmsp3_1
+https://www.inc.com/

@@ -1,0 +1,10 @@
+https://www.pyszne.pl/delhi-king-kebab
+https://www.pyszne.pl/kuchnia-indyjska
+https://www.pyszne.pl/polityka-prywatnosci
+https://www.pyszne.pl/restauracja-podlaskie
+https://www.pyszne.pl/zamow-orientalne-jedzenie
+https://www.pyszne.pl/restauracja-warszawa
+https://www.pyszne.pl/pt
+https://www.pyszne.pl/
+https://www.pyszne.pl/ro
+https://www.pyszne.pl/restauracja-swietokrzyskie

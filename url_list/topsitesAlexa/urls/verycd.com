@@ -1,0 +1,10 @@
+http://www.verycd.com/licence/icp/
+http://secure.verycd.com/signup
+http://www.verycd.com/
+http://secure.verycd.com/lostpass
+http://www.verycd.com/account/email/
+http://www.verycd.com/licence/culture/
+http://www.verycd.com/licence/gd/
+http://www.verycd.com/base/edu/
+http://www.verycd.com/entries/814003/
+http://www.verycd.com

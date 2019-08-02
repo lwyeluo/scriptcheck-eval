@@ -1,0 +1,10 @@
+https://www.strikeout.nu/
+https://www.strikeout.nu/f1
+https://www.strikeout.nu/rugby
+https://www.strikeout.nu/formula-1
+https://www.strikeout.nu/cycling
+https://www.strikeout.nu/fighting
+https://www.strikeout.nu/snooker
+https://www.strikeout.nu/racing
+https://www.strikeout.nu/live-sports
+https://www.strikeout.nu/golf

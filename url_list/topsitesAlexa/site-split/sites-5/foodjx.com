@@ -1,0 +1,10 @@
+http://www.foodjx.com/product/t3315/list.html
+http://www.foodjx.com/
+http://www.foodjx.com/product/t2704/list.html
+http://www.foodjx.com/offer_buy/detail/642812.html
+http://www.foodjx.com/product/t4476/list.html
+http://www.foodjx.com/product/t4330/list.html
+http://www.foodjx.com/product/t3532/list.html
+http://www.foodjx.com/product/t4347/list.html
+http://www.foodjx.com/service/Service1.html
+http://www.foodjx.com/product/t3899/list.html

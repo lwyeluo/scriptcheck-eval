@@ -1,0 +1,10 @@
+https://computerhoy.com/politica-privacidad-chn
+https://computerhoy.com/reportajes
+https://computerhoy.com/
+https://computerhoy.com/entretenimiento
+https://computerhoy.com/noticias
+https://computerhoy.com/life
+https://computerhoy.com/motor
+https://computerhoy.com/ultimo
+https://computerhoy.com/cupones
+https://computerhoy.com/especiales

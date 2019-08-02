@@ -1,0 +1,10 @@
+https://forvo.com/
+https://forvo.com/blog/2019/04/forvo_kids%2C_new_app_already_available%21/
+https://forvo.com/word/bastaron/
+https://forvo.com/word/hijab/
+https://forvo.com/word/salmon/
+https://he.forvo.com/
+https://hu.forvo.com/
+https://forvo.com/word/samhain/
+https://forvo.com/word/gif/
+https://pt.forvo.com/

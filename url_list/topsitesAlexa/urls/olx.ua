@@ -1,0 +1,10 @@
+https://www.olx.ua/dom-i-sad/produkty-pitaniya-napitki/
+https://www.olx.ua/rabota/it-telekom-kompyutery/
+https://www.olx.ua/elektronika/klimaticheskoe-oborudovanie/
+https://www.olx.ua/transport/moto/
+https://www.olx.ua/elektronika/igry-i-igrovye-pristavki/
+https://www.olx.ua/rabota/marketing-reklama-dizayn/
+https://www.olx.ua/sitemap/regions/
+https://www.olx.ua/
+https://www.olx.ua/elektronika/noutbuki-i-aksesuary/
+https://www.olx.ua/uslugi/razvlechenie-foto-video/

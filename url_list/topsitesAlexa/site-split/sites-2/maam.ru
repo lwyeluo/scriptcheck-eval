@@ -1,0 +1,10 @@
+https://www.maam.ru/detskijsad/konspekt-od-po-poznavatelnomu-razvitiyu-ostorozhno-yeto-sobaka-v-starshei-grupe-detei-s-zpr.html
+https://www.maam.ru/o-proekte
+https://www.maam.ru/kartinki
+https://www.maam.ru/novosti/priglashaem-na-vserosiiskii-forum-rabotnikov-doshkolnogo-obrazovanija-orientiry-detstva.html
+https://www.maam.ru/detskijsad/fototchyot-o-rezultatah-ispolzovanija-lyepbuka-v-gostjah-u-skazki.html
+https://www.maam.ru/
+https://www.maam.ru/passremind.html
+https://www.maam.ru/shablony
+https://www.maam.ru/registration
+https://www.maam.ru/novosti

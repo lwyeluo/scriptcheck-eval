@@ -1,0 +1,10 @@
+https://www.metacritic.com/contact-us
+https://cbsi.secure.force.com/CBSi/knowledgehome?referer=metacritic.com
+https://www.metacritic.com
+https://www.metacritic.com/
+https://www.metacritic.com/?carousel=music
+https://www.metacritic.com/feature
+https://secure.metacritic.com/login
+https://www.metacritic.com/game/3ds
+https://www.metacritic.com/?carousel=tv
+https://www.metacritic.com/music

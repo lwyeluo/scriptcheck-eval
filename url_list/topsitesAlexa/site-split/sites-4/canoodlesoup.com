@@ -1,0 +1,10 @@
+https://canoodlesoup.com/privacy-policy/
+https://canoodlesoup.com/inside-lenny-kravitzs-brazilian-farm-compound/
+https://canoodlesoup.com/
+https://canoodlesoup.com/yogis-who-took-their-yoga-practice-to-the-next-level/
+https://canoodlesoup.com/ariana-grande-is-being-sued-for-posting-paparazzi-photos-of-herself/
+https://canoodlesoup.com/the-best-new-hair-products-to-try-this-month/
+https://canoodlesoup.com/timeless-beautiful-women-who-prove-beauty-is-diverse/
+https://canoodlesoup.com/category/music/
+https://canoodlesoup.com/celebrities-if-they-looked-like-normal-people-from-the-80s/
+https://canoodlesoup.com/lol-worthy-photos-taken-of-celebrities-that-they-probably-wish-they-could-delete/

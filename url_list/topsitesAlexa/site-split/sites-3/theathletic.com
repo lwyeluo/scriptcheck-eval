@@ -1,0 +1,10 @@
+https://theathletic.com/cincinnati/
+https://theathletic.com/calgary/
+https://theathletic.com/sanantonio/
+https://theathletic.com/arizona/
+https://theathletic.com/neworleans/
+https://theathletic.com/chicago/
+https://theathletic.com/memphis/
+https://theathletic.com/sacramento/
+https://theathletic.com/
+https://theathletic.com/tampabay/

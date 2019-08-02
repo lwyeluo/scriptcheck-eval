@@ -1,0 +1,10 @@
+https://arstechnica.com/gadgets/2019/07/samsung-galaxy-tab-s6-packs-a-snapdragon-855-in-screen-fingerprint-reader/?comments=1
+https://arstechnica.com/gaming/2019/07/review-nos4a2-is-a-haunting-fable-about-the-steep-cost-of-creative-gifts/?comments=1
+https://arstechnica.com/author/john-timmer/
+https://arstechnica.com/author/jonathan-m-gitlin/
+https://arstechnica.com/tech-policy/2019/07/youre-probably-not-going-to-get-your-125-from-the-equifax-settlement/?comments=1
+https://arstechnica.com/
+https://arstechnica.com/science/2019/07/tess-mission-finds-nearby-3-planet-system-thats-a-perfect-planet-lab/?comments=1
+https://arstechnica.com/cars/2019/07/nissans-bigger-battery-bev-the-2019-leaf-plus-review/
+https://arstechnica.com/staff/2019/07/dealmaster-take-200-off-the-latest-dell-xps-13-and-get-a-200-prepaid-card/
+https://arstechnica.com/author/katecox/

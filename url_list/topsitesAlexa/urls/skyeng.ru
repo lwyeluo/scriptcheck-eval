@@ -1,0 +1,10 @@
+https://job.skyeng.ru/?ch=site&utm_source=skyeng.ru&utm_medium=footer
+https://magazine.skyeng.ru/?utm_source=mainpage&utm_medium=footer
+https://skyeng.ru/reviews
+https://skyeng.ru/contacts
+https://skyeng.ru/
+https://skyeng.ru/price
+https://skyeng.ru/teachers
+https://school.skyeng.ru/survey2019-june/?ch=survey&source_type=survey&utm_source=footer&utm_term=surveyjune2019
+https://skyeng.ru/process
+https://job.skyeng.ru/?ch=site&utm_source=skyeng.ru&utm_medium=newbutton

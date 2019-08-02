@@ -1,0 +1,10 @@
+https://www.v2ex.com/?tab=creative
+https://www.v2ex.com/signin
+https://www.v2ex.com/?tab=qna
+https://www.v2ex.com/?tab=city
+https://www.v2ex.com/?tab=play
+https://www.v2ex.com/faq
+https://www.v2ex.com/
+https://www.v2ex.com/mission
+https://www.v2ex.com/?tab=all
+https://www.v2ex.com/planes

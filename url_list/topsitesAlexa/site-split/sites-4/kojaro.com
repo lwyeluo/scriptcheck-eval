@@ -1,0 +1,10 @@
+https://www.kojaro.com/category/video/
+https://www.kojaro.com/tag/introduction-hotel/
+https://www.kojaro.com/
+https://www.kojaro.com/tag/%d9%87%d8%b2%db%8c%d9%86%d9%87-%d8%b3%d9%81%d8%b1/
+https://www.kojaro.com/2019/4/6/177612/portugal-embassy-visa-closure/
+https://www.kojaro.com/2017/6/1/126379/%d8%aa%d9%81%d8%b1%db%8c%d8%ad%da%af%d8%a7%d9%87-%d8%b3%d8%a7%d8%ad%d9%84%db%8c-%d8%a7%d8%b1%d9%88%d9%be%d8%a7-1/
+https://www.kojaro.com/tour/802-%d8%aa%d9%88%d8%b1-%d8%a2%d9%86%d8%aa%d8%a7%d9%84%db%8c%d8%a7/
+https://www.kojaro.com/category/tourism/
+https://www.kojaro.com/category/news/
+https://www.kojaro.com/category/transport/

@@ -1,0 +1,10 @@
+https://study.gaijinpot.com
+https://blog.gaijinpot.com?utm_source=gaijinpot.com&utm_medium=hero&utm_campaign=landing_page
+https://blog.gaijinpot.com/2019-top-jobs-in-japan-week-30/
+https://blog.gaijinpot.com/top-jobs-in-japan-you-can-apply-to-from-overseas-week-31-2019/?utm_source=gaijinpot.com&utm_medium=hero&utm_campaign=landing_page
+https://gaijinpot.com/terms
+https://gaijinpot.com/
+https://blog.gaijinpot.com/japan-elects-first-openly-gay-man-to-the-national-diet/
+https://blog.gaijinpot.com/tweet-of-the-week-41-instagrammer-gets-real-with-pigeon-post/
+https://blog.gaijinpot.com/what-is-the-meaning-of-weeaboo-weeb/
+https://blog.gaijinpot.com/japan101/life-in-the-neighborhoods/

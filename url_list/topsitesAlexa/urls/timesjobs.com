@@ -1,0 +1,10 @@
+https://www.timesjobs.com/
+https://www.timesjobs.com/jobs-sitemap/7
+https://www.timesjobs.com/jobs-sitemap/2
+https://www.timesjobs.com/jobskill/management-jobs
+https://www.timesjobs.com/jobs-sitemap/19
+https://www.timesjobs.com/roles
+https://www.timesjobs.com/jobfunction/medical-jobs
+https://ae.timesjobs.com/location/495100/abu-dhabi.html
+https://www.timesjobs.com/jobs-sitemap/9
+https://www.timesjobs.com/jobs-in-mumbai

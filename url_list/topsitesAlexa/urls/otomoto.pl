@@ -1,0 +1,10 @@
+https://www.otomoto.pl/oferta/hyundai-i40-premium-2019-1-6d-dct-fvat-ID6C8DBt.html
+https://www.otomoto.pl/ciezarowe/nowe-ogloszenie/
+https://www.otomoto.pl/
+https://www.otomoto.pl/konto/rejestracja/
+https://www.otomoto.pl/motocykle-i-quady/nowe-ogloszenie/
+https://www.otomoto.pl/?category=maszyny-rolnicze
+https://www.otomoto.pl/konto/?origin=observepopup
+https://www.otomoto.pl/umowa-kupna-sprzedazy/
+https://www.otomoto.pl/przyczepy/nowe-ogloszenie/
+https://www.otomoto.pl/oferta/skoda-superb-1-5-tsi-150km-style-dsg-alu-19-alcantara-podgrzewana-szyba-asystenci-ID6BLw7b.html

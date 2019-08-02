@@ -1,0 +1,10 @@
+https://ca.jora.com
+https://bd.jora.com
+https://mx.jora.com
+https://ma.jora.com
+https://th.jora.com
+https://qa.jora.com
+https://ph.jora.com
+https://br.jora.com
+https://my.jora.com
+https://www.jora.com/

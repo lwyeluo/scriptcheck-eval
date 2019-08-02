@@ -1,0 +1,10 @@
+https://www.snapdeal.com/
+https://www.snapdeal.com/products/stationery-school-supplies-pencil-boxes?sort=plrty
+https://www.snapdeal.com/offers/skate
+https://www.snapdeal.com/products/jewellery-fashion
+https://www.snapdeal.com/products/mobiles?q=Brand%3AOppo%7C&sort=plrty
+https://www.snapdeal.com/products/immersion-rod?sort=plrty
+https://www.snapdeal.com/products/mobiles-memory-cards/filters/Capacity_s~16%20GB
+https://www.snapdeal.com/products/automotive-transmission-drivetrain-parts
+https://www.snapdeal.com/offers/best_buys_fmcg
+https://www.snapdeal.com/brand/nutraj/food-dry-fruits-spices

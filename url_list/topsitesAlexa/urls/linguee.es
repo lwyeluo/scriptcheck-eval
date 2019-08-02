@@ -1,0 +1,10 @@
+https://www.linguee.es/espanol-inglespagelogin.phpespanol-inglespagefeedback.php
+https://www.linguee.es/espanol-inglespagelogin.php
+https://www.linguee.es/espanol-inglespagetermsAndConditions.php
+https://www.linguee.es/
+https://www.linguee.es/espanol-inglespagelogin.phpespanol-inglespagelogin.php
+https://www.linguee.es/espanol-inglespageimprint.php
+https://www.linguee.es/espanol-inglespageprivacy.php
+https://www.linguee.es/espanol-ingles
+https://www.linguee.es/espanol-inglesabout#about
+https://www.linguee.es/espanol-inglespagefeedback.php

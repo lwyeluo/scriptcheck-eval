@@ -1,0 +1,9 @@
+https://provincial.com/personas/tarjetas/linea-credito-instantanea/index.jsp
+https://www.provincial.com/meta/tasas-tarifas/index.jsp
+https://www.provincial.com/personas/provinet-personas/ingreso.jsp
+https://www.bbvaprovinet.provincial.com/WCPL_VE_WEB/wcpl_ve_web/provinet/BBVAInicioWC.jsp
+https://www.provincial.com/personas/historia/index.jsp
+https://www.provincial.com/
+https://www.provincial.com/personas/linea-bbva-provincial/index.jsp
+https://www.provincial.com/fbin/BBVA_registro.html
+https://www.provincial.com/fbin/pdf/cajeros-y-oficinas-bbva-provincial.pdf

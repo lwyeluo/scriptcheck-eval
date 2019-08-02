@@ -1,0 +1,10 @@
+http://shabakaty.com/home/author/mohammed/
+http://shabakaty.com/home/error/
+http://shabakaty.com/home/about-us/
+http://shabakaty.com/home/all-products/
+http://shabakaty.com/home/contact-us/
+http://shabakaty.com/home/error
+http://shabakaty.com/home/servcies/
+http://shabakaty.com/
+http://shabakaty.com/homeshabakaty-music
+http://shabakaty.com/home/cbox/

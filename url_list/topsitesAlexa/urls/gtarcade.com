@@ -1,0 +1,10 @@
+http://pl.gtarcade.com
+https://support.gtarcade.com
+https://lod.gtarcade.com/
+https://got.gtarcade.com/
+https://loa3.gtarcade.com
+https://loa.gtarcade.com
+https://www.gtarcade.com/
+https://loa3.gtarcade.com/
+https://roo.gtarcade.com
+https://seafight.gtarcade.com

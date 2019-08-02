@@ -1,0 +1,10 @@
+https://naszemiasto.pl/firmy,polska,78425,230.html
+https://naszemiasto.pl/firmy,polska,78425,343.html
+https://naszemiasto.pl/firmy,polska,78425,565.html
+https://warszawa.naszemiasto.pl/repertuar-kin/
+https://naszemiasto.pl/firmy,polska,78425,24.html
+https://naszemiasto.pl/firmy,polska,78425,k9.html
+https://naszemiasto.pl/
+https://naszemiasto.pl/firmy,polska,78425,278.html
+https://naszemiasto.pl/firmy,polska,78425,115.html
+https://warszawa.naszemiasto.pl/rusza-filmowe-lato-z-orange-na-karte-i-multikinem-2019/ar/c13-5183243

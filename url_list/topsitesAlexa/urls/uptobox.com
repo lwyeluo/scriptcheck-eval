@@ -1,0 +1,10 @@
+https://uptobox.com/toschangelang?lang=english&referer=tos
+https://uptobox.com/tos
+https://uptobox.com/
+https://uptobox.com/qa
+https://docs.uptobox.com/
+https://uptobox.com/login?referer=homepage
+https://uptobox.com/aboutus
+https://uptobox.com/ftp_upload
+https://uptobox.com/support
+https://uptobox.com/pin

@@ -1,0 +1,10 @@
+https://promotions.newegg.com/service_net/11-0615/index.html
+https://www.newegg.com/Acer-America/BrandStore/ID-1146
+https://www.newegg.com/marketplace/deals?cm_sp=Homepage_MKPL-_-P1_9SIAE9P8998438-_-08012019
+https://www.newegg.com/Editors-Picks/EventSaleStore/ID-1280?cm_sp=Homepage_Alldeals-_--_-08012019
+https://vendorportal.newegg.com/vendor-request
+https://www.newegg.com/d/Info/OfficeHours
+https://kb.newegg.com/knowledge-base/privacy-policy-o/#cookies
+https://www.newegg.com/
+https://www.newegg.com/evga-geforce-rtx-2080-ti-11g-p4-2281-kr/p/N82E16814487418?Item=N82E16814487418&cm_sp=Homepage_BS-_-P13_14-487-418-_-08012019
+https://www.newegg.com/neweggselect

@@ -1,0 +1,10 @@
+https://www.bfmtv.com/mediaplayer/video/brice-hortefeux-place-sous-le-statut-de-temoin-assiste-dans-le-cadre-de-l-enquete-sur-les-soupcons-de-financement-libyen-1178581.html
+https://www.bfmtv.com/police-justice/paris-la-permanence-de-stanislas-guerini-vandalisee-1741143.html
+https://www.bfmtv.com
+https://www.bfmtv.com/mediaplayer/video/moins-d-une-semaine-apres-la-canicule-il-a-fait-09c-dans-ce-village-de-lozere-1178246.html
+https://www.bfmtv.com/pratique-voyage/quiz-parviendrez-vous-a-reconnaitre-les-villes-sur-ces-photos-1741026.html
+https://www.bfmtv.com/pratique-finances-perso/comparateur-d-assurance/?xtatc=INT-41-[MeilleureAssurance]
+https://www.bfmtv.com/info/application/
+https://www.bfmtv.com/
+https://www.bfmtv.com/politique/benjamin-griveaux-moque-sur-twitter-apres-avoir-envoye-des-cartes-postales-aux-parisiens-1741122.html
+https://www.bfmtv.com/societe/maine-et-loire-l214-diffuse-une-video-choquante-d-un-elevage-de-porcs-1740977.html

@@ -1,0 +1,10 @@
+https://www.eltiempo.com/noticias-mas-leidas
+https://www.eltiempo.com/bocas
+http://blogs.eltiempo.com/muchas-pelotas/2019/07/30/futbol-no-la-culpa-del-ciclismo/
+https://www.eltiempo.com/
+http://blogs.eltiempo.com/politica-directa/2019/07/31/grito-mas-desgarrador-26jmigritoes/
+https://www.eltiempo.com/mas-contenido
+https://www.eltiempo.com/mis-noticias
+https://www.eltiempo.com/contenido-favorito
+https://www.eltiempo.com/eltiempo-television
+https://www.eltiempo.com/opinion

@@ -1,0 +1,10 @@
+https://fr.pof.com
+https://mx.pof.com
+https://www.pof.com/success_v2.aspx
+https://nl.pof.com
+https://se.pof.com
+https://www.pof.com/
+https://www.pof.com/privacypolicy.aspx
+https://www.pof.com/safety.aspx
+https://www.pof.com/inbox.aspx
+https://es.pof.com

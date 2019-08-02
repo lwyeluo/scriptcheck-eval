@@ -1,0 +1,10 @@
+https://www.realclearpolitics.com/articles/2019/07/29/open_borders_devalue_citizenship_--_and_the_rights_it_affords.html#2
+https://www.realclearpolitics.com/articles/2019/07/31/fact-checking_satire_--_is_snopes_serious_140893.html
+https://www.realclearpolitics.com/articles/2019/07/31/democratic_debate_winners_and_losers__140896.html#2
+https://www.realclearpolitics.com/articles/2019/07/31/democratic_debate_winners_and_losers__140896.html
+https://www.realclearpolitics.com/articles/2019/07/31/is_iraq_set_to_follow_iran_and_curb_religious_freedom_140892.html
+https://www.realclearpolitics.com/epolls/latest_polls/state_of_the_union/
+https://www.realclearpolitics.com/articles/2019/07/31/chased_from_office_by_trump_sanford_mulls_2020_challenge_140899.html
+https://www.realclearpolitics.com/articles/2019/08/01/6_takeaways_from_the_democratic_debate_night_2_140906.html
+https://www.realclearpolitics.com/video/
+https://www.realclearpolitics.com/

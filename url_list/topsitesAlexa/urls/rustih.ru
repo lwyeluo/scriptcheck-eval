@@ -1,0 +1,10 @@
+https://rustih.ru/
+https://rustih.ru/eduard-asadov-satana/
+https://rustih.ru/aleksandr-pushkin-pir-vo-vremya-chumy/
+https://rustih.ru/stixi-o-rodine-rossii/stixi-mixaila-lermontova-o-rodine-rossii-spisok/
+https://rustih.ru/vladimir-vysockij-pesnya-o-druge-esli-drug-okazalsya-vdrug/
+https://rustih.ru/mixail-lermontov-smert-poeta/
+https://rustih.ru/anna-axmatova-rodnaya-zemlya/
+https://rustih.ru/page/20/
+https://rustih.ru/aleksandr-pushkin-cvetok/
+https://rustih.ru/vladimir-mayakovskij-noch/

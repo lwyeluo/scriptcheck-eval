@@ -1,0 +1,10 @@
+https://world.casio.com/country/#
+https://world.casio.com/sitemap/
+https://www.casio.com.tw/
+https://world.casio.com/sitemap/#
+https://www.casio.com/
+https://www.casio.com/home/
+https://world.casio.com/country/
+https://world.casio.com/terms/
+https://world.casio.com/privacy/
+https://world.casio.com/support/changecountry/

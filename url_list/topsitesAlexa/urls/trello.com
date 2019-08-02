@@ -1,0 +1,10 @@
+https://trello.com/tour
+https://trello.com/about
+https://trello.com/
+https://trello.com/power-ups
+https://trello.com/teams
+https://trello.com/legal
+https://trello.com/platforms
+https://trello.com/privacy
+https://trello.com/login
+https://trello.com/signup

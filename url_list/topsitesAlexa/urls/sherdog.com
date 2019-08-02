@@ -1,0 +1,10 @@
+https://www.sherdog.com/events/UFC-on-ESPN-5-Covington-vs-Lawler-76579
+https://www.sherdog.com/events/UFC-240-Holloway-vs-Edgar-76577
+https://www.sherdog.com/syndication.php
+https://forums.sherdog.com/threads/max-holloway-vs-frankie-edgar-verbally-agreed-for-ufc-240-in-edmonton.3958353/
+https://www.sherdog.com/events/Professional-Fighters-League-PFL-5-2019-Regular-Season-75971
+https://www.sherdog.com/blog
+https://www.sherdog.com/tag/off-the-chain
+https://www.sherdog.com/all-access
+https://www.sherdog.com/
+https://www.sherdog.com/authors/Jay-Pettry-1657

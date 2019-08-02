@@ -1,0 +1,10 @@
+https://dotesports.com/business
+https://dotesports.com/page/2
+https://dotesports.com/br/?noredirect=pt_BR
+https://dotesports.com/dota-2/news/3-things-we-learned-from-the-summit-10
+https://dotesports.com/overwatch
+https://dotesports.com/call-of-duty
+https://dotesports.com/rainbow-6
+https://dotesports.com/
+https://dotesports.com/league-of-legends/news/three-new-little-legends-will-be-arriving-to-teamfight-tactics-in-patch-9-15b
+https://dotesports.com/author/benwalker

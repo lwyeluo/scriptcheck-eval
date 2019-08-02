@@ -1,0 +1,10 @@
+https://www.videoblocks.com/privacy
+https://support.videoblocks.com/
+https://www.videoblocks.com/
+https://www.videoblocks.com
+https://www.videoblocks.com/login
+https://www.videoblocks.com/license
+https://www.videoblocks.com/terms-of-service
+https://www.videoblocks.com/pricing
+https://www.videoblocks.com/sitemap
+https://www.videoblocks.com/collections

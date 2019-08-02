@@ -1,0 +1,10 @@
+https://portableapps.com/support
+https://portableapps.com/news
+https://portableapps.com/
+https://portableapps.com/pt
+https://portableapps.com/download
+https://portableapps.com/tr
+https://portableapps.com/community
+https://portableapps.com/zh-tw
+https://portableapps.com/fr
+https://portableapps.com/ja

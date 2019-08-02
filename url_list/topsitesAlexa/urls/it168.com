@@ -1,0 +1,10 @@
+http://product.it168.com/price/1146451.html
+http://dc.it168.com/a2019/0729/6029/000006029143.shtml
+http://product.it168.com/price/1149179.html
+http://wenku.it168.com/d_001757281.shtml
+http://www.it168.com/
+http://product.it168.com/detail/488421.html
+http://mobile.it168.com/a2019/0731/6030/000006030102.shtml
+http://product.it168.com/price/430659.html
+http://product.it168.com/detail/1089974.html
+http://product.it168.com/detail/626387.html

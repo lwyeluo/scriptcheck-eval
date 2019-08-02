@@ -1,0 +1,10 @@
+https://tutsplus.com/
+https://design.tutsplus.com/categories/adobe-indesign
+https://music.tutsplus.com/categories/audio-production
+https://computers.tutsplus.com/categories/security
+https://cgi.tutsplus.com/categories/visual-effects
+https://cgi.tutsplus.com/categories/maya
+https://business.tutsplus.com/categories
+https://business.tutsplus.com/categories/productivity
+https://photography.tutsplus.com/categories/lighting
+https://code.tutsplus.com/categories/php

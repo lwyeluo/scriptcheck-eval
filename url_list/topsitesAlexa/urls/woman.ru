@@ -1,0 +1,10 @@
+http://www.woman.ru/
+https://pg.woman.ru/#commentsfilesrules.pdffilesrules.pdffilesrules.pdf
+https://pg.woman.ru/filesrules.pdffilesrules.pdffilesrules.pdf
+https://pg.woman.ru/filesrules.pdffilesrules.pdf
+http://www.woman.ru
+https://pg.woman.ru/filesrules.pdf
+https://pg.woman.ru/
+https://pg.woman.ru/#comments
+https://pg.woman.ru/#commentsfilesrules.pdf
+https://pg.woman.ru/#commentsfilesrules.pdffilesrules.pdf

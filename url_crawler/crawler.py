@@ -20,7 +20,7 @@ class Crawler(object):
 		self.input_file = filepath_for_home_pages
 		self.max_url_num = max_url_num
 
-		self.thread_num = 40
+		self.thread_num = 100
 
 		# create the directory to save results
 		self.result_dir = os.path.join(os.path.dirname(self.input_file), 'urls')

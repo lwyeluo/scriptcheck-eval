@@ -1,0 +1,10 @@
+https://www.glam.com/lifestyle/confidence-tips-from-real-women/
+https://www.glam.com/beauty/ways-to-remedy-over-picked-pimple-prevent-scarring/
+https://www.glam.com/fashion/best-postpartum-swimsuits-for-new-moms/
+https://www.glam.com/relationships/best-sex-toys-for-women/
+https://www.glam.com/beauty/best-uv-protective-hair-products/
+https://www.glam.com/wellness/food-combining-trend-diet-culture/
+https://www.glam.com/lifestyle/best-low-calorie-wines/
+https://www.glam.com/
+https://www.glam.com/author/jenn/
+https://www.glam.com/fashion/top-sunglasses-trends-2019/

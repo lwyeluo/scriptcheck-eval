@@ -1,0 +1,10 @@
+https://www.thetrainline.com/information/mobile-tickets
+https://www.thetrainline.com/en/destinations/trains-to-disneyland-paris
+https://www.thetrainline.com/destinations/trains-to-edinburgh
+https://www.thetrainline.com/destinations/trains-to-birmingham
+https://www.thetrainline.com/en/stations/amsterdam-centraal
+https://www.thetrainline.com/bus-companies/flixbus
+https://www.thetrainline.com/en/train-companies
+https://www.thetrainline.com/
+https://www.thetrainline.com/stations/edinburgh-waverley
+https://www.thetrainline.com/deals-discounts

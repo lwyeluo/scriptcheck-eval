@@ -1,0 +1,10 @@
+https://www.zimabdko.com/anime/lupin-iii-goodbye-partner-2019/
+https://www.zimabdko.com/episodes/dragon-ball-heroes-14/
+https://www.zimabdko.com/
+https://www.zimabdko.com/episodes/tejina-senpai-05/
+https://www.zimabdko.com/series/
+https://www.zimabdko.com/episodes/jojo-no-kimyou-na-bouken-ougon-no-kaze-39/
+https://www.zimabdko.com/anime/
+https://www.zimabdko.com/episodes/arifureta-shokugyou-de-sekai-saikyou-04/
+https://www.zimabdko.com/episodes/kengan-ashura-10/
+https://www.zimabdko.com/anime/timing-movie/

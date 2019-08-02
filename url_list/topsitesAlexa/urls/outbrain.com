@@ -1,0 +1,10 @@
+https://www.outbrain.com/legal/privacy#privacy-policypatents
+https://www.outbrain.com/
+https://www.outbrain.com/legal#terms-of-use
+https://my.outbrain.com/login
+https://my.outbrain.com/amplify/funnel?kme=PageClick&km_StartFunnel=OB_Main_Mobile
+https://my.outbrain.com/amplify/funnel?kme=PageClick&km_StartFunnel=OB_Main_Web
+https://www.outbrain.com/amplify/guidelines/
+https://my.outbrain.com/amplify/funnel/register?kme=Website_TopNav_click&km_TopNav_register=/
+https://www.outbrain.com/legal/privacy#privacy-policy
+https://www.outbrain.com/security/

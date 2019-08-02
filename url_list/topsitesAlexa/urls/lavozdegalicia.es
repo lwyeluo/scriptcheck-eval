@@ -1,0 +1,10 @@
+https://www.lavozdegalicia.es/ciencia
+https://www.lavozdegalicia.es/gastronomia
+https://www.lavozdegalicia.es/firmas/serxio-gonzalez-souto
+https://www.lavozdegalicia.es/firmas/iago-garcia
+https://www.lavozdegalicia.es/television
+https://www.lavozdegalicia.es/
+https://www.lavozdegalicia.es/mercadosindex.htm
+https://www.lavozdegalicia.es/firmas/sara-cabrero
+https://cursodegalego.lavozdegalicia.es/
+https://www.lavozdegalicia.es/firmas/antonio-longueira-vidal

@@ -1,0 +1,10 @@
+https://www.rapidtables.com/convertindex.html
+https://www.rapidtables.com/
+https://www.rapidtables.com/calcgradefinal-grade-calculator.html
+https://www.rapidtables.com/aboutterms.html
+https://www.rapidtables.com/aboutprivacy.html
+https://www.rapidtables.com/calcindex.html
+https://www.rapidtables.com/mathindex.html
+https://www.rapidtables.com/webindex.html
+https://www.rapidtables.com/electricindex.html
+https://www.rapidtables.com/toolsindex.html

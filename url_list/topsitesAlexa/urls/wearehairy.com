@@ -1,0 +1,10 @@
+https://www.wearehairy.com/page2.shtml
+https://www.wearehairy.com/sample/Simone
+http://www.wearehairy.com/sample/Melody_Sweet
+https://www.wearehairy.com/sample/Tiffany
+http://www.wearehairy.com/sample/Tanita
+https://www.wearehairy.com/sample/Angel_Tia
+https://www.wearehairy.com/
+https://join.wearehairy.com/signup/signup.php?nats=MC4wLjEuMS4wLjAuMC4wLjA&step=2
+https://www.wearehairy.com/sample/Melody_Sweet
+http://www.wearehairy.com/sample/Simone

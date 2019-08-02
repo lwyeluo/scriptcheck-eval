@@ -1,0 +1,10 @@
+https://bdixsports.com/
+http://bdixsports.com/willow-hd-live/
+http://bdixsports.com/ptv-sports-live/
+http://bdixsports.com/bein-sports-live/
+http://bdixsports.com/ten-sports-live/
+http://bdixsports.com/sony-aath/
+http://bdixsports.com/set-max-live/
+https://bdixsports.com/gtv-live-bangladesh/
+https://bdixsports.com/dmca/
+http://bdixsports.com/zee-bangla-live/

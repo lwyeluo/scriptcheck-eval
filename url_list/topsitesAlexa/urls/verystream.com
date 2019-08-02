@@ -1,0 +1,10 @@
+https://verystream.com/
+https://verystream.com/signup
+https://verystream.com/affiliate
+https://verystream.com/login
+https://verystream.com/news
+https://verystream.com/api
+https://verystream.com/privacy
+https://verystream.com/contact
+https://verystream.com/reportabuse
+https://verystream.com/about

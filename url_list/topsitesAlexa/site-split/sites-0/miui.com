@@ -1,0 +1,10 @@
+http://www.miui.com/zt/miui10/index.html
+http://hk.miui.com/
+http://www.miui.com
+http://www.miui.com/zt/presetsApplication/index.html
+http://en.miui.com/
+http://www.miui.com/fans.php
+https://www.miui.com/
+http://tw.miui.com/
+http://in.miui.com/
+http://www.miui.com/thread-18034891-1-1.html

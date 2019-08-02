@@ -1,0 +1,10 @@
+http://wallpaperswide.com/travel-desktop-wallpapers.html
+http://wallpaperswide.com/480x800-wallpapers-r.html
+http://wallpaperswide.com/1024x768-wallpapers-r.html
+http://wallpaperswide.com/
+http://wallpaperswide.com/2736x1824-wallpapers-r.html
+http://wallpaperswide.com/8192x3072-wallpapers-r.html
+http://wallpaperswide.com/movies-desktop-wallpapers.html
+http://wallpaperswide.com/15360x2880-wallpapers-r.html
+http://wallpaperswide.com/11250x3000-wallpapers-r.html
+http://wallpaperswide.com/3840x1440-wallpapers-r.html

@@ -1,0 +1,10 @@
+http://blog.reimageplus.com
+http://blog.reimageplus.com/
+https://www.reimageplus.com/technician-login/
+https://www.reimageplus.com/terms-of-use/
+https://www.reimageplus.com/
+https://www.reimageplus.com/newsletter-subscription/
+https://www.reimageplus.com/privacy-policy/
+https://www.reimageplus.com/refund-policy/
+http://affiliates.reimageplus.com
+https://www.reimageplus.com/uninstall/

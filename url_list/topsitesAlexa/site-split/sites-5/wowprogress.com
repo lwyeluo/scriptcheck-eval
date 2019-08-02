@@ -1,0 +1,10 @@
+https://www.wowprogress.com/char_statisticsocfield.deaths_oppos
+https://www.wowprogress.com/char_statisticsenfield.highest_2man
+https://www.wowprogress.com/char_statisticsocfield.pg_healer
+https://www.wowprogress.com/realmsrankeulang.ru
+https://www.wowprogress.com/char_statisticsusfield.5v5_victories
+https://www.wowprogress.com/char_statisticsrufield.3v3_matches
+https://www.wowprogress.com/
+https://www.wowprogress.com/char_statisticsesfield.rbg_won
+https://www.wowprogress.com/login?back_url=%2F
+https://www.wowprogress.com/char_statisticskrfield.duels_lost

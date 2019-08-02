@@ -1,0 +1,10 @@
+https://www.buzzfeed.com/newsletters?ref=hplego
+https://www.buzzfeed.com/consent-preferences
+https://www.buzzfeed.com/asiawmclain/tv-couple-breakups-1?origin=shp
+https://www.buzzfeed.com/jonmichaelpoff
+https://www.buzzfeed.com/jonmichaelpoff/viral-tweets-from-this-month-july-2019?origin=web-hf
+https://www.buzzfeed.com/parents
+https://www.buzzfeed.com/help
+https://www.buzzfeed.com/entertainment
+https://www.buzzfeed.com/
+https://www.buzzfeed.com

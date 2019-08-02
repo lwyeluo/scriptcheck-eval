@@ -1,0 +1,10 @@
+https://www.foxitsoftware.com/company/casestudy.php
+https://www.foxitsoftware.com/solution/banking/
+https://developers.foxitsoftware.com/pdf-sdk/
+https://www.foxitsoftware.com/company/whitepapers.php
+https://www.foxitsoftware.com/photo-editor/
+https://www.foxitsoftware.com/pdf-to-word-converter/
+https://www.foxitsoftware.com/pdf-editor-mac/
+https://www.foxitsoftware.com/company/customers.php
+https://www.foxitsoftware.com/
+https://www.foxitsoftware.com/company/webinar.php

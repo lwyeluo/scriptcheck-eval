@@ -1,0 +1,10 @@
+https://9to5mac.com/guides/iphone-xr/
+https://9to5mac.com/contact/
+https://9to5mac.com/2019/08/01/most-cash-rich-company/
+https://9to5mac.com/2019/08/01/most-cash-rich-company/#comments
+https://9to5mac.com/2019/07/31/9to5mac-watch-time-july-31-2019/
+https://9to5mac.com/
+https://9to5mac.com/guides/windows-10/
+https://9to5mac.com/guides/mac/
+https://9to5mac.com/guides/how-to/
+https://9to5mac.com/guides/security/

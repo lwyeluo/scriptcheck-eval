@@ -1,0 +1,10 @@
+https://www.kuaishou.com/kuaiying
+https://e.kuaishou.com/
+https://live.kuaishou.com/live-partner
+https://www.kuaishou.com/about/policy
+https://www.kuaishou.com/committee
+https://www.kuaishou.com/help/feedback
+https://mcn.kuaishou.com/
+https://www.kuaishou.com/about/contact
+https://www.kuaishou.com/
+https://pay.ssl.kuaishou.com/pay

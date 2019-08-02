@@ -1,0 +1,10 @@
+https://www.farsnews.com/
+https://www.farsnews.com/aboutus
+https://my.farsnews.com/c/campaign/new
+https://www.farsnews.com/arts-media
+https://www.farsnews.com/qom
+https://www.farsnews.com/khorasan-shomali
+https://www.farsnews.com/culture
+https://www.farsnews.com/politics
+https://my.farsnews.com
+https://www.farsnews.com/kordestan

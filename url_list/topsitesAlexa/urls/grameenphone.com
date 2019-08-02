@@ -1,0 +1,10 @@
+https://www.grameenphone.com/shop/devices/sim
+https://www.grameenphone.com/recharge
+https://www.grameenphone.com/business/iot
+https://www.grameenphone.com/
+https://www.grameenphone.com/useful-information
+https://www.grameenphone.com/star-program
+https://www.grameenphone.com/terms-use
+https://www.grameenphone.com/shop/all-categories
+https://www.grameenphone.com/business
+https://www.grameenphone.com/shop/sim-replacement

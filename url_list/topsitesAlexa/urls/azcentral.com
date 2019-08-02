@@ -1,0 +1,10 @@
+https://cm.azcentral.com/terms
+http://comics.azcentral.com/
+https://cm.azcentral.com/privacy
+https://www.azcentral.com/
+http://static.azcentral.com/help/contact/
+https://connect.azcentral.com
+https://cm.azcentral.com/accessibility
+http://static.azcentral.com/lottery-results/
+https://offers.azcentral.com/specialoffer?gps-source=CPSUBFOOTER&utm_medium=onsite&utm_source=sitefooter&utm_campaign=specialoffer&utm_content=CPSUBFOOTER
+https://cm.azcentral.com/privacy/#adchoices

@@ -1,0 +1,10 @@
+https://mall.dcinside.com
+https://gall.dcinside.com
+https://nstatic.dcinside.com/dc/w/policy/policy_index.html
+https://www.dcinside.com/
+https://nstatic.dcinside.com/dc/w/policy/privacy_index.html
+https://www.dcinside.com/company
+https://mall.dcinside.com/?from=A06
+https://event.dcinside.com/
+https://gall.dcinside.com/m
+https://hobby.dcinside.com

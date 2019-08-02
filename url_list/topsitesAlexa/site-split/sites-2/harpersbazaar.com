@@ -1,0 +1,10 @@
+https://shop.harpersbazaar.com/
+https://www.harpersbazaar.com/
+https://shop.harpersbazaar.com/the-edit/style-file/stripes/index_1564500715310.html
+https://shop.harpersbazaar.com/the-edit/style-file/new-preppy/index.html
+https://shop.harpersbazaar.com/accessories/bags/index.html
+https://shop.harpersbazaar.com/search.html?term=headbands
+https://shop.harpersbazaar.com/designers/isabel-marant/
+https://shop.harpersbazaar.com/orders-shipping
+https://shop.harpersbazaar.com/editorindex/index.html
+https://shop.harpersbazaar.com/california-privacy-rights?subscribe=false

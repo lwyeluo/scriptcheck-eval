@@ -1,0 +1,10 @@
+http://jobs.bdjobs.com/JobSearch.asp?LocationId=Barishal
+https://hotjobs.bdjobs.com/jobs/unitedtrust/unitedtrust5.htm
+https://hotjobs.bdjobs.com/jobs/berger/berger226.htm
+https://hotjobs.bdjobs.com/jobs/ipasbd/ipasbd53.htm
+https://hotjobs.bdjobs.com/jobs/edotco/edotco66.htm
+https://jobs.bdjobs.com/jobsearch.asp?fcatId=&icatId=4
+https://hotjobs.bdjobs.com/jobs/berger/berger227.htm
+https://hotjobs.bdjobs.com/jobs/abulkhair/tobacco67.htm
+https://hotjobs.bdjobs.com/jobs/care/care806.htm
+https://www.bdjobs.com/

@@ -1,0 +1,10 @@
+https://www.oxfordlearnersdictionaries.com/definition/academic/
+https://www.oxfordlearnersdictionaries.com/terms-and-conditions
+https://www.oxfordlearnersdictionaries.com/search_widget_info
+https://www.oxfordlearnersdictionaries.com/wordlists/
+https://www.oxfordlearnersdictionaries.com/faq/
+https://www.oxfordlearnersdictionaries.com/definition/american_english/
+https://www.oxfordlearnersdictionaries.com/faq/#Word_lists
+https://www.oxfordlearnersdictionaries.com/
+https://www.oxfordlearnersdictionaries.com/definition/collocations/
+https://www.oxfordlearnersdictionaries.com/about/

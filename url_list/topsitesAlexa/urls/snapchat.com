@@ -1,0 +1,10 @@
+https://scan.snapchat.com
+https://www.snapchat.com/create
+https://map.snapchat.com
+https://www.snapchat.com/download
+https://story.snapchat.com
+https://whatis.snapchat.com
+https://lensstudio.snapchat.com
+https://store.snapchat.com
+https://kit.snapchat.com
+https://www.snapchat.com/

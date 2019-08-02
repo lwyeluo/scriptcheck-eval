@@ -1,0 +1,10 @@
+https://www.gigabyte.com/Language
+https://www.gigabyte.com/Site-Map
+https://www.gigabyte.com/
+https://www.gigabyte.com/High-Performance-Computing-System
+https://www.gigabyte.com/Monitors
+https://www.gigabyte.com/Graphics-Card
+https://www.gigabyte.com/Mini-PcBarebone
+https://www.gigabyte.com/Career
+https://www.gigabyte.com/Hyper-Converged-System
+https://www.gigabyte.com/Buy

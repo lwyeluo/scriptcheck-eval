@@ -1,0 +1,10 @@
+https://www.joinhoney.com/blog/
+https://www.joinhoney.com/
+https://www.joinhoney.com/copyright
+https://www.joinhoney.com/Patents
+https://www.joinhoney.com/ambassadors
+https://www.joinhoney.com/press
+https://help.joinhoney.com/
+https://www.joinhoney.com/privacy
+https://www.joinhoney.com/careers
+https://www.joinhoney.com/terms

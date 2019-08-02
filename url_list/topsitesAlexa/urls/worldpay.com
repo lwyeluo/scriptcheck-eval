@@ -1,0 +1,10 @@
+https://www.worldpay.com/us/developers/apidocs/getstarted.html
+https://www.worldpay.com/uk/about/media-centre/2018-01/vantiv-and-worldpay-complete-combination-to-form-worldpay-inc
+https://secure.worldpay.com/sso/public/auth/login.html?serviceIdentifier=worldaccess
+https://mas.worldpay.com
+https://www.worldpay.com/
+https://www.worldpay.com/us
+https://www.worldpay.com/uk/worldpay-cookies
+https://developer.worldpay.com/
+https://business.worldpay.com/partnerlogin?_ga=2.99106142.1130414792.1511263656-1573268106.1511263656
+https://www.worldpay.com/uk

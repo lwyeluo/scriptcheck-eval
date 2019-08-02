@@ -1,0 +1,10 @@
+https://www.jagran.com/editorial-hindi.html
+https://www.jagran.com/
+https://www.jagran.com/topics/chandrayaan-2
+https://www.jagran.com/haryana/faridabad-know-why-after-40-years-retired-peon-lives-his-chopper-dream-19452017.html
+https://www.jagran.com/politics/state-delhi-bjp-president-and-mp-manoj-tiwari-says-prime-minister-narendra-modi-was-much-eager-for-triple-talaq-injustice-with-muslim-womens-19451602.html
+https://www.jagran.com/sitemap.html
+https://www.jagran.com/about-us.html#
+https://www.jagran.com/videos/news/national-amar-singh-targets-jaya--bachchan-calls-her-hypocrite-v38066.html
+https://www.jagran.com/terms-conditions.html
+https://www.jagran.com/subscribe

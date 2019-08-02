@@ -1,0 +1,10 @@
+http://ccs.d1net.com/live/1/
+http://www.d1net.com/security/news/559444.html
+http://www.d1net.com/wl/
+http://www.d1net.com/index.php?m=yp&c=index&a=list_company&catid=468
+http://www.d1net.com/
+http://award.d1net.com
+http://www.d1net.com/iv/person/528467.html
+http://www.d1net.com/cloud/tech/559459.html
+http://www.d1net.com/uc/company/558783.html
+http://www.d1net.com/cloud/plat/472959.html

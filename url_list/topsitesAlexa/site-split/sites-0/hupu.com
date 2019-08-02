@@ -1,0 +1,10 @@
+https://mobile.hupu.com/
+https://bbs.hupu.com/28766720.html
+https://voice.hupu.com/soccer/2460609.html
+https://soccer.hupu.com/teams/161
+https://bbs.hupu.com/28757408.html
+https://soccer.hupu.com/teams/209
+https://voice.hupu.com/nba/2460492.html
+https://www.hupu.com/
+https://voice.hupu.com/soccer/2460607.html
+https://bbs.hupu.com/28746946.html

@@ -1,0 +1,10 @@
+http://www.city-data.com/
+http://www.city-data.com/city/Louisiana.html
+http://www.city-data.com/city/Minnesota.html
+http://www.city-data.com/schools-dirs/schools-KY.html
+http://www.city-data.com/city/North-Carolina.html
+http://www.city-data.com/city/New-Mexico.html
+http://www.city-data.com/la-restaurants/
+http://www.city-data.com/restaurants-index/Utah.html
+http://www.city-data.com/forum/sitemap/index-20.html
+http://www.city-data.com/terms.html

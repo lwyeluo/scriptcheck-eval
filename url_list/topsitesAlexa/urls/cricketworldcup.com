@@ -1,0 +1,10 @@
+https://www.cricketworldcup.com/
+https://www.cricketworldcup.com/social
+https://www.cricketworldcup.com/volunteers
+https://www.cricketworldcup.com/oppo-beashotmaker
+https://www.cricketworldcup.com/potd
+https://www.cricketworldcup.com/video
+https://www.cricketworldcup.com/stats
+https://www.cricketworldcup.com/key-documents
+https://www.cricketworldcup.com/tournament-archive
+https://www.cricketworldcup.com/quiz

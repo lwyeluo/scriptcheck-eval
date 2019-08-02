@@ -1,0 +1,10 @@
+https://www.worldmarket.com/category/kitchen/cooking.do
+https://www.worldmarket.com/
+https://www.worldmarket.com/category/furniture/dining-room/dining-chairs.do
+https://www.worldmarket.com/category/dining/serveware.do
+https://www.worldmarket.com/category/furniture/entryway.do
+https://www.worldmarket.com/category/dining.do
+https://www.worldmarket.com/category/home-decor-pillows/wall-art-decor/mirrors.do
+https://www.worldmarket.com/category/home-decor-pillows/candles-holders.do
+https://www.worldmarket.com/category/outdoor/rugs.do
+https://www.worldmarket.com/category/dining/drinkware.do

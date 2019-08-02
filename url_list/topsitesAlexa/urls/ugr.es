@@ -1,0 +1,10 @@
+https://www.ugr.es/
+http://consejosocial.ugr.es/
+http://secretariageneral.ugr.es/bougr/
+https://prado.ugr.es
+http://defensor.ugr.es/
+http://cartaservicios.ugr.es
+https://www.ugr.es/sitemap
+https://www.ugr.es/rss-noticias
+https://www.ugr.es/servicios/correo-electronico
+http://ceprud.ugr.es

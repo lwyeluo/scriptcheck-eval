@@ -1,0 +1,10 @@
+https://tvzvezda.ru/news
+https://tvzvezda.ru/about/pravo/
+https://tvzvezda.ru/schedule/programm/201907181439-9438.htm?
+http://old.tvzvezda.ru/login.user
+https://tvzvezda.ru/
+https://tvzvezda.ru/schedule
+https://tvzvezda.ru/news/opk/content/201808201519-ctt8.htm
+https://tvzvezda.ru/webpush_subscribe
+https://tvzvezda.ru/person#remember
+https://tvzvezda.ru/schedule/programm/201907181439-8754.htm?

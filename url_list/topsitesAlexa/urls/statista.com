@@ -1,0 +1,10 @@
+https://www.statista.com/
+https://content-design.statista.com/?utm_source=statista&utm_medium=referral&utm_campaign=top_navigation_link_en
+https://www.statista.com/partner
+https://www.statista.com/api
+https://www.statista.com/dossiers
+https://www.statista.com
+https://fr.statista.com
+https://de.statista.com
+https://www.statista.com/business-plan-export
+https://es.statista.com

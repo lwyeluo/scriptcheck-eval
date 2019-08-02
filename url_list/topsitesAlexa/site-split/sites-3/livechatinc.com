@@ -1,0 +1,10 @@
+https://my.livechatinc.com
+https://www.chatbot.com/?utm_source=livechatinc.com&utm_medium=referral&utm_campaign=productbar
+https://www.livechatinc.com/help-desk-software/
+https://www.livechatinc.com/signup/?source_id=footer_cta&source_url=https://www.livechatinc.com/&source_type=website
+https://www.livechatinc.com/best-live-chat-software/
+https://partners.livechatinc.com/
+https://www.livechatinc.com/
+https://status.livechatinc.com/
+https://www.livechatinc.com/signup/?source_id=header_cta&source_url=https://www.livechatinc.com/&source_type=website
+https://www.knowledgebase.ai/?utm_source=livechatinc.com&utm_medium=referral&utm_campaign=productbar

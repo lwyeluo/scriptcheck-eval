@@ -1,0 +1,10 @@
+https://www.financialexpress.com/money/loan-against-fixed-deposit-features-benefits-interest-rates-all-you-need-to-know/1663193/
+https://www.financialexpress.com/
+https://www.financialexpress.com/market/stock-market/
+https://www.financialexpress.com/sponsored/
+https://www.financialexpress.com/sports/prithvi-shaw-suspension-govt-writes-to-bcci-says-board-has-no-right-to-carry-doping-test-on-players/1663289/
+https://www.financialexpress.com/jobs/ibps-po-2019-notification-from-exam-date-to-syllabus-check-details-for-probationary-officer-recruitment/1663019/
+https://www.financialexpress.com/auto/car-news/volkswagen-india-shows-growth-in-july-despite-market-reporting-downturn-in-car-sales/1663084/
+https://www.financialexpress.com/jobs/upsc-2019-notification-application-open-for-civil-services-main-examination-at-upsc-gov-in-check-details/1663420/
+https://www.financialexpress.com/industry/sme/cheer-for-msmes-this-new-government-tool-to-boost-your-cargo-movement-on-ports/1663297/
+https://www.financialexpress.com/lifestyle/science/shocking-over-121000-mt-plastic-waste-slyly-imported-in-india-punctures-efforts-to-curb-pollution/1661799/

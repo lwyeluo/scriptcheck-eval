@@ -1,0 +1,10 @@
+http://www.jisutiyu.com/live/movie/
+http://www.jisutiyu.com/live/sports/
+https://www.jisutiyu.com/sitemap.html
+https://www.jisutiyu.com/video2019-8-1.html
+http://www.jisutiyu.com/live/edu/
+http://www.jisutiyu.com/live/cctv/
+https://www.jisutiyu.com/
+http://www.jisutiyu.com/live/stv/
+http://www.jisutiyu.com/live/kids/
+http://www.jisutiyu.com/

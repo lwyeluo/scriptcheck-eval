@@ -1,0 +1,10 @@
+http://blog.airdroid.com/post/airdroid-new-logo-announcement/
+http://blog.airdroid.com/post/sponsorship-opportunities/
+http://blog.airdroid.com/wp-content/uploads/2016/07/QQ图片20180621112037.png
+http://web.airdroid.com
+http://blog.airdroid.com/post/airdroid-is-now-on-ios/
+http://blog.airdroid.com/post/airmirror-now-works-on-the-web/
+http://forums.airdroid.com/
+http://blog.airdroid.com/
+https://www.airdroid.com/
+http://blog.airdroid.com

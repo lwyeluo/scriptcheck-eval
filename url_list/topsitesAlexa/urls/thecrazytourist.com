@@ -1,0 +1,10 @@
+https://www.thecrazytourist.com/page/2/
+https://www.thecrazytourist.com/15-best-things-to-do-in-ryde-isle-of-wight-england/
+https://www.thecrazytourist.com/privacy-policy/
+https://www.thecrazytourist.com
+https://www.thecrazytourist.com/about/
+https://www.thecrazytourist.com/15-things-to-do-in-camp-verde-az/
+https://www.thecrazytourist.com/13-best-things-to-do-in-payson-az/
+https://www.thecrazytourist.com/15-best-things-to-do-in-salford-greater-manchester-england/
+https://www.thecrazytourist.com/
+https://www.thecrazytourist.com/15-things-to-do-in-somerton-az/

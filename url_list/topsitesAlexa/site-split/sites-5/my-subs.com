@@ -1,0 +1,1 @@
+https://my-subs.com/

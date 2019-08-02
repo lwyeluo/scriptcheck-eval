@@ -1,0 +1,10 @@
+https://www.mercadolibre.com.ve
+https://www.mercadolibre.com.pa
+https://www.mercadolibre.com.ni
+https://www.mercadolibre.com.sv
+https://www.mercadolibre.com.ar
+https://www.mercadolibre.com.uy
+https://www.mercadolibre.com.do
+https://www.mercadolibre.com/
+https://www.mercadolibre.com.bo
+https://www.mercadolibre.com.pe

@@ -1,0 +1,10 @@
+https://www.istripper.com/information/eula/display
+https://www.istripper.com/information/privacy/display
+https://www.istripper.com/information/billers/display
+https://www.istripper.com/information/privacy/display?language=en
+https://www.istripper.com/support
+https://www.istripper.com/
+https://www.istripper.com/auth/login
+https://www.istripper.com/models
+https://www.istripper.com/information/dmca/display
+https://www.trustpilot.com/review/www.istripper.com

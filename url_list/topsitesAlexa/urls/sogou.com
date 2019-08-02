@@ -1,0 +1,10 @@
+http://help.sogou.com/?w=01091500&v=1
+https://www.sogou.com/
+http://fuwu.sogou.com/
+http://index.sogou.com
+http://corp.sogou.com/
+http://as.sogou.com/
+http://pic.sogou.com
+http://ir.sogou.com/
+http://www.sogou.com/docs/more.htm?v=1
+http://www.sogou.com/docs/terms.htm?v=1

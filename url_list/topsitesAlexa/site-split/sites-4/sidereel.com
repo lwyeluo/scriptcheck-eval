@@ -1,0 +1,10 @@
+https://www.sidereel.com/users/sign-up
+https://www.sidereel.com/tv-shows
+https://www.sidereel.com/
+https://www.sidereel.com/highest-rated-tv-shows
+https://blog.sidereel.com/
+https://www.sidereel.com/tv-news
+https://www.sidereel.com/this-week-in-tv
+https://www.sidereel.com/tv-genres
+https://www.sidereel.com/tv-networks
+https://www.sidereel.com/users/login

@@ -1,0 +1,10 @@
+https://www.teepublic.com/usersauthfacebook
+https://www.teepublic.com/t-shirtskaren-hallion
+https://www.teepublic.com/t-shirt307093-tano
+https://www.teepublic.com/tapestries
+https://www.teepublic.com/totes
+https://www.teepublic.com/throw-pillows
+https://www.teepublic.com/t-shirts?banner_tile=a
+https://www.teepublic.com/about
+https://www.teepublic.com/phone-case
+https://www.teepublic.com/

@@ -1,0 +1,10 @@
+https://app.zety.com/login
+https://zety.com/cover-letter-builder
+https://zety.com/contact
+https://zety.com/resume-builder
+https://zety.com/cover-letter-templates
+https://zety.com/work-life
+https://zety.com/cv-examples
+https://zety.com/
+https://zety.com/privacy-policy
+https://zety.com/blog

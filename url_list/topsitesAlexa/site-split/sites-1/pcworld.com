@@ -1,0 +1,10 @@
+https://www.pcworld.com/
+https://www.pcworld.com/couponcodes/oneplus
+https://www.pcworld.com/couponcodes/groupon
+https://www.pcworld.com/couponcodes/home-depot
+https://www.pcworld.com/faq
+https://www.pcworld.com/index.rss
+https://www.pcworld.com/resources
+https://shop.pcworld.com
+https://www.pcworld.com/magazines
+https://www.pcworld.com/couponcodes

@@ -1,0 +1,10 @@
+https://nikkei225jp.com/data/touraku.php
+https://nikkei225jp.com/bitcoin/
+https://nikkei225jp.com/data/shutai.php
+https://nikkei225jp.com/data/sinyou.php
+https://nikkei225jp.com/china/
+https://nikkei225jp.com/data/vix.php
+http://mail.nikkei225jp.com/
+https://nikkei225jp.com/
+https://nikkei225jp.com/data/
+https://nikkei225jp.com/data/cal.php

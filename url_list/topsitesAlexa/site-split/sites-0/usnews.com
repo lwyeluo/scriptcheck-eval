@@ -1,0 +1,10 @@
+https://www.usnews.com/
+https://travel.usnews.com/gallery/the-worlds-30-best-places-to-visit-in-2019-20
+https://cars.usnews.com/cars-trucks/used-cars
+https://realestate.usnews.com/places/rankings/best-places-to-retire
+https://www.usnews.com/news
+https://cars.usnews.com/cars-trucks/best-cars-for-families
+https://www.usnews.com/news/sports/articles/2019-07-31/looking-for-starters-at-hall-of-fame-game-try-the-o-lines
+https://money.usnews.com/
+https://www.usnews.com/mattress
+https://www.usnews.com/education/best-colleges/paying-for-college

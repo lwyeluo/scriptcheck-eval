@@ -1,0 +1,10 @@
+https://www.rahnama.com/cat/index/id/1641
+https://www.rahnama.com/subscribe/list
+https://www.rahnama.com/cat/index/id/1041/فرهنگ-و-هنر
+https://www.rahnama.com
+https://www.rahnama.com/cat/index/id/1048/کامپیوتر-و-اینترنت
+https://www.rahnama.com/cat/index/id/1042/ورزش
+https://www.rahnama.com/cat/index/id/1051/خدمات-بازرگانی
+https://www.rahnama.com/
+https://www.rahnama.com/index/index/Parent/11/نيازمنديهای-کشوری
+https://www.rahnama.com/user/signin/ورود/ثبت-نام

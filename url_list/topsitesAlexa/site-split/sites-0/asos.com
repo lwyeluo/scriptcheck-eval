@@ -1,0 +1,10 @@
+https://www.asos.com/discover/insiders/?nlid=ww|inspiration|ctas
+https://www.asos.com/women/a-to-z-of-brands/adidas/cat/?cid=5906&nlid=ww|brands|top+brands
+https://www.asos.com/women/curve-plus-size/cat/?cid=9577&nlid=ww|clothing|shop+by+range
+https://www.asos.com/men/new-in/new-in-living-gifts/cat/?cid=28352&nlid=mw|new+in|new+products
+https://www.asos.com/
+https://www.asos.com/women/shoes/trainers/cat/?cid=6456&nlid=ww|shoes|shop+by+product
+https://www.asos.com/women/tall/new-in/cat/?cid=20298&nlid=ww|new+in|shop+by+range
+https://www.asos.com/women/outlet/face-body/cat/?cid=28370&nlid=ww|outlet|shop+by+product
+https://www.asos.com/men/a-to-z-of-brands/new-look/cat/?cid=17311&nlid=mw|brands|top+brands
+https://www.asos.com/men/sale/cat/?cid=8409&nlid=mw|sale|shop+sale+by+product

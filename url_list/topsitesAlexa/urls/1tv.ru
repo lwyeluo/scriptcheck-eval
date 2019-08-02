@@ -1,0 +1,10 @@
+https://www.1tv.ru/projects
+https://www.1tv.ru/shows?all
+https://www.1tv.ru/shows
+https://veterani.1tv.ru
+https://www.1tv.ru/news
+https://www.1tv.ru/
+https://www.1tv.ru/perehod-na-cifrovoe-veshanie
+https://www.1tv.ru/sport
+https://www.1tv.ru/shows/pust-govoryat/uchastvuyte-v-proekte
+https://www.1tv.ru/sport?all

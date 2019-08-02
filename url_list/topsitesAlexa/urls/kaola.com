@@ -1,0 +1,10 @@
+https://you.kaola.com/footer/index.html?key=footer_tariff
+https://buy.kaola.com/personal/authentication.html
+https://pages.kaola.com/pages/activity/d789154597fb4a92b54c2c7d6a046f50.shtml
+https://www.kaola.com/common/page.html?key=Privacy_policy
+https://you.kaola.com/footer/index.html?key=footer_epay
+https://buy.kaola.com/recharge/recharge_page_appstore.html
+https://www.kaola.com/
+https://you.kaola.com/footer/index.html?key=footer_faq
+https://you.kaola.com/footer/index.html?key=footer_freight
+https://pages.kaola.com/pages/activity/Businessentity.shtml

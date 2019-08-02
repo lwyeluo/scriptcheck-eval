@@ -1,0 +1,10 @@
+https://gaana.com/album/bharat-hindi
+https://gaana.com/artist/justin-bieber
+https://gaana.com/song/shree-hanuman-chalisa-22
+https://gaana.com/newrelease/hindi
+https://gaana.com/song/blackout-521
+https://gaana.com/artist/lata-mangeshkar
+https://gaana.com/old-songs/punjabi
+https://gaana.com/album/kannada
+https://gaana.com/album/happy-birthday-english-0
+https://gaana.com/

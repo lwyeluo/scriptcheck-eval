@@ -1,0 +1,10 @@
+https://www.tes.com/authn/sign-in?select=true
+https://www.tes.com/news
+https://www.tes.com/contact
+https://www.tes.com/leadership
+https://www.tes.com/new-teachers
+https://www.tes.com/store
+https://www.tes.com/
+https://www.tes.com/school
+https://community.tes.com/forums/us-education-news.2550/
+https://www.tes.com/authn/select

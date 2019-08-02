@@ -1,0 +1,10 @@
+https://www.tmz.com/categories/nfl/
+https://www.tmz.com/videos/
+https://www.tmz.com/categories/breakups/
+https://www.tmz.com/2019/07/31/r-kelly-calls-alleged-victims-disgruntled-groupies-sex/
+https://www.tmz.com/categories/photo-galleries/
+https://www.tmz.com/people/marianne-williamson/
+https://www.tmz.com/2019/07/23/future-bodyguard-sucker-punch-asap-rocky-case/
+https://www.tmz.com/2019/07/24/wale-asap-rocky-sweden-good-heart-cares-black-lives-matter-comments/
+https://www.tmz.com/
+https://www.tmz.com/2019/07/30/asap-rocky-victim-witness-recent-arrest-theft-knife/

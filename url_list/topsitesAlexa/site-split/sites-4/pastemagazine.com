@@ -1,0 +1,10 @@
+https://www.pastemagazine.com/contributor-information
+https://www.pastemagazine.com/games
+https://www.pastemagazine.com/copyright
+https://www.pastemagazine.com/music
+https://www.pastemagazine.com/tv
+https://www.pastemagazine.com/
+https://www.pastemagazine.com/comedy
+https://www.pastemagazine.com/drink
+https://www.pastemagazine.com/books
+https://www.pastemagazine.com/daytrotter

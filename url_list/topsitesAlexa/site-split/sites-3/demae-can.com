@@ -1,0 +1,10 @@
+https://demae-can.com/chain/top/101144/?genreNm=pizza
+https://demae-can.com/inquiry/branchShop/input/
+https://demae-can.com/
+https://demae-can.com/chain/top/101142/?genreNm=pizza
+https://demae-can.com/chain/top/307215/
+https://demae-can.com/chain/top/100724/?genreNm=other
+https://demae-can.com/chain/top/100366/?genreNm=sushi
+https://demae-can.com/search/address/area
+https://demae-can.com/inquiry/faq/
+https://demae-can.com/chain/list/youshoku/

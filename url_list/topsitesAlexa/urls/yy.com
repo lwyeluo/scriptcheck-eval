@@ -1,0 +1,10 @@
+https://www.yy.com/chicken
+https://www.yy.com/7877232678772326?tempId=16777217
+https://www.yy.com/2249090622490906?tempId=16777217
+https://www.yy.com/1053970710539707?tempId=16777217
+https://www.yy.com/1976669419766694?tempId=16777217
+https://www.yy.com/travel
+https://www.yy.com/2427851924278519?tempId=16777217
+https://www.yy.com/show
+https://kf.yy.com/
+https://www.yy.com/

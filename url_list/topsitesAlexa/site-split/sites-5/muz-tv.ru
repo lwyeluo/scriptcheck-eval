@@ -1,0 +1,10 @@
+https://muz-tv.ru/stars/valeriy_meladze/
+https://muz-tv.ru/news/valeriy-meladze-vypustil-pervyy-klip-za-dva-goda/
+https://muz-tv.ru/stars/
+https://muz-tv.ru/login/
+https://muz-tv.ru/look/khity-planety-top-5/
+https://muz-tv.ru/
+https://muz-tv.ru/tests/kak-khorosho-ty-znaesh-pesni-90-kh/
+https://muz-tv.ru/conference/
+https://muz-tv.ru/contests/
+https://muz-tv.ru/tests/

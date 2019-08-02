@@ -1,0 +1,10 @@
+https://mykd.99.com/
+https://kx.99.com/
+https://bbs.99.com/
+https://zf.99.com/
+https://cos.99.com
+https://zf.99.com
+https://www.99.com/
+https://kdzf.99.com/
+https://shop.99.com/Pay/Index.html
+https://zf.99.com/index/

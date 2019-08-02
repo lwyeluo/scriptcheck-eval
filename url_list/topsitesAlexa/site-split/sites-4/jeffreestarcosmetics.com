@@ -1,0 +1,10 @@
+https://jeffreestarcosmetics.com/products/magic-star-concealer?variant=27671657578579collectionsjawbreaker-collection
+https://jeffreestarcosmetics.com/products/magic-star-concealer?variant=27671657578579collectionsskin-frost
+https://jeffreestarcosmetics.com/products/magic-star-concealer?variant=27671657578579collectionsvelour-liquid-lipstick
+https://jeffreestarcosmetics.com/products/magic-star-concealer?variant=27671657578579
+https://jeffreestarcosmetics.com/
+https://jeffreestarcosmetics.com/products/magic-star-concealer?variant=27671657578579pagesmeet-me
+https://jeffreestarcosmetics.com/collections/liquid-frost
+https://jeffreestarcosmetics.com/products/magic-star-concealer?variant=27671657578579account
+https://jeffreestarcosmetics.com/products/magic-star-concealer?variant=27671657578579collectionssupreme-frost
+https://jeffreestarcosmetics.com/collections/velour-liquid-lipstick
