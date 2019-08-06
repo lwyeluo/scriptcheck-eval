@@ -77,6 +77,15 @@ python3 evaluate.py --crawl-url --Alexa-subdomains
 python3 evaluate.py --run-alexa-top-sites --Alexa-subdomains
 ```
 
+### for benchmark
+
+- micro-benchmark
+
+```
+python3 evaluate.py --micro-benchmark run
+python3 evaluate.py --micro-benchmark parse
+```
+
 ### for China top 500 sites
 
 ```

@@ -16,6 +16,8 @@ url_list/topsitesAlexa/results/
 url_list/topsitesAlexa/results.bak/
 document_domain/results/
 
+benchmark/micro/results/
+
 __pycache__/
 .DS_Store
 .idea/

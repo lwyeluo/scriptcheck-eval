@@ -1,7 +1,7 @@
 // argv[2]: url
 // argv[3]: timeout
 
-argv = process.argv
+argv = process.argv;
 console.log("***********************************i am in**********************************")
 const CDP = require('chrome-remote-interface');
 function sleep(d){
@@ -46,8 +46,8 @@ function code() {
 async function example() {
     let client;
 
-    var in_url = argv[2]
-    var in_timeout = parseInt(argv[3])
+    var in_url = argv[2];
+    var in_timeout = parseInt(argv[3]);
 	
 		try {
 			// connect to endpoint
@@ -80,7 +80,7 @@ async function example() {
 			}
 			console.log(result);
 				
-			sleep(2000); //当前方法暂停5秒
+			sleep(2000);
 
 			console.log(">>> Prepare to get frames's information");
 	
@@ -90,12 +90,7 @@ async function example() {
 			for(var i = 1; i < result_list.length; i++)
 			{
 				console.log("**********\t" + result_list[i].toString().replace(/,/g, '\t'));
-			}		
-	
-
-
-
-
+			}
 
 		} catch (err) {
 			console.error(err);

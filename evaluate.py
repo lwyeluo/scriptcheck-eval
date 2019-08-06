@@ -68,6 +68,14 @@ if __name__ == '__main__':
     parser.add_argument('--test-parse-log', '-t', type=str, const="yahoo.com", nargs="?", metavar="DOMAIN",
                         help="Test the parser for Chrome's logs.")
 
+
+    '''
+        Benchmark
+    '''
+    parser.add_argument('--micro-benchmark', type=str, choices=['run', 'parse'],
+                        help="Run | Parse the micro-benchmark to record the CPU cycles")
+
+
     args = parser.parse_args()
 
     ####################################################
@@ -194,6 +202,22 @@ if __name__ == '__main__':
         from result_handler.parseLog import test
 
         test(args.test_parse_log)
+
+    ####################################################
+    #	Benchmark
+    ####################################################
+
+    elif args.micro_benchmark:
+        if args.micro_benchmark == "run":
+            # --micro-benchmark run
+            from benchmark.micro.run import run
+
+            run()
+        elif args.micro_benchmark == "parse":
+            # --micro-benchmark parse
+            from benchmark.micro.parseResult import run
+
+            run()
 
     print("\n")
     print(args)

@@ -1,18 +1,24 @@
 # coding=utf-8
 
-import logging
+
 import signal
 import os
 from threading import Timer
 from utils.executor import *
 
-from run_script import _chrome_binary, _node_binary, _node_filename, _timeout, _timeout_for_node
+from utils.globalDefinition import _chrome_binary, _node_binary, _timeout, _timeout_for_node
+from utils.globalDefinition import _node_filename, _node_run_url_filename
 
 
 class RunUrl(object):
-	def __init__(self, url, ret_filename):
+	def __init__(self, url, ret_filename, node_filename=_node_filename,
+				 timeout=_timeout, timeout_for_node=_timeout_for_node):
 		self.url = url  # the url to be loaded
 		self.ret_filename = ret_filename  # the file path to save the Chrome's log
+
+		self.node_filename = node_filename
+		self.timeout = timeout
+		self.timeout_for_node = timeout_for_node
 
 		# some features logged by _node_filename
 		self.features_completed = '''result: { type: 'string', value: 'complete' }'''
@@ -25,11 +31,11 @@ class RunUrl(object):
 		self.run()
 
 	def timeoutCallback(self, process_node):
-		logging.info("\t\tEnter timeoutCallback")
+		print("\t\tEnter timeoutCallback")
 		try:
 			os.killpg(process_node.pid, signal.SIGKILL)
 		except Exception as error:
-			logging.info(error)
+			print(error)
 
 	# collect the url and domains for all (same-origin) frames
 	def collectInformationForFrames(self, logs):
@@ -43,7 +49,7 @@ class RunUrl(object):
 					# parse the information for frame
 					child_info = data.split("\\t")
 					if len(child_info) != 5:
-						logging.info("[ERROR] we failed to parse %s" % data)
+						print("[ERROR] we failed to parse %s" % data)
 						continue
 					self.frame_info[child_info[1]] = {
 						'url': child_info[2],
@@ -56,38 +62,40 @@ class RunUrl(object):
 		print(_chrome_binary)
 		process_chrome = subprocess.Popen([_chrome_binary, '--remote-debugging-port=9222'], stderr=ret_fd,
 										  stdout=ret_fd)
-		logging.info('>>> START ' + self.url)
+		print('>>> START ' + self.url)
 
-		time.sleep(10)
+		time.sleep(5)
 
-		print(_node_binary, _node_filename)
-		process_node = subprocess.Popen([_node_binary, _node_filename, self.url, str(_timeout_for_node)], stdout=subprocess.PIPE,
+		print(_node_binary, self.node_filename)
+		process_node = subprocess.Popen([_node_binary, self.node_filename, self.url, str(self.timeout_for_node)],
+										stdout=subprocess.PIPE,
 										stderr=subprocess.PIPE, preexec_fn=os.setsid)
 		# create a timer
-		my_timer = Timer(_timeout, self.timeoutCallback, [process_node])
+		my_timer = Timer(self.timeout, self.timeoutCallback, [process_node])
 		my_timer.start()
 
 		stdout, _ = process_node.communicate()
 		if self.features_completed in str(stdout):
-			logging.info("\t\tweb page [%s] is completed!" % self.url)
+			print("\t\tweb page [%s] is completed!" % self.url)
 		else:
 			# print(str(stdout))
-			logging.info("\t\tweb page [%s] is TIMEOUT!" % self.url)
+			print("\t\tweb page [%s] is TIMEOUT!" % self.url)
 
 		# collect the url and domains for all (same-origin) frames
-		self.collectInformationForFrames(str(stdout))
+		if self.node_filename == _node_filename:
+			self.collectInformationForFrames(str(stdout))
 
-		logging.info('>>> FINISH ' + self.url)
+		print('>>> FINISH ' + self.url)
 
 		my_timer.cancel()
 
 		time.sleep(2)
 		# kill chrome
 		try:
-			logging.info("\t>>> kill Chrome [%d]" % process_chrome.pid)
+			print("\t>>> kill Chrome [%d]" % process_chrome.pid)
 			os.kill(process_chrome.pid, signal.SIGKILL)
 		# os.killpg(process_chrome.pid, signal.SIGTERM)
 		except Exception as error:
-			logging.info(error)
+			print(error)
 
 		ret_fd.close()

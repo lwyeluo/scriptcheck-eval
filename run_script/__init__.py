@@ -2,23 +2,9 @@
 
 import os
 import logging
-import string
 from utils.executor import execute
 
 _dir = os.path.abspath(os.path.dirname(__file__))
 _result_handler_dir = os.path.join(os.path.dirname(_dir), "result_handler")
 _result_log_dir = os.path.join(_result_handler_dir, "tim-results")
 _result_log_dir_for_china = os.path.join(_result_handler_dir, "tim-results-china")
-
-# get the home directory
-_home_dir = execute("echo $HOME")
-# get the chrome binary
-_chrome_binary = _home_dir + "/chromium/tick/src/out/Default/chrome"
-logging.info(_chrome_binary)
-# get the node binary
-_node_binary = "node"
-# get the nodejs script, which checks the loading status and gets domains for all same-origin frames
-_node_filename = os.path.join(_dir, "find_recursive_subframes.js")
-# timeout for each webpage
-_timeout = 300
-_timeout_for_node = 30
