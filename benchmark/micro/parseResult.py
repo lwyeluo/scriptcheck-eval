@@ -171,6 +171,46 @@ class Parse(object):
             }
         self.final_results[key] = results
 
+    def print(self):
+        # 1. without frame chain length
+        print("recordTask\t-\tswitchTask\t-\toriginalSOP")
+        for i in range(0, 3):
+            print("cpu cycle\ttime usage(μs)\t", end='')
+        print()
+
+        cpu_cycle, time_usage = self.final_results[_key_for_record_task][_key_for_cpu_cycle],\
+                                self.final_results[_key_for_record_task][_key_for_time_usage]
+        print("%f\t%f" % (cpu_cycle, time_usage * 1e6), end='')
+
+        cpu_cycle, time_usage = self.final_results[_key_for_switch_task][_key_for_cpu_cycle], \
+                                self.final_results[_key_for_switch_task][_key_for_time_usage]
+        print("\t%f\t%f" % (cpu_cycle, time_usage * 1e6), end='')
+
+        cpu_cycle, time_usage = self.final_results[_key_for_original_sop][_key_for_cpu_cycle], \
+                                self.final_results[_key_for_original_sop][_key_for_time_usage]
+        print("\t%f\t%f" % (cpu_cycle, time_usage * 1e6), end='')
+        print()
+
+        # 2. with frame chain length
+        print("length of frame chain\tupdate frame chain")
+        print("\tcpu cycle\ttime usage(μs)")
+        for i in range(1, 100):
+            print(i, end='')  # frame chain length
+
+            cpu_cycle, time_usage = self.final_results[_key_for_call_record][i][_key_for_cpu_cycle], \
+                                    self.final_results[_key_for_call_record][i][_key_for_time_usage]
+            print("\t%f\t%f" % (cpu_cycle, time_usage * 1e6))
+
+        print("length of frame chain\tTIM-SOP")
+        print("\tcpu cycle\ttime usage(μs)")
+        for i in range(1, 100):
+            if i not in self.final_results[_key_for_tim_sop].keys():
+                continue
+            print(i, end='')  # frame chain length
+            cpu_cycle, time_usage = self.final_results[_key_for_tim_sop][i][_key_for_cpu_cycle], \
+                                    self.final_results[_key_for_tim_sop][i][_key_for_time_usage]
+            print("\t%f\t%f" % (cpu_cycle, time_usage * 1e6))
+
     def run(self):
         if not os.path.exists(self._results_dir):
             raise Exception("%s does not exist" % self._results_dir)
@@ -193,7 +233,7 @@ class Parse(object):
         self.computeWithFrameChainLen(self.all_results, _key_for_tim_sop)
         self.computeWithFrameChainLen(self.all_results, _key_for_call_record)
 
-        print(self.final_results)
+        self.print()
 
 
 def run():
