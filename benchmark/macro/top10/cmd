@@ -1,0 +1,42 @@
+#!/bin/bash
+
+init_chrome_dir="${HOME}/chromium/init/src/"
+tick_chrome_dir="${HOME}/chromium/tick/src/"
+round=20
+
+results_chrome_dir="${HOME}/chromium/benchmark-result/"
+mkdir -p ${results_chrome_dir} || true
+mkdir -p ${results_chrome_dir}/init || true
+mkdir -p ${results_chrome_dir}/tick || true
+
+for i in $(seq 1 ${round}); do
+  # Case Init
+
+  echo $i
+  echo ">>> The $i-th round for init...."
+  cd ${init_chrome_dir}
+  rm tools/perf/results.html || true
+
+  # benchmark!
+  tools/perf/run_benchmark run page_cycler_v2.top_10 --browser-executable=out/Default/chrome --use-live-sites --show-stdout --extra-browser-args="--site-per-process" 1>~/tmp-1 2>&1
+
+  # save results
+  mkdir ${results_chrome_dir}/init/${i} || true
+  cp tools/perf/results.html ${results_chrome_dir}/init/${i}/
+  cp ~/tmp-1 ${results_chrome_dir}/init/${i}/
+
+  # Case TICK
+
+  echo $i
+  echo ">>> The $i-th round for tick...."
+  cd ${tick_chrome_dir}
+  rm tools/perf/results.html || true
+
+  # benchmark!
+  tools/perf/run_benchmark run page_cycler_v2.top_10 --browser-executable=out/Default/chrome --use-live-sites --show-stdout --extra-browser-args="--site-per-process" 1>~/tmp-1 2>&1
+
+  # save results
+  mkdir ${results_chrome_dir}/tick/${i} || true
+  cp tools/perf/results.html ${results_chrome_dir}/tick/${i}/
+  cp ~/tmp-1 ${results_chrome_dir}/tick/${i}/
+done
