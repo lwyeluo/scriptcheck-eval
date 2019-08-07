@@ -74,7 +74,7 @@ class ParseLog(object):
         # 3. for original_sop
         self.computeWithoutFrameChainLen(self.original_sop, _key_for_original_sop)
         # 4. for call record
-        self.computeWithFrameChainLen(self.call_records, _key_for_call_record)
+        self.computeWithoutFrameChainLen(self.call_records, _key_for_call_record)
         # 5. for tim sop
         self.computeWithFrameChainLen(self.tim_sop, _key_for_tim_sop)
 
@@ -104,7 +104,7 @@ class ParseLog(object):
                     info = remain.strip(" ").strip("s").split(", ")
                     data = {_key_for_cpu_cycle: float(info[0]),
                             _key_for_time_usage: float(info[2]),
-                            _key_for_frame_chain_len: 99 if float(info[1]) == 100 else float(info[1])
+                            # _key_for_frame_chain_len: 99 if float(info[1]) == 100 else float(info[1])
                             }
                     self.call_records.append(data)
 
@@ -173,8 +173,8 @@ class Parse(object):
 
     def print(self):
         # 1. without frame chain length
-        print("recordTask\t-\tswitchTask\t-\toriginalSOP")
-        for i in range(0, 3):
+        print("recordTask\t-\tswitchTask\t-\toriginalSOP\t-\tupdateFrameChain")
+        for i in range(0, 4):
             print("cpu cycle\ttime usage(μs)\t", end='')
         print()
 
@@ -189,18 +189,13 @@ class Parse(object):
         cpu_cycle, time_usage = self.final_results[_key_for_original_sop][_key_for_cpu_cycle], \
                                 self.final_results[_key_for_original_sop][_key_for_time_usage]
         print("\t%f\t%f" % (cpu_cycle, time_usage * 1e6), end='')
+
+        cpu_cycle, time_usage = self.final_results[_key_for_call_record][_key_for_cpu_cycle], \
+                                self.final_results[_key_for_call_record][_key_for_time_usage]
+        print("\t%f\t%f" % (cpu_cycle, time_usage * 1e6), end='')
         print()
 
         # 2. with frame chain length
-        print("length of frame chain\tupdate frame chain")
-        print("\tcpu cycle\ttime usage(μs)")
-        for i in range(1, 100):
-            print(i, end='')  # frame chain length
-
-            cpu_cycle, time_usage = self.final_results[_key_for_call_record][i][_key_for_cpu_cycle], \
-                                    self.final_results[_key_for_call_record][i][_key_for_time_usage]
-            print("\t%f\t%f" % (cpu_cycle, time_usage * 1e6))
-
         print("length of frame chain\tTIM-SOP")
         print("\tcpu cycle\ttime usage(μs)")
         for i in range(1, 100):
@@ -231,7 +226,7 @@ class Parse(object):
         self.computeWithoutFrameChainLen(self.all_results, _key_for_switch_task)
         self.computeWithoutFrameChainLen(self.all_results, _key_for_original_sop)
         self.computeWithFrameChainLen(self.all_results, _key_for_tim_sop)
-        self.computeWithFrameChainLen(self.all_results, _key_for_call_record)
+        self.computeWithoutFrameChainLen(self.all_results, _key_for_call_record)
 
         self.print()
 

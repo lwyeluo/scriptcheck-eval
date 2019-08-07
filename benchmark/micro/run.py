@@ -2,7 +2,7 @@
 
 '''
     Test the performance for TIM
-    Make sure your commit for Chromium is 647e1562b82eef79a25dfcfa445a1f3d89cc94de, which
+    Make sure your commit for Chromium is 642211e601dcd48240207df507b631fd1bc4b498, which
         adds the logs to record the CPU cycles and time usages
 '''
 
