@@ -74,6 +74,8 @@ if __name__ == '__main__':
     '''
     parser.add_argument('--micro-benchmark', type=str, choices=['run', 'parse'],
                         help="Run | Parse the micro-benchmark to record the CPU cycles")
+    parser.add_argument('--macro-benchmark', type=str, choices=['parse'],
+                        help="Parse the macro-benchmark to record FCP and FMP usages for top 10 sites in telemetry")
 
 
     args = parser.parse_args()
@@ -216,6 +218,13 @@ if __name__ == '__main__':
         elif args.micro_benchmark == "parse":
             # --micro-benchmark parse
             from benchmark.micro.parseResult import run
+
+            run()
+
+    elif args.macro_benchmark:
+        if args.macro_benchmark == "parse":
+            # --macro-benchmark parse
+            from benchmark.macro.top10.parse import run
 
             run()
 

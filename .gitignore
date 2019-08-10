@@ -17,6 +17,7 @@ url_list/topsitesAlexa/results.bak/
 document_domain/results/
 
 benchmark/micro/results/
+benchmark/macro/result/sunspider/
 
 __pycache__/
 .DS_Store

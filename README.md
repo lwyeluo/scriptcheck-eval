@@ -81,10 +81,16 @@ python3 evaluate.py --run-alexa-top-sites --Alexa-subdomains
 
 - micro-benchmark
 
+The commit for Chromium is `642211e601dcd48240207df507b631fd1bc4b498`, which adds the logs to record the CPU cycles and time usages
+
 ```
 python3 evaluate.py --micro-benchmark run
 python3 evaluate.py --micro-benchmark parse
 ```
+
+- macro-benchmark
+
+The commit for Chromium is `369840229c3f72e91c754e52bb95f3325cebd373`, which removes the logs for performance test and debugging information, including JS stack, updating frame chain...
 
 ### for China top 500 sites
 
