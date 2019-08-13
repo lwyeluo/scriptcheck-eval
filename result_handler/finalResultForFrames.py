@@ -128,6 +128,11 @@ class FinalResultListForFrames(object):
 			self._normal_key: [],
 			self._restricted_key: []
 		}
+		# the domain who set document.domain to its-child!!!
+		self._domains_set_as_child = {
+			self._normal_key: [],
+			self._restricted_key: []
+		}
 
 		# urls for each domain
 		self._domains_involved = {
@@ -183,7 +188,8 @@ class FinalResultListForFrames(object):
 					self._domains_set_as_super[type].append(old)
 					is_both += 1
 				else:
-					raise Exception("Domain set document.domain to its child. %s->%s" % (old, new))
+					self._domains_set_as_child[type].append(old)
+					#raise Exception("Domain set document.domain to its child. %s->%s" % (old, new))
 
 			if is_both == 0:
 				self._domains_set_as_both[type].append(old)
@@ -233,7 +239,7 @@ class FinalResultListForFrames(object):
 		self._log.info("# Information for setting domains [%s] #" % type)
 		self._log.info("#######################################")
 
-		self._log.info("\nold_domain\tsetAsSuper\tsetAsItself\tsetAsBoth\tnew_domains\n")
+		self._log.info("\nold_domain\tsetAsSuper\tsetAsItself\tsetAsSuperAndItself\tsetAsChild\tnew_domains\n")
 		for old in self._raw_set_domains[type].keys():
 			s = old
 
@@ -252,6 +258,11 @@ class FinalResultListForFrames(object):
 			else:
 				s += '\tN'
 
+			if old in self._domains_set_as_child[type]:
+				s += '\tY'
+			else:
+				s += '\tN'
+
 			s += '\t' + ','.join(self._raw_set_domains[type][old].keys())
 
 			self._log.info(s)
@@ -262,10 +273,12 @@ class FinalResultListForFrames(object):
 		self._log.info("# Summary for setting domains [%s] #" % type)
 		self._log.info("#######################################")
 
-		s = "\n#domainsInvolved = %d, #domains = %d, #domainsSetAsSuper = %d, #domainsSetAsItself = %d, #domainsSetAsBoth = %d" % (
+		s = "\n#domainsInvolved = %d, #domains = %d, #domainsSetAsSuper = %d, #domainsSetAsItself = %d, #domainsSetAsSuperAndItself = %d," \
+			"#domainsSetAsChild = %d" % (
 			len(self._domains_involved[type]),
 			len(self._raw_set_domains[type].keys()), len(self._domains_set_as_super[type]),
-			len(self._domains_set_as_itself[type]), len(self._domains_set_as_both[type])
+			len(self._domains_set_as_itself[type]), len(self._domains_set_as_both[type]),
+			len(self._domains_set_as_child[type])
 		)
 		self._log.info(s)
 
