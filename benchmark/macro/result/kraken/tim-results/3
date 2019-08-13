@@ -1,0 +1,29 @@
+===============================================
+RESULTS (means and 95% confidence intervals)
+-----------------------------------------------
+Total:                        4140.5ms +/- 0.6%
+-----------------------------------------------
+
+  ai:                          283.0ms +/- 3.1%
+    astar:                     283.0ms +/- 3.1%
+
+  audio:                       640.5ms +/- 2.3%
+    beat-detection:            245.5ms +/- 4.4%
+    dft:                       123.2ms +/- 3.3%
+    fft:                       158.4ms +/- 5.9%
+    oscillator:                113.4ms +/- 1.8%
+
+  imaging:                     536.4ms +/- 1.1%
+    gaussian-blur:             205.4ms +/- 0.8%
+    darkroom:                  239.7ms +/- 1.2%
+    desaturate:                 91.3ms +/- 3.4%
+
+  json:                        905.6ms +/- 0.7%
+    parse-financial:           668.7ms +/- 0.6%
+    stringify-tinderbox:       236.9ms +/- 2.0%
+
+  stanford:                   1775.0ms +/- 0.9%
+    crypto-aes:                278.4ms +/- 1.4%
+    crypto-ccm:                546.2ms +/- 1.6%
+    crypto-pbkdf2:             757.0ms +/- 1.2%
+    crypto-sha256-iterative:   193.4ms +/- 2.3%

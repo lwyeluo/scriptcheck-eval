@@ -1,0 +1,438 @@
+(WARNING) 2019-08-13 03:44:17,086 desktop_browser_finder.FindAllAvailableBrowsers:250  Chrome build location for linux_x86_64 not found. Browser will be run without Flash.
+(WARNING) 2019-08-13 03:44:20,115 desktop_browser_finder.FindAllAvailableBrowsers:250  Chrome build location for linux_x86_64 not found. Browser will be run without Flash.
+(WARNING) 2019-08-13 03:44:23,144 desktop_browser_finder.FindAllAvailableBrowsers:250  Chrome build location for linux_x86_64 not found. Browser will be run without Flash.
+[ RUN      ] https://www.google.com/#hl=en&q=barack+obama
+(WARNING) 2019-08-13 03:44:23,203 shared_page_state.WillRunStory:228  WPR archive missing: /home/sc/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:34669/devtools/browser/7e99c07f-1af4-492c-b9c0-0e2e3d071deb
+[31434:31434:0813/034427.184478:INFO:CONSOLE(3)] "A860E8EECB5D840583C39E3575422D2D: 0.042236328125ms", source:  (3)
+(WARNING) 2019-08-13 03:44:31,566 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-08-13 03:44:32,997 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 1.431 seconds
+[31434:31444:0813/034433.455365:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[31434:31556:0813/034433.459722:WARNING:internal_linux.cc(64)] Failed to read /proc/31464/stat
+[31434:31434:0813/034433.611778:WARNING:url_request_context_getter.cc(43)] URLRequestContextGetter leaking due to no owning thread.
+[31434:31434:0813/034433.617294:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[31434:31434:0813/034433.617387:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[       OK ] https://www.google.com/#hl=en&q=barack+obama (10522 ms)
+[ RUN      ] http://www.youtube.com
+(WARNING) 2019-08-13 03:44:33,725 shared_page_state.WillRunStory:228  WPR archive missing: /home/sc/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:35859/devtools/browser/1336a28a-7f24-4a58-b395-485cde1d5863
+[31557:31579:0813/034435.756902:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[31557:31557:0813/034437.059524:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[31557:31557:0813/034437.373506:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fsignin_passive%26hl%3Den%26feature%3Dpassive%26app%3Ddesktop%26action_handle_signin%3Dtrue&passive=true&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[31557:31567:0813/034439.038738:WARNING:extension_protocols.cc(472)] Failed to get directory for extension invalid
+[31557:31567:0813/034439.038809:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1:1:0813/034440.219279:ERROR:resource_dispatcher.cc(373)] unknown request
+[31557:31567:0813/034441.048582:WARNING:extension_protocols.cc(472)] Failed to get directory for extension invalid
+[31557:31567:0813/034441.048659:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[31557:31557:0813/034441.568065:INFO:CONSOLE(147)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflC6bXIS/www-widgetapi.js (147)
+[31557:31557:0813/034443.018196:INFO:CONSOLE(1592)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_home_v2-vflesllNa/desktop_polymer_sel_auto_svg_home_v2.js (1592)
+[31557:31557:0813/034443.424031:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vfl3EpVxj/network.js (15)
+[31557:31557:0813/034444.100861:INFO:CONSOLE(3)] "9820A9C22D35DC02D5114E14FD0DA7A4: 0.02783203125ms", source:  (3)
+[31557:31557:0813/034444.112616:INFO:CONSOLE(3)] "154A25CC7F0CF5DEF8B64EE09ECC0A2D: 0.037841796875ms", source:  (3)
+[31557:31557:0813/034447.376315:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+(WARNING) 2019-08-13 03:44:49,895 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-08-13 03:44:52,912 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 3.017 seconds
+[31557:31557:0813/034454.047806:FATAL:frame_sink_manager_impl.cc(58)] Check failed: sink_map_.empty(). 
+#0 0x7f6d8a99f55d base::debug::StackTrace::StackTrace()
+#1 0x7f6d8a99db1c base::debug::StackTrace::StackTrace()
+#2 0x7f6d8aa2492a logging::LogMessage::~LogMessage()
+#3 0x7f6d6b766978 viz::FrameSinkManagerImpl::~FrameSinkManagerImpl()
+#4 0x7f6d6b766d39 viz::FrameSinkManagerImpl::~FrameSinkManagerImpl()
+#5 0x7f6d84705c96 content::BrowserMainLoop::ShutdownThreadsAndCleanUp()
+#6 0x7f6d8470dfed content::BrowserMainRunnerImpl::Shutdown()
+#7 0x7f6d846f881f content::BrowserMain()
+#8 0x7f6d863cd477 content::RunNamedProcessTypeMain()
+#9 0x7f6d863cfb54 content::ContentMainRunnerImpl::Run()
+#10 0x7f6d863c6025 content::ContentServiceManagerMainDelegate::RunEmbedderProcess()
+#11 0x7f6d8b1d3dfc service_manager::Main()
+#12 0x7f6d863cc225 content::ContentMain()
+#13 0x560b757f8240 ChromeMain
+#14 0x560b757f8152 main
+#15 0x7f6d6bf39830 __libc_start_main
+#16 0x560b757f802a _start
+
+[       OK ] http://www.youtube.com (20675 ms)
+[ RUN      ] Facebook
+(WARNING) 2019-08-13 03:44:54,400 shared_page_state.WillRunStory:228  WPR archive missing: /home/sc/chromium/init/src/tools/perf/page_sets/data/top_10_001.wprgo
+
+DevTools listening on ws://127.0.0.1:34477/devtools/browser/307a4b9d-cf95-4779-b791-e6c0fa624d30
+[31696:31719:0813/034456.386996:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[31696:31696:0813/034459.569515:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #email: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[31696:31696:0813/034459.570639:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #lgnjs: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[31696:31696:0813/034459.572058:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #locale: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[31696:31696:0813/034459.573141:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #login_form: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[31696:31696:0813/034459.574327:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #pass: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[31696:31696:0813/034459.575402:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #prefill_contact_point: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[31696:31696:0813/034459.576488:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #prefill_source: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[31696:31696:0813/034459.577762:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #prefill_type: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[31696:31696:0813/034459.578874:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/barackobama (0)
+[31696:31696:0813/034459.579852:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/barackobama (0)
+[31696:31696:0813/034502.182556:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[31696:31696:0813/034502.183612:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy and paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[31696:31696:0813/034502.184572:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[31696:31696:0813/034502.185682:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[31696:31696:0813/034503.766394:INFO:CONSOLE(3)] "CF179808BD6E8C54876BCB17B6AA6FE6: 0.03369140625ms", source:  (3)
+[31696:31696:0813/034503.999243:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[31696:31696:0813/034507.201935:INFO:CONSOLE(1)] "'webkitURL' is deprecated. Please use 'URL' instead.", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.502528:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.503760:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.504736:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.505898:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.506945:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.507871:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.508855:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.509820:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.510774:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.511712:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.512902:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.513850:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.514541:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.515507:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.516291:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.516945:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.517679:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.518363:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.519047:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.519885:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+[31696:31696:0813/034507.520547:INFO:CONSOLE(1)] "console.groupEnd", source: https://s.update.fbsbx.com/2/4.45.2/main.js (1)
+(WARNING) 2019-08-13 03:45:09,140 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-08-13 03:45:11,509 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 2.369 seconds
+[31696:31706:0813/034512.471605:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[31696:31815:0813/034512.475439:WARNING:internal_linux.cc(64)] Failed to read /proc/31726/stat
+[31696:31696:0813/034512.602972:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[31696:31696:0813/034512.603084:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[       OK ] Facebook (18354 ms)
+[ RUN      ] Wikipedia
+(WARNING) 2019-08-13 03:45:12,754 shared_page_state.WillRunStory:228  WPR archive missing: /home/sc/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:42181/devtools/browser/028cf7f9-e141-48e2-963d-a84019056521
+[31816:31839:0813/034514.785155:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[31816:31816:0813/034523.981967:INFO:CONSOLE(145)] "JQMIGRATE: Migrate is installed with logging active, version 3.0.1", source: https://en.wikipedia.org/w/load.php?lang=en&modules=Spinner%2Cjquery%2Coojs%2Coojs-router%2Csite%7Cext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%2Clib%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve%7Cjquery.accessKeyLabel%2CcheckboxShiftClick%2Cclient%2Ccookie%2CembedPlayer%2CgetAttrs%2ChighlightText%2CloadingSpinner%2CmakeCollapsible%2CmwEmbedUtil%2Csuggestions%2CtabIndex%2CtextSelection%2Cthrottle-debounce%2CtriggerQueueCallback%7Cjquery.uls.data%7Cmediawiki.RegExp%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cnotify%2CsearchSuggest%2Cstorage%2Ctemplate%2Ctoc%2Cuser%2Cutil%2Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.template.regexp%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.EmbedPlayer.loader%7Cmw.MediaWikiPlayer.loader%7Cmw.MwEmbedSupport%2CPopUpMediaTransform%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform.styles%7Cmw.TMHGalleryHook.js%7Cmw.TimedText.loader%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=1v2jusv (145)
+[31816:31816:0813/034523.990469:INFO:CONSOLE(366)] "This page is using the deprecated ResourceLoader module "jquery.throttle-debounce".
+Please use OO.ui.throttle/debounce instead. See https://phabricator.wikimedia.org/T213426", source: https://en.wikipedia.org/w/load.php?lang=en&modules=Spinner%2Cjquery%2Coojs%2Coojs-router%2Csite%7Cext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%2Clib%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve%7Cjquery.accessKeyLabel%2CcheckboxShiftClick%2Cclient%2Ccookie%2CembedPlayer%2CgetAttrs%2ChighlightText%2CloadingSpinner%2CmakeCollapsible%2CmwEmbedUtil%2Csuggestions%2CtabIndex%2CtextSelection%2Cthrottle-debounce%2CtriggerQueueCallback%7Cjquery.uls.data%7Cmediawiki.RegExp%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cnotify%2CsearchSuggest%2Cstorage%2Ctemplate%2Ctoc%2Cuser%2Cutil%2Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.template.regexp%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.EmbedPlayer.loader%7Cmw.MediaWikiPlayer.loader%7Cmw.MwEmbedSupport%2CPopUpMediaTransform%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform.styles%7Cmw.TMHGalleryHook.js%7Cmw.TimedText.loader%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=1v2jusv (366)
+[31816:31816:0813/034527.531511:INFO:CONSOLE(3)] "9B977779593C4B4DC62E82469CA7D4F9: 0.0341796875ms", source:  (3)
+(WARNING) 2019-08-13 03:45:32,295 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-08-13 03:45:35,322 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 3.026 seconds
+[31816:31826:0813/034535.750664:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[31816:31922:0813/034535.755681:WARNING:internal_linux.cc(64)] Failed to read /proc/31846/stat
+[31816:31816:0813/034535.870011:WARNING:url_request_context_getter.cc(43)] URLRequestContextGetter leaking due to no owning thread.
+[31816:31816:0813/034535.875610:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[31816:31816:0813/034535.875720:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[       OK ] Wikipedia (23197 ms)
+[ RUN      ] http://www.amazon.com
+(WARNING) 2019-08-13 03:45:35,951 shared_page_state.WillRunStory:228  WPR archive missing: /home/sc/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:41575/devtools/browser/02184eeb-333a-4954-a3ea-51863c72d6e9
+[31923:31923:0813/034542.893412:INFO:CONSOLE(3)] "2735EE825D4E0AAACC4DF0029D9CDDEC: 0.033203125ms", source:  (3)
+(WARNING) 2019-08-13 03:45:48,691 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-08-13 03:45:51,044 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 2.353 seconds
+[31923:31923:0813/034551.965012:ERROR:frame_sink_provider_impl.cc(37)] No RenderWidgetHost exists with id 1 in process 3
+[31923:31935:0813/034552.136251:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[31923:32070:0813/034552.139249:WARNING:internal_linux.cc(64)] Failed to read /proc/31956/stat
+[31923:31923:0813/034552.274558:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[31923:31923:0813/034552.274672:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[       OK ] http://www.amazon.com (16447 ms)
+[ RUN      ] http://www.yahoo.com/
+(WARNING) 2019-08-13 03:45:52,398 shared_page_state.WillRunStory:228  WPR archive missing: /home/sc/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:45225/devtools/browser/b599a34f-ce80-43cb-91b1-f9da35785522
+[32071:32071:0813/034557.261405:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[32071:32071:0813/034557.958321:INFO:CONSOLE(3)] "CMP: Received error response retrieving GDPR consent from GUCE", source: https://s.yimg.com/aaq/cmp/version/2.18.0/cmp.js (3)
+[32071:32071:0813/034559.631864:INFO:CONSOLE(3)] "DARLA notice: 450", source: https://s.yimg.com/rq/darla/3-15-0/js/g-r-min.js (3)
+[32071:32071:0813/034600.621840:INFO:CONSOLE(21)] "darla csc writer, potential invalid html content", source: https://s.yimg.com/rq/darla/3-15-0/html/r-csc.html (21)
+[32071:32071:0813/034600.825057:INFO:CONSOLE(14)] "yui: NOT loaded: highlander-vertical-video", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[32071:32071:0813/034600.825658:INFO:CONSOLE(14)] "yui: NOT loaded: highlander-client-templates-viewer-controls-atomic", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[32071:32071:0813/034600.975825:INFO:CONSOLE(14)] "yui: NOT loaded: highlander-vertical-video", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[32071:32071:0813/034600.976596:INFO:CONSOLE(14)] "yui: NOT loaded: highlander-vertical-video", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[32071:32071:0813/034600.980840:INFO:CONSOLE(14)] "yui: NOT loaded: highlander-client-templates-viewer-controls-atomic", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[32071:32071:0813/034600.981747:INFO:CONSOLE(14)] "yui: NOT loaded: highlander-client-templates-viewer-controls-atomic", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[32071:32071:0813/034600.982442:INFO:CONSOLE(14)] "yui: NOT loaded: highlander-vertical-video", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[32071:32071:0813/034601.238690:INFO:CONSOLE(3)] "8CBB0850D63C0E4FC7D9E85A9A17FC8C: 0.03515625ms", source:  (3)
+[32071:32071:0813/034601.680016:INFO:CONSOLE(14)] "yui: NOT loaded: videoplayer", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[32071:32071:0813/034601.680993:INFO:CONSOLE(14)] "yui: NOT loaded: td-applet-storyswarm-atomic-templates-list.tumblr", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[32071:32071:0813/034601.836910:INFO:CONSOLE(14)] "yui: NOT loaded: videoplayer", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[32071:32071:0813/034601.842098:INFO:CONSOLE(14)] "yui: NOT loaded: videoplayer", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[32071:32071:0813/034601.849950:INFO:CONSOLE(14)] "yui: NOT loaded: td-applet-storyswarm-atomic-templates-list.tumblr", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[32071:32071:0813/034603.337254:INFO:CONSOLE(14)] "yui: Found: videoplayer (was reported as missing earlier)", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[32071:32071:0813/034603.642089:INFO:CONSOLE(31)] "The provided value 'undefined' is not a valid enum value of type XMLHttpRequestResponseType.", source: https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js (31)
+[32071:32081:0813/034603.822958:WARNING:extension_protocols.cc(472)] Failed to get directory for extension invalid
+[32071:32081:0813/034603.823020:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[32071:32071:0813/034604.114186:INFO:CONSOLE(1)] "Error: Stack Trace
+    at n.tb (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:6:2659)
+    at n.publish (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:1:3180)
+    at n.hf (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:5:21002)
+    at n.ze (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:5:18432)
+    at n.publish (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:1:3180)
+    at r (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:8:1394)
+    at https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:8:1318
+    at Array.forEach (<anonymous>)
+    at o.notifyFetchFinished (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:8:1298)
+    at n.Oa (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:2:2667)", source: https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js (1)
+[32071:32081:0813/034604.235924:WARNING:extension_protocols.cc(472)] Failed to get directory for extension invalid
+[32071:32081:0813/034604.235996:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[32071:32071:0813/034604.323810:INFO:CONSOLE(14)] "yui: NOT loaded: td-applet-storyswarm-atomic-templates-list.tumblr", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[32071:32071:0813/034604.564119:INFO:CONSOLE(31)] "The provided value 'undefined' is not a valid enum value of type XMLHttpRequestResponseType.", source: https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js (31)
+[32071:32071:0813/034604.818702:INFO:CONSOLE(1)] "Error: Stack Trace
+    at n.tb (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:6:2659)
+    at n.publish (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:1:3180)
+    at n.hf (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:5:21002)
+    at n.ze (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:5:18432)
+    at n.publish (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:1:3180)
+    at r (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:8:1394)
+    at https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:8:1318
+    at Array.forEach (<anonymous>)
+    at o.notifyFetchFinished (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:8:1298)
+    at n.Oa (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:2:2667)", source: https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js (1)
+(WARNING) 2019-08-13 03:46:06,983 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-08-13 03:46:09,490 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 2.507 seconds
+[32071:32071:0813/034610.201014:ERROR:frame_sink_provider_impl.cc(37)] No RenderWidgetHost exists with id 1 in process 3
+[32071:32081:0813/034610.357008:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[32071:32200:0813/034610.361341:WARNING:internal_linux.cc(64)] Failed to read /proc/32101/stat
+[32071:32071:0813/034610.508980:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[32071:32071:0813/034610.509078:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[       OK ] http://www.yahoo.com/ (18226 ms)
+[ RUN      ] http://www.bing.com/
+(WARNING) 2019-08-13 03:46:10,624 shared_page_state.WillRunStory:228  WPR archive missing: /home/sc/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:46261/devtools/browser/43319556-5712-4937-bb65-19721800fc93
+[32201:32224:0813/034612.719417:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[32201:32201:0813/034613.730082:INFO:CONSOLE(3)] "6266E1BA5F8378E9BD819337C1C2E807: 0.02880859375ms", source:  (3)
+[32201:32201:0813/034614.194131:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://www.bing.com/rb/14/cj,nj/83a49848/f2056989.js?bu=DikuX293e2tjZ7MBtwEupwEu (2)
+(WARNING) 2019-08-13 03:46:17,422 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-08-13 03:46:18,769 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 1.346 seconds
+[32201:32211:0813/034619.183050:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[32201:32315:0813/034619.188450:WARNING:internal_linux.cc(64)] Failed to read /proc/32231/stat
+[32201:32201:0813/034619.323238:WARNING:url_request_context_getter.cc(43)] URLRequestContextGetter leaking due to no owning thread.
+[32201:32201:0813/034619.330323:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[32201:32201:0813/034619.330421:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[       OK ] http://www.bing.com/ (8771 ms)
+[ RUN      ] http://www.ask.com/
+(WARNING) 2019-08-13 03:46:19,395 shared_page_state.WillRunStory:228  WPR archive missing: /home/sc/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:38103/devtools/browser/c9709e30-3e6f-4b3c-a0de-37af2c4f8e49
+[32316:32338:0813/034621.435010:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[32316:32316:0813/034623.053280:INFO:CONSOLE(3)] "4620A2936A3EFE86B8968E87394C1B1E: 0.030029296875ms", source:  (3)
+(WARNING) 2019-08-13 03:46:26,645 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-08-13 03:46:28,216 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 1.570 seconds
+[32316:32326:0813/034628.625687:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[32316:32421:0813/034628.630634:WARNING:internal_linux.cc(64)] Failed to read /proc/32346/stat
+[32316:32316:0813/034628.791461:WARNING:url_request_context_getter.cc(43)] URLRequestContextGetter leaking due to no owning thread.
+[32316:32316:0813/034628.796902:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[32316:32316:0813/034628.796999:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[       OK ] http://www.ask.com/ (9546 ms)
+[ RUN      ] https://www.google.com/#hl=en&q=barack+obama
+(WARNING) 2019-08-13 03:46:28,941 shared_page_state.WillRunStory:228  WPR archive missing: /home/sc/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:35153/devtools/browser/9cd9bdc1-570e-4b4e-aacc-0dadd6038326
+[32423:32444:0813/034631.003661:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[32423:32423:0813/034634.337605:INFO:CONSOLE(3)] "79AF3C91C5504630CC39CCDE7DA861D8: 0.031982421875ms", source:  (3)
+(WARNING) 2019-08-13 03:46:38,696 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-08-13 03:46:40,688 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 1.992 seconds
+[32423:32433:0813/034641.071850:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[32423:32524:0813/034641.077134:WARNING:internal_linux.cc(64)] Failed to read /proc/32453/stat
+[32423:32423:0813/034641.204142:WARNING:url_request_context_getter.cc(43)] URLRequestContextGetter leaking due to no owning thread.
+[32423:32423:0813/034641.209641:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[32423:32423:0813/034641.209734:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[       OK ] https://www.google.com/#hl=en&q=barack+obama (12373 ms)
+[ RUN      ] http://www.youtube.com
+(WARNING) 2019-08-13 03:46:41,314 shared_page_state.WillRunStory:228  WPR archive missing: /home/sc/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:35089/devtools/browser/f79607f9-d5e4-4711-9efd-dd10941f10b6
+[32525:32548:0813/034643.375982:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[32525:32525:0813/034644.601641:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[32525:32535:0813/034647.426655:WARNING:extension_protocols.cc(472)] Failed to get directory for extension invalid
+[32525:32535:0813/034647.426706:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[32525:32525:0813/034647.613670:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fsignin_passive%26hl%3Den%26feature%3Dpassive%26app%3Ddesktop%26action_handle_signin%3Dtrue&uilel=3&service=youtube' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[1:1:0813/034647.645004:ERROR:resource_dispatcher.cc(373)] unknown request
+[32525:32535:0813/034648.957811:WARNING:extension_protocols.cc(472)] Failed to get directory for extension invalid
+[32525:32535:0813/034648.957876:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[32525:32525:0813/034650.334604:INFO:CONSOLE(147)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflC6bXIS/www-widgetapi.js (147)
+[32525:32525:0813/034651.837692:INFO:CONSOLE(1592)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer_sel_auto_svg_home_v2-vflesllNa/desktop_polymer_sel_auto_svg_home_v2.js (1592)
+[32525:32525:0813/034652.017226:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vfl3EpVxj/network.js (15)
+[32525:32525:0813/034653.508039:INFO:CONSOLE(3)] "F801E89344389A873D99C15620246B77: 0.02880859375ms", source:  (3)
+[32525:32525:0813/034653.520649:INFO:CONSOLE(3)] "0C587D82F71549E81D814E7913EFFC8C: 0.028076171875ms", source:  (3)
+[32525:32525:0813/034657.486911:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+(WARNING) 2019-08-13 03:46:59,434 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-08-13 03:47:02,724 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 3.290 seconds
+[32525:32525:0813/034703.638748:ERROR:node_channel.cc(904)] Dropping message on closed channel.
+[32525:32525:0813/034703.911964:FATAL:frame_sink_manager_impl.cc(58)] Check failed: sink_map_.empty(). 
+#0 0x7f55787c055d base::debug::StackTrace::StackTrace()
+#1 0x7f55787beb1c base::debug::StackTrace::StackTrace()
+#2 0x7f557884592a logging::LogMessage::~LogMessage()
+#3 0x7f5559587978 viz::FrameSinkManagerImpl::~FrameSinkManagerImpl()
+#4 0x7f5559587d39 viz::FrameSinkManagerImpl::~FrameSinkManagerImpl()
+#5 0x7f5572526c96 content::BrowserMainLoop::ShutdownThreadsAndCleanUp()
+#6 0x7f557252efed content::BrowserMainRunnerImpl::Shutdown()
+#7 0x7f557251981f content::BrowserMain()
+#8 0x7f55741ee477 content::RunNamedProcessTypeMain()
+#9 0x7f55741f0b54 content::ContentMainRunnerImpl::Run()
+#10 0x7f55741e7025 content::ContentServiceManagerMainDelegate::RunEmbedderProcess()
+#11 0x7f5578ff4dfc service_manager::Main()
+#12 0x7f55741ed225 content::ContentMain()
+#13 0x561fcbbae240 ChromeMain
+#14 0x561fcbbae152 main
+#15 0x7f5559d5a830 __libc_start_main
+#16 0x561fcbbae02a _start
+
+[       OK ] http://www.youtube.com (22902 ms)
+[ RUN      ] Facebook
+(WARNING) 2019-08-13 03:47:04,215 shared_page_state.WillRunStory:228  WPR archive missing: /home/sc/chromium/init/src/tools/perf/page_sets/data/top_10_001.wprgo
+
+DevTools listening on ws://127.0.0.1:46427/devtools/browser/12ad8d22-260d-4f71-8e5b-2468f0088c27
+[32651:32673:0813/034706.207274:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[32651:32651:0813/034709.794157:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #email: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[32651:32651:0813/034709.795346:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #lgnjs: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[32651:32651:0813/034709.796481:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #locale: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[32651:32651:0813/034709.797632:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #login_form: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[32651:32651:0813/034709.798793:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #pass: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[32651:32651:0813/034709.800391:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #prefill_contact_point: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[32651:32651:0813/034709.801603:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #prefill_source: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[32651:32651:0813/034709.802843:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #prefill_type: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[32651:32651:0813/034709.804036:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/barackobama (0)
+[32651:32651:0813/034709.805202:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/barackobama (0)
+[32651:32651:0813/034712.098000:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[32651:32651:0813/034712.099001:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy and paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[32651:32651:0813/034712.099635:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[32651:32651:0813/034712.100413:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[32651:32651:0813/034714.011303:INFO:CONSOLE(3)] "02FB8D66697661997BC4FAA6FC56670E: 0.032958984375ms", source:  (3)
+(WARNING) 2019-08-13 03:47:19,399 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-08-13 03:47:22,250 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 2.850 seconds
+[32651:32661:0813/034723.101554:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[32651:32754:0813/034723.104724:WARNING:internal_linux.cc(64)] Failed to read /proc/32681/stat
+[32651:32651:0813/034723.230405:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[32651:32651:0813/034723.230511:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[       OK ] Facebook (19169 ms)
+[ RUN      ] Wikipedia
+(WARNING) 2019-08-13 03:47:23,385 shared_page_state.WillRunStory:228  WPR archive missing: /home/sc/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:37989/devtools/browser/ebb8210f-c957-4ee2-8b94-d38edfeb825e
+[32755:309:0813/034725.602329:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[32755:32755:0813/034734.913087:INFO:CONSOLE(145)] "JQMIGRATE: Migrate is installed with logging active, version 3.0.1", source: https://en.wikipedia.org/w/load.php?lang=en&modules=Spinner%2Cjquery%2Coojs%2Coojs-router%2Csite%7Cext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%2Clib%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve%7Cjquery.accessKeyLabel%2CcheckboxShiftClick%2Cclient%2Ccookie%2CembedPlayer%2CgetAttrs%2ChighlightText%2CloadingSpinner%2CmakeCollapsible%2CmwEmbedUtil%2Csuggestions%2CtabIndex%2CtextSelection%2Cthrottle-debounce%2CtriggerQueueCallback%7Cjquery.uls.data%7Cmediawiki.RegExp%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cnotify%2CsearchSuggest%2Cstorage%2Ctemplate%2Ctoc%2Cuser%2Cutil%2Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.template.regexp%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.EmbedPlayer.loader%7Cmw.MediaWikiPlayer.loader%7Cmw.MwEmbedSupport%2CPopUpMediaTransform%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform.styles%7Cmw.TMHGalleryHook.js%7Cmw.TimedText.loader%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=1v2jusv (145)
+[32755:32755:0813/034734.920542:INFO:CONSOLE(366)] "This page is using the deprecated ResourceLoader module "jquery.throttle-debounce".
+Please use OO.ui.throttle/debounce instead. See https://phabricator.wikimedia.org/T213426", source: https://en.wikipedia.org/w/load.php?lang=en&modules=Spinner%2Cjquery%2Coojs%2Coojs-router%2Csite%7Cext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%2Clib%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve%7Cjquery.accessKeyLabel%2CcheckboxShiftClick%2Cclient%2Ccookie%2CembedPlayer%2CgetAttrs%2ChighlightText%2CloadingSpinner%2CmakeCollapsible%2CmwEmbedUtil%2Csuggestions%2CtabIndex%2CtextSelection%2Cthrottle-debounce%2CtriggerQueueCallback%7Cjquery.uls.data%7Cmediawiki.RegExp%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cnotify%2CsearchSuggest%2Cstorage%2Ctemplate%2Ctoc%2Cuser%2Cutil%2Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.template.regexp%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.EmbedPlayer.loader%7Cmw.MediaWikiPlayer.loader%7Cmw.MwEmbedSupport%2CPopUpMediaTransform%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform.styles%7Cmw.TMHGalleryHook.js%7Cmw.TimedText.loader%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=1v2jusv (366)
+[32755:32755:0813/034738.464867:INFO:CONSOLE(3)] "CC3953E101DE8A3E90C2592A3EB6867D: 0.031005859375ms", source:  (3)
+(WARNING) 2019-08-13 03:47:43,389 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-08-13 03:47:46,373 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 2.984 seconds
+[32755:32765:0813/034746.710575:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[32755:396:0813/034746.715886:WARNING:internal_linux.cc(64)] Failed to read /proc/317/stat
+[32755:32755:0813/034746.860555:WARNING:url_request_context_getter.cc(43)] URLRequestContextGetter leaking due to no owning thread.
+[32755:32755:0813/034746.865935:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[32755:32755:0813/034746.866030:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[       OK ] Wikipedia (23617 ms)
+[ RUN      ] http://www.amazon.com
+(WARNING) 2019-08-13 03:47:47,003 shared_page_state.WillRunStory:228  WPR archive missing: /home/sc/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:36303/devtools/browser/c08557b6-dcea-444a-b82d-5274c6232ace
+[397:397:0813/034753.391137:INFO:CONSOLE(3)] "857BEC9F0F70F639179AD3E48A4F4FC2: 0.039794921875ms", source:  (3)
+(WARNING) 2019-08-13 03:47:58,815 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-08-13 03:48:01,078 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 2.263 seconds
+[397:397:0813/034801.868966:ERROR:frame_sink_provider_impl.cc(37)] No RenderWidgetHost exists with id 1 in process 3
+[397:408:0813/034802.019166:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[397:501:0813/034802.023650:WARNING:internal_linux.cc(64)] Failed to read /proc/428/stat
+[397:397:0813/034802.173628:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[397:397:0813/034802.173740:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[       OK ] http://www.amazon.com (15320 ms)
+[ RUN      ] http://www.yahoo.com/
+(WARNING) 2019-08-13 03:48:02,323 shared_page_state.WillRunStory:228  WPR archive missing: /home/sc/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:43641/devtools/browser/e5d5711f-7038-4f68-9738-b67f689ef2bf
+[502:502:0813/034807.321906:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[502:502:0813/034807.669385:INFO:CONSOLE(3)] "CMP: Received error response retrieving GDPR consent from GUCE", source: https://s.yimg.com/aaq/cmp/version/2.18.0/cmp.js (3)
+[502:502:0813/034809.691263:INFO:CONSOLE(3)] "DARLA notice: 450", source: https://s.yimg.com/rq/darla/3-15-0/js/g-r-min.js (3)
+[502:502:0813/034810.617694:INFO:CONSOLE(21)] "darla csc writer, potential invalid html content", source: https://s.yimg.com/rq/darla/3-15-0/html/r-csc.html (21)
+[502:502:0813/034810.833974:INFO:CONSOLE(3)] "1A1123C7AEFC15104052B367E17ACA37: 0.03369140625ms", source:  (3)
+[502:502:0813/034811.031558:INFO:CONSOLE(14)] "yui: NOT loaded: highlander-vertical-video", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[502:502:0813/034811.032178:INFO:CONSOLE(14)] "yui: NOT loaded: highlander-client-templates-viewer-controls-atomic", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[502:502:0813/034811.034558:INFO:CONSOLE(14)] "yui: NOT loaded: highlander-vertical-video", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[502:502:0813/034811.035159:INFO:CONSOLE(14)] "yui: NOT loaded: highlander-vertical-video", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[502:502:0813/034811.035748:INFO:CONSOLE(14)] "yui: NOT loaded: highlander-client-templates-viewer-controls-atomic", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[502:502:0813/034811.036325:INFO:CONSOLE(14)] "yui: NOT loaded: highlander-client-templates-viewer-controls-atomic", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[502:502:0813/034811.036888:INFO:CONSOLE(14)] "yui: NOT loaded: highlander-vertical-video", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[502:502:0813/034811.766207:INFO:CONSOLE(14)] "yui: NOT loaded: videoplayer", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[502:502:0813/034811.766882:INFO:CONSOLE(14)] "yui: NOT loaded: td-applet-storyswarm-atomic-templates-list.tumblr", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[502:502:0813/034811.922702:INFO:CONSOLE(14)] "yui: NOT loaded: videoplayer", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[502:502:0813/034811.928354:INFO:CONSOLE(14)] "yui: NOT loaded: videoplayer", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[502:502:0813/034811.936040:INFO:CONSOLE(14)] "yui: NOT loaded: td-applet-storyswarm-atomic-templates-list.tumblr", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[502:502:0813/034813.642826:INFO:CONSOLE(14)] "yui: Found: videoplayer (was reported as missing earlier)", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[502:502:0813/034813.916296:INFO:CONSOLE(31)] "The provided value 'undefined' is not a valid enum value of type XMLHttpRequestResponseType.", source: https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js (31)
+[502:512:0813/034814.096898:WARNING:extension_protocols.cc(472)] Failed to get directory for extension invalid
+[502:512:0813/034814.096993:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[502:502:0813/034814.249060:INFO:CONSOLE(1)] "Error: Stack Trace
+    at n.tb (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:6:2659)
+    at n.publish (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:1:3180)
+    at n.hf (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:5:21002)
+    at n.ze (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:5:18432)
+    at n.publish (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:1:3180)
+    at r (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:8:1394)
+    at https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:8:1318
+    at Array.forEach (<anonymous>)
+    at o.notifyFetchFinished (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:8:1298)
+    at n.Oa (https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js:2:2667)", source: https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js (1)
+[502:512:0813/034814.499967:WARNING:extension_protocols.cc(472)] Failed to get directory for extension invalid
+[502:512:0813/034814.500030:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[502:502:0813/034814.563105:INFO:CONSOLE(14)] "yui: NOT loaded: td-applet-storyswarm-atomic-templates-list.tumblr", source: https://s.yimg.com/zz/combo?yui:/3.18.0/yui/yui-min.js (14)
+[502:502:0813/034814.797852:INFO:CONSOLE(31)] "The provided value 'undefined' is not a valid enum value of type XMLHttpRequestResponseType.", source: https://s.yimg.com/rx/builds/7.86.842.1557330173/en-sg/videoplayer-nextgen-desktop-min.js (31)
+[502:526:0813/034815.287897:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+(WARNING) 2019-08-13 03:48:16,274 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-08-13 03:48:18,519 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 2.244 seconds
+[502:502:0813/034819.266544:ERROR:frame_sink_provider_impl.cc(37)] No RenderWidgetHost exists with id 1 in process 3
+[502:502:0813/034819.387290:FATAL:frame_sink_manager_impl.cc(58)] Check failed: sink_map_.empty(). 
+#0 0x7f51aa20955d base::debug::StackTrace::StackTrace()
+#1 0x7f51aa207b1c base::debug::StackTrace::StackTrace()
+#2 0x7f51aa28e92a logging::LogMessage::~LogMessage()
+#3 0x7f518afd0978 viz::FrameSinkManagerImpl::~FrameSinkManagerImpl()
+#4 0x7f518afd0d39 viz::FrameSinkManagerImpl::~FrameSinkManagerImpl()
+#5 0x7f51a3f6fc96 content::BrowserMainLoop::ShutdownThreadsAndCleanUp()
+#6 0x7f51a3f77fed content::BrowserMainRunnerImpl::Shutdown()
+#7 0x7f51a3f6281f content::BrowserMain()
+#8 0x7f51a5c37477 content::RunNamedProcessTypeMain()
+#9 0x7f51a5c39b54 content::ContentMainRunnerImpl::Run()
+#10 0x7f51a5c30025 content::ContentServiceManagerMainDelegate::RunEmbedderProcess()
+#11 0x7f51aaa3ddfc service_manager::Main()
+#12 0x7f51a5c36225 content::ContentMain()
+#13 0x558b32a74240 ChromeMain
+#14 0x558b32a74152 main
+#15 0x7f518b7a3830 __libc_start_main
+#16 0x558b32a7402a _start
+
+[       OK ] http://www.yahoo.com/ (17439 ms)
+[ RUN      ] http://www.bing.com/
+(WARNING) 2019-08-13 03:48:19,762 shared_page_state.WillRunStory:228  WPR archive missing: /home/sc/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:33487/devtools/browser/f024e375-d494-411b-86c8-a670712255e4
+[615:615:0813/034822.738361:INFO:CONSOLE(3)] "91C84AEE5108D9A4C17417F6AB67C523: 0.04296875ms", source:  (3)
+[615:615:0813/034823.226523:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://www.bing.com/rb/14/cj,nj/83a49848/f2056989.js?bu=DikuX293e2tjZ7MBtwEupwEu (2)
+(WARNING) 2019-08-13 03:48:26,425 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-08-13 03:48:27,847 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 1.422 seconds
+[615:625:0813/034828.244965:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[615:726:0813/034828.249906:WARNING:internal_linux.cc(64)] Failed to read /proc/645/stat
+[615:615:0813/034828.390920:WARNING:url_request_context_getter.cc(43)] URLRequestContextGetter leaking due to no owning thread.
+[615:615:0813/034828.397748:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[615:615:0813/034828.397852:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[       OK ] http://www.bing.com/ (8712 ms)
+[ RUN      ] http://www.ask.com/
+(WARNING) 2019-08-13 03:48:28,474 shared_page_state.WillRunStory:228  WPR archive missing: /home/sc/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:44019/devtools/browser/670f666a-7a5a-4123-a0a1-d8845a560fbd
+[727:727:0813/034831.559780:INFO:CONSOLE(3)] "FA72DCAFFC2376E84849F4DC1C869560: 0.030029296875ms", source:  (3)
+(WARNING) 2019-08-13 03:48:35,099 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-08-13 03:48:36,750 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 1.651 seconds
+[727:737:0813/034837.157698:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[727:845:0813/034837.162748:WARNING:internal_linux.cc(64)] Failed to read /proc/759/stat
+[727:727:0813/034837.318849:WARNING:url_request_context_getter.cc(43)] URLRequestContextGetter leaking due to no owning thread.
+[727:727:0813/034837.325626:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[727:727:0813/034837.325719:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[       OK ] http://www.ask.com/ (9002 ms)
+[  PASSED  ] 16 tests.
+
+View result at file:///home/sc/chromium/init/src/tools/perf/results.html

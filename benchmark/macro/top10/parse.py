@@ -8,6 +8,7 @@ absolutePath = os.path.abspath(__file__)
 benchmarkDir = os.path.dirname(absolutePath) + "/../result/telemetry/top_10/"
 baselineDir = benchmarkDir + "init/"
 switcherDir = benchmarkDir + "tick/"
+switcherNoFrameChainDir = benchmarkDir + "tick-no-update-frame-chain/"
 resultFileName = "results.json"
 print(benchmarkDir)
 
@@ -174,6 +175,23 @@ def printResultForPlot():
                 for k in switcherResults[i][metrics].keys():
                     if k.find(domain) > 0:
                         print("\t%s" % switcherResults[i][metrics][k], end='')
+                        found_domain = True
+                        break
+                if not found_domain:
+                    print("\tUnknown", end='')
+            print()
+
+    # case TICK-without-updating-frame-chain
+    switcherNoFrameChainResults, round = parse(switcherNoFrameChainDir)
+    for metrics in [MetricsFP, MetricsFCP, MetricsFMP]:
+        print("TIM-w/o-frame-chain-%s" % MetricsAlias[metrics], end='')
+        for i in range(1, round + 1):
+            print("\t%d" % (i), end='')
+            for domain in domains:
+                found_domain = False
+                for k in switcherNoFrameChainResults[i][metrics].keys():
+                    if k.find(domain) > 0:
+                        print("\t%s" % switcherNoFrameChainResults[i][metrics][k], end='')
                         found_domain = True
                         break
                 if not found_domain:

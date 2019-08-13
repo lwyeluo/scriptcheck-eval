@@ -74,8 +74,8 @@ if __name__ == '__main__':
     '''
     parser.add_argument('--micro-benchmark', type=str, choices=['run', 'parse'],
                         help="Run | Parse the micro-benchmark to record the CPU cycles")
-    parser.add_argument('--macro-benchmark', type=str, choices=['parse'],
-                        help="Parse the macro-benchmark to record FCP and FMP usages for top 10 sites in telemetry")
+    parser.add_argument('--macro-benchmark', type=str, choices=['parse-top10', 'parse-kraken'],
+                        help="Parse the macro-benchmark results")
 
 
     args = parser.parse_args()
@@ -222,9 +222,14 @@ if __name__ == '__main__':
             run()
 
     elif args.macro_benchmark:
-        if args.macro_benchmark == "parse":
-            # --macro-benchmark parse
+        if args.macro_benchmark == "parse-top10":
+            # --macro-benchmark parse-top10
             from benchmark.macro.top10.parse import run
+
+            run()
+        elif args.macro_benchmark == "parse-kraken":
+            # --macro-benchmark parse-kraken
+            from benchmark.macro.kraken.parse import run
 
             run()
 

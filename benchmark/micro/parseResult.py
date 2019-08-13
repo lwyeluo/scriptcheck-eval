@@ -22,8 +22,7 @@ class ParseLog(object):
         # features
         self._features_record_task = '>>> [RDTSC] CPU cycles for Switcher::doRecord is: '
         self._features_switch_task = '>>> [RDTSC] CPU cycles for Switcher::doSwitch is: '
-        self._features_call_record = ">>> [RDTSC] [CPU cycles for BindingSecurity::CallRecord, " \
-                                     "length of frame chain, time] = "
+        self._features_call_record = ">>> [RDTSC] [CPU cycles for BindingSecurity::CallRecord, time] = "
         self._features_tim_sop_check = ">>> [RDTSC] [frame chain's length, CPU cycles for TIM's SOP CHECK] = "
         self._features_original_sop_check = ">>> [RDTSC] CPU cycles for original CHECK is: "
 
@@ -103,7 +102,7 @@ class ParseLog(object):
                     _, _, remain = line.partition(self._features_call_record)
                     info = remain.strip(" ").strip("s").split(", ")
                     data = {_key_for_cpu_cycle: float(info[0]),
-                            _key_for_time_usage: float(info[2]),
+                            _key_for_time_usage: float(info[1]),
                             # _key_for_frame_chain_len: 99 if float(info[1]) == 100 else float(info[1])
                             }
                     self.call_records.append(data)
