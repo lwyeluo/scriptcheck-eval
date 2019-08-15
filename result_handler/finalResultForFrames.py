@@ -97,6 +97,20 @@ class FinalResultForFrames(object):
 			all_domain_urls.pop(site)
 		return all_domain_urls
 
+	def getFrameStructure(self):
+		frames = {}
+		if self.frames_key in self.data.keys():
+			for frame in self.data[self.frames_key]:
+				k, v = "", ""
+				try:
+					k = frame['process_id'] + '_' + frame['id']
+					v = frame[self.frames_origin_key]
+				except Exception as e:
+					print(e)
+					continue
+				frames[k] = v
+		return frames
+
 class FinalResultListForFrames(object):
 
 	'''

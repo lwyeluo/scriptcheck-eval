@@ -23,3 +23,4 @@ __pycache__/
 .idea/
 *.pyc
 url_list/topsitesAlexa/*.tar.gz
+tmp/*.obj

@@ -15,6 +15,8 @@ if __name__ == '__main__':
     parser.add_argument('--reverse', action='store_true', help="Reversely run sites.")
     parser.add_argument('--machine-id', type=int, metavar="MACHINE_INDEX",
                         help='Run the top sites in machine MACHINE_INDEX')
+    parser.add_argument('--save', action='store_true', help="Save the temporary objects.")
+    parser.add_argument('--load', action='store_true', help="Load the temporary objects.")
 
     '''
 		Handle URL List
@@ -144,7 +146,12 @@ if __name__ == '__main__':
         if args.parse_log in ['Alexa', 'China']:
             from result_handler import parseResult
 
-            parseResult.run(args.parse_log)
+            if args.save:
+                parseResult.runAndSaveObject(args.parse_log)
+            elif args.load:
+                parseResult.loadAndParseResult()
+            else:
+                parseResult.run(args.parse_log)
         else:
             raise Exception("Use --parse-log China|Alexa")
 

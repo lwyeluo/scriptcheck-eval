@@ -10,6 +10,9 @@ def isSitePlusTLD(domain):
 	site = psl.get_public_suffix(domain)
 	return site == domain
 
+def getSite(domain):
+	return psl.get_public_suffix(domain)
+
 
 def test():
 	domains = [

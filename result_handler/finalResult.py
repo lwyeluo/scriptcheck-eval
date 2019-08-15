@@ -77,7 +77,6 @@ class FinalResultList(object):
 			ret.printReachable()
 
 	def printDistributionTable(self):
-		self._log.info("\n\n")
 		self._log.info("#######################################")
 		self._log.info("# TABLE for frame chain distribution  #")
 		self._log.info("#######################################")

@@ -8,6 +8,8 @@ _random_sample = string.ascii_letters + string.digits
 _dir = os.path.abspath(os.path.dirname(__file__))
 _log_filename = os.path.join(os.path.dirname(_dir), "result-run-script.log")
 
+_tmp_dir = os.path.join(os.path.dirname(_dir), "tmp")
+
 _run_script_dir = os.path.join(os.path.dirname(_dir), "run_script")
 
 _url_list_dir = os.path.join(os.path.dirname(_dir), 'url_list')

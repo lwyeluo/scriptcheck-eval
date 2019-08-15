@@ -19,6 +19,13 @@ def matchRawDomainFromURL(url):
 		return m.group(2)
 	return None
 
+def getSiteFromURL(url):
+	domain = matchRawDomainFromURL(url)
+	if domain is None:
+		return None
+	from utils.tld import getSite
+	return getSite(domain)
+
 '''
 	Parse the principal: 5:3_https://blog.csdn.net/
 		The format is [processId:routingId_origin]
