@@ -6,7 +6,24 @@ import re
 # represent for a series of frame chain
 class FrameChain(object):
     def __init__(self):
-        self.frames = []  # all frames in that frame chain
+        # all frames in that frame chain
+        #   the format is {'frames':
+        #                   [{
+        #                       'url': url,
+        # 			            'domain': domain,
+        # 			            'id': frame_id,
+        # 			            'parent_origin': parent_origin,
+        # 			            'parent_domain': parent_domain,
+        # 			            'parent_id': parent_frame_id,
+        #                       'origin': origin,
+        #                      # optional keys
+        #                       'js_stack': js_stack,
+        #                       'triggered_by_event': event,
+        #                       'set_domain': set_domain,
+        #                       'is_domain_vuln': is_domain_vuln,
+        # 			         }],
+        # 			      'chain': chain}
+        self.frames = []
         self.frame_ids = []  # all frame ids in that frame chain
         self.chain = ""  # the final frame chain
 
