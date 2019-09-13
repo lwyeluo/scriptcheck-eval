@@ -137,7 +137,8 @@ class ParseLog(object):
 		event = info[1].strip(' ')
 		if self.is_debug:
 			print("line EVENT [%s] %s" % (event, line))
-		if event in ["load", "readystatechange", "unload", "loadend", "visibilitychange"]:
+		if event in ["load", "readystatechange", "unload", "loadend", "visibilitychange", "pageshow", "resize",
+					 "transitionend"]:
 			return event
 		return None
 
@@ -291,8 +292,8 @@ class ParseLog(object):
 		parent_origin0, parent_origin1 = frame0['parent_origin'], frame1['parent_origin']
 		parent_domain0, parent_domain1 = frame0['parent_domain'], frame1['parent_domain']
 
-		print(parent_origin0, ", ", parent_origin1)
-		print(parent_domain0, ", ", parent_domain1)
+		# print(parent_origin0, ", ", parent_origin1)
+		# print(parent_domain0, ", ", parent_domain1)
 		# get the main frame's domain
 		main_domain = self.domain
 		if parent_origin0 == '':

@@ -1,0 +1,579 @@
+[0811/063626.607931:INFO:switcher_clone.cc(818)] ### setup!!!
+[0811/063626.608216:INFO:switcher_clone.cc(787)] backtrace rip is 7f408fb89891
+[0811/063627.221010:INFO:switcher_clone.cc(818)] ### setup!!!
+[0811/063627.221278:INFO:switcher_clone.cc(787)] backtrace rip is 7fcc2bb0a891
+[1:1:0811/063627.225465:INFO:content_main_runner.cc(320)] >>> [Setup] RunZyote
+[1:1:0811/063627.225674:INFO:zygote_main_linux.cc(351)] >>> [Setup] tmpfile success. fd is 315
+[3:3:0811/063627.229354:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 3
+[0811/063628.121299:INFO:switcher_clone.cc(818)] ### setup!!!
+[0811/063628.121582:INFO:switcher_clone.cc(787)] backtrace rip is 7ffb4445c891
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[129118:129118:0811/063628.260534:INFO:sandbox_bpf.cc(155)] >>> [sandbox] prepare to start sandbox [pid]=129118
+[129127:129127:0811/063628.269765:INFO:sandbox_bpf.cc(155)] >>> [sandbox] prepare to start sandbox [pid]=129127
+[129084:129084:0811/063628.289703:INFO:extension_system_impl.cc(379)] >>> [browser][EXT] ExtensionSystemImpl::InitForRegularProfile
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/77d9d8d7-442b-4d3c-8bcc-6f4841ce9afd
+[129084:129084:0811/063628.573093:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 4
+[129084:129114:0811/063628.573581:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 4
+[3:3:0811/063628.573741:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0811/063628.573919:INFO:zygote_linux.cc(693)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0811/063628.574376:INFO:zygote_linux.cc(626)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0811/063628.574493:INFO:zygote_linux.cc(633)] 		cid is 4
+[1:1:0811/063628.578658:INFO:switcher_impl.cc(197)] >>> [INFO] key id[0] is 0x32b2bbfb, 1
+[1:1:0811/063628.578895:INFO:switcher_impl.cc(197)] >>> [INFO] key id[1] is 0x2afcbe8c, 0
+[1:1:0811/063628.578993:INFO:switcher_impl.cc(197)] >>> [INFO] key id[2] is 0x8330217, 3
+[1:1:0811/063628.579094:INFO:switcher_impl.cc(197)] >>> [INFO] key id[3] is 0x26163340, 2
+[1:1:0811/063628.579255:INFO:switcher_impl.cc(207)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = ffffff8cffffffbefffffffc2a fffffffbffffffbbffffffb232 40331626 17023308 , 10104, 4
+[1:1:0811/063628.580011:INFO:switcher_wrapper.cc(54)] ### [Switcher][signal] --install signal
+[129084:129114:0811/063628.580227:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PINGŒ¾ü*û»²2@3&3<wÖ
+[129084:129114:0811/063628.580267:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is Œ¾ü*û»²2@3&3ØI<wÖ
+[1:1:0811/063628.580217:INFO:switcher_impl.cc(275)] >>> [INIT] try to add handler, addr, type, num = 0x7fcc29d450a0, 3
+[1:1:0811/063628.580454:INFO:switcher_impl.cc(275)] >>> [INIT] try to add handler, addr, type, num = 0x7fcc29ed0080, 2
+[129084:129114:0811/063628.580505:INFO:switcher_host_impl.cc(16)] >>> [INIT] create a SwitcherSiteQueue
+[129084:129114:0811/063628.580540:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 129137, 4, 8cbefc2a fbbbb232 40331626 17023308 
+[1:1:0811/063628.580549:INFO:switcher_impl.cc(275)] >>> [INIT] try to add handler, addr, type, num = 0x7fcc13b93d20, -2
+[1:1:0811/063628.591387:INFO:sandbox_bpf.cc(155)] >>> [sandbox] prepare to start sandbox [pid]=1
+[1:1:0811/063628.592160:INFO:syscall_parameters_restrictions.cc(259)] >>> [Seccomp] mprotect: r9 must equal 26163340
+[1:1:0811/063628.592976:INFO:baseline_policy.cc(168)] === [Seccomp] rt_sigprocmask: r9 must equal 26163340
+[1:1:0811/063628.594382:INFO:syscall_parameters_restrictions.cc(158)] === [Seccomp] clone: r9 must equal 26163340
+[1:1:0811/063628.594992:INFO:baseline_policy.cc(178)] === [Seccomp] fxattr: r9 must equal 26163340
+[1:1:0811/063628.595131:INFO:baseline_policy.cc(178)] === [Seccomp] fxattr: r9 must equal 26163340
+[1:1:0811/063628.595239:INFO:baseline_policy.cc(178)] === [Seccomp] fxattr: r9 must equal 26163340
+[1:1:0811/063628.595349:INFO:baseline_policy.cc(178)] === [Seccomp] fxattr: r9 must equal 26163340
+[1:1:0811/063628.595570:INFO:syscall_parameters_restrictions.cc(321)] === [Seccomp] tgkill: r9 must equal 26163340
+[1:1:0811/063628.595705:INFO:switcher_clone.cc(775)] clone wrapper rip is 7fcc2bb0a7ba
+[1:1:0811/063628.596257:INFO:baseline_policy.cc(145)] ### [Setup] the addr for request_key should be 7fcc2bb01def, 7fcc2bb0a77a, 7fcc2bb0c0cf
+[1:1:0811/063628.597727:INFO:syscall_parameters_restrictions.cc(259)] >>> [Seccomp] mprotect: r9 must equal 26163340
+[1:1:0811/063628.598180:INFO:baseline_policy.cc(168)] === [Seccomp] rt_sigprocmask: r9 must equal 26163340
+[1:1:0811/063628.598470:INFO:syscall_parameters_restrictions.cc(158)] === [Seccomp] clone: r9 must equal 26163340
+[1:1:0811/063628.599370:INFO:baseline_policy.cc(178)] === [Seccomp] fxattr: r9 must equal 26163340
+[1:1:0811/063628.599486:INFO:baseline_policy.cc(178)] === [Seccomp] fxattr: r9 must equal 26163340
+[1:1:0811/063628.599583:INFO:baseline_policy.cc(178)] === [Seccomp] fxattr: r9 must equal 26163340
+[1:1:0811/063628.599676:INFO:baseline_policy.cc(178)] === [Seccomp] fxattr: r9 must equal 26163340
+[1:1:0811/063628.600144:INFO:syscall_parameters_restrictions.cc(321)] === [Seccomp] tgkill: r9 must equal 26163340
+[1:1:0811/063628.600318:INFO:switcher_clone.cc(775)] clone wrapper rip is 7fcc2bb0a7ba
+[1:1:0811/063628.600392:INFO:baseline_policy.cc(145)] ### [Setup] the addr for request_key should be 7fcc2bb01def, 7fcc2bb0a77a, 7fcc2bb0c0cf
+[1:1:0811/063628.605807:INFO:sandbox_bpf.cc(236)] === [Seccomp] clear secret now
+[1:1:0811/063628.606046:INFO:sandbox_bpf.cc(274)] >>> [Setup] test the sigprocmask.
+[1:1:0811/063628.606163:INFO:sandbox_bpf.cc(278)] >>> [Setup] prepare to invoke sigprocmask(1, 0x7ffe61574c88, 0x7ffe61574c08)
+[1:1:0811/063628.612858:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0811/063628.621927:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[129084:129084:0811/063628.862106:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.865000:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.865268:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.865520:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.865755:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.865989:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.866267:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.866513:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.866745:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.866974:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.867223:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.867462:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.867705:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.867931:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.868161:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.868423:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.868661:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.868885:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.869139:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.869391:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.869623:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063628.869854:ERROR:in_progress_cache_impl.cc(188)] Cache is not initialized, cannot RetrieveEntry.
+[129084:129084:0811/063629.192544:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[129084:129084:0811/063629.192930:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[129084:129096:0811/063629.198086:INFO:interface_endpoint_client.cc(447)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 4, 1
+[129084:129096:0811/063629.198131:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 4, 1, HandleIncomingMessage, HandleIncomingMessage
+[129084:129084:0811/063629.209808:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation chrome-search://local-ntp/
+[129084:129084:0811/063629.209858:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:1_chrome-search://local-ntp/, chrome-search://local-ntp/local-ntp.html, 1
+[129084:129084:0811/063629.209918:INFO:render_frame_host_impl.cc(3718)] >>>	[site, common.url, headers] = 4:1_chrome-search://local-ntp/, HTTP/1.1 200 OK Content-Security-Policy: script-src 'strict-dynamic' 'sha256-Fl9ifwsOFaaBTg9WmeRGJRw8O0Xrn9qON++y9ixPeek=' 'sha256-F/uxTxmIB+TXvkVBPdiX36hMiHjGTtrHZWFzoRAgyoY=';object-src 'none';child-src chrome-search://most-visited/ https://*.google.com/; X-Frame-Options: DENY Cache-Control: no-cache  ,129137, 4
+[1:7:0811/063629.221665:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0811/063629.252788:INFO:render_frame_impl.cc(1477)] 	RenderFrameImpl::Initialize. 1, 0x38e5dc7a7220
+[1:1:0811/063629.257406:INFO:web_local_frame_impl.cc(1666)] 		WebLocalFrame::SetRoutingID. routing_id = 1
+[129084:129108:0811/063629.292270:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[1:1:0811/063629.559805:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 4:1_chrome-search://local-ntp/
+[129084:129084:0811/063630.672173:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:1_chrome-search://local-ntp/, chrome-search://local-ntp/, 1
+[129084:129084:0811/063630.672263:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 1, 1, chrome-search://local-ntp/, chrome-search://local-ntp
+[1:1:0811/063630.747196:INFO:platform_thread_posix.cc(131)] >>> invoke pthread_create
+[1:1:0811/063630.754448:INFO:html_document_parser.cc(1203)]  $$$ [TASK] HTMLDocumentParser::AppendBytes -> BackgroundHTMLParser::AppendRawBytesFromMainThread
+[1:1:0811/063631.655825:INFO:html_parser_scheduler.cc(81)]  $$$ [TASK] HTMLParserScheduler::ScheduleForUnpause -> HTMLParserScheduler::ContinueParsing
+[1:1:0811/063632.025727:INFO:html_parser_scheduler.cc(158)]  $$$ [TASK] HTMLParserScheduler::ContinueParsing
+[1:1:0811/063632.026014:INFO:html_document_parser.cc(272)] >>> HTMLDocumentParser::ResumeParsingAfterYield. url is "chrome-search://local-ntp/local-ntp.html"
+[1:1:0811/063632.322523:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 354, "chrome-search://local-ntp/local-ntp.html"
+[1:1:0811/063632.372698:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 356, "chrome-search://local-ntp/local-ntp.html"
+[1:1:0811/063632.379686:INFO:html_tree_builder.cc(780)] >>> [renderer][DOM] receive <iframe>
+[1:1:0811/063633.469430:INFO:render_frame_impl.cc(1477)] 	RenderFrameImpl::Initialize. 3, 0x38e5dc7a5e20
+[1:1:0811/063633.469792:INFO:web_local_frame_impl.cc(1666)] 		WebLocalFrame::SetRoutingID. routing_id = 3
+[1:1:0811/063633.512865:INFO:html_parser_scheduler.cc(143)]  		HTMLParserScheduler::YieldIfNeeded. 1.13465, 107, 0
+[1:1:0811/063633.513059:INFO:html_parser_scheduler.cc(81)]  $$$ [TASK] HTMLParserScheduler::ScheduleForUnpause -> HTMLParserScheduler::ContinueParsing
+[1:1:0811/063633.653021:INFO:html_parser_scheduler.cc(158)]  $$$ [TASK] HTMLParserScheduler::ContinueParsing
+[1:1:0811/063633.661489:INFO:html_document_parser.cc(272)] >>> HTMLDocumentParser::ResumeParsingAfterYield. url is "chrome-search://local-ntp/local-ntp.html"
+[1:1:0811/063633.662672:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "DOMContentLoaded", "chrome-search://local-ntp/local-ntp.html"
+[129084:129084:0811/063634.081903:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[129084:129084:0811/063634.084681:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: , 3, 2, 
+[129084:129084:0811/063634.106689:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:3_chrome-search://local-ntp/, chrome-search://local-ntp/, 2
+[129084:129084:0811/063634.106771:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 2, 3, chrome-search://local-ntp/, chrome-search://local-ntp
+[129084:129084:0811/063634.138044:WARNING:render_frame_host_impl.cc(414)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[1:1:0811/063634.277685:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 423 0x7fcc1576e3d0 0x38e5dca34c60 , "chrome-search://local-ntp/local-ntp.html"
+[1:1:0811/063634.278803:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "chrome-search://local-ntp/local-ntp.html"
+[129084:129084:0811/063634.306190:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[129084:129084:0811/063634.308287:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: mv-single, 4, 3, 
+[1:1:0811/063634.311239:INFO:render_frame_impl.cc(1477)] 	RenderFrameImpl::Initialize. 4, 0x38e5dc7a6820
+[1:1:0811/063634.311618:INFO:web_local_frame_impl.cc(1666)] 		WebLocalFrame::SetRoutingID. routing_id = 4
+[1:1:0811/063634.318071:INFO:render_frame_impl.cc(7018)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0811/063634.321634:INFO:render_frame_impl.cc(7019)] 	 [url] = chrome-search://local-ntp
+[129084:129084:0811/063634.326334:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 4:1_chrome-search://local-ntp/
+[129084:129084:0811/063634.332382:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[129084:129084:0811/063634.332808:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[129084:129084:0811/063634.334832:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation chrome-search://most-visited/
+[129084:129084:0811/063634.334871:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:4_chrome-search://most-visited/, chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page, 3
+[129084:129084:0811/063634.334929:INFO:render_frame_host_impl.cc(3718)] >>>	[site, common.url, headers] = 4:4_chrome-search://most-visited/, HTTP/1.1 200 OK Content-Security-Policy: script-src chrome://resources 'self' 'unsafe-eval';object-src 'none';child-src 'none'; Cache-Control: no-cache  ,129137, 4
+[129084:129096:0811/063634.335424:INFO:interface_endpoint_client.cc(447)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 4, 4
+[129084:129096:0811/063634.335464:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 4, 4, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0811/063634.336019:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0811/063634.671932:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 4:4_chrome-search://most-visited/
+[1:1:0811/063634.879271:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 472 0x7fcc1576e3d0 0x38e5dcb622e0 , "chrome-search://local-ntp/local-ntp.html"
+[1:1:0811/063634.880092:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "chrome-search://local-ntp/local-ntp.html"
+[129084:129084:0811/063634.963487:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:4_chrome-search://most-visited/, chrome-search://most-visited/, 3
+[129084:129084:0811/063634.963546:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 3, 4, chrome-search://most-visited/, chrome-search://most-visited
+[1:1:0811/063634.982574:INFO:html_document_parser.cc(1203)]  $$$ [TASK] HTMLDocumentParser::AppendBytes -> BackgroundHTMLParser::AppendRawBytesFromMainThread
+[1:1:0811/063635.131927:INFO:html_parser_scheduler.cc(81)]  $$$ [TASK] HTMLParserScheduler::ScheduleForUnpause -> HTMLParserScheduler::ContinueParsing
+[1:1:0811/063635.292079:INFO:html_parser_scheduler.cc(158)]  $$$ [TASK] HTMLParserScheduler::ContinueParsing
+[1:1:0811/063635.292353:INFO:html_document_parser.cc(272)] >>> HTMLDocumentParser::ResumeParsingAfterYield. url is "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063635.386529:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 527, "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063635.392175:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "DOMContentLoaded", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063635.434667:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "chrome-search://local-ntp/local-ntp.html"
+[1:1:0811/063635.490358:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "message", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063635.545566:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "message", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063635.686189:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.mediafire.com/#settingsupgradeindex.php?plan=Pro"
+[1:1:0811/063635.748563:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/http://yao.tmall.com/?acm=lb-zebra-148799-667863.1003.4.708026&scm=1003.4.lb-zebra-148799-667863.OTHER_145616352542412_708026"
+[1:1:0811/063635.900623:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.researchgate.net/?_sg=sNBP8YBKkiODFIXQycjRxri51mM5UP0Zwrj_Ci-cTQzy8XqULupZIh7_l7W7MwzKEyCqNDn3OTEq"
+[1:1:0811/063635.929497:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.zippyshare.com/?locale=lt"
+[1:1:0811/063635.949800:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://slickdeals.net/?page=2f13272157-asus-onhub-ac1900-google-wifi-router-60-free-shipping?src=frontpage"
+[1:1:0811/063635.977615:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://3c.tmall.com/?go=appl&acm=lb-zebra-148799-667863.1003.4.708026&scm=1003.4.lb-zebra-148799-667863.OTHER_14561650644158_708026"
+[1:1:0811/063636.020437:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://nyaa.si/?c=4_3"
+[1:1:0811/063636.062595:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.dytt8.net/"
+[1:1:0811/063636.141132:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "error", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063636.166756:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "error", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063636.221974:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "error", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063636.269576:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "error", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063636.287511:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "error", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063636.312851:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "error", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063636.330536:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "error", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063636.362878:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "error", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[129084:129084:0811/063636.678735:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 5
+[129084:129114:0811/063636.679329:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 5
+[3:3:0811/063636.679483:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0811/063636.679791:INFO:zygote_linux.cc(693)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0811/063636.680060:INFO:zygote_linux.cc(626)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0811/063636.680290:INFO:zygote_linux.cc(633)] 		cid is 5
+[1:1:0811/063636.692693:INFO:switcher_impl.cc(197)] >>> [INFO] key id[0] is 0x22fe261c, 1
+[1:1:0811/063636.693233:INFO:switcher_impl.cc(197)] >>> [INFO] key id[1] is 0x27f9f1e4, 0
+[1:1:0811/063636.693388:INFO:switcher_impl.cc(197)] >>> [INFO] key id[2] is 0x262d7744, 3
+[1:1:0811/063636.693561:INFO:switcher_impl.cc(197)] >>> [INFO] key id[3] is 0x21a03c13, 2
+[1:1:0811/063636.694142:INFO:switcher_impl.cc(207)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = ffffffe4fffffff1fffffff927 1c26fffffffe22 133cffffffa021 44772d26 , 10104, 5
+[1:1:0811/063636.695456:INFO:switcher_wrapper.cc(54)] ### [Switcher][signal] --install signal
+[129084:129114:0811/063636.696224:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PINGäñù'&þ"< !Dw-&øxÖ
+[129084:129114:0811/063636.696280:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is äñù'&þ"< !Dw-&8
+[129084:129114:0811/063636.696495:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 129181, 5, e4f1f927 1c26fe22 133ca021 44772d26 
+[1:1:0811/063636.696213:INFO:switcher_impl.cc(275)] >>> [INIT] try to add handler, addr, type, num = 0x7fcc29d450a0, 3
+[1:1:0811/063636.696569:INFO:switcher_impl.cc(275)] >>> [INIT] try to add handler, addr, type, num = 0x7fcc29ed0080, 2
+[1:1:0811/063636.696834:INFO:switcher_impl.cc(275)] >>> [INIT] try to add handler, addr, type, num = 0x7fcc13b93d20, -2
+[1:1:0811/063636.721999:INFO:sandbox_bpf.cc(155)] >>> [sandbox] prepare to start sandbox [pid]=1
+[1:1:0811/063636.723441:INFO:syscall_parameters_restrictions.cc(259)] >>> [Seccomp] mprotect: r9 must equal 21a03c13
+[1:1:0811/063636.724001:INFO:baseline_policy.cc(168)] === [Seccomp] rt_sigprocmask: r9 must equal 21a03c13
+[1:1:0811/063636.724405:INFO:syscall_parameters_restrictions.cc(158)] === [Seccomp] clone: r9 must equal 21a03c13
+[1:1:0811/063636.725021:INFO:baseline_policy.cc(178)] === [Seccomp] fxattr: r9 must equal 21a03c13
+[1:1:0811/063636.726929:INFO:baseline_policy.cc(178)] === [Seccomp] fxattr: r9 must equal 21a03c13
+[1:1:0811/063636.727873:INFO:baseline_policy.cc(178)] === [Seccomp] fxattr: r9 must equal 21a03c13
+[1:1:0811/063636.728418:INFO:baseline_policy.cc(178)] === [Seccomp] fxattr: r9 must equal 21a03c13
+[1:1:0811/063636.728875:INFO:syscall_parameters_restrictions.cc(321)] === [Seccomp] tgkill: r9 must equal 21a03c13
+[1:1:0811/063636.729174:INFO:switcher_clone.cc(775)] clone wrapper rip is 7fcc2bb0a7ba
+[1:1:0811/063636.729382:INFO:baseline_policy.cc(145)] ### [Setup] the addr for request_key should be 7fcc2bb01def, 7fcc2bb0a77a, 7fcc2bb0c0cf
+[1:1:0811/063636.734303:INFO:syscall_parameters_restrictions.cc(259)] >>> [Seccomp] mprotect: r9 must equal 21a03c13
+[1:1:0811/063636.736627:INFO:baseline_policy.cc(168)] === [Seccomp] rt_sigprocmask: r9 must equal 21a03c13
+[1:1:0811/063636.737334:INFO:syscall_parameters_restrictions.cc(158)] === [Seccomp] clone: r9 must equal 21a03c13
+[1:1:0811/063636.739060:INFO:baseline_policy.cc(178)] === [Seccomp] fxattr: r9 must equal 21a03c13
+[1:1:0811/063636.740009:INFO:baseline_policy.cc(178)] === [Seccomp] fxattr: r9 must equal 21a03c13
+[1:1:0811/063636.740557:INFO:baseline_policy.cc(178)] === [Seccomp] fxattr: r9 must equal 21a03c13
+[1:1:0811/063636.741882:INFO:baseline_policy.cc(178)] === [Seccomp] fxattr: r9 must equal 21a03c13
+[1:1:0811/063636.742703:INFO:syscall_parameters_restrictions.cc(321)] === [Seccomp] tgkill: r9 must equal 21a03c13
+[1:1:0811/063636.744009:INFO:switcher_clone.cc(775)] clone wrapper rip is 7fcc2bb0a7ba
+[1:1:0811/063636.744593:INFO:baseline_policy.cc(145)] ### [Setup] the addr for request_key should be 7fcc2bb01def, 7fcc2bb0a77a, 7fcc2bb0c0cf
+[1:1:0811/063636.748660:INFO:sandbox_bpf.cc(236)] === [Seccomp] clear secret now
+[1:1:0811/063636.750685:INFO:sandbox_bpf.cc(274)] >>> [Setup] test the sigprocmask.
+[1:1:0811/063636.752537:INFO:sandbox_bpf.cc(278)] >>> [Setup] prepare to invoke sigprocmask(1, 0x7ffe61574c88, 0x7ffe61574c08)
+[1:1:0811/063636.770128:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0811/063636.779233:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[1:1:0811/063636.968614:INFO:render_frame_impl.cc(1477)] 	RenderFrameImpl::Initialize. 3, 0x38e5dc76e220
+[1:1:0811/063636.968790:INFO:web_local_frame_impl.cc(1666)] 		WebLocalFrame::SetRoutingID. routing_id = 3
+[1:1:0811/063636.977772:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063637.061900:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063637.100639:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063637.127583:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063637.145069:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063637.174207:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063637.201767:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063637.238275:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page"
+[1:1:0811/063637.270780:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "message", "chrome-search://local-ntp/local-ntp.html"
+[129084:129084:0811/063638.089633:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[129084:129084:0811/063638.092949:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[129084:129084:0811/063638.168280:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation http://i.baike.com/
+[129084:129084:0811/063638.168360:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:3_http://i.baike.com/, http://i.baike.com/langjianghu, 1
+[129084:129084:0811/063638.168440:INFO:render_frame_host_impl.cc(3718)] >>>	[site, common.url, headers] = 5:3_http://i.baike.com/, HTTP/1.1 200 OK Date: Sun, 11 Aug 2019 13:36:37 GMT Server: Apache/2.2.15 (Unix) Resin/3.1.9 Content-Type: text/html; charset=UTF-8 Vary: Accept-Encoding Content-Encoding: gzip X-UA-Compatible: IE=EmulateIE7 Content-Length: 12244  ,129181, 5
+[129084:129096:0811/063638.168866:INFO:interface_endpoint_client.cc(447)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 3
+[129084:129096:0811/063638.168934:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 3, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0811/063638.171636:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0811/063638.194047:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:3_http://i.baike.com/
+[1:1:0811/063638.353832:INFO:html_document_parser.cc(1203)]  $$$ [TASK] HTMLDocumentParser::AppendBytes -> BackgroundHTMLParser::AppendRawBytesFromMainThread
+[129084:129084:0811/063638.373708:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:3_http://i.baike.com/, http://i.baike.com/, 1
+[129084:129084:0811/063638.373962:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 1, 3, http://i.baike.com/, http://i.baike.com
+[1:1:0811/063638.440942:INFO:html_parser_scheduler.cc(81)]  $$$ [TASK] HTMLParserScheduler::ScheduleForUnpause -> HTMLParserScheduler::ContinueParsing
+[1:1:0811/063638.527072:INFO:html_parser_scheduler.cc(158)]  $$$ [TASK] HTMLParserScheduler::ContinueParsing
+[1:1:0811/063638.528687:INFO:html_document_parser.cc(272)] >>> HTMLDocumentParser::ResumeParsingAfterYield. url is "http://i.baike.com/langjianghu"
+[1:1:0811/063638.606697:INFO:html_parser_scheduler.cc(143)]  		HTMLParserScheduler::YieldIfNeeded. 0.0787809, 152, 1
+[1:1:0811/063638.607708:INFO:html_parser_scheduler.cc(81)]  $$$ [TASK] HTMLParserScheduler::ScheduleForUnpause -> HTMLParserScheduler::ContinueParsing
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+[1:1:0811/063639.040479:INFO:html_parser_scheduler.cc(158)]  $$$ [TASK] HTMLParserScheduler::ContinueParsing
+[1:1:0811/063639.040717:INFO:html_document_parser.cc(272)] >>> HTMLDocumentParser::ResumeParsingAfterYield. url is "http://i.baike.com/langjianghu"
+[1:1:0811/063639.080013:INFO:platform_thread_posix.cc(131)] >>> invoke pthread_create
+[1:1:0811/063640.082378:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 298 0x7fcc13baebd0 0x38e5dc893158 , "http://i.baike.com/langjianghu"
+[1:1:0811/063640.086213:INFO:platform_thread_posix.cc(131)] >>> invoke pthread_create
+[1:1:0811/063640.087846:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , /*!
+ * jQuery JavaScript Library v1.4.2
+ * http://jquery.com/
+ *
+ * Copyright 2010, John Resig
+ * Du
+[1:1:0811/063640.088040:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+		remove user.c_f767811b -> 0
+[1:1:0811/063640.104603:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 298 0x7fcc13baebd0 0x38e5dc893158 , "http://i.baike.com/langjianghu"
+[1:1:0811/063640.153964:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 298 0x7fcc13baebd0 0x38e5dc893158 , "http://i.baike.com/langjianghu"
+[1:1:0811/063640.208649:INFO:html_tree_builder.cc(780)] >>> [renderer][DOM] receive <iframe>
+[1:1:0811/063640.212317:INFO:render_frame_impl.cc(1477)] 	RenderFrameImpl::Initialize. 4, 0x38e5dc87fe20
+[1:1:0811/063640.212564:INFO:web_local_frame_impl.cc(1666)] 		WebLocalFrame::SetRoutingID. routing_id = 4
+[1:1:0811/063640.251969:INFO:html_parser_scheduler.cc(143)]  		HTMLParserScheduler::YieldIfNeeded. 0.10033, 1248, 1
+[1:1:0811/063640.252231:INFO:html_parser_scheduler.cc(81)]  $$$ [TASK] HTMLParserScheduler::ScheduleForUnpause -> HTMLParserScheduler::ContinueParsing
+[1:1:0811/063640.851582:INFO:html_parser_scheduler.cc(158)]  $$$ [TASK] HTMLParserScheduler::ContinueParsing
+[1:1:0811/063640.851819:INFO:html_document_parser.cc(272)] >>> HTMLDocumentParser::ResumeParsingAfterYield. url is "http://i.baike.com/langjianghu"
+[1:1:0811/063640.852975:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 399 0x7fcc13846070 0x38e5dca8b4e0 , "http://i.baike.com/langjianghu"
+[1:1:0811/063640.854078:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , /*!
+ * jQuery JavaScript Library v1.4.2
+ * http://jquery.com/
+ *
+ * Copyright 2010, John Resig
+ * Du
+[1:1:0811/063640.854279:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063640.859814:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 399 0x7fcc13846070 0x38e5dca8b4e0 , "http://i.baike.com/langjianghu"
+[1:1:0811/063640.891072:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 399 0x7fcc13846070 0x38e5dca8b4e0 , "http://i.baike.com/langjianghu"
+[1:1:0811/063640.901873:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 399 0x7fcc13846070 0x38e5dca8b4e0 , "http://i.baike.com/langjianghu"
+[1:1:0811/063640.939440:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 399 0x7fcc13846070 0x38e5dca8b4e0 , "http://i.baike.com/langjianghu"
+[1:1:0811/063640.942349:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 399 0x7fcc13846070 0x38e5dca8b4e0 , "http://i.baike.com/langjianghu"
+[1:1:0811/063640.970982:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 399 0x7fcc13846070 0x38e5dca8b4e0 , "http://i.baike.com/langjianghu"
+[1:1:0811/063640.972206:INFO:html_tree_builder.cc(780)] >>> [renderer][DOM] receive <iframe>
+[1:1:0811/063640.974543:INFO:render_frame_impl.cc(1477)] 	RenderFrameImpl::Initialize. 5, 0x38e5dc880820
+[1:1:0811/063640.974761:INFO:web_local_frame_impl.cc(1666)] 		WebLocalFrame::SetRoutingID. routing_id = 5
+[1:1:0811/063640.994946:INFO:render_frame_impl.cc(7018)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0811/063641.002289:INFO:render_frame_impl.cc(7019)] 	 [url] = http://i.baike.com
+[1:1:0811/063641.004203:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 399 0x7fcc13846070 0x38e5dca8b4e0 , "http://i.baike.com/langjianghu"
+[1:1:0811/063641.038797:INFO:dom_window_timers.cc(97)] $$$ [Timeout] setTimeout. [script_state, execution_context] = 2000, 0x2d4db34429c8, 0x38e5dc5ee220
+[1:1:0811/063641.042664:INFO:dom_timer.cc(67)]  $$$ [Timeout] DOMTimer::Install. context is: "http://i.baike.com/langjianghu", 2000
+[1:1:0811/063641.042933:INFO:thread_controller_impl.cc(154)] >>> [Timeout] ThreadControllerImpl::DidQueueTask: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:108, 5:3_http://i.baike.com/, 460
+[1:1:0811/063641.043103:INFO:switcher_impl.cc(662)] 	Record a new Task for DOMTimer [task, root_frame, num, frame_chain, parentTID] = 460 0x7fcc13846070 0x38e5dc970ae0 , 5:3_http://i.baike.com/, 1, -5:3_http://i.baike.com/, 399 0x7fcc13846070 0x38e5dca8b4e0 
+[1:1:0811/063641.050586:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 399 0x7fcc13846070 0x38e5dca8b4e0 , "http://i.baike.com/langjianghu"
+[1:1:0811/063641.063138:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "DOMContentLoaded", "http://i.baike.com/langjianghu"
+[1:1:0811/063641.981131:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "DOMContentLoaded", "http://i.baike.com/langjianghu"
+		remove user.d_e927f834 -> 0
+[1:1:0811/063642.265020:INFO:dom_window_timers.cc(97)] $$$ [Timeout] setTimeout. [script_state, execution_context] = 1000, 0x2d4db34429c8, 0x38e5dc5ee1e0
+[1:1:0811/063642.265228:INFO:dom_timer.cc(67)]  $$$ [Timeout] DOMTimer::Install. context is: "http://i.baike.com/langjianghu", 1000
+[1:1:0811/063642.265406:INFO:thread_controller_impl.cc(154)] >>> [Timeout] ThreadControllerImpl::DidQueueTask: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:108, 5:3_http://i.baike.com/, 494
+[1:1:0811/063642.265607:INFO:switcher_impl.cc(662)] 	Record a new Task for DOMTimer [task, root_frame, num, frame_chain, parentTID] = 494 0x7fcc13846070 0x38e5dcd6d5e0 , 5:3_http://i.baike.com/, 1, -5:3_http://i.baike.com/, 399 0x7fcc13846070 0x38e5dca8b4e0 
+[1:1:0811/063642.265951:INFO:dom_timer.cc(67)]  $$$ [Timeout] DOMTimer::Install. context is: "http://i.baike.com/langjianghu", 120000
+[1:1:0811/063642.266110:INFO:thread_controller_impl.cc(154)] >>> [Timeout] ThreadControllerImpl::DidQueueTask: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:110, 5:3_http://i.baike.com/, 495
+[1:1:0811/063642.266210:INFO:switcher_impl.cc(662)] 	Record a new Task for DOMTimer [task, root_frame, num, frame_chain, parentTID] = 495 0x7fcc13846070 0x38e5dcbf4260 , 5:3_http://i.baike.com/, 1, -5:3_http://i.baike.com/, 399 0x7fcc13846070 0x38e5dca8b4e0 
+[1:1:0811/063643.072026:INFO:render_frame_impl.cc(7018)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0811/063643.072221:INFO:render_frame_impl.cc(7019)] 	 [url] = http://i.baike.com
+[1:1:0811/063643.122126:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "readystatechange", "http://i.baike.com/langjianghu"
+[1:1:0811/063643.122557:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , x.onreadystatechange, (q){if(!x||x.readyState===0||q==="abort"){E||
+d();E=true;if(x)x.onreadystatechange=c.noop}else if(!E
+[1:1:0811/063643.122685:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063643.123306:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "readystatechange", "http://i.baike.com/langjianghu"
+[1:1:0811/063643.125262:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "readystatechange", "http://i.baike.com/langjianghu"
+[1:1:0811/063643.125590:INFO:event_target.cc(534)] !!!!!!!!!!!!!!!! RegisteredEventListener::SetCallback. 0x1b737479650
+[1:1:0811/063643.165651:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 508 0x7fcc1576e3d0 0x38e5dcc1ef60 , "http://i.baike.com/langjianghu"
+[1:1:0811/063643.166344:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , /*
+ * version: 1.0
+ * å°ç™¾ç§‘ç‚¹å‡»äº‹ä»¶ç›‘æŽ§ 
+ */
+var XBK_Click_Monitor={};(function(){XBK_Clic
+[1:1:0811/063643.166471:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063643.176287:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 509 0x7fcc1576e3d0 0x38e5dca8b860 , "http://i.baike.com/langjianghu"
+[1:1:0811/063643.178815:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , (function(){var k=this||self,l=function(a,b){a=a.split(".");var c=k;a[0]in c||"undefined"==typeof c.
+[1:1:0811/063643.178965:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063643.529167:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 515 0x7fcc1576e3d0 0x38e5dc7aaae0 , "http://i.baike.com/langjianghu"
+[1:1:0811/063643.530397:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , 
+[1:1:0811/063643.530510:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063643.555384:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 516 0x7fcc1576e3d0 0x38e5dc89ee60 , "http://i.baike.com/langjianghu"
+[1:1:0811/063643.556006:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , jsonp1565530600879({"status":false})
+[1:1:0811/063643.556124:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063643.767572:INFO:task_annotator.cc(107)] >>> [Timeout] run task: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:108, 5:3_http://i.baike.com/, 460, 7fcc1618b971
+[1:1:0811/063643.775671:INFO:switcher_impl.cc(1728)] #### [CurTask] BY VA -> {"fc":"","gpfc":"0297aee02860","ptid":"399 0x7fcc13846070 0x38e5dca8b4e0 ","rf":"5:3_http://i.baike.com/"}
+[1:1:0811/063643.775948:INFO:switcher_impl.cc(1767)] #### [CurTask] BY ID -> {"fc":"","gpfc":"-5:3_http://i.baike.com/","ptid":"399 0x7fcc13846070 0x38e5dca8b4e0 ","rf":"5:3_http://i.baike.com/"}
+[1:1:0811/063643.776219:INFO:dom_timer.cc(165)]  $$$ [Timeout] DOMTimer::Fired(). context is: "http://i.baike.com/langjianghu"
+[1:1:0811/063643.776589:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , (){
+				FilterLM();
+			}
+[1:1:0811/063643.776737:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063644.093248:INFO:task_annotator.cc(107)] >>> [Timeout] run task: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:108, 5:3_http://i.baike.com/, 494, 7fcc1618b971
+[1:1:0811/063644.107685:INFO:switcher_impl.cc(1728)] #### [CurTask] BY VA -> {"fc":"","gpfc":"0297aee02860","ptid":"399 0x7fcc13846070 0x38e5dca8b4e0 ","rf":"5:3_http://i.baike.com/"}
+[1:1:0811/063644.114103:INFO:switcher_impl.cc(1767)] #### [CurTask] BY ID -> {"fc":"","gpfc":"-5:3_http://i.baike.com/","ptid":"399 0x7fcc13846070 0x38e5dca8b4e0 ","rf":"5:3_http://i.baike.com/"}
+[1:1:0811/063644.114413:INFO:dom_timer.cc(165)]  $$$ [Timeout] DOMTimer::Fired(). context is: "http://i.baike.com/langjianghu"
+[1:1:0811/063644.114760:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , (){c()}
+[1:1:0811/063644.114900:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063644.174201:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 576 0x7fcc1576e3d0 0x38e5dcbf9260 , "http://i.baike.com/langjianghu"
+[1:1:0811/063644.175191:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , (function(){var k=this||self,l=function(a,b){a=a.split(".");var c=k;a[0]in c||"undefined"==typeof c.
+[1:1:0811/063644.175377:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063644.490352:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 601 0x7fcc1576e3d0 0x38e5dc4c4b60 , "http://i.baike.com/langjianghu"
+[1:1:0811/063644.491785:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , /*
+ * ç”¨æˆ·å„ç§é€šçŸ¥ä¿¡æ¯é¡µé¢æ˜¾ç¤º
+ * Copyright 2010, Hudong.com
+ * author: zhangjuanli
+ * e
+[1:1:0811/063644.491957:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063644.493794:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "http://i.baike.com/langjianghu"
+[1:1:0811/063644.494648:INFO:dom_window_timers.cc(97)] $$$ [Timeout] setTimeout. [script_state, execution_context] = 1000, 0x2d4db34429c8, 0x38e5dc5ee210
+[1:1:0811/063644.494934:INFO:dom_timer.cc(67)]  $$$ [Timeout] DOMTimer::Install. context is: "http://i.baike.com/langjianghu", 1000
+[1:1:0811/063644.495191:INFO:thread_controller_impl.cc(154)] >>> [Timeout] ThreadControllerImpl::DidQueueTask: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:108, 5:3_http://i.baike.com/, 606
+[1:1:0811/063644.495440:INFO:switcher_impl.cc(662)] 	Record a new Task for DOMTimer [task, root_frame, num, frame_chain, parentTID] = 606 0x7fcc13846070 0x38e5dcdeebe0 , 5:3_http://i.baike.com/, 1, -5:3_http://i.baike.com/, 601 0x7fcc1576e3d0 0x38e5dc4c4b60 
+[1:1:0811/063644.530602:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "http://i.baike.com/langjianghu"
+[1:1:0811/063644.531155:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , d.onload.d.onerror, (){d.onload=null;d.onerror=null;c()}
+[1:1:0811/063644.531326:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063645.512612:INFO:task_annotator.cc(107)] >>> [Timeout] run task: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:108, 5:3_http://i.baike.com/, 606, 7fcc1618b971
+[1:1:0811/063645.530981:INFO:switcher_impl.cc(1728)] #### [CurTask] BY VA -> {"fc":"","gpfc":"0297aee02860","ptid":"601 0x7fcc1576e3d0 0x38e5dc4c4b60 ","rf":"5:3_http://i.baike.com/"}
+[1:1:0811/063645.531385:INFO:switcher_impl.cc(1767)] #### [CurTask] BY ID -> {"fc":"","gpfc":"-5:3_http://i.baike.com/","ptid":"601 0x7fcc1576e3d0 0x38e5dc4c4b60 ","rf":"5:3_http://i.baike.com/"}
+[1:1:0811/063645.531819:INFO:dom_timer.cc(165)]  $$$ [Timeout] DOMTimer::Fired(). context is: "http://i.baike.com/langjianghu"
+[1:1:0811/063645.532383:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , (){b[e]=true;f()}
+[1:1:0811/063645.532586:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063651.221647:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_CONTENT_LENGTH_MISMATCH","http://a4.att.hudong.com/20/97/50200009239445155793970282135_140.jpg"
+[1:1:0811/063729.818470:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , "use strict";(function(InjectedScriptHost,inspectedGlobalObject,injectedScriptId){function push(arra
+[1:1:0811/063729.818762:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[129084:129084:0811/063730.176898:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[129084:129084:0811/063730.184727:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: , 4, 4, 
+[129084:129084:0811/063730.196436:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:4_http://i.baike.com/, http://i.baike.com/, 4
+[129084:129084:0811/063730.196515:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 4, 4, http://i.baike.com/, http://i.baike.com
+[129084:129084:0811/063730.207422:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[129084:129084:0811/063730.211117:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: , 5, 5, 
+[129084:129084:0811/063730.219063:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 5:3_http://i.baike.com/
+[129084:129084:0811/063730.261946:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 5:3_http://i.baike.com/
+[129084:129084:0811/063730.295174:WARNING:gaia_auth_fetcher.cc(873)] Could not reach Google Accounts servers: errno -102
+[129084:129084:0811/063730.296798:WARNING:one_google_bar_fetcher_impl.cc(315)] Request failed with error: -102: net::ERR_CONNECTION_REFUSED
+[3:3:0811/063730.357146:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 1
+[129084:129084:0811/063730.465234:WARNING:render_frame_host_impl.cc(414)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[129084:129084:0811/063730.473033:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[129084:129084:0811/063730.483099:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[129084:129096:0811/063730.504822:INFO:interface_endpoint_client.cc(447)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 5
+[129084:129096:0811/063730.504903:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 5, HandleIncomingMessage, HandleIncomingMessage
+[129084:129084:0811/063730.509852:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation http://www.baike.com/
+[129084:129084:0811/063730.509896:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:5_http://www.baike.com/, http://www.baike.com/all/footsns.html, 5
+[129084:129084:0811/063730.509961:INFO:render_frame_host_impl.cc(3718)] >>>	[site, common.url, headers] = 5:5_http://www.baike.com/, HTTP/1.1 200 OK Date: Sun, 11 Aug 2019 13:37:30 GMT Content-Type: text/html Last-Modified: Tue, 18 Jun 2019 04:14:33 GMT Transfer-Encoding: chunked Connection: close Vary: Accept-Encoding ETag: W/"5d086529-96d" Content-Encoding: gzip Server: HDegine (window; Formilux/0.1.8) X-Powered-By: ASM0.1  ,129181, 5
+[1:7:0811/063730.513253:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[129084:129084:0811/063730.517530:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[129084:129084:0811/063730.522289:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[129084:129096:0811/063730.587786:INFO:interface_endpoint_client.cc(447)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 4
+[129084:129096:0811/063730.587857:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 4, HandleIncomingMessage, HandleIncomingMessage
+[129084:129084:0811/063730.591289:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation http://comment.baike.com/
+[129084:129084:0811/063730.591330:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:4_http://comment.baike.com/, http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D, 4
+[129084:129084:0811/063730.591399:INFO:render_frame_host_impl.cc(3718)] >>>	[site, common.url, headers] = 5:4_http://comment.baike.com/, HTTP/1.1 200 OK Server: Resin/3.1.9 Pragma: no-cache Cache-Control: no-cache P3P: CP=CAO PSA OUR Expires: Thu, 01 Jan 1970 00:00:00 GMT Content-Type: text/html; charset=utf-8 Transfer-Encoding: chunked Date: Sun, 11 Aug 2019 13:37:30 GMT  ,129181, 5
+[1:7:0811/063730.608049:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0811/063731.595033:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:5_http://www.baike.com/
+[1:1:0811/063731.634907:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , document.readyState
+[1:1:0811/063731.639126:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063731.766097:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:4_http://comment.baike.com/
+[1:1:0811/063732.401827:INFO:html_document_parser.cc(1203)]  $$$ [TASK] HTMLDocumentParser::AppendBytes -> BackgroundHTMLParser::AppendRawBytesFromMainThread
+[129084:129084:0811/063732.403131:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:5_http://www.baike.com/, http://www.baike.com/, 5
+[129084:129084:0811/063732.403195:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 5, 5, http://www.baike.com/, http://www.baike.com
+[1:1:0811/063732.436410:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , document.readyState
+[1:1:0811/063732.436627:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063732.508008:INFO:html_document_parser.cc(1203)]  $$$ [TASK] HTMLDocumentParser::AppendBytes -> BackgroundHTMLParser::AppendRawBytesFromMainThread
+[129084:129084:0811/063732.511399:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:4_http://comment.baike.com/, http://comment.baike.com/, 4
+[129084:129084:0811/063732.511454:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 4, 4, http://comment.baike.com/, http://comment.baike.com
+[1:1:0811/063732.574438:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "resize", "http://i.baike.com/langjianghu"
+[1:1:0811/063732.574883:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , o, (){return typeof c!=="undefined"&&!c.event.triggered?c.event.handle.apply(o.elem,arguments):w}
+[1:1:0811/063732.575001:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063732.578640:INFO:dom_window_timers.cc(97)] $$$ [Timeout] setTimeout. [script_state, execution_context] = 200, 0x2d4db34429c8, 0x38e5dc5ee220
+[1:1:0811/063732.578760:INFO:dom_timer.cc(67)]  $$$ [Timeout] DOMTimer::Install. context is: "http://i.baike.com/langjianghu", 200
+[1:1:0811/063732.578926:INFO:thread_controller_impl.cc(154)] >>> [Timeout] ThreadControllerImpl::DidQueueTask: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:108, 0:0_switcher://chrome, 768
+[1:1:0811/063732.579033:INFO:switcher_impl.cc(662)] 	Record a new Task for DOMTimer [task, root_frame, num, frame_chain, parentTID] = 768 0x7fcc13846070 0x38e5dcc17160 , 0:0_switcher://chrome, 1, -5:3_http://i.baike.com/, 730 0x7fcc22b57960 0x38e5dced8100 0x38e5dced8110 
+[1:1:0811/063732.679533:INFO:html_parser_scheduler.cc(81)]  $$$ [TASK] HTMLParserScheduler::ScheduleForUnpause -> HTMLParserScheduler::ContinueParsing
+[1:1:0811/063732.769347:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , document.readyState
+[1:1:0811/063732.769554:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063732.848659:INFO:html_parser_scheduler.cc(81)]  $$$ [TASK] HTMLParserScheduler::ScheduleForUnpause -> HTMLParserScheduler::ContinueParsing
+[1:1:0811/063733.044296:INFO:html_parser_scheduler.cc(158)]  $$$ [TASK] HTMLParserScheduler::ContinueParsing
+[1:1:0811/063733.044517:INFO:html_document_parser.cc(272)] >>> HTMLDocumentParser::ResumeParsingAfterYield. url is "http://www.baike.com/all/footsns.html"
+[1:1:0811/063733.071057:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , document.readyState
+[1:1:0811/063733.071259:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063733.073356:INFO:task_annotator.cc(107)] >>> [Timeout] run task: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:108, 0:0_switcher://chrome, 768, 7fcc1618b971
+[1:1:0811/063733.085500:INFO:switcher_impl.cc(1728)] #### [CurTask] BY VA -> {"fc":"","gpfc":"0297aee02860","ptid":"730 0x7fcc22b57960 0x38e5dced8100 0x38e5dced8110 ","rf":"0:0_switcher://chrome"}
+[1:1:0811/063733.085709:INFO:switcher_impl.cc(1767)] #### [CurTask] BY ID -> {"fc":"","gpfc":"-5:3_http://i.baike.com/","ptid":"730 0x7fcc22b57960 0x38e5dced8100 0x38e5dced8110 ","rf":"0:0_switcher://chrome"}
+[1:1:0811/063733.085883:INFO:dom_timer.cc(165)]  $$$ [Timeout] DOMTimer::Fired(). context is: "http://i.baike.com/langjianghu"
+[1:1:0811/063733.086207:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , (){q();var b=e._dialog,d;for(id in b.list)if(b.isShow(id)){d=b.options[id];b.show(id);d.overlay&&b.s
+[1:1:0811/063733.086315:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063733.156851:INFO:html_parser_scheduler.cc(158)]  $$$ [TASK] HTMLParserScheduler::ContinueParsing
+[1:1:0811/063733.157041:INFO:html_document_parser.cc(272)] >>> HTMLDocumentParser::ResumeParsingAfterYield. url is "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063733.178254:INFO:platform_thread_posix.cc(131)] >>> invoke pthread_create
+[1:1:0811/063733.338107:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , document.readyState
+[1:1:0811/063733.338308:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063733.590574:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , document.readyState
+[1:1:0811/063733.590775:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063733.609583:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 821 0x7fcc29ed0080 0x38e5dddff740 1 0 0x38e5dddff758 , "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063733.615311:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:4_http://comment.baike.com/, 0297aef053d8, , , /*! jQuery v1.6.4 http://jquery.com/ | http://jquery.org/license */
+(function(a,b){function cu(a){re
+[1:1:0811/063733.615578:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D", "comment.baike.com", 4, 1, http://i.baike.com, i.baike.com, 3
+[1:1:0811/063733.709981:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 821 0x7fcc29ed0080 0x38e5dddff740 1 0 0x38e5dddff758 , "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063733.856094:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , document.readyState
+[1:1:0811/063733.856306:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063734.059933:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 845 0x7fcc13baebd0 0x38e5ddeb02d8 , "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063734.062259:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:4_http://comment.baike.com/, 0297aef053d8, , , var hdCookieName = "hduser";
+var cXmlHttp;
+var requestUrl = "http://passport.baike.com/loginInfo.jsp
+[1:1:0811/063734.062448:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D", "comment.baike.com", 4, 1, http://i.baike.com, i.baike.com, 3
+[1:1:0811/063734.094415:INFO:html_tree_builder.cc(780)] >>> [renderer][DOM] receive <iframe>
+[129084:129084:0811/063734.095583:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[1:1:0811/063734.096915:INFO:render_frame_impl.cc(1477)] 	RenderFrameImpl::Initialize. 6, 0x38e5dd84b020
+[1:1:0811/063734.097031:INFO:web_local_frame_impl.cc(1666)] 		WebLocalFrame::SetRoutingID. routing_id = 6
+[129084:129084:0811/063734.097564:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: , 6, 6, 
+[1:1:0811/063734.118962:INFO:html_parser_scheduler.cc(143)]  		HTMLParserScheduler::YieldIfNeeded. 0.0531971, 300, 1
+[1:1:0811/063734.119198:INFO:html_parser_scheduler.cc(81)]  $$$ [TASK] HTMLParserScheduler::ScheduleForUnpause -> HTMLParserScheduler::ContinueParsing
+[129084:129084:0811/063734.126489:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:6_http://comment.baike.com/, http://comment.baike.com/, 6
+[129084:129084:0811/063734.126569:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 6, 6, http://comment.baike.com/, http://comment.baike.com
+[1:1:0811/063734.169520:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , document.readyState
+[1:1:0811/063734.169784:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063734.768546:INFO:html_parser_scheduler.cc(158)]  $$$ [TASK] HTMLParserScheduler::ContinueParsing
+[1:1:0811/063734.768745:INFO:html_document_parser.cc(272)] >>> HTMLDocumentParser::ResumeParsingAfterYield. url is "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063734.946533:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , document.readyState
+[1:1:0811/063734.946731:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063735.302734:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 907, "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063735.305264:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:4_http://comment.baike.com/, 0297aef053d8, , , (function(){
+         _hdCO();
+        if (window.top.frames.length == window.frames.length) {
+			wi
+[1:1:0811/063735.305538:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D", "comment.baike.com", 4, 1, http://i.baike.com, i.baike.com, 3
+[1:1:0811/063735.330834:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "DOMContentLoaded", "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063735.396716:INFO:dom_window_timers.cc(97)] $$$ [Timeout] setTimeout. [script_state, execution_context] = 1000, 0x2d4db35564a8, 0x38e5dc5ee250
+[1:1:0811/063735.397069:INFO:dom_timer.cc(67)]  $$$ [Timeout] DOMTimer::Install. context is: "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D", 1000
+[1:1:0811/063735.397754:INFO:thread_controller_impl.cc(154)] >>> [Timeout] ThreadControllerImpl::DidQueueTask: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:108, 5:4_http://comment.baike.com/, 936
+[1:1:0811/063735.398010:INFO:switcher_impl.cc(662)] 	Record a new Task for DOMTimer [task, root_frame, num, frame_chain, parentTID] = 936 0x7fcc13846070 0x38e5dc89ee60 , 5:4_http://comment.baike.com/, 1, -5:4_http://comment.baike.com/, 907
+[1:1:0811/063735.414384:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "DOMContentLoaded", "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063735.437374:INFO:dom_window_timers.cc(97)] $$$ [Timeout] setTimeout. [script_state, execution_context] = 1, 0x2d4db35564a8, 0x38e5dc5ee1e0
+[1:1:0811/063735.439599:INFO:dom_timer.cc(67)]  $$$ [Timeout] DOMTimer::Install. context is: "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D", 1
+[1:1:0811/063735.440014:INFO:thread_controller_impl.cc(154)] >>> [Timeout] ThreadControllerImpl::DidQueueTask: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:108, 5:4_http://comment.baike.com/, 937
+[1:1:0811/063735.440154:INFO:switcher_impl.cc(662)] 	Record a new Task for DOMTimer [task, root_frame, num, frame_chain, parentTID] = 937 0x7fcc13846070 0x38e5dd2e1760 , 5:4_http://comment.baike.com/, 1, -5:4_http://comment.baike.com/, 907
+[1:1:0811/063735.632608:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , document.readyState
+[1:1:0811/063735.632846:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063735.880357:INFO:task_annotator.cc(107)] >>> [Timeout] run task: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:108, 5:4_http://comment.baike.com/, 937, 7fcc1618b971
+[1:1:0811/063735.894174:INFO:switcher_impl.cc(1728)] #### [CurTask] BY VA -> {"fc":"","gpfc":"0297aef053d8","ptid":"907","rf":"5:4_http://comment.baike.com/"}
+[1:1:0811/063735.894461:INFO:switcher_impl.cc(1767)] #### [CurTask] BY ID -> {"fc":"","gpfc":"-5:4_http://comment.baike.com/","ptid":"907","rf":"5:4_http://comment.baike.com/"}
+[1:1:0811/063735.894685:INFO:dom_timer.cc(165)]  $$$ [Timeout] DOMTimer::Fired(). context is: "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063735.895236:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:4_http://comment.baike.com/, 0297aef053d8, , , (){c.useFlashBlock&&ua();B();"function"===typeof c.onload&&c.onload.apply(i);c.waitForWindowLoad&&n.
+[1:1:0811/063735.895391:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D", "comment.baike.com", 4, 1, http://i.baike.com, i.baike.com, 3
+[1:1:0811/063735.992649:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , document.readyState
+[1:1:0811/063735.992868:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063736.062287:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 955 0x7fcc1576e3d0 0x38e5ddf4e360 , "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063736.062983:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:4_http://comment.baike.com/, 0297aef053d8, , , /*
+ * version: 1.0
+ * å°ç™¾ç§‘ç‚¹å‡»äº‹ä»¶ç›‘æŽ§ 
+ */
+var XBK_Click_Monitor={};(function(){XBK_Clic
+[1:1:0811/063736.063152:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D", "comment.baike.com", 4, 1, http://i.baike.com, i.baike.com, 3
+[1:1:0811/063736.147340:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , document.readyState
+[1:1:0811/063736.147543:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063736.164323:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063736.164985:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:4_http://comment.baike.com/, 0297aef053d8, , ready, (a){if(a===!0&&!--e.readyWait||a!==!0&&!e.isReady){if(!c.body)return setTimeout(e.ready,1);e.isReady
+[1:1:0811/063736.165149:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D", "comment.baike.com", 4, 1, http://i.baike.com, i.baike.com, 3
+[1:1:0811/063736.165543:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063736.166251:INFO:dom_window_timers.cc(97)] $$$ [Timeout] setTimeout. [script_state, execution_context] = 1000, 0x2d4db35564a8, 0x38e5dc5ee1f0
+[1:1:0811/063736.166364:INFO:dom_timer.cc(67)]  $$$ [Timeout] DOMTimer::Install. context is: "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D", 1000
+[1:1:0811/063736.166719:INFO:thread_controller_impl.cc(154)] >>> [Timeout] ThreadControllerImpl::DidQueueTask: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:108, 5:4_http://comment.baike.com/, 969
+[1:1:0811/063736.166835:INFO:switcher_impl.cc(662)] 	Record a new Task for DOMTimer [task, root_frame, num, frame_chain, parentTID] = 969 0x7fcc13846070 0x38e5ddf4ec60 , 5:4_http://comment.baike.com/, 1, -5:4_http://comment.baike.com/, 963 0x7fcc13846070 0x38e5ddf17ee0 
+[1:1:0811/063736.167018:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063736.168702:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063736.177025:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "http://i.baike.com/langjianghu"
+[1:1:0811/063736.177362:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 2, -5:4_http://comment.baike.com/-5:3_http://i.baike.com/, 0297aee02860, 0297aef053d8, ready, (){if(!c.isReady){if(!s.body)return setTimeout(c.ready,13);c.isReady=true;if(Q){for(var a,b=0;a=Q[b+
+[1:1:0811/063736.177485:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 2, , , 0
+[1:1:0811/063736.177641:INFO:binding_security.cc(248)] >>> BindingSecurity::PrintStack. stack is 
+
+[1:1:0811/063736.177767:INFO:event_target.cc(828)] >>> [Listener] EventTarget::FireEventListeners. [event, url] = "load", "http://i.baike.com/langjianghu"
+[1:1:0811/063736.241918:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , document.readyState
+[1:1:0811/063736.242124:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[1:1:0811/063736.257477:INFO:render_frame_impl.cc(7018)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0811/063736.257636:INFO:render_frame_impl.cc(7019)] 	 [url] = http://comment.baike.com
+[1:1:0811/063736.404410:INFO:task_annotator.cc(107)] >>> [Timeout] run task: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:108, 5:4_http://comment.baike.com/, 936, 7fcc1618b971
+[1:1:0811/063736.416242:INFO:switcher_impl.cc(1728)] #### [CurTask] BY VA -> {"fc":"","gpfc":"0297aef053d8","ptid":"907","rf":"5:4_http://comment.baike.com/"}
+[1:1:0811/063736.416396:INFO:switcher_impl.cc(1767)] #### [CurTask] BY ID -> {"fc":"","gpfc":"-5:4_http://comment.baike.com/","ptid":"907","rf":"5:4_http://comment.baike.com/"}
+[1:1:0811/063736.416584:INFO:dom_timer.cc(165)]  $$$ [Timeout] DOMTimer::Fired(). context is: "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063736.417076:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:4_http://comment.baike.com/, 0297aef053d8, , , () {
+		$('.btnSound').each(function(index) {
+			createSound($(this).attr('uuid'), $(this).attr('soun
+[1:1:0811/063736.417245:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D", "comment.baike.com", 4, 1, http://i.baike.com, i.baike.com, 3
+[1:1:0811/063737.198172:INFO:task_annotator.cc(107)] >>> [Timeout] run task: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:108, 5:4_http://comment.baike.com/, 969, 7fcc1618b971
+[1:1:0811/063737.211286:INFO:switcher_impl.cc(1728)] #### [CurTask] BY VA -> {"fc":"","gpfc":"0297aef053d8","ptid":"963 0x7fcc13846070 0x38e5ddf17ee0 ","rf":"5:4_http://comment.baike.com/"}
+[1:1:0811/063737.211473:INFO:switcher_impl.cc(1767)] #### [CurTask] BY ID -> {"fc":"","gpfc":"-5:4_http://comment.baike.com/","ptid":"963 0x7fcc13846070 0x38e5ddf17ee0 ","rf":"5:4_http://comment.baike.com/"}
+[1:1:0811/063737.211692:INFO:dom_timer.cc(165)]  $$$ [Timeout] DOMTimer::Fired(). context is: "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063737.212211:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:4_http://comment.baike.com/, 0297aef053d8, , Ja, (){var b,e=!1;if(!c.url||O)return!1;O=!0;n.remove(i,"load",D);if(da&&!Da)return!1;j||(b=c.getMoviePe
+[1:1:0811/063737.212355:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D", "comment.baike.com", 4, 1, http://i.baike.com, i.baike.com, 3
+[1:1:0811/063737.214176:INFO:dom_window_timers.cc(97)] $$$ [Timeout] setTimeout. [script_state, execution_context] = 1000, 0x2d4db35564a8, 0x38e5dc5ee150
+[1:1:0811/063737.214299:INFO:dom_timer.cc(67)]  $$$ [Timeout] DOMTimer::Install. context is: "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D", 1000
+[1:1:0811/063737.214714:INFO:thread_controller_impl.cc(154)] >>> [Timeout] ThreadControllerImpl::DidQueueTask: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:108, 5:4_http://comment.baike.com/, 1000
+[1:1:0811/063737.214853:INFO:switcher_impl.cc(662)] 	Record a new Task for DOMTimer [task, root_frame, num, frame_chain, parentTID] = 1000 0x7fcc13846070 0x38e5dc912c60 , 5:4_http://comment.baike.com/, 1, -5:4_http://comment.baike.com/, 969 0x7fcc13846070 0x38e5ddf4ec60 
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+[1:1:0811/063738.233790:INFO:task_annotator.cc(107)] >>> [Timeout] run task: DOMTimer@../../third_party/blink/renderer/core/frame/dom_timer.cc:108, 5:4_http://comment.baike.com/, 1000, 7fcc1618b971
+[1:1:0811/063738.246935:INFO:switcher_impl.cc(1728)] #### [CurTask] BY VA -> {"fc":"","gpfc":"0297aef053d8","ptid":"969 0x7fcc13846070 0x38e5ddf4ec60 ","rf":"5:4_http://comment.baike.com/"}
+[1:1:0811/063738.247109:INFO:switcher_impl.cc(1767)] #### [CurTask] BY ID -> {"fc":"","gpfc":"-5:4_http://comment.baike.com/","ptid":"969 0x7fcc13846070 0x38e5ddf4ec60 ","rf":"5:4_http://comment.baike.com/"}
+[1:1:0811/063738.247327:INFO:dom_timer.cc(165)]  $$$ [Timeout] DOMTimer::Fired(). context is: "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D"
+[1:1:0811/063738.247876:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:4_http://comment.baike.com/, 0297aef053d8, , , (){b=c.getMoviePercent();if(e)return O=!1,i.setTimeout(D,1),!1;!j&&Wa&&(null===b?c.useFlashBlock||0=
+[1:1:0811/063738.248030:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://comment.baike.com/comment.do?action=show&p=1&pn=5&pc=010113&ps=3&id=GdwFRBHZmXW5fbE51&domain=http%3A%2F%2Fi.baike.com%2Flangjianghu&sourceinfo=%7B%22sourceName%22%3A%22%E8%90%BD%E4%B8%8D%E5%87%A1%22%2C%22sourceUrl%22%3A%22http%3A%2F%2Fi.baike.com%2Flangjianghu%22%2C%22productDesc%22%3A%22%E9%A6%96%E9%A1%B5%22%7D", "comment.baike.com", 4, 1, http://i.baike.com, i.baike.com, 3
+[129084:129084:0811/063753.219664:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 5:4_http://comment.baike.com/
+[129084:129084:0811/063753.349806:WARNING:gaia_auth_fetcher.cc(873)] Could not reach Google Accounts servers: errno -102
+[1:1:0811/063755.254312:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://i.baike.com/, 0297aee02860, , , function code() {	var results = [];	var all_frames = []; 	var parent_frames = ["\ts", location.href,
+[1:1:0811/063755.254628:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 1, , , 0
+[129084:129084:0811/063755.256394:INFO:CONSOLE(1)] "function code() {	var results = [];	var all_frames = []; 	var parent_frames = ["\ts", location.href, document.domain, "parent frame"];	all_frames.push(parent_frames);	while(all_frames.length != 0){		var temp = all_frames[0];		results.push(temp);		all_frames.shift();		var sub = temp[0].split('-');		var expression_str = "window";		for(var i = 1; i<sub.length; i++){			expression_str = expression_str + ".frames[" + sub[i] + "]";		}		var expression_str_frames_length = expression_str + ".frames.length";		result_subframes_length = eval(expression_str_frames_length); 		for (var i = 0; i < result_subframes_length; i++){			var expression_str_frames_sub_href = expression_str + ".frames[" + i + "].location.href";			var expression_str_frames_sub_domain = expression_str + ".frames[" + i + "].document.domain";			try {				result_sub_frame_href = eval(expression_str_frames_sub_href);				result_sub_frame_domain = eval(expression_str_frames_sub_domain);				var sub_frame = [temp[0] + "-" + i, result_sub_frame_href, result_sub_frame_domain, "subframe Yes"];				all_frames.push(sub_frame);			} catch (err) {				var sub_frame = [temp[0] + "-" + i, "Not same domain", "Not same domain", "subframe No"];				all_frames.push(sub_frame);			}		}	}		return results.toString();}", source:  (1)
+[129084:129084:0811/063755.362777:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[129084:129084:0811/063755.363233:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[129084:129096:0811/063755.371990:INFO:interface_endpoint_client.cc(447)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 6
+[129084:129096:0811/063755.372064:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 6, HandleIncomingMessage, HandleIncomingMessage
+[129084:129084:0811/063755.372093:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation http://i.baike.com/
+[129084:129084:0811/063755.372163:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:6_http://i.baike.com/, http://i.baike.com/iframeheight.html?rnd=0.7606220885389698#228|1785, 6
+[129084:129084:0811/063755.372232:INFO:render_frame_host_impl.cc(3718)] >>>	[site, common.url, headers] = 5:6_http://i.baike.com/, HTTP/1.1 200 OK Date: Sun, 11 Aug 2019 13:37:55 GMT Server: Apache/2.2.15 (Unix) Resin/3.1.9 ETag: "9pdkrkjcYee" Last-Modified: Thu, 11 Apr 2019 10:17:02 GMT Accept-Ranges: bytes Content-Type: text/html Vary: Accept-Encoding Content-Encoding: gzip X-UA-Compatible: IE=EmulateIE7 Content-Length: 489  ,129181, 5
+[1:7:0811/063755.380373:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0811/063755.478261:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:6_http://i.baike.com/
+[1:1:0811/063755.615634:INFO:html_document_parser.cc(1203)]  $$$ [TASK] HTMLDocumentParser::AppendBytes -> BackgroundHTMLParser::AppendRawBytesFromMainThread
+[129084:129084:0811/063755.625461:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:6_http://i.baike.com/, http://i.baike.com/, 6
+[129084:129084:0811/063755.625521:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 6, 6, http://i.baike.com/, http://i.baike.com
+[1:1:0811/063755.721193:INFO:html_parser_scheduler.cc(81)]  $$$ [TASK] HTMLParserScheduler::ScheduleForUnpause -> HTMLParserScheduler::ContinueParsing
+[1:1:0811/063755.841438:INFO:html_parser_scheduler.cc(158)]  $$$ [TASK] HTMLParserScheduler::ContinueParsing
+[1:1:0811/063755.841653:INFO:html_document_parser.cc(272)] >>> HTMLDocumentParser::ResumeParsingAfterYield. url is "http://i.baike.com/iframeheight.html?rnd=0.7606220885389698#228|1785"
+[1:1:0811/063755.843610:INFO:script_loader.cc(852)]  $$$ [Script] ScriptLoader::ExecuteScriptBlock. task_id, url is 1053 0x7fcc13846070 0x38e5dcf5a060 , "http://i.baike.com/iframeheight.html?rnd=0.7606220885389698#228|1785"
+[1:1:0811/063755.844856:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:6_http://i.baike.com/, 0297aeeaa428, , , 
+var singleComment={};
+singleComment.resizePage=function(){
+	if((parent!=null) && (parent.parent!=nu
+[1:1:0811/063755.845017:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/iframeheight.html?rnd=0.7606220885389698#228|1785", "i.baike.com", 6, 1, http://comment.baike.com, comment.baike.com, 4
+[1:1:0811/063755.845813:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 2, -5:6_http://i.baike.com/-5:3_http://i.baike.com/, 0297aee02860, 0297aeeaa428, getElementById, 
+[1:1:0811/063755.845943:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/langjianghu", "i.baike.com", 3, 2, , , 0
+[1:1:0811/063755.846233:INFO:binding_security.cc(248)] >>> BindingSecurity::PrintStack. stack is 
+	Object.singleComment.resizePage (http://i.baike.com/iframeheight.html?rnd=0.7606220885389698:6:32)
+	http://i.baike.com/iframeheight.html?rnd=0.7606220885389698:6:32
+
+[1:1:0811/063755.846791:INFO:switcher_impl.cc(1427)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 3, -5:6_http://i.baike.com/-5:3_http://i.baike.com/-5:6_http://i.baike.com/, 0297aeeaa428, 0297aee02860, split, 
+[1:1:0811/063755.846946:INFO:binding_security.cc(235)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://i.baike.com/iframeheight.html?rnd=0.7606220885389698#228|1785", "i.baike.com", 6, 3, http://comment.baike.com, comment.baike.com, 4
+[1:1:0811/063755.847251:INFO:binding_security.cc(248)] >>> BindingSecurity::PrintStack. stack is 
+	Object.singleComment.resizePage (http://i.baike.com/iframeheight.html?rnd=0.7606220885389698:6:32)
+	http://i.baike.com/iframeheight.html?rnd=0.7606220885389698:6:32
+

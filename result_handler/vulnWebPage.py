@@ -11,6 +11,7 @@ class VulnWebPage(object):
 		self.url = url
 
 		# the frame chains whose length is bigger than 1
+		#  a list, whose element is `result_handler.frameChain.FrameChain.frames`
 		self.vuln_frame_chain = []
 		# the frame chains, which belong to |self.vuln_frame_chain| and the corresponding js stack is not null
 		self.vuln_frame_chain_with_stack = []

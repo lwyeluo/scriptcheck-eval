@@ -23,6 +23,6 @@ def outputAtConsole():
 	log_file.setLevel(logging.DEBUG)
 
 	_logger.addHandler(log_file)
-	#_logger.addHandler(console)
+	_logger.addHandler(console)
 
 outputAtConsole()
