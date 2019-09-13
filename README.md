@@ -41,7 +41,7 @@ cd chromewhip
 sudo pip3 install -r requirements.txt
 cd ../
 
-sudo pip3 install threadpool publicsuffix numpy
+sudo pip3 install threadpool publicsuffix numpy matplotlib
 
 npm install chrome-remote-interface
 ```
