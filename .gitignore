@@ -18,6 +18,8 @@ document_domain/results/
 
 benchmark/micro/results/
 
+tmp/attack/*.log
+
 __pycache__/
 .DS_Store
 .idea/

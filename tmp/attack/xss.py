@@ -53,7 +53,8 @@ class Parse(object):
 		fp.close()
 
 		# output
-		self._output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "vuln_subdomains")
+		self._output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "vuln_subdomains")
+		self._output_path = os.path.join(self._output_dir, "subdomains_with_vector")
 
 		self._min_rank = min_rank
 		self._max_rank = max_rank
@@ -104,7 +105,7 @@ class Parse(object):
 		pool.close()
 		pool.join()
 		for ret in results:
-			self.final_urls.update(ret)
+			self.final_urls.update(ret.get())
 
 		# write homepages into file
 		self.writeToFile()
@@ -119,12 +120,12 @@ class Parse(object):
 		vuln_vectors = []
 		while process_node.poll() is None:
 			line = process_node.stdout.readline()
-			line = str(line.strip())
+			line = line.strip().decode("utf-8")
 			if line:
 				print('Subprogram output: [{}]'.format(line))
 				if self._xsstrike_vuln in line:
 					_, _, v = line.partition(self._xsstrike_vuln)
-					v = v.strip("'")
+					v = v.strip("'").replace(" ", "")
 					print(">>> Find a vulnerable page: " + v)
 					vuln_pages.append(v)
 				elif self._xsstrike_vector in line:
@@ -135,9 +136,9 @@ class Parse(object):
 
 		vuln_urls = {rank: []}
 		for i in range(0, len(vuln_pages)):
-			print(vuln_pages[i], vuln_vectors[i])
-			vuln_urls[rank].append("%s?%s=" % (vuln_pages[i], vuln_vectors[i]))
-		_logger.info("%s" % json.dumps(result))
+			data = vuln_pages[i] + "?" + vuln_vectors[i] + "="
+			_logger.info(data)
+			vuln_urls[rank].append(data)
 		return vuln_urls
 
 	def threadCallback(self, request, result):
@@ -146,11 +147,16 @@ class Parse(object):
 
 	def writeToFile(self):
 		fp = open(self._output_path, "w")
-		json.dump(self.final_urls, fp)
+		for k in sorted(self.final_urls.keys()):
+			fp.write(">>> %d\n" % k)
+			for url in self.final_urls[k]:
+				fp.write(url)
+				fp.write("\n")
+		# json.dump(self.final_urls, fp)
 		fp.close()
 
 if __name__ == '__main__':
 	min_rank = 0
-	max_rank = 20
+	max_rank = 10
 	p = Parse(min_rank, max_rank)
 	p.runForVector()
