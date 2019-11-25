@@ -1,0 +1,4007 @@
+{
+  "4245": {
+    "site": "marmiton.org",
+    "subdomain": "www.marmiton.org",
+    "details": {
+      "setDomain": {
+        "marmiton.org": 9
+      },
+      "urls": [
+        "https://www.marmiton.org/"
+      ]
+    }
+  },
+  "6519": {
+    "site": "iol.pt",
+    "subdomain": "tvi24.iol.pt",
+    "details": {
+      "setDomain": {
+        "iol.pt": 1
+      },
+      "urls": []
+    }
+  },
+  "1841": {
+    "site": "theknot.com",
+    "subdomain": "www.theknot.com",
+    "details": {
+      "setDomain": {
+        "theknot.com": 2
+      },
+      "urls": [
+        "https://www.theknot.com/registry",
+        "https://www.theknot.com/",
+        "https://www.theknot.com/rehearsal-dinner",
+        "https://www.theknot.com/wedding-budget",
+        "https://www.theknot.com/marketplace/forged-in-the-north-brooklyn-ny-976192"
+      ]
+    }
+  },
+  "3": {
+    "site": "facebook.com",
+    "subdomain": "staticxx.facebook.com",
+    "details": {
+      "setDomain": {
+        "facebook.com": 447
+      },
+      "urls": [
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f927151ade762c&origin=https%3A%2F%2Fwww.goindigo.in",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f791e39b0c77f4&origin=https%3A%2F%2Fwww.shareae.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2580ec254bf2c8&origin=https%3A%2F%2Fwww.pyszne.pl",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2b1ce9674d5f2&origin=https%3A%2F%2Fvidea.hu",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f65360ec2656b&origin=https%3A%2F%2Fwww.jiocinema.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f1c796fd10f4f78&origin=https%3A%2F%2Fwww.eldiario.es",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2906f05e6062e8&origin=https%3A%2F%2Fwww.yidio.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2f7a8f009ed6f&origin=https%3A%2F%2Fcomic-walker.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f152242c451fe6c&origin=http%3A%2F%2Fwww.hi5.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f7168513e1f85c&origin=https%3A%2F%2Fwww.jiocinema.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f4b032584bd8f8&origin=https%3A%2F%2Fwww.shareae.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f16eb9dd9bef11c&origin=https%3A%2F%2Felcinema.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=fb7ad6f3004c3&origin=https%3A%2F%2Fwww.eldiario.es",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=fb68b55c7ce39c&origin=https%3A%2F%2Fwww.pyszne.pl",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f39cbdb0af5a9b&origin=https%3A%2F%2Fwww.garant.ru",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=fc58c3164a4f3c&origin=http%3A%2F%2Fwww.pravoslavie.ru",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=fd74bb629cfe4&origin=http%3A%2F%2Fwww.hdfilmcehennemi2.org",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f352fd84f635698&origin=https%3A%2F%2Fwww.softportal.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3282dda20cac68&origin=https%3A%2F%2Fwww.voicetube.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3d8074590f9a94&origin=https%3A%2F%2Fannons.dn.se",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f1318263aa53b84&origin=https%3A%2F%2Fshareae.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f23e1f2bbc694e4&origin=https%3A%2F%2Fwww.ccma.cat",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f1783418d00cd6c&origin=https%3A%2F%2Fkasulik.delfi.ee",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f16ecdb61cc07e&origin=https%3A%2F%2Fpractice.geeksforgeeks.org",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f14f1e168d3eba8&origin=https%3A%2F%2Fdiamond.jp",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f21959fe622b18c&origin=http%3A%2F%2Fcareers.naukri.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f6d8f85df67768&origin=https%3A%2F%2Fplays.tv",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f300bbf9ff20a18&origin=http%3A%2F%2Fwww.hi5.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2d22b6a80e1b44&origin=https%3A%2F%2Fwww.pcloud.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=fb10206cc574c&origin=https%3A%2F%2Fwww.emol.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f1dd419ce2be858&origin=https%3A%2F%2Fwww.voicetube.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f34a935885229d8&origin=https%3A%2F%2Fpractice.geeksforgeeks.org",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2c8cf9405a64c4&origin=https%3A%2F%2Fmmm-yoso.typepad.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=fc085d083dd7&origin=https%3A%2F%2Fculture.fool.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3f601d22826a84&origin=https%3A%2F%2Fro.sputnik.md",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f316e02b48b1528&origin=https%3A%2F%2Fwww.apa.org",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f1821a502375d2&origin=https%3A%2F%2Fwww.voicetube.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3f130e72e08468&origin=http%3A%2F%2Fhelp.weheartit.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f10910f4fa56bc&origin=https%3A%2F%2Fwww.emol.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2c869bed08bf&origin=https%3A%2F%2Fwww.polsatsport.pl",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f350b0432388c1&origin=https%3A%2F%2Fbook.goindigo.in",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2db18392256564&origin=https%3A%2F%2Fwww.aa.com.tr",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f11b9521e42aa94&origin=http%3A%2F%2Fru.osvita.ua",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f9ec6d8c596d04&origin=https%3A%2F%2Fjobs.iu.edu",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f41932a2b20188&origin=https%3A%2F%2Fwww.voicetube.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f38b772a533274c&origin=https%3A%2F%2Fwww.polsatsport.pl",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f31f5b4be09ab7&origin=https%3A%2F%2Fwww.aa.com.tr",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2a8fb563655078&origin=https%3A%2F%2Fwww.softportal.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f24a5bdf85897c8&origin=https%3A%2F%2Fshareae.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f87a30eddbe1d&origin=https%3A%2F%2Fwww.pyszne.pl",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3fabbfb30b0d1&origin=http%3A%2F%2Fwww.hi5.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f351892658b484&origin=https%3A%2F%2Fwww.voicetube.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2554caa65cb47c&origin=https%3A%2F%2Ffilmesonlinehd1.net",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f31b36b9aa8809c&origin=https%3A%2F%2Fwww.showroomprive.com",
+        "https://staticxx.facebook.com/",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f523eae9fa2648&origin=https%3A%2F%2Fwww.polsatsport.pl",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f1a46fb5e65c5d8&origin=http%3A%2F%2Fwww.pravoslavie.ru",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f278b7de405ec64&origin=http%3A%2F%2Fwww.pravoslavie.ru",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f38b0f01e5e7d1c&origin=https%3A%2F%2Fhvg.hu",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2342254aa9c7fc&origin=https%3A%2F%2Fvfxdownload.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f114dd3dda9a23&origin=https%3A%2F%2Fwww.jiocinema.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3e94d933f2594&origin=https%3A%2F%2Fforum.gamme.com.tw",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3f62f133f9249&origin=https%3A%2F%2Fshareae.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f4bf87e1deac28&origin=https%3A%2F%2Fwww.emol.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=fc126acbe24eb&origin=https%3A%2F%2Fwww.softportal.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f14e502a5b14f4&origin=https%3A%2F%2Fsecondlife.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3e9af7cf1294a8&origin=https%3A%2F%2Fwww.hi5.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f383603e41bf12&origin=https%3A%2F%2Fwww.emol.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=fdac10c81ce85c&origin=https%3A%2F%2Ffineartamerica.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f30f2e30c64bb38&origin=http%3A%2F%2Fwww.hi5.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2f021b759b47e&origin=https%3A%2F%2Fwww.fun365.orientaltrading.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f21a029b217f6cc&origin=https%3A%2F%2Fopenknowledge.worldbank.org",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f76a023dba378&origin=https%3A%2F%2Fhvg.hu",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f44c669ab14e0c&origin=https%3A%2F%2Fwww.bathandbodyworks.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f37d7789818daa8&origin=https%3A%2F%2Fwww.emol.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3f9a8160a2b3a4&origin=https%3A%2F%2Fmy.pcloud.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f6702bf63fdc68&origin=https%3A%2F%2Fwww.eldiario.es",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3a8319026bbf9c&origin=https%3A%2F%2Fsupport.videoblocks.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f304fd1f52345b8&origin=http%3A%2F%2Fwww.garant.ru",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3135356116492c&origin=https%3A%2F%2Fwww.seatguru.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f39a4230129b9c&origin=https%3A%2F%2Fforum.phun.org",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f1dee88d3cc2018&origin=https%3A%2F%2Fupstore.net",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2db61b3f12d094&origin=https%3A%2F%2Fwww.emol.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f173251e3017af8&origin=https%3A%2F%2Fwww.moviepilot.de",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f13a044aca2fe1c&origin=https%3A%2F%2Fvidea.hu",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f25610ea0dca25&origin=https%3A%2F%2Fwww.emol.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3c7c2555f47518&origin=https%3A%2F%2Fpromos.privatbank.ua",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3c2be8d3b87454&origin=https%3A%2F%2Fcomic-walker.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f5ac2aee902a34&origin=https%3A%2F%2Fwww.polsatsport.pl",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f15bfb6ca2515d&origin=https%3A%2F%2Fwww.softportal.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f7919a7d3d5104&origin=http%3A%2F%2Fwww.hdfilmcehennemi2.org",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=fc096cd1cb89ec&origin=https%3A%2F%2Fshareae.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f1181217af5fb8c&origin=https%3A%2F%2Fwww.elcinema.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f1295ee67caea78&origin=http%3A%2F%2Fwww.pravoslavie.ru",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f21d06a16bac42c&origin=https%3A%2F%2Fshareae.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=fd82e5780e5004&origin=https%3A%2F%2Fshareae.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f79627ca5c84e&origin=https%3A%2F%2Fwww.musixmatch.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2391b11a148084&origin=https%3A%2F%2Fwww.apa.org",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3091a65d834268&origin=http%3A%2F%2Fwww.hi5.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2e8b94de33b464&origin=https%3A%2F%2Fwww.softportal.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f43120fc6ee6d&origin=https%3A%2F%2Fwww.apa.org",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f38761997449354&origin=https%3A%2F%2Fupstore.net",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f97dcf414f11e8&origin=https%3A%2F%2Fsecondlife.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3a9ed3222e1bc&origin=https%3A%2F%2Fcuriouscat.me",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=fccd1fc25a7ce8&origin=http%3A%2F%2Fwww.pravoslavie.ru",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3f2a7de9375fc&origin=https%3A%2F%2Fwww.skillshare.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f9f7357ddbaa&origin=https%3A%2F%2Fwww.aa.com.tr",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f343ef4142ba43c&origin=https%3A%2F%2Fwww.techwalla.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f28ec07d8e54c64&origin=http%3A%2F%2Fwww.hi5.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f26c567057ce66&origin=https%3A%2F%2Fru.sputnik.md",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2a7a6b60eb8db4&origin=http%3A%2F%2Fhelp.weheartit.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f228406b2304614&origin=https%3A%2F%2Fhvg.hu",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2082a1a79629f&origin=https%3A%2F%2Fupstore.net",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2413dc353dfe4&origin=https%3A%2F%2Fwww.kathimerini.gr",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2c02293d136f14&origin=https%3A%2F%2Fwww.readmng.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2efb19a9478688&origin=http%3A%2F%2Fwww.hi5.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f35b43dd9d5cf38&origin=https%3A%2F%2Fsputnik.md",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f1d1321a3602724&origin=https%3A%2F%2Fwww.goindigo.in",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f15cbd2ee1ef43c&origin=https%3A%2F%2Fopenknowledge.worldbank.org",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f522dbbf82abc4&origin=https%3A%2F%2Fsecure.retailmenot.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=ff5adfd1d5d28&origin=https%3A%2F%2Fwww.softportal.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f6207e31286cb4&origin=https%3A%2F%2Fwww.voicetube.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f31771e324ad8&origin=https%3A%2F%2Fsplice.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=fa8463f652fb34&origin=https%3A%2F%2Fwww.koimoi.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3d6c47f221177&origin=https%3A%2F%2Fwww.musixmatch.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f127a20ead87c64&origin=https%3A%2F%2Fwww.voicetube.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=faaba12773757&origin=http%3A%2F%2Fwww.garant.ru",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f38353a07920004&origin=https%3A%2F%2Fvidea.hu",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2f325c822fe78&origin=https%3A%2F%2Fmhannah.typepad.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f1d4aac6131bb68&origin=https%3A%2F%2Fupstore.net",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f1d90e8d975f26&origin=https%3A%2F%2Fwww.mandatory.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f2ad7d5ec56aadc&origin=https%3A%2F%2Fwww.fool.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=fdd0c0636f2ffc&origin=https%3A%2F%2Fwww.fool.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f1ed2b1a7dc8ad8&origin=https%3A%2F%2Fshareae.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f1c7585cccbca2c&origin=https%3A%2F%2Fwww.voicetube.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f268b4205da1e5c&origin=https%3A%2F%2Fblog.docker.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f3115a1f100cb&origin=https%3A%2F%2Fwww.apa.org",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f9d5573e1a8c54&origin=https%3A%2F%2Fwww.emol.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f278f18827b4494&origin=https%3A%2F%2Fwww.koimoi.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f214e210a7f9828&origin=https%3A%2F%2Fwww.emol.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f23102a843ccad4&origin=https%3A%2F%2Fplays.tv",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f27dc26531fa23&origin=https%3A%2F%2Fcomic-walker.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f8cca7b0a4f64c&origin=https%3A%2F%2Fwww.dietdoctor.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f28bd3edbceb28&origin=http%3A%2F%2Fwww.hi5.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f186e7f4d8c1f18&origin=https%3A%2F%2Fshareae.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=face429f903134&origin=https%3A%2F%2Fwww.emol.com",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f17984b8906a384&origin=http%3A%2F%2Fwww.sblo.jp",
+        "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f153e5bb03542c8&origin=https%3A%2F%2Fwww.radiofarda.com"
+      ]
+    }
+  },
+  "489": {
+    "site": "kp.ru",
+    "subdomain": "www.kp.ru",
+    "details": {
+      "setDomain": {
+        "kp.ru": 3
+      },
+      "urls": [
+        "https://www.kp.ru/search/index.html",
+        "https://www.kp.ru/dailycollections",
+        "https://www.kp.ru/dailytheme14897/",
+        "https://www.kp.ru/auto/",
+        "https://www.kp.ru/dailyeuromaidan",
+        "https://www.kp.ru/",
+        "https://www.kp.ru/html/push/service.html",
+        "https://www.kp.ru/online/news/3558220/",
+        "https://www.kp.ru/dailygurman/",
+        "https://www.kp.ru/auto",
+        "https://www.kp.ru/dailyeuromaidan/",
+        "https://www.kp.ru/dailytheme14897",
+        "https://www.kp.ru/dailygurman",
+        "https://www.kp.ru/dailylednikovyi-period/",
+        "https://www.kp.ru/dailylednikovyi-period",
+        "https://www.kp.ru/dailycollections/"
+      ]
+    }
+  },
+  "9720": {
+    "site": "567pan.com",
+    "subdomain": "www.567pan.com",
+    "details": {
+      "setDomain": {
+        "567pan.com": 1
+      },
+      "urls": [
+        "https://www.567pan.com/",
+        "https://www.567pan.com/vip.php"
+      ]
+    }
+  },
+  "76": {
+    "site": "xinhuanet.com",
+    "subdomain": "www.xinhuanet.com",
+    "details": {
+      "setDomain": {
+        "xinhuanet.com": 4
+      },
+      "urls": [
+        "http://www.xinhuanet.com/video/2019-08/01/c_1210223714.htm",
+        "http://www.xinhuanet.com/2015/html2015/xhfloatAdv_v1.html",
+        "http://www.xinhuanet.com/video/zt/xhcn.htm",
+        "http://www.xinhuanet.com/",
+        "http://www.xinhuanet.com/video/sjxw/2019-07/19/c_1210204057.htm",
+        "http://www.xinhuanet.com/video/2019-08/01/c_1210223697.htm"
+      ]
+    }
+  },
+  "894": {
+    "site": "flashscore.com",
+    "subdomain": "www.flashscore.com",
+    "details": {
+      "setDomain": {
+        "flashscore.com": 1
+      },
+      "urls": []
+    }
+  },
+  "1363": {
+    "site": "pptv.com",
+    "subdomain": "travel.pptv.com",
+    "details": {
+      "setDomain": {
+        "pptv.com": 1
+      },
+      "urls": [
+        "https://travel.pptv.com/"
+      ]
+    }
+  },
+  "7365": {
+    "site": "hsn.com",
+    "subdomain": "www.hsn.com",
+    "details": {
+      "setDomain": {
+        "hsn.com": 9
+      },
+      "urls": [
+        "https://www.hsn.com/shop/customer-picks-kitchen-and-food/qc-1845",
+        "https://www.hsn.com/",
+        "https://www.hsn.com/todays-special",
+        "https://www.hsn.com/shop/top-kitchen-deals/16130",
+        "https://www.hsn.com/content/HSN_Outlet/261",
+        "https://www.hsn.com/watch/channel-finder",
+        "https://www.hsn.com/content/Pay_Your_Bill/705"
+      ]
+    }
+  },
+  "1276": {
+    "site": "idnes.cz",
+    "subdomain": "tv.idnes.cz",
+    "details": {
+      "setDomain": {
+        "idnes.cz": 5
+      },
+      "urls": [
+        "https://tv.idnes.cz/"
+      ]
+    }
+  },
+  "9273": {
+    "site": "xe.gr",
+    "subdomain": "www.xe.gr",
+    "details": {
+      "setDomain": {
+        "xe.gr": 1
+      },
+      "urls": [
+        "https://www.xe.gr/hlektrikes-syskeves",
+        "https://www.xe.gr/",
+        "https://www.xe.gr/zoa",
+        "https://www.xe.gr/travel",
+        "https://www.xe.gr/rouxa-kosmimata"
+      ]
+    }
+  },
+  "7162": {
+    "site": "bitdefender.com",
+    "subdomain": "www.bitdefender.com",
+    "details": {
+      "setDomain": {
+        "bitdefender.com": 8
+      },
+      "urls": [
+        "https://www.bitdefender.com/"
+      ]
+    }
+  },
+  "1189": {
+    "site": "sozcu.com.tr",
+    "subdomain": "www.sozcu.com.tr",
+    "details": {
+      "setDomain": {
+        "sozcu.com.tr": 9
+      },
+      "urls": []
+    }
+  },
+  "186": {
+    "site": "alibaba.com",
+    "subdomain": "www.alibaba.com",
+    "details": {
+      "setDomain": {
+        "alibaba.com": 3
+      },
+      "urls": [
+        "https://www.alibaba.com/Vehicles-Accessories_p34",
+        "https://www.alibaba.com/",
+        "https://www.alibaba.com/Packaging-Printing_p23",
+        "https://www.alibaba.com/Machinery_p43",
+        "https://www.alibaba.com/Home-Kitchen_p15"
+      ]
+    }
+  },
+  "4033": {
+    "site": "milenio.com",
+    "subdomain": "www.milenio.com",
+    "details": {
+      "setDomain": {
+        "milenio.com": 6
+      },
+      "urls": [
+        "https://www.milenio.com/"
+      ]
+    }
+  },
+  "3029": {
+    "site": "chinanews.com",
+    "subdomain": "cul.chinanews.com",
+    "details": {
+      "setDomain": {
+        "chinanews.com": 1
+      },
+      "urls": [
+        "http://cul.chinanews.com/"
+      ]
+    }
+  },
+  "4872": {
+    "site": "news24.com",
+    "subdomain": "www.news24.com",
+    "details": {
+      "setDomain": {
+        "news24.com": 1
+      },
+      "urls": []
+    }
+  },
+  "9142": {
+    "site": "everydayhealth.com",
+    "subdomain": "www.everydayhealth.com",
+    "details": {
+      "setDomain": {
+        "www.everydayhealth.com": 3
+      },
+      "urls": [
+        "https://www.everydayhealth.com/",
+        "https://www.everydayhealth.com/lung-cancer/living-with-non-small-cell-lung-cancer/",
+        "https://www.everydayhealth.com/tippi/rheumatoid-arthritis-tips/"
+      ]
+    }
+  },
+  "2944": {
+    "site": "39.net",
+    "subdomain": "yyk.39.net",
+    "details": {
+      "setDomain": {
+        "39.net": 1
+      },
+      "urls": []
+    }
+  },
+  "9883": {
+    "site": "lasexta.com",
+    "subdomain": "www.lasexta.com",
+    "details": {
+      "setDomain": {
+        "lasexta.com": 9
+      },
+      "urls": [
+        "https://www.lasexta.com/programas/al-rojo-vivo/entrevistas/antonio-maestre-las-medidas-de-inmigracion-que-defiende-vox-y-que-recogio-rivera-en-el-debate-son-los-fundamentos-de-una-asociacion-nazi_201908015d42db270cf2c803c0fe32b7.html",
+        "https://www.lasexta.com/"
+      ]
+    }
+  },
+  "4522": {
+    "site": "bu.edu",
+    "subdomain": "www.bu.edu",
+    "details": {
+      "setDomain": {
+        "bu.edu": 3
+      },
+      "urls": [
+        "http://www.bu.edu/",
+        "http://www.bu.edu/global/support/",
+        "http://www.bu.edu/sustainability/",
+        "http://www.bu.edu/trustees/",
+        "http://www.bu.edu/finaid/",
+        "https://www.bu.edu/",
+        "https://www.bu.edu/about/admin/",
+        "http://www.bu.edu/campaign/"
+      ]
+    }
+  },
+  "2171": {
+    "site": "mirtesen.ru",
+    "subdomain": "inamora.mirtesen.ru",
+    "details": {
+      "setDomain": {
+        "inamora.mirtesen.ru": 2
+      },
+      "urls": [
+        "http://inamora.mirtesen.ru/",
+        "http://inamora.mirtesen.ru/cmt/?identifier=IFRAME&HOST=inamora.mirtesen.ru&version=1.32"
+      ]
+    }
+  },
+  "4466": {
+    "site": "cosmo.ru",
+    "subdomain": "firsttime.2019.cosmo.ru",
+    "details": {
+      "setDomain": {
+        "firsttime.2019.cosmo.ru": 1
+      },
+      "urls": [
+        "http://firsttime.2019.cosmo.ru/?utm_source=cosmo.ru&utm_medium=referral&utm_campaign=Dontmiss",
+        "http://firsttime.2019.cosmo.ru/"
+      ]
+    }
+  },
+  "6168": {
+    "site": "patrika.com",
+    "subdomain": "www.patrika.com",
+    "details": {
+      "setDomain": {
+        "patrika.com": 1
+      },
+      "urls": []
+    }
+  },
+  "27": {
+    "site": "mail.ru",
+    "subdomain": "my.mail.ru",
+    "details": {
+      "setDomain": {
+        "mail.ru": 8
+      },
+      "urls": [
+        "https://my.mail.ru/",
+        "https://my.mail.ru/community/www.adme.ru/",
+        "https://my.mail.ru/static/myrb2.html"
+      ]
+    }
+  },
+  "86": {
+    "site": "douyu.com",
+    "subdomain": "www.douyu.com",
+    "details": {
+      "setDomain": {
+        "douyu.com": 1
+      },
+      "urls": [
+        "https://www.douyu.com/topic/PUBGSTAR",
+        "https://www.douyu.com/",
+        "https://www.douyu.com/14163",
+        "https://www.douyu.com/6584927",
+        "https://www.douyu.com/g_LOL",
+        "https://www.douyu.com/member/login/to37wan/?isGee=1&style=1&forward=https%3A%2F%2Fwan.douyu.com%2F",
+        "https://www.douyu.com/7084089",
+        "https://www.douyu.com/99999"
+      ]
+    }
+  },
+  "9116": {
+    "site": "weatherzone.com.au",
+    "subdomain": "www.weatherzone.com.au",
+    "details": {
+      "setDomain": {
+        "weatherzone.com.au": 8
+      },
+      "urls": [
+        "https://www.weatherzone.com.au/"
+      ]
+    }
+  },
+  "8865": {
+    "site": "digit.in",
+    "subdomain": "www.digit.in",
+    "details": {
+      "setDomain": {
+        "digit.in": 5
+      },
+      "urls": [
+        "https://www.digit.in/reviews/mobile-phones/xiaomi-redmi-k20-review-182421.html",
+        "https://www.digit.in/rss-feed",
+        "https://www.digit.in/",
+        "https://www.digit.in/mobile-phones/vivo-z5-128gb-price-185605.html"
+      ]
+    }
+  },
+  "9666": {
+    "site": "kankanews.com",
+    "subdomain": "live.kankanews.com",
+    "details": {
+      "setDomain": {
+        "kankanews.com": 1
+      },
+      "urls": [
+        "http://live.kankanews.com/huikan/",
+        "http://live.kankanews.com/"
+      ]
+    }
+  },
+  "6": {
+    "site": "qq.com",
+    "subdomain": "open.qzone.qq.com",
+    "details": {
+      "setDomain": {
+        "qq.com": 4
+      },
+      "urls": []
+    }
+  },
+  "1436": {
+    "site": "qualtrics.com",
+    "subdomain": "www.qualtrics.com",
+    "details": {
+      "setDomain": {
+        "qualtrics.com": 1
+      },
+      "urls": [
+        "https://www.qualtrics.com/au/?rid=ip&prevsite=en&newsite=au&geo=CN&geomatch=au",
+        "https://www.qualtrics.com/login-banners/",
+        "https://www.qualtrics.com/"
+      ]
+    }
+  },
+  "5903": {
+    "site": "sdo.com",
+    "subdomain": "www.sdo.com",
+    "details": {
+      "setDomain": {
+        "sdo.com": 1
+      },
+      "urls": [
+        "https://www.sdo.com/"
+      ]
+    }
+  },
+  "9": {
+    "site": "tmall.com",
+    "subdomain": "login.tmall.com",
+    "details": {
+      "setDomain": {
+        "tmall.com": 1
+      },
+      "urls": []
+    }
+  },
+  "3949": {
+    "site": "cyol.com",
+    "subdomain": "news.cyol.com",
+    "details": {
+      "setDomain": {
+        "cyol.com": 8
+      },
+      "urls": [
+        "http://news.cyol.com/",
+        "http://news.cyol.com/node_65541.htm",
+        "http://news.cyol.com/node_65539.htm",
+        "http://news.cyol.com/node_65540.htm",
+        "http://news.cyol.com/node_66255.htm"
+      ]
+    }
+  },
+  "2716": {
+    "site": "trademe.co.nz",
+    "subdomain": "www.trademe.co.nz",
+    "details": {
+      "setDomain": {
+        "trademe.co.nz": 9
+      },
+      "urls": [
+        "https://www.trademe.co.nz/",
+        "https://www.trademe.co.nz/trust-safety"
+      ]
+    }
+  },
+  "6655": {
+    "site": "health.com",
+    "subdomain": "secure.health.com",
+    "details": {
+      "setDomain": {
+        "health.com": 1
+      },
+      "urls": []
+    }
+  },
+  "78": {
+    "site": "iqiyi.com",
+    "subdomain": "help.iqiyi.com",
+    "details": {
+      "setDomain": {
+        "iqiyi.com": 1
+      },
+      "urls": [
+        "http://help.iqiyi.com/"
+      ]
+    }
+  },
+  "4369": {
+    "site": "manmanbuy.com",
+    "subdomain": "home.manmanbuy.com",
+    "details": {
+      "setDomain": {
+        "manmanbuy.com": 8
+      },
+      "urls": [
+        "http://home.manmanbuy.com/",
+        "http://home.manmanbuy.com/loginIFrame.aspx"
+      ]
+    }
+  },
+  "742": {
+    "site": "vnexpress.net",
+    "subdomain": "startup.vnexpress.net",
+    "details": {
+      "setDomain": {
+        "vnexpress.net": 2
+      },
+      "urls": []
+    }
+  },
+  "2865": {
+    "site": "koolearn.com",
+    "subdomain": "www.koolearn.com",
+    "details": {
+      "setDomain": {
+        "koolearn.com": 7
+      },
+      "urls": [
+        "https://www.koolearn.com/product/c_24_18370.html",
+        "https://www.koolearn.com/"
+      ]
+    }
+  },
+  "1261": {
+    "site": "sfgate.com",
+    "subdomain": "www.sfgate.com",
+    "details": {
+      "setDomain": {
+        "sfgate.com": 1
+      },
+      "urls": []
+    }
+  },
+  "1042": {
+    "site": "178.com",
+    "subdomain": "news.178.com",
+    "details": {
+      "setDomain": {
+        "178.com": 2
+      },
+      "urls": [
+        "http://news.178.com/",
+        "http://news.178.com/test/178ad-iframe-20171229.html?v1.0"
+      ]
+    }
+  },
+  "5242": {
+    "site": "skyrock.com",
+    "subdomain": "moi44791.skyrock.com",
+    "details": {
+      "setDomain": {
+        "skyrock.com": 1
+      },
+      "urls": [
+        "https://moi44791.skyrock.com/"
+      ]
+    }
+  },
+  "6985": {
+    "site": "gongkong.com",
+    "subdomain": "bbs.gongkong.com",
+    "details": {
+      "setDomain": {
+        "gongkong.com": 3
+      },
+      "urls": [
+        "http://bbs.gongkong.com/d/201907/802573_1.shtml",
+        "http://bbs.gongkong.com/reply/create?pt=0&pi=800827",
+        "http://bbs.gongkong.com/D/201907/800827_1.shtml",
+        "http://bbs.gongkong.com/reply/create?pt=0&pi=802573",
+        "http://bbs.gongkong.com/"
+      ]
+    }
+  },
+  "2509": {
+    "site": "mk.co.kr",
+    "subdomain": "common.mk.co.kr",
+    "details": {
+      "setDomain": {
+        "mk.co.kr": 4
+      },
+      "urls": [
+        "http://common.mk.co.kr/common/include/inc_todayPhoto_mk.php?sc=40100044&mc=ES",
+        "http://common.mk.co.kr/"
+      ]
+    }
+  },
+  "4406": {
+    "site": "nest.com",
+    "subdomain": "home.nest.com",
+    "details": {
+      "setDomain": {
+        "home.nest.com": 1
+      },
+      "urls": [
+        "https://home.nest.com/"
+      ]
+    }
+  },
+  "3159": {
+    "site": "dict.cn",
+    "subdomain": "abbr.dict.cn",
+    "details": {
+      "setDomain": {
+        "dict.cn": 1
+      },
+      "urls": []
+    }
+  },
+  "9891": {
+    "site": "mnggo.net",
+    "subdomain": "www.mnggo.net",
+    "details": {
+      "setDomain": {
+        "mnggo.net": 1
+      },
+      "urls": [
+        "https://www.mnggo.net/"
+      ]
+    }
+  },
+  "4016": {
+    "site": "chinaweiyu.com",
+    "subdomain": "crwwy.co.chinaweiyu.com",
+    "details": {
+      "setDomain": {
+        "chinaweiyu.com": 1
+      },
+      "urls": [
+        "https://crwwy.co.chinaweiyu.com/"
+      ]
+    }
+  },
+  "2048": {
+    "site": "mojang.com",
+    "subdomain": "status.mojang.com",
+    "details": {
+      "setDomain": {
+        "mojang.com": 2
+      },
+      "urls": [
+        "https://status.mojang.com/",
+        "https://status.mojang.com/frame?content=news",
+        "https://status.mojang.com/frame?content=check"
+      ]
+    }
+  },
+  "1679": {
+    "site": "thebalancecareers.com",
+    "subdomain": "www.thebalancecareers.com",
+    "details": {
+      "setDomain": {
+        "www.thebalancecareers.com": 10
+      },
+      "urls": []
+    }
+  },
+  "5092": {
+    "site": "marksandspencer.com",
+    "subdomain": "www.marksandspencer.com",
+    "details": {
+      "setDomain": {
+        "marksandspencer.com": 8
+      },
+      "urls": []
+    }
+  },
+  "7945": {
+    "site": "flashscore.pt",
+    "subdomain": "www.flashscore.pt",
+    "details": {
+      "setDomain": {
+        "flashscore.pt": 1
+      },
+      "urls": [
+        "https://www.flashscore.pt/"
+      ]
+    }
+  },
+  "598": {
+    "site": "dcinside.com",
+    "subdomain": "event.dcinside.com",
+    "details": {
+      "setDomain": {
+        "dcinside.com": 1
+      },
+      "urls": [
+        "https://event.dcinside.com/"
+      ]
+    }
+  },
+  "5018": {
+    "site": "next.co.uk",
+    "subdomain": "www.next.co.uk",
+    "details": {
+      "setDomain": {
+        "next.co.uk": 1
+      },
+      "urls": [
+        "https://www.next.co.uk/",
+        "https://www.next.co.uk/changedevice/mobile",
+        "https://www.next.co.uk/shoes"
+      ]
+    }
+  },
+  "8445": {
+    "site": "mediamarkt.es",
+    "subdomain": "www.mediamarkt.es",
+    "details": {
+      "setDomain": {
+        "mediamarkt.es": 9
+      },
+      "urls": [
+        "https://www.mediamarkt.es/es/category/_inform%C3%A1tica-701127.html",
+        "https://www.mediamarkt.es/es/category/_ofertas-folleto-706017.html",
+        "https://www.mediamarkt.es/",
+        "https://www.mediamarkt.es/es/category/_vigilabeb%C3%A9s-701325.html",
+        "https://www.mediamarkt.es/es/category/_componentes-y-accesorios-gaming-701413.html",
+        "https://www.mediamarkt.es/es/category/_seguridad-y-vigilancia-701275.html",
+        "https://www.mediamarkt.es/es/category/_accesorios-flash-702023.html",
+        "https://www.mediamarkt.es/es/category/_sets-y-accesorios-701311.html",
+        "https://www.mediamarkt.es/es/category/_limadores-de-durezas-701313.html",
+        "https://www.mediamarkt.es/es/category/_irrigadores-701297.html"
+      ]
+    }
+  },
+  "1717": {
+    "site": "weiyun.com",
+    "subdomain": "www.weiyun.com",
+    "details": {
+      "setDomain": {
+        "weiyun.com": 3
+      },
+      "urls": [
+        "http://www.weiyun.com/xy.html",
+        "https://www.weiyun.com/xy.html",
+        "https://www.weiyun.com/vip",
+        "https://www.weiyun.com/",
+        "https://www.weiyun.com/download.html",
+        "http://www.weiyun.com/download.html",
+        "http://www.weiyun.com/complaint.html",
+        "http://www.weiyun.com/",
+        "http://www.weiyun.com/mobile/xy.html"
+      ]
+    }
+  },
+  "4642": {
+    "site": "weidian.com",
+    "subdomain": "vmspub.weidian.com",
+    "details": {
+      "setDomain": {
+        "weidian.com": 2
+      },
+      "urls": [
+        "https://vmspub.weidian.com/",
+        "https://vmspub.weidian.com/wdzn",
+        "https://vmspub.weidian.com/gaia/25060/126/126.html"
+      ]
+    }
+  },
+  "4839": {
+    "site": "fdj.fr",
+    "subdomain": "www.fdj.fr",
+    "details": {
+      "setDomain": {
+        "fdj.fr": 7
+      },
+      "urls": [
+        "https://www.fdj.fr/jeux-loto",
+        "https://www.fdj.fr/",
+        "https://www.fdj.fr/jeux-keno",
+        "https://www.fdj.fr/compte",
+        "https://www.fdj.fr/illiko-jeux-de-grattage",
+        "https://www.fdj.fr/actualite",
+        "https://www.fdj.fr/espace-gagnants",
+        "https://www.fdj.fr/bingo-live-et-multijoueur/bingo-live"
+      ]
+    }
+  },
+  "10": {
+    "site": "vk.com",
+    "subdomain": "m.vk.com",
+    "details": {
+      "setDomain": {
+        "vk.com": 1
+      },
+      "urls": [
+        "https://m.vk.com/"
+      ]
+    }
+  },
+  "1614": {
+    "site": "people.com.cn",
+    "subdomain": "www.people.com.cn",
+    "details": {
+      "setDomain": {
+        "people.com.cn": 1
+      },
+      "urls": [
+        "http://www.people.com.cn/",
+        "http://www.people.com.cn/GB/50142/420117/index.html",
+        "http://www.people.com.cn/img/2014xuke/2018hlwxw.html"
+      ]
+    }
+  },
+  "5395": {
+    "site": "marthastewart.com",
+    "subdomain": "www.marthastewart.com",
+    "details": {
+      "setDomain": {
+        "marthastewart.com": 10
+      },
+      "urls": [
+        "https://www.marthastewart.com/sweepstakes/",
+        "https://www.marthastewart.com/"
+      ]
+    }
+  },
+  "4876": {
+    "site": "thebalancesmb.com",
+    "subdomain": "www.thebalancesmb.com",
+    "details": {
+      "setDomain": {
+        "www.thebalancesmb.com": 9
+      },
+      "urls": []
+    }
+  },
+  "1890": {
+    "site": "payoneer.com",
+    "subdomain": "payouts.payoneer.com",
+    "details": {
+      "setDomain": {
+        "payoneer.com": 1
+      },
+      "urls": []
+    }
+  },
+  "611": {
+    "site": "afreecatv.com",
+    "subdomain": "www.afreecatv.com",
+    "details": {
+      "setDomain": {
+        "afreecatv.com": 1
+      },
+      "urls": [
+        "https://www.afreecatv.com/"
+      ]
+    }
+  },
+  "832": {
+    "site": "cbssports.com",
+    "subdomain": "www.cbssports.com",
+    "details": {
+      "setDomain": {
+        "cbssports.com": 1
+      },
+      "urls": []
+    }
+  },
+  "4913": {
+    "site": "ntv.com.tr",
+    "subdomain": "www.ntv.com.tr",
+    "details": {
+      "setDomain": {
+        "ntv.com.tr": 7
+      },
+      "urls": []
+    }
+  },
+  "1957": {
+    "site": "thoughtco.com",
+    "subdomain": "www.thoughtco.com",
+    "details": {
+      "setDomain": {
+        "www.thoughtco.com": 9
+      },
+      "urls": []
+    }
+  },
+  "956": {
+    "site": "rozetka.com.ua",
+    "subdomain": "rg.rozetka.com.ua",
+    "details": {
+      "setDomain": {
+        "rozetka.com.ua": 10
+      },
+      "urls": [
+        "https://rg.rozetka.com.ua/",
+        "https://rg.rozetka.com.ua/iframe_recent_goods_v3"
+      ]
+    }
+  },
+  "8188": {
+    "site": "mei.net.cn",
+    "subdomain": "www.mei.net.cn",
+    "details": {
+      "setDomain": {
+        "mei.net.cn": 1
+      },
+      "urls": [
+        "http://www.mei.net.cn/jxgy/201908/838314.html",
+        "http://www.mei.net.cn/zxks/201908/838388.html",
+        "http://www.mei.net.cn/jcgj/201907/837773.html",
+        "http://www.mei.net.cn/"
+      ]
+    }
+  },
+  "4979": {
+    "site": "apa.org",
+    "subdomain": "my.apa.org",
+    "details": {
+      "setDomain": {
+        "apa.org": 14
+      },
+      "urls": [
+        "https://my.apa.org/apa/shop/cartFrame.html",
+        "https://my.apa.org/apa/idm/apaAuth.html",
+        "https://my.apa.org/apa/idm/login.seam?ERIGHTS_TARGET=https://memforms.apa.org/apa/cli/dues/dues.cfm",
+        "https://my.apa.org/"
+      ]
+    }
+  },
+  "5554": {
+    "site": "verywellmind.com",
+    "subdomain": "www.verywellmind.com",
+    "details": {
+      "setDomain": {
+        "www.verywellmind.com": 9
+      },
+      "urls": [
+        "https://www.verywellmind.com/what-is-holism-4685432",
+        "https://www.verywellmind.com/stress-management-overview-4581770",
+        "https://www.verywellmind.com/about-us#ContactUs",
+        "https://www.verywellmind.com/what-is-bibliotherapy-4687157",
+        "https://www.verywellmind.com/treating-bipolar-disorder-3576129",
+        "https://www.verywellmind.com/emotions-4157165",
+        "https://www.verywellmind.com/",
+        "https://www.verywellmind.com/what-is-rejection-sensitivity-4682652",
+        "https://www.verywellmind.com/overview-of-the-icd-11-4589392",
+        "https://www.verywellmind.com/the-enneagram-of-personality-4691757"
+      ]
+    }
+  },
+  "4845": {
+    "site": "flashresultats.fr",
+    "subdomain": "www.flashresultats.fr",
+    "details": {
+      "setDomain": {
+        "flashresultats.fr": 1
+      },
+      "urls": [
+        "https://www.flashresultats.fr/"
+      ]
+    }
+  },
+  "663": {
+    "site": "lifewire.com",
+    "subdomain": "www.lifewire.com",
+    "details": {
+      "setDomain": {
+        "www.lifewire.com": 8
+      },
+      "urls": [
+        "https://www.lifewire.com/about-us#EditorialGuidelines",
+        "https://www.lifewire.com/"
+      ]
+    }
+  },
+  "2638": {
+    "site": "book118.com",
+    "subdomain": "max.book118.com",
+    "details": {
+      "setDomain": {
+        "book118.com": 1
+      },
+      "urls": [
+        "https://max.book118.com/"
+      ]
+    }
+  },
+  "9527": {
+    "site": "thejournal.ie",
+    "subdomain": "www.thejournal.ie",
+    "details": {
+      "setDomain": {
+        "thejournal.ie": 10
+      },
+      "urls": [
+        "https://www.thejournal.ie/"
+      ]
+    }
+  },
+  "9046": {
+    "site": "pdpop.com",
+    "subdomain": "www.pdpop.com",
+    "details": {
+      "setDomain": {
+        "pdpop.com": 3
+      },
+      "urls": [
+        "http://www.pdpop.com/event/event_template_pc.html?event_name=mbn100",
+        "http://www.pdpop.com/event/event_contents.php?event_name=chanelA",
+        "http://www.pdpop.com/event/multidownevent_mac.php",
+        "http://www.pdpop.com/event/joos_autoresize.html?height=4646",
+        "http://www.pdpop.com/event/event_template_pc.html?event_name=chanelA",
+        "http://www.pdpop.com/event/joos_autoresize.html?height=5197",
+        "http://www.pdpop.com/event/201412_kbs_enddm.html",
+        "http://www.pdpop.com/event/joos_autoresize.html?height=1244",
+        "http://www.pdpop.com/event/201412_kbs_enddm_re.html",
+        "http://www.pdpop.com/event/event_contents.php?event_name=mbn100",
+        "http://www.pdpop.com/event/event_contents.php?event_name=tv%EC%A1%B0%EC%84%A0100%EC%9B%90",
+        "http://www.pdpop.com/event/event_template_pc.html?event_name=tv%EC%A1%B0%EC%84%A0100%26%2365533%3B%26%2365533%3B",
+        "http://www.pdpop.com/event/multidown_event_re.html?mode=mac",
+        "http://www.pdpop.com/",
+        "http://www.pdpop.com/pdpopnet.php?url=pdpop.com"
+      ]
+    }
+  },
+  "9994": {
+    "site": "d1ev.com",
+    "subdomain": "www.d1ev.com",
+    "details": {
+      "setDomain": {
+        "d1ev.com": 6
+      },
+      "urls": [
+        "https://www.d1ev.com/search?q=%E5%AE%9D%E9%AA%8F310W",
+        "https://www.d1ev.com/news/zhanhui",
+        "https://www.d1ev.com/",
+        "https://www.d1ev.com/about/contact",
+        "https://www.d1ev.com/tag/%E7%94%B5%E8%BD%A6%E4%B8%A5%E9%80%89",
+        "https://www.d1ev.com/tag/%E7%94%B5%E5%8A%A8%E5%98%9A%E5%90%A7%E5%98%9A",
+        "https://www.d1ev.com/carnews/xinche",
+        "https://www.d1ev.com/user/176677",
+        "https://www.d1ev.com/tag/E%E5%91%A8%E6%96%B0%E5%8A%BF%E5%8A%9B"
+      ]
+    }
+  },
+  "3698": {
+    "site": "chinachugui.com",
+    "subdomain": "poric.co.chinachugui.com",
+    "details": {
+      "setDomain": {
+        "chinachugui.com": 1
+      },
+      "urls": [
+        "https://poric.co.chinachugui.com/"
+      ]
+    }
+  },
+  "6463": {
+    "site": "dominos.jp",
+    "subdomain": "internetorder.dominos.jp",
+    "details": {
+      "setDomain": {
+        "dominos.jp": 1
+      },
+      "urls": [
+        "https://internetorder.dominos.jp/estore/ja/home",
+        "https://internetorder.dominos.jp/"
+      ]
+    }
+  },
+  "2902": {
+    "site": "kdnet.net",
+    "subdomain": "upfile1.kdnet.net",
+    "details": {
+      "setDomain": {
+        "kdnet.net": 1
+      },
+      "urls": [
+        "https://upfile1.kdnet.net/textareaeditor/GetPostFast_ubb.asp?boardid=77&followup=72152377&rootid=12458774&star=1&TotalUseTable=DV_BBS8&UserName=&topicname=%BA%A3%C4%CF%BB%E1%B9%DD&pages=4&lay=51",
+        "http://upfile1.kdnet.net/",
+        "https://upfile1.kdnet.net/"
+      ]
+    }
+  },
+  "2406": {
+    "site": "china.com",
+    "subdomain": "game.china.com",
+    "details": {
+      "setDomain": {
+        "game.china.com": 4
+      },
+      "urls": [
+        "https://game.china.com/",
+        "https://game.china.com/gbox/qldyxldjz/index.html",
+        "https://game.china.com/gbox/lzrwy/index.html",
+        "https://game.china.com/gbox_ref/index/popregIframeComment.html"
+      ]
+    }
+  },
+  "6266": {
+    "site": "bandsintown.com",
+    "subdomain": "www.bandsintown.com",
+    "details": {
+      "setDomain": {
+        "bandsintown.com": 3
+      },
+      "urls": [
+        "https://www.bandsintown.com/e/101373004-prim-at-dusk-dawn-club?came_from=257&utm_medium=web&utm_source=home&utm_campaign=top_event",
+        "https://www.bandsintown.com/a/210877-tal-wilkenfeld?came_from=257&utm_medium=web&utm_source=home&utm_campaign=top_event",
+        "https://www.bandsintown.com/?sort_by_filter=Number+of+RSVPs",
+        "https://www.bandsintown.com/?genre_filter=R%26B%2FSoul",
+        "https://www.bandsintown.com/?genre_filter=Hip+Hop",
+        "https://www.bandsintown.com/?came_from=257&genre_filter=Jazz&utm_medium=web&utm_source=home&utm_campaign=event_genre_list",
+        "https://www.bandsintown.com/"
+      ]
+    }
+  },
+  "7972": {
+    "site": "chinadd.cn",
+    "subdomain": "topli.co.chinadd.cn",
+    "details": {
+      "setDomain": {
+        "chinadd.cn": 1
+      },
+      "urls": [
+        "https://topli.co.chinadd.cn/"
+      ]
+    }
+  },
+  "978": {
+    "site": "joins.com",
+    "subdomain": "www.joins.com",
+    "details": {
+      "setDomain": {
+        "joins.com": 1
+      },
+      "urls": [
+        "https://www.joins.com/BBSJoinsPrimeIntro.html",
+        "https://www.joins.com/"
+      ]
+    }
+  },
+  "8312": {
+    "site": "ck365.cn",
+    "subdomain": "www.ck365.cn",
+    "details": {
+      "setDomain": {
+        "ck365.cn": 14
+      },
+      "urls": [
+        "http://www.ck365.cn/news/10/45558.html",
+        "http://www.ck365.cn/qynews/6/28857.html",
+        "http://www.ck365.cn/",
+        "http://www.ck365.cn/update/newanli.html",
+        "http://www.ck365.cn/extend/comment.php?mid=21&itemid=45558",
+        "http://www.ck365.cn/job/201902/23/828.html",
+        "http://www.ck365.cn/extend/comment.php?mid=29&itemid=28857"
+      ]
+    }
+  },
+  "3483": {
+    "site": "house365.com",
+    "subdomain": "newhouse.bb.house365.com",
+    "details": {
+      "setDomain": {
+        "house365.com": 1
+      },
+      "urls": [
+        "http://newhouse.bb.house365.com/"
+      ]
+    }
+  },
+  "1290": {
+    "site": "qidian.com",
+    "subdomain": "www.qidian.com",
+    "details": {
+      "setDomain": {
+        "qidian.com": 1
+      },
+      "urls": [
+        "https://www.qidian.com/"
+      ]
+    }
+  },
+  "8712": {
+    "site": "eatingwell.com",
+    "subdomain": "www.eatingwell.com",
+    "details": {
+      "setDomain": {
+        "www.eatingwell.com": 10
+      },
+      "urls": [
+        "http://www.eatingwell.com/",
+        "http://www.eatingwell.com/category/4291/meal-plans-for-diabetes/"
+      ]
+    }
+  },
+  "7563": {
+    "site": "kugou.com",
+    "subdomain": "adservice.kugou.com",
+    "details": {
+      "setDomain": {
+        "kugou.com": 3
+      },
+      "urls": []
+    }
+  },
+  "674": {
+    "site": "tencent.com",
+    "subdomain": "cloud.tencent.com",
+    "details": {
+      "setDomain": {
+        "cloud.tencent.com": 1
+      },
+      "urls": [
+        "https://cloud.tencent.com/"
+      ]
+    }
+  },
+  "1904": {
+    "site": "y8.com",
+    "subdomain": "cdn.y8.com",
+    "details": {
+      "setDomain": {
+        "y8.com": 1
+      },
+      "urls": [
+        "https://cdn.y8.com/Xd/xd_handler.html?version=41&xdm_e=https%3A%2F%2Fwww.ant.com&xdm_c=id_xd_api&xdm_p=1",
+        "https://cdn.y8.com/"
+      ]
+    }
+  },
+  "2348": {
+    "site": "diretta.it",
+    "subdomain": "www.diretta.it",
+    "details": {
+      "setDomain": {
+        "diretta.it": 1
+      },
+      "urls": []
+    }
+  },
+  "198": {
+    "site": "indiatimes.com",
+    "subdomain": "www.indiatimes.com",
+    "details": {
+      "setDomain": {
+        "indiatimes.com": 11
+      },
+      "urls": [
+        "https://www.indiatimes.com/"
+      ]
+    }
+  },
+  "1295": {
+    "site": "cda.pl",
+    "subdomain": "www.cda.pl",
+    "details": {
+      "setDomain": {
+        "cda.pl": 1
+      },
+      "urls": [
+        "https://www.cda.pl/iframe/premium/banner_freetime.html?t=1874195051",
+        "https://www.cda.pl/"
+      ]
+    }
+  },
+  "2607": {
+    "site": "foursquare.com",
+    "subdomain": "developer.foursquare.com",
+    "details": {
+      "setDomain": {
+        "foursquare.com": 2
+      },
+      "urls": []
+    }
+  },
+  "9071": {
+    "site": "publico.pt",
+    "subdomain": "lazer.publico.pt",
+    "details": {
+      "setDomain": {
+        "publico.pt": 1
+      },
+      "urls": []
+    }
+  },
+  "5041": {
+    "site": "chinamenwang.com",
+    "subdomain": "tiantianmumen.chinamenwang.com",
+    "details": {
+      "setDomain": {
+        "chinamenwang.com": 1
+      },
+      "urls": [
+        "https://tiantianmumen.chinamenwang.com/"
+      ]
+    }
+  },
+  "9144": {
+    "site": "travelchinaguide.com",
+    "subdomain": "secure.travelchinaguide.com",
+    "details": {
+      "setDomain": {
+        "travelchinaguide.com": 1
+      },
+      "urls": [
+        "https://secure.travelchinaguide.com/",
+        "https://secure.travelchinaguide.com/reserve/tailormade.htm"
+      ]
+    }
+  },
+  "9634": {
+    "site": "kuai8.com",
+    "subdomain": "wuxia.kuai8.com",
+    "details": {
+      "setDomain": {
+        "kuai8.com": 1
+      },
+      "urls": []
+    }
+  },
+  "786": {
+    "site": "corriere.it",
+    "subdomain": "buonpertutti.corriere.it",
+    "details": {
+      "setDomain": {
+        "corriere.it": 1
+      },
+      "urls": []
+    }
+  },
+  "3057": {
+    "site": "vgtimes.ru",
+    "subdomain": "rpl.vgtimes.ru",
+    "details": {
+      "setDomain": {
+        "vgtimes.ru": 10
+      },
+      "urls": [
+        "https://rpl.vgtimes.ru/"
+      ]
+    }
+  },
+  "4593": {
+    "site": "bonprix.de",
+    "subdomain": "www.bonprix.de",
+    "details": {
+      "setDomain": {
+        "bonprix.de": 9
+      },
+      "urls": [
+        "https://www.bonprix.de/service/gutschein/",
+        "https://www.bonprix.de/kategorie/damen-sale-grosse-groessen/",
+        "https://www.bonprix.de/kategorie/damen-unsere-exklusiven-marken-rainbow/",
+        "https://www.bonprix.de/kategorie/damen-mode-shorts/",
+        "https://www.bonprix.de/kategorie/kinder/",
+        "https://www.bonprix.de/kategorie/herren-schuhe/",
+        "https://www.bonprix.de/",
+        "https://www.bonprix.de/kategorie/damen-outfits-feminin/"
+      ]
+    }
+  },
+  "2131": {
+    "site": "jd.hk",
+    "subdomain": "beauty.jd.hk",
+    "details": {
+      "setDomain": {
+        "jd.hk": 2
+      },
+      "urls": [
+        "https://beauty.jd.hk/",
+        "http://beauty.jd.hk/"
+      ]
+    }
+  },
+  "6230": {
+    "site": "flashscore.pl",
+    "subdomain": "www.flashscore.pl",
+    "details": {
+      "setDomain": {
+        "flashscore.pl": 1
+      },
+      "urls": []
+    }
+  },
+  "4013": {
+    "site": "sulekha.com",
+    "subdomain": "www.sulekha.com",
+    "details": {
+      "setDomain": {
+        "sulekha.com": 10
+      },
+      "urls": [
+        "https://www.sulekha.com/new-projects-for-sale/ghaziabad",
+        "https://www.sulekha.com/commercial-property-for-sale/hyderabad",
+        "https://www.sulekha.com/cosmetic-surgeons/pune",
+        "https://www.sulekha.com/amazon-web-services-training/chennai",
+        "https://www.sulekha.com/commercial-property-for-sale/bangalore",
+        "https://www.sulekha.com/painting-contractors/hyderabad",
+        "https://www.sulekha.com/",
+        "https://www.sulekha.com/plc-design-training/",
+        "https://www.sulekha.com/pg/pune",
+        "https://www.sulekha.com/study-mbbs-abroad/pune"
+      ]
+    }
+  },
+  "6095": {
+    "site": "microsoftstore.com.cn",
+    "subdomain": "b.microsoftstore.com.cn",
+    "details": {
+      "setDomain": {
+        "microsoftstore.com.cn": 1
+      },
+      "urls": []
+    }
+  },
+  "5179": {
+    "site": "razorpay.com",
+    "subdomain": "dashboard.razorpay.com",
+    "details": {
+      "setDomain": {
+        "razorpay.com": 2
+      },
+      "urls": []
+    }
+  },
+  "3508": {
+    "site": "zhcw.com",
+    "subdomain": "tubiao.zhcw.com",
+    "details": {
+      "setDomain": {
+        "zhcw.com": 1
+      },
+      "urls": []
+    }
+  },
+  "1196": {
+    "site": "tudou.com",
+    "subdomain": "category.tudou.com",
+    "details": {
+      "setDomain": {
+        "tudou.com": 1
+      },
+      "urls": [
+        "http://category.tudou.com/category",
+        "http://category.tudou.com/"
+      ]
+    }
+  },
+  "913": {
+    "site": "1tv.ru",
+    "subdomain": "www.1tv.ru",
+    "details": {
+      "setDomain": {
+        "1tv.ru": 1
+      },
+      "urls": [
+        "https://www.1tv.ru/"
+      ]
+    }
+  },
+  "9631": {
+    "site": "edaily.co.kr",
+    "subdomain": "autoin.edaily.co.kr",
+    "details": {
+      "setDomain": {
+        "edaily.co.kr": 1
+      },
+      "urls": []
+    }
+  },
+  "1892": {
+    "site": "renren.com",
+    "subdomain": "www.connect.renren.com",
+    "details": {
+      "setDomain": {
+        "renren.com": 10
+      },
+      "urls": []
+    }
+  },
+  "8485": {
+    "site": "07073.com",
+    "subdomain": "me.07073.com",
+    "details": {
+      "setDomain": {
+        "07073.com": 1
+      },
+      "urls": [
+        "http://me.07073.com/",
+        "http://me.07073.com/main/newavatar/",
+        "http://me.07073.com/center/"
+      ]
+    }
+  },
+  "3799": {
+    "site": "jbhifi.com.au",
+    "subdomain": "www.jbhifi.com.au",
+    "details": {
+      "setDomain": {
+        "jbhifi.com.au": 8
+      },
+      "urls": [
+        "https://www.jbhifi.com.au/",
+        "https://www.jbhifi.com.au/dji/",
+        "https://www.jbhifi.com.au/google/google-home-mini-chromecast-bundle/393647/"
+      ]
+    }
+  },
+  "3790": {
+    "site": "wmtransfer.com",
+    "subdomain": "funding.wmtransfer.com",
+    "details": {
+      "setDomain": {
+        "wmtransfer.com": 1
+      },
+      "urls": [
+        "https://funding.wmtransfer.com/create",
+        "https://funding.wmtransfer.com/",
+        "https://funding.wmtransfer.com/Content/img/logo-sat.svg"
+      ]
+    }
+  },
+  "5790": {
+    "site": "oray.com",
+    "subdomain": "domain.oray.com",
+    "details": {
+      "setDomain": {
+        "oray.com": 1
+      },
+      "urls": [
+        "https://domain.oray.com/",
+        "https://domain.oray.com/seo#messages"
+      ]
+    }
+  },
+  "4308": {
+    "site": "dubizzle.com",
+    "subdomain": "abudhabi.dubizzle.com",
+    "details": {
+      "setDomain": {
+        "dubizzle.com": 1
+      },
+      "urls": []
+    }
+  },
+  "6596": {
+    "site": "iianews.com",
+    "subdomain": "www.iianews.com",
+    "details": {
+      "setDomain": {
+        "iianews.com": 2
+      },
+      "urls": [
+        "http://www.iianews.com/customer/medium/ca/portal.jsp?id=66e8eadada11677dc85aed79e2c5bf78",
+        "http://www.iianews.com/tools/pagecount.jsp?domain=www.iianews.com&url=http%3A%2F%2Fwww.iianews.com%2Fcustomer%2Fmedium%2Fca%2Fportal.jsp%3Fid%3D66e8eadada11677dbd238c2a326521c5&refer=-",
+        "http://www.iianews.com/ca/research/",
+        "http://www.iianews.com/advcomponent/adv_iframe.jsp?posId=AS00007265",
+        "http://www.iianews.com/ca/_01-ABC00000000000287265.shtml",
+        "http://www.iianews.com/info/industrial-safety/",
+        "http://www.iianews.com/",
+        "http://www.iianews.com/customer/medium/ca/portal.jsp?id=66e8eadada11677dbd238c2a326521c5",
+        "http://www.iianews.com/info/actuator/",
+        "http://www.iianews.com/tools/pagecount.jsp?domain=www.iianews.com&url=http%3A%2F%2Fwww.iianews.com%2Fcustomer%2Fmedium%2Fca%2Fportal.jsp%3Fid%3D66e8eadada11677dc85aed79e2c5bf78&refer=-"
+      ]
+    }
+  },
+  "8798": {
+    "site": "nasdaq.com",
+    "subdomain": "www.nasdaq.com",
+    "details": {
+      "setDomain": {
+        "nasdaq.com": 1
+      },
+      "urls": []
+    }
+  },
+  "3640": {
+    "site": "to8to.com",
+    "subdomain": "tj.to8to.com",
+    "details": {
+      "setDomain": {
+        "to8to.com": 1
+      },
+      "urls": []
+    }
+  },
+  "5391": {
+    "site": "90min.com",
+    "subdomain": "www.90min.com",
+    "details": {
+      "setDomain": {
+        "90min.com": 9
+      },
+      "urls": [
+        "https://www.90min.com/",
+        "https://www.90min.com/posts.rss"
+      ]
+    }
+  },
+  "1126": {
+    "site": "nate.com",
+    "subdomain": "fortune.nate.com",
+    "details": {
+      "setDomain": {
+        "nate.com": 3
+      },
+      "urls": []
+    }
+  },
+  "2591": {
+    "site": "tmall.hk",
+    "subdomain": "kongqueling.tmall.hk",
+    "details": {
+      "setDomain": {
+        "tmall.hk": 1
+      },
+      "urls": [
+        "https://kongqueling.tmall.hk/search.htm?acm=lb-zebra-5074-106744.1003.4.301577&search=y&keyword=Louis+Vuitton&highPrice=&lowPrice=&scm=1003.4.lb-zebra-5074-106744.OTHER_143759079020119_301577",
+        "https://kongqueling.tmall.hk/"
+      ]
+    }
+  },
+  "5733": {
+    "site": "roku.com",
+    "subdomain": "www.roku.com",
+    "details": {
+      "setDomain": {
+        "roku.com": 1
+      },
+      "urls": [
+        "https://www.roku.com/"
+      ]
+    }
+  },
+  "8424": {
+    "site": "seatguru.com",
+    "subdomain": "www.seatguru.com",
+    "details": {
+      "setDomain": {
+        "seatguru.com": 10
+      },
+      "urls": [
+        "https://www.seatguru.com/airlinesUnited_Airlinesinformation.php",
+        "https://www.seatguru.com/chartspremium_economy.php",
+        "https://www.seatguru.com/traveltipsinformation.php",
+        "https://www.seatguru.com/",
+        "https://www.seatguru.com/airlinesDelta_Airlinesinformation.php"
+      ]
+    }
+  },
+  "8313": {
+    "site": "yuemei.com",
+    "subdomain": "www.yuemei.com",
+    "details": {
+      "setDomain": {
+        "yuemei.com": 4
+      },
+      "urls": [
+        "https://www.yuemei.com/baoding/",
+        "https://www.yuemei.com/c/3562387.html",
+        "https://www.yuemei.com/nanchong/",
+        "https://www.yuemei.com/"
+      ]
+    }
+  },
+  "9599": {
+    "site": "hubfiles.ws",
+    "subdomain": "www.hubfiles.ws",
+    "details": {
+      "setDomain": {
+        "hubfiles.ws": 1
+      },
+      "urls": [
+        "https://www.hubfiles.ws/"
+      ]
+    }
+  },
+  "9759": {
+    "site": "splitwise.com",
+    "subdomain": "www.splitwise.com",
+    "details": {
+      "setDomain": {
+        "splitwise.com": 3
+      },
+      "urls": [
+        "https://www.splitwise.com/jobs",
+        "https://www.splitwise.com/mobile",
+        "https://www.splitwise.com/privacy",
+        "https://www.splitwise.com/about",
+        "https://www.splitwise.com/",
+        "https://www.splitwise.com/login",
+        "https://www.splitwise.com/press"
+      ]
+    }
+  },
+  "3071": {
+    "site": "alaskaair.com",
+    "subdomain": "easybiz.alaskaair.com",
+    "details": {
+      "setDomain": {
+        "alaskaair.com": 1
+      },
+      "urls": []
+    }
+  },
+  "3262": {
+    "site": "zbg.com",
+    "subdomain": "www.zbg.com",
+    "details": {
+      "setDomain": {
+        "zbg.com": 10
+      },
+      "urls": [
+        "https://www.zbg.com/newsList?type=2",
+        "https://www.zbg.com/newmarket",
+        "https://www.zbg.com/vote",
+        "https://www.zbg.com/otherOtcSellOrBuy",
+        "https://www.zbg.com/otherOtc",
+        "https://www.zbg.com/",
+        "https://www.zbg.com/login",
+        "https://www.zbg.com/exOtc",
+        "https://www.zbg.com/recommendRange",
+        "https://www.zbg.com/newsList?type=1"
+      ]
+    }
+  },
+  "8541": {
+    "site": "120ask.com",
+    "subdomain": "www.120ask.com",
+    "details": {
+      "setDomain": {
+        "120ask.com": 4
+      },
+      "urls": [
+        "https://www.120ask.com/"
+      ]
+    }
+  },
+  "5637": {
+    "site": "vip.com",
+    "subdomain": "www.vip.com",
+    "details": {
+      "setDomain": {
+        "vip.com": 1
+      },
+      "urls": []
+    }
+  },
+  "6951": {
+    "site": "williams-sonoma.com",
+    "subdomain": "www.williams-sonoma.com",
+    "details": {
+      "setDomain": {
+        "www.williams-sonoma.com": 10
+      },
+      "urls": [
+        "https://www.williams-sonoma.com/"
+      ]
+    }
+  },
+  "3985": {
+    "site": "zxxk.com",
+    "subdomain": "www.zxxk.com",
+    "details": {
+      "setDomain": {
+        "zxxk.com": 2
+      },
+      "urls": [
+        "http://www.zxxk.com/wxt/introduce/info?infoid=781578",
+        "http://www.zxxk.com/",
+        "http://www.zxxk.com/zj/info-202138.html"
+      ]
+    }
+  },
+  "3758": {
+    "site": "ule.com",
+    "subdomain": "item.ule.com",
+    "details": {
+      "setDomain": {
+        "ule.com": 4
+      },
+      "urls": [
+        "https://item.ule.com/",
+        "http://item.ule.com/item/3908559-0-1.html",
+        "https://item.ule.com/item/3655257-0-1.html",
+        "http://item.ule.com/item/3963587-0-1.html",
+        "http://item.ule.com/",
+        "https://item.ule.com/item/3867894-0-1.html"
+      ]
+    }
+  },
+  "8717": {
+    "site": "aipai.com",
+    "subdomain": "www.aipai.com",
+    "details": {
+      "setDomain": {
+        "aipai.com": 7
+      },
+      "urls": [
+        "http://www.aipai.com/c52/OTc-KSAiICBpJGsv.html",
+        "http://www.aipai.com/c52/OjYgIyoiLCdqJWQhLw.html",
+        "http://www.aipai.com/c53/OjYgIiokIyZqJWQqKw.html",
+        "http://www.aipai.com/"
+      ]
+    }
+  },
+  "4030": {
+    "site": "bovada.lv",
+    "subdomain": "services.bovada.lv",
+    "details": {
+      "setDomain": {
+        "bovada.lv": 10
+      },
+      "urls": []
+    }
+  },
+  "5074": {
+    "site": "klm.com",
+    "subdomain": "www.klm.com",
+    "details": {
+      "setDomain": {
+        "klm.com": 8
+      },
+      "urls": [
+        "https://www.klm.com/travel/generic/countries.html",
+        "https://www.klm.com/destinations/gb/en/campaign/cheap-flight-offers",
+        "https://www.klm.com/travel/nl_nl/customer_support/customer_support/legal_information/index.htm",
+        "https://www.klm.com/"
+      ]
+    }
+  },
+  "3316": {
+    "site": "kbs.co.kr",
+    "subdomain": "onair.kbs.co.kr",
+    "details": {
+      "setDomain": {
+        "kbs.co.kr": 1
+      },
+      "urls": [
+        "http://onair.kbs.co.kr/?sname=onair&stype=live&ch_code=23&ch_type=radioList",
+        "http://onair.kbs.co.kr/"
+      ]
+    }
+  },
+  "8812": {
+    "site": "beatstars.com",
+    "subdomain": "www.beatstars.com",
+    "details": {
+      "setDomain": {
+        "beatstars.com": 1
+      },
+      "urls": []
+    }
+  },
+  "7149": {
+    "site": "ulozto.net",
+    "subdomain": "www.ulozto.net",
+    "details": {
+      "setDomain": {
+        "ulozto.net": 2
+      },
+      "urls": [
+        "https://www.ulozto.net/reklama",
+        "https://www.ulozto.net/faq",
+        "https://www.ulozto.net/kariera",
+        "https://www.ulozto.net/press",
+        "https://www.ulozto.net/kontakt",
+        "https://www.ulozto.net/sem?privacy=public",
+        "https://www.ulozto.net/sem?privacy=friends",
+        "https://www.ulozto.net/dmca",
+        "https://www.ulozto.net/"
+      ]
+    }
+  },
+  "4391": {
+    "site": "tourister.ru",
+    "subdomain": "vitova.tourister.ru",
+    "details": {
+      "setDomain": {
+        "tourister.ru": 1
+      },
+      "urls": [
+        "https://vitova.tourister.ru/"
+      ]
+    }
+  },
+  "3453": {
+    "site": "mismarcadores.com",
+    "subdomain": "www.mismarcadores.com",
+    "details": {
+      "setDomain": {
+        "mismarcadores.com": 1
+      },
+      "urls": []
+    }
+  },
+  "4858": {
+    "site": "bonprix.ru",
+    "subdomain": "www.bonprix.ru",
+    "details": {
+      "setDomain": {
+        "bonprix.ru": 9
+      },
+      "urls": [
+        "https://www.bonprix.ru/kategoriya/dlya-doma-tekstil/",
+        "https://www.bonprix.ru/kategoriya/dlya-zhenshchin-idei-trendy-otdelka-lykom-i-probkoj/?sob=4",
+        "https://www.bonprix.ru/kategoriya/dlya-muzhchin-odezhda/",
+        "https://www.bonprix.ru/kategoriya/dlya-muzhchin/",
+        "https://www.bonprix.ru/corporate/rabota-v-bonprix/",
+        "https://www.bonprix.ru/kategoriya/dlya-zhenshchin-aksessuary/",
+        "https://www.bonprix.ru/kategoriya/moda-i-zhizn-moj-stil-kurtki-i-palto-sowety-stilistov/",
+        "https://www.bonprix.ru/kategoriya/dlya-zhenshchin-odezhda-svitshoty/?sob=4",
+        "https://www.bonprix.ru/"
+      ]
+    }
+  },
+  "6838": {
+    "site": "geihui.com",
+    "subdomain": "www.geihui.com",
+    "details": {
+      "setDomain": {
+        "geihui.com": 9
+      },
+      "urls": [
+        "http://www.geihui.com/coupons.html",
+        "http://www.geihui.com/go?id=1284&t=s",
+        "https://www.geihui.com/",
+        "http://www.geihui.com/help-21356.html",
+        "http://www.geihui.com/about/a_adv.html",
+        "http://www.geihui.com/user/forgetpwd",
+        "http://www.geihui.com/about/sitemap.html",
+        "http://www.geihui.com/shop/88.html",
+        "http://www.geihui.com/go?id=1655&t=s&url=http%3A%2F%2Fpromotion.bl.com%2Fnc%2FPC_HDGL20190709000009340_9752.html%3Fbl_ad%3D509_-_1922910_-_1%26bl_mmc%3Dcps_-_lkt_-_pc1_-_0&from_id=1&no_preview=0",
+        "http://www.geihui.com/"
+      ]
+    }
+  },
+  "767": {
+    "site": "4399.com",
+    "subdomain": "www.4399.com",
+    "details": {
+      "setDomain": {
+        "4399.com": 1
+      },
+      "urls": [
+        "http://www.4399.com/"
+      ]
+    }
+  },
+  "158": {
+    "site": "caijing.com.cn",
+    "subdomain": "industry.caijing.com.cn",
+    "details": {
+      "setDomain": {
+        "caijing.com.cn": 3
+      },
+      "urls": []
+    }
+  },
+  "9656": {
+    "site": "fashionlib.net",
+    "subdomain": "www.fashionlib.net",
+    "details": {
+      "setDomain": {
+        "fashionlib.net": 1
+      },
+      "urls": [
+        "https://www.fashionlib.net/"
+      ]
+    }
+  },
+  "6553": {
+    "site": "zhibo.tv",
+    "subdomain": "game.zhibo.tv",
+    "details": {
+      "setDomain": {
+        "zhibo.tv": 1
+      },
+      "urls": []
+    }
+  },
+  "4276": {
+    "site": "nhaccuatui.com",
+    "subdomain": "www.nhaccuatui.com",
+    "details": {
+      "setDomain": {
+        "nhaccuatui.com": 10
+      },
+      "urls": [
+        "https://www.nhaccuatui.com/",
+        "https://www.nhaccuatui.com/video/hay-trao-cho-anh-son-tung-m-tp-ft-snoop-dogg-ft-madison-beer.cSyv5ozS1BPFA.html",
+        "https://www.nhaccuatui.com/nghe-si-dang-quang-minh.html",
+        "https://www.nhaccuatui.com/nghe-si-huynh-anh-duy.html",
+        "https://www.nhaccuatui.com/ncci",
+        "https://www.nhaccuatui.com/nghe-si-Right-Tee.html"
+      ]
+    }
+  },
+  "4638": {
+    "site": "saturn.de",
+    "subdomain": "www.saturn.de",
+    "details": {
+      "setDomain": {
+        "saturn.de": 10
+      },
+      "urls": [
+        "https://www.saturn.de/de/category/_led-lampen-476040.html",
+        "https://www.saturn.de/",
+        "https://www.saturn.de/de/category/_grundausstattung-686113.html",
+        "https://www.saturn.de/de/category/_robotics-675072.html",
+        "https://www.saturn.de/de/category/_pc-komponenten-527435.html",
+        "https://www.saturn.de/de/category/_komfort-686125.html",
+        "https://www.saturn.de/de/category/_smart-toys-439247.html",
+        "https://www.saturn.de/de/category/_registrierkassen-536119.html",
+        "https://www.saturn.de/de/category/_b%C3%BCgelsysteme-476098.html",
+        "https://www.saturn.de/de/category/_rasenpflege-647153.html"
+      ]
+    }
+  },
+  "2562": {
+    "site": "omegle.com",
+    "subdomain": "www.omegle.com",
+    "details": {
+      "setDomain": {
+        "omegle.com": 1
+      },
+      "urls": [
+        "https://www.omegle.com/"
+      ]
+    }
+  },
+  "3370": {
+    "site": "nfl.com",
+    "subdomain": "www.nfl.com",
+    "details": {
+      "setDomain": {
+        "nfl.com": 1
+      },
+      "urls": [
+        "https://www.nfl.com/"
+      ]
+    }
+  },
+  "6634": {
+    "site": "rainews.it",
+    "subdomain": "www.rainews.it",
+    "details": {
+      "setDomain": {
+        "rainews.it": 35
+      },
+      "urls": [
+        "http://www.rainews.it/dl/lightstreamer/commons/lsform.html?rainews.it",
+        "http://www.rainews.it/dl/lightstreamer/commons/lsblank.html?domain=rainews.it",
+        "http://www.rainews.it/",
+        "https://www.rainews.it/dl/lightstreamer/commons/lsengine.html#build=1446.9&id=644&domain=rainews.it&engineName=RaiCommonEngine&suppressDefaultStatusChangeHandler=true&debugAlerts=false&remoteDebug=false&",
+        "https://www.rainews.it/"
+      ]
+    }
+  },
+  "6149": {
+    "site": "meishij.net",
+    "subdomain": "www.meishij.net",
+    "details": {
+      "setDomain": {
+        "meishij.net": 4
+      },
+      "urls": [
+        "https://www.meishij.net/yaoshanshiliao/renqunshanshi/rouer/",
+        "https://www.meishij.net/",
+        "https://www.meishij.net/yaoshanshiliao/renqunshanshi/",
+        "https://www.meishij.net/yaoshanshiliao/jibingtiaoli/tangniaobing/"
+      ]
+    }
+  },
+  "4703": {
+    "site": "tori.fi",
+    "subdomain": "www.tori.fi",
+    "details": {
+      "setDomain": {
+        "tori.fi": 10
+      },
+      "urls": []
+    }
+  },
+  "2190": {
+    "site": "uloz.to",
+    "subdomain": "www.uloz.to",
+    "details": {
+      "setDomain": {
+        "uloz.to": 2
+      },
+      "urls": [
+        "https://www.uloz.to/sem?privacy=friends",
+        "https://www.uloz.to/",
+        "https://www.uloz.to/kupon",
+        "https://www.uloz.to/kredit",
+        "https://www.uloz.to/faq",
+        "https://www.uloz.to/sem?privacy=public",
+        "https://www.uloz.to/firma",
+        "https://www.uloz.to/contentid",
+        "https://www.uloz.to/kontaktni-formular",
+        "https://www.uloz.to/aplikace"
+      ]
+    }
+  },
+  "7878": {
+    "site": "news1.kr",
+    "subdomain": "tv.news1.kr",
+    "details": {
+      "setDomain": {
+        "news1.kr": 1
+      },
+      "urls": [
+        "http://tv.news1.kr/"
+      ]
+    }
+  },
+  "9705": {
+    "site": "sfchronicle.com",
+    "subdomain": "www.sfchronicle.com",
+    "details": {
+      "setDomain": {
+        "sfchronicle.com": 2
+      },
+      "urls": [
+        "https://www.sfchronicle.com/",
+        "https://www.sfchronicle.com/lifestyle/outdoors/"
+      ]
+    }
+  },
+  "2924": {
+    "site": "mediamarkt.de",
+    "subdomain": "www.mediamarkt.de",
+    "details": {
+      "setDomain": {
+        "mediamarkt.de": 1
+      },
+      "urls": [
+        "https://www.mediamarkt.de/"
+      ]
+    }
+  },
+  "2199": {
+    "site": "newsweek.com",
+    "subdomain": "www.newsweek.com",
+    "details": {
+      "setDomain": {
+        "newsweek.com": 10
+      },
+      "urls": [
+        "https://www.newsweek.com/terms-service",
+        "https://www.newsweek.com/",
+        "https://www.newsweek.com/advertise"
+      ]
+    }
+  },
+  "6972": {
+    "site": "sibnet.ru",
+    "subdomain": "info.sibnet.ru",
+    "details": {
+      "setDomain": {
+        "sibnet.ru": 5
+      },
+      "urls": [
+        "https://info.sibnet.ru/",
+        "https://info.sibnet.ru/articles/375/?filtertag=572"
+      ]
+    }
+  },
+  "18": {
+    "site": "sina.com.cn",
+    "subdomain": "cq.auto.sina.com.cn",
+    "details": {
+      "setDomain": {
+        "sina.com.cn": 1
+      },
+      "urls": []
+    }
+  },
+  "6147": {
+    "site": "liveabout.com",
+    "subdomain": "www.liveabout.com",
+    "details": {
+      "setDomain": {
+        "www.liveabout.com": 1
+      },
+      "urls": [
+        "https://www.liveabout.com/"
+      ]
+    }
+  },
+  "4110": {
+    "site": "walla.co.il",
+    "subdomain": "travel.walla.co.il",
+    "details": {
+      "setDomain": {
+        "walla.co.il": 1
+      },
+      "urls": []
+    }
+  },
+  "344": {
+    "site": "ultimate-guitar.com",
+    "subdomain": "www.ultimate-guitar.com",
+    "details": {
+      "setDomain": {
+        "ultimate-guitar.com": 1
+      },
+      "urls": [
+        "https://www.ultimate-guitar.com/"
+      ]
+    }
+  },
+  "6409": {
+    "site": "chinajsq.cn",
+    "subdomain": "hrkon.co.chinajsq.cn",
+    "details": {
+      "setDomain": {
+        "chinajsq.cn": 1
+      },
+      "urls": [
+        "https://hrkon.co.chinajsq.cn/"
+      ]
+    }
+  },
+  "9545": {
+    "site": "chinabm.cn",
+    "subdomain": "sinpolo.chinabm.cn",
+    "details": {
+      "setDomain": {
+        "chinabm.cn": 1
+      },
+      "urls": [
+        "https://sinpolo.chinabm.cn/"
+      ]
+    }
+  },
+  "89": {
+    "site": "tianya.cn",
+    "subdomain": "bbs.tianya.cn",
+    "details": {
+      "setDomain": {
+        "tianya.cn": 1
+      },
+      "urls": []
+    }
+  },
+  "2015": {
+    "site": "laptopmag.com",
+    "subdomain": "www.laptopmag.com",
+    "details": {
+      "setDomain": {
+        "laptopmag.com": 2
+      },
+      "urls": [
+        "https://www.laptopmag.com/"
+      ]
+    }
+  },
+  "6201": {
+    "site": "kaola.com",
+    "subdomain": "pages.kaola.com",
+    "details": {
+      "setDomain": {
+        "kaola.com": 2
+      },
+      "urls": []
+    }
+  },
+  "2528": {
+    "site": "ca168.com",
+    "subdomain": "www.ca168.com",
+    "details": {
+      "setDomain": {
+        "ca168.com": 13
+      },
+      "urls": [
+        "http://www.ca168.com/know/answer.php?itemid=3098",
+        "http://www.ca168.com/job/resume-htm-itemid-19.html",
+        "http://www.ca168.com/train/",
+        "http://www.ca168.com/job/resume-htm-itemid-16.html",
+        "http://www.ca168.com/know/show-3098.html",
+        "http://www.ca168.com/know/answer.php?itemid=3140",
+        "http://www.ca168.com/know/show-3140.html",
+        "http://www.ca168.com/supply/show-140236.html",
+        "http://www.ca168.com/",
+        "http://www.ca168.com/guestbook/?pageindex=1",
+        "http://www.ca168.com/extend/comment.php?mid=5&itemid=140236",
+        "http://www.ca168.com/indestry/Textile/"
+      ]
+    }
+  },
+  "6780": {
+    "site": "rezultati.com",
+    "subdomain": "www.rezultati.com",
+    "details": {
+      "setDomain": {
+        "rezultati.com": 1
+      },
+      "urls": [
+        "https://www.rezultati.com/"
+      ]
+    }
+  },
+  "3679": {
+    "site": "desmos.com",
+    "subdomain": "teacher.desmos.com",
+    "details": {
+      "setDomain": {
+        "desmos.com": 1
+      },
+      "urls": [
+        "https://teacher.desmos.com/"
+      ]
+    }
+  },
+  "3975": {
+    "site": "chinafloor.cn",
+    "subdomain": "zuoanfloora.co.chinafloor.cn",
+    "details": {
+      "setDomain": {
+        "chinafloor.cn": 1
+      },
+      "urls": [
+        "https://zuoanfloora.co.chinafloor.cn/"
+      ]
+    }
+  },
+  "6984": {
+    "site": "mako.co.il",
+    "subdomain": "www.mako.co.il",
+    "details": {
+      "setDomain": {
+        "mako.co.il": 6
+      },
+      "urls": [
+        "https://www.mako.co.il/mako-vod?Partner=footerLinks",
+        "https://www.mako.co.il/travel-israel/arava-taste?sCh=3d385dd2dd5d4110&pId=755451619",
+        "https://www.mako.co.il/mako-vod-keshet/uvda",
+        "https://www.mako.co.il/special-wow_feeling_good?sCh=3d385dd2dd5d4110&pId=755451619",
+        "https://www.mako.co.il/",
+        "https://www.mako.co.il/tv-ilana_dayan?Partner=NavBar"
+      ]
+    }
+  },
+  "7779": {
+    "site": "u17.com",
+    "subdomain": "www.u17.com",
+    "details": {
+      "setDomain": {
+        "u17.com": 6
+      },
+      "urls": [
+        "http://www.u17.com/comic/149716.html",
+        "http://www.u17.com/comic/181492.html",
+        "http://www.u17.com/",
+        "http://www.u17.com/comic/183249.html",
+        "http://www.u17.com/comic_list/th99_gr99_ca99_ss99_ob0_ac0_as0_wm0_co99_ct99_p1.html?order=2&th=257",
+        "http://www.u17.com/comic/185986.html",
+        "https://www.u17.com/"
+      ]
+    }
+  },
+  "3336": {
+    "site": "r7.com",
+    "subdomain": "meuestilo.r7.com",
+    "details": {
+      "setDomain": {
+        "r7.com": 1
+      },
+      "urls": []
+    }
+  },
+  "9584": {
+    "site": "orientaltrading.com",
+    "subdomain": "www.fun365.orientaltrading.com",
+    "details": {
+      "setDomain": {
+        "fun365.orientaltrading.com": 2
+      },
+      "urls": [
+        "https://www.fun365.orientaltrading.com/"
+      ]
+    }
+  },
+  "3922": {
+    "site": "thespruceeats.com",
+    "subdomain": "www.thespruceeats.com",
+    "details": {
+      "setDomain": {
+        "www.thespruceeats.com": 8
+      },
+      "urls": [
+        "https://www.thespruceeats.com/cooking-school-4162206",
+        "https://www.thespruceeats.com/dinner-plans-salmon-meal-prep-4684925",
+        "https://www.thespruceeats.com/homemade-pizza-dough-tips-4690077",
+        "https://www.thespruceeats.com/dinner-4162806",
+        "https://www.thespruceeats.com/fruits-veggies-4162428",
+        "https://www.thespruceeats.com/legal#terms",
+        "https://www.thespruceeats.com/food-by-occasion-season-4162319",
+        "https://www.thespruceeats.com/chicken-4162452",
+        "https://www.thespruceeats.com/",
+        "https://www.thespruceeats.com/about-us"
+      ]
+    }
+  },
+  "5195": {
+    "site": "7k7k.com",
+    "subdomain": "cy.pl.7k7k.com",
+    "details": {
+      "setDomain": {
+        "7k7k.com": 1
+      },
+      "urls": []
+    }
+  },
+  "7449": {
+    "site": "verywellfit.com",
+    "subdomain": "www.verywellfit.com",
+    "details": {
+      "setDomain": {
+        "www.verywellfit.com": 8
+      },
+      "urls": [
+        "https://www.verywellfit.com/about-us#ContactUs",
+        "https://www.verywellfit.com/reasons-to-practice-yoga-for-health-and-longevity-2223802",
+        "https://www.verywellfit.com/recipes-4157077",
+        "https://www.verywellfit.com/should-i-follow-a-vegan-diet-for-weight-loss-4152965",
+        "https://www.verywellfit.com/about-us",
+        "https://www.verywellfit.com/how-to-use-body-fat-percentage-calculator-3858855",
+        "https://www.verywellfit.com/what-is-the-fascia-3120347",
+        "https://www.verywellfit.com/",
+        "https://www.verywellfit.com/weight-loss-dining-out-advice-overview-4581838"
+      ]
+    }
+  },
+  "8467": {
+    "site": "zb.cn",
+    "subdomain": "web.zb.cn",
+    "details": {
+      "setDomain": {
+        "zb.cn": 1
+      },
+      "urls": [
+        "https://web.zb.cn/",
+        "https://web.zb.cn/i/blog?type=proclamation"
+      ]
+    }
+  },
+  "9398": {
+    "site": "lotteimall.com",
+    "subdomain": "www.lotteimall.com",
+    "details": {
+      "setDomain": {
+        "lotteimall.com": 1
+      },
+      "urls": [
+        "http://www.lotteimall.com/",
+        "http://www.lotteimall.com/main/viewMain.lotte?dpml_no=1",
+        "https://www.lotteimall.com/"
+      ]
+    }
+  },
+  "9836": {
+    "site": "aufeminin.com",
+    "subdomain": "www.aufeminin.com",
+    "details": {
+      "setDomain": {
+        "aufeminin.com": 1
+      },
+      "urls": [
+        "https://www.aufeminin.com/"
+      ]
+    }
+  },
+  "3373": {
+    "site": "hankyung.com",
+    "subdomain": "hei.hankyung.com",
+    "details": {
+      "setDomain": {
+        "hankyung.com": 1
+      },
+      "urls": []
+    }
+  },
+  "736": {
+    "site": "auction.co.kr",
+    "subdomain": "eventimg.auction.co.kr",
+    "details": {
+      "setDomain": {
+        "auction.co.kr": 1
+      },
+      "urls": []
+    }
+  },
+  "50": {
+    "site": "hao123.com",
+    "subdomain": "common.hao123.com",
+    "details": {
+      "setDomain": {
+        "hao123.com": 1
+      },
+      "urls": []
+    }
+  },
+  "5180": {
+    "site": "10jqka.com.cn",
+    "subdomain": "xinsanban.10jqka.com.cn",
+    "details": {
+      "setDomain": {
+        "10jqka.com.cn": 1
+      },
+      "urls": []
+    }
+  },
+  "24": {
+    "site": "360.cn",
+    "subdomain": "bang.360.cn",
+    "details": {
+      "setDomain": {
+        "360.cn": 1
+      },
+      "urls": [
+        "http://bang.360.cn/firm/",
+        "http://bang.360.cn/"
+      ]
+    }
+  },
+  "9648": {
+    "site": "pontofrio.com.br",
+    "subdomain": "www.pontofrio.com.br",
+    "details": {
+      "setDomain": {
+        "pontofrio.com.br": 10
+      },
+      "urls": []
+    }
+  },
+  "4672": {
+    "site": "melon.com",
+    "subdomain": "www.melon.com",
+    "details": {
+      "setDomain": {
+        "melon.com": 4
+      },
+      "urls": [
+        "https://www.melon.com/customer/serviceintro/ipad.htm",
+        "https://www.melon.com/footer/awrad.htm?pageType=03",
+        "https://www.melon.com/",
+        "https://www.melon.com/mymusic/dj/mymusicdjplaylistview_inform.htm?plylstSeq=460792502"
+      ]
+    }
+  },
+  "34": {
+    "site": "naver.com",
+    "subdomain": "search.naver.com",
+    "details": {
+      "setDomain": {
+        "naver.com": 1
+      },
+      "urls": [
+        "https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=1&ie=utf8&query=%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%BD%83",
+        "https://search.naver.com/"
+      ]
+    }
+  },
+  "2753": {
+    "site": "fivethirtyeight.com",
+    "subdomain": "projects.fivethirtyeight.com",
+    "details": {
+      "setDomain": {
+        "fivethirtyeight.com": 8
+      },
+      "urls": []
+    }
+  },
+  "8509": {
+    "site": "mhealth.ru",
+    "subdomain": "sever.mhealth.ru",
+    "details": {
+      "setDomain": {
+        "sever.mhealth.ru": 2
+      },
+      "urls": [
+        "https://sever.mhealth.ru/chapter1",
+        "https://sever.mhealth.ru/"
+      ]
+    }
+  },
+  "574": {
+    "site": "investopedia.com",
+    "subdomain": "www.investopedia.com",
+    "details": {
+      "setDomain": {
+        "www.investopedia.com": 5
+      },
+      "urls": [
+        "https://www.investopedia.com/",
+        "https://www.investopedia.com/expert-to-expert/"
+      ]
+    }
+  },
+  "9771": {
+    "site": "r2games.com",
+    "subdomain": "m.r2games.com",
+    "details": {
+      "setDomain": {
+        "r2games.com": 1
+      },
+      "urls": [
+        "http://m.r2games.com/"
+      ]
+    }
+  },
+  "3256": {
+    "site": "3d66.com",
+    "subdomain": "vip.3d66.com",
+    "details": {
+      "setDomain": {
+        "3d66.com": 1
+      },
+      "urls": [
+        "https://vip.3d66.com/"
+      ]
+    }
+  },
+  "5165": {
+    "site": "soccer24.com",
+    "subdomain": "www.soccer24.com",
+    "details": {
+      "setDomain": {
+        "soccer24.com": 1
+      },
+      "urls": [
+        "https://www.soccer24.com/"
+      ]
+    }
+  },
+  "14": {
+    "site": "jd.com",
+    "subdomain": "b.jd.com",
+    "details": {
+      "setDomain": {
+        "jd.com": 1
+      },
+      "urls": [
+        "https://b.jd.com/"
+      ]
+    }
+  },
+  "214": {
+    "site": "huanqiu.com",
+    "subdomain": "lx.huanqiu.com",
+    "details": {
+      "setDomain": {
+        "huanqiu.com": 1
+      },
+      "urls": []
+    }
+  },
+  "1657": {
+    "site": "qunar.com",
+    "subdomain": "user.qunar.com",
+    "details": {
+      "setDomain": {
+        "qunar.com": 1
+      },
+      "urls": [
+        "https://user.qunar.com/order/query.jsp?ret=http%3A%2F%2Forder.qunar.com%2Fqmall?t=1",
+        "https://user.qunar.com/"
+      ]
+    }
+  },
+  "36": {
+    "site": "csdn.net",
+    "subdomain": "blog.csdn.net",
+    "details": {
+      "setDomain": {
+        "csdn.net": 4
+      },
+      "urls": [
+        "https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/97982710",
+        "https://blog.csdn.net/"
+      ]
+    }
+  },
+  "1580": {
+    "site": "porn300.com",
+    "subdomain": "www.porn300.com",
+    "details": {
+      "setDomain": {
+        "porn300.com": 1
+      },
+      "urls": [
+        "https://www.porn300.com/"
+      ]
+    }
+  },
+  "7599": {
+    "site": "comss.ru",
+    "subdomain": "fb-subs.comss.ru",
+    "details": {
+      "setDomain": {
+        "comss.ru": 9
+      },
+      "urls": [
+        "http://fb-subs.comss.ru/header/",
+        "http://fb-subs.comss.ru/"
+      ]
+    }
+  },
+  "318": {
+    "site": "youku.com",
+    "subdomain": "mapp.youku.com",
+    "details": {
+      "setDomain": {
+        "youku.com": 1
+      },
+      "urls": [
+        "http://mapp.youku.com/",
+        "http://mapp.youku.com/service/zhanghuzhuxiao"
+      ]
+    }
+  },
+  "6801": {
+    "site": "99.com",
+    "subdomain": "shop.99.com",
+    "details": {
+      "setDomain": {
+        "99.com": 2
+      },
+      "urls": [
+        "https://shop.99.com/",
+        "https://shop.99.com/Pay/Index.html",
+        "https://shop.99.com/Include/LoginBox.aspx"
+      ]
+    }
+  },
+  "2490": {
+    "site": "eol.cn",
+    "subdomain": "liuxue.eol.cn",
+    "details": {
+      "setDomain": {
+        "eol.cn": 1
+      },
+      "urls": []
+    }
+  },
+  "6633": {
+    "site": "skelbiu.lt",
+    "subdomain": "www.skelbiu.lt",
+    "details": {
+      "setDomain": {
+        "www.skelbiu.lt": 2
+      },
+      "urls": [
+        "https://www.skelbiu.lt/",
+        "https://www.skelbiu.lt/skelbimai/buitis/",
+        "https://www.skelbiu.lt/safeFrame.html?uponit=true&upapi=true"
+      ]
+    }
+  },
+  "5211": {
+    "site": "tvb.com",
+    "subdomain": "programme.tvb.com",
+    "details": {
+      "setDomain": {
+        "tvb.com": 3
+      },
+      "urls": []
+    }
+  },
+  "2773": {
+    "site": "thespruce.com",
+    "subdomain": "www.thespruce.com",
+    "details": {
+      "setDomain": {
+        "www.thespruce.com": 1
+      },
+      "urls": [
+        "https://www.thespruce.com/"
+      ]
+    }
+  },
+  "3344": {
+    "site": "porndoe.com",
+    "subdomain": "de.porndoe.com",
+    "details": {
+      "setDomain": {
+        "porndoe.com": 1
+      },
+      "urls": []
+    }
+  },
+  "446": {
+    "site": "banggood.com",
+    "subdomain": "www.banggood.com",
+    "details": {
+      "setDomain": {
+        "banggood.com": 7
+      },
+      "urls": [
+        "https://www.banggood.com/blogger-programme.html",
+        "https://www.banggood.com/brands-URUAV-b-1368.html?rmmds=home-mid-topicBrand1",
+        "https://www.banggood.com/index.php?com=account&t=myCoupons",
+        "https://www.banggood.com/brands-Bakeey-b-685.html?rmmds=home-bottom-brands",
+        "https://www.banggood.com/",
+        "https://www.banggood.com/?pr=epn&click_id=43pvsfhvbrz05gopn8q2czlam76ywf7l&utm_content=141300",
+        "https://www.banggood.com/brands-DJI--b-184.html?bid=16164&rmmds=home-mid-topicBanner1",
+        "https://www.banggood.com/?pr=epn&click_id=43pvseoh6yyla0pyetnhiktuc8gu5azw&utm_content=141300",
+        "https://www.banggood.com/login.html",
+        "https://www.banggood.com/brands-MACHIFIT-b-702.html?rmmds=home-mid-topicBrand3",
+        "https://www.banggood.com/marketing-Access-Control-Theme/tid-3277.html?bid=16923"
+      ]
+    }
+  },
+  "3970": {
+    "site": "city-data.com",
+    "subdomain": "www.city-data.com",
+    "details": {
+      "setDomain": {
+        "city-data.com": 5
+      },
+      "urls": [
+        "http://www.city-data.com/forum/sitemap/index-20.html",
+        "http://www.city-data.com/restaurants-index/Utah.html",
+        "http://www.city-data.com/",
+        "http://www.city-data.com/terms.html",
+        "http://www.city-data.com/schools-dirs/schools-KY.html",
+        "http://www.city-data.com/la-restaurants/"
+      ]
+    }
+  },
+  "3607": {
+    "site": "tving.com",
+    "subdomain": "www.tving.com",
+    "details": {
+      "setDomain": {
+        "tving.com": 1
+      },
+      "urls": [
+        "http://www.tving.com/",
+        "http://www.tving.com/main.do",
+        "https://www.tving.com/"
+      ]
+    }
+  },
+  "3194": {
+    "site": "inbox.lv",
+    "subdomain": "money.inbox.lv",
+    "details": {
+      "setDomain": {
+        "inbox.lv": 1
+      },
+      "urls": []
+    }
+  },
+  "6495": {
+    "site": "tribuna.com",
+    "subdomain": "sales.tribuna.com",
+    "details": {
+      "setDomain": {
+        "sales.tribuna.com": 1
+      },
+      "urls": [
+        "https://sales.tribuna.com/"
+      ]
+    }
+  },
+  "793": {
+    "site": "npr.org",
+    "subdomain": "www.npr.org",
+    "details": {
+      "setDomain": {
+        "npr.org": 10
+      },
+      "urls": []
+    }
+  },
+  "9201": {
+    "site": "redocn.com",
+    "subdomain": "sucai.redocn.com",
+    "details": {
+      "setDomain": {
+        "redocn.com": 3
+      },
+      "urls": [
+        "http://sucai.redocn.com/",
+        "http://sucai.redocn.com/haibao_10497291.html",
+        "http://sucai.redocn.com/dongwuzhiwu_10497127.html",
+        "http://sucai.redocn.com/haibao_10495805.html"
+      ]
+    }
+  },
+  "1817": {
+    "site": "hi.ru",
+    "subdomain": "www.hi.ru",
+    "details": {
+      "setDomain": {
+        "www.hi.ru": 7
+      },
+      "urls": [
+        "http://www.hi.ru/"
+      ]
+    }
+  },
+  "1948": {
+    "site": "directv.com",
+    "subdomain": "www.directv.com",
+    "details": {
+      "setDomain": {
+        "directv.com": 1
+      },
+      "urls": [
+        "https://www.directv.com/",
+        "https://www.directv.com/content/dam/dtv/teamsite/chat/inqChat.html?IFRAME"
+      ]
+    }
+  },
+  "708": {
+    "site": "myfreecams.com",
+    "subdomain": "www.myfreecams.com",
+    "details": {
+      "setDomain": {
+        "myfreecams.com": 1
+      },
+      "urls": [
+        "https://www.myfreecams.com/_html/player.html?broadcaster_id=0&vcc=1564819195&target=main",
+        "https://www.myfreecams.com/"
+      ]
+    }
+  },
+  "906": {
+    "site": "ithome.com",
+    "subdomain": "www.ithome.com",
+    "details": {
+      "setDomain": {
+        "ithome.com": 8
+      },
+      "urls": [
+        "https://www.ithome.com/0/436/833.htm",
+        "https://www.ithome.com/",
+        "https://www.ithome.com/html/google/index/300x250.htm"
+      ]
+    }
+  },
+  "5336": {
+    "site": "harborfreight.com",
+    "subdomain": "www.harborfreight.com",
+    "details": {
+      "setDomain": {
+        "harborfreight.com": 10
+      },
+      "urls": [
+        "https://www.harborfreight.com/savings_coupons.html",
+        "https://www.harborfreight.com/building-construction.html",
+        "https://www.harborfreight.com/3500-Watt-Super-Quiet-Inverter-Generator-63584.html?ccdenc=eyJjb2RlIjoiMzczOTQ3NzciLCJza3UiOiI2MzU4NCIsImlzIjoiNjk5Ljk5IiwicHJvZHVjdF9p%0D%0AZCI6IjEyMTcyIn0%3D%0D%0A&utm_source=hpBanner&utm_campaign=xt1hptot070119",
+        "https://www.harborfreight.com/Ammo-Dry-Box-61451.html?ccdenc=eyJjb2RlIjoiMTI3MDkxMzgiLCJza3UiOiI2MTQ1MSIsImlzIjoiMy45OSIsInByb2R1Y3RfaWQi%0D%0AOiIxMDA4NCJ9%0D%0A",
+        "https://www.harborfreight.com/tool-storage-organization.html",
+        "https://www.harborfreight.com/",
+        "https://www.harborfreight.com/painting.html",
+        "https://www.harborfreight.com/hand-tools.html",
+        "https://www.harborfreight.com/safety.html",
+        "https://www.harborfreight.com/20-fl-oz-HVLP-Gravity-Feed-Air-Spray-Gun-62300.html?ccdenc=eyJjb2RlIjoiMTI2ODM3ODUiLCJza3UiOiI2MjMwMCIsImlzIjoiOS45OSIsInByb2R1Y3RfaWQi%0D%0AOiIxMTY3NSJ9%0D%0A"
+      ]
+    }
+  },
+  "7024": {
+    "site": "mediaworld.it",
+    "subdomain": "www.mediaworld.it",
+    "details": {
+      "setDomain": {
+        "mediaworld.it": 1
+      },
+      "urls": [
+        "https://www.mediaworld.it/magazine/articolo/lavatrici-la-guida-allacquisto-completa",
+        "https://www.mediaworld.it/product/p-994276",
+        "https://www.mediaworld.it/product/p-989889/samsung-wd90j6a10awet",
+        "https://www.mediaworld.it/catalogo/console-e-pc-gaming/sony-playstation-4/prevendite-ps4",
+        "https://www.mediaworld.it/search/HUAWEI%20P%20SMART%202019?category=all##",
+        "https://www.mediaworld.it/"
+      ]
+    }
+  },
+  "9684": {
+    "site": "foodmate.net",
+    "subdomain": "job.foodmate.net",
+    "details": {
+      "setDomain": {
+        "foodmate.net": 1
+      },
+      "urls": [
+        "http://job.foodmate.net/",
+        "http://job.foodmate.net/job/resume.php?itemid=17704"
+      ]
+    }
+  },
+  "2894": {
+    "site": "tripsavvy.com",
+    "subdomain": "www.tripsavvy.com",
+    "details": {
+      "setDomain": {
+        "www.tripsavvy.com": 9
+      },
+      "urls": []
+    }
+  },
+  "728": {
+    "site": "rediff.com",
+    "subdomain": "money.rediff.com",
+    "details": {
+      "setDomain": {
+        "rediff.com": 1
+      },
+      "urls": []
+    }
+  },
+  "4392": {
+    "site": "novayagazeta.ru",
+    "subdomain": "special.novayagazeta.ru",
+    "details": {
+      "setDomain": {
+        "special.novayagazeta.ru": 1
+      },
+      "urls": [
+        "https://special.novayagazeta.ru/"
+      ]
+    }
+  },
+  "2756": {
+    "site": "thebalance.com",
+    "subdomain": "www.thebalance.com",
+    "details": {
+      "setDomain": {
+        "www.thebalance.com": 1
+      },
+      "urls": []
+    }
+  },
+  "2042": {
+    "site": "nerdwallet.com",
+    "subdomain": "www.nerdwallet.com",
+    "details": {
+      "setDomain": {
+        "nerdwallet.com": 10
+      },
+      "urls": [
+        "https://www.nerdwallet.com/cost-of-living-calculator?trk=nw_gn1_4.0",
+        "https://www.nerdwallet.com/the-best-credit-cards?trk=nw_gn1_4.0",
+        "https://www.nerdwallet.com/checking-accounts?trk=nw_gn1_4.0",
+        "https://www.nerdwallet.com/?trk=nw_gn_4.0",
+        "https://www.nerdwallet.com/"
+      ]
+    }
+  },
+  "3381": {
+    "site": "commerzbank.de",
+    "subdomain": "www.commerzbank.de",
+    "details": {
+      "setDomain": {
+        "commerzbank.de": 1
+      },
+      "urls": [
+        "https://www.commerzbank.de/",
+        "https://www.commerzbank.de/de/hauptnavigation/karriere/karriere.html",
+        "https://www.commerzbank.de/de/hauptnavigation/home/home.html",
+        "https://www.commerzbank.de/de/hauptnavigation/research/research.html",
+        "https://www.commerzbank.de/de/nachhaltigkeit/home_1/home_neu_1.html",
+        "https://www.commerzbank.de/portal/media/system/usercentrics/cdcs-iframe-index.html?_fs=www",
+        "https://www.commerzbank.de/de/hauptnavigation/konzern/konzern.html"
+      ]
+    }
+  },
+  "6328": {
+    "site": "extra.com.br",
+    "subdomain": "www.extra.com.br",
+    "details": {
+      "setDomain": {
+        "extra.com.br": 10
+      },
+      "urls": []
+    }
+  },
+  "9028": {
+    "site": "ppkao.com",
+    "subdomain": "static.ppkao.com",
+    "details": {
+      "setDomain": {
+        "ppkao.com": 1
+      },
+      "urls": []
+    }
+  },
+  "638": {
+    "site": "kickstarter.com",
+    "subdomain": "www.kickstarter.com",
+    "details": {
+      "setDomain": {
+        "kickstarter.com": 10
+      },
+      "urls": [
+        "https://www.kickstarter.com/music?ref=section-homepage-nav-click-music",
+        "https://www.kickstarter.com/publishing?ref=section-homepage-nav-click-publishing",
+        "https://www.kickstarter.com/comics-illustration?ref=section-homepage-nav-click-comics-illustration",
+        "https://www.kickstarter.com/food-craft?ref=section-homepage-nav-click-food-craft",
+        "https://www.kickstarter.com/"
+      ]
+    }
+  },
+  "3355": {
+    "site": "hexun.com",
+    "subdomain": "stockdata.stock.hexun.com",
+    "details": {
+      "setDomain": {
+        "hexun.com": 2
+      },
+      "urls": []
+    }
+  },
+  "356": {
+    "site": "smzdm.com",
+    "subdomain": "post.smzdm.com",
+    "details": {
+      "setDomain": {
+        "smzdm.com": 1
+      },
+      "urls": []
+    }
+  },
+  "4155": {
+    "site": "picofile.com",
+    "subdomain": "s8.picofile.com",
+    "details": {
+      "setDomain": {
+        "picofile.com": 2
+      },
+      "urls": []
+    }
+  },
+  "21": {
+    "site": "twitch.tv",
+    "subdomain": "www.twitch.tv",
+    "details": {
+      "setDomain": {
+        "twitch.tv": 1
+      },
+      "urls": [
+        "https://www.twitch.tv/"
+      ]
+    }
+  },
+  "63": {
+    "site": "163.com",
+    "subdomain": "esf.house.163.com",
+    "details": {
+      "setDomain": {
+        "163.com": 1
+      },
+      "urls": []
+    }
+  },
+  "3553": {
+    "site": "verywellhealth.com",
+    "subdomain": "www.verywellhealth.com",
+    "details": {
+      "setDomain": {
+        "www.verywellhealth.com": 9
+      },
+      "urls": []
+    }
+  },
+  "2334": {
+    "site": "legacy.com",
+    "subdomain": "www.legacy.com",
+    "details": {
+      "setDomain": {
+        "legacy.com": 3
+      },
+      "urls": [
+        "https://www.legacy.com/"
+      ]
+    }
+  },
+  "9989": {
+    "site": "waves.com",
+    "subdomain": "www.waves.com",
+    "details": {
+      "setDomain": {
+        "waves.com": 10
+      },
+      "urls": [
+        "https://www.waves.com/merch",
+        "https://www.waves.com/student-discounts",
+        "https://www.waves.com/certification",
+        "https://www.waves.com/bundles",
+        "https://www.waves.com/hardware",
+        "https://www.waves.com/",
+        "https://www.waves.com/webinars",
+        "https://www.waves.com/contact-us",
+        "https://www.waves.com/refer",
+        "https://www.waves.com/blog"
+      ]
+    }
+  },
+  "223": {
+    "site": "bestbuy.com",
+    "subdomain": "www.bestbuy.com",
+    "details": {
+      "setDomain": {
+        "bestbuy.com": 2
+      },
+      "urls": [
+        "https://www.bestbuy.com/",
+        "https://www.bestbuy.com/loyalty/catalog",
+        "https://www.bestbuy.com/site/help-topics/international-orders/pcmcat204400050019.c?id=pcmcat204400050019&intl=nosplash"
+      ]
+    }
+  },
+  "3902": {
+    "site": "20min.ch",
+    "subdomain": "www.20min.ch",
+    "details": {
+      "setDomain": {
+        "20min.ch": 3
+      },
+      "urls": [
+        "https://www.20min.ch/"
+      ]
+    }
+  },
+  "3766": {
+    "site": "zum.com",
+    "subdomain": "hub.zum.com",
+    "details": {
+      "setDomain": {
+        "zum.com": 1
+      },
+      "urls": []
+    }
+  },
+  "3647": {
+    "site": "serviporno.com",
+    "subdomain": "www.serviporno.com",
+    "details": {
+      "setDomain": {
+        "serviporno.com": 1
+      },
+      "urls": [
+        "https://www.serviporno.com/"
+      ]
+    }
+  },
+  "1596": {
+    "site": "megaup.net",
+    "subdomain": "www.megaup.net",
+    "details": {
+      "setDomain": {
+        "megaup.net": 1
+      },
+      "urls": [
+        "https://www.megaup.net/"
+      ]
+    }
+  },
+  "887": {
+    "site": "dhgate.com",
+    "subdomain": "www.dhgate.com",
+    "details": {
+      "setDomain": {
+        "dhgate.com": 7
+      },
+      "urls": [
+        "https://www.dhgate.com/",
+        "https://www.dhgate.com/activities/electronics.html",
+        "https://www.dhgate.com/sitemap/discount-products.html"
+      ]
+    }
+  },
+  "1576": {
+    "site": "blocket.se",
+    "subdomain": "jobb.blocket.se",
+    "details": {
+      "setDomain": {
+        "blocket.se": 13
+      },
+      "urls": []
+    }
+  },
+  "3253": {
+    "site": "gadgetsnow.com",
+    "subdomain": "www.gadgetsnow.com",
+    "details": {
+      "setDomain": {
+        "gadgetsnow.com": 9
+      },
+      "urls": [
+        "https://www.gadgetsnow.com/top-gadgets/best-4g-phones-under-10000/editorschoiceshow/61101166.cms",
+        "https://www.gadgetsnow.com/",
+        "https://www.gadgetsnow.com/amazon-great-indian-festival-sales-offers"
+      ]
+    }
+  },
+  "2120": {
+    "site": "myscore.com.ua",
+    "subdomain": "www.myscore.com.ua",
+    "details": {
+      "setDomain": {
+        "myscore.com.ua": 1
+      },
+      "urls": [
+        "https://www.myscore.com.ua/"
+      ]
+    }
+  },
+  "6656": {
+    "site": "kekenet.com",
+    "subdomain": "ting.kekenet.com",
+    "details": {
+      "setDomain": {
+        "kekenet.com": 1
+      },
+      "urls": [
+        "http://ting.kekenet.com/"
+      ]
+    }
+  },
+  "2093": {
+    "site": "newgrounds.com",
+    "subdomain": "matthewlopz.newgrounds.com",
+    "details": {
+      "setDomain": {
+        "newgrounds.com": 1
+      },
+      "urls": [
+        "https://matthewlopz.newgrounds.com/"
+      ]
+    }
+  },
+  "6533": {
+    "site": "fanpop.com",
+    "subdomain": "id.fanpop.com",
+    "details": {
+      "setDomain": {
+        "fanpop.com": 1
+      },
+      "urls": []
+    }
+  },
+  "2514": {
+    "site": "antpedia.com",
+    "subdomain": "www.antpedia.com",
+    "details": {
+      "setDomain": {
+        "antpedia.com": 1
+      },
+      "urls": [
+        "https://www.antpedia.com/news/63/n-2316763.html",
+        "https://www.antpedia.com/view_b_3.html",
+        "https://www.antpedia.com/news/53/n-2313053.html",
+        "https://www.antpedia.com/view_b_1.html",
+        "https://www.antpedia.com/collection/?id=788&device=m",
+        "https://www.antpedia.com/special/788-collection.html",
+        "https://www.antpedia.com/",
+        "https://www.antpedia.com/view_b_2.html",
+        "https://www.antpedia.com/news/34/n-2319434.html"
+      ]
+    }
+  },
+  "3121": {
+    "site": "webmoney.ru",
+    "subdomain": "funding.webmoney.ru",
+    "details": {
+      "setDomain": {
+        "webmoney.ru": 1
+      },
+      "urls": [
+        "https://funding.webmoney.ru/",
+        "https://funding.webmoney.ru/Content/img/logo-sat.svg",
+        "https://funding.webmoney.ru/create"
+      ]
+    }
+  },
+  "368": {
+    "site": "mi.com",
+    "subdomain": "www.mi.com",
+    "details": {
+      "setDomain": {
+        "mi.com": 1
+      },
+      "urls": [
+        "http://www.mi.com/service/",
+        "http://www.mi.com/a/h/10844.html",
+        "https://www.mi.com/kr/",
+        "https://www.mi.com/service/exchange#back",
+        "http://www.mi.com/",
+        "http://www.mi.com/about/privacy/",
+        "https://www.mi.com/mibook/ruby15-2019mx110/",
+        "https://www.mi.com/",
+        "http://www.mi.com/redmibook14/",
+        "http://www.mi.com/eg/"
+      ]
+    }
+  },
+  "9657": {
+    "site": "mediaexpert.pl",
+    "subdomain": "www.mediaexpert.pl",
+    "details": {
+      "setDomain": {
+        "mediaexpert.pl": 1
+      },
+      "urls": [
+        "https://www.mediaexpert.pl/",
+        "https://www.mediaexpert.pl/zamow-przed-premiera?filtr%5B10437%5D%5B130093%5D=Xbox+360",
+        "https://www.mediaexpert.pl/Outlet-power-audio?outlet=1"
+      ]
+    }
+  },
+  "8561": {
+    "site": "chinaacc.com",
+    "subdomain": "member.chinaacc.com",
+    "details": {
+      "setDomain": {
+        "chinaacc.com": 1
+      },
+      "urls": [
+        "https://member.chinaacc.com/zhuanti/cpa/index.shtm?gg=stt2",
+        "https://member.chinaacc.com/"
+      ]
+    }
+  },
+  "9021": {
+    "site": "zupload.me",
+    "subdomain": "www.zupload.me",
+    "details": {
+      "setDomain": {
+        "zupload.me": 1
+      },
+      "urls": [
+        "https://www.zupload.me/"
+      ]
+    }
+  },
+  "3340": {
+    "site": "casasbahia.com.br",
+    "subdomain": "www.casasbahia.com.br",
+    "details": {
+      "setDomain": {
+        "casasbahia.com.br": 10
+      },
+      "urls": []
+    }
+  },
+  "5356": {
+    "site": "fx678.com",
+    "subdomain": "ask.fx678.com",
+    "details": {
+      "setDomain": {
+        "fx678.com": 1
+      },
+      "urls": []
+    }
+  },
+  "3313": {
+    "site": "doctissimo.fr",
+    "subdomain": "www.doctissimo.fr",
+    "details": {
+      "setDomain": {
+        "doctissimo.fr": 10
+      },
+      "urls": [
+        "http://www.doctissimo.fr/"
+      ]
+    }
+  },
+  "2008": {
+    "site": "nipic.com",
+    "subdomain": "www.nipic.com",
+    "details": {
+      "setDomain": {
+        "nipic.com": 2
+      },
+      "urls": []
+    }
+  },
+  "7963": {
+    "site": "nascar.com",
+    "subdomain": "www.nascar.com",
+    "details": {
+      "setDomain": {
+        "nascar.com": 2
+      },
+      "urls": [
+        "https://www.nascar.com/"
+      ]
+    }
+  },
+  "5290": {
+    "site": "ywart.com",
+    "subdomain": "www.ywart.com",
+    "details": {
+      "setDomain": {
+        "ywart.com": 6
+      },
+      "urls": []
+    }
+  },
+  "1148": {
+    "site": "suning.com",
+    "subdomain": "www.suning.com",
+    "details": {
+      "setDomain": {
+        "suning.com": 1
+      },
+      "urls": [
+        "https://www.suning.com/"
+      ]
+    }
+  },
+  "3047": {
+    "site": "azet.sk",
+    "subdomain": "www.azet.sk",
+    "details": {
+      "setDomain": {
+        "azet.sk": 5
+      },
+      "urls": [
+        "https://www.azet.sk/"
+      ]
+    }
+  },
+  "1840": {
+    "site": "aktuality.sk",
+    "subdomain": "www.aktuality.sk",
+    "details": {
+      "setDomain": {
+        "aktuality.sk": 1
+      },
+      "urls": []
+    }
+  },
+  "437": {
+    "site": "2345.com",
+    "subdomain": "www.2345.com",
+    "details": {
+      "setDomain": {
+        "2345.com": 1
+      },
+      "urls": [
+        "http://www.2345.com/help/repair.htm",
+        "http://www.2345.com/"
+      ]
+    }
+  },
+  "28": {
+    "site": "alipay.com",
+    "subdomain": "auth.alipay.com",
+    "details": {
+      "setDomain": {
+        "alipay.com": 2
+      },
+      "urls": [
+        "https://auth.alipay.com/login/index.htm?goto=https%3A%2F%2Fwww.alipay.com%2F",
+        "https://auth.alipay.com/",
+        "https://auth.alipay.com/login/homeB.htm?redirectType=parent&goto=https://open.alipay.com:443/platform/manageHome.htm"
+      ]
+    }
+  },
+  "5653": {
+    "site": "51240.com",
+    "subdomain": "jinzhi.51240.com",
+    "details": {
+      "setDomain": {
+        "51240.com": 1
+      },
+      "urls": []
+    }
+  },
+  "2598": {
+    "site": "chinayigui.com",
+    "subdomain": "weiersi.co.chinayigui.com",
+    "details": {
+      "setDomain": {
+        "chinayigui.com": 1
+      },
+      "urls": [
+        "https://weiersi.co.chinayigui.com/"
+      ]
+    }
+  },
+  "9105": {
+    "site": "soccerstand.com",
+    "subdomain": "www.soccerstand.com",
+    "details": {
+      "setDomain": {
+        "soccerstand.com": 1
+      },
+      "urls": []
+    }
+  },
+  "3030": {
+    "site": "porndroids.com",
+    "subdomain": "www.porndroids.com",
+    "details": {
+      "setDomain": {
+        "porndroids.com": 1
+      },
+      "urls": [
+        "https://www.porndroids.com/"
+      ]
+    }
+  },
+  "7847": {
+    "site": "letsupload.co",
+    "subdomain": "www.letsupload.co",
+    "details": {
+      "setDomain": {
+        "letsupload.co": 1
+      },
+      "urls": [
+        "https://www.letsupload.co/"
+      ]
+    }
+  },
+  "270": {
+    "site": "zol.com.cn",
+    "subdomain": "cio.zol.com.cn",
+    "details": {
+      "setDomain": {
+        "zol.com.cn": 1
+      },
+      "urls": []
+    }
+  },
+  "3530": {
+    "site": "instiz.net",
+    "subdomain": "www.instiz.net",
+    "details": {
+      "setDomain": {
+        "instiz.net": 14
+      },
+      "urls": [
+        "https://www.instiz.net/",
+        "https://www.instiz.net/name_enter?category=5",
+        "https://www.instiz.net/m/index.htm?welcome=1",
+        "http://www.instiz.net/name?category=1",
+        "http://www.instiz.net/name_enter?category=5",
+        "https://www.instiz.net/bbs/write.php?id=free&category=3",
+        "https://www.instiz.net/index.htm?welcome=1&gomb",
+        "https://www.instiz.net/notice/259",
+        "http://www.instiz.net/notice/259",
+        "https://www.instiz.net/?n&gomb",
+        "http://www.instiz.net/",
+        "https://www.instiz.net/name?category=1"
+      ]
+    }
+  },
+  "236": {
+    "site": "baike.com",
+    "subdomain": "fenlei.baike.com",
+    "details": {
+      "setDomain": {
+        "baike.com": 2
+      },
+      "urls": [
+        "http://fenlei.baike.com/iframeheight.html?rnd=0.07428527132340301#298|163",
+        "http://fenlei.baike.com/"
+      ]
+    }
+  },
+  "950": {
+    "site": "chron.com",
+    "subdomain": "www.chron.com",
+    "details": {
+      "setDomain": {
+        "chron.com": 1
+      },
+      "urls": []
+    }
+  },
+  "4609": {
+    "site": "animenewsnetwork.com",
+    "subdomain": "www.animenewsnetwork.com",
+    "details": {
+      "setDomain": {
+        "www.animenewsnetwork.com": 9
+      },
+      "urls": [
+        "https://www.animenewsnetwork.com/copyright-policy",
+        "https://www.animenewsnetwork.com/subscription",
+        "https://www.animenewsnetwork.com/assets/5b1041371fdff9050eaf72e4c88a1451ac1317ba.css",
+        "https://www.animenewsnetwork.com/assets/2894e08f87a8ffd43ae7068ff1b7d07b6ffaa86e.css",
+        "https://www.animenewsnetwork.com/assets/aa2b80acb30b1fbc352aa5c1d174c6db8ffcf682.png",
+        "https://www.animenewsnetwork.com/",
+        "https://www.animenewsnetwork.com/assets/2894e18f87a8ffd43ae7068ff1b7d07b6ffb4f63.css",
+        "https://www.animenewsnetwork.com/assets/5b1040371fdff9050eaf72e4c88a1451ac1bc2de.css"
+      ]
+    }
+  },
+  "4794": {
+    "site": "soccerway.com",
+    "subdomain": "kr.soccerway.com",
+    "details": {
+      "setDomain": {
+        "soccerway.com": 1
+      },
+      "urls": []
+    }
+  },
+  "3459": {
+    "site": "iciba.com",
+    "subdomain": "www.iciba.com",
+    "details": {
+      "setDomain": {
+        "iciba.com": 1
+      },
+      "urls": [
+        "https://www.iciba.com/"
+      ]
+    }
+  },
+  "1433": {
+    "site": "heise.de",
+    "subdomain": "spiele.heise.de",
+    "details": {
+      "setDomain": {
+        "heise.de": 2
+      },
+      "urls": [
+        "https://spiele.heise.de/sites/88/html/gamepage/skyscraper.html?cb=5",
+        "https://spiele.heise.de/#!Mahjong",
+        "https://spiele.heise.de/sites/88/html/gamepage/btf.html?cb=5",
+        "https://spiele.heise.de/gamePages/88_33/",
+        "https://spiele.heise.de/?site=88&inner=true#!Mahjong",
+        "https://spiele.heise.de/sites/88/html/gamepage/atf_crosspromo.html?cb=5",
+        "https://spiele.heise.de/"
+      ]
+    }
+  },
+  "7455": {
+    "site": "51credit.com",
+    "subdomain": "www.51credit.com",
+    "details": {
+      "setDomain": {
+        "51credit.com": 7
+      },
+      "urls": [
+        "https://www.51credit.com/wenda/820246.html",
+        "https://www.51credit.com/Banks/ShangHaiYinHang.shtml",
+        "https://www.51credit.com/Banks/HuaXia.shtml",
+        "https://www.51credit.com/xinyongka/kaku-tese2018/",
+        "https://www.51credit.com/",
+        "https://www.51credit.com/Banks/PingAn.shtml",
+        "https://www.51credit.com/Banks/JianHang.shtml"
+      ]
+    }
+  },
+  "1492": {
+    "site": "dangdang.com",
+    "subdomain": "search.dangdang.com",
+    "details": {
+      "setDomain": {
+        "dangdang.com": 1
+      },
+      "urls": []
+    }
+  },
+  "4654": {
+    "site": "optimum.net",
+    "subdomain": "www.optimum.net",
+    "details": {
+      "setDomain": {
+        "optimum.net": 1
+      },
+      "urls": []
+    }
+  },
+  "743": {
+    "site": "mydrivers.com",
+    "subdomain": "www.mydrivers.com",
+    "details": {
+      "setDomain": {
+        "mydrivers.com": 2
+      },
+      "urls": []
+    }
+  },
+  "9522": {
+    "site": "flashscore.ro",
+    "subdomain": "www.flashscore.ro",
+    "details": {
+      "setDomain": {
+        "flashscore.ro": 2
+      },
+      "urls": [
+        "https://www.flashscore.ro/"
+      ]
+    }
+  },
+  "583": {
+    "site": "gmarket.co.kr",
+    "subdomain": "gtour.gmarket.co.kr",
+    "details": {
+      "setDomain": {
+        "gmarket.co.kr": 1
+      },
+      "urls": []
+    }
+  },
+  "5425": {
+    "site": "vagalume.com.br",
+    "subdomain": "meu.vagalume.com.br",
+    "details": {
+      "setDomain": {
+        "vagalume.com.br": 4
+      },
+      "urls": [
+        "https://meu.vagalume.com.br/",
+        "https://meu.vagalume.com.br/paramoree1/",
+        "https://meu.vagalume.com.br/gabrielchiode/",
+        "https://meu.vagalume.com.br/caricatura/"
+      ]
+    }
+  },
+  "7277": {
+    "site": "verycd.com",
+    "subdomain": "www.verycd.com",
+    "details": {
+      "setDomain": {
+        "verycd.com": 8
+      },
+      "urls": [
+        "http://www.verycd.com/entries/814003/",
+        "http://www.verycd.com/base/edu/",
+        "http://www.verycd.com/licence/culture/",
+        "http://www.verycd.com/",
+        "http://www.verycd.com/licence/icp/",
+        "http://www.verycd.com/licence/gd/"
+      ]
+    }
+  }
+}
