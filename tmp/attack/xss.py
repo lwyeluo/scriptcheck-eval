@@ -1,10 +1,13 @@
+# coding=utf-8
+
 import os
 import json
 import subprocess
-import threadpool
 import logging
 import os
 import multiprocessing
+
+import codecs
 
 _logger = logging.getLogger('')
 
@@ -58,7 +61,7 @@ class Parse(object):
 
 		self._min_rank = min_rank
 		self._max_rank = max_rank
-		self._thread_num = 4
+		self._thread_num = 8
 
 		# indicators for xsstrike
 		self._xsstrike_vuln = "Vulnerable webpage: "
@@ -155,8 +158,98 @@ class Parse(object):
 		# json.dump(self.final_urls, fp)
 		fp.close()
 
-if __name__ == '__main__':
-	min_rank = 0
-	max_rank = 10
+
+class Payload(object):
+	def __init__(self):
+		_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+		_tim_evaluate_dir = os.path.dirname(_dir)
+		_xsstrike_dir = os.path.join(os.path.dirname(_tim_evaluate_dir), "XSStrike")
+		self._cmd_path = os.path.join(_xsstrike_dir, "xsstrike.py")
+		print(self._cmd_path)
+
+		self._thread_num = 8
+
+		# input
+		self._output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "vuln_subdomains")
+		self._input_path = os.path.join(self._output_dir, "subdomains_with_vector")
+
+		self._indicator = ">>> "
+		self._fuzzer_passed = "[passed]"
+
+		# read input urls
+		self.readUrls()
+
+	def readUrls(self):
+		_urls = {}
+		cur_rank = -1
+
+		with codecs.open(self._input_path, "r", "utf8") as f:
+			for line in f.readlines():
+				line = line.strip("\n")
+
+				if self._indicator in line:
+					_, _, rank = line.partition(self._indicator)
+					cur_rank = int(rank)
+				else:
+					print("{}".format(line))
+					if cur_rank not in _urls.keys():
+						_urls[cur_rank] = []
+					_urls[cur_rank].append(line)
+
+		# duplicate
+		self._input_urls = {}
+		for k in _urls.keys():
+			s = set()
+			for url in _urls[k]:
+				s.add(url)
+			if len(s) > 0:
+				self._input_urls[k] = []
+				for u in s:
+					self._input_urls[k].append(u)
+		print(self._input_urls)
+
+	def handleUrl(self, url, rank):
+		print(" ".join(["python3", self._cmd_path, "-u", url, "--crawl"]))
+		process_node = subprocess.Popen(["python3", self._cmd_path, "-u", url, "--fuzzer"],
+										shell=False, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+
+		vuln_payloads = []
+		while process_node.poll() is None:
+			line = process_node.stdout.readline()
+			line = line.strip().decode("utf-8")
+			if line:
+				print('Subprogram output: [{}]'.format(line))
+				if self._fuzzer_passed in line:
+					_, _, v = line.partition(self._fuzzer_passed)
+					v = v.strip("'").replace(" ", "")
+					_logger.info(">>> [%d][%s] Find a passed payload: " % (rank, url) + v)
+					vuln_payloads.append(v)
+
+		return vuln_payloads
+
+	def runForPayload(self):
+		# the process pool
+		pool = multiprocessing.Pool(self._thread_num)
+		results = []
+		for k in sorted(self._input_urls.keys()):
+			for u in self._input_urls[k]:
+				results.append(pool.apply_async(self.handleUrl, (u, k,)))
+
+		pool.close()
+		pool.join()
+
+
+def parseVector():
+	min_rank = 2000
+	max_rank = 5000
 	p = Parse(min_rank, max_rank)
 	p.runForVector()
+
+
+def generatePayload():
+	Payload().runForPayload()
+
+
+if __name__ == '__main__':
+	# parseVector()
+	generatePayload()
