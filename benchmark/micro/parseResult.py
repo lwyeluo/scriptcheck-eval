@@ -23,7 +23,7 @@ class ParseLog(object):
         self._features_record_task = '>>> [RDTSC] CPU cycles for Switcher::doRecord is: '
         self._features_switch_task = '>>> [RDTSC] CPU cycles for Switcher::doSwitch is: '
         self._features_call_record = ">>> [RDTSC] [CPU cycles for BindingSecurity::CallRecord, time] = "
-        self._features_tim_sop_check = ">>> [RDTSC] [frame chain's length, CPU cycles for TIM's SOP CHECK] = "
+        self._features_tim_sop_check = ">>> [RDTSC] [frame chain's length, duplicated frame chain's length, CPU cycles for TIM's SOP CHECK] = "
         self._features_original_sop_check = ">>> [RDTSC] CPU cycles for original CHECK is: "
 
         self.record_tasks = []
@@ -41,8 +41,8 @@ class ParseLog(object):
             avg_time += d[_key_for_time_usage]
 
         self.results[key] = {
-            _key_for_cpu_cycle: avg_cpu/len(tasks),
-            _key_for_time_usage: avg_time/len(tasks)
+            _key_for_cpu_cycle: avg_cpu/len(tasks) if len(tasks) > 0 else 0.0,
+            _key_for_time_usage: avg_time/len(tasks) if len(tasks) > 0 else 0.0
         }
 
     def computeWithFrameChainLen(self, tasks, key):
@@ -116,8 +116,8 @@ class ParseLog(object):
                 elif self._features_tim_sop_check in line:
                     _, _, remain = line.partition(self._features_tim_sop_check)
                     info = remain.strip(" ").strip("s").split(", ")
-                    data = {_key_for_cpu_cycle: float(info[1]),
-                            _key_for_time_usage: float(info[2]),
+                    data = {_key_for_cpu_cycle: float(info[2]),
+                            _key_for_time_usage: float(info[3]),
                             _key_for_frame_chain_len: 99 if float(info[0]) == 100 else float(info[0])
                             }
                     self.tim_sop.append(data)
@@ -139,14 +139,18 @@ class Parse(object):
 
     def computeWithoutFrameChainLen(self, results_list, key):
         avg_cpu, avg_time = 0.0, 0.0
+        ignored_tests = 0
         for result in results_list:
             d = result[key]
             avg_cpu += d[_key_for_cpu_cycle]
             avg_time += d[_key_for_time_usage]
+            if d[_key_for_cpu_cycle] == 0.0:
+                ignored_tests += 1
 
+        length = len(results_list) - ignored_tests
         self.final_results[key] = {
-            _key_for_cpu_cycle: avg_cpu/len(results_list),
-            _key_for_time_usage: avg_time/len(results_list)
+            _key_for_cpu_cycle: avg_cpu/length,
+            _key_for_time_usage: avg_time/length
         }
 
     def computeWithFrameChainLen(self, results_list, key):
@@ -217,7 +221,6 @@ class Parse(object):
             filepath = os.path.join(self._results_dir, file)
             p = ParseLog(filepath)
             p.run()
-
             self.all_results.append(p.results)
 
         # compute the average value

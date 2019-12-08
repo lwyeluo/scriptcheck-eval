@@ -18,7 +18,7 @@ from utils.executor import getTime
 
 class RunChromeForPerformance(object):
     def __init__(self):
-        self.test_url = "https://news.yahoo.com"  # here is the web page which contains frame chain whose length is 99
+        self.test_url = "https://news.yahoo.com/politics"  # here is the web page which contains frame chain whose length is 99
 
         _dir = os.path.abspath(os.path.dirname(__file__))
         self._results_dir = os.path.join(_dir, "results")
@@ -49,7 +49,7 @@ class RunChromeForPerformance(object):
         # run Chrome for the welcome webpage
         print(">>> Welcome to Chrome")
         filepath = os.path.join(self._results_dir, "test")
-        RunUrl("https://news.yahoo.com", filepath, node_filename=_node_run_url_filename)
+        RunUrl(self.test_url, filepath, node_filename=_node_run_url_filename)
 
         time.sleep(5)
 

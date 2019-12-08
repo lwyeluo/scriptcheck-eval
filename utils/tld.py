@@ -13,6 +13,12 @@ def isSitePlusTLD(domain):
 def getSite(domain):
 	return psl.get_public_suffix(domain)
 
+def levelOfDomain(domain):
+	site = getSite(domain)
+	domain = domain.replace(site, "")
+	num = domain.count('.')
+	return num + 2
+
 
 def test():
 	domains = [
@@ -20,6 +26,7 @@ def test():
 	]
 	for domain in domains:
 		print("%s->%s" % (domain, str(isSitePlusTLD(domain))))
+		print("level is %d" % levelOfDomain(domain))
 
 if __name__ == '__main__':
 	test()
