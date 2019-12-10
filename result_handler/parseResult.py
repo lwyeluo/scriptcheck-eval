@@ -108,9 +108,9 @@ def loadAndParseResult():
 		if not os.path.exists(path):
 			break
 
-		print("load %s" % path)
-		with open(path, "rb") as file:
-			webpages += pickle.load(file)
+		# print("load %s" % path)
+		# with open(path, "rb") as file:
+		# 	webpages += pickle.load(file)
 
 		path = os.path.join(_tmp_dir, "frames-%d.obj" % i)
 		with open(path, "rb") as file:
@@ -118,13 +118,17 @@ def loadAndParseResult():
 
 		i += 1
 
-	# print the frame structures
-	from result_handler.further_analyze.frame_structure import printFrameStructures
-	printFrameStructures(frames, _logger)
+	# # print the frame structures
+	# from result_handler.further_analyze.frame_structure import printFrameStructures
+	# printFrameStructures(frames, _logger)
+	#
+	# # print the maximum frame chain
+	# from result_handler.further_analyze.max_frame_chain import MaximumFrameChain
+	# MaximumFrameChain(webpages, _logger).run()
 
-	# print the maximum frame chain
-	from result_handler.further_analyze.max_frame_chain import MaximumFrameChain
-	MaximumFrameChain(webpages, _logger).run()
+	# print the document.domain events
+	from result_handler.further_analyze.set_domain import printSetDomains
+	printSetDomains(frames, _logger)
 
 
 	# # log

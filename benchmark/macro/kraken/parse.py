@@ -1,5 +1,10 @@
 # coding=utf-8
 
+'''
+    Test the performance for TIM. The commit is 9cf5b2ef9bd6cdab4b82992ddc874dc07f731fb0
+'''
+
+
 import json
 import os
 import codecs
@@ -10,6 +15,7 @@ absolutePath = os.path.abspath(__file__)
 benchmarkDir = os.path.dirname(absolutePath) + "/../result/kraken/"
 baselineDir = benchmarkDir + "init-results/"
 switcherDir = benchmarkDir + "tim-results/"
+switcherFallbackDir = benchmarkDir + "tim-fallback-results/"
 print(benchmarkDir)
 
 benchmarkExampleResults = '''
@@ -78,8 +84,8 @@ class parseSunspider:
                 # here is the subBenchmark name
                 name, _, remain = line.partition(":")
                 self.subBenchmarkNames[currentBenchmark].append(name.strip())
-        # print(self.benchmarkNames)
-        # print(self.subBenchmarkNames)
+        print(self.benchmarkNames)
+        print(self.subBenchmarkNames)
 
     def parseFile(self, fileName):
         results = {}
@@ -124,6 +130,18 @@ class parseSunspider:
                 for key in switcherResults.keys():
                     switcherResults[key].append(fileResults[key][0])
 
+        # switcher fallback to context-based access control
+        switcherFallbackResults = {}
+        for f in range(1, round + 1):
+            filename = os.path.join(switcherFallbackDir, str(f))
+            fileResults = self.parseFile(filename)
+
+            if not switcherFallbackResults:
+                switcherFallbackResults = fileResults
+            else:
+                for key in switcherFallbackResults.keys():
+                    switcherFallbackResults[key].append(fileResults[key][0])
+
         # print
         print("-\t-", end="")
         for key in self.benchmarkNames:
@@ -150,6 +168,20 @@ class parseSunspider:
             for key in self.benchmarkNames:
                 if key in switcherResults.keys():
                     time = switcherResults[key][i - 1]
+                    if time.endswith("ms"):
+                        print("\t%f" % float(time[:-2]), end="")
+                    else:
+                        print("\tUnknown", end="")
+                else:
+                    print("\tUnknown", end="")
+            print()
+
+        print("TIM fallback", end='')
+        for i in range(1, round + 1):
+            print("\t%d" % (i), end='')
+            for key in self.benchmarkNames:
+                if key in switcherFallbackResults.keys():
+                    time = switcherFallbackResults[key][i - 1]
                     if time.endswith("ms"):
                         print("\t%f" % float(time[:-2]), end="")
                     else:

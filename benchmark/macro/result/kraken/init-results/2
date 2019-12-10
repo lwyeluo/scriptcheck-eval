@@ -1,29 +1,29 @@
 ===============================================
 RESULTS (means and 95% confidence intervals)
 -----------------------------------------------
-Total:                        3909.5ms +/- 0.2%
+Total:                        4890.0ms +/- 1.1%
 -----------------------------------------------
 
-  ai:                          285.3ms +/- 2.3%
-    astar:                     285.3ms +/- 2.3%
+  ai:                          356.5ms +/- 2.8%
+    astar:                     356.5ms +/- 2.8%
 
-  audio:                       495.7ms +/- 1.7%
-    beat-detection:            172.9ms +/- 3.1%
-    dft:                       115.0ms +/- 1.4%
-    fft:                       103.9ms +/- 3.4%
-    oscillator:                103.9ms +/- 0.7%
+  audio:                       614.9ms +/- 2.4%
+    beat-detection:            205.2ms +/- 7.5%
+    dft:                       152.4ms +/- 6.1%
+    fft:                       117.9ms +/- 2.0%
+    oscillator:                139.4ms +/- 1.5%
 
-  imaging:                     518.8ms +/- 0.8%
-    gaussian-blur:             201.7ms +/- 1.9%
-    darkroom:                  232.9ms +/- 0.4%
-    desaturate:                 84.2ms +/- 1.4%
+  imaging:                     641.7ms +/- 0.6%
+    gaussian-blur:             267.3ms +/- 0.3%
+    darkroom:                  270.3ms +/- 0.8%
+    desaturate:                104.1ms +/- 2.6%
 
-  json:                        879.2ms +/- 0.3%
-    parse-financial:           649.3ms +/- 0.3%
-    stringify-tinderbox:       229.9ms +/- 0.6%
+  json:                       1135.7ms +/- 0.4%
+    parse-financial:           843.0ms +/- 0.4%
+    stringify-tinderbox:       292.7ms +/- 1.2%
 
-  stanford:                   1730.5ms +/- 0.9%
-    crypto-aes:                268.5ms +/- 1.4%
-    crypto-ccm:                539.0ms +/- 2.6%
-    crypto-pbkdf2:             737.8ms +/- 0.9%
-    crypto-sha256-iterative:   185.2ms +/- 3.7%
+  stanford:                   2141.2ms +/- 1.9%
+    crypto-aes:                316.9ms +/- 1.7%
+    crypto-ccm:                622.2ms +/- 2.5%
+    crypto-pbkdf2:             971.1ms +/- 3.9%
+    crypto-sha256-iterative:   231.0ms +/- 4.0%

@@ -1,3 +1,9 @@
+/home/wluo/workspace/tim-evaluate/url_list/subdomains /home/wluo/workspace/tim-evaluate/url_list/topsitesAlexa
+>>> _topsites_dir:  /home/wluo/workspace/tim-evaluate/url_list/topsitesAlexa
+>>> _subdomains_dir:  /home/wluo/workspace/tim-evaluate/url_list/subdomains
+>>> _target_subdomains_json_file: /home/wluo/workspace/tim-evaluate/url_list/topsitesAlexa/suspectedSubDomains
+Chrome binary is  /home/wluo/chromium/tick/src/out/Default/chrome
+>>> loadAndParseResult
 The number of subdomains setting document.domain: 651
 3
 	-> 2 (568)
@@ -11,3 +17,6 @@ The number of subdomains setting document.domain: 651
 		 firsttime.2019.cosmo.ru -> firsttime.2019.cosmo.ru
 	-> 3 (2)
 		 www.fun365.orientaltrading.com -> fun365.orientaltrading.com, g.wan.2345.com -> wan.2345.com
+
+
+Namespace(Alexa=False, Alexa_subdomains=False, all=False, crawl_url=False, domain=None, load=True, machine_id=None, macro_benchmark=None, micro_benchmark=None, parse_homepage=False, parse_log='Alexa', parse_log_for_subdomains=False, parse_log_with_filename=None, parse_subdomains=False, reverse=False, run_alexa_top_sites=False, run_subdomains=False, save=False, split=None, test_parse_log=None)

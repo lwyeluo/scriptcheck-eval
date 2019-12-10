@@ -110,7 +110,7 @@ def plotKraken():
 
 	# 1. read data
 	types = []
-	baseResults, timResults = [], []
+	baseResults, timResults, timFallbackResults = [], [], []
 	with open(_kraken_file, "r") as f:
 		content = f.readlines()
 		for t in content[0].strip("\n").split("\t")[1:]:
@@ -121,26 +121,32 @@ def plotKraken():
 				baseResults += [float(x) for x in data[1:]]
 			elif data[0] == "TIM":
 				timResults += [float(x) for x in data[1:]]
+			elif data[0] == "TIM fallback":
+				timFallbackResults += [float(x) for x in data[1:]]
 		f.close()
 	x_label = np.array(types)
 	y1 = np.array(baseResults)
 	y2 = np.array(timResults)
+	y3 = np.array(timFallbackResults)
 
 	x = list(range(len(x_label)))
-	total_width, n = 0.8, 2
+	total_width, n = 0.8, 3
 	width = total_width / n
 
 	plt.figure()
 	plt.bar(x, y1, width=width, label='Baseline', facecolor='white', edgecolor='black')
 	for i in range(len(x)):
 		x[i] = x[i] + width
-	plt.bar(x, y2, width=width, label='TIM', facecolor='gray', edgecolor='black')
+	plt.bar(x, y2, width=width, label='Task-based', facecolor='gray', edgecolor='black')
+	for i in range(len(x)):
+		x[i] = x[i] + width
+	plt.bar(x, y2, width=width, label='Task-based (Fallback)', facecolor='black', edgecolor='black')
 
 	for i in range(len(x)):
-		x[i] = x[i] - width/2
+		x[i] = x[i] - width
 	plt.xticks(x, x_label)
 
-	plt.ylim(0, 4500)
+	plt.ylim(0, 5500)
 	plt.tick_params(labelsize=18)
 	plt.ylabel('Time usage (ms)', fontproperties='SimHei', fontsize=18)
 	# plt.grid(axis="y")
@@ -185,12 +191,12 @@ def plotSOP():
 	ax2.tick_params(labelsize=18)
 
 	# y1轴
-	ax1.set_ylim(0, 180000)
+	ax1.set_ylim(0, 120000)
 	# ax1.set_yscale('log')
 	# ax1.yaxis.set_major_locator(mtick.LogLocator(base=10.0, numticks=10))
 
 	# y2轴
-	ax2.set_ylim(0, 50)
+	ax2.set_ylim(0, 42)
 
 	# 设置label
 	ax1.set_xlabel('length of frame chain', fontproperties='SimHei', fontsize=20)
