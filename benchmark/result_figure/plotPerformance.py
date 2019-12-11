@@ -191,12 +191,12 @@ def plotSOP():
 	ax2.tick_params(labelsize=18)
 
 	# y1轴
-	ax1.set_ylim(0, 120000)
+	ax1.set_ylim(0, 200000)
 	# ax1.set_yscale('log')
 	# ax1.yaxis.set_major_locator(mtick.LogLocator(base=10.0, numticks=10))
 
 	# y2轴
-	ax2.set_ylim(0, 42)
+	ax2.set_ylim(0, 70)
 
 	# 设置label
 	ax1.set_xlabel('length of frame chain', fontproperties='SimHei', fontsize=20)

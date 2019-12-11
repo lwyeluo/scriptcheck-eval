@@ -2,7 +2,7 @@
 
 '''
     Test the performance for TIM
-    Make sure your commit for Chromium is 642211e601dcd48240207df507b631fd1bc4b498, which
+    Make sure your commit for Chromium is 9e9be1cf60ad3358a3e1408ee1af86e3aa2ad188, which
         adds the logs to record the CPU cycles and time usages
 '''
 
@@ -26,7 +26,7 @@ class RunChromeForPerformance(object):
             shutil.rmtree(self._results_dir)
         os.mkdir(self._results_dir)
 
-        self._round = 100
+        self._round = 50
 
     def run(self):
 
