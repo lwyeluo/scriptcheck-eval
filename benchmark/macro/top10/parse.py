@@ -4,13 +4,7 @@ import json
 import os
 
 absolutePath = os.path.abspath(__file__)
-
-benchmarkDir = os.path.dirname(absolutePath) + "/../result/telemetry/top_10/"
-baselineDir = benchmarkDir + "init/"
-switcherDir = benchmarkDir + "tick/"
-switcherNoFrameChainDir = benchmarkDir + "tick-no-update-frame-chain/"
 resultFileName = "results.json"
-print(benchmarkDir)
 
 # metrics
 MetricsFMP = "timeToFirstMeaningfulPaint"
@@ -23,15 +17,40 @@ MetricsAlias = {
     MetricsFP: "FP"
 }
 
+'''
+    We need to differentiate China's sites and others, due to THE WALL...
+'''
 domains = [
     "google.com",
     "youtube.com",
     "facebook.com",
     "en.wikipedia.org",
     "amazon.com",
-    "yahoo.com",
+    #"yahoo.com",
     "bing.com",
     "ask.com"
+]
+domains_cn = [
+    "tmall.com",
+    "baidu.com",
+    "qq.com",
+    "sohu.com",
+    "taobao.com",
+    #"en.wikipedia.org",
+    #"amazon.com",
+]
+
+domains_final = [
+    "google.com",
+    "youtube.com",
+    "tmall.com",
+    "facebook.com",
+    "baidu.com",
+    "qq.com",
+    "sohu.com",
+    "taobao.com",
+    "en.wikipedia.org",
+    "amazon.com",
 ]
 
 def checkDataType(data, intendedType):
@@ -95,6 +114,10 @@ def parseResult(data, metricsType):
     duplicated_results = {}
     for key, value in results.items():
         duplicated_results[key] = float(sum(value)/len(value))
+        if duplicated_results[key] < 100:
+            duplicated_results[key] = "Unknown"
+            # raise Exception("Some error happens, for that the value is less than 100. <%s: %s>"
+            #                 % (key, duplicated_results[key]))
 
     return duplicated_results
 
@@ -115,13 +138,15 @@ def readAndParse(fileName):
 def parse(fileDir):
     results = {}
 
+    if not os.path.exists(fileDir):
+        return results, 0
+
     dirs = os.listdir(fileDir)
     # get the max round
     round = 0
     for i in range(0, len(dirs)):
         if int(dirs[i]) > round:
             round = int(dirs[i])
-    print("##### we have %d round(s) #####" % round)
     for i in range(1, round + 1):
         
         # print("\n\t** round %d **" % i)
@@ -137,7 +162,51 @@ def parse(fileDir):
                 results[i] = fileResults
     return results, round
 
-def printResultForPlot():
+def printResult(results, round, category, domains):
+    for metrics in [MetricsFCP, MetricsFMP]:
+        print("%s-%s" % (category, MetricsAlias[metrics]), end='')
+        for i in range(1, round + 1):
+            print("\t%d" % (i), end='')
+            for domain in domains:
+                found_domain = False
+                if i not in results.keys():
+                    print("\tUnknown", end='')
+                    continue
+                for k in results[i][metrics].keys():
+                    if k.find(domain) > 0:
+                        print("\t%s" % results[i][metrics][k], end='')
+                        found_domain = True
+                        break
+                if not found_domain:
+                    print("\tUnknown", end='')
+            print()
+
+def printResultForTop10(cnResults, outResults, round, category, domains):
+    for metrics in [MetricsFCP, MetricsFMP]:
+        print("%s-%s" % (category, MetricsAlias[metrics]), end='')
+        for i in range(1, round + 1):
+            print("\t%d" % (i), end='')
+            for domain in domains:
+                found_domain = False
+                results = cnResults if domain in domains_cn else outResults
+                if i not in results.keys():
+                    print("\tUnknown", end='')
+                    continue
+                for k in results[i][metrics].keys():
+                    if k.find(domain) > 0:
+                        print("\t%s" % results[i][metrics][k], end='')
+                        found_domain = True
+                        break
+                if not found_domain:
+                    print("\tUnknown", end='')
+            print()
+
+def runResultForPlot(domains):
+    benchmarkDir = os.path.dirname(absolutePath) + "/../result/telemetry/top_10/"
+    baselineDir = benchmarkDir + "init/"
+    switcherDir = benchmarkDir + "tick/"
+    switcherFallbackDir = benchmarkDir + "tick-fallback/"
+
     # print url
     print("\t-\t", end='')
     for domain in domains:
@@ -146,63 +215,79 @@ def printResultForPlot():
 
     # case INIT
     initResults, round = parse(baselineDir)
-    #round = 1
+    print("##### we have %d round(s) #####" % round)
+    printResult(initResults, round, "Baseline", domains)
 
-    for metrics in [MetricsFP, MetricsFCP, MetricsFMP]:
-        print("Baseline-%s" % MetricsAlias[metrics], end='')
-        for i in range(1, round + 1):
-            print("\t%d" % (i), end='')
-            for domain in domains:
-                found_domain = False
-                for k in initResults[i][metrics].keys():
-                    if k.find(domain) > 0:
-                        print("\t%s" % initResults[i][metrics][k], end='')
-                        found_domain = True
-                        break
-                if not found_domain:
-                    print("\tUnknown", end='')
-            print()
+    # case TICK-fallback
+    switcherFallbackResults, round = parse(switcherFallbackDir)
+    print("##### we have %d round(s) #####" % round)
+    printResult(switcherFallbackResults, round, "TIM (Fallback)", domains)
 
     # case TICK
     switcherResults, round = parse(switcherDir)
-    
-    for metrics in [MetricsFP, MetricsFCP, MetricsFMP]:
-        print("TIM-%s" % MetricsAlias[metrics], end='')
-        for i in range(1, round + 1):
-            print("\t%d" % (i), end='')
-            for domain in domains:
-                found_domain = False
-                for k in switcherResults[i][metrics].keys():
-                    if k.find(domain) > 0:
-                        print("\t%s" % switcherResults[i][metrics][k], end='')
-                        found_domain = True
-                        break
-                if not found_domain:
-                    print("\tUnknown", end='')
-            print()
-
-    # case TICK-without-updating-frame-chain
-    switcherNoFrameChainResults, round = parse(switcherNoFrameChainDir)
-    for metrics in [MetricsFP, MetricsFCP, MetricsFMP]:
-        print("TIM-w/o-frame-chain-%s" % MetricsAlias[metrics], end='')
-        for i in range(1, round + 1):
-            print("\t%d" % (i), end='')
-            for domain in domains:
-                found_domain = False
-                for k in switcherNoFrameChainResults[i][metrics].keys():
-                    if k.find(domain) > 0:
-                        print("\t%s" % switcherNoFrameChainResults[i][metrics][k], end='')
-                        found_domain = True
-                        break
-                if not found_domain:
-                    print("\tUnknown", end='')
-            print()
-    pass
+    print("##### we have %d round(s) #####" % round)
+    printResult(switcherResults, round, "TIM", domains)
 
 def run():
-    printResultForPlot()
+    runResultForPlot()
+
+'''
+   parse top 10
+'''
+def runResult():
+    benchmarkDir = os.path.dirname(absolutePath) + "/../result/telemetry/top_10/"
+    # print url
+    print("\t-\t", end='')
+    for domain in domains_cn:
+        print("%s\t" % domain, end='')
+    print()
+
+    initResults, round = parse(benchmarkDir)
+    print("##### we have %d round(s) #####" % round)
+    printResult(initResults, round, "-", domains_cn)
+
+
+'''
+    parse the results for all top 10 sites
+'''
+def runResultForTop10():
+    # 1. get the file path
+    benchmarkDir = os.path.dirname(absolutePath) + "/../result/telemetry/top_10_final/"
+    cnDir = benchmarkDir + "cn/"
+    outDir = benchmarkDir + "out/"
+
+    # 2. subpath name
+    initDirName, tickDirName, tickFallbackDirName = "init/", "tick/", "tick-fallback/"
+
+    # print url
+    print("\t-\t", end='')
+    for domain in domains_final:
+        print("%s\t" % domain, end='')
+    print()
+
+    # 3. parse cn's sites
+    # case INIT
+    cnInitResults, cnRound = parse(cnDir + initDirName)
+    outInitResults, outRound = parse(outDir + initDirName)
+    print("##### we have %d round(s) #####" % outRound)
+    printResultForTop10(cnInitResults, outInitResults, outRound, "Baseline", domains_final)
+
+    # case TICK-fallback
+    cnTickFallbackResults, cnRound = parse(cnDir + tickFallbackDirName)
+    outTickFallbackResults, outRound = parse(outDir + tickFallbackDirName)
+    print("##### we have %d round(s) #####" % outRound)
+    printResultForTop10(cnTickFallbackResults, outTickFallbackResults, outRound, "TIM (Fallback)", domains_final)
+
+    # case TICK
+    cnTickResults, cnRound = parse(cnDir + tickDirName)
+    outTickResults, outRound = parse(outDir + tickDirName)
+    print("##### we have %d round(s) #####" % outRound)
+    printResultForTop10(cnTickResults, outTickResults, outRound, "TIM", domains_final)
+    pass
+
 
 if __name__ == '__main__':
-    # printResultByCase()
-    printResultForPlot()
+    # runResultForPlot(domains_cn)
+    # runResult()
+    runResultForTop10()
     pass

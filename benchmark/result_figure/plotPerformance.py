@@ -19,55 +19,71 @@ def plotFCPFMP():
 	# 1. read data
 	sites = []
 	baseFCPResults, baseFMPResults, timFCPResults, timFMPResults = [], [], [], []
+	timFallbackFCPResults, timFallbackFMPResults = [], []
 	with open(_fcpfmp_file, "r") as f:
 		content = f.readlines()
 		# sites
-		for t in content[0].strip("\n").split("\t")[2:]:
+		for t in content[0].strip("\n").split("\t")[1:]:
 			sites.append(t.replace(".com", "").replace(".org", "").replace("en.", ""))
 		#
 		for d in content[1:]:
 			data = d.strip("\n").split("\t")
-			if data[1] == "Baseline-FCP":
-				baseFCPResults += [float(x) for x in data[2:]]
-			elif data[1] == "Baseline-FMP":
-				baseFMPResults += [float(x) for x in data[2:]]
-			elif data[1] == "TIM-FCP":
-				timFCPResults += [float(x) for x in data[2:]]
-			elif data[1] == "TIM-FMP":
-				timFMPResults += [float(x) for x in data[2:]]
+			idx = 0
+			if data[idx] == "Baseline-FCP":
+				baseFCPResults += [float(x) for x in data[idx+1:]]
+			elif data[idx] == "Baseline-FMP":
+				baseFMPResults += [float(x) for x in data[idx+1:]]
+			elif data[idx] == "TIM-FCP":
+				timFCPResults += [float(x) for x in data[idx+1:]]
+			elif data[idx] == "TIM-FMP":
+				timFMPResults += [float(x) for x in data[idx+1:]]
+			elif data[idx] == "TIM-FCP(Fallback)":
+				timFallbackFCPResults += [float(x) for x in data[idx+1:]]
+			elif data[idx] == "TIM-FMP(Fallback)":
+				timFallbackFMPResults += [float(x) for x in data[idx+1:]]
 		f.close()
 
 	# plot
 	x_label = np.array(sites)
 	y1 = np.array(baseFCPResults)
-	y2 = np.array(timFCPResults)
-	y3 = np.array(baseFMPResults)
-	y4 = np.array(timFMPResults)
+	y2 = np.array(timFallbackFCPResults)
+	y3 = np.array(timFCPResults)
+	y4 = np.array(baseFMPResults)
+	y5 = np.array(timFallbackFMPResults)
+	y6 = np.array(timFMPResults)
 
 	x = list(range(len(x_label)))
-	total_width, n = 0.8, 4
+	total_width, n = 0.8, 6
 	width = total_width / n
 
+	hatch = '-'
+
 	plt.figure()
-	plt.bar(x, y1, width=width, label="Baseline-FCP", facecolor='white', edgecolor='black')
+	plt.bar(x, y1, width=width, label="Baseline (FCP)", facecolor='white', edgecolor='black')
 	for i in range(0, len(x)):
 		x[i] += width
-	plt.bar(x, y2, width=width, label="TIM-FCP", facecolor='#CCCCCC', edgecolor='black')
+	plt.bar(x, y2, width=width, label="TIM (Fallback) (FCP)", facecolor='#CCCCCC', edgecolor='black')
 	for i in range(0, len(x)):
 		x[i] += width
-	plt.bar(x, y3, width=width, label="Baseline-FMP", facecolor='#666666', edgecolor='black')
+	plt.bar(x, y3, width=width, label="TIM (FCP)", facecolor='#666666', edgecolor='black')
 	for i in range(0, len(x)):
 		x[i] += width
-	plt.bar(x, y4, width=width, label="TIM-FMP", facecolor='#333333', edgecolor='black')
+	plt.bar(x, y4, width=width, label="Baseline (FMP)", facecolor='white', hatch=hatch, edgecolor='black')
+	for i in range(0, len(x)):
+		x[i] += width
+	plt.bar(x, y5, width=width, label="TIM (Fallback) (FMP)", facecolor='#CCCCCC', hatch=hatch, edgecolor='black')
+	for i in range(0, len(x)):
+		x[i] += width
+	plt.bar(x, y6, width=width, label="TIM (FMP)", facecolor='#666666', hatch=hatch, edgecolor='black')
 
 	for i in range(len(x)):
-		x[i] = x[i] - width * 1.5
+		x[i] = x[i] - width * 3
 	plt.xticks(x, x_label)
 
 	#plt.ylim(0, 4500)
 	plt.tick_params(labelsize=18)
 	plt.ylabel('Time usage (ms)', fontproperties='SimHei', fontsize=18)
-	# plt.grid(axis="y")
+	plt.grid(axis="y")
 	plt.legend(fontsize=15)
 	plt.tight_layout()
 	plt.show()
@@ -126,8 +142,8 @@ def plotKraken():
 		f.close()
 	x_label = np.array(types)
 	y1 = np.array(baseResults)
-	y2 = np.array(timResults)
-	y3 = np.array(timFallbackResults)
+	y2 = np.array(timFallbackResults)
+	y3 = np.array(timResults)
 
 	x = list(range(len(x_label)))
 	total_width, n = 0.8, 3
@@ -137,10 +153,10 @@ def plotKraken():
 	plt.bar(x, y1, width=width, label='Baseline', facecolor='white', edgecolor='black')
 	for i in range(len(x)):
 		x[i] = x[i] + width
-	plt.bar(x, y2, width=width, label='Task-based', facecolor='gray', edgecolor='black')
+	plt.bar(x, y2, width=width, label='Task-based (Fallback)', facecolor='gray', edgecolor='black')
 	for i in range(len(x)):
 		x[i] = x[i] + width
-	plt.bar(x, y2, width=width, label='Task-based (Fallback)', facecolor='black', edgecolor='black')
+	plt.bar(x, y3, width=width, label='Task-based', facecolor='black', edgecolor='black')
 
 	for i in range(len(x)):
 		x[i] = x[i] - width
@@ -208,7 +224,7 @@ def plotSOP():
 	plt.show()
 
 
-# plotFCPFMP()
+plotFCPFMP()
 # plotYoutube()
 # plotKraken()
-plotSOP()
+# plotSOP()

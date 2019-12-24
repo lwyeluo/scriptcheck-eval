@@ -1,0 +1,179 @@
+(WARNING) 2019-12-24 14:29:51,458 desktop_browser_finder.FindAllAvailableBrowsers:250  Chrome build location for linux_x86_64 not found. Browser will be run without Flash.
+(WARNING) 2019-12-24 14:29:54,492 desktop_browser_finder.FindAllAvailableBrowsers:250  Chrome build location for linux_x86_64 not found. Browser will be run without Flash.
+(WARNING) 2019-12-24 14:29:57,528 desktop_browser_finder.FindAllAvailableBrowsers:250  Chrome build location for linux_x86_64 not found. Browser will be run without Flash.
+[ RUN      ] Tmall
+
+DevTools listening on ws://127.0.0.1:43269/devtools/browser/548cfcdd-e24f-403c-bbd2-dbfeef7612d3
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[23349:23349:1224/143002.693319:INFO:CONSOLE(3)] "A78FBA1CCC5A9FC16DD97D8B87833472: 0.0380859375ms", source:  (3)
+[1:17:1224/143003.238209:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[23349:23349:1224/143003.786858:INFO:CONSOLE(3)] "", source: https://g.alicdn.com/secdev/nsv/1.0.64/ns_c_75_3_f.js (3)
+[1:17:1224/143003.790500:WARNING:stunport.cc(403)] Port[0x37ec83d7a420:data:1:0:local:Net[any:::/0:Unknown]]: StunPort: stun host lookup received error 0
+[1:17:1224/143003.865661:WARNING:p2ptransportchannel.cc(714)] Port[0x37ec83db7da0:data:1:0:local:Net[any:0.0.0.0/0:Unknown]]: SetOption(5, 0) failed: 0
+[1:17:1224/143003.866101:WARNING:p2ptransportchannel.cc(714)] Port[0x37ec83542420:data:1:0:local:Net[any:::/0:Unknown]]: SetOption(5, 0) failed: 0
+[1:17:1224/143003.983024:WARNING:stunport.cc(403)] Port[0x37ec882edc20:data:1:0:local:Net[any:::/0:Unknown]]: StunPort: stun host lookup received error 0
+[1:17:1224/143004.082036:WARNING:p2ptransportchannel.cc(714)] Port[0x37ec7f9df220:data:1:0:local:Net[any:0.0.0.0/0:Unknown]]: SetOption(5, 0) failed: 0
+[1:17:1224/143004.084162:WARNING:p2ptransportchannel.cc(714)] Port[0x37ec83a62020:data:1:0:local:Net[any:::/0:Unknown]]: SetOption(5, 0) failed: 0
+[1:19:1224/143005.277509:WARNING:paced_sender.cc(261)] Elapsed time (2007 ms) longer than expected, limiting to 2000 ms
+[1:21:1224/143005.665813:WARNING:paced_sender.cc(261)] Elapsed time (2002 ms) longer than expected, limiting to 2000 ms
+[1:19:1224/143005.777391:WARNING:paced_sender.cc(261)] Elapsed time (2507 ms) longer than expected, limiting to 2000 ms
+[1:21:1224/143006.166891:WARNING:paced_sender.cc(261)] Elapsed time (2503 ms) longer than expected, limiting to 2000 ms
+[1:19:1224/143006.277855:WARNING:paced_sender.cc(261)] Elapsed time (3007 ms) longer than expected, limiting to 2000 ms
+[1:21:1224/143006.667491:WARNING:paced_sender.cc(261)] Elapsed time (3003 ms) longer than expected, limiting to 2000 ms
+[1:19:1224/143006.778161:WARNING:paced_sender.cc(261)] Elapsed time (3507 ms) longer than expected, limiting to 2000 ms
+[1:21:1224/143007.168043:WARNING:paced_sender.cc(261)] Elapsed time (3504 ms) longer than expected, limiting to 2000 ms
+[1:19:1224/143007.278547:WARNING:paced_sender.cc(261)] Elapsed time (4008 ms) longer than expected, limiting to 2000 ms
+[1:21:1224/143007.668566:WARNING:paced_sender.cc(261)] Elapsed time (4004 ms) longer than expected, limiting to 2000 ms
+[1:19:1224/143007.778957:WARNING:paced_sender.cc(261)] Elapsed time (4508 ms) longer than expected, limiting to 2000 ms
+[1:21:1224/143008.169087:WARNING:paced_sender.cc(261)] Elapsed time (4505 ms) longer than expected, limiting to 2000 ms
+(WARNING) 2019-12-24 14:30:08,260 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+[23349:23349:1224/143008.496688:INFO:CONSOLE(106)] "%c 安全警告！", source: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/global/3.0.31/global-pc.js,mui/global/3.0.31/global.js,mui/globalmodule/3.0.83/seed.js,mui/btscfg-g/3.0.0/index.js,mui/bucket/3.0.4/index.js,mui/globalmodule/3.0.83/global-mod-pc.js,mui/globalmodule/3.0.83/global-mod.js,mui/kissy-polyfill/4.0.16/index.js,mui/babel-polyfill/6.2.4/index.js,mui/fetch/4.1.12/fetch.js,mui/fetch/4.1.12/tool.js,mui/fetch/4.1.12/jsonp.js (106)
+[23349:23349:1224/143008.498148:INFO:CONSOLE(106)] "%c 此浏览器功能专供开发者使用。请不要在此粘贴执行任何内容，这可能会导致您的账户受到攻击，给您带来损失 ！", source: https://g.alicdn.com/??kissy/k/1.4.14/seed-min.js,mui/global/3.0.31/global-pc.js,mui/global/3.0.31/global.js,mui/globalmodule/3.0.83/seed.js,mui/btscfg-g/3.0.0/index.js,mui/bucket/3.0.4/index.js,mui/globalmodule/3.0.83/global-mod-pc.js,mui/globalmodule/3.0.83/global-mod.js,mui/kissy-polyfill/4.0.16/index.js,mui/babel-polyfill/6.2.4/index.js,mui/fetch/4.1.12/fetch.js,mui/fetch/4.1.12/tool.js,mui/fetch/4.1.12/jsonp.js (106)
+[1:21:1224/143008.669468:WARNING:paced_sender.cc(261)] Elapsed time (5005 ms) longer than expected, limiting to 2000 ms
+(WARNING) 2019-12-24 14:30:10,592 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 2.332 seconds
+[23349:23349:1224/143010.672908:INFO:CONSOLE(1)] "   :::                                :::  
+ :::::::                             ::::: 
+:::::::::                          ::::::::
+:::::::::::::::::::::::::::::::::::::::::::
+::::    :::    ::::::::::::::::   :::  ::::
+:::    Smart    :::::cool::::    Crazy  :::
+:::::   :::    :::::::::::::::    :::   :::
+:::::::::::::::::::::::::::::::::::::::::::
+
+喵~ 加入我们吧 https://tb.cn/iS8NBOy", source: https://g.alicdn.com/zebra-pages/fp5/6.0.86/??pc/js/mods/new-hot-brand.js,pc/js/js-xtpl/new-hot-brand-render.js,pc/js/js-xtpl/new-hot-brand.js,pc/js/js-xtpl/new-hot-brand-item-render.js,pc/js/js-xtpl/new-hot-brand-item.js,pc/js/mods/fix-search.js,pc/js/mods/header.js (1)
+[23349:23359:1224/143011.640483:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[23349:23349:1224/143011.750886:WARNING:url_request_context_getter.cc(43)] URLRequestContextGetter leaking due to no owning thread.
+[23349:23349:1224/143011.755313:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[23349:23349:1224/143011.755378:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] Tmall (14352 ms)
+[ RUN      ] Baidu
+
+DevTools listening on ws://127.0.0.1:35033/devtools/browser/b8288d4f-328e-4bbf-895b-498c827110dc
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[23488:23488:1224/143015.551391:INFO:CONSOLE(731)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (731)
+[23488:23488:1224/143015.552320:INFO:CONSOLE(731)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (731)
+[23488:23488:1224/143015.681332:INFO:CONSOLE(181)] "你在电脑前看这段文字，
+写文字的人在百度等你。
+N年前你来到了这个世界，
+N年后你想改变世界。
+
+期待你脚踏祥云，
+与百度一起改变世界。
+", source: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js (181)
+[23488:23488:1224/143015.682116:INFO:CONSOLE(181)] "%c百度2020校园招聘简历提交：http://dwz.cn/XpoFdepe", source: https://dss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_71ba635.js (181)
+[23488:23488:1224/143016.146141:INFO:CONSOLE(3)] "F10B3C28BCFFED2EA263A87B79007935: 0.041015625ms", source:  (3)
+(WARNING) 2019-12-24 14:30:20,525 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-24 14:30:22,452 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 1.927 seconds
+[23488:23580:1224/143022.916933:WARNING:internal_linux.cc(64)] Failed to read /proc/23518/stat
+[23488:23498:1224/143022.994874:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[23488:23488:1224/143023.082955:WARNING:url_request_context_getter.cc(43)] URLRequestContextGetter leaking due to no owning thread.
+[23488:23488:1224/143023.087389:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[23488:23488:1224/143023.087440:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] Baidu (11322 ms)
+[ RUN      ] Qq
+
+DevTools listening on ws://127.0.0.1:43451/devtools/browser/4aef84d0-1e9b-474f-8f96-b738eb31db82
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[23581:23581:1224/143034.623899:INFO:CONSOLE(3)] "7D6E4E05D98E6B76D4B7FB9FEABEB1B2: 0.0498046875ms", source:  (3)
+(WARNING) 2019-12-24 14:30:40,776 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-24 14:30:43,897 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 3.121 seconds
+[23581:23707:1224/143045.233697:WARNING:internal_linux.cc(64)] Failed to read /proc/23611/stat
+[23581:23591:1224/143045.316783:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[23581:23581:1224/143045.394604:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[23581:23581:1224/143045.394673:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] Qq (22423 ms)
+[ RUN      ] Sohu
+
+DevTools listening on ws://127.0.0.1:39619/devtools/browser/7d50ad5b-f17b-41f5-9872-f89a2df18703
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[23719:23719:1224/143102.124719:INFO:CONSOLE(0)] "[DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o", source: http://sohu.com/ (0)
+[23719:23719:1224/143103.804171:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+(WARNING) 2019-12-24 14:31:17,280 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+[23719:23719:1224/143118.329586:WARNING:gaia_auth_fetcher.cc(873)] Could not reach Google Accounts servers: errno -7
+(WARNING) 2019-12-24 14:31:22,466 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 5.186 seconds
+[23719:23922:1224/143124.999390:WARNING:internal_linux.cc(64)] Failed to read /proc/23750/stat
+[23719:23729:1224/143125.079511:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[23719:23719:1224/143125.082333:WARNING:url_request_context_getter.cc(43)] URLRequestContextGetter leaking due to no owning thread.
+[23719:23719:1224/143125.086418:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[23719:23719:1224/143125.086476:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] Sohu (39660 ms)
+[ RUN      ] Taobao
+
+DevTools listening on ws://127.0.0.1:35647/devtools/browser/d58543ca-71d3-44af-91e8-6fe89e41504e
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[1:17:1224/143130.169820:ERROR:adm_helpers.cc(73)] Failed to query stereo recording.
+[23923:23933:1224/143131.587619:ERROR:socket_dispatcher_host.cc(93)] Failed to resolve address for x., errorcode: -105
+[23923:23933:1224/143131.587870:ERROR:socket_dispatcher_host.cc(93)] Failed to resolve address for x., errorcode: -105
+[1:17:1224/143131.588079:WARNING:stunport.cc(403)] Port[0x1b44df65f020:data:1:0:local:Net[any:0.0.0.0/0:Unknown]]: StunPort: stun host lookup received error -1
+[1:17:1224/143131.588354:WARNING:stunport.cc(403)] Port[0x1b44df636020:data:1:0:local:Net[any:::/0:Unknown]]: StunPort: stun host lookup received error -1
+[1:17:1224/143131.673336:WARNING:p2ptransportchannel.cc(714)] Port[0x1b44df77a6a0:data:1:0:local:Net[any:0.0.0.0/0:Unknown]]: SetOption(5, 0) failed: 0
+[1:17:1224/143131.675435:WARNING:p2ptransportchannel.cc(714)] Port[0x1b44df400020:data:1:0:local:Net[any:::/0:Unknown]]: SetOption(5, 0) failed: 0
+[23923:23923:1224/143132.097724:INFO:CONSOLE(3)] "E1F6F11F8BEB70DA1537A2C60507DE3F: 0.0380859375ms", source:  (3)
+[1:19:1224/143132.199512:WARNING:paced_sender.cc(261)] Elapsed time (2007 ms) longer than expected, limiting to 2000 ms
+[1:19:1224/143132.699173:WARNING:paced_sender.cc(261)] Elapsed time (2506 ms) longer than expected, limiting to 2000 ms
+[23923:23923:1224/143133.020147:INFO:CONSOLE(1)] "将根据已有的meta标签来设置缩放比例", source: https://g.alicdn.com/mtb/lib-flexible/0.3.2/flexible.js (1)
+[1:19:1224/143133.200077:WARNING:paced_sender.cc(261)] Elapsed time (3007 ms) longer than expected, limiting to 2000 ms
+[1:19:1224/143133.700991:WARNING:paced_sender.cc(261)] Elapsed time (3508 ms) longer than expected, limiting to 2000 ms
+[23923:23923:1224/143133.799856:INFO:CONSOLE(5)] "The deviceorientation events are blocked by feature policy. See https://github.com/WICG/feature-policy/blob/gh-pages/features.md#sensor-features", source: https://g.alicdn.com/AWSC/uab/122.js?d=24 (5)
+[23923:23923:1224/143133.842413:INFO:CONSOLE(7)] "", source: https://g.alicdn.com/AWSC/uab/122.js?d=24 (7)
+[1:19:1224/143134.201258:WARNING:paced_sender.cc(261)] Elapsed time (4008 ms) longer than expected, limiting to 2000 ms
+[1:19:1224/143134.701646:WARNING:paced_sender.cc(261)] Elapsed time (4509 ms) longer than expected, limiting to 2000 ms
+[1:17:1224/143134.791559:WARNING:stunport.cc(403)] Port[0x1b44e0f2c820:data:1:0:local:Net[any:::/0:Unknown]]: StunPort: stun host lookup received error 0
+[1:17:1224/143134.832024:WARNING:p2ptransportchannel.cc(714)] Port[0x1b44df8be8a0:data:1:0:local:Net[any:0.0.0.0/0:Unknown]]: SetOption(5, 0) failed: 0
+[1:17:1224/143134.832473:WARNING:p2ptransportchannel.cc(714)] Port[0x1b44e0e04420:data:1:0:local:Net[any:::/0:Unknown]]: SetOption(5, 0) failed: 0
+[1:19:1224/143135.208107:WARNING:paced_sender.cc(261)] Elapsed time (5015 ms) longer than expected, limiting to 2000 ms
+[23923:23923:1224/143135.465380:INFO:CONSOLE(3)] "", source: https://g.alicdn.com/secdev/nsv/1.0.64/ns_c_75_3_f.js (3)
+[1:17:1224/143135.685945:WARNING:stunport.cc(403)] Port[0x1b44de966e20:data:1:0:local:Net[any:::/0:Unknown]]: StunPort: stun host lookup received error 0
+[1:17:1224/143135.771490:WARNING:p2ptransportchannel.cc(714)] Port[0x1b44df9bc020:data:1:0:local:Net[any:0.0.0.0/0:Unknown]]: SetOption(5, 0) failed: 0
+[1:17:1224/143135.772009:WARNING:p2ptransportchannel.cc(714)] Port[0x1b44df9aa220:data:1:0:local:Net[any:::/0:Unknown]]: SetOption(5, 0) failed: 0
+[1:22:1224/143136.013344:WARNING:paced_sender.cc(261)] Elapsed time (2004 ms) longer than expected, limiting to 2000 ms
+[1:22:1224/143136.514207:WARNING:paced_sender.cc(261)] Elapsed time (2505 ms) longer than expected, limiting to 2000 ms
+[1:22:1224/143137.014517:WARNING:paced_sender.cc(261)] Elapsed time (3005 ms) longer than expected, limiting to 2000 ms
+[1:24:1224/143137.330746:WARNING:paced_sender.cc(261)] Elapsed time (2004 ms) longer than expected, limiting to 2000 ms
+[1:22:1224/143137.515059:WARNING:paced_sender.cc(261)] Elapsed time (3506 ms) longer than expected, limiting to 2000 ms
+[1:24:1224/143137.830591:WARNING:paced_sender.cc(261)] Elapsed time (2504 ms) longer than expected, limiting to 2000 ms
+[1:22:1224/143138.015712:WARNING:paced_sender.cc(261)] Elapsed time (4006 ms) longer than expected, limiting to 2000 ms
+[1:24:1224/143138.330742:WARNING:paced_sender.cc(261)] Elapsed time (3004 ms) longer than expected, limiting to 2000 ms
+[1:22:1224/143138.517572:WARNING:paced_sender.cc(261)] Elapsed time (4508 ms) longer than expected, limiting to 2000 ms
+[1:24:1224/143138.830954:WARNING:paced_sender.cc(261)] Elapsed time (3504 ms) longer than expected, limiting to 2000 ms
+[1:22:1224/143139.017694:WARNING:paced_sender.cc(261)] Elapsed time (5008 ms) longer than expected, limiting to 2000 ms
+[1:24:1224/143139.333455:WARNING:paced_sender.cc(261)] Elapsed time (4007 ms) longer than expected, limiting to 2000 ms
+[1:22:1224/143139.518137:WARNING:paced_sender.cc(261)] Elapsed time (5509 ms) longer than expected, limiting to 2000 ms
+[1:24:1224/143139.834167:WARNING:paced_sender.cc(261)] Elapsed time (4507 ms) longer than expected, limiting to 2000 ms
+(WARNING) 2019-12-24 14:31:39,917 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+[1:22:1224/143140.024093:WARNING:paced_sender.cc(261)] Elapsed time (6015 ms) longer than expected, limiting to 2000 ms
+[1:22:1224/143140.524793:WARNING:paced_sender.cc(261)] Elapsed time (6515 ms) longer than expected, limiting to 2000 ms
+[1:22:1224/143141.026107:WARNING:paced_sender.cc(261)] Elapsed time (7017 ms) longer than expected, limiting to 2000 ms
+[1:22:1224/143141.526877:WARNING:paced_sender.cc(261)] Elapsed time (7517 ms) longer than expected, limiting to 2000 ms
+[1:22:1224/143142.027790:WARNING:paced_sender.cc(261)] Elapsed time (8018 ms) longer than expected, limiting to 2000 ms
+(WARNING) 2019-12-24 14:31:42,442 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 2.524 seconds
+[1:22:1224/143142.528347:WARNING:paced_sender.cc(261)] Elapsed time (8519 ms) longer than expected, limiting to 2000 ms
+[1:22:1224/143143.028464:WARNING:paced_sender.cc(261)] Elapsed time (9019 ms) longer than expected, limiting to 2000 ms
+[23923:24044:1224/143143.462626:WARNING:internal_linux.cc(64)] Failed to read /proc/23953/stat
+[23923:23933:1224/143143.545767:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[23923:23923:1224/143143.626758:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[23923:23923:1224/143143.626825:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] Taobao (18447 ms)
+[ RUN      ] Amazon
+(WARNING) 2019-12-24 14:31:43,796 shared_page_state.WillRunStory:228  WPR archive missing: /home/wluo/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:43720/devtools/browser/ffa8a374-3a75-487f-b798-b03580c927c9
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[24045:24068:1224/143146.685273:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[24045:24045:1224/143153.287620:INFO:CONSOLE(3)] "044DA253FF806118D76A631D488E12AF: 0.044189453125ms", source:  (3)
+(WARNING) 2019-12-24 14:31:59,880 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-24 14:32:02,877 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 2.998 seconds
+[24045:24150:1224/143204.234145:WARNING:internal_linux.cc(64)] Failed to read /proc/24075/stat
+[24045:24055:1224/143204.314725:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[24045:24045:1224/143204.439668:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[24045:24045:1224/143204.439734:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] Amazon (20873 ms)
+[  PASSED  ] 6 tests.
+
+View result at file:///home/wluo/chromium/init/src/tools/perf/results.html

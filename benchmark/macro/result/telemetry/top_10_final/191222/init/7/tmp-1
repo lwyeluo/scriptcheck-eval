@@ -1,0 +1,308 @@
+(WARNING) 2019-12-22 04:24:40,287 desktop_browser_finder.FindAllAvailableBrowsers:250  Chrome build location for linux_x86_64 not found. Browser will be run without Flash.
+(WARNING) 2019-12-22 04:24:43,329 desktop_browser_finder.FindAllAvailableBrowsers:250  Chrome build location for linux_x86_64 not found. Browser will be run without Flash.
+(WARNING) 2019-12-22 04:24:46,354 desktop_browser_finder.FindAllAvailableBrowsers:250  Chrome build location for linux_x86_64 not found. Browser will be run without Flash.
+[ RUN      ] https://www.google.com/#hl=en&q=barack+obama
+(WARNING) 2019-12-22 04:24:46,381 shared_page_state.WillRunStory:228  WPR archive missing: /home/wluo/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:34055/devtools/browser/a994af65-2a47-494d-a347-75c294b1eaa1
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[31321:31321:1222/042453.245196:INFO:CONSOLE(3)] "244A59482E4E3EFE71119D0DFEBE4D3C: 0.036865234375ms", source:  (3)
+[1:1:1222/042455.886715:ERROR:css_computed_style_declaration.cc(189)] Blink does not yet implement getComputedStyle for 'overflow'.
+(WARNING) 2019-12-22 04:24:59,148 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-22 04:25:01,426 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 2.277 seconds
+[31321:31331:1222/042501.702903:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 47
+[31321:31578:1222/042501.831413:WARNING:internal_linux.cc(64)] Failed to read /proc/31351/stat
+[31321:31331:1222/042501.915347:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[31321:31321:1222/042501.996571:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[31321:31321:1222/042501.996641:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] https://www.google.com/#hl=en&q=barack+obama (15861 ms)
+[ RUN      ] http://www.youtube.com
+(WARNING) 2019-12-22 04:25:02,241 shared_page_state.WillRunStory:228  WPR archive missing: /home/wluo/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:40033/devtools/browser/baea436a-cd2e-4259-8a42-c7e790a26069
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[31579:31579:1222/042510.048206:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[31579:31589:1222/042516.705841:WARNING:extension_protocols.cc(472)] Failed to get directory for extension invalid
+[31579:31589:1222/042516.706010:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[31579:31579:1222/042517.214117:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dpassive%26hl%3Den%26next%3D%252Fsignin_passive&uilel=3&service=youtube&hl=en' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[31579:31589:1222/042521.403453:WARNING:extension_protocols.cc(472)] Failed to get directory for extension invalid
+[31579:31589:1222/042521.403831:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1:1:1222/042521.439011:ERROR:resource_dispatcher.cc(373)] unknown request
+[31579:31579:1222/042521.475631:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vflX047bV/network.js (15)
+[31579:31579:1222/042525.500773:INFO:CONSOLE(3)] "3C98B3698E1D042DBDF991E7E848C134: 0.039306640625ms", source:  (3)
+[31579:31579:1222/042525.525007:INFO:CONSOLE(3)] "BD164BB3A44D7A481534BEABC16D229B: 0.042724609375ms", source:  (3)
+[31579:31579:1222/042531.557470:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+(WARNING) 2019-12-22 04:25:32,773 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-22 04:25:36,845 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 4.072 seconds
+[31579:31589:1222/042537.881466:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 53
+[31579:31579:1222/042537.932642:ERROR:frame_sink_provider_impl.cc(37)] No RenderWidgetHost exists with id 1 in process 3
+[31579:31589:1222/042538.057711:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 3
+[31579:31801:1222/042538.245318:WARNING:internal_linux.cc(64)] Failed to read /proc/31609/stat
+[31579:31589:1222/042538.326003:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[31579:31579:1222/042538.332526:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[31579:31579:1222/042538.332579:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] http://www.youtube.com (36396 ms)
+[ RUN      ] Facebook
+(WARNING) 2019-12-22 04:25:38,637 shared_page_state.WillRunStory:228  WPR archive missing: /home/wluo/chromium/init/src/tools/perf/page_sets/data/top_10_001.wprgo
+
+DevTools listening on ws://127.0.0.1:37402/devtools/browser/a740e896-4cbd-42f7-a08d-0de368c2ef61
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[31804:31804:1222/042548.631407:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #email: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[31804:31804:1222/042548.632437:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #lgnjs: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[31804:31804:1222/042548.633345:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #locale: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[31804:31804:1222/042548.634691:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #login_form: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[31804:31804:1222/042548.635480:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #pass: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[31804:31804:1222/042548.636260:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #prefill_contact_point: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[31804:31804:1222/042548.637026:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #prefill_source: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[31804:31804:1222/042548.637820:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #prefill_type: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[31804:31804:1222/042548.638582:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/barackobama (0)
+[31804:31804:1222/042548.639342:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/barackobama (0)
+[31804:31804:1222/042549.531570:INFO:CONSOLE(3)] "E4298E0D1DAAE67199FDF5DD04C939EB: 0.04931640625ms", source:  (3)
+[31804:31804:1222/042553.616050:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[31804:31804:1222/042553.617030:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[31804:31804:1222/042553.618440:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[31804:31804:1222/042553.619240:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[1:1:1222/042554.294331:WARNING:trace_log.cc(1002)] The following threads haven't finished flush in time. If this happens stably for some thread, please call TraceLog::GetInstance()->SetCurrentThreadBlocksMessageLoop() from the thread to avoid its trace events from being lost.
+[31804:31804:1222/042556.924761:INFO:CONSOLE(417)] "Uncaught (in promise) Error: The manifest specifies content that cannot be displayed on this browser/platform.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/XpFFWCF_B8_.js?_nc_x=Ij3Wp8lg5Kz (417)
+[31804:31804:1222/042556.926066:INFO:CONSOLE(417)] "Uncaught (in promise) Error: The manifest specifies content that cannot be displayed on this browser/platform.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/XpFFWCF_B8_.js?_nc_x=Ij3Wp8lg5Kz (417)
+(WARNING) 2019-12-22 04:26:00,126 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-22 04:26:03,147 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 3.021 seconds
+[31804:31814:1222/042604.311960:WARNING:spdy_session.cc(2961)] Received WINDOW_UPDATE for invalid stream 19
+[31804:32080:1222/042604.499722:WARNING:internal_linux.cc(64)] Failed to read /proc/31835/stat
+[31804:31814:1222/042604.582096:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[31804:31804:1222/042604.674947:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[31804:31804:1222/042604.675016:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] Facebook (26301 ms)
+[ RUN      ] Wikipedia
+(WARNING) 2019-12-22 04:26:04,939 shared_page_state.WillRunStory:228  WPR archive missing: /home/wluo/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:41245/devtools/browser/0242ed80-5cb7-48dc-a376-8a9d793c66da
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[32082:32082:1222/042620.923658:INFO:CONSOLE(148)] "JQMIGRATE: Migrate is installed with logging active, version 3.1.0", source: https://en.wikipedia.org/w/load.php?lang=en&modules=Spinner%2Cjquery%2Coojs%2Coojs-router%2Csite%7Cext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%2Clib%7Cext.tmh.OgvJsSupport%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery.client%2Ccookie%2CembedPlayer%2CgetAttrs%2ChighlightText%2CloadingSpinner%2CmakeCollapsible%2CmwEmbedUtil%2Csuggestions%2CtextSelection%2CtriggerQueueCallback%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cnotify%2CsearchSuggest%2Cstorage%2Ctemplate%2Ctoc%2Cuser%2Cutil%2Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.template.regexp%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.EmbedPlayer.loader%7Cmw.MediaWikiPlayer.loader%7Cmw.MwEmbedSupport%2CPopUpMediaTransform%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform.styles%7Cmw.TMHGalleryHook.js%7Cmw.TimedText.loader%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=2pi4g (148)
+[32082:32082:1222/042623.206011:INFO:CONSOLE(3)] "6E66BE7156BF6C48FF6EDA48D330DFB3: 0.035888671875ms", source:  (3)
+(WARNING) 2019-12-22 04:26:30,333 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-22 04:26:33,725 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 3.392 seconds
+[32112:32112:1222/042633.860552:WARNING:x11_util.cc(1362)] X error received: serial 2228, error_code 9 (BadDrawable), request_code 154, minor_code 4 (Unknown)
+[32112:32112:1222/042633.860765:WARNING:x11_util.cc(1362)] X error received: serial 2229, error_code 3 (BadWindow), request_code 4, minor_code 0 (Unknown)
+[32082:32239:1222/042634.107249:WARNING:internal_linux.cc(64)] Failed to read /proc/32112/stat
+[32082:32092:1222/042634.187939:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[32082:32082:1222/042634.279980:WARNING:url_request_context_getter.cc(43)] URLRequestContextGetter leaking due to no owning thread.
+[32082:32082:1222/042634.284535:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[32082:32082:1222/042634.284583:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] Wikipedia (29603 ms)
+[ RUN      ] http://www.amazon.com
+(WARNING) 2019-12-22 04:26:34,542 shared_page_state.WillRunStory:228  WPR archive missing: /home/wluo/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:45241/devtools/browser/4649c4d5-c51d-45b2-b2dc-1dd7a6d5e368
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[32240:32240:1222/042647.399186:INFO:CONSOLE(3)] "2039E31C64FE5BE6F385718F04ADDDBE: 0.05419921875ms", source:  (3)
+(WARNING) 2019-12-22 04:26:54,604 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-22 04:26:57,953 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 3.348 seconds
+[32240:32251:1222/042659.053802:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 1
+[32240:32251:1222/042659.196479:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 3
+[32240:32579:1222/042659.433858:WARNING:internal_linux.cc(64)] Failed to read /proc/32272/stat
+[32240:32251:1222/042659.515825:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[32240:32240:1222/042659.699665:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[32240:32240:1222/042659.699734:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] http://www.amazon.com (25382 ms)
+[ RUN      ] http://www.bing.com/
+(WARNING) 2019-12-22 04:26:59,924 shared_page_state.WillRunStory:228  WPR archive missing: /home/wluo/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:39481/devtools/browser/42343521-e0ed-4fb0-a861-643da291b9ef
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[32580:32602:1222/042702.599026:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[32580:32580:1222/042705.144725:INFO:CONSOLE(3)] "E8F6DBCDA40EF424A66F771CDB297C36: 0.041015625ms", source:  (3)
+[32580:32580:1222/042707.501594:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://www.bing.com/rb/15/cj,nj/0098b908/a3e73ccd.js?bu=DiovYW1yeGpkZ60BrwEvmQEv (2)
+(WARNING) 2019-12-22 04:27:10,334 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-22 04:27:12,327 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 1.992 seconds
+[32580:32590:1222/042712.737768:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 147
+[32580:32704:1222/042712.963970:WARNING:internal_linux.cc(64)] Failed to read /proc/32610/stat
+[32580:32590:1222/042713.046469:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[32580:32580:1222/042713.145665:WARNING:url_request_context_getter.cc(43)] URLRequestContextGetter leaking due to no owning thread.
+[32580:32580:1222/042713.150150:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[32580:32580:1222/042713.150198:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] http://www.bing.com/ (13418 ms)
+[ RUN      ] http://www.ask.com/
+(WARNING) 2019-12-22 04:27:13,342 shared_page_state.WillRunStory:228  WPR archive missing: /home/wluo/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:39240/devtools/browser/a4498e49-b5d3-4a48-9316-8f19bf43b139
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[32706:32706:1222/042719.559655:INFO:CONSOLE(3)] "B2C262EE8A745C5D52227682FAF0E1E0: 0.041015625ms", source:  (3)
+[32706:32706:1222/042722.832554:INFO:CONSOLE(2)] "Applying IX unit adapter", source: https://amg-cdn.novelty.media/iac/ask/nf.js (2)
+(WARNING) 2019-12-22 04:27:24,831 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-22 04:27:26,946 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 2.114 seconds
+[32706:32706:1222/042727.152556:ERROR:frame_sink_provider_impl.cc(37)] No RenderWidgetHost exists with id 1 in process 3
+[32706:624:1222/042727.404787:WARNING:internal_linux.cc(64)] Failed to read /proc/32736/stat
+[32706:32716:1222/042727.490370:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[32706:32706:1222/042727.568841:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[32706:32706:1222/042727.568907:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] http://www.ask.com/ (14419 ms)
+[ RUN      ] https://www.google.com/#hl=en&q=barack+obama
+(WARNING) 2019-12-22 04:27:27,762 shared_page_state.WillRunStory:228  WPR archive missing: /home/wluo/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:39974/devtools/browser/aec1ff02-4a09-4adc-8487-0fe70bd90f72
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[626:626:1222/042734.160823:INFO:CONSOLE(3)] "210EC3FFE67382379E6526C4D79FB270: 0.0341796875ms", source:  (3)
+[1:1:1222/042736.935772:ERROR:css_computed_style_declaration.cc(189)] Blink does not yet implement getComputedStyle for 'overflow'.
+(WARNING) 2019-12-22 04:27:39,892 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-22 04:27:42,124 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 2.232 seconds
+[626:742:1222/042742.515997:WARNING:internal_linux.cc(64)] Failed to read /proc/656/stat
+[626:636:1222/042742.599901:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[626:626:1222/042742.690906:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[626:626:1222/042742.690977:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] https://www.google.com/#hl=en&q=barack+obama (15176 ms)
+[ RUN      ] http://www.youtube.com
+(WARNING) 2019-12-22 04:27:42,938 shared_page_state.WillRunStory:228  WPR archive missing: /home/wluo/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:40822/devtools/browser/63ccd9c5-9bfd-4b20-b5b4-cf924f248f46
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[743:743:1222/042750.175738:INFO:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[743:743:1222/042751.092619:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3D%252Fsignin_passive%26hl%3Den%26feature%3Dpassive%26app%3Ddesktop&hl=en&passive=true' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/ (0)
+[743:754:1222/042754.436675:WARNING:extension_protocols.cc(472)] Failed to get directory for extension invalid
+[743:754:1222/042754.436743:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[1:1:1222/042759.020337:ERROR:resource_dispatcher.cc(373)] unknown request
+[743:754:1222/042800.906689:WARNING:extension_protocols.cc(472)] Failed to get directory for extension invalid
+[743:754:1222/042800.906749:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[743:743:1222/042801.086799:INFO:CONSOLE(15)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://www.youtube.com/yts/jsbin/network-vflX047bV/network.js (15)
+[743:743:1222/042802.580965:INFO:CONSOLE(114)] "Unrecognized feature: 'picture-in-picture'.", source: https://s.ytimg.com/yts/jsbin/www-widgetapi-vfldHtazm/www-widgetapi.js (114)
+[743:743:1222/042805.124199:INFO:CONSOLE(3)] "290F5F06EE852E4C74A4D250192CB47B: 0.0380859375ms", source:  (3)
+[743:743:1222/042805.140280:INFO:CONSOLE(3)] "AEC2F20AA68715C4327C0466445ACA86: 0.037841796875ms", source:  (3)
+[743:743:1222/042806.706595:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[743:743:1222/042811.275499:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/ (0)
+(WARNING) 2019-12-22 04:28:13,713 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-22 04:28:18,162 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 4.449 seconds
+[743:754:1222/042819.568942:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 3
+[743:743:1222/042819.697632:FATAL:frame_sink_manager_impl.cc(58)] Check failed: sink_map_.empty(). 
+#0 0x7f54ba21e55d base::debug::StackTrace::StackTrace()
+#1 0x7f54ba21cb1c base::debug::StackTrace::StackTrace()
+#2 0x7f54ba2a392a logging::LogMessage::~LogMessage()
+#3 0x7f549afe4978 viz::FrameSinkManagerImpl::~FrameSinkManagerImpl()
+#4 0x7f549afe4d39 viz::FrameSinkManagerImpl::~FrameSinkManagerImpl()
+#5 0x7f54b3f83c96 content::BrowserMainLoop::ShutdownThreadsAndCleanUp()
+#6 0x7f54b3f8bfed content::BrowserMainRunnerImpl::Shutdown()
+#7 0x7f54b3f7681f content::BrowserMain()
+#8 0x7f54b5c4b477 content::RunNamedProcessTypeMain()
+#9 0x7f54b5c4db54 content::ContentMainRunnerImpl::Run()
+#10 0x7f54b5c44025 content::ContentServiceManagerMainDelegate::RunEmbedderProcess()
+#11 0x7f54baa51dfc service_manager::Main()
+#12 0x7f54b5c4a225 content::ContentMain()
+#13 0x5563125b4240 ChromeMain
+#14 0x5563125b4152 main
+#15 0x7f549b7b7830 __libc_start_main
+#16 0x5563125b402a _start
+
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] http://www.youtube.com (37199 ms)
+[ RUN      ] Facebook
+(WARNING) 2019-12-22 04:28:20,137 shared_page_state.WillRunStory:228  WPR archive missing: /home/wluo/chromium/init/src/tools/perf/page_sets/data/top_10_001.wprgo
+
+DevTools listening on ws://127.0.0.1:45632/devtools/browser/1d01f08f-5f32-433f-93da-547392b4f5e2
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[907:907:1222/042828.930602:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #email: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[907:907:1222/042828.931537:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #lgnjs: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[907:907:1222/042828.932373:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #locale: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[907:907:1222/042828.933177:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #login_form: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[907:907:1222/042828.933973:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #pass: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[907:907:1222/042828.934774:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #prefill_contact_point: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[907:907:1222/042828.935895:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #prefill_source: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[907:907:1222/042828.936691:INFO:CONSOLE(0)] "[DOM] Found 2 elements with non-unique id #prefill_type: (More info: https://goo.gl/9p2vKq) %o %o", source: https://www.facebook.com/barackobama (0)
+[907:907:1222/042828.937465:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/barackobama (0)
+[907:907:1222/042828.938330:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.facebook.com/barackobama (0)
+[907:907:1222/042831.170509:INFO:CONSOLE(3)] "32456E28799C9C1A66A0FDEB7E9D74A1: 0.041015625ms", source:  (3)
+[907:907:1222/042835.733182:INFO:CONSOLE(0)] "
+%cStop!", source:  (0)
+[907:907:1222/042835.734250:INFO:CONSOLE(0)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Facebook feature or "hack" someone's account, it is a scam and will give them access to your Facebook account.", source:  (0)
+[907:907:1222/042835.735102:INFO:CONSOLE(0)] "
+%cSee https://www.facebook.com/selfxss for more information.", source:  (0)
+[907:907:1222/042835.736166:INFO:CONSOLE(0)] "
+%c", source:  (0)
+[907:907:1222/042836.162728:INFO:CONSOLE(417)] "Uncaught (in promise) Error: The manifest specifies content that cannot be displayed on this browser/platform.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/XpFFWCF_B8_.js?_nc_x=Ij3Wp8lg5Kz (417)
+[907:907:1222/042836.163608:INFO:CONSOLE(417)] "Uncaught (in promise) Error: The manifest specifies content that cannot be displayed on this browser/platform.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yz/r/XpFFWCF_B8_.js?_nc_x=Ij3Wp8lg5Kz (417)
+(WARNING) 2019-12-22 04:28:41,291 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-22 04:28:44,433 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 3.142 seconds
+[907:918:1222/042845.582179:WARNING:spdy_session.cc(2961)] Received WINDOW_UPDATE for invalid stream 19
+[907:1022:1222/042845.748970:WARNING:internal_linux.cc(64)] Failed to read /proc/943/stat
+[907:918:1222/042845.829170:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[907:907:1222/042845.915594:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[907:907:1222/042845.915688:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] Facebook (26089 ms)
+[ RUN      ] Wikipedia
+(WARNING) 2019-12-22 04:28:46,226 shared_page_state.WillRunStory:228  WPR archive missing: /home/wluo/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:45492/devtools/browser/8f1ffa50-90fc-480f-aae7-ac5284c5e859
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[1024:1024:1222/042901.565134:INFO:CONSOLE(148)] "JQMIGRATE: Migrate is installed with logging active, version 3.1.0", source: https://en.wikipedia.org/w/load.php?lang=en&modules=Spinner%2Cjquery%2Coojs%2Coojs-router%2Csite%7Cext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.quicksurveys.init%2Clib%7Cext.tmh.OgvJsSupport%7Cext.uls.common%2Ccompactlinks%2Cinit%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery.client%2Ccookie%2CembedPlayer%2CgetAttrs%2ChighlightText%2CloadingSpinner%2CmakeCollapsible%2CmwEmbedUtil%2Csuggestions%2CtextSelection%2CtriggerQueueCallback%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cnotify%2CsearchSuggest%2Cstorage%2Ctemplate%2Ctoc%2Cuser%2Cutil%2Cviewport%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%2Cstartup%7Cmediawiki.template.regexp%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.EmbedPlayer.loader%7Cmw.MediaWikiPlayer.loader%7Cmw.MwEmbedSupport%2CPopUpMediaTransform%7Cmw.MwEmbedSupport.style%7Cmw.PopUpMediaTransform.styles%7Cmw.TMHGalleryHook.js%7Cmw.TimedText.loader%7Cskins.vector.js%7Cuser.defaults&skin=vector&version=2pi4g (148)
+[1024:1024:1222/042905.629595:INFO:CONSOLE(3)] "B1D0414EADF1838F1E4D7C427E86635D: 0.038330078125ms", source:  (3)
+(WARNING) 2019-12-22 04:29:11,308 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-22 04:29:14,729 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 3.420 seconds
+[1024:1116:1222/042915.069469:WARNING:internal_linux.cc(64)] Failed to read /proc/1054/stat
+[1024:1034:1222/042915.149710:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[1024:1024:1222/042915.239114:WARNING:url_request_context_getter.cc(43)] URLRequestContextGetter leaking due to no owning thread.
+[1024:1024:1222/042915.243405:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[1024:1024:1222/042915.243455:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] Wikipedia (29219 ms)
+[ RUN      ] http://www.amazon.com
+(WARNING) 2019-12-22 04:29:15,444 shared_page_state.WillRunStory:228  WPR archive missing: /home/wluo/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:38746/devtools/browser/1d81fbdb-0378-4c99-b208-5099a7d55e46
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[1117:1117:1222/042926.078368:INFO:CONSOLE(3)] "836C6D34AEDC1B5CBEEFA1799236354D: 0.04296875ms", source:  (3)
+(WARNING) 2019-12-22 04:29:32,501 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-22 04:29:35,810 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 3.309 seconds
+[1117:1337:1222/042937.124013:WARNING:internal_linux.cc(64)] Failed to read /proc/1147/stat
+[1117:1127:1222/042937.207211:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[1117:1117:1222/042937.316425:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[1117:1117:1222/042937.316493:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] http://www.amazon.com (22166 ms)
+[ RUN      ] http://www.bing.com/
+(WARNING) 2019-12-22 04:29:37,611 shared_page_state.WillRunStory:228  WPR archive missing: /home/wluo/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:38597/devtools/browser/c7d73309-cace-4208-ae25-85d95a3ce72f
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[1338:1338:1222/042942.293407:INFO:CONSOLE(3)] "3F3D4B6840BEEC441577660550677C51: 0.044921875ms", source:  (3)
+[1338:1338:1222/042944.959985:INFO:CONSOLE(2)] "chrome.loadTimes() is deprecated, instead use standardized API: Paint Timing. https://www.chromestatus.com/features/5637885046816768.", source: https://www.bing.com/rb/15/cj,nj/0098b908/a3e73ccd.js?bu=DiovYW1yeGpkZ60BrwEvmQEv (2)
+(WARNING) 2019-12-22 04:29:47,425 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-22 04:29:49,302 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 1.878 seconds
+[1338:1440:1222/042949.907003:WARNING:internal_linux.cc(64)] Failed to read /proc/1370/stat
+[1338:1350:1222/042949.990005:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[1338:1338:1222/042950.087756:WARNING:url_request_context_getter.cc(43)] URLRequestContextGetter leaking due to no owning thread.
+[1338:1338:1222/042950.093489:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[1338:1338:1222/042950.093545:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] http://www.bing.com/ (12708 ms)
+[ RUN      ] http://www.ask.com/
+(WARNING) 2019-12-22 04:29:50,318 shared_page_state.WillRunStory:228  WPR archive missing: /home/wluo/chromium/init/src/tools/perf/page_sets/data/top_10_000.wprgo
+
+DevTools listening on ws://127.0.0.1:42423/devtools/browser/7f55e9cf-d261-49fc-ad99-d670a9949076
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[1441:1441:1222/042956.650783:INFO:CONSOLE(3)] "F26285AEB7E89A9E5284EB7EF3A689B8: 0.041015625ms", source:  (3)
+[1441:1441:1222/042959.921734:INFO:CONSOLE(2)] "Applying IX unit adapter", source: https://amg-cdn.novelty.media/iac/ask/nf.js (2)
+(WARNING) 2019-12-22 04:30:02,135 timeline_based_measurement._ComputeTimelineBasedMetrics:310  Starting to compute metrics on trace
+(WARNING) 2019-12-22 04:30:04,348 timeline_based_measurement._ComputeTimelineBasedMetrics:316  Processing resulting traces took 2.213 seconds
+[1441:1451:1222/043004.497204:WARNING:spdy_session.cc(3012)] Received HEADERS for invalid stream 1
+[1441:1441:1222/043004.575786:ERROR:frame_sink_provider_impl.cc(37)] No RenderWidgetHost exists with id 1 in process 3
+[1441:1615:1222/043004.832325:WARNING:internal_linux.cc(64)] Failed to read /proc/1478/stat
+[1441:1451:1222/043004.917577:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
+[1441:1441:1222/043005.002620:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[1441:1441:1222/043005.002690:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+('>>> browser is: %s', 'out/Default/chrome')
+[       OK ] http://www.ask.com/ (14845 ms)
+[  PASSED  ] 14 tests.
+
+View result at file:///home/wluo/chromium/init/src/tools/perf/results.html
