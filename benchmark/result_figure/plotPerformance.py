@@ -56,25 +56,25 @@ def plotFCPFMP():
 	total_width, n = 0.8, 6
 	width = total_width / n
 
-	hatch = '-'
+	hatch = '//'
 
 	plt.figure()
 	plt.bar(x, y1, width=width, label="Baseline (FCP)", facecolor='white', edgecolor='black')
 	for i in range(0, len(x)):
 		x[i] += width
-	plt.bar(x, y2, width=width, label="TIM (Fallback) (FCP)", facecolor='#CCCCCC', edgecolor='black')
+	plt.bar(x, y2, width=width, label="CPMM (Fallback) (FCP)", facecolor='#CCCCCC', edgecolor='black')
 	for i in range(0, len(x)):
 		x[i] += width
-	plt.bar(x, y3, width=width, label="TIM (FCP)", facecolor='#666666', edgecolor='black')
+	plt.bar(x, y3, width=width, label="CPMM (FCP)", facecolor='#666666', edgecolor='black')
 	for i in range(0, len(x)):
 		x[i] += width
 	plt.bar(x, y4, width=width, label="Baseline (FMP)", facecolor='white', hatch=hatch, edgecolor='black')
 	for i in range(0, len(x)):
 		x[i] += width
-	plt.bar(x, y5, width=width, label="TIM (Fallback) (FMP)", facecolor='#CCCCCC', hatch=hatch, edgecolor='black')
+	plt.bar(x, y5, width=width, label="CPMM (Fallback) (FMP)", facecolor='#CCCCCC', hatch=hatch, edgecolor='black')
 	for i in range(0, len(x)):
 		x[i] += width
-	plt.bar(x, y6, width=width, label="TIM (FMP)", facecolor='#666666', hatch=hatch, edgecolor='black')
+	plt.bar(x, y6, width=width, label="CPMM (FMP)", facecolor='#666666', hatch=hatch, edgecolor='black')
 
 	for i in range(len(x)):
 		x[i] = x[i] - width * 3
@@ -153,10 +153,10 @@ def plotKraken():
 	plt.bar(x, y1, width=width, label='Baseline', facecolor='white', edgecolor='black')
 	for i in range(len(x)):
 		x[i] = x[i] + width
-	plt.bar(x, y2, width=width, label='Task-based (Fallback)', facecolor='gray', edgecolor='black')
+	plt.bar(x, y2, width=width, label='CPMM (Fallback)', facecolor='#CCCCCC', edgecolor='black')
 	for i in range(len(x)):
 		x[i] = x[i] + width
-	plt.bar(x, y3, width=width, label='Task-based', facecolor='black', edgecolor='black')
+	plt.bar(x, y3, width=width, label='CPMM', facecolor='#666666', edgecolor='black')
 
 	for i in range(len(x)):
 		x[i] = x[i] - width
@@ -226,5 +226,5 @@ def plotSOP():
 
 plotFCPFMP()
 # plotYoutube()
-# plotKraken()
+plotKraken()
 # plotSOP()
