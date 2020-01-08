@@ -75,8 +75,12 @@ def draw(invokeResults, loadResults):
         y.append(np.array([invokeResults[bar], loadResults[bar]]))
 
     print("", "64k", "512k", "1M")
-    print("Function Call", (y[1][0] / y[0][0]), (y[3][0] / y[2][0]), (y[5][0] / y[4][0]))
-    print("Load Script", (y[1][1] / y[0][1]), (y[3][1] / y[2][1]), (y[5][1] / y[4][1]))
+    print("Function Call")
+    print("\tLatency", (y[1][0] - y[0][0]), (y[3][0] - y[2][0]), (y[5][0] - y[4][0]))
+    print("\tPercentage", (y[1][0] / y[0][0]), (y[3][0] / y[2][0]), (y[5][0] / y[4][0]))
+    print("Load Script")
+    print("\tLatency", (y[1][1] - y[0][1]), (y[3][1] - y[2][1]), (y[5][1] - y[4][1]))
+    print("\tPercentage", (y[1][1] / y[0][1]), (y[3][1] / y[2][1]), (y[5][1] / y[4][1]))
 
     x = list(range(len(x_label)))
     total_width, n = 0.8, 6

@@ -165,7 +165,7 @@ def plotKraken():
 	plt.ylim(0, 5500)
 	plt.tick_params(labelsize=18)
 	plt.ylabel('Time usage (ms)', fontproperties='SimHei', fontsize=18)
-	# plt.grid(axis="y")
+	plt.grid(axis="y")
 	plt.legend(fontsize=18)
 	plt.tight_layout()
 	plt.show()
@@ -226,5 +226,5 @@ def plotSOP():
 
 plotFCPFMP()
 # plotYoutube()
-plotKraken()
+# plotKraken()
 # plotSOP()
