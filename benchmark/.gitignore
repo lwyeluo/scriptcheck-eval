@@ -3,6 +3,5 @@ macro/result/telemetry/*
 
 macro/result/*.xlsx
 !macro/result/results.xlsx
-!macro/result/results-3rd.xlsx
 
 *.tar.gz
