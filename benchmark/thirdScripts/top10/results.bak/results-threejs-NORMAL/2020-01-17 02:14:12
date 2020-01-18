@@ -1,0 +1,10 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/33c3d11b-d1d0-4187-b6e7-abc6bc47ae93
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[18684:18684:0117/021414.586480:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0117/021417.540043:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[18714:18714:0117/021417.610934:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x536fd971320]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[18714:18714:0117/021417.611124:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x536fd971320]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[18684:18684:0117/021417.728172:INFO:CONSOLE(578)] "THREE.WebGLRenderer", source: https://wow.techbrood.com/libs/three.r73.js (578)
+[18684:18684:0117/021417.936356:INFO:CONSOLE(9)] ">> finished", source: http://localhost:3001/taskPermission/top10/threejs/index.html (9)
+[18684:18684:0117/021417.937089:INFO:CONSOLE(10)] "threejs: 405.691162109375ms", source: http://localhost:3001/taskPermission/top10/threejs/index.html (10)

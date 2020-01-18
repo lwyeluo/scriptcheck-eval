@@ -47,12 +47,16 @@ _home_dir = execute("echo $HOME")
 # get the chrome binary
 _chrome_binary = _home_dir + "/chromium/tick/src/out/Default/chrome"
 print("Chrome binary is ", _chrome_binary)
+# get the normal chrome binary
+_chrome_binary_normal = _home_dir + "/chromium/init/src/out/Default/chrome"
+print("Chrome normal binary is ", _chrome_binary_normal)
 # get the node binary
 _node_binary = "node"
 # get the nodejs script, which checks the loading status and gets domains for all same-origin frames
 _node_filename = os.path.join(_run_script_dir, "find_recursive_subframes.js")
 # nodejs to run a given url in Chrome
 _node_run_url_filename = os.path.join(_run_script_dir, "run_url_in_Chrome.js")
+_node_run_url_filename_delay = os.path.join(_run_script_dir, "run_url_in_Chrome_delay.js")
 # timeout for each webpage
 _timeout = 300
 _timeout_for_node = 30

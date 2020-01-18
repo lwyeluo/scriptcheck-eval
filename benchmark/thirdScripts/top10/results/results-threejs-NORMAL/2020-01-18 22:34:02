@@ -1,0 +1,28 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/1c0d72e4-e402-4e2e-b630-cb32d658f053
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[20223:20245:0118/223405.599816:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[20223:20223:0118/223406.083587:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[1:1:0118/223408.337863:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 3 TIMES
+[20223:20223:0118/223408.998973:INFO:CONSOLE(25)] "Load ./ThreeJs/js/three.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.016960:INFO:CONSOLE(25)] "Load ./ThreeJs/js/stats.min.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.019694:INFO:CONSOLE(25)] "Load ./ThreeJs/js/DragControls.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.021923:INFO:CONSOLE(25)] "Load ./ThreeJs/js/OrbitControls.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.024166:INFO:CONSOLE(25)] "Load ./ThreeJs/js/FirstPersonControls.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.026317:INFO:CONSOLE(25)] "Load ./ThreeJs/js/TransformControls.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.028856:INFO:CONSOLE(25)] "Load ./ThreeJs/js/dat.gui.min.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.031431:INFO:CONSOLE(25)] "Load ./ThreeJs/js/EffectComposer.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.033785:INFO:CONSOLE(25)] "Load ./ThreeJs/js/RenderPass.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.043958:INFO:CONSOLE(25)] "Load ./ThreeJs/js/OutlinePass.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.046139:INFO:CONSOLE(25)] "Load ./ThreeJs/js/FXAAShader.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.057064:INFO:CONSOLE(25)] "Load ./ThreeJs/js/CopyShader.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.088305:INFO:CONSOLE(25)] "Load ./ThreeJs/js/ShaderPass.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.112335:INFO:CONSOLE(25)] "Load ./ThreeJs/js/ThreeBSP.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.154879:INFO:CONSOLE(25)] "Load ./ThreeJs/ThreeJs_Drag.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.188447:INFO:CONSOLE(25)] "Load ./ThreeJs/ThreeJs_Composer.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.225246:INFO:CONSOLE(25)] "Load ./ThreeJs/Modules.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.246568:INFO:CONSOLE(25)] "Load ./ThreeJs/js/Tween.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.279139:INFO:CONSOLE(25)] "Load ./echarts/echarts.min.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[20223:20223:0118/223409.734449:INFO:CONSOLE(21537)] "THREE.WebGLRenderer", source: http://localhost:3001/taskPermission/top10/threejs/ThreeJs/js/three.js (21537)
+[20223:20223:0118/223411.766217:INFO:CONSOLE(12)] ">> finished", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (12)
+[20223:20223:0118/223411.767001:INFO:CONSOLE(13)] "threejs: 3442.365966796875ms", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (13)

@@ -1,0 +1,13 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/b1be5d4b-2b70-408e-8a09-1ac37ab36f77
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[26602:26624:0119/001838.862329:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[26602:26602:0119/001839.257658:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[26602:26602:0119/001842.134619:INFO:CONSOLE(26)] "Load https://www.amcharts.com/lib/3/amcharts.js", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (26)
+[26602:26602:0119/001842.192526:INFO:CONSOLE(26)] "Load https://www.amcharts.com/lib/3/serial.js", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (26)
+[26602:26602:0119/001842.222112:INFO:CONSOLE(26)] "Load https://www.amcharts.com/lib/3/amstock.js", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (26)
+[26602:26602:0119/001842.244889:INFO:CONSOLE(26)] "Load https://www.amcharts.com/lib/3/plugins/dataloader/dataloader.min.js", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (26)
+[26602:26602:0119/001842.262697:INFO:CONSOLE(26)] "Load https://www.amcharts.com/lib/3/plugins/export/export.min.js", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (26)
+[26602:26602:0119/001849.703571:INFO:CONSOLE(324)] "rendered", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (324)
+[26602:26602:0119/001850.978736:INFO:CONSOLE(13)] ">> finished", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (13)
+[26602:26602:0119/001850.979488:INFO:CONSOLE(14)] "amcharts: 8927.208984375ms", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (14)

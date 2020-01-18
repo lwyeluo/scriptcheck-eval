@@ -1,0 +1,26 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/5cf664ba-2e91-4df4-91c0-70e3fd36b22a
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[30319:30319:0117/172651.824485:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0117/172654.659677:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[30349:30349:0117/172654.687946:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0xb43925abc20]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[30349:30349:0117/172654.688139:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0xb43925abc20]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[30349:30349:0117/172654.688301:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0xb43925abc20]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[30349:30349:0117/172654.688411:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0xb43925abc20]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[30349:30349:0117/172654.688830:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0xb43925abc20]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[30349:30349:0117/172654.688939:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0xb43925abc20]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[30349:30349:0117/172654.689061:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0xb43925abc20]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[30349:30349:0117/172654.689165:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0xb43925abc20]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[30349:30349:0117/172654.689284:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0xb43925abc20]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[30349:30349:0117/172654.689400:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0xb43925abc20]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[30319:30319:0117/172654.697332:INFO:CONSOLE(25)] "Load https://polyfill.io/v3/polyfill.min.js?features=es6", source: http://localhost:3001/taskPermission/top10/mathjax/index.html (25)
+[30349:30349:0117/172654.708576:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0xb43925abc20]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[30349:30349:0117/172654.708761:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0xb43925abc20]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[30349:30349:0117/172654.709212:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0xb43925abc20]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[30349:30349:0117/172654.709352:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0xb43925abc20]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[30349:30349:0117/172654.709505:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0xb43925abc20]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[30319:30319:0117/172654.746810:INFO:CONSOLE(25)] "Load https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML", source: http://localhost:3001/taskPermission/top10/mathjax/index.html (25)
+[30319:30319:0117/172654.814322:INFO:CONSOLE(90)] "Script is loaded, wait for rendering", source: http://localhost:3001/taskPermission/top10/mathjax/index.html (90)
+[30319:30319:0117/172656.205416:INFO:CONSOLE(3)] "hello", source:  (3)
+[30319:30319:0117/172656.259430:INFO:CONSOLE(12)] ">> finished", source: http://localhost:3001/taskPermission/top10/mathjax/index.html (12)
+[30319:30319:0117/172656.260206:INFO:CONSOLE(13)] "mathjax: 1622.8681640625ms", source: http://localhost:3001/taskPermission/top10/mathjax/index.html (13)

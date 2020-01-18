@@ -1,0 +1,13 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/6a1b2757-58e5-4f4b-84a0-a95f1cd1b947
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[26248:26270:0119/001749.905330:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[1:1:0119/001753.165114:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 3 TIMES
+[26248:26248:0119/001753.199165:INFO:CONSOLE(26)] "Load https://www.amcharts.com/lib/3/amcharts.js", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (26)
+[26248:26248:0119/001753.252055:INFO:CONSOLE(26)] "Load https://www.amcharts.com/lib/3/serial.js", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (26)
+[26248:26248:0119/001753.281662:INFO:CONSOLE(26)] "Load https://www.amcharts.com/lib/3/amstock.js", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (26)
+[26248:26248:0119/001753.317186:INFO:CONSOLE(26)] "Load https://www.amcharts.com/lib/3/plugins/dataloader/dataloader.min.js", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (26)
+[26248:26248:0119/001753.335449:INFO:CONSOLE(26)] "Load https://www.amcharts.com/lib/3/plugins/export/export.min.js", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (26)
+[26248:26248:0119/001800.730329:INFO:CONSOLE(324)] "rendered", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (324)
+[26248:26248:0119/001802.034218:INFO:CONSOLE(13)] ">> finished", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (13)
+[26248:26248:0119/001802.034997:INFO:CONSOLE(14)] "amcharts: 8903.1611328125ms", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (14)

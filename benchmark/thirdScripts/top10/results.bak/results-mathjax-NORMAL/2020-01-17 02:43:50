@@ -1,0 +1,7 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/6da55ea4-8b4b-40b4-ab7f-ae3a0a28edf0
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[13764:13764:0117/024352.790147:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0117/024355.732723:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[13764:13764:0117/024356.900293:INFO:CONSOLE(12)] ">> finished", source: http://localhost:3001/taskPermission/top10/mathjax/index.html (12)
+[13764:13764:0117/024356.901439:INFO:CONSOLE(13)] "mathjax: 1202.058837890625ms", source: http://localhost:3001/taskPermission/top10/mathjax/index.html (13)

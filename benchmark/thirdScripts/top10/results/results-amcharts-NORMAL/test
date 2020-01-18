@@ -1,0 +1,13 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/297f6c0d-80a1-4132-a95f-f4bc1309d312
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[25777:25777:0119/001639.827318:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0119/001642.590929:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[25777:25777:0119/001642.625588:INFO:CONSOLE(26)] "Load https://www.amcharts.com/lib/3/amcharts.js", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (26)
+[25777:25777:0119/001642.641845:INFO:CONSOLE(26)] "Load https://www.amcharts.com/lib/3/serial.js", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (26)
+[25777:25777:0119/001642.674522:INFO:CONSOLE(26)] "Load https://www.amcharts.com/lib/3/amstock.js", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (26)
+[25777:25777:0119/001642.736036:INFO:CONSOLE(26)] "Load https://www.amcharts.com/lib/3/plugins/dataloader/dataloader.min.js", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (26)
+[25777:25777:0119/001642.749210:INFO:CONSOLE(26)] "Load https://www.amcharts.com/lib/3/plugins/export/export.min.js", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (26)
+[25777:25777:0119/001650.253361:INFO:CONSOLE(324)] "rendered", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (324)
+[25777:25777:0119/001651.556942:INFO:CONSOLE(13)] ">> finished", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (13)
+[25777:25777:0119/001651.557755:INFO:CONSOLE(14)] "amcharts: 9041.11279296875ms", source: http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html (14)

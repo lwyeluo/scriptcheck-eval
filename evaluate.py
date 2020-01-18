@@ -17,6 +17,7 @@ if __name__ == '__main__':
                         help='Run the top sites in machine MACHINE_INDEX')
     parser.add_argument('--save', action='store_true', help="Save the temporary objects.")
     parser.add_argument('--load', action='store_true', help="Load the temporary objects.")
+    parser.add_argument('--script', type=str, metavar="SCRIPT", help="The name of 3rd script.")
 
     '''
 		Handle URL List
@@ -78,6 +79,8 @@ if __name__ == '__main__':
                         help="Run | Parse the micro-benchmark to record the CPU cycles")
     parser.add_argument('--macro-benchmark', type=str, choices=['parse-top10', 'parse-kraken'],
                         help="Parse the macro-benchmark results")
+    parser.add_argument('--third-benchmark', type=str, choices=['run', 'parse'],
+                        help="Run | Parse the third-benchmark to test the performance")
 
 
     args = parser.parse_args()
@@ -237,6 +240,18 @@ if __name__ == '__main__':
         elif args.macro_benchmark == "parse-kraken":
             # --macro-benchmark parse-kraken
             from benchmark.macro.kraken.parse import run
+
+            run()
+
+    elif args.third_benchmark:
+        if args.third_benchmark == "run":
+            # --micro-benchmark run
+            from benchmark.thirdScripts.top10.run import run
+
+            run(args.script)
+        elif args.third_benchmark == "parse":
+            # --micro-benchmark parse
+            from benchmark.thirdScripts.top10.parseResult import run
 
             run()
 

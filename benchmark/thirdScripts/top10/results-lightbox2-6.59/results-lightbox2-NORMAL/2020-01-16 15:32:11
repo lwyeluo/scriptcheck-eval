@@ -1,0 +1,17 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/98216e42-5650-4fd4-aa80-8a267fb318a9
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[13762:13762:0116/153213.529375:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0116/153216.520430:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[13793:13793:0116/153216.564526:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x229b27515120]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[13793:13793:0116/153216.564745:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x229b27515120]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[13793:13793:0116/153216.564906:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x229b27515120]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[13793:13793:0116/153216.565149:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x229b27515120]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[13793:13793:0116/153216.565596:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x229b27515120]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[13793:13793:0116/153216.565712:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x229b27515120]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[13793:13793:0116/153216.565955:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x229b27515120]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[13793:13793:0116/153216.566177:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x229b27515120]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[13793:13793:0116/153216.566316:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x229b27515120]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[13793:13793:0116/153216.566438:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x229b27515120]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[13762:13762:0116/153216.772071:INFO:CONSOLE(9)] ">> onload", source: http://localhost:3001/taskPermission/lightbox2/index.html (9)
+[13762:13762:0116/153216.773036:INFO:CONSOLE(10)] "lightbox: 284.760009765625ms", source: http://localhost:3001/taskPermission/lightbox2/index.html (10)

@@ -1,0 +1,17 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/4264eac1-345a-40ad-9e1b-85bc2aeb88cb
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[7980:7980:0117/134338.754800:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0117/134341.705644:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[7980:7980:0117/134342.062510:INFO:CONSOLE(107)] "90-#ff0000-#ff3f3f", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[7980:7980:0117/134342.102647:INFO:CONSOLE(107)] "90-#ff9900-#ffb23f", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[7980:7980:0117/134342.115106:INFO:CONSOLE(107)] "90-#ccff00-#d8ff3f", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[7980:7980:0117/134342.125604:INFO:CONSOLE(107)] "90-#32ff00-#65ff3f", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[7980:7980:0117/134342.135009:INFO:CONSOLE(107)] "90-#00ff65-#3fff8c", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[7980:7980:0117/134342.145791:INFO:CONSOLE(107)] "90-#00ffff-#3fffff", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[7980:7980:0117/134342.155908:INFO:CONSOLE(107)] "90-#0065ff-#3f8cff", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[7980:7980:0117/134342.164958:INFO:CONSOLE(107)] "90-#3200ff-#653fff", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[7980:7980:0117/134342.176012:INFO:CONSOLE(107)] "90-#cb00ff-#d83fff", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[7980:7980:0117/134342.187397:INFO:CONSOLE(107)] "90-#ff0099-#ff3fb2", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[7980:7980:0117/134342.230489:INFO:CONSOLE(12)] ">> finished", source: http://localhost:3001/taskPermission/top10/raphael/index.html (12)
+[7980:7980:0117/134342.231267:INFO:CONSOLE(13)] "raphael: 539.337158203125ms", source: http://localhost:3001/taskPermission/top10/raphael/index.html (13)

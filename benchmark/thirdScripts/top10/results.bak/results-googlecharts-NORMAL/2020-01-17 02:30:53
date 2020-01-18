@@ -1,0 +1,7 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/0d1936c4-5f06-4c06-84dd-4b372e7091d9
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[1486:1486:0117/023056.463696:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0117/023059.285621:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[1486:1486:0117/023059.439661:INFO:CONSOLE(12)] ">> finished", source: http://localhost:3001/taskPermission/top10/googlecharts/index.html (12)
+[1486:1486:0117/023059.440436:INFO:CONSOLE(13)] "googlecharts: 157.055908203125ms", source: http://localhost:3001/taskPermission/top10/googlecharts/index.html (13)

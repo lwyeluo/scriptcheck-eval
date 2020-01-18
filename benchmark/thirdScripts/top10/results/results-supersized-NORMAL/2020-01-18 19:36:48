@@ -1,0 +1,14 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/74aa305e-0c07-4273-9796-9ee310172243
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[13135:13135:0118/193651.406978:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0118/193654.248499:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[13165:13165:0118/193654.289847:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x26c224dce320]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[13165:13165:0118/193654.290023:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x26c224dce320]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[13165:13165:0118/193654.290170:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x26c224dce320]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[13165:13165:0118/193654.290287:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x26c224dce320]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[13165:13165:0118/193654.290707:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x26c224dce320]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[13165:13165:0118/193654.290830:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x26c224dce320]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[13135:13135:0118/193654.916711:INFO:CONSOLE(110)] "Uncaught ReferenceError: tryLoad is not defined", source: http://localhost:3001/taskPermission/top10/supersized/index.html (110)
+[13135:13135:0118/193654.961884:INFO:CONSOLE(11)] ">> finished", source: http://localhost:3001/taskPermission/top10/supersized/index.html (11)
+[13135:13135:0118/193654.962698:INFO:CONSOLE(12)] "supersized: 343.162841796875ms", source: http://localhost:3001/taskPermission/top10/supersized/index.html (12)

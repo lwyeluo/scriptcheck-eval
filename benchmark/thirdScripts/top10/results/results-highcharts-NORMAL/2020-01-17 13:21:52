@@ -1,0 +1,22 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/97cc489c-7300-482b-a104-bcaeaea8359b
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[20038:20038:0117/132155.286199:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0117/132158.242365:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[20072:20072:0117/132158.279506:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x3b0662533820]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[20072:20072:0117/132158.279722:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x3b0662533820]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[20072:20072:0117/132158.279890:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x3b0662533820]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[20072:20072:0117/132158.280008:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x3b0662533820]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[20072:20072:0117/132158.280460:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x3b0662533820]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[20072:20072:0117/132158.280576:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x3b0662533820]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[20072:20072:0117/132158.280704:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x3b0662533820]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[20072:20072:0117/132158.280812:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x3b0662533820]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[20072:20072:0117/132158.280934:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x3b0662533820]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[20072:20072:0117/132158.281055:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x3b0662533820]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[20072:20072:0117/132158.305629:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x3b0662533820]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[20072:20072:0117/132158.305824:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x3b0662533820]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[20072:20072:0117/132158.306306:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x3b0662533820]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[20072:20072:0117/132158.306436:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x3b0662533820]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[20072:20072:0117/132158.306573:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x3b0662533820]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[20038:20038:0117/132158.851321:INFO:CONSOLE(12)] ">> finished", source: http://localhost:3001/taskPermission/top10/highcharts/index.html (12)
+[20038:20038:0117/132158.852104:INFO:CONSOLE(13)] "highcharts: 611.117919921875ms", source: http://localhost:3001/taskPermission/top10/highcharts/index.html (13)

@@ -1,0 +1,9 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/1a6bc369-3132-4c86-bdf6-f3a227dd74af
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[27604:27604:0118/170926.935831:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0118/170929.684933:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[27604:27604:0118/170929.727942:INFO:CONSOLE(25)] "Load https://d3js.org/d3.v3.min.js", source: http://localhost:3001/taskPermission/top10/d3/index.html (25)
+[27604:27604:0118/170929.796589:INFO:CONSOLE(25)] "Load https://bl.ocks.org/mbostock/raw/4061961/bullet.js", source: http://localhost:3001/taskPermission/top10/d3/index.html (25)
+[27604:27604:0118/170930.769449:INFO:CONSOLE(12)] ">> finished", source: http://localhost:3001/taskPermission/top10/d3/index.html (12)
+[27604:27604:0118/170930.770153:INFO:CONSOLE(13)] "d3: 1106.473876953125ms", source: http://localhost:3001/taskPermission/top10/d3/index.html (13)

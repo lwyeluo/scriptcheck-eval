@@ -1,0 +1,10 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/c6cd9d14-0739-4d17-9052-586e969ed219
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[12770:12770:0118/193627.034316:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0118/193629.491209:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[12802:12802:0118/193629.542923:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x2d5892f8c020]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[12802:12802:0118/193629.543261:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x2d5892f8c020]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[12770:12770:0118/193629.576530:INFO:CONSOLE(110)] "Uncaught ReferenceError: tryLoad is not defined", source: http://localhost:3001/taskPermission/top10/supersized/index.html (110)
+[12770:12770:0118/193630.184787:INFO:CONSOLE(11)] ">> finished", source: http://localhost:3001/taskPermission/top10/supersized/index.html (11)
+[12770:12770:0118/193630.185567:INFO:CONSOLE(12)] "supersized: 323.01806640625ms", source: http://localhost:3001/taskPermission/top10/supersized/index.html (12)

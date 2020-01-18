@@ -1,0 +1,115 @@
+[1:1:0118/223757.502771:INFO:content_main_runner.cc(320)] >>> [Setup] RunZyote
+[1:1:0118/223757.503087:INFO:zygote_main_linux.cc(351)] >>> [Setup] tmpfile success. fd is 315
+[3:3:0118/223757.506240:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 3
+[22556:22556:0118/223758.110303:INFO:extension_system_impl.cc(379)] >>> [browser][EXT] ExtensionSystemImpl::InitForRegularProfile
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/175da4b5-c1cd-4527-af8b-a728ab45a721
+[22556:22556:0118/223758.441242:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 4
+[22556:22583:0118/223758.441821:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 4
+[3:3:0118/223758.445948:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0118/223758.446105:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0118/223758.446432:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0118/223758.446521:INFO:zygote_linux.cc(614)] 		cid is 4
+[1:1:0118/223758.451748:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0x3f91cdb9, 1
+[1:1:0118/223758.453078:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0x360904a7, 0
+[1:1:0118/223758.453162:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0x26f8f7b2, 3
+[1:1:0118/223758.453256:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0x4bfd5a9, 2
+[1:1:0118/223758.453333:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = ffffffa7040936 ffffffb9ffffffcdffffff913f ffffffa9ffffffd5ffffffbf04 ffffffb2fffffff7fffffff826 , 6552, 4
+[22556:22583:0118/223758.453511:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PING§	6¹Í‘?©Õ¿²÷ø&ØÂ_
+[22556:22583:0118/223758.453549:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is §	6¹Í‘?©Õ¿²÷ø&Ø©ØÂ_
+[22556:22583:0118/223758.453690:INFO:switcher_host_impl.cc(16)] >>> [INIT] create a SwitcherSiteQueue
+[22556:22583:0118/223758.453727:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 22600, 4, a7040936 b9cd913f a9d5bf04 b2f7f826 
+[1:1:0118/223758.493967:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0118/223758.496965:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[22556:22556:0118/223758.805126:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[22556:22556:0118/223758.805594:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[22556:22556:0118/223758.808822:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation chrome-search://local-ntp/
+[22556:22556:0118/223758.808879:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:1_chrome-search://local-ntp/, chrome-search://local-ntp/local-ntp.html, 1
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[22556:22566:0118/223758.901590:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 4, 1
+[22556:22566:0118/223758.901657:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 4, 1, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0118/223758.904507:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[22556:22577:0118/223758.934384:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[1:1:0118/223759.019139:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 4:1_chrome-search://local-ntp/
+[22556:22556:0118/223759.130965:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:1_chrome-search://local-ntp/, chrome-search://local-ntp/, 1
+[22556:22556:0118/223759.131027:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 1, 1, chrome-search://local-ntp/, chrome-search://local-ntp
+[1:1:0118/223759.266609:INFO:html_tree_builder.cc(780)] >>> [renderer][DOM] receive <iframe>
+[22556:22556:0118/223759.380755:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[22556:22556:0118/223759.386058:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: , 3, 2, 
+[22556:22556:0118/223759.394258:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:3_chrome-search://local-ntp/, chrome-search://local-ntp/, 2
+[22556:22556:0118/223759.394325:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 2, 3, chrome-search://local-ntp/, chrome-search://local-ntp
+[22556:22556:0118/223759.430185:WARNING:render_frame_host_impl.cc(414)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[22556:22556:0118/223759.453240:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[22556:22556:0118/223759.455623:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: mv-single, 4, 3, 
+[1:1:0118/223759.462267:INFO:render_frame_impl.cc(7031)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0118/223759.462422:INFO:render_frame_impl.cc(7032)] 	 [url] = chrome-search://local-ntp
+[22556:22556:0118/223759.466691:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 4:1_chrome-search://local-ntp/
+[22556:22556:0118/223759.517639:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[22556:22556:0118/223759.518117:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[22556:22556:0118/223759.519859:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation chrome-search://most-visited/
+[22556:22556:0118/223759.519905:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:4_chrome-search://most-visited/, chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page, 3
+[22556:22566:0118/223759.524102:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 4, 4
+[22556:22566:0118/223759.524174:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 4, 4, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0118/223759.524738:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0118/223759.566886:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 4:4_chrome-search://most-visited/
+[22556:22556:0118/223759.599444:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:4_chrome-search://most-visited/, chrome-search://most-visited/, 3
+[22556:22556:0118/223759.599508:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 3, 4, chrome-search://most-visited/, chrome-search://most-visited
+[22556:22556:0118/223801.352758:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 5
+[22556:22583:0118/223801.353022:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 5
+[3:3:0118/223801.353146:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0118/223801.353303:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0118/223801.353499:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0118/223801.353609:INFO:zygote_linux.cc(614)] 		cid is 5
+[1:1:0118/223801.355520:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0x1ffe5572, 1
+[1:1:0118/223801.355734:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0x24c530e, 0
+[1:1:0118/223801.355827:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0x9ef292a, 3
+[1:1:0118/223801.355923:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0xf4fecd4, 2
+[1:1:0118/223801.356000:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = 0e534c02 7255fffffffe1f ffffffd4ffffffec4f0f 2a29ffffffef09 , 6552, 5
+[22556:22583:0118/223801.356142:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PINGSLrUþÔìO*)ï	MÃ_
+[22556:22583:0118/223801.356182:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is SLrUþÔìO*)ï	èMÃ_
+[22556:22583:0118/223801.356307:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 22649, 5, 0e534c02 7255fe1f d4ec4f0f 2a29ef09 
+[1:1:0118/223801.378647:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0118/223801.380781:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[22556:22556:0118/223801.394736:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[22556:22556:0118/223801.396459:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[22556:22566:0118/223801.400299:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 3
+[22556:22566:0118/223801.400357:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 3, HandleIncomingMessage, HandleIncomingMessage
+[22556:22556:0118/223801.400530:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation http://localhost:3001/
+[22556:22556:0118/223801.400571:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:3_http://localhost:3001/, http://localhost:3001/taskPermission/top10/threejs/3DProject.html, 1
+[1:7:0118/223801.416510:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0118/223801.493613:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:3_http://localhost:3001/
+[22556:22556:0118/223801.591868:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:3_http://localhost:3001/, http://localhost:3001/, 1
+[22556:22556:0118/223801.591924:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 1, 3, http://localhost:3001/, http://localhost:3001
+[1:1:0118/223801.715831:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: the server responded with a status of 404 (Not Found)","http://localhost:3001/taskPermission/top10/threejs/video/videoPlane.mp4"
+[1:1:0118/223801.780203:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 3 TIMES
+[3:3:0118/223801.858641:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 1
+[1:1:0118/223801.872116:INFO:switcher_task_permission.cc(79)] >>> [PERMISSION] try to update task permission as disallow-dom-bl
+[22556:22556:0118/223801.880837:INFO:CONSOLE(25)] "Load ./ThreeJs/js/three.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.490194:INFO:CONSOLE(25)] "Load ./ThreeJs/js/stats.min.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.492706:INFO:CONSOLE(25)] "Load ./ThreeJs/js/DragControls.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.494814:INFO:CONSOLE(25)] "Load ./ThreeJs/js/OrbitControls.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.496895:INFO:CONSOLE(25)] "Load ./ThreeJs/js/FirstPersonControls.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.499224:INFO:CONSOLE(25)] "Load ./ThreeJs/js/TransformControls.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.501445:INFO:CONSOLE(25)] "Load ./ThreeJs/js/dat.gui.min.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.504105:INFO:CONSOLE(25)] "Load ./ThreeJs/js/EffectComposer.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.506296:INFO:CONSOLE(25)] "Load ./ThreeJs/js/RenderPass.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.508457:INFO:CONSOLE(25)] "Load ./ThreeJs/js/OutlinePass.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.510742:INFO:CONSOLE(25)] "Load ./ThreeJs/js/FXAAShader.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.512984:INFO:CONSOLE(25)] "Load ./ThreeJs/js/CopyShader.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.552579:INFO:CONSOLE(25)] "Load ./ThreeJs/js/ShaderPass.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.595677:INFO:CONSOLE(25)] "Load ./ThreeJs/js/ThreeBSP.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.620379:INFO:CONSOLE(25)] "Load ./ThreeJs/ThreeJs_Drag.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.655305:INFO:CONSOLE(25)] "Load ./ThreeJs/ThreeJs_Composer.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.664634:INFO:CONSOLE(25)] "Load ./ThreeJs/Modules.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.686894:INFO:CONSOLE(25)] "Load ./ThreeJs/js/Tween.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223802.718260:INFO:CONSOLE(25)] "Load ./echarts/echarts.min.js", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (25)
+[22556:22556:0118/223803.154823:INFO:CONSOLE(21537)] "THREE.WebGLRenderer", source: http://localhost:3001/taskPermission/top10/threejs/ThreeJs/js/three.js (21537)
+[1:1:0118/223805.354669:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: the server responded with a status of 404 (Not Found)","http://localhost:3001/taskPermission/top10/threejs/ThreeJs/images/skybox/%E8%BF%9C%E5%B1%B1_RT.jpg"
+[1:1:0118/223805.361197:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: the server responded with a status of 404 (Not Found)","http://localhost:3001/taskPermission/top10/threejs/ThreeJs/images/skybox/%E8%BF%9C%E5%B1%B1_LF.jpg"
+[1:1:0118/223805.365216:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: the server responded with a status of 404 (Not Found)","http://localhost:3001/taskPermission/top10/threejs/ThreeJs/images/skybox/%E8%BF%9C%E5%B1%B1_UP.jpg"
+[1:1:0118/223805.368726:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: the server responded with a status of 404 (Not Found)","http://localhost:3001/taskPermission/top10/threejs/ThreeJs/images/skybox/%E8%BF%9C%E5%B1%B1_DN.jpg"
+[1:1:0118/223805.372483:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: the server responded with a status of 404 (Not Found)","http://localhost:3001/taskPermission/top10/threejs/ThreeJs/images/skybox/%E8%BF%9C%E5%B1%B1_BK.jpg"
+[1:1:0118/223805.380213:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: the server responded with a status of 404 (Not Found)","http://localhost:3001/taskPermission/top10/threejs/ThreeJs/images/skybox/%E8%BF%9C%E5%B1%B1_FR.jpg"
+[22556:22556:0118/223805.408250:INFO:CONSOLE(12)] ">> finished", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (12)
+[22556:22556:0118/223805.409050:INFO:CONSOLE(13)] "threejs: 3738.3369140625ms", source: http://localhost:3001/taskPermission/top10/threejs/3DProject.html (13)
+[1:1:0118/223805.645069:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: the server responded with a status of 404 (Not Found)","http://localhost:3001/favicon.ico"

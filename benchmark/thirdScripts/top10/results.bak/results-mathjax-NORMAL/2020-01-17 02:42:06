@@ -1,0 +1,9 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/fab1f18e-bc4d-4c23-8c6d-8a1a787a158b
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[12269:12269:0117/024209.150787:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0117/024212.091516:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[12300:12300:0117/024212.153543:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x2a5f6581ca20]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[12300:12300:0117/024212.154446:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x2a5f6581ca20]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[12269:12269:0117/024213.234727:INFO:CONSOLE(12)] ">> finished", source: http://localhost:3001/taskPermission/top10/mathjax/index.html (12)
+[12269:12269:0117/024213.235523:INFO:CONSOLE(13)] "mathjax: 1170.22802734375ms", source: http://localhost:3001/taskPermission/top10/mathjax/index.html (13)

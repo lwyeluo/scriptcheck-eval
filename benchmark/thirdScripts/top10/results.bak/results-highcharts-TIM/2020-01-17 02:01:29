@@ -1,0 +1,99 @@
+[1:1:0117/020131.017539:INFO:content_main_runner.cc(320)] >>> [Setup] RunZyote
+[1:1:0117/020131.017795:INFO:zygote_main_linux.cc(351)] >>> [Setup] tmpfile success. fd is 315
+[3:3:0117/020131.020624:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 3
+[6632:6632:0117/020131.344131:INFO:extension_system_impl.cc(379)] >>> [browser][EXT] ExtensionSystemImpl::InitForRegularProfile
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/b8e06f5d-037d-4adf-9a9d-df10a9f48479
+[6632:6632:0117/020131.561157:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 3
+[6632:6660:0117/020131.561575:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 3
+[3:3:0117/020131.561696:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0117/020131.561836:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0117/020131.562163:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0117/020131.562274:INFO:zygote_linux.cc(614)] 		cid is 3
+[1:1:0117/020131.564059:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0x329acd5e, 1
+[1:1:0117/020131.564202:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0x24b9d82a, 0
+[1:1:0117/020131.564267:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0x3ea69742, 3
+[1:1:0117/020131.564370:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0x12f92c7f, 2
+[1:1:0117/020131.564448:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = 2affffffd8ffffffb924 5effffffcdffffff9a32 7f2cfffffff912 42ffffff97ffffffa63e , 6552, 3
+[6632:6660:0117/020131.564646:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PING*Ø¹$^Íš2,ùB—¦>[
+[6632:6660:0117/020131.564691:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is *Ø¹$^Íš2,ùB—¦>ØÒ[
+[6632:6660:0117/020131.564848:INFO:switcher_host_impl.cc(16)] >>> [INIT] create a SwitcherSiteQueue
+[6632:6660:0117/020131.564889:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 6676, 3, 2ad8b924 5ecd9a32 7f2cf912 4297a63e 
+[1:1:0117/020131.587547:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0117/020131.590132:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[6632:6632:0117/020131.800499:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[6632:6632:0117/020131.801527:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[6632:6632:0117/020131.805493:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation chrome://welcome/
+[6632:6632:0117/020131.805543:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 3, 3:2_chrome://welcome/, chrome://welcome/?variant=everywhere, 1
+[6632:6632:0117/020131.838382:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 4
+[6632:6660:0117/020131.838722:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 4
+[3:3:0117/020131.838847:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0117/020131.838992:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0117/020131.839181:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0117/020131.839284:INFO:zygote_linux.cc(614)] 		cid is 4
+[1:1:0117/020131.841128:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0x6ad98e2, 1
+[1:1:0117/020131.841311:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0x3cdedcc4, 0
+[1:1:0117/020131.841401:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0x279c88f5, 3
+[1:1:0117/020131.841487:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0x1075b8ad, 2
+[1:1:0117/020131.841561:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = ffffffc4ffffffdcffffffde3c ffffffe2ffffff98ffffffad06 ffffffadffffffb87510 fffffff5ffffff88ffffff9c27 , 6552, 4
+[6632:6660:0117/020131.841703:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PINGÄÜÞ<â˜­­¸uõˆœ'¡
+[6632:6660:0117/020131.841744:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is ÄÜÞ<â˜­­¸uõˆœ'ø±¡
+[6632:6660:0117/020131.841869:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 6698, 4, c4dcde3c e298ad06 adb87510 f5889c27 
+[6632:6642:0117/020131.905352:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 3, 2
+[6632:6642:0117/020131.905421:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 3, 2, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0117/020131.905834:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0117/020131.921288:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0117/020131.923869:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[1:1:0117/020131.972803:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 3:2_chrome://welcome/
+[6632:6632:0117/020131.995428:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[6632:6632:0117/020131.996354:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[6632:6632:0117/020131.997728:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/
+[6632:6632:0117/020131.997773:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/, chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/_generated_background_page.html, 2
+[6632:6642:0117/020132.002409:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 4, 2
+[6632:6642:0117/020132.002469:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 4, 2, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0117/020132.003320:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0117/020132.056261:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/
+[6632:6632:0117/020132.099895:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/, chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/, 2
+[6632:6632:0117/020132.099962:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 2, 2, chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/, chrome-extension://kmendfapggjehodndflmmgagdbamhnfd
+[6632:6632:0117/020132.109619:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 3, 3:2_chrome://welcome/, chrome://welcome/, 1
+[6632:6632:0117/020132.109671:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 1, 2, chrome://welcome/, chrome://welcome
+[6632:6632:0117/020132.402002:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[6632:6632:0117/020135.063596:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 5
+[6632:6660:0117/020135.063827:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 5
+[3:3:0117/020135.063965:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0117/020135.064131:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0117/020135.064383:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0117/020135.064534:INFO:zygote_linux.cc(614)] 		cid is 5
+[1:1:0117/020135.066913:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0x10773f2b, 1
+[1:1:0117/020135.067117:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0x3d1b499c, 0
+[1:1:0117/020135.067228:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0x29bee3d5, 3
+[1:1:0117/020135.067314:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0x3ace5ab4, 2
+[1:1:0117/020135.067383:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = ffffff9c491b3d 2b3f7710 ffffffb45affffffce3a ffffffd5ffffffe3ffffffbe29 , 6552, 5
+[6632:6660:0117/020135.067514:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PINGœI=+?w´ZÎ:Õã¾)œ
+[6632:6660:0117/020135.067553:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is œI=+?w´ZÎ:Õã¾)¨¾œ
+[6632:6660:0117/020135.067686:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 6740, 5, 9c491b3d 2b3f7710 b45ace3a d5e3be29 
+[1:1:0117/020135.089990:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0117/020135.092177:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[6632:6632:0117/020135.114758:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[6632:6632:0117/020135.116992:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[6632:6632:0117/020135.121451:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation http://localhost:3001/
+[6632:6632:0117/020135.121504:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:3_http://localhost:3001/, http://localhost:3001/taskPermission/top10/highcharts/index.html, 1
+[6632:6642:0117/020135.129739:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 3
+[6632:6642:0117/020135.129801:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 3, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0117/020135.130268:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0117/020135.184248:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:3_http://localhost:3001/
+[6632:6632:0117/020135.268996:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:3_http://localhost:3001/, http://localhost:3001/, 1
+[6632:6632:0117/020135.269053:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 1, 3, http://localhost:3001/, http://localhost:3001
+[1:1:0117/020135.294710:INFO:element.cc(1583)] >>> Element::AttributeChanged QualifiedName(local="taskpermission" ns=<null> prefix=<null>)
+[1:1:0117/020135.295020:INFO:element.cc(1583)] >>> Element::AttributeChanged QualifiedName(local="taskpermission" ns=<null> prefix=<null>)
+[1:1:0117/020135.295399:INFO:element.cc(1583)] >>> Element::AttributeChanged QualifiedName(local="taskpermission" ns=<null> prefix=<null>)
+[1:1:0117/020135.295687:INFO:element.cc(1583)] >>> Element::AttributeChanged QualifiedName(local="taskpermission" ns=<null> prefix=<null>)
+[1:1:0117/020135.296021:INFO:element.cc(1583)] >>> Element::AttributeChanged QualifiedName(local="taskpermission" ns=<null> prefix=<null>)
+[1:1:0117/020135.296728:INFO:element.cc(1583)] >>> Element::AttributeChanged QualifiedName(local="taskpermission" ns=<null> prefix=<null>)
+[1:1:0117/020135.319191:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[1:1:0117/020135.350726:INFO:switcher_task_permission.cc(79)] >>> [PERMISSION] try to update task permission as disallow-dom-bl
+[3:3:0117/020135.371212:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 1
+[6632:6632:0117/020135.936077:INFO:CONSOLE(12)] ">> finished", source: http://localhost:3001/taskPermission/top10/highcharts/index.html (12)
+[6632:6632:0117/020135.936985:INFO:CONSOLE(13)] "highcharts: 641.825927734375ms", source: http://localhost:3001/taskPermission/top10/highcharts/index.html (13)
+[1:1:0117/020135.986085:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: the server responded with a status of 404 (Not Found)","http://localhost:3001/favicon.ico"

@@ -1,0 +1,11 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/7d0eb77c-5b8d-41f6-924c-73906b45d48f
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[31795:31795:0117/172824.489386:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0117/172827.404609:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[31795:31795:0117/172827.469506:INFO:CONSOLE(25)] "Load https://polyfill.io/v3/polyfill.min.js?features=es6", source: http://localhost:3001/taskPermission/top10/mathjax/index.html (25)
+[31795:31795:0117/172827.495177:INFO:CONSOLE(25)] "Load https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML", source: http://localhost:3001/taskPermission/top10/mathjax/index.html (25)
+[31795:31795:0117/172827.547932:INFO:CONSOLE(90)] "Script is loaded, wait for rendering", source: http://localhost:3001/taskPermission/top10/mathjax/index.html (90)
+[31795:31795:0117/172828.972913:INFO:CONSOLE(3)] "hello", source:  (3)
+[31795:31795:0117/172829.027218:INFO:CONSOLE(12)] ">> finished", source: http://localhost:3001/taskPermission/top10/mathjax/index.html (12)
+[31795:31795:0117/172829.028023:INFO:CONSOLE(13)] "mathjax: 1645.55615234375ms", source: http://localhost:3001/taskPermission/top10/mathjax/index.html (13)

@@ -1,0 +1,19 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/cf017212-00ea-4797-8c2f-09b4bc96929f
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[12575:12575:0117/020759.261305:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0117/020802.036954:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[12606:12606:0117/020802.088667:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x388c3560fe20]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[12606:12606:0117/020802.088854:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x388c3560fe20]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[12575:12575:0117/020802.372388:INFO:CONSOLE(107)] "90-#ff0000-#ff3f3f", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[12575:12575:0117/020802.412537:INFO:CONSOLE(107)] "90-#ff9900-#ffb23f", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[12575:12575:0117/020802.424321:INFO:CONSOLE(107)] "90-#ccff00-#d8ff3f", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[12575:12575:0117/020802.434548:INFO:CONSOLE(107)] "90-#32ff00-#65ff3f", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[12575:12575:0117/020802.444624:INFO:CONSOLE(107)] "90-#00ff65-#3fff8c", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[12575:12575:0117/020802.454822:INFO:CONSOLE(107)] "90-#00ffff-#3fffff", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[12575:12575:0117/020802.464676:INFO:CONSOLE(107)] "90-#0065ff-#3f8cff", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[12575:12575:0117/020802.474934:INFO:CONSOLE(107)] "90-#3200ff-#653fff", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[12575:12575:0117/020802.485104:INFO:CONSOLE(107)] "90-#cb00ff-#d83fff", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[12575:12575:0117/020802.496140:INFO:CONSOLE(107)] "90-#ff0099-#ff3fb2", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[12575:12575:0117/020802.545901:INFO:CONSOLE(12)] ">> finished", source: http://localhost:3001/taskPermission/top10/raphael/index.html (12)
+[12575:12575:0117/020802.546770:INFO:CONSOLE(13)] "raphael: 528.5ms", source: http://localhost:3001/taskPermission/top10/raphael/index.html (13)

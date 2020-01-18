@@ -1,0 +1,9 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/35f2fd11-0dbe-4bdf-ab96-9c2481ce60c4
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[4464:4464:0117/141613.139085:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0117/141616.160572:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[4494:4494:0117/141616.185823:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x360ebba80320]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[4494:4494:0117/141616.186005:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x360ebba80320]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[4464:4464:0117/141617.168160:INFO:CONSOLE(12)] ">> finished", source: http://localhost:3001/taskPermission/top10/chartjs/index.html (12)
+[4464:4464:0117/141617.169078:INFO:CONSOLE(13)] "chartjs: 1037.512939453125ms", source: http://localhost:3001/taskPermission/top10/chartjs/index.html (13)

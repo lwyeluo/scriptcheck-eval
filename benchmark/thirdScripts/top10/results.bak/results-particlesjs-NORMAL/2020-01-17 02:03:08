@@ -1,0 +1,12 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/c669fa2e-f5d4-45d2-a3c7-37fd7ed98cba
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[8124:8124:0117/020311.155738:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0117/020314.210851:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[8124:8124:0117/020314.251075:INFO:CONSOLE(24)] "Load particles.js", source: http://localhost:3001/taskPermission/top10/particlesjs/index.html (24)
+[8154:8154:0117/020314.267640:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x37c31c897020]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[8154:8154:0117/020314.267810:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x37c31c897020]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[8124:8124:0117/020314.325294:INFO:CONSOLE(24)] "Load js/app.js", source: http://localhost:3001/taskPermission/top10/particlesjs/index.html (24)
+[8124:8124:0117/020314.428992:INFO:CONSOLE(24)] "Load js/lib/stats.js", source: http://localhost:3001/taskPermission/top10/particlesjs/index.html (24)
+[8124:8124:0117/020314.719898:INFO:CONSOLE(11)] ">> finished", source: http://localhost:3001/taskPermission/top10/particlesjs/index.html (11)
+[8124:8124:0117/020314.720640:INFO:CONSOLE(12)] "particlesjs: 548.372802734375ms", source: http://localhost:3001/taskPermission/top10/particlesjs/index.html (12)

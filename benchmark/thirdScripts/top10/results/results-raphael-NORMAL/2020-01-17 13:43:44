@@ -1,0 +1,27 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/8bb39cc7-f997-455f-967e-dcbc778fd1f4
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[8102:8102:0117/134346.724521:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0117/134349.620351:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[8132:8132:0117/134349.657913:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x39a93d988a20]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[8132:8132:0117/134349.658207:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x39a93d988a20]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[8132:8132:0117/134349.658473:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x39a93d988a20]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[8132:8132:0117/134349.658707:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x39a93d988a20]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[8132:8132:0117/134349.659258:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x39a93d988a20]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[8132:8132:0117/134349.659387:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x39a93d988a20]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[8132:8132:0117/134349.659506:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x39a93d988a20]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[8132:8132:0117/134349.659635:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x39a93d988a20]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[8132:8132:0117/134349.659773:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x39a93d988a20]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[8132:8132:0117/134349.659893:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x39a93d988a20]RENDER WARNING: texture bound to texture unit 1 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[8102:8102:0117/134349.967867:INFO:CONSOLE(107)] "90-#ff0000-#ff3f3f", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[8102:8102:0117/134350.008973:INFO:CONSOLE(107)] "90-#ff9900-#ffb23f", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[8102:8102:0117/134350.020939:INFO:CONSOLE(107)] "90-#ccff00-#d8ff3f", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[8102:8102:0117/134350.031051:INFO:CONSOLE(107)] "90-#32ff00-#65ff3f", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[8102:8102:0117/134350.041082:INFO:CONSOLE(107)] "90-#00ff65-#3fff8c", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[8102:8102:0117/134350.051198:INFO:CONSOLE(107)] "90-#00ffff-#3fffff", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[8102:8102:0117/134350.060969:INFO:CONSOLE(107)] "90-#0065ff-#3f8cff", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[8102:8102:0117/134350.072312:INFO:CONSOLE(107)] "90-#3200ff-#653fff", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[8102:8102:0117/134350.082457:INFO:CONSOLE(107)] "90-#cb00ff-#d83fff", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[8102:8102:0117/134350.093246:INFO:CONSOLE(107)] "90-#ff0099-#ff3fb2", source: http://localhost:3001/taskPermission/top10/raphael/index.html (107)
+[8102:8102:0117/134350.141139:INFO:CONSOLE(12)] ">> finished", source: http://localhost:3001/taskPermission/top10/raphael/index.html (12)
+[8102:8102:0117/134350.141923:INFO:CONSOLE(13)] "raphael: 535.0087890625ms", source: http://localhost:3001/taskPermission/top10/raphael/index.html (13)

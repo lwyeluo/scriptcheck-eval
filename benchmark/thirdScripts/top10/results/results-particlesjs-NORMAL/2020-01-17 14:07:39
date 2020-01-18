@@ -1,0 +1,10 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/29f5da66-9107-4b23-93e3-b79a1b1c3bec
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[30494:30494:0117/140742.152838:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0117/140745.050507:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[30494:30494:0117/140745.095324:INFO:CONSOLE(24)] "Load particles.js", source: http://localhost:3001/taskPermission/top10/particlesjs/index.html (24)
+[30494:30494:0117/140745.192837:INFO:CONSOLE(24)] "Load js/app.js", source: http://localhost:3001/taskPermission/top10/particlesjs/index.html (24)
+[30494:30494:0117/140745.321460:INFO:CONSOLE(24)] "Load js/lib/stats.js", source: http://localhost:3001/taskPermission/top10/particlesjs/index.html (24)
+[30494:30494:0117/140745.623369:INFO:CONSOLE(11)] ">> finished", source: http://localhost:3001/taskPermission/top10/particlesjs/index.html (11)
+[30494:30494:0117/140745.624119:INFO:CONSOLE(12)] "particlesjs: 596.48291015625ms", source: http://localhost:3001/taskPermission/top10/particlesjs/index.html (12)

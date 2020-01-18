@@ -1,0 +1,11 @@
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/d97e35bf-84ea-4be9-a0b9-864dc5e0d7dd
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[8263:8263:0117/023744.536753:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0117/023747.489925:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[8263:8263:0117/023747.551784:INFO:CONSOLE(24)] "Load https://code.jquery.com/jquery-1.7.2.min.js", source: http://localhost:3001/taskPermission/top10/supersized/index.html (24)
+[8293:8293:0117/023747.564667:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0x316ac6c50c20]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+[8293:8293:0117/023747.564839:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0x316ac6c50c20]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+[8263:8263:0117/023748.094279:INFO:CONSOLE(24)] "Load https://www.helloweba.net/demo/supersized/supersized.3.0.js", source: http://localhost:3001/taskPermission/top10/supersized/index.html (24)
+[8263:8263:0117/023748.108444:INFO:CONSOLE(11)] ">> finished", source: http://localhost:3001/taskPermission/top10/supersized/index.html (11)
+[8263:8263:0117/023748.109148:INFO:CONSOLE(12)] "supersized: 346.131103515625ms", source: http://localhost:3001/taskPermission/top10/supersized/index.html (12)
