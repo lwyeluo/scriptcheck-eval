@@ -11,6 +11,7 @@ class ParseLog(object):
 
         # features
         self._features_time = '"%s: ' % site
+        self._features_disallow_form = "the current task cannot access the specified element"
 
         self.results = []
 
@@ -29,6 +30,8 @@ class ParseLog(object):
                     info = remain.split('''ms", source: ''')
                     # print(info)
                     self.results.append(float(info[0]))
+                elif self._features_disallow_form in line:
+                    print(line)
 
             f.close()
 
@@ -43,6 +46,21 @@ class Parse(object):
 
         self.all_results = {}
         self.final_results = {}
+
+        self.top10_libraries_ = [
+            "Chart.js",
+            "Highcharts",
+            "particles.js",
+            "Raphael",
+            "D3",
+            "three.js",
+            "MathJax",
+            "AmCharts",
+            "Supersized",
+            "GoogleCharts"
+        ]
+
+        self.top10_cost_ = {}
 
     def run(self):
         if not os.path.exists(self._results_tree_dir):
@@ -82,6 +100,46 @@ class Parse(object):
             sum_value_tim /= len(self.all_results[site][TIM])
             print("\toverhead-site: ", site, sum_value_normal, sum_value_tim, sum_value_tim/sum_value_normal)
 
+            self.top10_cost_[site] = {
+                NORMAL: "%.3f" % sum_value_normal,
+                TIM: "%.3f" % sum_value_tim
+            }
+
+    def printf(self):
+        for i in range(0, 3):
+            print("********************************************************")
+        cnt = 0
+        average_cost = 0.0
+        while True:
+            sites = [self.top10_libraries_[i] for i in range(cnt, cnt+5)]
+            for site in sites:
+                print("\t&\t\\textbf{%s}" % site, end="")
+            print(" \\\\ \\hline")
+            print("Baseline", end="")
+            for site in sites:
+                print("\t&\t%s" % self.top10_cost_[site.replace(".", "").lower()][NORMAL], end="")
+            print(" \\\\ \\hline")
+            print("Ours", end="")
+            for site in sites:
+                o = self.top10_cost_[site.replace(".", "").lower()][NORMAL]
+                n = self.top10_cost_[site.replace(".", "").lower()][TIM]
+                cost = (float(n)/float(o) - 1) * 100
+                average_cost += cost
+                print("\t&\t%s" % n, end="")
+                print(" (%.2f\\%%)" % cost, end="")
+            print(" \\\\ \\hline")
+            cnt += 5
+            if cnt == 10:
+                break
+        print("The cost on average is", average_cost/10)
+
+
 
 def run():
-    Parse().run()
+    p = Parse()
+    p.run()
+    p.printf()
+
+
+if __name__ == '__main__':
+    run()

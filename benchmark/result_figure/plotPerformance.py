@@ -46,14 +46,14 @@ def plotFCPFMP():
 	# plot
 	x_label = np.array(sites)
 	y1 = np.array(baseFCPResults)
-	y2 = np.array(timFallbackFCPResults)
+	# y2 = np.array(timFallbackFCPResults)
 	y3 = np.array(timFCPResults)
 	y4 = np.array(baseFMPResults)
-	y5 = np.array(timFallbackFMPResults)
+	# y5 = np.array(timFallbackFMPResults)
 	y6 = np.array(timFMPResults)
 
 	x = list(range(len(x_label)))
-	total_width, n = 0.8, 6
+	total_width, n = 0.8, 4
 	width = total_width / n
 
 	hatch = '//'
@@ -62,22 +62,22 @@ def plotFCPFMP():
 	plt.bar(x, y1, width=width, label="Baseline (FCP)", facecolor='white', edgecolor='black')
 	for i in range(0, len(x)):
 		x[i] += width
-	plt.bar(x, y2, width=width, label="CPMM (Fallback) (FCP)", facecolor='#CCCCCC', edgecolor='black')
-	for i in range(0, len(x)):
-		x[i] += width
-	plt.bar(x, y3, width=width, label="CPMM (FCP)", facecolor='#666666', edgecolor='black')
+	# plt.bar(x, y2, width=width, label="CPMM (Fallback) (FCP)", facecolor='#CCCCCC', edgecolor='black')
+	# for i in range(0, len(x)):
+	# 	x[i] += width
+	plt.bar(x, y3, width=width, label="Ours (FCP)", facecolor='#666666', edgecolor='black')
 	for i in range(0, len(x)):
 		x[i] += width
 	plt.bar(x, y4, width=width, label="Baseline (FMP)", facecolor='white', hatch=hatch, edgecolor='black')
 	for i in range(0, len(x)):
 		x[i] += width
-	plt.bar(x, y5, width=width, label="CPMM (Fallback) (FMP)", facecolor='#CCCCCC', hatch=hatch, edgecolor='black')
-	for i in range(0, len(x)):
-		x[i] += width
-	plt.bar(x, y6, width=width, label="CPMM (FMP)", facecolor='#666666', hatch=hatch, edgecolor='black')
+	# plt.bar(x, y5, width=width, label="CPMM (Fallback) (FMP)", facecolor='#CCCCCC', hatch=hatch, edgecolor='black')
+	# for i in range(0, len(x)):
+	# 	x[i] += width
+	plt.bar(x, y6, width=width, label="Ours (FMP)", facecolor='#666666', hatch=hatch, edgecolor='black')
 
 	for i in range(len(x)):
-		x[i] = x[i] - width * 3
+		x[i] = x[i] - width * 1.5
 	plt.xticks(x, x_label)
 
 	#plt.ylim(0, 4500)
@@ -146,20 +146,20 @@ def plotKraken():
 	y3 = np.array(timResults)
 
 	x = list(range(len(x_label)))
-	total_width, n = 0.8, 3
+	total_width, n = 0.8, 2
 	width = total_width / n
 
 	plt.figure()
 	plt.bar(x, y1, width=width, label='Baseline', facecolor='white', edgecolor='black')
 	for i in range(len(x)):
 		x[i] = x[i] + width
-	plt.bar(x, y2, width=width, label='CPMM (Fallback)', facecolor='#CCCCCC', edgecolor='black')
-	for i in range(len(x)):
-		x[i] = x[i] + width
-	plt.bar(x, y3, width=width, label='CPMM', facecolor='#666666', edgecolor='black')
+	# plt.bar(x, y2, width=width, label='CPMM (Fallback)', facecolor='#CCCCCC', edgecolor='black')
+	# for i in range(len(x)):
+	# 	x[i] = x[i] + width
+	plt.bar(x, y3, width=width, label='Ours', facecolor='#666666', edgecolor='black')
 
 	for i in range(len(x)):
-		x[i] = x[i] - width
+		x[i] = x[i] - width * 0.5
 	plt.xticks(x, x_label)
 
 	plt.ylim(0, 5500)
@@ -169,6 +169,36 @@ def plotKraken():
 	plt.legend(fontsize=18)
 	plt.tight_layout()
 	plt.show()
+
+def printKraken():
+	# 1. read data
+	types = []
+	baseResults, timResults, timFallbackResults = [], [], []
+	with open(_kraken_file, "r") as f:
+		content = f.readlines()
+		for t in content[0].strip("\n").split("\t")[1:]:
+			types.append(t.replace(" ", "\n"))
+		for d in content[1:]:
+			data = d.strip("\n").split("\t")
+			if data[0] == "Baseline":
+				baseResults += [float(x) for x in data[1:]]
+			elif data[0] == "TIM":
+				timResults += [float(x) for x in data[1:]]
+			elif data[0] == "TIM fallback":
+				timFallbackResults += [float(x) for x in data[1:]]
+		f.close()
+	for t in types:
+		print("\t&\t\\textbf{%s}" % t, end="")
+	print(" \\\\ \\hline")
+	print("Baseline", end="")
+	for x in baseResults:
+		print("\t&\t%.2f" % x, end="")
+	print(" \\\\ \\hline")
+	print("Ours", end="")
+	for i in range(0, len(timResults)):
+		o, x = baseResults[i], timResults[i]
+		print("\t&\t%.2f (%.2f\\%%)" % (x, (x/o-1)*100), end="")
+	print(" \\\\ \\hline")
 
 def plotSOP():
 	import matplotlib.pyplot as plt
@@ -224,7 +254,8 @@ def plotSOP():
 	plt.show()
 
 
-plotFCPFMP()
+# plotFCPFMP()
 # plotYoutube()
-# plotKraken()
+plotKraken()
+# printKraken()
 # plotSOP()
