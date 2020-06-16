@@ -1,0 +1,764 @@
+[1:1:0326/020616.753355:INFO:content_main_runner.cc(320)] >>> [Setup] RunZyote
+[1:1:0326/020616.754323:INFO:zygote_main_linux.cc(351)] >>> [Setup] tmpfile success. fd is 315
+[3:3:0326/020616.763031:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 3
+[14736:14736:0326/020617.330316:INFO:extension_system_impl.cc(379)] >>> [browser][EXT] ExtensionSystemImpl::InitForRegularProfile
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/0b0585fe-26ce-40f1-8ba3-de5be69e43a4
+[14736:14736:0326/020617.687889:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 4
+[14736:14767:0326/020617.688639:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 4
+[3:3:0326/020617.688811:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0326/020617.689009:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0326/020617.689497:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0326/020617.689640:INFO:zygote_linux.cc(614)] 		cid is 4
+[1:1:0326/020617.698759:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0x385fe4b, 1
+[1:1:0326/020617.699460:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0x1f9a4162, 0
+[1:1:0326/020617.699782:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0x187c5a77, 3
+[1:1:0326/020617.700339:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0xc7e0c6d, 2
+[1:1:0326/020617.700551:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = 6241ffffff9a1f 4bfffffffeffffff8503 6d0c7e0c 775a7c18 , 6552, 4
+[14736:14767:0326/020617.700931:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PINGbAšKþ…m~wZ|®Ñ
+[14736:14767:0326/020617.701005:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is bAšKþ…m~wZ|x\®Ñ
+[14736:14767:0326/020617.701328:INFO:switcher_host_impl.cc(16)] >>> [INIT] create a SwitcherSiteQueue
+[14736:14767:0326/020617.701394:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 14783, 4, 62419a1f 4bfe8503 6d0c7e0c 775a7c18 
+[1:1:0326/020617.776245:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0326/020617.812862:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[14736:14759:0326/020618.903345:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[14736:14736:0326/020619.134819:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[14736:14736:0326/020619.135531:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[14736:14736:0326/020619.197926:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation chrome-search://local-ntp/
+[14736:14736:0326/020619.198037:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:1_chrome-search://local-ntp/, chrome-search://local-ntp/local-ntp.html, 1
+[14736:14748:0326/020619.206423:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 4, 1
+[14736:14748:0326/020619.206594:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 4, 1, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0326/020619.218112:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/020619.609590:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 4:1_chrome-search://local-ntp/
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[14736:14736:0326/020620.248755:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:1_chrome-search://local-ntp/, chrome-search://local-ntp/, 1
+[14736:14736:0326/020620.248858:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 1, 1, chrome-search://local-ntp/, chrome-search://local-ntp
+[1:1:0326/020620.612786:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020620.615134:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020620.617971:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020620.620219:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020620.624770:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020620.755980:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/020620.756455:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/020620.782144:INFO:html_tree_builder.cc(780)] >>> [renderer][DOM] receive <iframe>
+[14736:14736:0326/020620.795901:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[14736:14736:0326/020620.800667:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: , 3, 2, 
+[14736:14736:0326/020620.862746:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:3_chrome-search://local-ntp/, chrome-search://local-ntp/, 2
+[14736:14736:0326/020620.862826:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 2, 3, chrome-search://local-ntp/, chrome-search://local-ntp
+[1:1:0326/020620.898979:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/020620.903694:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020620.904185:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020620.907132:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[14736:14736:0326/020620.943560:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 5
+[14736:14767:0326/020620.951862:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 5
+[3:3:0326/020620.952143:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0326/020620.952428:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0326/020620.952798:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0326/020620.953893:INFO:zygote_linux.cc(614)] 		cid is 5
+[1:1:0326/020620.961519:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0x3c377a7d, 1
+[1:1:0326/020620.963369:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0xf935b2c, 0
+[1:1:0326/020620.963601:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0xefe8d1c, 3
+[1:1:0326/020620.963847:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0x3f4865c0, 2
+[1:1:0326/020620.964861:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = 2c5bffffff930f 7d7a373c ffffffc065483f 1cffffff8dfffffffe0e , 6552, 5
+[14736:14767:0326/020620.965521:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PING,[“}z7<ÀeH?þè®Ñ
+[14736:14767:0326/020620.965585:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is ,[“}z7<ÀeH?þ8Wè®Ñ
+[14736:14767:0326/020620.965829:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 14833, 5, 2c5b930f 7d7a373c c065483f 1c8dfe0e 
+[1:1:0326/020620.986377:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020620.986598:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:1_chrome-search://local-ntp/, 
+[1:1:0326/020620.988485:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "transitionend", 0
+[1:1:0326/020620.988778:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "transitionend" with permission 0
+[1:1:0326/020620.990240:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020620.990567:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020620.991852:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020620.992111:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020620.992600:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020620.992806:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020620.993177:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020620.999114:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020620.999518:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020620.999733:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020620.999930:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020621.000083:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020621.000433:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020621.000629:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020621.042736:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020621.043547:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020621.044075:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020621.044369:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020621.044667:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020621.044929:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020621.049767:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0326/020621.078117:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[1:1:0326/020621.080082:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "audiostart", 0
+[1:1:0326/020621.080377:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "audiostart" with permission 0
+[1:1:0326/020621.080618:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "end", 0
+[1:1:0326/020621.080794:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "end" with permission 0
+[1:1:0326/020621.081004:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020621.081197:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020621.081430:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "nomatch", 0
+[1:1:0326/020621.081618:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "nomatch" with permission 0
+[1:1:0326/020621.081825:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "result", 0
+[1:1:0326/020621.081997:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "result" with permission 0
+[1:1:0326/020621.082312:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "speechstart", 0
+[1:1:0326/020621.082493:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "speechstart" with permission 0
+[1:1:0326/020621.083202:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/020621.083482:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/020621.084753:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "paste", 0
+[1:1:0326/020621.084994:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "paste" with permission 0
+[1:1:0326/020621.085208:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "drop", 0
+[1:1:0326/020621.085369:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "drop" with permission 0
+[1:1:0326/020621.085661:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "dragenter", 0
+[1:1:0326/020621.085964:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "dragenter" with permission 0
+[1:1:0326/020621.088306:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "dragleave", 0
+[1:1:0326/020621.088800:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "dragleave" with permission 0
+[1:1:0326/020621.090633:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020621.091042:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020621.092152:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020621.092416:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020621.094763:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020621.095735:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020621.096012:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[14736:14736:0326/020621.102640:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[14736:14736:0326/020621.105032:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: mv-single, 4, 3, 
+[1:1:0326/020621.254394:INFO:render_frame_impl.cc(7031)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0326/020621.254746:INFO:render_frame_impl.cc(7032)] 	 [url] = chrome-search://local-ntp
+[14736:14736:0326/020621.306357:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 4:1_chrome-search://local-ntp/
+[1:1:0326/020621.335610:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020621.336171:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020621.337267:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "message", 0
+[1:1:0326/020621.337782:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "message" with permission 0
+[14736:14736:0326/020621.387435:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[14736:14736:0326/020621.398610:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[14736:14736:0326/020621.402805:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation chrome-search://most-visited/
+[14736:14736:0326/020621.402896:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:4_chrome-search://most-visited/, chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page, 3
+[14736:14748:0326/020621.476809:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 4, 4
+[14736:14748:0326/020621.476967:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 4, 4, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0326/020621.535827:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/020622.122248:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 4:4_chrome-search://most-visited/
+[1:1:0326/020622.216333:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020622.216562:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:1_chrome-search://local-ntp/, 
+[1:1:0326/020622.234271:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.236769:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.237665:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.237912:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.240977:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[14736:14736:0326/020622.303151:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:4_chrome-search://most-visited/, chrome-search://most-visited/, 3
+[14736:14736:0326/020622.303229:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 3, 4, chrome-search://most-visited/, chrome-search://most-visited
+[1:1:0326/020622.358580:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:4_chrome-search://most-visited/@0, task's permission is 0
+[1:1:0326/020622.364843:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:4_chrome-search://most-visited/@0, task's permission is 0
+[14736:14736:0326/020622.371685:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[14736:14736:0326/020622.376007:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[14736:14748:0326/020622.395690:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 3
+[14736:14748:0326/020622.395988:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 3, HandleIncomingMessage, HandleIncomingMessage
+[14736:14736:0326/020622.407387:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation http://114.haoyer.com/
+[14736:14736:0326/020622.407485:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:3_http://114.haoyer.com/, http://114.haoyer.com/html/daxue/, 1
+[1:7:0326/020622.411651:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/020622.414961:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:3_http://114.haoyer.com/
+[1:1:0326/020622.449960:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/020622.450337:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/020622.452577:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/020622.471984:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "message", 0
+[1:1:0326/020622.484824:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "message" with permission 0
+[1:1:0326/020622.496581:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020622.496839:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:1_chrome-search://local-ntp/, 
+[1:1:0326/020622.549084:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020622.559804:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020622.560108:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020622.560472:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020622.564539:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020622.567515:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.567981:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.568319:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.568619:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.568892:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.569051:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.570131:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.571989:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.572423:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.572725:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.573856:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020622.574107:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020622.574333:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020622.574481:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020622.575861:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020622.576103:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020622.576295:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020622.576450:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020622.577139:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.577421:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.577671:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.577863:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.578112:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.578371:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.579533:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.579850:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.580177:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.580401:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.581018:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020622.581300:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020622.581587:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020622.581808:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020622.589950:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020622.591620:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020622.592162:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020622.593528:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020622.596613:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.597001:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.597283:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.597501:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.597748:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.598604:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[14736:14736:0326/020622.599620:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:3_http://114.haoyer.com/, http://114.haoyer.com/, 1
+[14736:14736:0326/020622.600404:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 1, 3, http://114.haoyer.com/, http://114.haoyer.com
+[1:1:0326/020622.600880:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.601163:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.601445:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.601643:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.602052:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020622.602342:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020622.602636:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020622.602821:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020622.603653:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020622.603920:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020622.604160:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020622.604354:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020622.604851:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.605099:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.605317:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.605489:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.605685:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.605835:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.606557:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.606789:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.607002:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.607167:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.607475:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020622.607655:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020622.607838:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020622.607993:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020622.612588:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020622.613133:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020622.613651:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020622.614117:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020622.616061:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.616574:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.616999:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.617344:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.617662:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.617872:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.618971:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.619457:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.619765:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.620001:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.620496:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020622.620838:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020622.621133:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020622.621378:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020622.622384:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020622.630743:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020622.631100:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020622.631352:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020622.632383:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.632758:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.633078:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.633342:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.633620:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.633825:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.634771:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.635070:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.635329:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.635529:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.635930:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020622.636183:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020622.636468:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020622.636696:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020622.637920:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020622.639709:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020622.640077:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020622.640359:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020622.641056:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.646399:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.646646:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.646861:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.647062:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.647202:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.648160:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.648561:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.648902:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.649115:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.649610:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020622.652571:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020622.653105:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020622.653420:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020622.654407:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020622.658757:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020622.659104:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020622.659299:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020622.659853:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.660112:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.660331:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.660489:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.660679:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.660873:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.661763:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020622.662008:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020622.662247:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020622.662404:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020622.662740:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020622.663824:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020622.664356:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020622.665191:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020622.678698:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020622.683733:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020622.689831:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020622.702596:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020622.704277:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020622.709092:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020622.720626:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020622.724126:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020622.719126:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020622.730408:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020622.726267:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020622.736057:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020622.747337:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020622.754430:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020622.764115:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020622.769471:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020622.772133:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020622.775020:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020622.781116:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020622.794427:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020622.810481:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020622.816017:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020622.834972:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020622.836610:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020622.839692:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020622.846222:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020622.848003:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020622.913405:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.122392, 246, 1
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+[1:1:0326/020623.136361:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 3 TIMES
+[3:3:0326/020623.199420:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 1
+[1:1:0326/020623.219427:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020623.219656:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020623.235543:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020623.238779:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020623.321159:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020623.335683:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020623.345621:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020623.757274:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020623.757642:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020623.878485:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020623.878951:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020624.075050:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/020624.075336:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/020624.075601:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020624.075768:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020624.085028:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "message", 0
+[1:1:0326/020624.085345:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "message" with permission 0
+[1:1:0326/020624.156624:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020624.169384:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020624.169962:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020624.201100:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.0171659, 152, 1
+[1:1:0326/020624.641469:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020624.641811:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020624.661869:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020624.662621:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020624.757628:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "message", 0
+[1:1:0326/020624.758913:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "message" with permission 0
+[1:1:0326/020624.846797:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020624.861101:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020624.861437:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020624.893272:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.23301, 91, 1
+[1:1:0326/020624.897521:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020624.897791:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020624.937323:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020624.938551:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020625.154602:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020625.154901:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020625.157512:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020625.157782:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020625.308032:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/020625.308369:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/020625.308699:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020625.308886:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020625.559528:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020625.560787:INFO:cookie_jar.cc(71)] 		 pass the permission check "http://114.haoyer.com/html/daxue/"
+[1:1:0326/020625.564848:INFO:cookie_jar.cc(74)] 		 get cookie ""
+[1:1:0326/020625.587206:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020625.587439:INFO:cookie_jar.cc(71)] 		 pass the permission check "http://114.haoyer.com/html/daxue/"
+[1:1:0326/020625.589905:INFO:cookie_jar.cc(74)] 		 get cookie "__tins__17388686=%7B%22sid%22%3A%201585213585557%2C%20%22vd%22%3A%201%2C%20%22expires%22%3A%201585215385557%7D"
+[1:1:0326/020625.620287:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020625.651417:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020625.654217:INFO:cookie_jar.cc(71)] 		 pass the permission check "http://114.haoyer.com/html/daxue/"
+[1:1:0326/020625.656374:INFO:cookie_jar.cc(74)] 		 get cookie "__tins__17388686=%7B%22sid%22%3A%201585213585557%2C%20%22vd%22%3A%201%2C%20%22expires%22%3A%201585215385557%7D; __51cke__=; __51laig__=1"
+[1:1:0326/020625.668675:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020625.671736:INFO:cookie_jar.cc(71)] 		 pass the permission check "http://114.haoyer.com/html/daxue/"
+[1:1:0326/020625.679702:INFO:cookie_jar.cc(74)] 		 get cookie "__tins__17388686=%7B%22sid%22%3A%201585213585557%2C%20%22vd%22%3A%201%2C%20%22expires%22%3A%201585215385557%7D; __51cke__=; __51laig__=1"
+[1:1:0326/020625.697122:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020625.697329:INFO:cookie_jar.cc(71)] 		 pass the permission check "http://114.haoyer.com/html/daxue/"
+[1:1:0326/020625.699239:INFO:cookie_jar.cc(74)] 		 get cookie "__tins__17388686=%7B%22sid%22%3A%201585213585557%2C%20%22vd%22%3A%201%2C%20%22expires%22%3A%201585215385557%7D; __51cke__=; __51laig__=1; UM_distinctid=1711617b912292-0dcdcb016bd7c9-612a7221-75300-1711617b9170"
+[1:1:0326/020625.706081:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020625.706326:INFO:cookie_jar.cc(71)] 		 pass the permission check "http://114.haoyer.com/html/daxue/"
+[1:1:0326/020625.708145:INFO:cookie_jar.cc(74)] 		 get cookie "__tins__17388686=%7B%22sid%22%3A%201585213585557%2C%20%22vd%22%3A%201%2C%20%22expires%22%3A%201585215385557%7D; __51cke__=; __51laig__=1; UM_distinctid=1711617b912292-0dcdcb016bd7c9-612a7221-75300-1711617b9170; CNZZDATA2435580=cnzz_eid%3D1623392704-1585212856-%26ntime%3D1585212856"
+[1:1:0326/020625.715011:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020625.715247:INFO:cookie_jar.cc(71)] 		 pass the permission check "http://114.haoyer.com/html/daxue/"
+[1:1:0326/020625.718388:INFO:cookie_jar.cc(74)] 		 get cookie "__tins__17388686=%7B%22sid%22%3A%201585213585557%2C%20%22vd%22%3A%201%2C%20%22expires%22%3A%201585215385557%7D; __51cke__=; __51laig__=1; UM_distinctid=1711617b912292-0dcdcb016bd7c9-612a7221-75300-1711617b9170; CNZZDATA2435580=cnzz_eid%3D1623392704-1585212856-%26ntime%3D1585212856"
+[1:1:0326/020625.720859:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "abort", 0
+[1:1:0326/020625.721120:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "abort" with permission 0
+[1:1:0326/020625.721301:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020625.721439:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020625.721596:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020625.721730:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020625.725972:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[14736:14736:0326/020625.726078:INFO:CONSOLE(17)] "A parser-blocking, cross site (i.e. different eTLD+1) script, http://c.cnzz.com/core.php?web_id=2435580&t=z, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://s6.cnzz.com/stat.php?id=2435580&web_id=2435580 (17)
+[1:1:0326/020625.729726:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020625.739527:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020625.739759:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[14736:14736:0326/020625.753066:INFO:CONSOLE(17)] "A parser-blocking, cross site (i.e. different eTLD+1) script, http://c.cnzz.com/core.php?web_id=2435580&t=z, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://s6.cnzz.com/stat.php?id=2435580&web_id=2435580 (17)
+[1:1:0326/020625.761131:INFO:html_tree_builder.cc(780)] >>> [renderer][DOM] receive <iframe>
+[14736:14736:0326/020625.774580:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[14736:14736:0326/020625.789875:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: iframeu1780255_0, 5, 4, 
+[1:1:0326/020625.791128:INFO:render_frame_impl.cc(7031)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0326/020625.791368:INFO:render_frame_impl.cc(7032)] 	 [url] = http://114.haoyer.com
+[1:1:0326/020625.796272:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/020625.796565:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/020625.796983:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "blur", 0
+[1:1:0326/020625.797185:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "blur" with permission 0
+[1:1:0326/020625.798708:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "beforeunload", 0
+[1:1:0326/020625.798995:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "beforeunload" with permission 0
+[14736:14736:0326/020625.809552:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 5:3_http://114.haoyer.com/
+[1:1:0326/020625.817333:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020625.817657:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020626.051313:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020626.053467:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020626.137749:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020626.144435:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020626.146876:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020626.147168:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[14736:14736:0326/020626.231354:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[14736:14736:0326/020626.250832:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[14736:14748:0326/020626.258590:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 5
+[14736:14748:0326/020626.258672:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 5, HandleIncomingMessage, HandleIncomingMessage
+[14736:14736:0326/020626.284273:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation https://pos.baidu.com/
+[14736:14736:0326/020626.291998:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:5_https://pos.baidu.com/, https://pos.baidu.com/lcfm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213584&qn=1a362ba2f83af4e3&tt=1585213583886.236.1859.1868, 4
+[1:7:0326/020626.357301:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/020626.773658:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020626.773937:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020626.830224:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/020626.929904:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020626.944722:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/020627.292590:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020627.295690:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020627.311836:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020627.316097:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020627.319467:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020627.320083:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020627.344116:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020627.346110:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020627.352913:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020627.354521:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020627.361320:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020627.361599:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020627.395511:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020627.396101:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020627.399003:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020627.399409:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020627.400658:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020627.400895:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020627.404849:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020627.405648:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020627.406746:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020627.409090:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020627.410601:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020627.410960:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020627.413272:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020627.424800:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020627.443749:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020627.450952:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020627.458326:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020627.466019:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020627.474325:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020627.474868:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020627.476348:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020627.476851:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020627.483499:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020627.490921:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020627.499551:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/020627.501333:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/020627.502612:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/020627.502947:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/020627.503792:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/020627.504143:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/020627.506149:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/020627.506643:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/020627.508377:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "blur", 0
+[1:1:0326/020627.508891:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "blur" with permission 0
+[1:1:0326/020627.510370:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "blur", 0
+[1:1:0326/020627.510765:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "blur" with permission 0
+[1:1:0326/020627.522658:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "blur", 0
+[1:1:0326/020627.522941:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "blur" with permission 0
+[1:1:0326/020627.523776:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "blur", 0
+[1:1:0326/020627.524088:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "blur" with permission 0
+[1:1:0326/020627.527575:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020627.530418:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020627.535284:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020627.540553:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020627.570569:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020627.574446:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020627.589545:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "scroll", 0
+[1:1:0326/020627.591096:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "scroll" with permission 0
+[1:1:0326/020627.594194:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "resize", 0
+[1:1:0326/020627.594452:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "resize" with permission 0
+[1:1:0326/020627.709201:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020627.717861:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020627.745304:INFO:html_tree_builder.cc(780)] >>> [renderer][DOM] receive <iframe>
+[14736:14736:0326/020627.758534:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[14736:14736:0326/020627.776089:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: iframeu1780261_0, 6, 5, 
+[1:1:0326/020627.807424:INFO:render_frame_impl.cc(7031)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0326/020627.807670:INFO:render_frame_impl.cc(7032)] 	 [url] = http://114.haoyer.com
+[14736:14736:0326/020627.819060:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 5:3_http://114.haoyer.com/
+[1:1:0326/020627.838118:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020627.846499:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020627.880100:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020627.883895:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020627.919792:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020627.920111:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020627.925283:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020627.925534:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020627.958683:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:5_https://pos.baidu.com/
+[14736:14736:0326/020628.056071:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[14736:14736:0326/020628.061709:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[14736:14748:0326/020628.074291:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 6
+[14736:14748:0326/020628.074378:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 6, HandleIncomingMessage, HandleIncomingMessage
+[14736:14736:0326/020628.082865:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation https://pos.baidu.com/
+[14736:14736:0326/020628.082973:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:6_https://pos.baidu.com/, https://pos.baidu.com/lcfm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780261&dri=0&dis=0&dai=2&ps=523x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x464&pss=1000x523&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=464&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213585&qn=dd35a68b646a580e&tt=1585213584673.170.3046.3055, 5
+[1:7:0326/020628.084910:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/020628.185787:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/020628.186732:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020628.190723:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[14736:14736:0326/020628.271185:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:5_https://pos.baidu.com/, https://pos.baidu.com/, 4
+[14736:14736:0326/020628.271287:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 4, 5, https://pos.baidu.com/, https://pos.baidu.com
+[1:1:0326/020628.307378:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020628.307794:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020628.317771:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:6_https://pos.baidu.com/
+[1:1:0326/020628.366523:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020628.378400:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020628.460209:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020628.460464:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020628.509929:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020628.510270:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[14736:14736:0326/020628.600712:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:6_https://pos.baidu.com/, https://pos.baidu.com/, 5
+[14736:14736:0326/020628.600834:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 5, 6, https://pos.baidu.com/, https://pos.baidu.com
+[1:1:0326/020628.615880:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:5_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020628.620332:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:5_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020628.640402:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020628.640616:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020628.717148:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020628.717394:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020628.722737:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:6_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020628.730503:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:6_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020628.784380:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020628.784763:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020628.800979:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020628.801254:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020628.843426:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020628.843681:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020628.849791:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:5_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020628.873343:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:6_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020628.877743:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020628.877948:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020628.903302:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:5_https://pos.baidu.com/, 2bbde6c992d0, , , 
+[1:1:0326/020628.903714:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/lcfm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213584&qn=1a362ba2f83af4e3&tt=1585213583886.236.1859.1868", "pos.baidu.com", 5, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020628.908559:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c992d0, 2bbde6c992d0, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", postMessage
+[1:1:0326/020628.909544:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c992d0, 2bbde6c992d0, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", postMessage
+[1:1:0326/020628.910323:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c992d0, 2bbde6c992d0, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", 
+[1:1:0326/020628.971536:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020628.971891:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020628.972177:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020628.972375:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020628.976394:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020628.976766:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020629.007079:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020629.008091:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020629.008457:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020629.029481:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020629.178837:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020629.179105:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020629.190511:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:6_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020629.194555:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:6_https://pos.baidu.com/, 2bbde6c67b58, , , 
+[1:1:0326/020629.198773:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/lcfm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780261&dri=0&dis=0&dai=2&ps=523x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x464&pss=1000x523&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=464&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213585&qn=dd35a68b646a580e&tt=1585213584673.170.3046.3055", "pos.baidu.com", 6, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020629.205301:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c67b58, 2bbde6c67b58, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", postMessage
+[1:1:0326/020629.205736:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c67b58, 2bbde6c67b58, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", postMessage
+[1:1:0326/020629.206047:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c67b58, 2bbde6c67b58, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", 
+[1:1:0326/020629.273257:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020629.274567:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020629.275513:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020629.276472:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020629.283513:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020629.285788:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020629.317849:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020629.318657:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020629.358384:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020629.359033:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020629.359389:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020629.366054:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020629.378074:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020629.378585:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020629.433729:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020629.434656:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020629.468380:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020629.470503:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:5_https://pos.baidu.com/, 
+[1:1:0326/020629.476479:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:5_https://pos.baidu.com/, 2bbde6c992d0, , , 
+[1:1:0326/020629.476711:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/lcfm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213584&qn=1a362ba2f83af4e3&tt=1585213583886.236.1859.1868", "pos.baidu.com", 5, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020629.542122:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020629.545304:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020629.556858:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020629.557732:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020629.559000:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c992d0, 2bbde6c992d0, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", postMessage
+[1:1:0326/020629.559672:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c992d0, 2bbde6c992d0, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", postMessage
+[1:1:0326/020629.560248:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c992d0, 2bbde6c992d0, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", 
+[1:1:0326/020629.562510:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "message", 0
+[1:1:0326/020629.564281:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "message" with permission 0
+[1:1:0326/020629.587272:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020629.587687:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_http://114.haoyer.com/, 5:5_https://pos.baidu.com/
+[1:1:0326/020629.588203:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 2, -5:5_https://pos.baidu.com/-5:3_http://114.haoyer.com/, 2bbde6b62860, 5:5_https://pos.baidu.com/, , 
+[1:1:0326/020629.588570:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 2, , , 0
+[1:1:0326/020629.589524:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213584&qn=1a362ba2f83af4e3&tt=1585213583886.236.1859.1868", postMessage
+[1:1:0326/020629.590523:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213584&qn=1a362ba2f83af4e3&tt=1585213583886.236.1859.1868", postMessage
+[1:1:0326/020629.592859:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213584&qn=1a362ba2f83af4e3&tt=1585213583886.236.1859.1868", 
+[1:1:0326/020629.596989:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020629.598573:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_http://114.haoyer.com/, 5:3_http://114.haoyer.com/
+[1:1:0326/020629.599784:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213584&qn=1a362ba2f83af4e3&tt=1585213583886.236.1859.1868", postMessage
+[1:1:0326/020629.606334:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213584&qn=1a362ba2f83af4e3&tt=1585213583886.236.1859.1868", postMessage
+[1:1:0326/020629.607384:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213584&qn=1a362ba2f83af4e3&tt=1585213583886.236.1859.1868", 
+[1:1:0326/020629.609395:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213584&qn=1a362ba2f83af4e3&tt=1585213583886.236.1859.1868", postMessage
+[1:1:0326/020629.611460:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213584&qn=1a362ba2f83af4e3&tt=1585213583886.236.1859.1868", postMessage
+[1:1:0326/020629.612810:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213584&qn=1a362ba2f83af4e3&tt=1585213583886.236.1859.1868", 
+[1:1:0326/020629.633757:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020629.634377:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020629.676112:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020629.678271:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:5_https://pos.baidu.com/, 2bbde6c992d0, , , 
+[1:1:0326/020629.678742:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/lcfm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213584&qn=1a362ba2f83af4e3&tt=1585213583886.236.1859.1868", "pos.baidu.com", 5, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020629.689795:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020629.690522:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:5_https://pos.baidu.com/, 2bbde6c992d0, , , 
+[1:1:0326/020629.690911:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/lcfm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213584&qn=1a362ba2f83af4e3&tt=1585213583886.236.1859.1868", "pos.baidu.com", 5, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020629.693174:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c992d0, 2bbde6c992d0, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", postMessage
+[1:1:0326/020629.694359:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c992d0, 2bbde6c992d0, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", postMessage
+[1:1:0326/020629.695160:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c992d0, 2bbde6c992d0, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", 
+[1:1:0326/020629.705359:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020629.705810:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020629.711724:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020629.712481:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:6_https://pos.baidu.com/, 
+[1:1:0326/020629.716413:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:6_https://pos.baidu.com/, 2bbde6c67b58, , , 
+[1:1:0326/020629.717274:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/lcfm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780261&dri=0&dis=0&dai=2&ps=523x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x464&pss=1000x523&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=464&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213585&qn=dd35a68b646a580e&tt=1585213584673.170.3046.3055", "pos.baidu.com", 6, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020629.843477:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020629.843978:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020629.844610:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020629.845012:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020629.845610:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c67b58, 2bbde6c67b58, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", postMessage
+[1:1:0326/020629.846125:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c67b58, 2bbde6c67b58, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", postMessage
+[1:1:0326/020629.846596:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c67b58, 2bbde6c67b58, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", 
+[1:1:0326/020629.847412:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "message", 0
+[1:1:0326/020629.847843:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "message" with permission 0
+[1:1:0326/020629.850411:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020629.850776:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_http://114.haoyer.com/, 5:6_https://pos.baidu.com/
+[1:1:0326/020629.855999:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 2, -5:6_https://pos.baidu.com/-5:3_http://114.haoyer.com/, 2bbde6b62860, 5:6_https://pos.baidu.com/, , 
+[1:1:0326/020629.857142:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 2, , , 0
+[1:1:0326/020629.857949:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780261&dri=0&dis=0&dai=2&ps=523x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x464&pss=1000x523&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=464&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213585&qn=dd35a68b646a580e&tt=1585213584673.170.3046.3055", postMessage
+[1:1:0326/020629.859374:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780261&dri=0&dis=0&dai=2&ps=523x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x464&pss=1000x523&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=464&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213585&qn=dd35a68b646a580e&tt=1585213584673.170.3046.3055", postMessage
+[1:1:0326/020629.861584:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780261&dri=0&dis=0&dai=2&ps=523x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x464&pss=1000x523&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=464&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213585&qn=dd35a68b646a580e&tt=1585213584673.170.3046.3055", 
+[1:1:0326/020629.863816:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020629.864577:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_http://114.haoyer.com/, 5:3_http://114.haoyer.com/
+[1:1:0326/020629.871290:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780261&dri=0&dis=0&dai=2&ps=523x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x464&pss=1000x523&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=464&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213585&qn=dd35a68b646a580e&tt=1585213584673.170.3046.3055", postMessage
+[1:1:0326/020629.873742:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780261&dri=0&dis=0&dai=2&ps=523x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x464&pss=1000x523&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=464&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213585&qn=dd35a68b646a580e&tt=1585213584673.170.3046.3055", postMessage
+[1:1:0326/020629.874885:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780261&dri=0&dis=0&dai=2&ps=523x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x464&pss=1000x523&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=464&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213585&qn=dd35a68b646a580e&tt=1585213584673.170.3046.3055", 
+[1:1:0326/020629.876174:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780261&dri=0&dis=0&dai=2&ps=523x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x464&pss=1000x523&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=464&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213585&qn=dd35a68b646a580e&tt=1585213584673.170.3046.3055", postMessage
+[1:1:0326/020629.877547:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780261&dri=0&dis=0&dai=2&ps=523x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x464&pss=1000x523&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=464&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213585&qn=dd35a68b646a580e&tt=1585213584673.170.3046.3055", postMessage
+[1:1:0326/020629.879467:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6b62860, 2bbde6b62860, "http://114.haoyer.com", "https://pos.baidu.com/lcfm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780261&dri=0&dis=0&dai=2&ps=523x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x464&pss=1000x523&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=464&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213585&qn=dd35a68b646a580e&tt=1585213584673.170.3046.3055", 
+[1:1:0326/020629.895626:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020629.895882:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_http://114.haoyer.com/, 5:3_http://114.haoyer.com/
+[1:1:0326/020629.896942:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020629.898880:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_http://114.haoyer.com/, 5:3_http://114.haoyer.com/
+[14736:14736:0326/020629.904771:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[14736:14736:0326/020629.908010:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: , 7, 6, 
+[1:1:0326/020629.970368:INFO:render_frame_impl.cc(7031)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0326/020629.975171:INFO:render_frame_impl.cc(7032)] 	 [url] = http://114.haoyer.com
+[14736:14736:0326/020629.982922:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 5:3_http://114.haoyer.com/
+[1:1:0326/020629.980580:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020629.984197:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_http://114.haoyer.com/, 5:3_http://114.haoyer.com/
+[1:1:0326/020629.991260:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[14736:14736:0326/020630.005915:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[1:1:0326/020630.004530:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_http://114.haoyer.com/, 5:3_http://114.haoyer.com/
+[14736:14736:0326/020630.012344:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[14736:14736:0326/020630.017582:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation https://pos.baidu.com/
+[14736:14736:0326/020630.017708:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:7_https://pos.baidu.com/, https://pos.baidu.com/wh/o.htm?ltr=, 6
+[14736:14748:0326/020630.019406:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 7
+[14736:14748:0326/020630.019528:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 7, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0326/020630.024822:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/020630.028095:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020630.031552:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020630.033296:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020630.041075:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020630.045442:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020630.046064:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020630.074258:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020630.080562:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:6_https://pos.baidu.com/, 2bbde6c67b58, , , 
+[1:1:0326/020630.086885:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/lcfm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780261&dri=0&dis=0&dai=2&ps=523x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x464&pss=1000x523&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=464&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213585&qn=dd35a68b646a580e&tt=1585213584673.170.3046.3055", "pos.baidu.com", 6, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020630.092845:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020630.093518:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:6_https://pos.baidu.com/, 2bbde6c67b58, , , 
+[1:1:0326/020630.094555:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/lcfm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780261&dri=0&dis=0&dai=2&ps=523x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x464&pss=1000x523&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=464&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213585&qn=dd35a68b646a580e&tt=1585213584673.170.3046.3055", "pos.baidu.com", 6, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020630.096389:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c67b58, 2bbde6c67b58, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", postMessage
+[1:1:0326/020630.097642:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c67b58, 2bbde6c67b58, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", postMessage
+[1:1:0326/020630.098419:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2bbde6c67b58, 2bbde6c67b58, "https://pos.baidu.com", "http://114.haoyer.com/html/daxue/", 
+[1:1:0326/020630.110106:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020630.111793:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020630.136824:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:7_https://pos.baidu.com/
+[1:1:0326/020630.156434:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020630.156864:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020630.157036:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020630.158778:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[14736:14736:0326/020630.173443:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:7_https://pos.baidu.com/, https://pos.baidu.com/, 6
+[14736:14736:0326/020630.173515:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 6, 7, https://pos.baidu.com/, https://pos.baidu.com
+[1:1:0326/020630.180667:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:7_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020630.183153:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:7_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020630.298848:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020630.299105:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020630.395493:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:7_https://pos.baidu.com/, 2bbde6c56d00, , , 
+[1:1:0326/020630.395764:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/wh/o.htm?ltr=", "pos.baidu.com", 7, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020630.417443:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020630.417766:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020630.440268:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020630.440551:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://pos.baidu.com/wh/o.htm?ltr="
+[1:1:0326/020630.445252:INFO:cookie_jar.cc(74)] 		 get cookie "BAIDUID=687DC57E37B6C60DF20BE62B0D4937EB:FG=1"
+[1:1:0326/020630.452947:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020630.453184:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://pos.baidu.com/wh/o.htm?ltr="
+[1:1:0326/020630.454900:INFO:cookie_jar.cc(74)] 		 get cookie "BAIDUID=687DC57E37B6C60DF20BE62B0D4937EB:FG=1"
+[1:1:0326/020630.474126:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020630.474383:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:7_https://pos.baidu.com/, 5:7_https://pos.baidu.com/
+[1:1:0326/020630.512575:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:7_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020630.715554:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:7_https://pos.baidu.com/, 2bbde6c56d00, , , 
+[1:1:0326/020630.715811:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/wh/o.htm?ltr=", "pos.baidu.com", 7, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020630.799425:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020630.799724:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020630.967745:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:7_https://pos.baidu.com/, 2bbde6c56d00, , , 
+[1:1:0326/020630.968111:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/wh/o.htm?ltr=", "pos.baidu.com", 7, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020630.974469:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:5_https://pos.baidu.com/, 2bbde6c992d0, , , 
+[1:1:0326/020630.974807:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/lcfm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=e2ae0210b861444133e06de301f2302a&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213584041&ti=%E5%A4%A7%E5%AD%A6&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fdaxue%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213584&qn=1a362ba2f83af4e3&tt=1585213583886.236.1859.1868", "pos.baidu.com", 5, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020631.221421:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:7_https://pos.baidu.com/, 2bbde6c56d00, , , 
+[1:1:0326/020631.221828:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/wh/o.htm?ltr=", "pos.baidu.com", 7, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020631.301394:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020631.302000:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020631.475587:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:7_https://pos.baidu.com/, 2bbde6c56d00, , , 
+[1:1:0326/020631.475938:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/wh/o.htm?ltr=", "pos.baidu.com", 7, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020631.730052:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:7_https://pos.baidu.com/, 2bbde6c56d00, , , 
+[1:1:0326/020631.730759:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/wh/o.htm?ltr=", "pos.baidu.com", 7, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020631.799911:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2bbde6b62860, , , 
+[1:1:0326/020631.800226:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/daxue/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020631.984248:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:7_https://pos.baidu.com/, 2bbde6c56d00, , , 
+[1:1:0326/020631.984830:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/wh/o.htm?ltr=", "pos.baidu.com", 7, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0100/000000.107674:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:6_https://pos.baidu.com/, 2bbde6c67b58, , , 

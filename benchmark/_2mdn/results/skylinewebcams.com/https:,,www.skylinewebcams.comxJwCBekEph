@@ -1,0 +1,25 @@
+[1:1:0326/020536.721829:INFO:content_main_runner.cc(320)] >>> [Setup] RunZyote
+[1:1:0326/020536.723070:INFO:zygote_main_linux.cc(351)] >>> [Setup] tmpfile success. fd is 315
+[3:3:0326/020536.757372:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 3
+[14547:14547:0326/020538.264679:INFO:extension_system_impl.cc(379)] >>> [browser][EXT] ExtensionSystemImpl::InitForRegularProfile
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/5eacfac3-cbd3-475a-a8b2-41809cf36594
+[14547:14547:0326/020539.333951:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 4
+[14547:14588:0326/020539.336140:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 4
+[3:3:0326/020539.336405:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0326/020539.336730:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0326/020539.339057:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0326/020539.339291:INFO:zygote_linux.cc(614)] 		cid is 4
+[1:1:0326/020539.346871:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0x380d5731, 1
+[1:1:0326/020539.348538:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0x21a15fd9, 0
+[1:1:0326/020539.362119:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0x5a0b8f0, 3
+[1:1:0326/020539.364842:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0x198d4962, 2
+[1:1:0326/020539.371876:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = ffffffd95fffffffa121 31570d38 6249ffffff8d19 fffffff0ffffffb8ffffffa005 , 6552, 4
+[14547:14588:0326/020539.372632:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PINGÙ_¡!1W8bIð¸ ­r¸
+[14547:14588:0326/020539.372773:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is Ù_¡!1W8bIð¸ (Ä­r¸
+[14547:14588:0326/020539.373394:INFO:switcher_host_impl.cc(16)] >>> [INIT] create a SwitcherSiteQueue
+[14547:14588:0326/020539.373510:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 14604, 4, d95fa121 31570d38 62498d19 f0b8a005 
+[1:1:0326/020539.431653:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0326/020539.447001:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.

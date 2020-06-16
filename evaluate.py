@@ -70,6 +70,8 @@ if __name__ == '__main__':
     # -t DOMAIN
     parser.add_argument('--test-parse-log', '-t', type=str, const="yahoo.com", nargs="?", metavar="DOMAIN",
                         help="Test the parser for Chrome's logs.")
+    parser.add_argument('--test-2mdn', type=str, choices=['run', 'parse'],
+                        help="Run | Parse the2mdn")
 
 
     '''
@@ -81,6 +83,8 @@ if __name__ == '__main__':
                         help="Parse the macro-benchmark results")
     parser.add_argument('--third-benchmark', type=str, choices=['run', 'parse'],
                         help="Run | Parse the third-benchmark to test the performance")
+    parser.add_argument('--async-benchmark', type=str, choices=['run', 'parse'],
+                        help="Run | Parse the async-benchmark to test the performance")
 
 
     args = parser.parse_args()
@@ -215,6 +219,16 @@ if __name__ == '__main__':
 
         test(args.test_parse_log)
 
+    elif args.test_2mdn:
+        if args.test_2mdn == "run":
+            from benchmark._2mdn.catchUrl import run
+
+            run()
+        elif args.test_2mdn == "parse":
+            from benchmark._2mdn.parseData import parse
+
+            parse()
+
     ####################################################
     #	Benchmark
     ####################################################
@@ -252,6 +266,17 @@ if __name__ == '__main__':
         elif args.third_benchmark == "parse":
             # --micro-benchmark parse
             from benchmark.thirdScripts.top10.parseResult import run
+
+            run()
+    elif args.async_benchmark:
+        if args.async_benchmark == "run":
+            # --micro-benchmark run
+            from benchmark.thirdScripts.async_exec.run import run
+
+            run()
+        elif args.async_benchmark == "parse":
+            # --micro-benchmark parse
+            from benchmark.thirdScripts.async_exec.parse import run
 
             run()
 

@@ -1,0 +1,371 @@
+[1:1:0326/020303.833173:INFO:content_main_runner.cc(320)] >>> [Setup] RunZyote
+[1:1:0326/020303.833660:INFO:zygote_main_linux.cc(351)] >>> [Setup] tmpfile success. fd is 315
+[3:3:0326/020303.841941:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 3
+[13863:13863:0326/020305.086874:INFO:extension_system_impl.cc(379)] >>> [browser][EXT] ExtensionSystemImpl::InitForRegularProfile
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/22e1c1f2-1c25-4f6c-91d7-20984cbf697d
+[13863:13863:0326/020305.962234:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 4
+[13863:13899:0326/020305.962868:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 4
+[3:3:0326/020305.963053:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0326/020305.963315:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0326/020305.963863:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0326/020305.964001:INFO:zygote_linux.cc(614)] 		cid is 4
+[1:1:0326/020305.975006:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0xf5e160b, 1
+[1:1:0326/020305.976642:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0x29d0bffe, 0
+[1:1:0326/020305.976845:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0x18fe64fc, 3
+[1:1:0326/020305.976993:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0x739a285, 2
+[1:1:0326/020305.977095:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = fffffffeffffffbfffffffd029 0b165e0f ffffff85ffffffa23907 fffffffc64fffffffe18 , 6552, 4
+[13863:13899:0326/020305.977296:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PINGþ¿Ð)^…¢9üdþÿ,|3
+[13863:13899:0326/020305.977357:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is þ¿Ð)^…¢9üdþh9ÿ,|3
+[13863:13899:0326/020305.977602:INFO:switcher_host_impl.cc(16)] >>> [INIT] create a SwitcherSiteQueue
+[13863:13899:0326/020305.977640:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 13915, 4, febfd029 0b165e0f 85a23907 fc64fe18 
+[1:1:0326/020306.066443:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0326/020306.077409:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[13863:13892:0326/020307.035834:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[13863:13863:0326/020307.104552:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[13863:13863:0326/020307.110798:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[13863:13880:0326/020307.142654:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 4, 1
+[13863:13880:0326/020307.142732:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 4, 1, HandleIncomingMessage, HandleIncomingMessage
+[13863:13863:0326/020307.142785:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation chrome-search://local-ntp/
+[13863:13863:0326/020307.142842:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:1_chrome-search://local-ntp/, chrome-search://local-ntp/local-ntp.html, 1
+[1:7:0326/020307.145004:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/020307.369076:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 4:1_chrome-search://local-ntp/
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[13863:13863:0326/020308.451645:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:1_chrome-search://local-ntp/, chrome-search://local-ntp/, 1
+[13863:13863:0326/020308.451819:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 1, 1, chrome-search://local-ntp/, chrome-search://local-ntp
+[1:1:0326/020308.833553:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020308.835899:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020308.841259:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020308.844219:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020308.850119:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[13863:13863:0326/020309.006492:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 5
+[13863:13899:0326/020309.007384:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 5
+[3:3:0326/020309.007635:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0326/020309.007903:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0326/020309.008224:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0326/020309.008388:INFO:zygote_linux.cc(614)] 		cid is 5
+[1:1:0326/020309.019477:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0x12c00d8c, 1
+[1:1:0326/020309.023441:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0x3eb132a, 0
+[1:1:0326/020309.023651:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0xe59bce, 3
+[1:1:0326/020309.023794:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0x315eb8fc, 2
+[1:1:0326/020309.025241:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = 2a13ffffffeb03 ffffff8c0dffffffc012 fffffffcffffffb85e31 ffffffceffffff9bffffffe500 , 6552, 5
+[13863:13899:0326/020309.033718:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PING*ëŒÀü¸^1Î›å
+[13863:13899:0326/020309.038972:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is *ëŒÀü¸^1Î›å
+[13863:13899:0326/020309.042244:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 13966, 5, 2a13eb03 8c0dc012 fcb85e31 ce9be500 
+[1:1:0326/020309.071826:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/020309.074628:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/020309.122650:INFO:html_tree_builder.cc(780)] >>> [renderer][DOM] receive <iframe>
+[1:1:0326/020309.154136:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0326/020309.158104:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[13863:13863:0326/020309.188257:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[13863:13863:0326/020309.270567:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: , 3, 2, 
+[1:1:0326/020309.383989:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/020309.399308:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020309.399948:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020309.403107:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[13863:13863:0326/020309.436481:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:3_chrome-search://local-ntp/, chrome-search://local-ntp/, 2
+[13863:13863:0326/020309.436628:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 2, 3, chrome-search://local-ntp/, chrome-search://local-ntp
+[1:1:0326/020309.603123:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020309.606354:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:1_chrome-search://local-ntp/, 
+[1:1:0326/020309.631410:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "transitionend", 0
+[1:1:0326/020309.634522:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "transitionend" with permission 0
+[1:1:0326/020309.636767:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020309.638262:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020309.639723:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020309.646758:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020309.650904:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020309.651891:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020309.652848:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020309.655360:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020309.656410:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020309.656878:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020309.658216:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020309.662498:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020309.666033:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020309.666837:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020309.740536:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020309.742362:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020309.743118:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020309.743648:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020309.744749:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020309.745232:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020309.763190:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "audiostart", 0
+[1:1:0326/020309.764226:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "audiostart" with permission 0
+[1:1:0326/020309.764965:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "end", 0
+[1:1:0326/020309.766509:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "end" with permission 0
+[1:1:0326/020309.771538:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020309.772435:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020309.773082:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "nomatch", 0
+[1:1:0326/020309.773476:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "nomatch" with permission 0
+[1:1:0326/020309.773941:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "result", 0
+[1:1:0326/020309.774561:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "result" with permission 0
+[1:1:0326/020309.775186:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "speechstart", 0
+[1:1:0326/020309.777314:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "speechstart" with permission 0
+[1:1:0326/020309.783240:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/020309.783932:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/020309.789016:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "paste", 0
+[1:1:0326/020309.789463:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "paste" with permission 0
+[1:1:0326/020309.790211:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "drop", 0
+[1:1:0326/020309.790798:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "drop" with permission 0
+[1:1:0326/020309.791697:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "dragenter", 0
+[1:1:0326/020309.792411:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "dragenter" with permission 0
+[1:1:0326/020309.793163:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "dragleave", 0
+[1:1:0326/020309.793575:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "dragleave" with permission 0
+[1:1:0326/020309.795740:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020309.796276:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020309.796964:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020309.797344:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020309.800148:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020309.806266:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020309.806922:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[13863:13863:0326/020309.974072:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[13863:13863:0326/020309.986730:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: mv-single, 4, 3, 
+[1:1:0326/020309.971978:INFO:render_frame_impl.cc(7031)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0326/020309.990388:INFO:render_frame_impl.cc(7032)] 	 [url] = chrome-search://local-ntp
+[1:1:0326/020309.992428:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020309.995023:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020309.997649:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "message", 0
+[1:1:0326/020309.998381:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "message" with permission 0
+[13863:13863:0326/020310.055112:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 4:1_chrome-search://local-ntp/
+[13863:13863:0326/020310.206252:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[13863:13863:0326/020310.207623:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[13863:13880:0326/020310.209978:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 4, 4
+[13863:13880:0326/020310.210110:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 4, 4, HandleIncomingMessage, HandleIncomingMessage
+[13863:13863:0326/020310.214774:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation chrome-search://most-visited/
+[13863:13863:0326/020310.214899:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:4_chrome-search://most-visited/, chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page, 3
+[1:7:0326/020310.223159:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/020310.508579:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 4:4_chrome-search://most-visited/
+[1:1:0326/020310.524945:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020310.526560:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:1_chrome-search://local-ntp/, 
+[1:1:0326/020310.534611:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020310.535318:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020310.535943:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020310.536429:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020310.538539:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[13863:13863:0326/020310.642855:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:4_chrome-search://most-visited/, chrome-search://most-visited/, 3
+[13863:13863:0326/020310.642957:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 3, 4, chrome-search://most-visited/, chrome-search://most-visited
+[1:1:0326/020310.744489:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:4_chrome-search://most-visited/@0, task's permission is 0
+[1:1:0326/020310.747582:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:4_chrome-search://most-visited/@0, task's permission is 0
+[1:1:0326/020310.833667:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/020310.834634:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/020310.856427:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/020310.863907:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "message", 0
+[1:1:0326/020310.867515:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "message" with permission 0
+[1:1:0326/020310.885773:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020310.886467:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:1_chrome-search://local-ntp/, 
+[1:1:0326/020310.904193:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020310.928758:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020310.929054:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020310.929275:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020310.929444:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020310.931294:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020310.931613:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020310.932035:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020310.932404:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020310.932848:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020310.933082:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020310.936872:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020310.938646:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020310.939008:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020310.939201:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020310.940021:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020310.940257:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020310.940480:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020310.940665:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020310.942909:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020310.950594:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020310.952405:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020310.955319:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020310.956469:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020310.956973:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020310.957436:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020310.957821:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020310.958325:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020310.958694:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020310.959852:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020310.960384:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020310.960999:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020310.961632:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020310.963020:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020310.963644:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020310.965391:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020310.966131:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020310.967759:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020310.970720:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020310.971081:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020310.971299:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020310.971928:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020310.972197:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020310.972420:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020310.972609:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020310.973519:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020310.973731:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020310.975389:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020310.975634:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020310.975934:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020310.984325:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020310.984867:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020310.985163:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020310.985550:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020310.985861:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020310.986946:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020310.987213:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020310.987402:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020310.987536:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020310.987942:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020310.988112:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020310.988262:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020310.988394:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020310.988546:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020310.988674:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020310.989270:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020310.989482:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020310.989668:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020310.989806:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020310.990064:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020310.990247:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020310.990420:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020310.990558:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020310.991517:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020310.992026:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020310.992457:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020310.992796:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020310.993536:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020310.993830:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020310.994128:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020310.994513:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020310.994909:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020310.995173:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020311.001195:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020311.005898:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020311.006438:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020311.006996:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020311.009936:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020311.010270:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020311.012310:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020311.013771:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020311.015785:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020311.016249:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020311.016676:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020311.020386:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020311.021415:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020311.021884:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020311.022721:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020311.023128:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020311.023621:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020311.023999:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020311.024937:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020311.025403:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020311.025859:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020311.026314:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020311.027429:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020311.028578:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020311.031594:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020311.035202:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020311.036251:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020311.037181:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020311.037491:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020311.037667:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020311.038144:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020311.039665:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020311.039887:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020311.040032:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020311.040226:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020311.040371:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020311.041010:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020311.042815:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020311.043333:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020311.043678:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020311.044592:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020311.045762:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020311.054959:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020311.057646:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020311.060400:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020311.061827:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020311.068234:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020311.069847:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020311.073748:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020311.075910:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020311.076663:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020311.077489:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020311.078436:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020311.078988:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020311.081302:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020311.082026:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020311.087715:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020311.097512:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020311.101235:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020311.105886:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020311.111713:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020311.117538:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020311.133895:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020311.141105:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020311.145324:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020311.150395:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020311.155482:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020311.173495:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020311.194595:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020311.198043:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020311.201228:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020311.207046:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020311.211462:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020311.214447:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020311.221672:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020311.227281:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020311.231442:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020311.233445:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020311.242374:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020311.264000:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.amazon.com/s?rh=n%3A7141123011%2Cp_4%3Asurviv.io&ref=w_bl_sl_s_ap_web_7141123011ref=footer_logo"
+[1:1:0326/020311.323647:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020311.324056:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:4_chrome-search://most-visited/, 
+[1:1:0326/020311.326486:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/020311.345239:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.chinaz.com/start/"
+[1:1:0326/020311.352149:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020311.356229:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:4_chrome-search://most-visited/, 
+[1:1:0326/020311.362498:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.chinaz.com/web/2019/0327/1004466.shtml"
+[1:1:0326/020311.378044:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.chinaz.com/mobile/2019/0730/1035510.shtml"
+[1:1:0326/020311.423002:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/http://surviv.io/stats/?type=most_kills&team=squad&t=weekly&mapId=3stats"
+[1:1:0326/020311.444726:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.chinaz.com/visit/2017/1205/834640.shtml"
+[1:1:0326/020311.462250:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/http://down.chinaz.com/class/4_1.htm"
+[1:1:0326/020311.473539:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.chinaz.com/"
+[1:1:0326/020311.494755:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/020311.514831:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/020311.517495:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020311.517817:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:4_chrome-search://most-visited/, 
+[1:1:0326/020311.522298:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/020311.525809:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020311.526342:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:4_chrome-search://most-visited/, 
+[1:1:0326/020311.529873:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/020311.541292:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020311.542383:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:4_chrome-search://most-visited/, 
+[1:1:0326/020311.544870:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/020311.559093:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/020311.570948:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/020311.607646:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020311.614759:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:4_chrome-search://most-visited/, 
+[1:1:0326/020311.638625:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020311.645534:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:4_chrome-search://most-visited/, 
+[1:1:0326/020311.656107:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020311.656907:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:4_chrome-search://most-visited/, 
+[13863:13863:0326/020311.669812:ERROR:CONSOLE(143)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.skylinewebcams.com') does not match the recipient window's origin ('chrome-search://local-ntp').", source: chrome-search://most-visited/single.js (143)
+[13863:13863:0326/020312.356948:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[13863:13863:0326/020312.361319:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[13863:13863:0326/020312.378462:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation https://www.skylinewebcams.com/
+[13863:13880:0326/020312.379173:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 3
+[13863:13863:0326/020312.379304:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:3_https://www.skylinewebcams.com/, https://www.skylinewebcams.com/, 1
+[13863:13880:0326/020312.380451:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 3, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0326/020312.387442:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/020312.397376:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:3_https://www.skylinewebcams.com/
+[1:1:0326/020312.410219:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: the server responded with a status of 502 (Bad Gateway)","https://www.skylinewebcams.com/"
+[13863:13863:0326/020312.694754:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:3_https://www.skylinewebcams.com/, https://www.skylinewebcams.com/, 1
+[13863:13863:0326/020312.694854:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 1, 3, https://www.skylinewebcams.com/, https://www.skylinewebcams.com
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+[1:1:0326/020312.830823:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.skylinewebcams.com/, 326c9d302860, , , 
+[1:1:0326/020312.831096:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.skylinewebcams.com/", "www.skylinewebcams.com", 3, 1, , , 0
+[1:1:0326/020312.995896:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 3 TIMES
+[3:3:0326/020313.180492:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 1
+[1:1:0326/020313.304258:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.skylinewebcams.com/@0, task's permission is 0

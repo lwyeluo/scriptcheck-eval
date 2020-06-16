@@ -1,0 +1,1241 @@
+[1:1:0326/012048.676964:INFO:content_main_runner.cc(320)] >>> [Setup] RunZyote
+[1:1:0326/012048.677457:INFO:zygote_main_linux.cc(351)] >>> [Setup] tmpfile success. fd is 315
+[3:3:0326/012048.682785:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 3
+[8153:8153:0326/012049.618644:INFO:extension_system_impl.cc(379)] >>> [browser][EXT] ExtensionSystemImpl::InitForRegularProfile
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/812c8f98-e001-4dd4-be2b-0f19a0336ebb
+[8153:8153:0326/012050.482909:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 4
+[8153:8182:0326/012050.483571:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 4
+[3:3:0326/012050.483790:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0326/012050.484062:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0326/012050.484821:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0326/012050.485078:INFO:zygote_linux.cc(614)] 		cid is 4
+[1:1:0326/012050.502610:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0x791441, 1
+[1:1:0326/012050.506684:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0x17e8293a, 0
+[1:1:0326/012050.509050:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0x292c79e, 3
+[1:1:0326/012050.510335:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0xbb9783d, 2
+[1:1:0326/012050.511331:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = 3a29ffffffe817 41147900 3d78ffffffb90b ffffff9effffffc7ffffff9202 , 6552, 4
+[8153:8182:0326/012050.512357:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PING:)èAy
+[8153:8182:0326/012050.512428:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is :)èAy
+[8153:8182:0326/012050.512696:INFO:switcher_host_impl.cc(16)] >>> [INIT] create a SwitcherSiteQueue
+[8153:8182:0326/012050.512740:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 8198, 4, 3a29e817 41147900 3d78b90b 9ec79202 
+[1:1:0326/012050.683464:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0326/012050.703027:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[8153:8153:0326/012051.694744:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[8153:8153:0326/012051.728002:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[8153:8175:0326/012051.807553:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[8153:8153:0326/012051.886949:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation chrome-search://local-ntp/
+[8153:8153:0326/012051.887051:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:1_chrome-search://local-ntp/, chrome-search://local-ntp/local-ntp.html, 1
+[8153:8163:0326/012051.915232:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 4, 1
+[8153:8163:0326/012051.915364:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 4, 1, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0326/012051.916920:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[1:1:0326/012054.603897:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 4:1_chrome-search://local-ntp/
+[8153:8153:0326/012054.966062:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:1_chrome-search://local-ntp/, chrome-search://local-ntp/, 1
+[8153:8153:0326/012054.982525:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 1, 1, chrome-search://local-ntp/, chrome-search://local-ntp
+[1:1:0326/012055.722736:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012055.752545:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012055.761036:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012055.771197:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012055.820546:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[8153:8153:0326/012056.303818:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 5
+[8153:8182:0326/012056.304272:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 5
+[3:3:0326/012056.304951:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0326/012056.305277:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0326/012056.305643:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0326/012056.306241:INFO:zygote_linux.cc(614)] 		cid is 5
+[1:1:0326/012056.337207:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0xe2fdf01, 1
+[1:1:0326/012056.385076:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0x3d5b3c7a, 0
+[1:1:0326/012056.385410:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0x1466d79b, 3
+[1:1:0326/012056.385647:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0x20d4432f, 2
+[1:1:0326/012056.385840:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = 7a3c5b3d 01ffffffdf2f0e 2f43ffffffd420 ffffff9bffffffd76614 , 6552, 5
+[8153:8182:0326/012056.386469:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PINGz<[=ß//CÔ ›×fm·#7
+[8153:8182:0326/012056.386542:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is z<[=ß//CÔ ›×f8Þm·#7
+[8153:8182:0326/012056.410937:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 8247, 5, 7a3c5b3d 01df2f0e 2f43d420 9bd76614 
+[1:1:0326/012056.508616:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/012056.516168:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/012056.573289:INFO:html_tree_builder.cc(780)] >>> [renderer][DOM] receive <iframe>
+[1:1:0326/012056.620088:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0326/012056.623500:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[8153:8153:0326/012056.703727:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[8153:8153:0326/012056.708676:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: , 3, 2, 
+[1:1:0326/012056.970258:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/012057.068985:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012057.070123:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012057.094142:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[8153:8153:0326/012057.310564:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:3_chrome-search://local-ntp/, chrome-search://local-ntp/, 2
+[8153:8153:0326/012057.313862:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 2, 3, chrome-search://local-ntp/, chrome-search://local-ntp
+[1:1:0326/012057.564203:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/012057.564842:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:1_chrome-search://local-ntp/, 
+[1:1:0326/012057.596209:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "transitionend", 0
+[1:1:0326/012057.600810:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "transitionend" with permission 0
+[1:1:0326/012057.619168:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012057.619718:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012057.621523:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012057.622538:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012057.632768:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012057.640088:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012057.640694:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012057.640951:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012057.641244:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012057.641471:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012057.662688:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012057.663226:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012057.667961:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012057.734492:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012057.837391:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012057.837944:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012057.838310:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012057.838567:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012057.839371:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012057.839818:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012057.948101:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "audiostart", 0
+[1:1:0326/012057.948551:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "audiostart" with permission 0
+[1:1:0326/012057.948924:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "end", 0
+[1:1:0326/012057.949153:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "end" with permission 0
+[1:1:0326/012057.949526:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012057.950197:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012057.950633:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "nomatch", 0
+[1:1:0326/012057.950873:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "nomatch" with permission 0
+[1:1:0326/012057.951119:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "result", 0
+[1:1:0326/012057.951302:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "result" with permission 0
+[1:1:0326/012057.951513:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "speechstart", 0
+[1:1:0326/012057.951683:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "speechstart" with permission 0
+[1:1:0326/012057.952434:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/012057.952730:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/012057.954307:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "paste", 0
+[1:1:0326/012057.954619:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "paste" with permission 0
+[1:1:0326/012057.954863:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "drop", 0
+[1:1:0326/012057.955097:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "drop" with permission 0
+[1:1:0326/012057.955341:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "dragenter", 0
+[1:1:0326/012058.056402:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "dragenter" with permission 0
+[1:1:0326/012058.057181:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "dragleave", 0
+[1:1:0326/012058.057662:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "dragleave" with permission 0
+[1:1:0326/012058.064408:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012058.064876:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012058.065597:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012058.066031:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012058.072675:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012058.080961:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012058.081446:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[8153:8153:0326/012058.147861:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[1:1:0326/012058.197861:INFO:render_frame_impl.cc(7031)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0326/012058.199051:INFO:render_frame_impl.cc(7032)] 	 [url] = chrome-search://local-ntp
+[8153:8153:0326/012058.202309:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: mv-single, 4, 3, 
+[1:1:0326/012058.203391:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012058.203758:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012058.204397:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "message", 0
+[1:1:0326/012058.204961:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "message" with permission 0
+[8153:8153:0326/012058.249071:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 4:1_chrome-search://local-ntp/
+[8153:8153:0326/012058.361816:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[8153:8153:0326/012058.364317:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[8153:8153:0326/012058.376024:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation chrome-search://most-visited/
+[8153:8153:0326/012058.376198:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:4_chrome-search://most-visited/, chrome-search://most-visited/single.html?removeTooltip=Don%27t%20show%20on%20this%20page, 3
+[8153:8163:0326/012058.390527:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 4, 4
+[8153:8163:0326/012058.390609:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 4, 4, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0326/012058.391741:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/012058.907582:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 4:4_chrome-search://most-visited/
+[1:1:0326/012058.986440:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/012058.987204:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:1_chrome-search://local-ntp/, 
+[1:1:0326/012058.999943:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.001577:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.002598:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.003227:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.008476:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[8153:8153:0326/012059.239891:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:4_chrome-search://most-visited/, chrome-search://most-visited/, 3
+[8153:8153:0326/012059.240315:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 3, 4, chrome-search://most-visited/, chrome-search://most-visited
+[1:1:0326/012059.331541:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:4_chrome-search://most-visited/@0, task's permission is 0
+[1:1:0326/012059.334640:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:4_chrome-search://most-visited/@0, task's permission is 0
+[1:1:0326/012059.509980:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/012059.510615:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/012059.517871:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/012059.523813:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "message", 0
+[1:1:0326/012059.524325:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "message" with permission 0
+[1:1:0326/012059.551683:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/012059.552220:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:1_chrome-search://local-ntp/, 
+[1:1:0326/012059.599421:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/012059.622609:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012059.624723:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012059.625526:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012059.631727:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012059.638489:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.638967:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.639497:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.639967:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.640484:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.640887:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.656308:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.656839:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.657379:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.658457:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.660534:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012059.660994:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012059.661335:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012059.661547:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012059.663499:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012059.666857:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012059.668936:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012059.669397:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012059.671141:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.671783:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.672256:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.672546:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.672961:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.673332:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.676299:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.676606:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.676960:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.677272:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.678315:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012059.678707:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012059.679180:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012059.680208:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012059.683472:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012059.684296:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012059.686389:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012059.689753:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012059.692109:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.692662:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.693247:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.693652:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.694104:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.694569:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.702923:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.703490:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.703984:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.704322:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.705002:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012059.705383:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012059.705757:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012059.706051:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012059.708581:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012059.709014:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012059.709401:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012059.709754:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012059.710738:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.714589:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.716013:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.716395:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.716761:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.717067:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.718437:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.718829:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.719206:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.719551:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.720811:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012059.721059:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012059.721246:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012059.721439:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012059.723195:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012059.723637:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012059.724057:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012059.724406:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012059.725311:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.725796:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.726410:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.726812:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.727496:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.727922:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.730110:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.730655:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.731047:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.731288:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.731743:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012059.732020:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012059.732291:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012059.732545:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012059.733677:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012059.734041:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012059.734402:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012059.734671:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012059.735482:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.735904:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.736257:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.736544:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.736916:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.737177:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.738335:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.738679:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.738971:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.739154:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.739568:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012059.739799:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012059.740029:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012059.740227:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012059.741268:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012059.741585:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012059.742328:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012059.742728:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012059.744469:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.746482:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.746785:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.746975:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.750034:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.750626:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.752681:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.754498:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.758483:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.758929:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.765126:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012059.766744:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012059.772432:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012059.773666:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012059.775239:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012059.780704:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012059.781250:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012059.783451:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012059.784556:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.784855:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.785129:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.786519:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.786816:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.787792:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.789316:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012059.791767:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012059.792590:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012059.794769:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012059.795962:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012059.801545:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012059.803755:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012059.804258:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012059.813657:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012059.817059:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012059.820370:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012059.823031:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012059.826283:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012059.832090:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012059.836410:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012059.839374:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012059.842638:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012059.849624:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012059.853532:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012059.855993:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012059.858928:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012059.864065:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012059.867218:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012059.870409:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/012059.886129:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/012100.154458:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/012100.158398:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:4_chrome-search://most-visited/, 
+[1:1:0326/012100.164351:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.chinaz.com/biz/"
+[1:1:0326/012100.178850:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.chinaz.com/program/2017/0817/797127.shtml"
+[1:1:0326/012100.184434:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/012100.197551:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/012100.197874:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:4_chrome-search://most-visited/, 
+[1:1:0326/012100.201670:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/012100.206115:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.chinaz.com/"
+[1:1:0326/012100.214953:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/012100.215421:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:4_chrome-search://most-visited/, 
+[1:1:0326/012100.219976:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.chinaz.com/start/"
+[1:1:0326/012100.230662:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/012100.234822:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.chinaz.com/web/2019/0327/1004466.shtml"
+[1:1:0326/012100.239168:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/012100.239479:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:4_chrome-search://most-visited/, 
+[1:1:0326/012100.252130:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/012100.256268:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.chinaz.com/mobile/2019/0730/1035510.shtml"
+[1:1:0326/012100.262651:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/012100.264134:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:4_chrome-search://most-visited/, 
+[1:1:0326/012100.284853:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/012100.301756:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/https://www.chinaz.com/visit/2017/1205/834640.shtml"
+[1:1:0326/012100.306802:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/012100.307194:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:4_chrome-search://most-visited/, 
+[1:1:0326/012100.315548:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/012100.321489:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_FAILED","chrome-search://thumb/http://down.chinaz.com/class/4_1.htm"
+[1:1:0326/012100.325246:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/012100.325563:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:4_chrome-search://most-visited/, 
+[1:1:0326/012100.329312:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/012100.331448:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/012100.332180:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:4_chrome-search://most-visited/, 
+[1:1:0326/012100.335677:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[8153:8153:0326/012100.387417:ERROR:CONSOLE(143)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://www.insightsonindia.com') does not match the recipient window's origin ('chrome-search://local-ntp').", source: chrome-search://most-visited/single.js (143)
+[8153:8153:0326/012101.473005:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[8153:8153:0326/012101.484463:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[8153:8153:0326/012101.502257:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation https://www.insightsonindia.com/
+[8153:8153:0326/012101.502366:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:3_https://www.insightsonindia.com/, https://www.insightsonindia.com/books/, 1
+[8153:8163:0326/012101.506057:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 3
+[8153:8163:0326/012101.506222:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 3, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0326/012101.513390:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/012101.524855:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:3_https://www.insightsonindia.com/
+[8153:8153:0326/012101.670637:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:3_https://www.insightsonindia.com/, https://www.insightsonindia.com/, 1
+[8153:8153:0326/012101.670728:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 1, 3, https://www.insightsonindia.com/, https://www.insightsonindia.com
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+[1:1:0326/012101.804344:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012101.804777:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012101.880648:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012101.886849:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012101.891512:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012101.895830:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012101.901844:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012101.911081:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012101.916604:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012101.920086:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.023275:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.039255:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.041796:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.045200:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.056136:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.107778:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.117470:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.140266:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.325724:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.337307:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.340944:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.349716:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.410094:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.414892:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.479403:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.520746:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.567760:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.575331:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.589135:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012102.606955:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.749098, 5, 0
+[1:1:0326/012102.636043:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 3 TIMES
+[3:3:0326/012102.836845:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 1
+[1:1:0326/012102.890078:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012102.890516:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012103.421508:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012103.422601:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012103.449305:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012105.327218:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012105.331365:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012105.340626:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012105.464127:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012105.518118:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012105.539685:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012105.557573:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012105.582291:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012105.965459:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012105.972547:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012105.973350:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012105.984406:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012106.426604:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012106.579942:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012106.590892:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012106.594127:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012106.627595:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012106.631007:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012106.845324:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/012106.846826:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/012106.847430:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012106.852056:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012107.161386:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012107.168591:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012107.246138:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "blur", 0
+[1:1:0326/012107.246689:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "blur" with permission 0
+[1:1:0326/012107.250070:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012107.250601:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012107.272870:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012107.273319:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012107.302455:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012107.302788:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012107.852293:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/012107.852810:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/012107.853571:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012107.854777:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012107.863265:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.770356, 20, 0
+[1:1:0326/012107.937090:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012107.948696:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012107.958655:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012107.959048:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012108.937558:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.959737, 15, 0
+[1:1:0326/012109.000416:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.014494:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012109.016745:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012109.044335:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.319279:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012109.325879:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012109.405398:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/012109.406027:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/012109.406735:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012109.408315:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012109.430084:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focusin", 0
+[1:1:0326/012109.430627:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focusin" with permission 0
+[8153:8153:0326/012109.571713:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://c0.wp.com/c/5.3.2/wp-includes/js/jquery/jquery-migrate.min.js (2)
+[1:1:0326/012109.659945:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.546771, 2, 0
+[1:1:0326/012109.674105:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.725904:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.731228:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012109.731640:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012109.767931:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012109.769494:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012109.780591:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/012109.781071:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/012109.912384:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.923393:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.931336:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.939571:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.946443:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.949276:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.956144:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.958473:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.960495:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.962647:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.968354:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.972060:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.978686:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.983354:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.985700:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012109.987610:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012110.119062:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.354117, 247, 1
+[1:1:0326/012110.203499:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012110.225735:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012110.314942:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012110.316445:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012110.376530:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/012110.376893:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/012110.377503:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "readystatechange", 0
+[1:1:0326/012110.377840:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "readystatechange" with permission 0
+[1:1:0326/012110.378608:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012110.378995:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012110.379548:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012110.379821:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012110.989257:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012111.292685:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012111.331121:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012112.148520:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012112.149854:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012112.482755:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.337977, 1053, 1
+[1:1:0326/012112.603170:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012112.604052:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012113.265953:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012113.275140:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012113.278756:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012113.279440:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012113.288772:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012113.397229:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012113.398096:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012113.648240:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012115.675522:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012115.676664:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012115.677548:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "change", 0
+[1:1:0326/012115.706549:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "change" with permission 0
+[1:1:0326/012115.725721:INFO:html_tree_builder.cc(780)] >>> [renderer][DOM] receive <iframe>
+[8153:8153:0326/012115.760715:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[8153:8153:0326/012115.776806:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: , 6, 4, 
+[1:1:0326/012115.801813:INFO:render_frame_impl.cc(7031)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0326/012115.822745:INFO:render_frame_impl.cc(7032)] 	 [url] = https://www.insightsonindia.com
+[8153:8153:0326/012115.843553:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 5:3_https://www.insightsonindia.com/
+[1:1:0326/012115.846007:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/012115.846412:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/012115.846642:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/012115.847173:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/012115.849401:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/012115.850104:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/012115.851379:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/012115.851838:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/012115.855048:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/012115.855621:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/012115.857864:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/012115.858631:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/012115.976165:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.316285, 404, 1
+[1:1:0326/012116.013552:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012116.016080:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012116.032903:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012116.041694:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012116.107207:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012116.110016:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012116.147824:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012116.149183:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012116.164689:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012116.165729:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012116.597799:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012116.622029:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012116.631922:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012116.962975:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[8153:8153:0326/012116.978096:INFO:CONSOLE(71)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://www.insightsonindia.com/wp-content/plugins/mobile-menu/includes/css/font/mobmenu.woff2?31192480", source: https://www.google-analytics.com/analytics.js (71)
+[1:1:0326/012117.452528:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[8153:8153:0326/012117.468825:INFO:CONSOLE(71)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/notosans/v9/o-0OIpQlx3QUlC5A4PNr4ARCQ_k.woff2", source: https://www.google-analytics.com/analytics.js (71)
+[1:1:0326/012117.661817:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012117.666701:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012117.672979:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012117.682073:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012117.691523:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012117.694929:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012117.705316:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012117.716144:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012117.730692:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012117.784298:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012117.788318:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012117.795853:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012117.812405:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012117.814969:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012117.828527:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012117.831507:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012117.832075:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012117.835041:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012117.841986:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012117.843540:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012117.853776:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012117.882974:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012117.885401:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012117.889077:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012117.891417:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012117.892200:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012117.910671:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012117.914110:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012117.916577:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012117.921566:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012117.922225:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012117.922493:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012117.929096:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012118.040122:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012118.040549:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012118.048586:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012118.074896:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012118.075135:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012118.078132:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012118.147911:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012118.148603:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012118.157272:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012118.165421:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012118.172269:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012118.176071:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012118.189265:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012118.189580:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012118.212423:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012118.215002:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012118.215587:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012118.222657:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611"
+[1:1:0326/012118.224823:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012118.225192:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012118.227736:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611; _gat_gtag_UA_51545689_1=1"
+[1:1:0326/012118.575571:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012118.588310:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012118.590724:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012118.596289:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012118.606223:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012118.634709:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012118.688509:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012118.703061:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/012118.708538:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_https://www.insightsonindia.com/, 5:3_https://www.insightsonindia.com/
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+[1:1:0326/012119.008049:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012119.014749:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012119.646697:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.64829, 4, 0
+[1:1:0326/012119.785390:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012119.787038:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012119.808235:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "message", 0
+[1:1:0326/012119.809906:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "message" with permission 0
+[1:1:0326/012119.875176:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012119.978123:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012119.979599:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+[1:1:0326/012123.054119:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012123.054464:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012123.055123:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/012123.055848:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/012123.065884:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "post-load", 0
+[1:1:0326/012123.067268:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "post-load" with permission 0
+[1:1:0326/012123.120813:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012123.145479:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012123.540007:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.504839, 0, 0
+[8153:8153:0326/012123.628426:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:6_null/, , 4
+[8153:8153:0326/012123.628631:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 4, 6, , null
+[1:1:0326/012123.719268:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012123.720328:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012123.884227:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_CONNECTION_REFUSED","https://insights20.disqus.com/count.js"
+[1:1:0326/012123.888321:INFO:console_message.cc(26)] >>> [renderer][DOM] ConsoleMessage::CreateForRequest: [msg, url] = "Failed to load resource: net::ERR_CONNECTION_REFUSED","https://insights20.disqus.com/embed.js"
+[1:1:0326/012123.932351:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012123.933252:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012124.795195:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012124.796493:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012124.801764:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012124.802606:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012124.810341:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012124.810944:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012124.813826:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012124.814210:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012124.816852:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012124.817279:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012124.819255:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012124.819642:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012124.821197:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012124.836118:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012124.886033:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012124.891022:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012124.896057:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012124.898690:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012124.903377:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012124.903788:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012124.905105:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012124.909987:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012124.911443:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012124.911781:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012124.913214:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012124.913685:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012124.915163:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012124.915537:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012124.917656:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012124.918097:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012124.966815:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012124.967704:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012124.973802:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.012447:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.022023:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.022773:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.025276:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.025679:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.027980:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.028646:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.050889:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.057815:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.065520:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.066407:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.067956:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.068668:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.076227:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.076708:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.078649:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.079186:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.083203:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.086877:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.093828:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.094463:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.095979:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.096315:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.097785:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.098392:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.099399:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.099958:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.102870:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.103142:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.104349:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.105430:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.112962:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.113760:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.115181:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.115457:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.117095:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.117758:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.131105:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.138897:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.147438:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.148984:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.157454:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.160069:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.163943:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.167104:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.181559:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.182560:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.184042:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.184419:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.185942:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.186502:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.187891:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.188198:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.191021:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.191310:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.192552:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.193403:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.198683:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.202590:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.205279:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.205728:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.213539:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.214015:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.216384:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.216725:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.221237:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.221537:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.227015:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.227322:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.243896:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.245609:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.250564:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.251100:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.259619:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.259991:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.275172:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.276253:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.285395:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.286279:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.288301:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.298017:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.300188:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.301948:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.304350:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.304735:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.307371:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.307852:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.321195:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.325334:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.332060:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.332622:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.335918:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.336232:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.338423:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.339144:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.347179:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.347615:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.350425:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.350940:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.352498:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.352821:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.354088:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.354542:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.356584:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.357057:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.358724:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.359283:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.362525:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.362909:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.364623:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.364934:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.365992:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.366473:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.367960:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.368334:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.369814:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.370251:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.372339:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.384497:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.386981:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.387413:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.390454:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.390807:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.393433:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/012125.393753:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/012125.403369:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "resize", 0
+[1:1:0326/012125.404366:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "resize" with permission 0
+[1:1:0326/012125.414814:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "wp-custom-header-video-loaded", 0
+[1:1:0326/012125.415180:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "wp-custom-header-video-loaded" with permission 0
+[1:1:0326/012125.416257:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 1.49824, 0, 0
+[1:1:0326/012125.517256:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012125.517655:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012125.528002:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012125.528291:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012125.537780:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/012125.538455:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_https://www.insightsonindia.com/, 
+[1:1:0326/012125.539140:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012125.539753:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012125.593226:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012125.593491:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012125.610677:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/012125.611015:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/012125.658209:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "after_mega_menu_init", 0
+[1:1:0326/012125.658825:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "after_mega_menu_init" with permission 0
+[1:1:0326/012125.954832:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/012125.958447:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/012126.014045:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/012126.033390:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/012126.113639:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012126.114767:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012126.115489:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012126.115816:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012126.116423:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012126.116796:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012126.133445:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012126.133899:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012126.181271:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "loadstart", 0
+[1:1:0326/012126.181566:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "loadstart" with permission 0
+[1:1:0326/012126.183484:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "loadstart", 0
+[1:1:0326/012126.183845:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "loadstart" with permission 0
+[1:1:0326/012126.185512:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "loadstart", 0
+[1:1:0326/012126.186095:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "loadstart" with permission 0
+[1:1:0326/012126.194142:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.459731, 81, 1
+[1:1:0326/012126.321075:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012126.328516:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012126.803920:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012126.805355:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012126.868585:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/012126.869717:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "resize", 0
+[1:1:0326/012126.870000:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "resize" with permission 0
+[1:1:0326/012126.883288:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/012127.137990:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012127.138380:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012127.147335:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event loadstart with permission 0
+[1:1:0326/012127.147720:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = loadstart, 5:6_null/, 
+[1:1:0326/012127.150402:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event loadstart with permission 0
+[1:1:0326/012127.150816:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = loadstart, 5:6_null/, 
+[1:1:0326/012127.152991:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event loadstart with permission 0
+[1:1:0326/012127.153271:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = loadstart, 5:6_null/, 
+[1:1:0326/012127.341195:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012127.344301:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+[1:1:0326/012130.124562:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012130.125102:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012130.179753:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012130.180513:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012130.221739:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012130.222327:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012130.368524:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012130.368843:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012133.615517:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012133.615967:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012133.616398:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012133.616675:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012133.622746:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012133.951606:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.379854, 206, 1
+[1:1:0326/012134.008440:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012134.009404:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012134.908796:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012134.909462:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012134.942948:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012134.944885:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012134.946608:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "contextmenu", 0
+[1:1:0326/012134.947584:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "contextmenu" with permission 0
+[1:1:0326/012134.957065:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012134.977356:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012134.980511:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012134.983577:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "LazyLoad::Initialized", 0
+[1:1:0326/012135.000279:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "LazyLoad::Initialized" with permission 0
+[1:1:0326/012135.096022:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.125756, 276, 1
+[1:1:0326/012135.113705:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012135.114301:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012135.123924:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/012135.124301:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_https://www.insightsonindia.com/, 
+[1:1:0326/012135.128822:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012135.129234:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+[1:1:0326/012139.141223:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012139.239407:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012139.516517:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event LazyLoad::Initialized with permission 0
+[1:1:0326/012139.535529:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012139.538454:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012139.659736:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012139.660438:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "contextmenu", 0
+[1:1:0326/012139.664593:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012139.739359:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "LazyLoad::Initialized", 0
+[1:1:0326/012139.740567:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "LazyLoad::Initialized" with permission 0
+[1:1:0326/012139.747889:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event readystatechange with permission 0
+[1:1:0326/012139.748297:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = readystatechange, 5:3_https://www.insightsonindia.com/, 5:3_https://www.insightsonindia.com/
+[1:1:0326/012139.776401:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/012139.823130:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/012140.665509:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/012142.525215:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012142.528157:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012142.599841:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "scroll", 0
+[1:1:0326/012142.602651:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "scroll" with permission 0
+[1:1:0326/012142.606970:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012142.608729:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012142.656124:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "initialized", 0
+[1:1:0326/012142.656801:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "initialized" with permission 0
+[1:1:0326/012142.680011:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "resized", 0
+[1:1:0326/012142.683100:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "resized" with permission 0
+[1:1:0326/012142.709583:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "change", 0
+[1:1:0326/012142.709896:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "change" with permission 0
+[1:1:0326/012142.715993:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "refreshed", 0
+[1:1:0326/012142.716653:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "refreshed" with permission 0
+[1:1:0326/012142.719359:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "changed", 0
+[1:1:0326/012142.719894:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "changed" with permission 0
+[1:1:0326/012142.723658:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "loaded", 0
+[1:1:0326/012142.724036:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "loaded" with permission 0
+[1:1:0326/012142.730654:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012142.731040:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012142.770269:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "resize", 0
+[1:1:0326/012142.781536:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "resize" with permission 0
+[1:1:0326/012142.816710:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "prepared", 0
+[1:1:0326/012142.817884:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "prepared" with permission 0
+[1:1:0326/012142.830606:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012142.832588:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012142.853183:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "translated", 0
+[1:1:0326/012142.855401:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "translated" with permission 0
+[1:1:0326/012142.860080:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "dragged", 0
+[1:1:0326/012142.862414:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "dragged" with permission 0
+[1:1:0326/012142.889895:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "drag", 0
+[1:1:0326/012142.891313:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "drag" with permission 0
+[1:1:0326/012142.899983:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "translate", 0
+[1:1:0326/012142.907820:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "translate" with permission 0
+[1:1:0326/012142.915364:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "play", 0
+[1:1:0326/012142.920125:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "play" with permission 0
+[1:1:0326/012142.931950:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "stop", 0
+[1:1:0326/012142.936935:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "stop" with permission 0
+[1:1:0326/012142.950339:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/012142.953543:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/012142.958435:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/012142.959010:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/012142.960749:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "touchstart", 0
+[1:1:0326/012142.961223:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "touchstart" with permission 0
+[1:1:0326/012142.963393:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "touchend", 0
+[1:1:0326/012142.964671:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "touchend" with permission 0
+[1:1:0326/012142.995821:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "added", 0
+[1:1:0326/012143.004561:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "added" with permission 0
+[1:1:0326/012143.014729:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "remove", 0
+[1:1:0326/012143.015692:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "remove" with permission 0
+[1:1:0326/012143.048361:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "hashchange", 0
+[1:1:0326/012143.049215:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "hashchange" with permission 0
+[1:1:0326/012144.362947:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "transitionend", 0
+[1:1:0326/012144.363298:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "transitionend" with permission 0
+[1:1:0326/012144.367925:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "resize", 0
+[1:1:0326/012144.368461:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "resize" with permission 0
+[1:1:0326/012144.382507:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "touchstart", 0
+[1:1:0326/012144.383040:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "touchstart" with permission 0
+[1:1:0326/012144.384859:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "touchcancel", 0
+[1:1:0326/012144.388732:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "touchcancel" with permission 0
+[1:1:0326/012144.630025:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012144.630400:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012144.662278:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012144.665138:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+context mismatch in svga_sampler_view_destroy
+[1:1:0326/012144.708111:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012144.712095:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012144.783330:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "next", 0
+[1:1:0326/012144.783612:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "next" with permission 0
+[1:1:0326/012144.786022:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "prev", 0
+[1:1:0326/012144.787442:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "prev" with permission 0
+[1:1:0326/012144.803782:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "to", 0
+[1:1:0326/012144.804120:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "to" with permission 0
+[1:1:0326/012144.809104:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "destroy", 0
+[1:1:0326/012144.809502:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "destroy" with permission 0
+[1:1:0326/012144.811315:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "refresh", 0
+[1:1:0326/012144.811583:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "refresh" with permission 0
+[1:1:0326/012144.813052:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "replace", 0
+[1:1:0326/012144.813288:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "replace" with permission 0
+[1:1:0326/012144.814880:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "add", 0
+[1:1:0326/012144.815151:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "add" with permission 0
+[1:1:0326/012144.879807:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "resize", 0
+[1:1:0326/012144.880270:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "resize" with permission 0
+[1:1:0326/012144.914389:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "post-load", 0
+[1:1:0326/012144.914740:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "post-load" with permission 0
+[1:1:0326/012144.928486:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "jetpack-lazy-images-load", 0
+[1:1:0326/012144.929207:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "jetpack-lazy-images-load" with permission 0
+[1:1:0326/012144.995268:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012144.995873:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.183432:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.183819:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.186549:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.187033:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.196177:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.197413:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.202825:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.203408:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.204942:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.205359:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.206738:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.207121:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.209268:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.209590:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.212541:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.212970:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.213871:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.214069:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.382619:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/012145.383039:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/012145.385669:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/012145.386154:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/012145.395148:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/012145.395647:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/012145.398423:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/012145.398946:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/012145.400828:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/012145.401291:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/012145.403851:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/012145.405867:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/012145.410275:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/012145.410662:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/012145.412406:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/012145.412755:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/012145.413653:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/012145.413863:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/012145.415162:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/012145.415403:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/012145.416662:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/012145.416938:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/012145.417891:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/012145.418132:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/012145.419660:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/012145.420040:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/012145.425861:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/012145.426438:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/012145.428150:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/012145.429552:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/012145.431139:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/012145.431491:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/012145.439087:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/012145.440340:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/012145.445336:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/012145.446855:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/012145.453688:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "touchmove", 0
+[1:1:0326/012145.453987:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "touchmove" with permission 0
+[1:1:0326/012145.455840:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "touchstart", 0
+[1:1:0326/012145.456202:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "touchstart" with permission 0
+[1:1:0326/012145.458830:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "touchend", 0
+[1:1:0326/012145.459326:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "touchend" with permission 0
+[1:1:0326/012145.511797:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "touchend", 0
+[1:1:0326/012145.512214:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "touchend" with permission 0
+[1:1:0326/012145.515722:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "touchend", 0
+[1:1:0326/012145.516124:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "touchend" with permission 0
+[1:1:0326/012145.517458:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "touchend", 0
+[1:1:0326/012145.517723:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "touchend" with permission 0
+[1:1:0326/012145.518996:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "touchend", 0
+[1:1:0326/012145.519290:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "touchend" with permission 0
+[1:1:0326/012145.520427:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "touchend", 0
+[1:1:0326/012145.520969:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "touchend" with permission 0
+[1:1:0326/012145.521981:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "touchend", 0
+[1:1:0326/012145.523300:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "touchend" with permission 0
+[1:1:0326/012145.530380:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "touchend", 0
+[1:1:0326/012145.533756:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "touchend" with permission 0
+[1:1:0326/012145.535993:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "touchend", 0
+[1:1:0326/012145.536739:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "touchend" with permission 0
+[1:1:0326/012145.539775:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "touchend", 0
+[1:1:0326/012145.545136:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "touchend" with permission 0
+[1:1:0326/012145.548283:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.549212:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.551064:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.551508:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.552818:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.553348:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.554661:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.555020:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.556048:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.556310:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.564081:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.564438:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.565843:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.566230:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.567748:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.572656:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.578441:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012145.578778:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012145.583764:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keyup", 0
+[1:1:0326/012145.587200:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keyup" with permission 0
+[1:1:0326/012145.594348:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/012145.594873:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/012145.607234:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "blur", 0
+[1:1:0326/012145.610152:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "blur" with permission 0
+[1:1:0326/012145.666990:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "YcdPopupComplete", 0
+[1:1:0326/012145.667351:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "YcdPopupComplete" with permission 0
+[1:1:0326/012147.962003:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/012147.999727:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012148.000520:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012148.001822:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012148.002715:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012148.003816:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012148.004222:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012148.004628:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/012148.005713:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/012148.012855:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/012148.013084:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.insightsonindia.com/books/"
+[1:1:0326/012148.015154:INFO:cookie_jar.cc(74)] 		 get cookie "_ga=GA1.2.258170301.1585210611; _gid=GA1.2.1667036967.1585210611; _gat_gtag_UA_51545689_1=1"
+[1:1:0326/012148.018992:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/012148.019519:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/012148.032919:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "onload", 0
+[1:1:0326/012148.033566:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "onload" with permission 0
+[1:1:0326/012148.035179:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "onload", 0
+[1:1:0326/012148.035519:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "onload" with permission 0
+[1:1:0326/012148.036269:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "onload", 0
+[1:1:0326/012148.036729:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "onload" with permission 0
+[1:1:0326/012148.037523:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "onload", 0
+[1:1:0326/012148.038685:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "onload" with permission 0
+[1:1:0326/012148.044073:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "onload", 0
+[1:1:0326/012148.044994:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "onload" with permission 0
+[1:1:0326/012148.049737:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/012148.228354:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012148.228827:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012148.231472:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012148.231829:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012148.329118:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[8153:8153:0326/012148.330840:INFO:CONSOLE(21)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/droidsans/v12/SlGVmQWMvZQIdix7AFxXkHNSbQ.woff2", source: https://www.insightsonindia.com/wp-content/plugins/countdown-builder-silver/assets/js/ycdGoogleFonts.js?ver=1.73 (21)
+[1:1:0326/012148.369860:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[8153:8153:0326/012148.372109:INFO:CONSOLE(21)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/droidserif/v12/tDbI2oqRg1oM3QBjjcaDkOr9rAU.woff2", source: https://www.insightsonindia.com/wp-content/plugins/countdown-builder-silver/assets/js/ycdGoogleFonts.js?ver=1.73 (21)
+[1:1:0326/012148.419005:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[8153:8153:0326/012148.421060:INFO:CONSOLE(21)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/chewy/v11/uK_94ruUb-k-wn52KjI.woff2", source: https://www.insightsonindia.com/wp-content/plugins/countdown-builder-silver/assets/js/ycdGoogleFonts.js?ver=1.73 (21)
+[1:1:0326/012148.444775:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[8153:8153:0326/012148.466272:INFO:CONSOLE(21)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/reemkufi/v7/2sDcZGJLip7W2J7v7wQzaGW5.woff2", source: https://www.insightsonindia.com/wp-content/plugins/countdown-builder-silver/assets/js/ycdGoogleFonts.js?ver=1.73 (21)
+[1:1:0326/012148.481022:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012148.486230:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[8153:8153:0326/012148.496202:INFO:CONSOLE(21)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFVZ0b.woff2", source: https://www.insightsonindia.com/wp-content/plugins/countdown-builder-silver/assets/js/ycdGoogleFonts.js?ver=1.73 (21)
+[8153:8153:0326/012148.503940:INFO:CONSOLE(21)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/oswald/v31/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiZQ.woff2", source: https://www.insightsonindia.com/wp-content/plugins/countdown-builder-silver/assets/js/ycdGoogleFonts.js?ver=1.73 (21)
+[1:1:0326/012148.509405:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[8153:8153:0326/012148.527148:INFO:CONSOLE(21)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/diplomatasc/v8/buExpoi3ecvs3kidKgBJo2kv__RP.woff2", source: https://www.insightsonindia.com/wp-content/plugins/countdown-builder-silver/assets/js/ycdGoogleFonts.js?ver=1.73 (21)
+[1:1:0326/012148.541406:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012148.547453:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012148.569290:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012148.593562:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[8153:8153:0326/012148.594789:INFO:CONSOLE(21)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/flavors/v9/FBV2dDrhxqmveJTpXkvvNw.woff2", source: https://www.insightsonindia.com/wp-content/plugins/countdown-builder-silver/assets/js/ycdGoogleFonts.js?ver=1.73 (21)
+[8153:8153:0326/012148.597800:INFO:CONSOLE(21)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/dancingscript/v14/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup8.woff2", source: https://www.insightsonindia.com/wp-content/plugins/countdown-builder-silver/assets/js/ycdGoogleFonts.js?ver=1.73 (21)
+[8153:8153:0326/012148.602143:INFO:CONSOLE(21)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/merriweather/v21/u-440qyriQwlOrhSvowK_l5-fCZM.woff2", source: https://www.insightsonindia.com/wp-content/plugins/countdown-builder-silver/assets/js/ycdGoogleFonts.js?ver=1.73 (21)
+[1:1:0326/012148.614368:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[8153:8153:0326/012148.692425:INFO:CONSOLE(21)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/robotocondensed/v18/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2", source: https://www.insightsonindia.com/wp-content/plugins/countdown-builder-silver/assets/js/ycdGoogleFonts.js?ver=1.73 (21)
+[1:1:0326/012148.713397:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[8153:8153:0326/012148.714948:INFO:CONSOLE(21)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/ptsans/v11/jizaRExUiTo99u79D0KExQ.woff2", source: https://www.insightsonindia.com/wp-content/plugins/countdown-builder-silver/assets/js/ycdGoogleFonts.js?ver=1.73 (21)
+[8153:8153:0326/012148.749295:INFO:CONSOLE(21)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2", source: https://www.insightsonindia.com/wp-content/plugins/countdown-builder-silver/assets/js/ycdGoogleFonts.js?ver=1.73 (21)
+[1:1:0326/012148.825628:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012148.826059:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012148.830284:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012148.830552:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012148.850376:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012148.850828:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012149.725323:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012149.725596:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012149.796404:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event LazyLoad::Initialized with permission 0
+[1:1:0326/012149.808635:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event LazyLoad::Initialized with permission 0
+[1:1:0326/012149.839223:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012149.843335:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012149.922947:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012149.923197:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012149.931671:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012149.932062:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012150.299833:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012150.300220:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012150.311816:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012150.312237:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012150.315824:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012150.316298:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012150.319029:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012150.319263:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012150.768988:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012150.769248:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012152.375279:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012152.375720:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0
+[1:1:0326/012152.384637:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012152.385089:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012152.385689:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "loadeddata", 0
+[1:1:0326/012152.386033:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "loadeddata" with permission 0
+[1:1:0326/012152.388529:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012152.389085:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012152.401699:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012152.402141:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012152.402928:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "loadeddata", 0
+[1:1:0326/012152.403634:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "loadeddata" with permission 0
+[1:1:0326/012152.405395:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012152.405833:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012152.411776:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/012152.412056:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/012152.412423:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "loadeddata", 0
+[1:1:0326/012152.412633:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "loadeddata" with permission 0
+[1:1:0326/012152.413021:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/012152.414645:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/012152.518872:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012152.579049:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.insightsonindia.com/@0, task's permission is 0
+[1:1:0326/012152.615279:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.insightsonindia.com/, 3e38d0242860, , , 
+[1:1:0326/012152.615702:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.insightsonindia.com/books/", "www.insightsonindia.com", 3, 1, , , 0

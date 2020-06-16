@@ -16,6 +16,13 @@ def plotFCPFMP():
 	import matplotlib.pyplot as plt
 	import matplotlib.ticker as mtick
 
+	font = {'family': 'Times New Roman',
+			'weight': 'bold',
+			'size': 23}
+
+	plt.rc('font', **font)
+	plt.rcParams['axes.axisbelow'] = True
+
 	# 1. read data
 	sites = []
 	baseFCPResults, baseFMPResults, timFCPResults, timFMPResults = [], [], [], []
@@ -78,13 +85,13 @@ def plotFCPFMP():
 
 	for i in range(len(x)):
 		x[i] = x[i] - width * 1.5
-	plt.xticks(x, x_label)
+	plt.xticks(x, x_label, rotation=45)
 
 	#plt.ylim(0, 4500)
-	plt.tick_params(labelsize=18)
-	plt.ylabel('Time usage (ms)', fontproperties='SimHei', fontsize=18)
+	plt.tick_params(labelsize=20)
+	plt.ylabel('Time usage (ms)', fontname='Times New Roman', fontsize=22, weight='bold')
 	plt.grid(axis="y")
-	plt.legend(fontsize=15)
+	plt.legend(fontsize=18)
 	plt.tight_layout()
 	plt.show()
 
@@ -123,6 +130,13 @@ def plotYoutube():
 def plotKraken():
 	import matplotlib.pyplot as plt
 	import matplotlib.ticker as mtick
+
+	font = {'family': 'Times New Roman',
+			'weight': 'bold',
+			'size': 23}
+
+	plt.rc('font', **font)
+	plt.rcParams['axes.axisbelow'] = True
 
 	# 1. read data
 	types = []
@@ -163,10 +177,10 @@ def plotKraken():
 	plt.xticks(x, x_label)
 
 	plt.ylim(0, 5500)
-	plt.tick_params(labelsize=18)
-	plt.ylabel('Time usage (ms)', fontproperties='SimHei', fontsize=18)
+	plt.tick_params(labelsize=22)
+	plt.ylabel('Time usage (ms)', fontname='Times New Roman', fontsize=23, weight='bold')
 	plt.grid(axis="y")
-	plt.legend(fontsize=18)
+	plt.legend(fontsize=23)
 	plt.tight_layout()
 	plt.show()
 
@@ -203,6 +217,13 @@ def printKraken():
 def plotSOP():
 	import matplotlib.pyplot as plt
 	import matplotlib.ticker as mtick
+
+	font = {'family': 'Times New Roman',
+			'weight': 'bold',
+			'size': 23}
+
+	plt.rc('font', **font)
+	plt.rcParams['axes.axisbelow'] = True
 
 	# 1. read data
 	types = []
@@ -245,9 +266,10 @@ def plotSOP():
 	ax2.set_ylim(0, 70)
 
 	# 设置label
-	ax1.set_xlabel('length of frame chain', fontproperties='SimHei', fontsize=20)
-	ax1.set_ylabel(types[0], fontproperties='SimHei', fontsize=20)
-	ax2.set_ylabel(types[1], fontproperties='SimHei', fontsize=20)
+	ax1.set_xlabel('length of frame chain', fontname='Times New Roman', fontsize=25, weight='bold')
+	ax1.set_ylabel(types[0], fontname='Times New Roman', fontsize=25, weight='bold')
+	ax2.set_ylabel(types[1], fontname='Times New Roman', fontsize=25, weight='bold')
+	ax2.set_axisbelow(True)
 	ax2.grid(axis="y")
 
 	plt.tight_layout()

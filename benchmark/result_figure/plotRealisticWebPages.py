@@ -13,6 +13,13 @@ def plotFrameChain():
 	import matplotlib.pyplot as plt
 	import matplotlib.ticker as mtick
 
+	font = {'family': 'Times New Roman',
+			'weight': 'bold',
+			'size': 23}
+
+	plt.rc('font', **font)
+	plt.rcParams['axes.axisbelow'] = True
+
 	# 1. read data
 	length, webpages, percentage = [], [], []
 	with open(_frame_chain_file, "r") as f:
@@ -51,8 +58,8 @@ def plotFrameChain():
 	# ax2.yaxis.set_major_formatter(mtick.FormatStrFormatter('%.0f%%'))
 
 	# 设置label
-	ax1.set_xlabel('Length of longest frame chain', fontproperties='SimHei',fontsize=22)
-	ax1.set_ylabel('Number of web pages', fontproperties='SimHei',fontsize=22)
+	ax1.set_xlabel('Length of longest frame chain', fontname='Times New Roman', fontsize=22, weight='bold')
+	ax1.set_ylabel('Number of web pages', fontname='Times New Roman', fontsize=22, weight='bold')
 	# ax2.set_ylabel('probability accumulation', fontproperties='SimHei',fontsize=15)
 
 	plt.tight_layout()
@@ -61,6 +68,13 @@ def plotFrameChain():
 def plotMainFrame():
 	import matplotlib.pyplot as plt
 	import matplotlib.ticker as mtick
+
+	font = {'family': 'Times New Roman',
+			'weight': 'bold',
+			'size': 23}
+
+	plt.rc('font', **font)
+	plt.rcParams['axes.axisbelow'] = True
 
 	# 1. read data
 	sites, numberOfEmbeddedSites = [], []
@@ -77,7 +91,7 @@ def plotMainFrame():
 	plt.barh(x, y, facecolor="gray", edgecolor="black")
 
 	plt.tick_params(labelsize=18)
-	plt.xlabel('Number of embedded sites', fontproperties='SimHei', fontsize=18)
+	plt.xlabel('Number of embedded sites', fontname='Times New Roman', fontsize=22, weight='bold')
 	plt.xlim(17, 21)
 	ax = plt.gca()
 	ax.xaxis.set_ticks_position('top')
@@ -96,6 +110,13 @@ def plotEmbeddedFrame():
 	import matplotlib.pyplot as plt
 	import matplotlib.ticker as mtick
 
+	font = {'family': 'Times New Roman',
+			'weight': 'bold',
+			'size': 23}
+
+	plt.rc('font', **font)
+	plt.rcParams['axes.axisbelow'] = True
+
 	# 1. read data
 	sites, numberOfMainSites = [], []
 	with open(_embed_frame_file, "r") as f:
@@ -110,8 +131,8 @@ def plotEmbeddedFrame():
 	plt.figure()
 	plt.barh(x, y, facecolor="gray", edgecolor="black")
 
-	plt.tick_params(labelsize=18)
-	plt.xlabel('Number of host sites', fontproperties='SimHei', fontsize=18)
+	plt.tick_params(labelsize=20)
+	plt.xlabel('Number of host sites', fontname='Times New Roman', fontsize=22, weight='bold')
 	plt.xlim(0, 1800)
 	plt.xticks(np.linspace(0, 1800, 4))
 	ax = plt.gca()
@@ -128,6 +149,6 @@ def plotEmbeddedFrame():
 	plt.show()
 
 
-plotFrameChain()
-plotMainFrame()
+#plotFrameChain()
+#plotMainFrame()
 plotEmbeddedFrame()

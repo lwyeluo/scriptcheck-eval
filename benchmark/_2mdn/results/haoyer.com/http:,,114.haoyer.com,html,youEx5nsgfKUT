@@ -1,0 +1,661 @@
+[1:1:0326/020634.305756:INFO:content_main_runner.cc(320)] >>> [Setup] RunZyote
+[1:1:0326/020634.306187:INFO:zygote_main_linux.cc(351)] >>> [Setup] tmpfile success. fd is 315
+[3:3:0326/020634.314574:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 3
+[14849:14849:0326/020635.130658:INFO:extension_system_impl.cc(379)] >>> [browser][EXT] ExtensionSystemImpl::InitForRegularProfile
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/c6682be9-3a71-45e1-9dbe-697bf492b57b
+[14849:14849:0326/020635.660722:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 4
+[14849:14878:0326/020635.664513:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 4
+[3:3:0326/020635.664682:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0326/020635.664858:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0326/020635.665529:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0326/020635.665833:INFO:zygote_linux.cc(614)] 		cid is 4
+[1:1:0326/020635.678656:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0x21b0eb00, 1
+[1:1:0326/020635.679067:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0x44b36ca, 0
+[1:1:0326/020635.679258:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0x14ab763f, 3
+[1:1:0326/020635.679427:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0x3b1ad2c4, 2
+[1:1:0326/020635.679570:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = ffffffca364b04 00ffffffebffffffb021 ffffffc4ffffffd21a3b 3f76ffffffab14 , 6552, 4
+[14849:14878:0326/020635.679846:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PINGÊ6K
+[14849:14878:0326/020635.679908:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is Ê6K
+[14849:14878:0326/020635.680194:INFO:switcher_host_impl.cc(16)] >>> [INIT] create a SwitcherSiteQueue
+[14849:14878:0326/020635.680243:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 14894, 4, ca364b04 00ebb021 c4d21a3b 3f76ab14 
+[1:1:0326/020635.831619:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0326/020635.836923:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[14849:14849:0326/020636.831052:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[14849:14849:0326/020636.832373:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[14849:14849:0326/020636.854941:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation chrome-search://local-ntp/
+[14849:14849:0326/020636.855020:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:1_chrome-search://local-ntp/, chrome-search://local-ntp/local-ntp.html, 1
+[14849:14859:0326/020636.859821:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 4, 1
+[14849:14859:0326/020636.861160:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 4, 1, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0326/020636.862378:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[14849:14870:0326/020636.874688:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[1:1:0326/020638.030230:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 4:1_chrome-search://local-ntp/
+[14849:14849:0326/020638.198949:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:1_chrome-search://local-ntp/, chrome-search://local-ntp/, 1
+[14849:14849:0326/020638.199026:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 1, 1, chrome-search://local-ntp/, chrome-search://local-ntp
+[1:1:0326/020638.341160:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020638.366588:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020638.373386:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[14849:14849:0326/020638.395472:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 5
+[14849:14878:0326/020638.396032:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 5
+[3:3:0326/020638.396302:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0326/020638.396652:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0326/020638.397028:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0326/020638.397234:INFO:zygote_linux.cc(614)] 		cid is 5
+[1:1:0326/020638.404402:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020638.504743:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0x3bf494ed, 1
+[1:1:0326/020638.537526:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0x1019f216, 0
+[1:1:0326/020638.538524:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0x2fc4948c, 3
+[1:1:0326/020638.541012:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020638.548035:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0x241d8eef, 2
+[1:1:0326/020638.579198:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = 16fffffff21910 ffffffedffffff94fffffff43b ffffffefffffff8e1d24 ffffff8cffffff94ffffffc42f , 6552, 5
+[14849:14878:0326/020638.580590:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PINGòí”ô;ïŽ$Œ”Ä/Ï×%
+[14849:14878:0326/020638.580726:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is òí”ô;ïŽ$Œ”Ä/ØIÏ×%
+[14849:14878:0326/020638.581159:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 14944, 5, 16f21910 ed94f43b ef8e1d24 8c94c42f 
+[1:1:0326/020638.869257:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0326/020638.881466:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[1:1:0326/020639.103891:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/020639.104992:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/020639.204336:INFO:html_tree_builder.cc(780)] >>> [renderer][DOM] receive <iframe>
+[14849:14849:0326/020639.332423:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[14849:14849:0326/020639.349827:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: , 3, 2, 
+[1:1:0326/020639.472690:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/020639.514865:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020639.515629:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020639.519178:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[14849:14849:0326/020639.555188:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:3_chrome-search://local-ntp/, chrome-search://local-ntp/, 2
+[14849:14849:0326/020639.555959:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 2, 3, chrome-search://local-ntp/, chrome-search://local-ntp
+[14849:14849:0326/020639.592713:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[14849:14849:0326/020639.634286:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[14849:14849:0326/020639.639662:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation http://114.haoyer.com/
+[14849:14849:0326/020639.639745:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:3_http://114.haoyer.com/, http://114.haoyer.com/html/youxiang/, 1
+[14849:14849:0326/020639.645205:WARNING:render_frame_host_impl.cc(414)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[14849:14859:0326/020639.668032:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 3
+[14849:14859:0326/020639.668140:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 3, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0326/020639.675010:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/020639.679623:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:3_http://114.haoyer.com/
+[1:1:0326/020639.745304:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020639.745644:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 4:1_chrome-search://local-ntp/, 
+[1:1:0326/020639.751771:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "transitionend", 0
+[1:1:0326/020639.754420:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "transitionend" with permission 0
+[1:1:0326/020639.756691:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020639.756989:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020639.757419:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020639.757636:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020639.757988:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020639.758158:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020639.758526:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020639.758699:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020639.758873:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020639.759014:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020639.759186:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020639.759327:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020639.759649:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020639.759829:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020639.781192:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020639.782241:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020639.783338:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020639.784574:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020639.785111:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/020639.785476:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/020639.800357:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "audiostart", 0
+[1:1:0326/020639.800828:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "audiostart" with permission 0
+[1:1:0326/020639.801123:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "end", 0
+[1:1:0326/020639.801321:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "end" with permission 0
+[1:1:0326/020639.801703:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020639.801941:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020639.802277:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "nomatch", 0
+[1:1:0326/020639.802550:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "nomatch" with permission 0
+[1:1:0326/020639.802790:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "result", 0
+[1:1:0326/020639.802972:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "result" with permission 0
+[1:1:0326/020639.803176:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "speechstart", 0
+[1:1:0326/020639.803351:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "speechstart" with permission 0
+[1:1:0326/020639.804163:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/020639.804472:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/020639.806213:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "paste", 0
+[1:1:0326/020639.806529:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "paste" with permission 0
+[1:1:0326/020639.806811:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "drop", 0
+[1:1:0326/020639.807023:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "drop" with permission 0
+[1:1:0326/020639.807280:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "dragenter", 0
+[1:1:0326/020639.807531:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "dragenter" with permission 0
+[1:1:0326/020639.807818:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "dragleave", 0
+[1:1:0326/020639.808052:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "dragleave" with permission 0
+[1:1:0326/020639.809922:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020639.810216:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020639.810466:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020639.810658:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020639.812345:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:1_chrome-search://local-ntp/@0, task's permission is 0
+[1:1:0326/020639.814993:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020639.816152:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[14849:14849:0326/020639.848311:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[14849:14849:0326/020639.854570:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: mv-single, 4, 3, 
+[1:1:0326/020639.867254:INFO:render_frame_impl.cc(7031)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0326/020639.868466:INFO:render_frame_impl.cc(7032)] 	 [url] = chrome-search://local-ntp
+[1:1:0326/020639.881659:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020639.881892:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020639.882646:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "message", 0
+[1:1:0326/020639.883825:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "message" with permission 0
+[1:1:0326/020639.909331:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020639.911771:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020639.914885:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020639.935888:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020639.941182:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[14849:14849:0326/020639.946090:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:3_http://114.haoyer.com/, http://114.haoyer.com/, 1
+[1:1:0326/020639.943352:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[14849:14849:0326/020639.946758:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 1, 3, http://114.haoyer.com/, http://114.haoyer.com
+[1:1:0326/020639.946932:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020639.947739:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020639.977020:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.076591, 246, 1
+[1:1:0326/020640.029638:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020640.030375:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020640.164459:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020640.169809:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020640.242144:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020640.254703:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020640.371751:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020640.390419:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 2 TIMES
+[1:1:0326/020640.386698:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020640.407301:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[3:3:0326/020640.436007:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 1
+[1:1:0326/020640.757112:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/020640.757421:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/020640.757670:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020640.757840:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020640.762074:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "message", 0
+[1:1:0326/020640.762430:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "message" with permission 0
+[1:1:0326/020640.807280:INFO:html_tree_builder.cc(780)] >>> [renderer][DOM] receive <iframe>
+[1:1:0326/020640.830855:INFO:render_frame_impl.cc(7031)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0326/020640.831050:INFO:render_frame_impl.cc(7032)] 	 [url] = http://114.haoyer.com
+[1:1:0326/020640.834397:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/020640.834668:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/020640.835103:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "blur", 0
+[1:1:0326/020640.835312:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "blur" with permission 0
+[1:1:0326/020640.836926:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "beforeunload", 0
+[1:1:0326/020640.837180:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "beforeunload" with permission 0
+[1:1:0326/020640.848220:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020640.848477:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020640.857580:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020640.857870:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020640.862300:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020640.862555:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020640.872110:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.00908017, 198, 1
+[14849:14849:0326/020640.947447:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[14849:14849:0326/020640.950825:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: iframeu1780255_0, 6, 4, 
+[14849:14849:0326/020640.973560:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 5:3_http://114.haoyer.com/
+[1:1:0326/020641.413867:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020641.418338:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020641.444965:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020641.450555:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020641.489181:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "message", 0
+[1:1:0326/020641.506565:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "message" with permission 0
+[14849:14849:0326/020641.519265:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[14849:14849:0326/020641.532859:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[14849:14859:0326/020641.538006:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 6
+[14849:14859:0326/020641.538113:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 6, HandleIncomingMessage, HandleIncomingMessage
+[14849:14849:0326/020641.552257:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation https://pos.baidu.com/
+[14849:14849:0326/020641.552334:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:6_https://pos.baidu.com/, https://pos.baidu.com/dcdm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213601&qn=1a362ba2f83af4e3&tt=1585213600259.527.534.544, 4
+[1:7:0326/020641.555306:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/020641.569408:INFO:html_tree_builder.cc(780)] >>> [renderer][DOM] receive <iframe>
+[14849:14849:0326/020641.589898:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[14849:14849:0326/020641.599907:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: iframeu1780261_0, 7, 5, 
+[1:1:0326/020641.603108:INFO:render_frame_impl.cc(7031)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0326/020641.603388:INFO:render_frame_impl.cc(7032)] 	 [url] = http://114.haoyer.com
+[1:1:0326/020641.614350:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020641.614896:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[14849:14849:0326/020641.622383:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 5:3_http://114.haoyer.com/
+[1:1:0326/020641.624338:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020641.624749:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020641.627769:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020641.632278:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020641.666231:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.240383, 91, 1
+[1:1:0326/020641.672445:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020641.672882:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020641.707178:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020641.708246:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[14849:14849:0326/020641.993824:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[14849:14849:0326/020642.002217:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[14849:14849:0326/020642.006191:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation https://pos.baidu.com/
+[14849:14849:0326/020642.006266:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:7_https://pos.baidu.com/, https://pos.baidu.com/dcdm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=113033,110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780261&dri=0&dis=0&dai=2&ps=669x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x669&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213602&qn=dd35a68b646a580e&tt=1585213601463.96.100.104, 5
+[14849:14859:0326/020642.006328:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 7
+[14849:14859:0326/020642.006425:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 7, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0326/020642.012124:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/020642.228760:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020642.229329:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020642.234819:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:6_https://pos.baidu.com/
+[1:1:0326/020642.383893:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020642.385002:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020642.387771:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020642.388396:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020642.660833:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/020642.663483:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/020642.664533:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020642.664987:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020642.889705:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.516324, 14, 0
+[1:1:0326/020643.540128:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:7_https://pos.baidu.com/
+[1:1:0326/020643.637418:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020643.637721:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020643.639174:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020643.639627:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020643.673485:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020643.676562:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[14849:14849:0326/020643.853046:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:6_https://pos.baidu.com/, https://pos.baidu.com/, 4
+[14849:14849:0326/020643.853129:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 4, 6, https://pos.baidu.com/, https://pos.baidu.com
+[1:1:0326/020643.939120:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020643.940078:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020644.040923:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020644.041347:INFO:cookie_jar.cc(71)] 		 pass the permission check "http://114.haoyer.com/html/youxiang/"
+[1:1:0326/020644.048148:INFO:cookie_jar.cc(74)] 		 get cookie ""
+[1:1:0326/020644.077610:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020644.080121:INFO:cookie_jar.cc(71)] 		 pass the permission check "http://114.haoyer.com/html/youxiang/"
+[1:1:0326/020644.087809:INFO:cookie_jar.cc(74)] 		 get cookie "__tins__17388686=%7B%22sid%22%3A%201585213604039%2C%20%22vd%22%3A%201%2C%20%22expires%22%3A%201585215404039%7D"
+[1:1:0326/020644.134858:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020644.202224:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020644.202496:INFO:cookie_jar.cc(71)] 		 pass the permission check "http://114.haoyer.com/html/youxiang/"
+[1:1:0326/020644.205758:INFO:cookie_jar.cc(74)] 		 get cookie "__tins__17388686=%7B%22sid%22%3A%201585213604039%2C%20%22vd%22%3A%201%2C%20%22expires%22%3A%201585215404039%7D; __51cke__=; __51laig__=1"
+[1:1:0326/020644.212205:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020644.212651:INFO:cookie_jar.cc(71)] 		 pass the permission check "http://114.haoyer.com/html/youxiang/"
+[1:1:0326/020644.220111:INFO:cookie_jar.cc(74)] 		 get cookie "__tins__17388686=%7B%22sid%22%3A%201585213604039%2C%20%22vd%22%3A%201%2C%20%22expires%22%3A%201585215404039%7D; __51cke__=; __51laig__=1"
+[1:1:0326/020644.239536:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020644.239808:INFO:cookie_jar.cc(71)] 		 pass the permission check "http://114.haoyer.com/html/youxiang/"
+[1:1:0326/020644.244980:INFO:cookie_jar.cc(74)] 		 get cookie "__tins__17388686=%7B%22sid%22%3A%201585213604039%2C%20%22vd%22%3A%201%2C%20%22expires%22%3A%201585215404039%7D; __51cke__=; __51laig__=1; UM_distinctid=1711618017e1b-014336314f9e57-612a7221-75300-17116180186bf"
+[1:1:0326/020644.264163:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020644.264877:INFO:cookie_jar.cc(71)] 		 pass the permission check "http://114.haoyer.com/html/youxiang/"
+[1:1:0326/020644.267457:INFO:cookie_jar.cc(74)] 		 get cookie "__tins__17388686=%7B%22sid%22%3A%201585213604039%2C%20%22vd%22%3A%201%2C%20%22expires%22%3A%201585215404039%7D; __51cke__=; __51laig__=1; UM_distinctid=1711618017e1b-014336314f9e57-612a7221-75300-17116180186bf; CNZZDATA2435580=cnzz_eid%3D313309581-1585212856-%26ntime%3D1585212856"
+[1:1:0326/020644.272167:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020644.272391:INFO:cookie_jar.cc(71)] 		 pass the permission check "http://114.haoyer.com/html/youxiang/"
+[1:1:0326/020644.276791:INFO:cookie_jar.cc(74)] 		 get cookie "__tins__17388686=%7B%22sid%22%3A%201585213604039%2C%20%22vd%22%3A%201%2C%20%22expires%22%3A%201585215404039%7D; __51cke__=; __51laig__=1; UM_distinctid=1711618017e1b-014336314f9e57-612a7221-75300-17116180186bf; CNZZDATA2435580=cnzz_eid%3D313309581-1585212856-%26ntime%3D1585212856"
+[1:1:0326/020644.280597:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "abort", 0
+[1:1:0326/020644.280936:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "abort" with permission 0
+[1:1:0326/020644.281312:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/020644.281750:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/020644.282491:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020644.282959:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[14849:14849:0326/020644.290888:INFO:CONSOLE(17)] "A parser-blocking, cross site (i.e. different eTLD+1) script, http://c.cnzz.com/core.php?web_id=2435580&t=z, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://s6.cnzz.com/stat.php?id=2435580&web_id=2435580 (17)
+[1:1:0326/020644.293214:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020644.298423:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[14849:14849:0326/020644.302212:INFO:CONSOLE(17)] "A parser-blocking, cross site (i.e. different eTLD+1) script, http://c.cnzz.com/core.php?web_id=2435580&t=z, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: http://s6.cnzz.com/stat.php?id=2435580&web_id=2435580 (17)
+[14849:14849:0326/020644.404525:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:7_https://pos.baidu.com/, https://pos.baidu.com/, 5
+[14849:14849:0326/020644.404604:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 5, 7, https://pos.baidu.com/, https://pos.baidu.com
+[1:1:0326/020644.421374:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020644.421597:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020644.427141:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020644.427376:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020644.448066:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020644.448347:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020644.520666:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020644.521073:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020644.529182:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/020644.539316:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020644.541154:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/020644.627636:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020644.630753:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020644.646414:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020644.647014:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020644.649265:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020644.649732:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020644.655238:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020644.656078:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020644.658018:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020644.658445:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020644.661208:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020644.664824:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020644.672253:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020644.673168:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020644.674629:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020644.676861:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020644.686326:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020644.687418:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020644.689879:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020644.690519:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020644.694816:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020644.695414:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020644.703012:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020644.703485:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020644.705184:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020644.705489:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020644.706808:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020644.709120:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020644.715015:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020644.715448:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020644.722986:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020644.728850:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020644.730588:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020644.731575:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020644.733375:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020644.733812:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020644.736716:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/020644.737223:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/020644.738398:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/020644.738879:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/020644.739869:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/020644.740281:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/020644.741332:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/020644.741698:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/020644.743065:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "blur", 0
+[1:1:0326/020644.743552:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "blur" with permission 0
+[1:1:0326/020644.745076:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "blur", 0
+[1:1:0326/020644.745487:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "blur" with permission 0
+[1:1:0326/020644.746809:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "blur", 0
+[1:1:0326/020644.747449:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "blur" with permission 0
+[1:1:0326/020644.748408:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "blur", 0
+[1:1:0326/020644.748823:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "blur" with permission 0
+[1:1:0326/020644.751615:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020644.752093:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020644.753117:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020644.753922:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020644.765160:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020644.765843:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020644.768827:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "scroll", 0
+[1:1:0326/020644.769310:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "scroll" with permission 0
+[1:1:0326/020644.770294:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "resize", 0
+[1:1:0326/020644.770682:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "resize" with permission 0
+[1:1:0326/020644.820916:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020644.821452:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020644.832603:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:6_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020644.836497:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:6_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020644.971589:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:7_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020644.982543:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:7_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020644.990556:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:7_https://pos.baidu.com/, 2d99660f6d08, , , 
+[1:1:0326/020644.991116:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/dcdm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=113033,110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780261&dri=0&dis=0&dai=2&ps=669x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x669&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213602&qn=dd35a68b646a580e&tt=1585213601463.96.100.104", "pos.baidu.com", 7, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020644.993175:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d99660f6d08, 2d99660f6d08, "https://pos.baidu.com", "http://114.haoyer.com/html/youxiang/", postMessage
+[1:1:0326/020644.995656:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d99660f6d08, 2d99660f6d08, "https://pos.baidu.com", "http://114.haoyer.com/html/youxiang/", postMessage
+[1:1:0326/020644.996955:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d99660f6d08, 2d99660f6d08, "https://pos.baidu.com", "http://114.haoyer.com/html/youxiang/", 
+[1:1:0326/020645.008946:INFO:html_tree_builder.cc(780)] >>> [renderer][DOM] receive <iframe>
+[14849:14849:0326/020645.012820:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[14849:14849:0326/020645.023894:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: , 8, 6, 
+[1:1:0326/020645.025366:INFO:render_frame_impl.cc(7031)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0326/020645.026410:INFO:render_frame_impl.cc(7032)] 	 [url] = https://pos.baidu.com
+[1:1:0326/020645.031551:INFO:html_tree_builder.cc(780)] >>> [renderer][DOM] receive <iframe>
+[14849:14849:0326/020645.047432:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 5:7_https://pos.baidu.com/
+[1:1:0326/020645.050501:INFO:render_frame_impl.cc(7031)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[14849:14849:0326/020645.052312:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[1:1:0326/020645.053347:INFO:render_frame_impl.cc(7032)] 	 [url] = https://pos.baidu.com
+[14849:14849:0326/020645.054735:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: , 9, 7, 
+[14849:14849:0326/020645.073754:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 5:7_https://pos.baidu.com/
+[1:1:0326/020645.077155:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.077889:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.104243:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:6_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020645.135739:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:6_https://pos.baidu.com/, 2d99660edf88, , , 
+[1:1:0326/020645.136038:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/dcdm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213601&qn=1a362ba2f83af4e3&tt=1585213600259.527.534.544", "pos.baidu.com", 6, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020645.139316:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d99660edf88, 2d99660edf88, "https://pos.baidu.com", "http://114.haoyer.com/html/youxiang/", postMessage
+[1:1:0326/020645.139814:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d99660edf88, 2d99660edf88, "https://pos.baidu.com", "http://114.haoyer.com/html/youxiang/", postMessage
+[1:1:0326/020645.140087:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d99660edf88, 2d99660edf88, "https://pos.baidu.com", "http://114.haoyer.com/html/youxiang/", 
+[1:1:0326/020645.204418:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020645.204743:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020645.205083:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020645.205712:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020645.212027:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020645.212296:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020645.229662:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.230474:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.247945:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/020645.249367:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.249582:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.261874:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.262140:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.267937:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020645.268982:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.269210:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.272279:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020645.416544:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.417207:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.420145:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020645.420760:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.422316:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.426083:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020645.440973:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.441401:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.473437:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.473944:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.503913:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.504332:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.510047:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.510426:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.534813:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.535246:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.571894:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.572288:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.581749:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.587948:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.594039:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.594511:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.598838:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.599251:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.603596:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.603999:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.619162:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.619565:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.624709:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.625136:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.629486:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.629896:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.634457:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.634819:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.641440:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.641789:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.651721:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.652219:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.657273:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.657702:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.662057:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.662523:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.669316:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.669851:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.696036:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.696608:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.709724:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.710144:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.722115:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.722669:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.739662:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.742154:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.752799:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.753500:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.758849:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.760475:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.772155:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.772593:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.792111:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.792875:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.830246:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.831635:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.836970:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.837311:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.910111:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.912301:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020645.940157:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020645.940449:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.008382:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.008622:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[14849:14849:0326/020646.037731:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[14849:14849:0326/020646.041544:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[14849:14859:0326/020646.045141:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 8
+[14849:14859:0326/020646.045259:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 8, HandleIncomingMessage, HandleIncomingMessage
+[14849:14849:0326/020646.045423:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation https://vt.ipinyou.com/
+[14849:14849:0326/020646.045487:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:8_https://vt.ipinyou.com/, https://vt.ipinyou.com/IiplnX66QNTYXOBVZVld.lN7o9P.IkdTZAB7G2zyGBjzeEbswRMqE4jCvHvmYhBkopSzY89W7QSKy0Ns65dHHvR9ttso_BGRw0XAQTCh3Qc_JhCAUxBTgemyJofZUhcLyrFHW9RghsRFiYbMWA1t_6LcAQfrDS2EtudUGq2W3ZLzeFlnGxaioyj2aMMh7Fuz-Jat0TN2rmbg4KzXIJ8vheTqOdTGHg2SeJz7Qwa620NTkhKsyCbGFwnGq0jG0GeXD18Eiw31o389ZCVkrHC7aKkz7kjtha1jQu5JXTNWXqpruF1RUFCpgeBCwofbIW-Mwa2yHTpqiYNB8dcBVezXCZxg1gMctdxjqxRtU9u9wOTflm2fUxpnM99pEm1DxDEVy5MO.tnFGO3waDMsjEjkvgqkJxP?eup=http%3A%2F%2Fclick%2Ebes%2Ebaidu%2Ecom%2Fadx%2Ephp%3Fc%3Dcz1mN2NmYmYxMTA4YzBmYTZjAHQ9MTU4NTIxMzYwMQBzZT0xAGJ1PTY0MTgwNDEAdHU9dTE3ODAyNjEAYWQ9MTU4NDAxMDk5MzUwNABzaXRlPWh0dHA6Ly8xMTQuaGFveWVyLmNvbS9odG1sL3lvdXhpYW5nLwB2PTEAaT0xZmI4OTdjMA%26k%3Ddz05NjAAaD02MABjc2lkPTM4NjU0NzA1NzYwMAB0bT0xMjE5MjI3AHRkPTE3ODAyNjEAd2k9NjQxODA0MQBmbj0wMjA3OTA1NV9jcHIAZmFuPQB1aWQ9MjU0NTY2NDQAY2g9MABvcz03AGJyPTEyAGlwPTEyMC4yMjguMTY2LjExMgBzc3A9MQBhcHBfaWQ9AGFwcF9zaWQ9AHNka192ZXJzaW9uPQB0dHA9MQBjb21wbGU9MABzdHlwZT0wAGNobWQ9MABzY2htZD0wAHhpcD0AZHRwPTEAY21hdGNoPTIwMABmaXJzdF9yZWdpb249MTcAc2Vjb25kX3JlZ2lvbj0zNTUAYmJ0PTEAYWJ0PTEAbnR0cD0xAGJtbD0wAGFkY2xhc3M9MA%26url%3D, 6
+[1:7:0326/020646.049213:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/020646.054516:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020646.056689:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:6_https://pos.baidu.com/, 
+[1:1:0326/020646.060715:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:6_https://pos.baidu.com/, 2d99660edf88, , , 
+[1:1:0326/020646.063093:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/dcdm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213601&qn=1a362ba2f83af4e3&tt=1585213600259.527.534.544", "pos.baidu.com", 6, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020646.136974:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020646.138796:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020646.139641:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/020646.139928:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/020646.143753:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d99660edf88, 2d99660edf88, "https://pos.baidu.com", "http://114.haoyer.com/html/youxiang/", postMessage
+[1:1:0326/020646.144140:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d99660edf88, 2d99660edf88, "https://pos.baidu.com", "http://114.haoyer.com/html/youxiang/", postMessage
+[1:1:0326/020646.145306:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d99660edf88, 2d99660edf88, "https://pos.baidu.com", "http://114.haoyer.com/html/youxiang/", 
+[1:1:0326/020646.146877:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "message", 0
+[1:1:0326/020646.147249:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "message" with permission 0
+[1:1:0326/020646.159503:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020646.165088:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_http://114.haoyer.com/, 5:6_https://pos.baidu.com/
+[1:1:0326/020646.166459:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 2, -5:6_https://pos.baidu.com/-5:3_http://114.haoyer.com/, 2d9965fc2860, 5:6_https://pos.baidu.com/, , 
+[1:1:0326/020646.167955:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 2, , , 0
+[1:1:0326/020646.168960:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213601&qn=1a362ba2f83af4e3&tt=1585213600259.527.534.544", postMessage
+[1:1:0326/020646.170003:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213601&qn=1a362ba2f83af4e3&tt=1585213600259.527.534.544", postMessage
+[1:1:0326/020646.170887:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213601&qn=1a362ba2f83af4e3&tt=1585213600259.527.534.544", 
+[1:1:0326/020646.173562:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020646.173967:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_http://114.haoyer.com/, 5:3_http://114.haoyer.com/
+[1:1:0326/020646.175462:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213601&qn=1a362ba2f83af4e3&tt=1585213600259.527.534.544", postMessage
+[1:1:0326/020646.178729:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213601&qn=1a362ba2f83af4e3&tt=1585213600259.527.534.544", postMessage
+[1:1:0326/020646.180617:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213601&qn=1a362ba2f83af4e3&tt=1585213600259.527.534.544", 
+[1:1:0326/020646.183968:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213601&qn=1a362ba2f83af4e3&tt=1585213600259.527.534.544", postMessage
+[1:1:0326/020646.186446:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213601&qn=1a362ba2f83af4e3&tt=1585213600259.527.534.544", postMessage
+[1:1:0326/020646.193635:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213601&qn=1a362ba2f83af4e3&tt=1585213600259.527.534.544", 
+[1:1:0326/020646.219102:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.219416:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.223524:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:8_https://vt.ipinyou.com/
+[1:1:0326/020646.260233:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020646.261089:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:6_https://pos.baidu.com/, 2d99660edf88, , , 
+[1:1:0326/020646.261372:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/dcdm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213601&qn=1a362ba2f83af4e3&tt=1585213600259.527.534.544", "pos.baidu.com", 6, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020646.263713:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020646.264247:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:6_https://pos.baidu.com/, 2d99660edf88, , , 
+[1:1:0326/020646.264778:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/dcdm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213601&qn=1a362ba2f83af4e3&tt=1585213600259.527.534.544", "pos.baidu.com", 6, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020646.274723:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d99660edf88, 2d99660edf88, "https://pos.baidu.com", "http://114.haoyer.com/html/youxiang/", postMessage
+[1:1:0326/020646.276196:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d99660edf88, 2d99660edf88, "https://pos.baidu.com", "http://114.haoyer.com/html/youxiang/", postMessage
+[1:1:0326/020646.276598:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d99660edf88, 2d99660edf88, "https://pos.baidu.com", "http://114.haoyer.com/html/youxiang/", 
+[14849:14849:0326/020646.335790:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:8_https://vt.ipinyou.com/, https://vt.ipinyou.com/, 6
+[14849:14849:0326/020646.335870:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 6, 8, https://vt.ipinyou.com/, https://vt.ipinyou.com
+[1:1:0326/020646.382301:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020646.382987:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.383226:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.384894:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event message with permission 0
+[1:1:0326/020646.419039:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.419500:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.437699:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.437947:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.457958:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.458313:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.477613:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:8_https://vt.ipinyou.com/@0, task's permission is 0
+[1:1:0326/020646.491641:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:8_https://vt.ipinyou.com/@0, task's permission is 0
+[1:1:0326/020646.502151:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:8_https://vt.ipinyou.com/@0, task's permission is 0
+[1:1:0326/020646.565058:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.565476:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.589670:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.590316:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.607080:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.607517:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.620621:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.621031:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[14849:14849:0326/020646.626544:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[14849:14849:0326/020646.630411:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[14849:14849:0326/020646.634318:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation https://cm.cn.miaozhen.com/
+[14849:14859:0326/020646.634378:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 9
+[14849:14849:0326/020646.634410:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:9_https://cm.cn.miaozhen.com/, https://cm.cn.miaozhen.com/ipinyou.gif?ipinyou_uid=K3QH6iFY0027J, 7
+[14849:14859:0326/020646.634454:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 9, HandleIncomingMessage, HandleIncomingMessage
+[1:1:0326/020646.631063:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.636503:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:7:0326/020646.639938:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/020646.641080:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:9_https://cm.cn.miaozhen.com/
+[1:1:0326/020646.681156:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.681469:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[14849:14849:0326/020646.702402:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:9_https://cm.cn.miaozhen.com/, https://cm.cn.miaozhen.com/, 7
+[14849:14849:0326/020646.702480:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 7, 9, https://cm.cn.miaozhen.com/, https://cm.cn.miaozhen.com
+[1:1:0326/020646.739249:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.739619:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.753568:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.754058:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.761756:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.762026:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.772525:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.772984:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.777740:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.778109:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.785632:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.786271:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.841400:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.844572:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.871571:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:8_https://vt.ipinyou.com/, 2d99660dcdc8, , , 
+[1:1:0326/020646.872107:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://vt.ipinyou.com/IiplnX66QNTYXOBVZVld.lN7o9P.IkdTZAB7G2zyGBjzeEbswRMqE4jCvHvmYhBkopSzY89W7QSKy0Ns65dHHvR9ttso_BGRw0XAQTCh3Qc_JhCAUxBTgemyJofZUhcLyrFHW9RghsRFiYbMWA1t_6LcAQfrDS2EtudUGq2W3ZLzeFlnGxaioyj2aMMh7Fuz-Jat0TN2rmbg4KzXIJ8vheTqOdTGHg2SeJz7Qwa620NTkhKsyCbGFwnGq0jG0GeXD18Eiw31o389ZCVkrHC7aKkz7kjtha1jQu5JXTNWXqpruF1RUFCpgeBCwofbIW-Mwa2yHTpqiYNB8dcBVezXCZxg1gMctdxjqxRtU9u9wOTflm2fUxpnM99pEm1DxDEVy5MO.tnFGO3waDMsjEjkvgqkJxP?eup=http%3A%2F%2Fclick%2Ebes%2Ebaidu%2Ecom%2Fadx%2Ephp%3Fc%3Dcz1mN2NmYmYxMTA4YzBmYTZjAHQ9MTU4NTIxMzYwMQBzZT0xAGJ1PTY0MTgwNDEAdHU9dTE3ODAyNjEAYWQ9MTU4NDAxMDk5MzUwNABzaXRlPWh0dHA6Ly8xMTQuaGFveWVyLmNvbS9odG1sL3lvdXhpYW5nLwB2PTEAaT0xZmI4OTdjMA%26k%3Ddz05NjAAaD02MABjc2lkPTM4NjU0NzA1NzYwMAB0bT0xMjE5MjI3AHRkPTE3ODAyNjEAd2k9NjQxODA0MQBmbj0wMjA3OTA1NV9jcHIAZmFuPQB1aWQ9MjU0NTY2NDQAY2g9MABvcz03AGJyPTEyAGlwPTEyMC4yMjguMTY2LjExMgBzc3A9MQBhcHBfaWQ9AGFwcF9zaWQ9AHNka192ZXJzaW9uPQB0dHA9MQBjb21wbGU9MABzdHlwZT0wAGNobWQ9MABzY2htZD0wAHhpcD0AZHRwPTEAY21hdGNoPTIwMABmaXJzdF9yZWdpb249MTcAc2Vjb25kX3JlZ2lvbj0zNTUAYmJ0PTEAYWJ0PTEAbnR0cD0xAGJtbD0wAGFkY2xhc3M9MA%26url%3D", "vt.ipinyou.com", 8, 1, https://pos.baidu.com, pos.baidu.com, 7
+[1:1:0326/020646.890269:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/020646.903694:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/020646.905159:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/020646.905576:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/020646.911835:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020646.925589:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020646.958316:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.958556:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020646.988200:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020646.988647:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020647.017022:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020647.020969:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020647.042440:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020647.042675:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020647.079996:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020647.086597:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_http://114.haoyer.com/, 
+[1:1:0326/020647.087014:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020647.087175:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020647.087639:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=113033,110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780261&dri=0&dis=0&dai=2&ps=669x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x669&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213602&qn=dd35a68b646a580e&tt=1585213601463.96.100.104", postMessage
+[1:1:0326/020647.088367:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=113033,110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780261&dri=0&dis=0&dai=2&ps=669x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x669&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213602&qn=dd35a68b646a580e&tt=1585213601463.96.100.104", postMessage
+[1:1:0326/020647.089437:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=113033,110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780261&dri=0&dis=0&dai=2&ps=669x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x669&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213602&qn=dd35a68b646a580e&tt=1585213601463.96.100.104", 
+[1:1:0326/020647.091522:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020647.091856:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_http://114.haoyer.com/, 5:3_http://114.haoyer.com/
+[1:1:0326/020647.093050:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=113033,110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780261&dri=0&dis=0&dai=2&ps=669x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x669&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213602&qn=dd35a68b646a580e&tt=1585213601463.96.100.104", postMessage
+[1:1:0326/020647.094106:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=113033,110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780261&dri=0&dis=0&dai=2&ps=669x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x669&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213602&qn=dd35a68b646a580e&tt=1585213601463.96.100.104", postMessage
+[1:1:0326/020647.095532:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=113033,110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780261&dri=0&dis=0&dai=2&ps=669x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x669&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213602&qn=dd35a68b646a580e&tt=1585213601463.96.100.104", 
+[1:1:0326/020647.096437:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=113033,110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780261&dri=0&dis=0&dai=2&ps=669x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x669&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213602&qn=dd35a68b646a580e&tt=1585213601463.96.100.104", postMessage
+[1:1:0326/020647.097079:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=113033,110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780261&dri=0&dis=0&dai=2&ps=669x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x669&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213602&qn=dd35a68b646a580e&tt=1585213601463.96.100.104", postMessage
+[1:1:0326/020647.097740:INFO:binding_security.cc(160)] 		>>> [SOP][ERROR] [va_str, va, subject_origin, target_url, object_name] = 2d9965fc2860, 2d9965fc2860, "http://114.haoyer.com", "https://pos.baidu.com/dcdm?conwid=960&conhei=60&rdid=1780261&dc=3&exps=113033,110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780261&dri=0&dis=0&dai=2&ps=669x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x669&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213602&qn=dd35a68b646a580e&tt=1585213601463.96.100.104", 
+[1:1:0326/020647.102098:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020647.102425:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_http://114.haoyer.com/, 5:3_http://114.haoyer.com/
+[1:1:0326/020647.103671:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020647.103892:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_http://114.haoyer.com/, 5:3_http://114.haoyer.com/
+[14849:14849:0326/020647.114413:INFO:render_frame_host_impl.cc(1417)] 	 enter RenderFrameHostImpl::OnCreateChildFrame
+[14849:14849:0326/020647.120950:INFO:frame_tree.cc(218)] 	 enter FrameTree::AddFrame: , 10, 8, 
+[1:1:0326/020647.135572:INFO:render_frame_impl.cc(7031)] >>> [renderer][DOM] RenderFrameImpl::BeginNavigation
+[1:1:0326/020647.135806:INFO:render_frame_impl.cc(7032)] 	 [url] = http://114.haoyer.com
+[14849:14849:0326/020647.137037:INFO:render_frame_host_impl.cc(3108)] >>> [broswer][navigation] RenderFrameHostImpl::BeginNavigation. ID from switcher is 5:3_http://114.haoyer.com/
+[1:1:0326/020647.137171:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020647.137382:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_http://114.haoyer.com/, 5:3_http://114.haoyer.com/
+[1:1:0326/020647.138209:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020647.138393:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_http://114.haoyer.com/, 5:3_http://114.haoyer.com/
+[1:1:0326/020647.151543:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020647.151750:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[14849:14849:0326/020647.152402:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[14849:14849:0326/020647.154882:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[14849:14859:0326/020647.157492:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 10
+[14849:14859:0326/020647.157582:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 10, HandleIncomingMessage, HandleIncomingMessage
+[14849:14849:0326/020647.159946:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation https://pos.baidu.com/
+[14849:14849:0326/020647.160045:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:10_https://pos.baidu.com/, https://pos.baidu.com/wh/o.htm?ltr=, 8
+[1:7:0326/020647.160871:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/020647.172803:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:10_https://pos.baidu.com/
+[14849:14849:0326/020647.233990:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:10_https://pos.baidu.com/, https://pos.baidu.com/, 8
+[14849:14849:0326/020647.234114:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 8, 10, https://pos.baidu.com/, https://pos.baidu.com
+[1:1:0326/020647.248122:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:6_https://pos.baidu.com/, 2d99660edf88, , , 
+[1:1:0326/020647.248477:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/dcdm?conwid=999&conhei=38&rdid=1780255&dc=3&exps=110011&psi=c55fe346afb8730a1a53fbb8e90d6c6d&di=u1780255&dri=0&dis=0&dai=1&ps=112x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585213600739&ti=%E9%82%AE%E7%AE%B1&ari=2&ver=0325&dbv=2&drs=1&pcs=723x417&pss=1000x417&cfv=0&cpl=2&chi=2&cce=true&cec=UTF-8&tlm=1465890904&prot=2&rw=417&ltu=http%3A%2F%2F114.haoyer.com%2Fhtml%2Fyouxiang%2F&ecd=1&uc=735x576&pis=-1x-1&sr=800x600&tcn=1585213601&qn=1a362ba2f83af4e3&tt=1585213600259.527.534.544", "pos.baidu.com", 6, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020647.340778:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:10_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020647.343564:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:10_https://pos.baidu.com/@0, task's permission is 0
+[1:1:0326/020647.375778:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020647.376115:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020647.431914:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:10_https://pos.baidu.com/, 2d99660935f0, , , 
+[1:1:0326/020647.432393:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/wh/o.htm?ltr=", "pos.baidu.com", 10, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020647.440626:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/020647.441115:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/020647.447070:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020647.447443:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://pos.baidu.com/wh/o.htm?ltr="
+[1:1:0326/020647.449076:INFO:cookie_jar.cc(74)] 		 get cookie "BAIDUID=687DC57E37B6C60DF20BE62B0D4937EB:FG=1"
+[1:1:0326/020647.450663:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/020647.450991:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://pos.baidu.com/wh/o.htm?ltr="
+[1:1:0326/020647.453372:INFO:cookie_jar.cc(74)] 		 get cookie "BAIDUID=687DC57E37B6C60DF20BE62B0D4937EB:FG=1"
+[1:1:0326/020647.475263:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/020647.475461:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:10_https://pos.baidu.com/, 5:10_https://pos.baidu.com/
+[1:1:0326/020647.519307:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_http://114.haoyer.com/@0, task's permission is 0
+[1:1:0326/020647.713475:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:10_https://pos.baidu.com/, 2d99660935f0, , , 
+[1:1:0326/020647.713741:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/wh/o.htm?ltr=", "pos.baidu.com", 10, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020647.838345:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020647.838742:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020647.966136:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:10_https://pos.baidu.com/, 2d99660935f0, , , 
+[1:1:0326/020647.967152:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/wh/o.htm?ltr=", "pos.baidu.com", 10, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020648.219759:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:10_https://pos.baidu.com/, 2d99660935f0, , , 
+[1:1:0326/020648.220416:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/wh/o.htm?ltr=", "pos.baidu.com", 10, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020648.337495:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020648.338097:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020648.473793:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:10_https://pos.baidu.com/, 2d99660935f0, , , 
+[1:1:0326/020648.474492:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/wh/o.htm?ltr=", "pos.baidu.com", 10, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020648.726871:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:10_https://pos.baidu.com/, 2d99660935f0, , , 
+[1:1:0326/020648.727515:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/wh/o.htm?ltr=", "pos.baidu.com", 10, 1, http://114.haoyer.com, 114.haoyer.com, 3
+[1:1:0326/020648.840189:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_http://114.haoyer.com/, 2d9965fc2860, , , 
+[1:1:0326/020648.841131:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "http://114.haoyer.com/html/youxiang/", "114.haoyer.com", 3, 1, , , 0
+[1:1:0326/020648.980168:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:10_https://pos.baidu.com/, 2d99660935f0, , , 
+[1:1:0326/020648.981001:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://pos.baidu.com/wh/o.htm?ltr=", "pos.baidu.com", 10, 1, http://114.haoyer.com, 114.haoyer.com, 3

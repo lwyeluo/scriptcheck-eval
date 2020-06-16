@@ -1,0 +1,695 @@
+[1:1:0326/005550.351686:INFO:content_main_runner.cc(320)] >>> [Setup] RunZyote
+[1:1:0326/005550.352098:INFO:zygote_main_linux.cc(351)] >>> [Setup] tmpfile success. fd is 315
+[3:3:0326/005550.356538:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 3
+[4973:4973:0326/005550.873956:INFO:extension_system_impl.cc(379)] >>> [browser][EXT] ExtensionSystemImpl::InitForRegularProfile
+
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/bbb5a7f7-bcfd-4936-9f7a-e9b40db0d095
+[4973:4973:0326/005551.243948:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 3
+[4973:5002:0326/005551.244629:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 3
+[3:3:0326/005551.244817:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0326/005551.244976:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0326/005551.245398:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0326/005551.245523:INFO:zygote_linux.cc(614)] 		cid is 3
+[1:1:0326/005551.254596:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0x3062b3e3, 1
+[1:1:0326/005551.254923:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0x859ae3a, 0
+[1:1:0326/005551.255026:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0x8506a4c, 3
+[1:1:0326/005551.255121:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0x2cc2c2cc, 2
+[1:1:0326/005551.255209:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = 3affffffae5908 ffffffe3ffffffb36230 ffffffccffffffc2ffffffc22c 4c6a5008 , 6552, 3
+[4973:5002:0326/005551.255393:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PING:®Yã³b0ÌÂÂ,LjP%À;
+[4973:5002:0326/005551.255441:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is :®Yã³b0ÌÂÂ,LjPh%À;
+[4973:5002:0326/005551.255665:INFO:switcher_host_impl.cc(16)] >>> [INIT] create a SwitcherSiteQueue
+[4973:5002:0326/005551.255697:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 5018, 3, 3aae5908 e3b36230 ccc2c22c 4c6a5008 
+[1:1:0326/005551.313355:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0326/005551.326086:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[4973:4973:0326/005552.406650:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[4973:4973:0326/005552.408369:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[4973:4973:0326/005552.428274:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation chrome://welcome/
+[4973:4973:0326/005552.428353:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 3, 3:2_chrome://welcome/, chrome://welcome/?variant=everywhere, 1
+[4973:4983:0326/005552.433745:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 3, 2
+[4973:4983:0326/005552.433870:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 3, 2, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0326/005552.434748:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/005552.755169:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 3:2_chrome://welcome/
+[4973:4973:0326/005552.813695:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 4
+[4973:5002:0326/005552.814224:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 4
+[3:3:0326/005552.814415:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0326/005552.814653:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0326/005552.815236:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0326/005552.815680:INFO:zygote_linux.cc(614)] 		cid is 4
+[1:1:0326/005552.824433:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0x9355d98, 1
+[1:1:0326/005552.826429:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0x79acf45, 0
+[1:1:0326/005552.834388:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0x37741dc6, 3
+[1:1:0326/005552.834579:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0x26bfa040, 2
+[1:1:0326/005552.834720:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = 45ffffffcfffffff9a07 ffffff985d3509 40ffffffa0ffffffbf26 ffffffc61d7437 , 6552, 4
+[4973:5002:0326/005552.835012:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PINGEÏš˜]5	@ ¿&Æt7lÀ;
+[4973:5002:0326/005552.835065:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is EÏš˜]5	@ ¿&Æt7ÈlÀ;
+[4973:5002:0326/005552.839194:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 5044, 4, 45cf9a07 985d3509 40a0bf26 c61d7437 
+[1:1:0326/005552.955136:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[4973:4973:0326/005552.987438:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[4973:4973:0326/005552.988368:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[4973:4973:0326/005552.989926:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/
+[4973:4973:0326/005552.989993:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/, chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/_generated_background_page.html, 2
+[1:1:0326/005552.984706:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[4973:4983:0326/005553.279700:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 4, 2
+[4973:4983:0326/005553.279796:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 4, 2, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0326/005553.322988:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[1:1:0326/005553.494755:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/
+[4973:4973:0326/005553.717778:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 3, 3:2_chrome://welcome/, chrome://welcome/, 1
+[4973:4973:0326/005553.717837:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 1, 2, chrome://welcome/, chrome://welcome
+[1:1:0326/005553.722205:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.723752:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.725559:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.727034:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.729031:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.730459:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.731975:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.735342:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.736879:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.738413:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.739849:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.741214:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.742684:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.744103:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.745605:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.747141:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.748686:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.750225:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.754101:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.756358:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.758561:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.760574:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.762157:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.765223:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.767178:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[4973:4973:0326/005553.767448:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 4, 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/, chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/, 2
+[4973:4973:0326/005553.767520:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 2, 2, chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/, chrome-extension://kmendfapggjehodndflmmgagdbamhnfd
+[1:1:0326/005553.769068:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.771048:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.774281:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.776001:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.780167:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.782285:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.783895:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.789152:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.791256:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.793629:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.800022:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.801402:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.804295:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.807568:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.809642:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.814964:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.818796:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.819517:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005553.820655:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.821802:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005553.823824:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.825723:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005553.827379:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.831565:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/@0, task's permission is 0
+[1:1:0326/005553.831565:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005553.841583:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005553.843075:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005553.845781:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005553.851707:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005554.028467:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "readystatechange", 0
+[1:1:0326/005554.031772:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "readystatechange" with permission 0
+[1:1:0326/005554.685524:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005554.690793:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005554.698424:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[4973:4973:0326/005554.716469:INFO:render_process_host_impl.cc(1626)] >>> RenderProcessHostImpl::Init. cid = 5
+[4973:5002:0326/005554.717864:INFO:zygote_communication_linux.cc(115)] >>> ZygoteCommunication::ForkRequest. cid is 5
+[3:3:0326/005554.718061:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 0
+[3:3:0326/005554.718234:INFO:zygote_linux.cc(674)] >>> [Setup] Zygote begins to fork a new process
+[3:3:0326/005554.718474:INFO:zygote_linux.cc(607)] 	Zygote::ReadArgsAndFork. begin to read cid
+[3:3:0326/005554.718572:INFO:zygote_linux.cc(614)] 		cid is 5
+[1:1:0326/005554.717553:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005554.728777:INFO:switcher_init.cc(81)] >>> [INFO] key id[0] is 0xcb89f45, 1
+[1:1:0326/005554.738375:INFO:switcher_init.cc(81)] >>> [INFO] key id[1] is 0x39698603, 0
+[1:1:0326/005554.738528:INFO:switcher_init.cc(81)] >>> [INFO] key id[2] is 0x115304ac, 3
+[1:1:0326/005554.738646:INFO:switcher_init.cc(81)] >>> [INFO] key id[3] is 0x3adf348c, 2
+[1:1:0326/005554.738725:INFO:switcher_init.cc(91)] >>> [INIT] [key for HMAC, sizeof(metadata), cid] = 03ffffff866939 45ffffff9fffffffb80c ffffff8c34ffffffdf3a ffffffac045311 , 6552, 5
+[4973:5002:0326/005554.738909:INFO:zygote_communication_linux.cc(157)] >>> [INIT] [n, buf] = 26, CHILD_PING†i9EŸ¸Œ4ß:¬SºÀ;
+[4973:5002:0326/005554.738951:INFO:zygote_communication_linux.cc(164)] >>> [INIT] key for HMAC is †i9EŸ¸Œ4ß:¬SØ©ºÀ;
+[4973:5002:0326/005554.739141:INFO:switcher_host_impl.cc(95)] >>> [Key] add a new renderer process. [pid, cid, key] = 5081, 5, 03866939 459fb80c 8c34df3a ac045311 
+[1:1:0326/005554.795312:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005554.810230:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005554.813528:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005554.815456:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005554.819991:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005554.822632:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005554.836371:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005554.832945:INFO:partitions.cc(74)] >>> [Partition] Partitions::Initialize
+[1:1:0326/005554.844983:INFO:v8_initializer.cc(584)] >>> [V8] V8Initializer::InitializeMainThread
+[4973:4973:0326/005555.014284:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
+[1:1:0326/005555.095958:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.124371:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event readystatechange with permission 0
+[1:1:0326/005555.126609:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = readystatechange, 4:2_chrome-extension://kmendfapggjehodndflmmgagdbamhnfd/, 
+[1:1:0326/005555.137636:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.151973:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.156594:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.172077:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.176459:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.184450:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.227575:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.398961:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.403722:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.495847:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.508159:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.513849:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[4973:4973:0326/005555.519473:INFO:navigation_url_loader_network_service.cc(1293)] 	 enter NavigationURLLoaderNetworkService::OnReceiveResponse
+[1:1:0326/005555.529179:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[4973:4973:0326/005555.536756:INFO:navigation_handle_impl.cc(765)] 	 enter NavigationHandleImpl::WillProcessResponse
+[1:1:0326/005555.538157:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[4973:4973:0326/005555.548820:INFO:render_frame_host_impl.cc(3699)] >>> RenderFrameHostImpl::CommitNavigation https://www.baidu.com/
+[4973:4973:0326/005555.549132:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:3_https://www.baidu.com/, https://www.baidu.com/, 1
+[4973:4983:0326/005555.574836:INFO:interface_endpoint_client.cc(463)] >>> [Frame] get kURLLoader_ProceedWithResponse_Name. [pid, routing_id] = 5, 3
+[4973:4983:0326/005555.574967:INFO:mojo_async_resource_handler.cc(459)] >>> [IPC] MojoAsyncResourceHandler::ProceedWithResponse konws [cid, routing_id]: 5, 3, HandleIncomingMessage, HandleIncomingMessage
+[1:7:0326/005555.587189:INFO:ipc_mojo_bootstrap.cc(809)] >>> [IPC] Accept. post a task to AcceptOnProxyThread
+[1:1:0326/005555.587708:INFO:ipc_mojo_bootstrap.cc(894)] ### [Switcher][kFrameNavigationControl_CommitNavigation_Name] get additional field: 5:3_https://www.baidu.com/
+[1:1:0326/005555.635138:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.668579:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.692706:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.736040:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.776315:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/005555.777164:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/005555.823477:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005555.826129:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[4973:4973:0326/005555.860481:INFO:switcher_host_impl.cc(127)] >>> [Key] add a new principal. [cid, principal, url, frame_id] = 5, 5:3_https://www.baidu.com/, https://www.baidu.com/, 1
+[4973:4973:0326/005555.860544:INFO:frame_tree_node.cc(349)] 	FrameTreeNode::SetCurrentOrigin. [frameid, routingid, origin, url] = 1, 3, https://www.baidu.com/, https://www.baidu.com
+[1:1:0326/005555.882485:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.949150:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.979350:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 3:2_chrome://welcome/@0, task's permission is 0
+[1:1:0326/005555.993861:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005556.000361:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005556.009091:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005556.028526:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005556.043901:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/005556.049135:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/005556.050825:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/005556.057167:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/005556.065638:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/005556.070868:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/005556.083188:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/005556.089604:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/005556.098896:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005556.107858:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/005556.132639:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005556.154590:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/005556.195469:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005556.197571:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/005556.203435:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005556.203885:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/005556.204476:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005556.204828:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/005556.205355:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005556.205674:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/005556.206267:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005556.206606:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/005556.207120:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005556.207457:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/005556.207980:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005556.208312:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/005556.208815:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005556.209132:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/005556.209607:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005556.209999:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/005556.213112:INFO:html_parser_scheduler.cc(139)]  		HTMLParserScheduler::YieldIfNeeded. 0.393638, 228, 1
+[1:1:0326/005556.260380:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005556.516901:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005556.519222:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005556.554149:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005556.554417:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005556.590083:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005556.590380:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005556.596047:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005556.596369:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005556.598254:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BDSVRTM=0; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350"
+[1:1:0326/005556.659838:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005556.660034:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005556.681054:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005556.695960:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005556.696156:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005556.736885:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "submit", 0
+[1:1:0326/005556.737212:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "submit" with permission 0
+[1:1:0326/005556.737581:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "change", 0
+[1:1:0326/005556.737761:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "change" with permission 0
+[1:1:0326/005556.738019:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focusin", 0
+[1:1:0326/005556.738218:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focusin" with permission 0
+[1:1:0326/005556.739388:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "submit", 0
+[1:1:0326/005556.739624:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "submit" with permission 0
+[1:1:0326/005556.739862:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "change", 0
+[1:1:0326/005556.740015:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "change" with permission 0
+[1:1:0326/005556.740162:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focusin", 0
+[1:1:0326/005556.740303:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focusin" with permission 0
+[1:1:0326/005556.745971:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "DOMContentLoaded", 0
+[1:1:0326/005556.746268:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "DOMContentLoaded" with permission 0
+[1:1:0326/005556.746512:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/005556.746669:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/005556.815707:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
+[1:1:0326/005556.902265:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/005556.902575:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[3:3:0326/005556.908833:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 1
+[1:1:0326/005557.041095:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005557.043581:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005557.126714:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/005557.127198:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/005557.128074:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/005557.130078:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/005557.293430:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005557.302108:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005557.306343:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005557.308498:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350"
+[1:1:0326/005557.309218:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005557.310140:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005557.324094:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350"
+[1:1:0326/005557.326552:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005557.327484:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005557.332644:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350"
+[1:1:0326/005557.335205:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005557.335460:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005557.339544:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350"
+[1:1:0326/005557.341642:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005557.343150:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005557.353139:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350"
+[1:1:0326/005557.354996:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005557.355235:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005557.356903:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350"
+[1:1:0326/005557.359530:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005557.359729:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005557.365982:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350"
+[1:1:0326/005557.366503:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005557.366671:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005557.370359:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350"
+[4973:4973:0326/005557.387608:INFO:CONSOLE(359)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f2dbc0a.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (359)
+[1:1:0326/005557.388450:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005557.391662:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005557.391986:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005557.404947:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350"
+[1:1:0326/005557.405900:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005557.406241:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[4973:4973:0326/005557.406472:INFO:CONSOLE(359)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f2dbc0a.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (359)
+[1:1:0326/005557.422814:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350"
+[1:1:0326/005557.610271:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005557.613099:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005557.640539:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005557.641844:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005557.699626:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/005557.700116:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/005557.703392:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005557.827276:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005557.833171:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005557.843835:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event error with permission 0
+[1:1:0326/005557.850158:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005557.851992:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005557.904738:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005557.905657:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005557.920978:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005557.921582:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005557.924815:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005557.931481:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005557.934502:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350"
+[1:1:0326/005557.939886:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "unload", 0
+[1:1:0326/005557.940672:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "unload" with permission 0
+[1:1:0326/005557.943246:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "swap_begin", 0
+[1:1:0326/005557.944158:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "swap_begin" with permission 0
+[1:1:0326/005557.948854:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "swap_end", 0
+[1:1:0326/005557.949331:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "swap_end" with permission 0
+[1:1:0326/005557.950840:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/005557.951312:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_https://www.baidu.com/, 5:3_https://www.baidu.com/
+[1:1:0326/005557.967845:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005557.968510:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005558.004699:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005558.006318:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005558.145760:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005558.146576:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005558.148471:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350"
+[1:1:0326/005558.154940:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "resize", 0
+[1:1:0326/005558.158599:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "resize" with permission 0
+[1:1:0326/005558.188546:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "swap_dom_ready", 0
+[1:1:0326/005558.189675:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "swap_dom_ready" with permission 0
+[1:1:0326/005558.193591:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "unload", 0
+[1:1:0326/005558.194833:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "unload" with permission 0
+[1:1:0326/005558.199123:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005558.201333:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005558.210108:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350"
+[1:1:0326/005558.217357:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005558.220584:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[4973:4973:0326/005558.227360:INFO:CONSOLE(181)] "ä½ åœ¨ç”µè„‘å‰çœ‹è¿™æ®µæ–‡å­—ï¼Œ
+å†™æ–‡å­—çš„äººåœ¨ç™¾åº¦ç­‰ä½ ã€‚
+Nå¹´å‰ä½ æ¥åˆ°äº†è¿™ä¸ªä¸–ç•Œï¼Œ
+Nå¹´åŽä½ æƒ³æ”¹å˜ä¸–ç•Œã€‚
+
+æœŸå¾…ä½ è„šè¸ç¥¥äº‘ï¼Œ
+ä¸Žç™¾åº¦ä¸€èµ·æ”¹å˜ä¸–ç•Œã€‚
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f2dbc0a.js (181)
+[4973:4973:0326/005558.228178:INFO:CONSOLE(181)] "%cç™¾åº¦2020æ ¡å›­æ‹›è˜ç®€åŽ†æäº¤ï¼šhttp://dwz.cn/XpoFdepe", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_f2dbc0a.js (181)
+[1:1:0326/005558.322026:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/005558.322308:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/005558.324611:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005558.345910:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/005558.347262:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/005558.349264:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005558.351154:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005558.361399:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350; BD_UPN=123353"
+[1:1:0326/005558.363433:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005558.364376:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005558.368114:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350; BD_UPN=123353"
+[1:1:0326/005558.368731:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005558.369234:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005558.371276:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350; BD_UPN=123353"
+[1:1:0326/005558.372824:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005558.374586:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005558.384480:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350; BD_UPN=123353"
+[1:1:0326/005558.385021:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005558.385172:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005558.386913:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350; BD_UPN=123353"
+[1:1:0326/005558.387549:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005558.387808:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005558.414970:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350; BD_UPN=123353"
+[1:1:0326/005558.455245:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/005558.456808:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/005558.459038:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "propertychange", 0
+[1:1:0326/005558.466809:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "propertychange" with permission 0
+[1:1:0326/005558.476034:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "input", 0
+[1:1:0326/005558.477526:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "input" with permission 0
+[1:1:0326/005558.481963:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keyup", 0
+[1:1:0326/005558.483498:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keyup" with permission 0
+[1:1:0326/005558.488999:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/005558.490488:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/005558.495719:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "index_off", 0
+[1:1:0326/005558.497609:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "index_off" with permission 0
+[1:1:0326/005558.537939:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005558.566256:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "confirm", 0
+[1:1:0326/005558.566648:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "confirm" with permission 0
+[1:1:0326/005558.617598:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/005558.618377:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/005558.629007:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005558.638883:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/005558.639195:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/005558.641292:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005558.657776:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/005558.658093:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/005558.665093:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005558.665355:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005558.672574:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350; BD_UPN=123353"
+[1:1:0326/005558.675345:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005558.676779:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005558.687639:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350; BD_UPN=123353"
+[1:1:0326/005558.785459:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/005558.785802:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/005558.788021:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005558.818975:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005558.819183:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005558.829803:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350; BD_UPN=123353"
+[1:1:0326/005558.841012:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/005558.841293:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/005558.842752:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseup", 0
+[1:1:0326/005558.842999:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseup" with permission 0
+[1:1:0326/005558.871014:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "indexOff", 0
+[1:1:0326/005558.871278:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "indexOff" with permission 0
+[1:1:0326/005558.871719:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005558.871906:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005558.875569:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350; BD_UPN=123353"
+[1:1:0326/005558.899668:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005558.899925:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/005558.901261:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "focus", 0
+[1:1:0326/005558.902488:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "focus" with permission 0
+[1:1:0326/005558.919215:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "popstate", 0
+[1:1:0326/005558.919455:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "popstate" with permission 0
+[1:1:0326/005558.920692:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "hashchange", 0
+[1:1:0326/005558.920863:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "hashchange" with permission 0
+[1:1:0326/005558.923360:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/005558.924997:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/005558.951733:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "scroll", 0
+[1:1:0326/005558.951977:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "scroll" with permission 0
+[1:1:0326/005558.952713:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "paste", 0
+[1:1:0326/005558.952872:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "paste" with permission 0
+[1:1:0326/005558.967810:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event DOMContentLoaded with permission 0
+[1:1:0326/005559.070307:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/005559.070644:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/005559.071576:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005559.071771:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/005559.094213:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "s-skinon", 0
+[1:1:0326/005559.094532:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "s-skinon" with permission 0
+[1:1:0326/005559.097480:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "s-skinoff", 0
+[1:1:0326/005559.097844:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "s-skinoff" with permission 0
+[1:1:0326/005559.103012:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/005559.103258:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/005559.103476:INFO:event_target.cc(550)] !!!!!!!!!!!!!!!! RegisteredEventListener::SetCallback. 0
+[1:1:0326/005559.140963:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "cardrender", 0
+[1:1:0326/005559.141217:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "cardrender" with permission 0
+[1:1:0326/005559.151352:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "loadstart", 0
+[1:1:0326/005559.156300:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "loadstart" with permission 0
+[1:1:0326/005559.194630:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005559.195209:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/005559.201752:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/005559.202126:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/005559.202941:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/005559.203143:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/005559.223904:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "scroll", 0
+[1:1:0326/005559.225358:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "scroll" with permission 0
+[1:1:0326/005559.244672:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/005559.248345:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/005559.254973:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005559.261171:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005559.261457:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/005559.331403:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005559.331841:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005559.544035:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005559.544317:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005559.549985:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005559.550500:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005559.553398:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005559.553663:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005559.571658:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005559.572007:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005559.595102:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/005559.595975:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/005559.605789:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/005559.606759:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/005559.610227:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "blur", 0
+[1:1:0326/005559.611778:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "blur" with permission 0
+[1:1:0326/005559.614791:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "render", 0
+[1:1:0326/005559.615066:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "render" with permission 0
+[1:1:0326/005559.615826:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/005559.616028:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/005559.616926:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/005559.617171:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/005559.617880:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousedown", 0
+[1:1:0326/005559.618068:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousedown" with permission 0
+[1:1:0326/005559.620043:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseup", 0
+[1:1:0326/005559.620316:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseup" with permission 0
+[1:1:0326/005559.646264:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/005559.648355:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/005559.649721:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/005559.651155:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/005559.653122:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/005559.654625:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/005559.655598:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/005559.655780:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/005559.656231:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/005559.656404:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/005559.657615:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/005559.659371:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/005559.664141:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/005559.664557:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/005559.670403:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/005559.670699:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/005559.671401:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/005559.671603:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/005559.672221:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseover", 0
+[1:1:0326/005559.672380:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseover" with permission 0
+[1:1:0326/005559.673007:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mouseout", 0
+[1:1:0326/005559.673195:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mouseout" with permission 0
+[1:1:0326/005559.689099:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/005559.689583:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_https://www.baidu.com/, 5:3_https://www.baidu.com/
+[1:1:0326/005559.709896:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005559.710139:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005559.736428:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/005559.737388:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_https://www.baidu.com/, 5:3_https://www.baidu.com/
+[1:1:0326/005559.747477:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005559.748326:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005559.753393:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005559.753631:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005559.790420:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005559.810100:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/005559.811259:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/005559.815299:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "dragstart", 0
+[1:1:0326/005559.815586:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "dragstart" with permission 0
+[1:1:0326/005559.818306:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "drop", 0
+[1:1:0326/005559.818638:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "drop" with permission 0
+[1:1:0326/005559.819453:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "dragover", 0
+[1:1:0326/005559.819700:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "dragover" with permission 0
+[1:1:0326/005559.821290:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/005559.821577:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_https://www.baidu.com/, 5:3_https://www.baidu.com/
+[1:1:0326/005559.837992:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005559.838290:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005559.839182:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/005559.839371:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_https://www.baidu.com/, 5:3_https://www.baidu.com/
+[1:1:0326/005559.938135:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005559.938442:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005559.939984:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350; BD_UPN=123353"
+[1:1:0326/005559.943683:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005559.943930:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005559.946397:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350; BD_UPN=123353"
+[1:1:0326/005559.957690:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005559.958058:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005559.970682:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350; BD_UPN=123353"
+[1:1:0326/005600.011897:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005600.019095:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "readystatechange", 0
+[1:1:0326/005600.019608:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "readystatechange" with permission 0
+[1:1:0326/005600.021267:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keydown", 0
+[1:1:0326/005600.021784:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keydown" with permission 0
+[1:1:0326/005600.022330:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "keyup", 0
+[1:1:0326/005600.022732:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "keyup" with permission 0
+[1:1:0326/005600.023151:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "paste", 0
+[1:1:0326/005600.023468:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "paste" with permission 0
+[1:1:0326/005600.025122:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "inputChange", 0
+[1:1:0326/005600.027825:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "inputChange" with permission 0
+[1:1:0326/005600.109399:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "submit", 0
+[1:1:0326/005600.110663:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "submit" with permission 0
+[1:1:0326/005600.143831:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "start", 0
+[1:1:0326/005600.146434:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "start" with permission 0
+[1:1:0326/005600.159091:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "blur", 0
+[1:1:0326/005600.159799:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "blur" with permission 0
+[1:1:0326/005600.162757:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "selectSug", 0
+[1:1:0326/005600.163712:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "selectSug" with permission 0
+[1:1:0326/005600.165528:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "dataReady", 0
+[1:1:0326/005600.165980:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "dataReady" with permission 0
+[1:1:0326/005600.168194:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "mousemove", 0
+[1:1:0326/005600.168710:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "mousemove" with permission 0
+[1:1:0326/005600.173566:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005600.173980:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005600.174804:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/005600.175921:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_https://www.baidu.com/, 5:3_https://www.baidu.com/
+[1:1:0326/005600.188442:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005600.189352:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005600.199114:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350; BD_UPN=123353"
+[1:1:0326/005600.219375:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005600.274475:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005600.276834:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005600.279654:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005600.282365:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005600.325399:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005600.326246:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005600.332864:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event readystatechange with permission 0
+[1:1:0326/005600.335926:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = readystatechange, 5:3_https://www.baidu.com/, 
+[1:1:0326/005600.339855:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005600.349947:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005600.350930:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event readystatechange with permission 0
+[1:1:0326/005600.351177:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = readystatechange, 5:3_https://www.baidu.com/, 5:3_https://www.baidu.com/
+[1:1:0326/005600.378514:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event readystatechange with permission 0
+[1:1:0326/005600.378890:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = readystatechange, 5:3_https://www.baidu.com/, 5:3_https://www.baidu.com/
+[1:1:0326/005600.379364:INFO:event_target.cc(550)] !!!!!!!!!!!!!!!! RegisteredEventListener::SetCallback. 0
+[1:1:0326/005600.498634:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005600.558725:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005600.577860:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005600.612999:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005600.613545:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005600.757118:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005600.757854:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005600.760950:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005600.762958:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005600.778272:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/005600.783343:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_https://www.baidu.com/, 
+[1:1:0326/005600.787115:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005600.789848:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005600.827743:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "click", 0
+[1:1:0326/005600.829348:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "click" with permission 0
+[1:1:0326/005600.832047:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005600.834251:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005600.852244:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350; BD_UPN=123353"
+[1:1:0326/005600.860900:INFO:cookie_jar.cc(60)] >>> enter get cookie
+[1:1:0326/005600.861959:INFO:cookie_jar.cc(71)] 		 pass the permission check "https://www.baidu.com/"
+[1:1:0326/005600.863979:INFO:cookie_jar.cc(74)] 		 get cookie "BIDUPSID=32076345355AD46ADD5E60C2A0AD0AFD; PSTM=1585209355; BAIDUID=32076345355AD46AFFE8D4E110871232:FG=1; BD_HOME=1; H_PS_PSSID=30971_1457_31169_21098_30823_26350; BD_UPN=123353"
+[1:1:0326/005600.922438:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "beforeunload", 0
+[1:1:0326/005600.931484:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "beforeunload" with permission 0
+[1:1:0326/005600.966048:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/005600.966387:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/005600.966876:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/005600.967135:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/005600.973048:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005600.975767:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/005600.978530:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_https://www.baidu.com/, 5:3_https://www.baidu.com/
+[1:1:0326/005601.038059:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.038443:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.071875:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.072210:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.079641:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.080580:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.095682:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.095922:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.100103:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.100325:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.114078:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005601.135138:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005601.137535:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "error", 0
+[1:1:0326/005601.141026:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "error" with permission 0
+[1:1:0326/005601.142555:INFO:event_target.cc(379)] >>> EventTarget::AddEventListenerInternal. [event_type, permisison] = "load", 0
+[1:1:0326/005601.142818:INFO:event_listener_map.cc(129)] >>> [EVENT] update listener "load" with permission 0
+[1:1:0326/005601.146096:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005601.177368:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/005601.177591:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_https://www.baidu.com/, 5:3_https://www.baidu.com/
+[1:1:0326/005601.282012:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.289688:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.293157:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.293594:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.302691:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005601.401103:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.409493:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.415151:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.415359:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.430740:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.434084:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.452640:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.453131:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.464525:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.465737:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.517146:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005601.520097:INFO:switcher_listener.cc(36)] >>> [EVENT] trigger event load with permission 0
+[1:1:0326/005601.520814:INFO:switcher_listener.cc(47)] >>> [Listener] SWITCHER_TASK_HELPER::doPrincipalSwitchImplUpdatingFrameChainWithListener. [event, last_principal, listener_principal] = load, 5:3_https://www.baidu.com/, 5:3_https://www.baidu.com/
+[1:1:0326/005601.527878:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.528101:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.535939:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.536149:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.539859:INFO:interface_endpoint_client.cc(328)] ### [Switcher][IPC] InterfaceEndpointClient::Accept. set additionalfield for kURLLoaderFactory_CreateLoaderAndStart_Name for 5:3_https://www.baidu.com/@0, task's permission is 0
+[1:1:0326/005601.551085:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.551545:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.620205:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.620462:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.638014:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.638308:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.639699:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.639943:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.714657:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.714930:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.841580:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.841800:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005601.968731:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005601.969076:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005602.054767:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005602.054983:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005602.222481:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005602.222921:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005602.259011:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005602.259312:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005602.461968:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005602.462361:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005602.475354:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005602.475676:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005602.665631:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005602.665956:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005602.728643:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005602.728969:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005602.867885:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005602.868218:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005602.981340:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005602.981653:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0326/005603.071663:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0326/005603.071993:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0100/000000.264926:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0100/000000.282353:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0
+[1:1:0100/000000.293181:INFO:switcher_frame_chain.cc(140)] 		updated frame chain: [num, frameChain, subject, last, function_name, source_code] = 1, -5:3_https://www.baidu.com/, 15a067542860, , , 
+[1:1:0100/000000.293317:INFO:binding_security.cc(379)] 	metadata is [subject_url, domain, routing_id, frame_chain_length, parent_origin, parent_domain, parent_routing_id] = "https://www.baidu.com/", "www.baidu.com", 3, 1, , , 0

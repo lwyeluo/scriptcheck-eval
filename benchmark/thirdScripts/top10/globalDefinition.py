@@ -28,15 +28,15 @@ IN_SITES = {
         TIM: "http://localhost:3001/taskPermission/top10/threejs/3DProject.html"
     },
     "mathjax": {
-        NORMAL: "http://localhost:3001/taskPermission/top10/mathjax/index.1.html",
-        TIM: "http://localhost:3001/taskPermission/top10/mathjax/index.1.html"
+        NORMAL: "http://localhost:3001/taskPermission/top10/mathjax/index.html",
+        TIM: "http://localhost:3001/taskPermission/top10/mathjax/index.html"
     },
     "amcharts": {
         NORMAL: "http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html",
         TIM: "http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html"
     },
     "supersized": {
-        NORMAL: "http://localhost:3001/taskPermission/top10/supersized/index.html",
+        NORMAL: "http://localhost:3001/taskPermission/top10/supersized/index.1.html",
         TIM: "http://localhost:3001/taskPermission/top10/supersized/index.1.html"
     },
     "googlecharts": {
