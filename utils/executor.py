@@ -16,7 +16,6 @@ def executeWithoutCheckStatus(cmd):
 	(status, output) = subprocess.getstatusoutput(cmd)
 	return output
 
-
 # get the timestamp
 def getTime():
 	return time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time()))

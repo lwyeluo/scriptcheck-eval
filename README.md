@@ -9,179 +9,85 @@
 Please use python3.7
 
 ```
-# in Ubuntu
-cd ~/Downloads
 sudo apt-get install zlib1g-dev libbz2-dev libssl-dev libncurses5-dev libsqlite3-dev libreadline-dev tk-dev libgdbm-dev libdb-dev libpcap-dev xz-utils libexpat1-dev liblzma-dev libffi-dev libc6-dev
-wget https://www.python.org/ftp/python/3.7.4/Python-3.7.4.tgz
-tar -xzvf Python-3.7.4.tgz
-sudo mkdir -p /usr/local/python3.7
-cd Python-3.7.4/
-./configure --prefix=/usr/local/python3.7 --enable-optimizations
-make
-sudo make install
+sudo apt-get install python3-pip
+sudo apt-get install python3-matplotlib
+sudo pip3 install threadpool publicsuffix
 
-sudo update-alternatives --install /usr/bin/python3 python3 /usr/local/python3.7/bin/python3.7 1
-sudo update-alternatives --config python3
-sudo ln -s /usr/local/python3.7/bin/pip3.7  /usr/bin/pip3
-python3 -V
-pip3 -V
-
-sudo mv /usr/bin/lsb_release /usr/bin/lsb_release.bak
+# enter tim-evaluate directory and type the command below 
+    npm install chrome-remote-interface
 ```
 
-```
-git pull origin master
-# or git clone ...
+before running the benchmarks, test it first:
 
-cd subdomain-tracker
-sudo pip3 install -r requirements.txt
-cd ../
-
-cd chromewhip
-sudo pip3 install -r requirements.txt
-cd ../
-
-sudo pip3 install threadpool publicsuffix numpy matplotlib
-
-npm install chrome-remote-interface
-```
-
-## Visit real world web pages
-
-The commit for Chromium is `0017e185`
-
-Modify Chromium's source code in `base/switcher_impl.h` and `v8/src/runtime/runtime-function.cc`, which adds the logs to record the CPU cycles and time usages
-
-- `base/switcher_impl.h`
+- in terminal 1:
 
 ```
-//#define ENABLE_PERFORMANCE_EVALUATION_FOR_SOP
-//#define ENABLE_PERFORMANCE_EVALUATION_FOR_TASK
-
-// whether the chrome logs some metadatas, including frame chain, JS stack...
-//   see SWITCHER_RECORD_METADATA in v8/src/runtime/runtime-function.cc
-#define SWITCHER_RECORD_METADATA
-
-// whether the switcher should only trust the data from protected memory
-//#define SWITCHER_ENABLE_PROTECTION
-#define SWITCHER_DISABLE_PROTECTION
+cd $CHROME_PATH
+# test the chrome binary
+out/Default/chrome https://www.baidu.com
+# test nodejs
+out/Default/chrome --remote-debugging-port=9222
 ```
 
-- `v8/src/runtime/runtime-function.cc`
+- in terminal 2:
 
 ```
-// Added by Luo Wu
-//  record the JS function call event
-#define SWITCHER_RECORD_METADATA
+# test nodejs
+node $tim_evaluate/run_script/run_url_in_Chrome_delay.js https://www.baidu.com 300
 ```
 
-### for sub-domains
-
-```
-# get subdomains
-python3 evaluate.py --parse-subdomains -d blog.csdn.net
-# get the home pages for these subdomains
-python3 evaluate.py --parse-homepage -d blog.csdn.net
-# crawl urls for these subdomains
-python3 evaluate.py --crawl-url -d blog.csdn.net
-# run the urls
-python3 evaluate.py --run-subdomains -d blog.csdn.net
-# parse the logs
-python3 evaluate.py --parse-log-for-subdomains -d blog.csdn.net
-# or
-python3 evaluate.py --parse-log-for-subdomains --all
-```
-
-### for Alexa top sites
-
-```
-# backup 
-rm -rf url_list/topsitesAlexa/results.bak
-mv url_list/topsitesAlexa/results url_list/topsitesAlexa/results.bak
-# get the home pages
-python3 evaluate.py --parse-homepage --Alexa
-# crawl urls
-python3 evaluate.py --crawl-url --Alexa
-# run the urls
-python3 evaluate.py --run-alexa-top-sites
-
-# for document.domain
-# crawl urls
-python3 evaluate.py --crawl-url --Alexa-subdomains
-# run the urls
-python3 evaluate.py --run-alexa-top-sites --Alexa-subdomains
-```
+if the chrome successfully navigate this URL and nodejs finishes by itself, then the test is done!
 
 ### for benchmark
 
 The commit for Chromium is `0017e185`
 
-#### micro-benchmark
+To run the benchmark using our tim_evaluate project:
 
-Modify Chromium's source code in `base/switcher_impl.h`, which adds the logs to record the CPU cycles and time usages
+	Top10(graphic libraries):
+	    `python3 evaluate.py --third-benchmark run`
+ 	Dromaeo:
+ 	    `python3 evaluate.py --dromaeo-benchmark run`
+ 	Kraken:
+ 	    `python3 evaluate.py --kraken-benchmark run`
+	DOM-custom:
+	    `python3 evaluate.py --dom-benchmark run`
+    async-exec:
+        `python3 evaluate.py --async-benchmark run`
+    sandbox-context:
+        `python3 evaluate.py --sandbox-benchmark run`
+    telemetry:
+        `python3 evaluate.py --telemetry-benchmark run`
+    jetstream2:
+        `python3 evaluate.py --jetstream2-benchmark run`
 
-```
-#define ENABLE_PERFORMANCE_EVALUATION_FOR_SOP
-#define ENABLE_PERFORMANCE_EVALUATION_FOR_TASK
 
-// whether the chrome logs some metadatas, including frame chain, JS stack...
-//   see SWITCHER_RECORD_METADATA in v8/src/runtime/runtime-function.cc
-//#define SWITCHER_RECORD_METADATA
+To parse the results:
+	
+	`python3 evaluate.py --third-benchmark parse`
+		The data is saved in $tim_evaluate/benchmark/thirdScripts/top10/experiement_data
 
-// whether the switcher should only trust the data from protected memory
-//#define SWITCHER_ENABLE_PROTECTION
-#define SWITCHER_DISABLE_PROTECTION
-```
+	`python3 evaluate.py --dromaeo-benchmark parse`
+		The data is saved in $tim_evaluate/benchmark/thirdScripts/dromaeo/experiement_data
 
-```
-python3 evaluate.py --micro-benchmark run
-python3 evaluate.py --micro-benchmark parse
-```
+	`python3 evaluate.py --kraken-benchmark parse`
+		The data is in $tim_evaluate/benchmark/macro/kraken/experiement_data
 
-#### macro-benchmark
+	`python3 evaluate.py --third-benchmark parse`
+		The data is saved in $tim_evaluate/benchmark/thirdScripts/top10/experiement_data
 
-Modify Chromium's source code in `base/switcher_impl.h`, which removes the logs for performance test and debugging information, including JS stack, updating frame chain...
+	`python3 evaluate.py --dom-benchmark parse`
+		The data is saved in $tim_evaluate/benchmark/thirdScripts/dom_yahoo/experiement_data
 
-```
-//#define ENABLE_PERFORMANCE_EVALUATION_FOR_SOP
-//#define ENABLE_PERFORMANCE_EVALUATION_FOR_TASK
+	`python3 evaluate.py --async-benchmark parse`
+		The data is saved in $tim_evaluate/benchmark/thirdScripts/async_exec/experiement_data
+		
+	`python3 evaluate.py --sandbox-benchmark parse`
+		The data is saved in $tim_evaluate/benchmark/thirdScripts/sandbox_context/experiement_data
 
-// whether the chrome logs some metadatas, including frame chain, JS stack...
-//   see SWITCHER_RECORD_METADATA in v8/src/runtime/runtime-function.cc
-//#define SWITCHER_RECORD_METADATA
+	`python3 evaluate.py --telemetry-benchmark parse`
+		The data is saved in $tim_evaluate/benchmark/macro/top_10/experiement_data
 
-// whether the switcher should only trust the data from protected memory
-//#define SWITCHER_ENABLE_PROTECTION
-#define SWITCHER_DISABLE_PROTECTION
-```
-
-- telemetry top_10
-
-    The command to run benchmark is in `benchmark/macro/README.md`
-
-    Parse the log: `python3 evaluate.py --macro-benchmark parse-top10`
-
-- Kraken
-
-    Open the Chromium to visit: `https://krakenbenchmark.mozilla.org/kraken-1.1/driver`
-
-    Parse the log: `python3 evaluate.py --macro-benchmark parse-kraken`
-
-### for China top 500 sites
-
-```
-# extract the url list
-cd top_sites_china
-unrar x result_cn.rar
-mv result_cn result
-cd ../
-
-# split to 3 machines
-python3 evaluate.py -s 3
-
-# run chrome in the machine with ID
-python3 evaluate.py -c ID
-
-# parse the log
-python3 evaluate.py -p China
-```
+	`python3 evaluate.py --jetstream2-benchmark parse`
+		The data is saved in $tim_evaluate/benchmark/thirdScripts/jetstream2/experiement_data

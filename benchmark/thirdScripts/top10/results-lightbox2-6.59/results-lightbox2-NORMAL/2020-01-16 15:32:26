@@ -1,8 +1,0 @@
-
-DevTools listening on ws://127.0.0.1:9222/devtools/browser/92ca2c50-9f2b-4d57-8538-ffbf8b9cdaa2
-** Message: Remote error from secret service: org.freedesktop.DBus.Error.Failed: Couldn't create item: The secret was transferred or encrypted in an invalid way.
-ATTENTION: default value of option force_s3tc_enable overridden by environment.
-[14008:14008:0116/153229.057774:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
-[1:1:0116/153232.002703:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
-[14008:14008:0116/153232.263436:INFO:CONSOLE(9)] ">> onload", source: http://localhost:3001/taskPermission/lightbox2/index.html (9)
-[14008:14008:0116/153232.264755:INFO:CONSOLE(10)] "lightbox: 283.011962890625ms", source: http://localhost:3001/taskPermission/lightbox2/index.html (10)

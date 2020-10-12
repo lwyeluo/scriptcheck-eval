@@ -1,7 +1,1 @@
-macro/result/telemetry/*
-!macro/result/telemetry/top_10_final
-
-macro/result/*.xlsx
-!macro/result/results.xlsx
-
 *.tar.gz

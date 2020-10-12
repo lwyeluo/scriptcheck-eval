@@ -2,45 +2,46 @@
 
 NORMAL = "NORMAL"
 TIM = "TIM"
+_HOST_ = "localhost"
 IN_SITES = {
     "chartjs": {
-        NORMAL: "http://localhost:3001/taskPermission/top10/chartjs/index.html",
-        TIM: "http://localhost:3001/taskPermission/top10/chartjs/index.html"
+        NORMAL: "http://%s:3001/taskPermission/top10/chartjs/index.html" % _HOST_,
+        TIM: "http://%s:3001/taskPermission/top10/chartjs/index.html" % _HOST_
     },
     "highcharts": {
-        NORMAL: "http://localhost:3001/taskPermission/top10/highcharts/index.html",
-        TIM: "http://localhost:3001/taskPermission/top10/highcharts/index.html"
+       NORMAL: "http://%s:3001/taskPermission/top10/highcharts/index.html" % _HOST_,
+       TIM: "http://%s:3001/taskPermission/top10/highcharts/index.html" % _HOST_
     },
     "particlesjs": {
-        NORMAL: "http://localhost:3001/taskPermission/top10/particlesjs/index.html",
-        TIM: "http://localhost:3001/taskPermission/top10/particlesjs/index.html"
+        NORMAL: "http://%s:3001/taskPermission/top10/particlesjs/index.1.html" % _HOST_,
+        TIM: "http://%s:3001/taskPermission/top10/particlesjs/index.1.html" % _HOST_
     },
     "raphael": {
-        NORMAL: "http://localhost:3001/taskPermission/top10/raphael/index.html",
-        TIM: "http://localhost:3001/taskPermission/top10/raphael/index.html"
+        NORMAL: "http://%s:3001/taskPermission/top10/raphael/index.1.html" % _HOST_,
+        TIM: "http://%s:3001/taskPermission/top10/raphael/index.1.html" % _HOST_
     },
     "d3": {
-        NORMAL: "http://localhost:3001/taskPermission/top10/d3/index.html",
-        TIM: "http://localhost:3001/taskPermission/top10/d3/index.html"
+        NORMAL: "http://%s:3001/taskPermission/top10/d3/index.html" % _HOST_,
+        TIM: "http://%s:3001/taskPermission/top10/d3/index.html" % _HOST_
     },
     "threejs": {
-        NORMAL: "http://localhost:3001/taskPermission/top10/threejs/3DProject.html",
-        TIM: "http://localhost:3001/taskPermission/top10/threejs/3DProject.html"
+       NORMAL: "http://%s:3001/taskPermission/top10/threejs/index.2.html" % _HOST_,
+       TIM: "http://%s:3001/taskPermission/top10/threejs/index.2.html" % _HOST_
     },
     "mathjax": {
-        NORMAL: "http://localhost:3001/taskPermission/top10/mathjax/index.html",
-        TIM: "http://localhost:3001/taskPermission/top10/mathjax/index.html"
+        NORMAL: "http://%s:3001/taskPermission/top10/mathjax/index.1.html" % _HOST_,
+        TIM: "http://%s:3001/taskPermission/top10/mathjax/index.1.html" % _HOST_
     },
     "amcharts": {
-        NORMAL: "http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html",
-        TIM: "http://localhost:3001/taskPermission/top10/amcharts/amcharts.1.html"
+       NORMAL: "http://%s:3001/taskPermission/top10/amcharts/amcharts.1.html" % _HOST_,
+       TIM: "http://%s:3001/taskPermission/top10/amcharts/amcharts.1.html" % _HOST_
     },
     "supersized": {
-        NORMAL: "http://localhost:3001/taskPermission/top10/supersized/index.1.html",
-        TIM: "http://localhost:3001/taskPermission/top10/supersized/index.1.html"
+        NORMAL: "http://%s:3001/taskPermission/top10/supersized/index.html" % _HOST_,
+        TIM: "http://%s:3001/taskPermission/top10/supersized/index.html" % _HOST_
     },
     "googlecharts": {
-        NORMAL: "http://localhost:3001/taskPermission/top10/googlecharts/index.html",
-        TIM: "http://localhost:3001/taskPermission/top10/googlecharts/index.html"
+        NORMAL: "http://%s:3001/taskPermission/top10/googlecharts/index.1.html" % _HOST_,
+        TIM: "http://%s:3001/taskPermission/top10/googlecharts/index.1.html" % _HOST_
     },
 }

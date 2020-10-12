@@ -1,8 +1,0 @@
-
-DevTools listening on ws://127.0.0.1:9222/devtools/browser/faa6051f-006a-47ab-a820-3a94b06e2037
-ATTENTION: default value of option force_s3tc_enable overridden by environment.
-[10926:10926:0118/193422.428497:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
-[1:1:0118/193424.939119:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
-[10926:10926:0118/193425.586278:INFO:CONSOLE(110)] "Uncaught ReferenceError: tryLoad is not defined", source: http://localhost:3001/taskPermission/top10/supersized/index.html (110)
-[10926:10926:0118/193425.595107:INFO:CONSOLE(11)] ">> finished", source: http://localhost:3001/taskPermission/top10/supersized/index.html (11)
-[10926:10926:0118/193425.595931:INFO:CONSOLE(12)] "supersized: 375.696044921875ms", source: http://localhost:3001/taskPermission/top10/supersized/index.html (12)

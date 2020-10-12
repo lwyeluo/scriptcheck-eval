@@ -5,6 +5,14 @@ argv = process.argv;
 console.log("***********************************i am in**********************************")
 const CDP = require('chrome-remote-interface');
 
+function sleep(time = 0) {
+	return new Promise((resolve, reject) => {
+		setTimeout(() => {
+			resolve();
+		}, time);
+	});
+}
+
 async function example() {
     let client;
 

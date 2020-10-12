@@ -1,6 +1,0 @@
-[1:1:0326/020259.957217:INFO:content_main_runner.cc(320)] >>> [Setup] RunZyote
-[1:1:0326/020259.957905:INFO:zygote_main_linux.cc(351)] >>> [Setup] tmpfile success. fd is 315
-[3:3:0326/020259.965022:INFO:zygote_linux.cc(266)] >>> [Setup] Zygote receive a msg: 3
-[13810:13810:0326/020301.470673:INFO:extension_system_impl.cc(379)] >>> [browser][EXT] ExtensionSystemImpl::InitForRegularProfile
-ATTENTION: default value of option force_s3tc_enable overridden by environment.
-ATTENTION: default value of option force_s3tc_enable overridden by environment.

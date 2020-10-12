@@ -2,7 +2,7 @@
 
 '''
     Test the performance for async
-    Make sure your commit for Chromium is c9c29de65565572280a2b4f80e6adbca40e4878d
+    Make sure your commit for Chromium is abab9d03f5c98e001f3403dd6fb1f4e637ef3a22
 '''
 
 
@@ -13,6 +13,7 @@ from utils.globalDefinition import _node_run_url_filename, _cache_for_Chrome_fil
 from utils.globalDefinition import _timeout_benchmark, _timeout_for_node_benchmark
 from utils.globalDefinition import _chrome_binary_normal, _chrome_binary
 from run_script.run import RunUrl
+from run_script.globalDefinition import *
 from utils.executor import getTime
 
 
@@ -29,7 +30,7 @@ class RunChromeForPerformance(object):
             shutil.rmtree(self._results_dir)
         os.mkdir(self._results_dir)
 
-        self._round = 10
+        self._round = 20
 
     def run(self):
 
@@ -53,20 +54,20 @@ class RunChromeForPerformance(object):
         # run Chrome for the welcome webpage
         print(">>> Welcome to Chrome")
         filepath = os.path.join(self._results_dir, "test")
-        r = RunUrl("https://www.baidu.com", filepath, node_filename=self.node_filename,
+        r = RunUrl("https://www.baidu.com", filepath, node_filename=_node_run_url_filename,
                    chrome_binary=self.chrome_binary)
         time.sleep(5)
         return r.flag
 
     def clearChrome(self):
         while True:
-            if self.clearChromeInternal() == 0:
+            if self.clearChromeInternal() == CHROME_RUN_FLAG_SUCCESS:
                 return
 
 
 def run():
     print(">>>>>>>>>>>> test ASYNC execution")
-    p = RunChromeForPerformance(in_url="http://192.168.173.1:3001/taskPermission/async/index.html")
-    # p.clearChrome()
+    p = RunChromeForPerformance(in_url="http://localhost:3001/taskPermission/async/index.html")
+    p.clearChrome()
     p.run()
 

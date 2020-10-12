@@ -79,12 +79,22 @@ if __name__ == '__main__':
     '''
     parser.add_argument('--micro-benchmark', type=str, choices=['run', 'parse'],
                         help="Run | Parse the micro-benchmark to record the CPU cycles")
-    parser.add_argument('--macro-benchmark', type=str, choices=['parse-top10', 'parse-kraken'],
-                        help="Parse the macro-benchmark results")
     parser.add_argument('--third-benchmark', type=str, choices=['run', 'parse'],
                         help="Run | Parse the third-benchmark to test the performance")
     parser.add_argument('--async-benchmark', type=str, choices=['run', 'parse'],
                         help="Run | Parse the async-benchmark to test the performance")
+    parser.add_argument('--dom-benchmark', type=str, choices=['run', 'parse'],
+                        help="Run | Parse the dom-benchmark to test the performance")
+    parser.add_argument('--kraken-benchmark', type=str, choices=['run', 'parse'],
+                        help="Run | Parse the kraken-benchmark to test the performance")
+    parser.add_argument('--dromaeo-benchmark', type=str, choices=['run', 'parse'],
+                        help="Run | Parse the dromaeo-benchmark to test the performance")
+    parser.add_argument('--sandbox-benchmark', type=str, choices=['run', 'parse', 'run_cross', 'run_except_cross'],
+                        help="Run | Parse the sandbox-benchmark to test the performance")
+    parser.add_argument('--telemetry-benchmark', type=str, choices=['run', 'parse'],
+                        help="Run | Parse the telemetry-benchmark to test the performance")
+    parser.add_argument('--jetstream2-benchmark', type=str, choices=['run', 'parse'],
+                        help="Run | Parse the jetstream2-benchmark to test the performance")
 
 
     args = parser.parse_args()
@@ -245,38 +255,107 @@ if __name__ == '__main__':
 
             run()
 
-    elif args.macro_benchmark:
-        if args.macro_benchmark == "parse-top10":
-            # --macro-benchmark parse-top10
-            from benchmark.macro.top10.parse import run
+    elif args.telemetry_benchmark:
+        if args.telemetry_benchmark == "run":
+            # --telemetry-benchmark run
+            from benchmark.macro.top10.runTelemetry import run
 
             run()
-        elif args.macro_benchmark == "parse-kraken":
-            # --macro-benchmark parse-kraken
-            from benchmark.macro.kraken.parse import run
+        elif args.telemetry_benchmark == "parse":
+            # --telemetry-benchmark parse
+            from benchmark.macro.top10.parseResult import run
 
             run()
 
     elif args.third_benchmark:
         if args.third_benchmark == "run":
-            # --micro-benchmark run
+            # --third-benchmark run
             from benchmark.thirdScripts.top10.run import run
 
             run(args.script)
         elif args.third_benchmark == "parse":
-            # --micro-benchmark parse
+            # --third-benchmark parse
             from benchmark.thirdScripts.top10.parseResult import run
 
             run()
     elif args.async_benchmark:
         if args.async_benchmark == "run":
-            # --micro-benchmark run
+            # --async-benchmark run
             from benchmark.thirdScripts.async_exec.run import run
 
             run()
         elif args.async_benchmark == "parse":
-            # --micro-benchmark parse
+            # --async-benchmark parse
             from benchmark.thirdScripts.async_exec.parse import run
+
+            run()
+
+    elif args.dom_benchmark:
+        if args.dom_benchmark == "run":
+            # --dom-benchmark run
+            from benchmark.thirdScripts.dom_yahoo.run import run
+
+            run()
+        elif args.dom_benchmark == "parse":
+            # --dom-benchmark parse
+            from benchmark.thirdScripts.dom_yahoo.parse import run
+
+            run()
+
+    elif args.kraken_benchmark:
+        if args.kraken_benchmark == "run":
+            # --kraken-benchmark run
+            from benchmark.thirdScripts.kraken.run import run
+
+            run()
+        elif args.kraken_benchmark == "parse":
+            # --kraken-benchmark parse
+            from benchmark.thirdScripts.kraken.parseResult import run
+
+            run()
+
+    elif args.dromaeo_benchmark:
+        if args.dromaeo_benchmark == "run":
+            # --dromaeo_benchmark run
+            from benchmark.thirdScripts.dromaeo.run import run
+
+            run()
+        elif args.dromaeo_benchmark == "parse":
+            # --dromaeo_benchmark parse
+            from benchmark.thirdScripts.dromaeo.parseResult import run
+
+            run()
+
+    elif args.sandbox_benchmark:
+        if args.sandbox_benchmark == "run":
+            # --sandbox_benchmark run
+            from benchmark.thirdScripts.sandbox_context.run import run
+
+            run()
+        if args.sandbox_benchmark == "run_cross":
+            # --sandbox_benchmark run_cross
+            from benchmark.thirdScripts.sandbox_context.run import run_cross
+
+            run_cross()
+        if args.sandbox_benchmark == "run_except_cross":
+            # --sandbox_benchmark run_except_cross
+            from benchmark.thirdScripts.sandbox_context.run import run_except_cross
+
+            run_except_cross()
+        elif args.sandbox_benchmark == "parse":
+            # --sandbox_benchmark parse
+            from benchmark.thirdScripts.sandbox_context.parse import run
+
+            run()
+    elif args.jetstream2_benchmark:
+        if args.jetstream2_benchmark == "run":
+            # --jetstream2_benchmark run
+            from benchmark.thirdScripts.jetStream2.run import run
+
+            run()
+        elif args.jetstream2_benchmark == "parse":
+            # --jetstream2_benchmark parse
+            from benchmark.thirdScripts.jetStream2.parse import run
 
             run()
 

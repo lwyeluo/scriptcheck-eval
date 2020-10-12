@@ -1,9 +1,0 @@
-
-DevTools listening on ws://127.0.0.1:9222/devtools/browser/f4c96a98-9e36-4b97-98ae-65b13d318f82
-ATTENTION: default value of option force_s3tc_enable overridden by environment.
-[6889:6889:0117/023615.619030:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
-[1:1:0117/023618.468423:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
-[6889:6889:0117/023618.512632:INFO:CONSOLE(24)] "Load https://code.jquery.com/jquery-1.7.2.min.js", source: http://localhost:3001/taskPermission/top10/supersized/index.html (24)
-[6889:6889:0117/023619.119910:INFO:CONSOLE(24)] "Load https://www.helloweba.net/demo/supersized/supersized.3.0.js", source: http://localhost:3001/taskPermission/top10/supersized/index.html (24)
-[6889:6889:0117/023619.138295:INFO:CONSOLE(11)] ">> finished", source: http://localhost:3001/taskPermission/top10/supersized/index.html (11)
-[6889:6889:0117/023619.139043:INFO:CONSOLE(12)] "supersized: 342.220947265625ms", source: http://localhost:3001/taskPermission/top10/supersized/index.html (12)

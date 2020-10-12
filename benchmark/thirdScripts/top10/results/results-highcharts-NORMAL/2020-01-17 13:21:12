@@ -1,9 +1,0 @@
-
-DevTools listening on ws://127.0.0.1:9222/devtools/browser/f3e10c15-ad1a-498c-87ef-708562e52926
-ATTENTION: default value of option force_s3tc_enable overridden by environment.
-[19416:19416:0117/132115.183908:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
-[1:1:0117/132118.148381:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
-[19447:19447:0117/132118.185990:ERROR:gles2_cmd_decoder.cc(18037)] [.DisplayCompositor-0xf65a3e020]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
-[19447:19447:0117/132118.186193:ERROR:gles2_cmd_decoder.cc(10158)] [.DisplayCompositor-0xf65a3e020]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
-[19416:19416:0117/132118.754677:INFO:CONSOLE(12)] ">> finished", source: http://localhost:3001/taskPermission/top10/highcharts/index.html (12)
-[19416:19416:0117/132118.755627:INFO:CONSOLE(13)] "highcharts: 616.68115234375ms", source: http://localhost:3001/taskPermission/top10/highcharts/index.html (13)

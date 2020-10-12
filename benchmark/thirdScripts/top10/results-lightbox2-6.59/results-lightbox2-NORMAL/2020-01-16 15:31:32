@@ -1,7 +1,0 @@
-
-DevTools listening on ws://127.0.0.1:9222/devtools/browser/6037bdf8-90fe-494f-9cf5-afef2f55bf5d
-ATTENTION: default value of option force_s3tc_enable overridden by environment.
-[13147:13147:0116/153134.855925:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
-[1:1:0116/153137.841998:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
-[13147:13147:0116/153138.098267:INFO:CONSOLE(9)] ">> onload", source: http://localhost:3001/taskPermission/lightbox2/index.html (9)
-[13147:13147:0116/153138.099221:INFO:CONSOLE(10)] "lightbox: 269.48095703125ms", source: http://localhost:3001/taskPermission/lightbox2/index.html (10)

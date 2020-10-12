@@ -2,7 +2,7 @@
 
 '''
     Test the performance for top 10 JS libraries: https://hexometer.com/most-popular-tech-stacks/JavaScript+Libraries
-    Make sure your commit for Chromium is c9c29de65565572280a2b4f80e6adbca40e4878d
+    Make sure your commit for Chromium is 7501b47f7d81e9388a0bbc61c00a136ed0a3daee
 '''
 
 
@@ -13,6 +13,7 @@ from utils.globalDefinition import _node_run_url_filename, _cache_for_Chrome_fil
 from utils.globalDefinition import _timeout_benchmark, _timeout_for_node_benchmark
 from utils.globalDefinition import _chrome_binary_normal, _chrome_binary
 from run_script.run import RunUrl
+from run_script.globalDefinition import *
 from utils.executor import getTime
 from benchmark.thirdScripts.top10.globalDefinition import NORMAL, TIM, IN_SITES
 
@@ -22,10 +23,7 @@ class RunChromeForPerformance(object):
         self.test_url = in_url
         self.chrome_binary = in_chrome_binary
 
-        if in_site == 'amcharts':
-            self.node_filename = _node_run_url_filename_delay
-        else:
-            self.node_filename = _node_run_url_filename
+        self.node_filename = _node_run_url_filename_delay
 
         _dir = os.path.abspath(os.path.dirname(__file__))
         self._results_tree_dir = os.path.join(_dir, "results")
@@ -36,7 +34,7 @@ class RunChromeForPerformance(object):
             shutil.rmtree(self._results_dir)
         os.mkdir(self._results_dir)
 
-        self._round = 20
+        self._round = 100
 
     def run(self):
 
@@ -67,7 +65,7 @@ class RunChromeForPerformance(object):
 
     def clearChrome(self):
         while True:
-            if self.clearChromeInternal() == 0:
+            if self.clearChromeInternal() == CHROME_RUN_FLAG_SUCCESS:
                 return
 
 

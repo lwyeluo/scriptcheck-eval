@@ -1,8 +1,0 @@
-
-DevTools listening on ws://127.0.0.1:9222/devtools/browser/afc52979-87fa-4459-9d00-120604c3f598
-ATTENTION: default value of option force_s3tc_enable overridden by environment.
-[19986:19986:0117/021532.708568:WARNING:CONSOLE(0)] "Styling master document from stylesheets defined in HTML Imports is deprecated. Please refer to https://goo.gl/EGXzpw for possible migration paths.", source:  (0)
-[1:1:0117/021535.656283:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 1 TIMES
-[19986:19986:0117/021535.843389:INFO:CONSOLE(578)] "THREE.WebGLRenderer", source: https://wow.techbrood.com/libs/three.r73.js (578)
-[19986:19986:0117/021536.064030:INFO:CONSOLE(9)] ">> finished", source: http://localhost:3001/taskPermission/top10/threejs/index.html (9)
-[19986:19986:0117/021536.064794:INFO:CONSOLE(10)] "threejs: 415.705810546875ms", source: http://localhost:3001/taskPermission/top10/threejs/index.html (10)

@@ -57,10 +57,20 @@ _node_filename = os.path.join(_run_script_dir, "find_recursive_subframes.js")
 # nodejs to run a given url in Chrome
 _node_run_url_filename = os.path.join(_run_script_dir, "run_url_in_Chrome.js")
 _node_run_url_filename_delay = os.path.join(_run_script_dir, "run_url_in_Chrome_delay.js")
+_node_run_url_filename_kraken = os.path.join(_run_script_dir, "run_url_in_Chrome_kraken.js")
+_node_run_url_filename_dromeao = os.path.join(_run_script_dir, "run_url_in_Chrome_dromeao.js")
+_node_run_url_filename_telemetry = os.path.join(_run_script_dir, "run_url_in_Chrome_telemetry.js")
+_node_run_url_filename_jetstream2 = os.path.join(_run_script_dir, "run_url_in_Chrome_jetstream2.js")
 # timeout for each webpage
 _timeout = 300
 _timeout_for_node = 30
 _timeout_benchmark = 300
 _timeout_for_node_benchmark = 300
+_timeout_for_node_kraken_benchmark = 600
+_timeout_for_node_jetstream2_benchmark = 30*60
 # the caches for Chrome
 _cache_for_Chrome_filepath = _home_dir + "/.config/chromium/Default"
+# type
+_NORMAL_ = "NORMAL"
+_TIM_ = "TIM"
+_COST_ = "cost"
