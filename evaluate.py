@@ -83,8 +83,8 @@ if __name__ == '__main__':
                         help="Run | Parse the third-benchmark to test the performance")
     parser.add_argument('--async-benchmark', type=str, choices=['run', 'parse'],
                         help="Run | Parse the async-benchmark to test the performance")
-    parser.add_argument('--dom-benchmark', type=str, choices=['run', 'parse'],
-                        help="Run | Parse the dom-benchmark to test the performance")
+    parser.add_argument('--security-monitor-benchmark', type=str, choices=['run', 'parse'],
+                        help="Run | Parse the security-monitor-benchmark to test the performance")
     parser.add_argument('--kraken-benchmark', type=str, choices=['run', 'parse'],
                         help="Run | Parse the kraken-benchmark to test the performance")
     parser.add_argument('--dromaeo-benchmark', type=str, choices=['run', 'parse'],
@@ -95,6 +95,8 @@ if __name__ == '__main__':
                         help="Run | Parse the telemetry-benchmark to test the performance")
     parser.add_argument('--jetstream2-benchmark', type=str, choices=['run', 'parse'],
                         help="Run | Parse the jetstream2-benchmark to test the performance")
+    parser.add_argument('--speedometer-benchmark', type=str, choices=['run', 'parse'],
+                        help="Run | Parse the speedometer-benchmark to test the performance")
 
 
     args = parser.parse_args()
@@ -290,15 +292,15 @@ if __name__ == '__main__':
 
             run()
 
-    elif args.dom_benchmark:
-        if args.dom_benchmark == "run":
-            # --dom-benchmark run
-            from benchmark.thirdScripts.dom_yahoo.run import run
+    elif args.security_monitor_benchmark:
+        if args.security_monitor_benchmark == "run":
+            # --security-monitor-benchmark run
+            from benchmark.thirdScripts.security_monitor.run import run
 
             run()
-        elif args.dom_benchmark == "parse":
-            # --dom-benchmark parse
-            from benchmark.thirdScripts.dom_yahoo.parse import run
+        elif args.security_monitor_benchmark == "parse":
+            # --security-monitor-benchmark run
+            from benchmark.thirdScripts.security_monitor.parseResult import run
 
             run()
 
@@ -356,6 +358,18 @@ if __name__ == '__main__':
         elif args.jetstream2_benchmark == "parse":
             # --jetstream2_benchmark parse
             from benchmark.thirdScripts.jetStream2.parse import run
+
+            run()
+
+    elif args.speedometer_benchmark:
+        if args.speedometer_benchmark == "run":
+            # --speedometer_benchmark run
+            from benchmark.thirdScripts.speedometer.run import run
+
+            run()
+        elif args.speedometer_benchmark == "parse":
+            # --speedometer_benchmark parse
+            from benchmark.thirdScripts.speedometer.parseResult import run
 
             run()
 

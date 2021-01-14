@@ -13,7 +13,7 @@ from utils.globalDefinition import _cache_for_Chrome_filepath, _node_run_url_fil
 from utils.globalDefinition import _node_run_url_filename, _node_run_url_filename_dromeao
 from utils.globalDefinition import _timeout_for_node_kraken_benchmark, _timeout_for_node
 from utils.globalDefinition import _chrome_binary_normal, _chrome_binary
-from utils.globalDefinition import _NORMAL_, _TIM_
+from benchmark.thirdScripts.dromaeo.globalDefinition import _CASES, _CASE_KEY_CHROME, _CASES_CONFIG
 from run_script.run import RunUrl
 from run_script.globalDefinition import *
 from utils.executor import getTime
@@ -21,9 +21,10 @@ from utils.executor import getTime
 
 class RunChromeForPerformance(object):
     def __init__(self, in_url="https://dromaeo.uplinklabs.net/?dom",
-                 in_chrome_binary=_chrome_binary, in_type="normal"):
+                 in_chrome_binary=_chrome_binary, in_type="normal", in_round_index=0):
         self.test_url = in_url
         self.chrome_binary = in_chrome_binary
+        self.round_index = in_round_index
 
         self.node_filename = _node_run_url_filename_dromeao
 
@@ -36,27 +37,29 @@ class RunChromeForPerformance(object):
             shutil.rmtree(self._results_dir)
         os.mkdir(self._results_dir)
 
-        # the file to save the results of Dromaeo benchmark
-        self._result_filepath = os.path.join(_dir, "dromaeo_node_results_" + in_type)
+        self.log_path = os.path.join(self._results_tree_dir, "results.log")
 
-        self._round = 20
+        # the file to save the results of benchmark
+        self._result_filepath = os.path.join(_dir, "dromaeo_node_results_" + in_type)
+        if self.round_index == 0:
+            fd = open(self._result_filepath, "w")
+            fd.close()
 
     def run(self):
 
-        with open(self._result_filepath, "w") as f:
+        with open(self._result_filepath, "a") as f:
+            print(">>> the %d rounds" % self.round_index)
+            f.write(">>> the %d rounds\n" % self.round_index)
 
-            for i in range(0, self._round):
-
-                filepath = os.path.join(self._results_dir, getTime())
-
-                print(">>> the %d round, the filepath is %s" % (i, filepath))
-                f.write(">>> the %d round, the filepath is %s\n" % (i, filepath))
-
-                r = RunUrl(self.test_url, filepath, node_filename=self.node_filename,
-                           timeout=_timeout_for_node_kraken_benchmark,
-                           timeout_for_node=_timeout_for_node_kraken_benchmark,
-                           chrome_binary=self.chrome_binary)
-                f.write(r._results_for_dromeao + "\n\n\n")
+            r = RunUrl(self.test_url, self.log_path, node_filename=self.node_filename,
+                       timeout=_timeout_for_node_kraken_benchmark,
+                       timeout_for_node=_timeout_for_node_kraken_benchmark,
+                       chrome_binary=self.chrome_binary)
+            if r.flag != CHROME_RUN_FLAG_DROMAEO_SUCCESS:
+                print(">>> Timeout when running Chrome, retry it later...")
+                return False
+            f.write(r._results_for_dromeao + "\n\n\n")
+        return True
 
     '''
         Some caches for Chrome must be cleared, otherwise the latency for Chrome is too high
@@ -82,19 +85,16 @@ class RunChromeForPerformance(object):
 
 
 def run():
-    in_chrome_type = {
-        _TIM_: _chrome_binary,
-        _NORMAL_: _chrome_binary_normal
-    }
-    # test normal chrome
-    r = RunChromeForPerformance(in_chrome_binary=in_chrome_type[_NORMAL_],
-                                in_type=_NORMAL_)
-    r.clearChrome()
-    r.run()
-    # test the modified chrome
-    r = RunChromeForPerformance(in_chrome_binary=in_chrome_type[_TIM_],
-                                in_type=_TIM_)
-    r.clearChrome()
-    r.run()
+    _round = 500
+    for i in range(0, _round):
+        print(">>> round: ", i)
+        for case in _CASES:
+            print(">>> case: ", case)
+            p = RunChromeForPerformance(in_chrome_binary=_CASES_CONFIG[case][_CASE_KEY_CHROME],
+                                        in_type=case,
+                                        in_round_index=i)
+            while True:
+                if p.run():
+                    break
 
 

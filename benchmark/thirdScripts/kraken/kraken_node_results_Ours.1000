@@ -1,0 +1,62 @@
+>>> the 999 rounds
+RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        7326.9ms +/- 17.6%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          430.4ms +/- 24.3%\
+' +
+      '    astar:                     430.4ms +/- 24.3%\
+' +
+      '\
+' +
+      '  audio:                      1125.0ms +/- 4.0%\
+' +
+      '    beat-detection:            386.1ms +/- 11.0%\
+' +
+      '    dft:                       237.7ms +/- 1.3%\
+' +
+      '    fft:                       244.1ms +/- 4.6%\
+' +
+      '    oscillator:                257.1ms +/- 1.1%\
+' +
+      '\
+' +
+      '  imaging:                    1002.5ms +/- 13.2%\
+' +
+      '    gaussian-blur:             387.1ms +/- 14.1%\
+' +
+      '    darkroom:                  407.1ms +/- 17.0%\
+' +
+      '    desaturate:                208.3ms +/- 6.5%\
+' +
+      '\
+' +
+      '  json:                       1522.9ms +/- 20.0%\
+' +
+      '    parse-financial:          1078.2ms +/- 22.6%\
+' +
+      '    stringify-tinderbox:       444.7ms +/- 13.8%\
+' +
+      '\
+' +
+      '  stanford:                   3246.1ms +/- 22.6%\
+' +
+      '    crypto-aes:                525.1ms +/- 21.2%\
+' +
+      '    crypto-ccm:               1109.6ms +/- 25.4%\
+' +
+      '    crypto-pbkdf2:            1206.8ms +/- 23.7%\
+' +
+      '    crypto-sha256-iterative:   404.6ms +/- 15.1%\
+'
+  }
+}
+"
+
+

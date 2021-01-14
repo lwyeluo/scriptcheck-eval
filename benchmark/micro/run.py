@@ -10,15 +10,15 @@
 import os
 import shutil
 import time
-from utils.globalDefinition import _node_run_url_filename, _cache_for_Chrome_filepath, _node_filename
+from utils.globalDefinition import _node_run_url_filename, _cache_for_Chrome_filepath, _node_run_url_filename_delay
 from utils.globalDefinition import _timeout_benchmark, _timeout_for_node_benchmark
 from run_script.run import RunUrl
 from utils.executor import getTime
 
 
 class RunChromeForPerformance(object):
-    def __init__(self):
-        self.test_url = "https://news.yahoo.com/politics"  # here is the web page which contains frame chain whose length is 99
+    def __init__(self, in_url, in_round):
+        self.test_url = in_url
 
         _dir = os.path.abspath(os.path.dirname(__file__))
         self._results_dir = os.path.join(_dir, "results")
@@ -26,7 +26,7 @@ class RunChromeForPerformance(object):
             shutil.rmtree(self._results_dir)
         os.mkdir(self._results_dir)
 
-        self._round = 50
+        self._round = in_round
 
     def run(self):
 
@@ -36,7 +36,7 @@ class RunChromeForPerformance(object):
 
             print(">>> the %d round, the filepath is %s" % (i, filepath))
 
-            RunUrl(self.test_url, filepath, node_filename=_node_run_url_filename,
+            RunUrl(self.test_url, filepath, node_filename=_node_run_url_filename_delay,
                    timeout=_timeout_benchmark, timeout_for_node=_timeout_for_node_benchmark)
 
     '''
@@ -55,6 +55,6 @@ class RunChromeForPerformance(object):
 
 
 def run():
-    r = RunChromeForPerformance()
+    r = RunChromeForPerformance(in_url="")
     r.clearChrome()
     r.run()

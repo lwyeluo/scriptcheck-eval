@@ -9,7 +9,7 @@ from utils.executor import *
 from utils.globalDefinition import _chrome_binary, _node_binary, _timeout, _timeout_for_node
 from utils.globalDefinition import _node_filename, _node_run_url_filename
 from utils.globalDefinition import _node_run_url_filename_kraken, _node_run_url_filename_dromeao
-from utils.globalDefinition import _node_run_url_filename_jetstream2
+from utils.globalDefinition import _node_run_url_filename_jetstream2, _node_run_url_filename_speedometer
 from run_script.globalDefinition import *
 
 
@@ -33,6 +33,7 @@ class RunUrl(object):
         self.feature_telemetry_error = '''ERROR WHEN RUNNING TELEMETRY'''
         self.feature_telemetry_done = '''DONE FOR RUNNING TELEMETRY'''
         self.feature_jetstream2_done = '''DONE FOR RUNNING JetStream2. Score is'''
+        self.feature_speedometer_done = '''DONE FOR RUNNING Speedometer. Result is '''
 
         # the information for frames
         self.frame_info = {}  # {'parent': {'url': url, 'domain': domain}, 'frameID': {'url': url, 'domain': domain}}
@@ -41,6 +42,7 @@ class RunUrl(object):
         self._results_for_kraken = ""
         self._results_for_dromeao = ""
         self._results_for_jetsteam2 = ""
+        self._results_for_speedometer = ""
 
         self.flag = self.run()  # flag refers to definitions in `globalDefinition`
 
@@ -76,6 +78,8 @@ class RunUrl(object):
         if feature in logs:
             info = logs[logs.find(feature):].strip('\\n').split('\\n')
             self._results_for_kraken = '\n'.join(info)
+            return True
+        return False
 
     # collect the results of Dromeao benchmark
     def collectResultsForDromeao(self, logs):
@@ -83,6 +87,8 @@ class RunUrl(object):
         if feature in logs:
             info = logs[logs.find(feature):].strip('\\n').split('\\n')
             self._results_for_dromeao = '\n'.join(info)
+            return True
+        return False
 
     # collect the results of JetStream2 benchmark
     def collectResultsForJetStream2(self, logs):
@@ -90,6 +96,15 @@ class RunUrl(object):
         if feature in logs:
             info = logs[logs.find(feature):].strip('\\n').split('\\n')
             self._results_for_jetsteam2 = '\n'.join(info)
+
+    # collect the results of speedometer benchmark
+    def collectResultsForSpeedometer(self, logs):
+        feature = self.feature_speedometer_done
+        if feature in logs:
+            info = logs[logs.find(feature):].strip('\\n').split('\\n')
+            self._results_for_speedometer = '\n'.join(info)
+            return True
+        return False
 
     def run(self):
         flag = 0  # 0: completed, 1: timeout
@@ -136,9 +151,20 @@ class RunUrl(object):
 
         # collect the results of some benchmarks
         if self.node_filename == _node_run_url_filename_kraken:
-            self.collectResultsForKraken(str(stdout))
+            if self.collectResultsForKraken(str(stdout)):
+                flag = CHROME_RUN_FLAG_KRAKEN_SUCCESS
+            else:
+                flag = CHROME_RUN_FLAG_KRAKEN_ERROR
         elif self.node_filename == _node_run_url_filename_dromeao:
-            self.collectResultsForDromeao(str(stdout))
+            if self.collectResultsForDromeao(str(stdout)):
+                flag = CHROME_RUN_FLAG_DROMAEO_SUCCESS
+            else:
+                flag = CHROME_RUN_FLAG_DROMAEO_ERROR
+        elif self.node_filename == _node_run_url_filename_speedometer:
+            if self.collectResultsForSpeedometer(str(stdout)):
+                flag = CHROME_RUN_FLAG_SPEEDOMETER_SUCCESS
+            else:
+                flag = CHROME_RUN_FLAG_SPEEDOMETER_ERROR
         elif self.node_filename == _node_run_url_filename_jetstream2:
             self.collectResultsForJetStream2(str(stdout))
 

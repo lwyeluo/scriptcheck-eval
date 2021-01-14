@@ -87,7 +87,7 @@ class RunChromeForPerformance(object):
 
 
 def run():
-    _round = 10
+    _round = 20
     for i in range(0, _round):
         print(">>> round: ", i)
         for case in _CASES:

@@ -110,10 +110,11 @@ class Parse(object):
                 if isinstance(results[r], list):
                     continue
                 found_data = True
+                value = float(results[r]) * 1000  # convert to us
                 if r not in self._results_array.keys():
-                    self._results_array[r] = [float(results[r])]
+                    self._results_array[r] = [value]
                 else:
-                    self._results_array[r].append(float(results[r]))
+                    self._results_array[r].append(value)
             if not found_data:
                 raise Exception("Cannot obtain data from LOG: %s" % filepath)
         return self._results_array
@@ -132,6 +133,7 @@ class ProcessLogs(object):
 
         self._tag_base, self._tag_main, self._tag_sandbox = "Baseline", "Main Context", "Sandbox Context"
         self._tag_cost_main, self._tag_cost_sandbox = "CostMain", "CostSandbox"
+        self._tag_incur_main, self._tag_incur_sandbox = "IncurMain", "IncurSandbox"
 
         self.str_cost_ = ""  # used to record the cost (in String)
 
@@ -155,6 +157,8 @@ class ProcessLogs(object):
     def writeRawDataIntoFile(self):
         with open(self._results_data_filepath, "w") as f:  # to save the benchmark results
 
+            f.write(">>> data is in \\textmu s!!\n")
+
             # print the raw data
             for t in Features._feature_keys_normal:
                 f.write("\t%s" % t.replace("normal", 'baseline'))
@@ -164,13 +168,13 @@ class ProcessLogs(object):
             for i in range(0, self.round):
                 f.write("%d" % i)
                 for t in Features._feature_keys_normal:
-                    f.write("\t%f" % self.raw_results[_CASE_BASELINE][t][i])
+                    f.write("\t%.3f" % self.raw_results[_CASE_BASELINE][t][i])
                 for t in Features._feature_keys_all:
                     for case in self.raw_results.keys():
                         if case == _CASE_BASELINE:
                             continue
                         if t in self.raw_results[case].keys():
-                            f.write("\t%f" % self.raw_results[case][t][i])
+                            f.write("\t%.3f" % self.raw_results[case][t][i])
                             break
                 f.write("\n")
             f.write("\n\n\n")
@@ -186,14 +190,19 @@ class ProcessLogs(object):
 
     def calcAverage(self, _f, _f_normal, _f_risky):
         self.final_results[_f] = {
-            self._tag_base: "%.6f" % np.mean(self.raw_results[_CASE_BASELINE][_f_normal]),
-            self._tag_main: "%.6f" % np.mean(self.raw_results[_CASE_OURS_MAIN][_f_normal]),
-            self._tag_sandbox: "%.6f" % np.mean(self.raw_results[_CASE_OURS_SANDBOX][_f_risky]),
+            self._tag_base: "%.3f" % np.mean(self.raw_results[_CASE_BASELINE][_f_normal]),
+            self._tag_main: "%.3f" % np.mean(self.raw_results[_CASE_OURS_MAIN][_f_normal]),
+            self._tag_sandbox: "%.3f" % np.mean(self.raw_results[_CASE_OURS_SANDBOX][_f_risky]),
         }
         self.final_results[_f][self._tag_cost_main] = \
-            "%.2f" % ((float(self.final_results[_f][self._tag_main])/float(self.final_results[_f][self._tag_base])-1)*100)
+            "%.3f" % ((float(self.final_results[_f][self._tag_main])/float(self.final_results[_f][self._tag_base])-1)*100)
         self.final_results[_f][self._tag_cost_sandbox] = \
-            "%.2f" % ((float(self.final_results[_f][self._tag_sandbox])/float(self.final_results[_f][self._tag_base])-1)*100)
+            "%.3f" % ((float(self.final_results[_f][self._tag_sandbox])/float(self.final_results[_f][self._tag_base])-1)*100)
+
+        self.final_results[_f][self._tag_incur_main] = \
+            "%.3f" % (float(self.final_results[_f][self._tag_main]) - float(self.final_results[_f][self._tag_base]))
+        self.final_results[_f][self._tag_incur_sandbox] = \
+            "%.3f" % (float(self.final_results[_f][self._tag_sandbox]) - float(self.final_results[_f][self._tag_base]))
 
 
     def printf(self):
@@ -207,13 +216,20 @@ class ProcessLogs(object):
         self.calcAverage(Features._feature_empty, Features._feature_empty_normal, Features._feature_empty_risky)
         self.calcAverage(Features._feature_add1, Features._feature_add1_normal, Features._feature_add1_risky)
 
+        cost_main, cost_sandbox = 0, 0
         for f in [Features._feature_math, Features._feature_eval,
                   Features._feature_empty, Features._feature_add1]:
             self.printAndRecord("%s\t&\t%s" % (f, self.final_results[f][self._tag_base]), end="")
-            self.printAndRecord("\t&\t%s(%s%%)" % (
-                self.final_results[f][self._tag_main], self.final_results[f][self._tag_cost_main]), end="")
-            self.printAndRecord("\t&\t%s(%s%%)" % (
-                self.final_results[f][self._tag_sandbox], self.final_results[f][self._tag_cost_sandbox]), end="")
+            self.printAndRecord("\t&\t%s(%s\\%%,+%s)" % (
+                self.final_results[f][self._tag_main], self.final_results[f][self._tag_cost_main],
+                self.final_results[f][self._tag_incur_main]
+            ), end="")
+            cost_main += float(self.final_results[f][self._tag_cost_main])
+            self.printAndRecord("\t&\t%s(%s\\%%+%s)" % (
+                self.final_results[f][self._tag_sandbox], self.final_results[f][self._tag_cost_sandbox],
+                self.final_results[f][self._tag_incur_sandbox]
+            ), end="")
+            cost_sandbox += float(self.final_results[f][self._tag_cost_sandbox])
             self.printAndRecord(" \\\\ \\hline")
 
         # 5. initialize
@@ -222,6 +238,8 @@ class ProcessLogs(object):
                       Features._feature_initialize]:
                 self.printAndRecord("%s\t&\t%f\t" % (f, np.mean(self.raw_results[_CASE_OURS_CROSS][f])), end="")
                 self.printAndRecord(" \\\\ \\hline")
+
+        self.printAndRecord("\n\nCost: main(%f%%), sndbox(%f%%)" % (cost_main/4, cost_sandbox/4))
 
         self.writeDataIntoFile()
 

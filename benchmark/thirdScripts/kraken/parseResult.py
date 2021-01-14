@@ -4,7 +4,7 @@ import json
 import os
 import codecs
 import numpy as np
-from utils.globalDefinition import _NORMAL_, _TIM_, _COST_
+from benchmark.thirdScripts.kraken.globalDefinition import _CASES, _CASE_BASELINE, _CASE_OURS, _COST
 
 
 benchmarkExampleResults = '''
@@ -38,6 +38,9 @@ Total:                        3877.8ms +/- 0.6%
     crypto-pbkdf2:             736.8ms +/- 0.9%
     crypto-sha256-iterative:   181.3ms +/- 2.7%
 '''
+
+_NORMAL_ = _CASE_BASELINE
+_TIM_ = _CASE_OURS
 
 class Parser(object):
     def __init__(self):
@@ -165,6 +168,7 @@ class Parser(object):
                     results_average[benchmark][_NORMAL_] += usage
                     f.write("\t" + str(usage))
                 for benchmark in self.benchmarkNames:
+                    print(">>> error ")
                     usage = float(results_tim[i][benchmark].replace("ms", ""))
                     results_average[benchmark][_TIM_] += usage
                     f.write("\t" + str(usage))
@@ -174,7 +178,7 @@ class Parser(object):
         for benchmark in self.benchmarkNames:
             d1, d2 = results_average[benchmark][_NORMAL_], results_average[benchmark][_TIM_]
             v1, v2 = d1 / len(results_normal), d2 / len(results_tim)
-            self.results_cost_[benchmark] = {_NORMAL_: v1, _TIM_: v2, _COST_: v2/v1}
+            self.results_cost_[benchmark] = {_NORMAL_: v1, _TIM_: v2, _COST: v2/v1}
 
         # print the cost
         self.printf()
@@ -185,15 +189,15 @@ class Parser(object):
             self.printAndRecord("\t&\t\\textbf{%s}" % benchmark, end="")
         self.printAndRecord(" \\\\ \\hline")
 
-        self.printAndRecord("Baseline", end="")
+        self.printAndRecord(_CASE_BASELINE, end="")
         for benchmark in self.benchmarkNames:
             self.printAndRecord("\t&\t%f" % self.results_cost_[benchmark][_NORMAL_], end="")
         self.printAndRecord(" \\\\ \\hline")
 
-        self.printAndRecord("Ours", end="")
+        self.printAndRecord(_CASE_OURS, end="")
         for benchmark in self.benchmarkNames:
             self.printAndRecord("\t&\t%f" % self.results_cost_[benchmark][_TIM_], end="")
-            self.printAndRecord(" (%.3f\\%%)" % ((self.results_cost_[benchmark][_COST_]-1)*100), end="")
+            self.printAndRecord(" (%.3f\\%%)" % ((self.results_cost_[benchmark][_COST]-1)*100), end="")
         self.printAndRecord(" \\\\ \\hline")
 
         self.writeDataIntoFile()

@@ -2,7 +2,7 @@
 
 import numpy as np
 import os
-from benchmark.thirdScripts.dom_yahoo.globalDefinition import _CASE_BASELINE, _CASE_OURS_NORMAL, _CASE_OURS_RESTRICTED, _CASES
+from benchmark.thirdScripts.security_monitor.globalDefinition import _CASE_BASELINE, _CASE_OURS_NORMAL, _CASE_OURS_RESTRICTED, _CASES
 
 _feature_normal = '''testDOMInNormalTask'''
 _feature_restricted = '''testDOMIn3rdTask'''

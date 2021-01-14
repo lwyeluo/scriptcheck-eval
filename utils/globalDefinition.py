@@ -45,7 +45,7 @@ _http_headers = {
 # get the home directory
 _home_dir = execute("echo $HOME")
 # get the chrome binary
-_chrome_binary = _home_dir + "/chromium/tick/src/out/Default/chrome"
+_chrome_binary = _home_dir + "/chromium/scriptCheck/src/out/Default/chrome"
 print("Chrome binary is ", _chrome_binary)
 # get the normal chrome binary
 _chrome_binary_normal = _home_dir + "/chromium/init/src/out/Default/chrome"
@@ -61,12 +61,14 @@ _node_run_url_filename_kraken = os.path.join(_run_script_dir, "run_url_in_Chrome
 _node_run_url_filename_dromeao = os.path.join(_run_script_dir, "run_url_in_Chrome_dromeao.js")
 _node_run_url_filename_telemetry = os.path.join(_run_script_dir, "run_url_in_Chrome_telemetry.js")
 _node_run_url_filename_jetstream2 = os.path.join(_run_script_dir, "run_url_in_Chrome_jetstream2.js")
+_node_run_url_filename_speedometer = os.path.join(_run_script_dir, "run_url_in_Chrome_speedometer.js")
 # timeout for each webpage
 _timeout = 300
 _timeout_for_node = 30
 _timeout_benchmark = 300
 _timeout_for_node_benchmark = 300
 _timeout_for_node_kraken_benchmark = 600
+_timeout_for_node_speedometer_benchmark = 30*60
 _timeout_for_node_jetstream2_benchmark = 30*60
 # the caches for Chrome
 _cache_for_Chrome_filepath = _home_dir + "/.config/chromium/Default"

@@ -1,0 +1,1220 @@
+>>> the 0 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 00:55:59RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        5782.7ms +/- 1.1%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          347.6ms +/- 1.8%\
+' +
+      '    astar:                     347.6ms +/- 1.8%\
+' +
+      '\
+' +
+      '  audio:                       942.2ms +/- 2.9%\
+' +
+      '    beat-detection:            319.7ms +/- 9.0%\
+' +
+      '    dft:                       199.4ms +/- 1.3%\
+' +
+      '    fft:                       203.5ms +/- 3.1%\
+' +
+      '    oscillator:                219.6ms +/- 1.2%\
+' +
+      '\
+' +
+      '  imaging:                     782.4ms +/- 1.0%\
+' +
+      '    gaussian-blur:             308.6ms +/- 1.2%\
+' +
+      '    darkroom:                  309.8ms +/- 1.8%\
+' +
+      '    desaturate:                164.0ms +/- 3.4%\
+' +
+      '\
+' +
+      '  json:                       1225.1ms +/- 2.9%\
+' +
+      '    parse-financial:           873.8ms +/- 2.2%\
+' +
+      '    stringify-tinderbox:       351.3ms +/- 5.8%\
+' +
+      '\
+' +
+      '  stanford:                   2485.4ms +/- 0.8%\
+' +
+      '    crypto-aes:                388.2ms +/- 1.4%\
+' +
+      '    crypto-ccm:                847.6ms +/- 2.0%\
+' +
+      '    crypto-pbkdf2:             924.5ms +/- 0.5%\
+' +
+      '    crypto-sha256-iterative:   325.1ms +/- 3.2%\
+'
+  }
+}
+"
+
+
+>>> the 1 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 00:58:52RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        7751.3ms +/- 19.9%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          488.9ms +/- 26.6%\
+' +
+      '    astar:                     488.9ms +/- 26.6%\
+' +
+      '\
+' +
+      '  audio:                      1020.3ms +/- 9.9%\
+' +
+      '    beat-detection:            358.7ms +/- 15.6%\
+' +
+      '    dft:                       214.4ms +/- 7.0%\
+' +
+      '    fft:                       218.9ms +/- 5.5%\
+' +
+      '    oscillator:                228.3ms +/- 8.8%\
+' +
+      '\
+' +
+      '  imaging:                     950.6ms +/- 16.7%\
+' +
+      '    gaussian-blur:             387.6ms +/- 18.4%\
+' +
+      '    darkroom:                  391.9ms +/- 18.1%\
+' +
+      '    desaturate:                171.1ms +/- 11.0%\
+' +
+      '\
+' +
+      '  json:                       1699.6ms +/- 22.2%\
+' +
+      '    parse-financial:          1233.6ms +/- 22.8%\
+' +
+      '    stringify-tinderbox:       466.0ms +/- 21.3%\
+' +
+      '\
+' +
+      '  stanford:                   3591.9ms +/- 23.2%\
+' +
+      '    crypto-aes:                560.1ms +/- 23.0%\
+' +
+      '    crypto-ccm:               1268.4ms +/- 24.5%\
+' +
+      '    crypto-pbkdf2:            1349.6ms +/- 24.5%\
+' +
+      '    crypto-sha256-iterative:   413.8ms +/- 17.3%\
+'
+  }
+}
+"
+
+
+>>> the 2 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:02:16RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6165.8ms +/- 2.4%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          375.5ms +/- 6.4%\
+' +
+      '    astar:                     375.5ms +/- 6.4%\
+' +
+      '\
+' +
+      '  audio:                      1060.1ms +/- 7.7%\
+' +
+      '    beat-detection:            347.1ms +/- 9.0%\
+' +
+      '    dft:                       219.9ms +/- 7.0%\
+' +
+      '    fft:                       248.1ms +/- 13.1%\
+' +
+      '    oscillator:                245.0ms +/- 9.1%\
+' +
+      '\
+' +
+      '  imaging:                     796.1ms +/- 6.8%\
+' +
+      '    gaussian-blur:             312.8ms +/- 8.0%\
+' +
+      '    darkroom:                  316.9ms +/- 7.8%\
+' +
+      '    desaturate:                166.4ms +/- 5.8%\
+' +
+      '\
+' +
+      '  json:                       1281.3ms +/- 2.8%\
+' +
+      '    parse-financial:           896.3ms +/- 2.4%\
+' +
+      '    stringify-tinderbox:       385.0ms +/- 9.2%\
+' +
+      '\
+' +
+      '  stanford:                   2652.8ms +/- 1.5%\
+' +
+      '    crypto-aes:                396.0ms +/- 1.7%\
+' +
+      '    crypto-ccm:                865.8ms +/- 2.6%\
+' +
+      '    crypto-pbkdf2:             997.0ms +/- 3.2%\
+' +
+      '    crypto-sha256-iterative:   394.0ms +/- 6.2%\
+'
+  }
+}
+"
+
+
+>>> the 3 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:05:17RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6334.3ms +/- 1.3%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          365.3ms +/- 5.1%\
+' +
+      '    astar:                     365.3ms +/- 5.1%\
+' +
+      '\
+' +
+      '  audio:                      1150.2ms +/- 3.7%\
+' +
+      '    beat-detection:            382.0ms +/- 8.5%\
+' +
+      '    dft:                       245.3ms +/- 6.7%\
+' +
+      '    fft:                       243.8ms +/- 9.1%\
+' +
+      '    oscillator:                279.1ms +/- 5.9%\
+' +
+      '\
+' +
+      '  imaging:                     826.8ms +/- 2.8%\
+' +
+      '    gaussian-blur:             323.1ms +/- 4.3%\
+' +
+      '    darkroom:                  334.0ms +/- 4.9%\
+' +
+      '    desaturate:                169.7ms +/- 5.8%\
+' +
+      '\
+' +
+      '  json:                       1287.7ms +/- 3.5%\
+' +
+      '    parse-financial:           908.2ms +/- 4.2%\
+' +
+      '    stringify-tinderbox:       379.5ms +/- 7.6%\
+' +
+      '\
+' +
+      '  stanford:                   2704.3ms +/- 1.9%\
+' +
+      '    crypto-aes:                416.1ms +/- 6.1%\
+' +
+      '    crypto-ccm:                897.6ms +/- 4.7%\
+' +
+      '    crypto-pbkdf2:            1010.1ms +/- 3.5%\
+' +
+      '    crypto-sha256-iterative:   380.5ms +/- 6.8%\
+'
+  }
+}
+"
+
+
+>>> the 4 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:08:22RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6286.8ms +/- 2.4%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          345.2ms +/- 3.3%\
+' +
+      '    astar:                     345.2ms +/- 3.3%\
+' +
+      '\
+' +
+      '  audio:                      1089.5ms +/- 4.4%\
+' +
+      '    beat-detection:            366.1ms +/- 6.6%\
+' +
+      '    dft:                       232.1ms +/- 2.1%\
+' +
+      '    fft:                       239.8ms +/- 8.8%\
+' +
+      '    oscillator:                251.5ms +/- 7.7%\
+' +
+      '\
+' +
+      '  imaging:                     815.4ms +/- 6.3%\
+' +
+      '    gaussian-blur:             317.8ms +/- 7.2%\
+' +
+      '    darkroom:                  321.6ms +/- 7.2%\
+' +
+      '    desaturate:                176.0ms +/- 9.5%\
+' +
+      '\
+' +
+      '  json:                       1312.9ms +/- 4.0%\
+' +
+      '    parse-financial:           939.9ms +/- 5.6%\
+' +
+      '    stringify-tinderbox:       373.0ms +/- 6.8%\
+' +
+      '\
+' +
+      '  stanford:                   2723.8ms +/- 2.0%\
+' +
+      '    crypto-aes:                432.0ms +/- 7.3%\
+' +
+      '    crypto-ccm:                884.5ms +/- 2.0%\
+' +
+      '    crypto-pbkdf2:            1002.6ms +/- 2.5%\
+' +
+      '    crypto-sha256-iterative:   404.7ms +/- 8.0%\
+'
+  }
+}
+"
+
+
+>>> the 5 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:11:29RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6463.6ms +/- 1.7%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          409.0ms +/- 6.9%\
+' +
+      '    astar:                     409.0ms +/- 6.9%\
+' +
+      '\
+' +
+      '  audio:                      1151.4ms +/- 3.7%\
+' +
+      '    beat-detection:            408.0ms +/- 6.3%\
+' +
+      '    dft:                       225.9ms +/- 6.4%\
+' +
+      '    fft:                       234.4ms +/- 5.8%\
+' +
+      '    oscillator:                283.1ms +/- 5.8%\
+' +
+      '\
+' +
+      '  imaging:                     826.1ms +/- 5.2%\
+' +
+      '    gaussian-blur:             320.7ms +/- 7.8%\
+' +
+      '    darkroom:                  322.8ms +/- 8.4%\
+' +
+      '    desaturate:                182.6ms +/- 5.0%\
+' +
+      '\
+' +
+      '  json:                       1355.6ms +/- 3.6%\
+' +
+      '    parse-financial:           916.6ms +/- 2.8%\
+' +
+      '    stringify-tinderbox:       439.0ms +/- 7.2%\
+' +
+      '\
+' +
+      '  stanford:                   2721.5ms +/- 1.6%\
+' +
+      '    crypto-aes:                427.2ms +/- 5.8%\
+' +
+      '    crypto-ccm:                906.8ms +/- 4.4%\
+' +
+      '    crypto-pbkdf2:             985.4ms +/- 2.8%\
+' +
+      '    crypto-sha256-iterative:   402.1ms +/- 9.0%\
+'
+  }
+}
+"
+
+
+>>> the 6 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:14:54RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6391.6ms +/- 2.8%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          371.8ms +/- 8.1%\
+' +
+      '    astar:                     371.8ms +/- 8.1%\
+' +
+      '\
+' +
+      '  audio:                      1147.6ms +/- 5.3%\
+' +
+      '    beat-detection:            380.1ms +/- 8.2%\
+' +
+      '    dft:                       241.0ms +/- 7.2%\
+' +
+      '    fft:                       257.5ms +/- 12.2%\
+' +
+      '    oscillator:                269.0ms +/- 5.5%\
+' +
+      '\
+' +
+      '  imaging:                     808.4ms +/- 7.1%\
+' +
+      '    gaussian-blur:             315.3ms +/- 8.3%\
+' +
+      '    darkroom:                  315.8ms +/- 6.9%\
+' +
+      '    desaturate:                177.3ms +/- 10.0%\
+' +
+      '\
+' +
+      '  json:                       1328.7ms +/- 4.1%\
+' +
+      '    parse-financial:           947.5ms +/- 3.3%\
+' +
+      '    stringify-tinderbox:       381.2ms +/- 8.1%\
+' +
+      '\
+' +
+      '  stanford:                   2735.1ms +/- 2.7%\
+' +
+      '    crypto-aes:                420.0ms +/- 7.0%\
+' +
+      '    crypto-ccm:                913.9ms +/- 4.5%\
+' +
+      '    crypto-pbkdf2:             998.6ms +/- 3.2%\
+' +
+      '    crypto-sha256-iterative:   402.6ms +/- 7.2%\
+'
+  }
+}
+"
+
+
+>>> the 7 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:18:02RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6440.0ms +/- 2.7%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          391.3ms +/- 6.2%\
+' +
+      '    astar:                     391.3ms +/- 6.2%\
+' +
+      '\
+' +
+      '  audio:                      1117.2ms +/- 4.3%\
+' +
+      '    beat-detection:            358.4ms +/- 6.8%\
+' +
+      '    dft:                       231.9ms +/- 4.3%\
+' +
+      '    fft:                       263.0ms +/- 6.9%\
+' +
+      '    oscillator:                263.9ms +/- 7.8%\
+' +
+      '\
+' +
+      '  imaging:                     836.0ms +/- 7.0%\
+' +
+      '    gaussian-blur:             322.0ms +/- 6.6%\
+' +
+      '    darkroom:                  331.4ms +/- 7.0%\
+' +
+      '    desaturate:                182.6ms +/- 13.4%\
+' +
+      '\
+' +
+      '  json:                       1314.0ms +/- 2.8%\
+' +
+      '    parse-financial:           905.5ms +/- 3.4%\
+' +
+      '    stringify-tinderbox:       408.5ms +/- 6.2%\
+' +
+      '\
+' +
+      '  stanford:                   2781.5ms +/- 3.2%\
+' +
+      '    crypto-aes:                462.9ms +/- 5.3%\
+' +
+      '    crypto-ccm:                912.8ms +/- 6.9%\
+' +
+      '    crypto-pbkdf2:            1010.6ms +/- 3.8%\
+' +
+      '    crypto-sha256-iterative:   395.2ms +/- 8.9%\
+'
+  }
+}
+"
+
+
+>>> the 8 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:21:44RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6438.5ms +/- 1.9%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          385.1ms +/- 5.9%\
+' +
+      '    astar:                     385.1ms +/- 5.9%\
+' +
+      '\
+' +
+      '  audio:                      1147.9ms +/- 4.8%\
+' +
+      '    beat-detection:            367.5ms +/- 10.3%\
+' +
+      '    dft:                       252.3ms +/- 8.2%\
+' +
+      '    fft:                       253.8ms +/- 5.0%\
+' +
+      '    oscillator:                274.3ms +/- 7.6%\
+' +
+      '\
+' +
+      '  imaging:                     850.9ms +/- 3.4%\
+' +
+      '    gaussian-blur:             332.4ms +/- 5.2%\
+' +
+      '    darkroom:                  332.1ms +/- 5.8%\
+' +
+      '    desaturate:                186.4ms +/- 5.4%\
+' +
+      '\
+' +
+      '  json:                       1310.7ms +/- 2.0%\
+' +
+      '    parse-financial:           913.0ms +/- 3.3%\
+' +
+      '    stringify-tinderbox:       397.7ms +/- 8.7%\
+' +
+      '\
+' +
+      '  stanford:                   2743.9ms +/- 4.5%\
+' +
+      '    crypto-aes:                439.3ms +/- 3.8%\
+' +
+      '    crypto-ccm:                925.9ms +/- 8.1%\
+' +
+      '    crypto-pbkdf2:             981.2ms +/- 3.5%\
+' +
+      '    crypto-sha256-iterative:   397.5ms +/- 6.7%\
+'
+  }
+}
+"
+
+
+>>> the 9 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:25:10RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6092.7ms +/- 0.8%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          365.4ms +/- 1.1%\
+' +
+      '    astar:                     365.4ms +/- 1.1%\
+' +
+      '\
+' +
+      '  audio:                       969.6ms +/- 2.3%\
+' +
+      '    beat-detection:            310.5ms +/- 1.8%\
+' +
+      '    dft:                       213.7ms +/- 5.2%\
+' +
+      '    fft:                       219.3ms +/- 6.9%\
+' +
+      '    oscillator:                226.1ms +/- 5.6%\
+' +
+      '\
+' +
+      '  imaging:                     834.9ms +/- 3.0%\
+' +
+      '    gaussian-blur:             328.4ms +/- 5.1%\
+' +
+      '    darkroom:                  332.2ms +/- 5.4%\
+' +
+      '    desaturate:                174.3ms +/- 5.4%\
+' +
+      '\
+' +
+      '  json:                       1259.7ms +/- 1.3%\
+' +
+      '    parse-financial:           894.5ms +/- 0.9%\
+' +
+      '    stringify-tinderbox:       365.2ms +/- 5.0%\
+' +
+      '\
+' +
+      '  stanford:                   2663.1ms +/- 0.8%\
+' +
+      '    crypto-aes:                409.9ms +/- 1.4%\
+' +
+      '    crypto-ccm:                900.1ms +/- 2.3%\
+' +
+      '    crypto-pbkdf2:             970.6ms +/- 0.4%\
+' +
+      '    crypto-sha256-iterative:   382.5ms +/- 2.1%\
+'
+  }
+}
+"
+
+
+>>> the 10 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:28:06RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6375.1ms +/- 1.5%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          389.5ms +/- 6.0%\
+' +
+      '    astar:                     389.5ms +/- 6.0%\
+' +
+      '\
+' +
+      '  audio:                      1121.5ms +/- 3.3%\
+' +
+      '    beat-detection:            365.8ms +/- 8.0%\
+' +
+      '    dft:                       237.1ms +/- 5.0%\
+' +
+      '    fft:                       259.9ms +/- 8.7%\
+' +
+      '    oscillator:                258.7ms +/- 6.0%\
+' +
+      '\
+' +
+      '  imaging:                     842.6ms +/- 6.0%\
+' +
+      '    gaussian-blur:             319.7ms +/- 7.8%\
+' +
+      '    darkroom:                  337.0ms +/- 7.2%\
+' +
+      '    desaturate:                185.9ms +/- 6.5%\
+' +
+      '\
+' +
+      '  json:                       1294.0ms +/- 2.2%\
+' +
+      '    parse-financial:           900.6ms +/- 2.4%\
+' +
+      '    stringify-tinderbox:       393.4ms +/- 5.6%\
+' +
+      '\
+' +
+      '  stanford:                   2727.5ms +/- 1.7%\
+' +
+      '    crypto-aes:                446.9ms +/- 3.2%\
+' +
+      '    crypto-ccm:                889.2ms +/- 1.6%\
+' +
+      '    crypto-pbkdf2:             990.7ms +/- 3.6%\
+' +
+      '    crypto-sha256-iterative:   400.7ms +/- 8.5%\
+'
+  }
+}
+"
+
+
+>>> the 11 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:31:38RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6302.1ms +/- 1.8%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          367.9ms +/- 7.8%\
+' +
+      '    astar:                     367.9ms +/- 7.8%\
+' +
+      '\
+' +
+      '  audio:                      1066.4ms +/- 3.2%\
+' +
+      '    beat-detection:            343.5ms +/- 6.9%\
+' +
+      '    dft:                       224.6ms +/- 4.3%\
+' +
+      '    fft:                       243.3ms +/- 4.4%\
+' +
+      '    oscillator:                255.0ms +/- 7.7%\
+' +
+      '\
+' +
+      '  imaging:                     846.2ms +/- 9.4%\
+' +
+      '    gaussian-blur:             336.3ms +/- 10.4%\
+' +
+      '    darkroom:                  339.6ms +/- 7.9%\
+' +
+      '    desaturate:                170.3ms +/- 12.8%\
+' +
+      '\
+' +
+      '  json:                       1321.8ms +/- 2.8%\
+' +
+      '    parse-financial:           903.5ms +/- 1.8%\
+' +
+      '    stringify-tinderbox:       418.3ms +/- 6.1%\
+' +
+      '\
+' +
+      '  stanford:                   2699.8ms +/- 1.3%\
+' +
+      '    crypto-aes:                437.1ms +/- 5.3%\
+' +
+      '    crypto-ccm:                906.5ms +/- 3.5%\
+' +
+      '    crypto-pbkdf2:             981.1ms +/- 0.7%\
+' +
+      '    crypto-sha256-iterative:   375.1ms +/- 3.3%\
+'
+  }
+}
+"
+
+
+>>> the 12 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:35:00RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6340.8ms +/- 2.4%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          370.8ms +/- 5.0%\
+' +
+      '    astar:                     370.8ms +/- 5.0%\
+' +
+      '\
+' +
+      '  audio:                      1100.1ms +/- 4.5%\
+' +
+      '    beat-detection:            360.5ms +/- 7.4%\
+' +
+      '    dft:                       234.9ms +/- 9.9%\
+' +
+      '    fft:                       244.1ms +/- 8.3%\
+' +
+      '    oscillator:                260.6ms +/- 4.9%\
+' +
+      '\
+' +
+      '  imaging:                     808.7ms +/- 7.8%\
+' +
+      '    gaussian-blur:             315.2ms +/- 7.5%\
+' +
+      '    darkroom:                  330.0ms +/- 8.8%\
+' +
+      '    desaturate:                163.5ms +/- 11.3%\
+' +
+      '\
+' +
+      '  json:                       1323.1ms +/- 4.2%\
+' +
+      '    parse-financial:           911.2ms +/- 3.7%\
+' +
+      '    stringify-tinderbox:       411.9ms +/- 7.1%\
+' +
+      '\
+' +
+      '  stanford:                   2738.1ms +/- 2.9%\
+' +
+      '    crypto-aes:                466.0ms +/- 9.3%\
+' +
+      '    crypto-ccm:                874.1ms +/- 1.4%\
+' +
+      '    crypto-pbkdf2:            1003.1ms +/- 3.9%\
+' +
+      '    crypto-sha256-iterative:   394.9ms +/- 7.9%\
+'
+  }
+}
+"
+
+
+>>> the 13 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:38:27RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6415.9ms +/- 1.7%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          375.2ms +/- 5.9%\
+' +
+      '    astar:                     375.2ms +/- 5.9%\
+' +
+      '\
+' +
+      '  audio:                      1127.6ms +/- 3.4%\
+' +
+      '    beat-detection:            362.2ms +/- 5.9%\
+' +
+      '    dft:                       248.6ms +/- 9.0%\
+' +
+      '    fft:                       251.9ms +/- 5.6%\
+' +
+      '    oscillator:                264.9ms +/- 4.2%\
+' +
+      '\
+' +
+      '  imaging:                     859.0ms +/- 3.1%\
+' +
+      '    gaussian-blur:             336.7ms +/- 6.0%\
+' +
+      '    darkroom:                  340.0ms +/- 3.9%\
+' +
+      '    desaturate:                182.3ms +/- 8.5%\
+' +
+      '\
+' +
+      '  json:                       1304.5ms +/- 2.9%\
+' +
+      '    parse-financial:           907.4ms +/- 3.3%\
+' +
+      '    stringify-tinderbox:       397.1ms +/- 8.2%\
+' +
+      '\
+' +
+      '  stanford:                   2749.6ms +/- 3.6%\
+' +
+      '    crypto-aes:                465.0ms +/- 12.0%\
+' +
+      '    crypto-ccm:                905.5ms +/- 4.4%\
+' +
+      '    crypto-pbkdf2:             987.3ms +/- 3.1%\
+' +
+      '    crypto-sha256-iterative:   391.8ms +/- 7.7%\
+'
+  }
+}
+"
+
+
+>>> the 14 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:41:42RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6067.2ms +/- 0.9%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          365.1ms +/- 3.8%\
+' +
+      '    astar:                     365.1ms +/- 3.8%\
+' +
+      '\
+' +
+      '  audio:                       977.7ms +/- 2.2%\
+' +
+      '    beat-detection:            315.5ms +/- 3.7%\
+' +
+      '    dft:                       204.8ms +/- 2.7%\
+' +
+      '    fft:                       224.3ms +/- 5.4%\
+' +
+      '    oscillator:                233.1ms +/- 7.8%\
+' +
+      '\
+' +
+      '  imaging:                     814.5ms +/- 2.0%\
+' +
+      '    gaussian-blur:             314.6ms +/- 2.6%\
+' +
+      '    darkroom:                  328.1ms +/- 5.3%\
+' +
+      '    desaturate:                171.8ms +/- 3.7%\
+' +
+      '\
+' +
+      '  json:                       1246.6ms +/- 0.7%\
+' +
+      '    parse-financial:           887.5ms +/- 0.7%\
+' +
+      '    stringify-tinderbox:       359.1ms +/- 1.7%\
+' +
+      '\
+' +
+      '  stanford:                   2663.3ms +/- 1.7%\
+' +
+      '    crypto-aes:                431.7ms +/- 7.4%\
+' +
+      '    crypto-ccm:                872.7ms +/- 2.8%\
+' +
+      '    crypto-pbkdf2:             980.4ms +/- 2.1%\
+' +
+      '    crypto-sha256-iterative:   378.5ms +/- 4.0%\
+'
+  }
+}
+"
+
+
+>>> the 15 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:44:37RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6173.5ms +/- 1.6%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          357.8ms +/- 2.6%\
+' +
+      '    astar:                     357.8ms +/- 2.6%\
+' +
+      '\
+' +
+      '  audio:                      1068.7ms +/- 5.1%\
+' +
+      '    beat-detection:            340.3ms +/- 8.5%\
+' +
+      '    dft:                       229.3ms +/- 9.5%\
+' +
+      '    fft:                       236.4ms +/- 4.4%\
+' +
+      '    oscillator:                262.7ms +/- 5.1%\
+' +
+      '\
+' +
+      '  imaging:                     831.4ms +/- 3.8%\
+' +
+      '    gaussian-blur:             320.9ms +/- 5.2%\
+' +
+      '    darkroom:                  327.5ms +/- 4.7%\
+' +
+      '    desaturate:                183.0ms +/- 7.0%\
+' +
+      '\
+' +
+      '  json:                       1252.6ms +/- 0.9%\
+' +
+      '    parse-financial:           891.3ms +/- 0.5%\
+' +
+      '    stringify-tinderbox:       361.3ms +/- 3.0%\
+' +
+      '\
+' +
+      '  stanford:                   2663.0ms +/- 1.3%\
+' +
+      '    crypto-aes:                414.2ms +/- 5.2%\
+' +
+      '    crypto-ccm:                880.4ms +/- 2.0%\
+' +
+      '    crypto-pbkdf2:             969.9ms +/- 2.5%\
+' +
+      '    crypto-sha256-iterative:   398.5ms +/- 6.7%\
+'
+  }
+}
+"
+
+
+>>> the 16 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:47:43RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6307.8ms +/- 2.4%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          378.2ms +/- 6.4%\
+' +
+      '    astar:                     378.2ms +/- 6.4%\
+' +
+      '\
+' +
+      '  audio:                      1113.4ms +/- 4.2%\
+' +
+      '    beat-detection:            363.7ms +/- 7.7%\
+' +
+      '    dft:                       235.5ms +/- 8.2%\
+' +
+      '    fft:                       258.1ms +/- 7.8%\
+' +
+      '    oscillator:                256.1ms +/- 7.6%\
+' +
+      '\
+' +
+      '  imaging:                     812.9ms +/- 7.9%\
+' +
+      '    gaussian-blur:             314.4ms +/- 7.3%\
+' +
+      '    darkroom:                  331.5ms +/- 8.4%\
+' +
+      '    desaturate:                167.0ms +/- 11.5%\
+' +
+      '\
+' +
+      '  json:                       1283.5ms +/- 1.2%\
+' +
+      '    parse-financial:           887.9ms +/- 0.3%\
+' +
+      '    stringify-tinderbox:       395.6ms +/- 3.9%\
+' +
+      '\
+' +
+      '  stanford:                   2719.8ms +/- 2.6%\
+' +
+      '    crypto-aes:                466.8ms +/- 6.1%\
+' +
+      '    crypto-ccm:                886.6ms +/- 4.6%\
+' +
+      '    crypto-pbkdf2:             971.5ms +/- 3.1%\
+' +
+      '    crypto-sha256-iterative:   394.9ms +/- 6.7%\
+'
+  }
+}
+"
+
+
+>>> the 17 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:51:10RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6416.3ms +/- 1.3%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          412.7ms +/- 3.5%\
+' +
+      '    astar:                     412.7ms +/- 3.5%\
+' +
+      '\
+' +
+      '  audio:                      1140.3ms +/- 2.4%\
+' +
+      '    beat-detection:            400.3ms +/- 7.6%\
+' +
+      '    dft:                       234.4ms +/- 5.6%\
+' +
+      '    fft:                       245.9ms +/- 7.0%\
+' +
+      '    oscillator:                259.7ms +/- 4.2%\
+' +
+      '\
+' +
+      '  imaging:                     835.5ms +/- 3.0%\
+' +
+      '    gaussian-blur:             329.8ms +/- 5.9%\
+' +
+      '    darkroom:                  328.0ms +/- 5.2%\
+' +
+      '    desaturate:                177.7ms +/- 5.7%\
+' +
+      '\
+' +
+      '  json:                       1272.6ms +/- 2.3%\
+' +
+      '    parse-financial:           890.4ms +/- 0.9%\
+' +
+      '    stringify-tinderbox:       382.2ms +/- 7.4%\
+' +
+      '\
+' +
+      '  stanford:                   2755.2ms +/- 2.4%\
+' +
+      '    crypto-aes:                432.9ms +/- 6.0%\
+' +
+      '    crypto-ccm:                939.8ms +/- 5.4%\
+' +
+      '    crypto-pbkdf2:             985.8ms +/- 2.9%\
+' +
+      '    crypto-sha256-iterative:   396.7ms +/- 8.5%\
+'
+  }
+}
+"
+
+
+>>> the 18 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:54:22RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6073.5ms +/- 1.1%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          354.6ms +/- 3.8%\
+' +
+      '    astar:                     354.6ms +/- 3.8%\
+' +
+      '\
+' +
+      '  audio:                      1003.4ms +/- 4.1%\
+' +
+      '    beat-detection:            322.9ms +/- 8.3%\
+' +
+      '    dft:                       221.0ms +/- 5.7%\
+' +
+      '    fft:                       219.9ms +/- 3.9%\
+' +
+      '    oscillator:                239.6ms +/- 7.7%\
+' +
+      '\
+' +
+      '  imaging:                     815.2ms +/- 2.2%\
+' +
+      '    gaussian-blur:             323.2ms +/- 5.3%\
+' +
+      '    darkroom:                  323.2ms +/- 3.6%\
+' +
+      '    desaturate:                168.8ms +/- 3.4%\
+' +
+      '\
+' +
+      '  json:                       1262.2ms +/- 2.5%\
+' +
+      '    parse-financial:           901.0ms +/- 3.6%\
+' +
+      '    stringify-tinderbox:       361.2ms +/- 1.1%\
+' +
+      '\
+' +
+      '  stanford:                   2638.1ms +/- 1.9%\
+' +
+      '    crypto-aes:                406.3ms +/- 0.9%\
+' +
+      '    crypto-ccm:                877.2ms +/- 3.0%\
+' +
+      '    crypto-pbkdf2:             979.2ms +/- 2.9%\
+' +
+      '    crypto-sha256-iterative:   375.4ms +/- 1.7%\
+'
+  }
+}
+"
+
+
+>>> the 19 round, the filepath is /home/wluo/workspace/tim-evaluate/benchmark/thirdScripts/kraken/results/results-NORMAL/2020-12-13 01:57:17RESULTS (means and 95% confidence intervals)\
+' +
+      '-----------------------------------------------\
+' +
+      'Total:                        6334.0ms +/- 2.0%\
+' +
+      '-----------------------------------------------\
+' +
+      '\
+' +
+      '  ai:                          380.0ms +/- 4.9%\
+' +
+      '    astar:                     380.0ms +/- 4.9%\
+' +
+      '\
+' +
+      '  audio:                      1131.9ms +/- 4.3%\
+' +
+      '    beat-detection:            367.0ms +/- 7.0%\
+' +
+      '    dft:                       242.8ms +/- 7.5%\
+' +
+      '    fft:                       252.8ms +/- 8.9%\
+' +
+      '    oscillator:                269.3ms +/- 7.6%\
+' +
+      '\
+' +
+      '  imaging:                     833.7ms +/- 3.9%\
+' +
+      '    gaussian-blur:             312.7ms +/- 1.2%\
+' +
+      '    darkroom:                  333.6ms +/- 4.8%\
+' +
+      '    desaturate:                187.4ms +/- 11.0%\
+' +
+      '\
+' +
+      '  json:                       1291.5ms +/- 3.1%\
+' +
+      '    parse-financial:           913.7ms +/- 3.5%\
+' +
+      '    stringify-tinderbox:       377.8ms +/- 3.0%\
+' +
+      '\
+' +
+      '  stanford:                   2696.9ms +/- 2.1%\
+' +
+      '    crypto-aes:                427.7ms +/- 4.2%\
+' +
+      '    crypto-ccm:                902.1ms +/- 3.3%\
+' +
+      '    crypto-pbkdf2:             989.2ms +/- 3.1%\
+' +
+      '    crypto-sha256-iterative:   377.9ms +/- 6.3%\
+'
+  }
+}
+"
+
+
