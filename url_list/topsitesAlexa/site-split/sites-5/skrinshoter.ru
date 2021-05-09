@@ -1,9 +1,0 @@
-http://www.skrinshoter.ru/faq
-http://skrinshoter.ru/tos
-http://www.skrinshoter.ru/contacts
-http://www.skrinshoter.ru/
-http://www.skrinshoter.ru/howto
-http://www.skrinshoter.ru/tos
-http://skrinshoter.ru/video
-http://skrinshoter.ru/v/160118/RoRMfWAY
-http://skrinshoter.ru/v/160118/RoRMfWAYv160118RoRMfWAY.mp4

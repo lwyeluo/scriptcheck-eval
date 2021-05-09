@@ -1,1 +1,0 @@
-https://icrogorka.droppages.com/

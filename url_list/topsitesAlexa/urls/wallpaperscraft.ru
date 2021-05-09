@@ -1,1 +1,0 @@
-https://wallpaperscraft.ru/

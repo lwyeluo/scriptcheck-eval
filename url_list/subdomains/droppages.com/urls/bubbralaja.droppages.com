@@ -1,1 +1,0 @@
-https://bubbralaja.droppages.com/

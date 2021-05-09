@@ -1,9 +1,0 @@
-https://cn.shindanmaker.com
-https://kr.shindanmaker.com/
-https://en.shindanmaker.com
-https://o.shindanmaker.com
-https://en.shindanmaker.com/
-https://cn.shindanmaker.com/
-https://kr.shindanmaker.com
-https://shindanmaker.com/
-https://o.shindanmaker.com/

@@ -1,1 +1,0 @@
-https://fakty.ua/

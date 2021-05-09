@@ -1,1 +1,0 @@
-https://sspai.com/

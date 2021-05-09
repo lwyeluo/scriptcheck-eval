@@ -1,9 +1,0 @@
-https://www.cricbuzz.com/cricket-team
-https://www.cricbuzz.com/
-https://www.cricbuzz.com/cricket-photo-gallery
-https://www.cricbuzz.com/careers
-https://www.cricbuzz.com/mobileapps
-https://m.cricbuzz.com
-https://www.cricbuzz.com/cricket-videos
-https://www.cricbuzz.com/cricket-scorecard-archives
-https://www.cricbuzz.com/cricket-news

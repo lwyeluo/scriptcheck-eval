@@ -1,1 +1,0 @@
-https://bowling.droppages.com/

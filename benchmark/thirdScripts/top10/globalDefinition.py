@@ -16,7 +16,7 @@ IN_SITES = {
         NORMAL: "http://%s:3001/taskPermission/top10/particlesjs/index.1.html" % _HOST_,
         TIM: "http://%s:3001/taskPermission/top10/particlesjs/index.1.html" % _HOST_
     },
-    "raphael": {
+    "raphael": { # some problems
         NORMAL: "http://%s:3001/taskPermission/top10/raphael/index.1.html" % _HOST_,
         TIM: "http://%s:3001/taskPermission/top10/raphael/index.1.html" % _HOST_
     },
@@ -36,7 +36,7 @@ IN_SITES = {
        NORMAL: "http://%s:3001/taskPermission/top10/amcharts/amcharts.1.html" % _HOST_,
        TIM: "http://%s:3001/taskPermission/top10/amcharts/amcharts.1.html" % _HOST_
     },
-    "supersized": {
+    "supersized": { # some problems
         NORMAL: "http://%s:3001/taskPermission/top10/supersized/index.html" % _HOST_,
         TIM: "http://%s:3001/taskPermission/top10/supersized/index.html" % _HOST_
     },

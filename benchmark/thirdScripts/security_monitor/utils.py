@@ -6,7 +6,7 @@ from benchmark.thirdScripts.security_monitor.globalDefinition import _KEY_EVENTS
 from benchmark.thirdScripts.security_monitor.globalDefinition import _CPU_CYCLE, _TIME_IN_US, _TASK_RISKY, _TASK_NORMAL
 from benchmark.thirdScripts.security_monitor.globalDefinition import _SECURITY_MONITOR_DOM, _SECURITY_MONITOR_DOM_TARGET_ID
 from benchmark.thirdScripts.security_monitor.globalDefinition import _OUTPUT_FILE_NAME, _CASE_BASELINE, _CASE_OURS
-from benchmark.thirdScripts.security_monitor.globalDefinition import _SECURITY_MONITOR_TYPE_IN_CHROMIUM, _OTHER_KEY_EVENTS_IN_CHROMIUM
+from benchmark.thirdScripts.security_monitor.globalDefinition import _SECURITY_MONITOR_TYPE_IN_CHROMIUM, _SECURITY_MONITOR_SETTIMEOUTWR
 
 
 class ResultsForOneLog(object):
@@ -54,6 +54,21 @@ class ResultsForOneLog(object):
 
     def IsEmpty(self):
         return not self.has_data
+
+    def IsValidForRiskyLog(self):
+        for monitor in _KEY_EVENTS_IN_CHROMIUM:
+            if monitor == _SECURITY_MONITOR_SETTIMEOUTWR:
+                # setTimeout maybe created by unrestricted task
+                if np.isnan(self.data[monitor][_TASK_NORMAL][_CPU_CYCLE]) and \
+                    np.isnan(self.data[monitor][_TASK_RISKY][_CPU_CYCLE]):
+                    print("\t\twrong data:", monitor, self.data[monitor][_task_type][_CPU_CYCLE])
+                    return False
+            else:
+                _task_type = _TASK_RISKY
+                if np.isnan(self.data[monitor][_task_type][_CPU_CYCLE]):
+                    print("\t\twrong data:", monitor, self.data[monitor][_task_type][_CPU_CYCLE])
+                    return False
+        return True
 
     def Get(self):
         return self.data

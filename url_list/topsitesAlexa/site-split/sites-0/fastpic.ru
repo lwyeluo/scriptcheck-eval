@@ -1,1 +1,0 @@
-https://fastpic.ru/

@@ -1,1 +1,0 @@
-https://elearning.droppages.com/

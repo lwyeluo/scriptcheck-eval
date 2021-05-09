@@ -1,9 +1,0 @@
-http://ec2-18-130-137-100.eu-west-2.compute.amazonaws.com/contact-us
-http://ec2-18-130-137-100.eu-west-2.compute.amazonaws.com/jobssearch-jobs
-http://ec2-18-130-137-100.eu-west-2.compute.amazonaws.com/freelancerssearch-freelancers
-http://ec2-18-130-137-100.eu-west-2.compute.amazonaws.com/about-us
-http://ec2-18-130-137-100.eu-west-2.compute.amazonaws.com/login
-http://ec2-18-130-137-100.eu-west-2.compute.amazonaws.com/careers
-http://ec2-18-130-137-100.eu-west-2.compute.amazonaws.com/jobspost-jobs
-http://ec2-18-130-137-100.eu-west-2.compute.amazonaws.com/
-http://ec2-18-130-137-100.eu-west-2.compute.amazonaws.com/startup-programme

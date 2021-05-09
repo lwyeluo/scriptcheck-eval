@@ -1,1 +1,0 @@
-https://kentc.droppages.com/

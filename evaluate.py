@@ -272,12 +272,12 @@ if __name__ == '__main__':
     elif args.third_benchmark:
         if args.third_benchmark == "run":
             # --third-benchmark run
-            from benchmark.thirdScripts.top10.run import run
+            from benchmark.thirdScripts.library.run import run
 
             run(args.script)
         elif args.third_benchmark == "parse":
             # --third-benchmark parse
-            from benchmark.thirdScripts.top10.parseResult import run
+            from benchmark.thirdScripts.library.parseResult import run
 
             run()
     elif args.async_benchmark:

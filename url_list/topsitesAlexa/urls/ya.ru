@@ -1,1 +1,0 @@
-https://ya.ru/

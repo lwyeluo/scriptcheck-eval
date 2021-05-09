@@ -1,9 +1,0 @@
-https://www.animenewsnetwork.com/subscription
-https://www.animenewsnetwork.com/copyright-policy
-https://www.animenewsnetwork.com/
-https://www.animenewsnetwork.com/contact
-https://www.animenewsnetwork.com/privacy-policy
-https://www.animenewsnetwork.com/advertising
-https://www.animenewsnetwork.com/policy
-https://www.animenewsnetwork.com/faq
-https://www.animenewsnetwork.com/staff

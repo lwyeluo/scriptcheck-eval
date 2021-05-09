@@ -1,1 +1,0 @@
-https://whatsup.droppages.com/

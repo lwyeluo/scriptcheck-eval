@@ -1,1 +1,0 @@
-https://cv.droppages.com/

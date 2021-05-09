@@ -1,1 +1,0 @@
-https://pananaca.droppages.com/

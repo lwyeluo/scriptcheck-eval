@@ -1,1 +1,0 @@
-https://rivatedma.droppages.com/

@@ -1,9 +1,0 @@
-https://ittoall.droppages.com/Products
-https://ittoall.droppages.com/About+Us
-https://ittoall.droppages.com/ProductsBULK+SMS
-https://ittoall.droppages.com/ProductsContact+Us
-https://ittoall.droppages.com/
-https://ittoall.droppages.com/Contact+Us
-https://ittoall.droppages.com/ProductsProducts
-https://ittoall.droppages.com/BULK+SMS
-https://ittoall.droppages.com/ProductsAbout+Us

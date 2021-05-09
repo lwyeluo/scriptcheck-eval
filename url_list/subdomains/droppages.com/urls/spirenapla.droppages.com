@@ -1,1 +1,0 @@
-https://spirenapla.droppages.com/

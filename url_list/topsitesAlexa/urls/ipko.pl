@@ -1,1 +1,0 @@
-https://www.ipko.pl/

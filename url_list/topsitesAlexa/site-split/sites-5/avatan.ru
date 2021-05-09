@@ -1,1 +1,0 @@
-https://avatan.ru/

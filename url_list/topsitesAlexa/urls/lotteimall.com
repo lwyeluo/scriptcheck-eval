@@ -1,1 +1,0 @@
-https://www.lotteimall.com/

@@ -1,1 +1,0 @@
-https://gemini.droppages.com/

@@ -1,1 +1,0 @@
-https://poltava.droppages.com/

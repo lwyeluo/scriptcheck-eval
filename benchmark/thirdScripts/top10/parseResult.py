@@ -95,7 +95,10 @@ class Parse(object):
                     self.all_results[site][k] += p.results
 
             print("%s\t%s\t%s" % (site, NORMAL, TIM))
-            for i in range(0, len(self.all_results[site][NORMAL])):
+            valid_round = len(self.all_results[site][NORMAL])
+            if len(self.all_results[site][NORMAL]) > len(self.all_results[site][TIM]):
+                valid_round = len(self.all_results[site][TIM])
+            for i in range(0, valid_round):
                 print("%d\t%f\t%f" % (i, self.all_results[site][NORMAL][i], self.all_results[site][TIM][i]))
             sum_value_normal, sum_value_tim = 0, 0
             for v in self.all_results[site][NORMAL]:
