@@ -1,1 +1,0 @@
-https://gloria.droppages.com/

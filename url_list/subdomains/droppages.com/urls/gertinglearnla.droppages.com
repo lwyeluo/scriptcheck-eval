@@ -1,1 +1,0 @@
-https://gertinglearnla.droppages.com/

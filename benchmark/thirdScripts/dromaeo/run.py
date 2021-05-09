@@ -20,7 +20,7 @@ from utils.executor import getTime
 
 
 class RunChromeForPerformance(object):
-    def __init__(self, in_url="https://dromaeo.uplinklabs.net/?dom",
+    def __init__(self, in_url="http://serenityos.org/dromaeo/?dom",
                  in_chrome_binary=_chrome_binary, in_type="normal", in_round_index=0):
         self.test_url = in_url
         self.chrome_binary = in_chrome_binary
@@ -85,7 +85,7 @@ class RunChromeForPerformance(object):
 
 
 def run():
-    _round = 500
+    _round = 1000
     for i in range(0, _round):
         print(">>> round: ", i)
         for case in _CASES:

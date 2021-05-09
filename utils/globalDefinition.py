@@ -62,13 +62,14 @@ _node_run_url_filename_dromeao = os.path.join(_run_script_dir, "run_url_in_Chrom
 _node_run_url_filename_telemetry = os.path.join(_run_script_dir, "run_url_in_Chrome_telemetry.js")
 _node_run_url_filename_jetstream2 = os.path.join(_run_script_dir, "run_url_in_Chrome_jetstream2.js")
 _node_run_url_filename_speedometer = os.path.join(_run_script_dir, "run_url_in_Chrome_speedometer.js")
+_node_run_url_filename_library = os.path.join(_run_script_dir, "run_url_in_Chrome_library.js")
 # timeout for each webpage
 _timeout = 300
 _timeout_for_node = 30
 _timeout_benchmark = 300
 _timeout_for_node_benchmark = 300
 _timeout_for_node_kraken_benchmark = 600
-_timeout_for_node_speedometer_benchmark = 30*60
+_timeout_for_node_speedometer_benchmark = 120*60
 _timeout_for_node_jetstream2_benchmark = 30*60
 # the caches for Chrome
 _cache_for_Chrome_filepath = _home_dir + "/.config/chromium/Default"

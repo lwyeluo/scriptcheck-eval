@@ -1,1 +1,0 @@
-https://qz.com/

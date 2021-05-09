@@ -7,9 +7,9 @@ import os, shutil
 import argparse
 
 
-PYTHON_PATH = "/home/wluo/workspace/tim-evaluate/evaluate.py"
+PYTHON_PATH = "/home/luowu/workspace/tim-evaluate/evaluate.py"
 
-def run3rd(site="amcharts"):
+def run3rd(site="three.js"):
     print("run")
     p = subprocess.Popen(["python3", PYTHON_PATH, "--third-benchmark", "run", "--script", site])
     p.communicate()
@@ -23,7 +23,7 @@ def run3rd(site="amcharts"):
             cost = float(d.split(" ")[-1])
             if cost < 1:
                 print("cost is too low", cost)
-            elif cost > 1.08:
+            elif cost > 1.05:
                 print("cost is too high", cost)
             else:
                 print("cost is OK", cost)
@@ -73,6 +73,28 @@ def runDromaeo():
                         return False
     return True
 
+def runJetstream2():
+    print("runJetstream2")
+    p = subprocess.Popen(["python3", PYTHON_PATH, "--jetstream2-benchmark", "run"])
+    p.communicate()
+
+    p2 = subprocess.Popen(["python3", PYTHON_PATH, "--jetstream2-benchmark", "parse"],
+                          stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    print(" ".join(["python3", PYTHON_PATH, "--jetstream2-benchmark", "parse"]))
+    stdout, _ = p2.communicate()
+    for d in stdout.decode("gb2312").split("\n"):
+        if "COST:" in d:
+            print(d)
+            for data in d.split('''%'''):
+                _, _, cost = data.partition("(")
+                print(data, cost)
+                if cost != "":
+                    if float(cost) < 0 or float(cost) > 0.2:
+                        print("cost (%s) is not expected" % cost)
+                        return False
+                    return True
+    return False
+
 def runKraken():
     print("runKraken")
     p = subprocess.Popen(["python3", PYTHON_PATH, "--kraken-benchmark", "run"])
@@ -81,15 +103,21 @@ def runKraken():
     p2 = subprocess.Popen(["python3", PYTHON_PATH, "--kraken-benchmark", "parse"],
                           stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     stdout, _ = p2.communicate()
+    totalCost = True
     for d in stdout.decode("gb2312").split("\n"):
         if "Ours\t&" in d:
             print(d)
             for data in d.split('''\%)'''):
                 _, _, cost = data.partition("(")
                 if cost != "":
-                    if float(cost) < 0 or float(cost) > 5:
-                        print("cost (%s) is not expected" % cost)
-                        return False
+                    if totalCost:
+                        if float(cost) < 0 or float(cost) > 0.04:
+                            print("total cost (%s) is not expected" % cost)
+                            return False
+                    else:
+                        if float(cost) < -0.4 or float(cost) > 0.4:
+                            print("total cost (%s) is not expected" % cost)
+                            return False
     return True
 
 
@@ -249,6 +277,7 @@ if __name__ == '__main__':
 
     parser.add_argument('--run-dromaeo', action='store_true', help="Run the dromaeo benchmark")
     parser.add_argument('--run-kraken', action='store_true', help="Run the kraken benchmark")
+    parser.add_argument('--run-jetstream2', action='store_true', help="Run the jetstream2 benchmark")
     parser.add_argument('--run-async', action='store_true', help="Run the async benchmark")
     parser.add_argument('--run-top10', action='store_true', help="Run the top10 benchmark")
     parser.add_argument('--run-sandbox', type=str, choices=['cross', 'no-cross'],
@@ -265,6 +294,10 @@ if __name__ == '__main__':
     elif args.run_kraken:
         while True:
             if runKraken():
+                break
+    elif args.run_jetstream2:
+        while True:
+            if runJetstream2():
                 break
     elif args.run_async:
         testAsync()

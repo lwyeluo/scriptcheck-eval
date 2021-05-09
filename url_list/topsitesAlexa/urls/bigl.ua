@@ -1,1 +1,0 @@
-https://bigl.ua/

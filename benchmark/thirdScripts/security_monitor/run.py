@@ -15,16 +15,19 @@ from run_script.run import RunUrl
 from run_script.globalDefinition import *
 from utils.executor import getTime
 from benchmark.thirdScripts.security_monitor.globalDefinition import _CASES_CONFIG, _CASE_KEY_URL, _CASE_KEY_CHROME
+from benchmark.thirdScripts.security_monitor.globalDefinition import _CASE_BASELINE, _CASE_OURS
 from benchmark.thirdScripts.security_monitor.parseResult import ParseLog
 
 
 class RunChromeForPerformance(object):
-    def __init__(self, in_url, in_chrome_binary, in_results_dir, in_round_idx):
+    def __init__(self, in_url, in_chrome_binary, in_results_dir, in_case, in_round_idx):
         self.test_url = in_url
         self.chrome_binary = in_chrome_binary
 
         self.node_filename = _node_run_url_filename_delay
         self._results_dir = in_results_dir
+
+        self._case = in_case
 
         self._round = in_round_idx
 
@@ -43,7 +46,9 @@ class RunChromeForPerformance(object):
             # check whether this round is successful
             p = ParseLog(filepath=self.log_filepath)
             p.run()
-            if not p.results.IsEmpty():
+            if (self._case == _CASE_BASELINE) and (not p.results.IsEmpty()):
+                return
+            if (self._case == _CASE_OURS) and (not p.results.IsEmpty()) and (p.results.IsValidForRiskyLog()):
                 return
             print("\twe cannot collect data in this round, so retry in this round...")
 
@@ -84,6 +89,7 @@ def run():
             r = RunChromeForPerformance(in_url=_CASES_CONFIG[case][_CASE_KEY_URL],
                                         in_chrome_binary=_CASES_CONFIG[case][_CASE_KEY_CHROME],
                                         in_results_dir=_target_dir,
+                                        in_case=case,
                                         in_round_idx=i)
             if i == 0:
                 if os.path.exists(_target_dir):

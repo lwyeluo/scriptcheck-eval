@@ -1,1 +1,0 @@
-https://curiosity.droppages.com/

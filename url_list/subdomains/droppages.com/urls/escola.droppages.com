@@ -1,1 +1,0 @@
-https://escola.droppages.com/

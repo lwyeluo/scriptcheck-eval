@@ -10,6 +10,7 @@ from utils.globalDefinition import _chrome_binary, _node_binary, _timeout, _time
 from utils.globalDefinition import _node_filename, _node_run_url_filename
 from utils.globalDefinition import _node_run_url_filename_kraken, _node_run_url_filename_dromeao
 from utils.globalDefinition import _node_run_url_filename_jetstream2, _node_run_url_filename_speedometer
+from utils.globalDefinition import _node_run_url_filename_library
 from run_script.globalDefinition import *
 
 
@@ -34,6 +35,7 @@ class RunUrl(object):
         self.feature_telemetry_done = '''DONE FOR RUNNING TELEMETRY'''
         self.feature_jetstream2_done = '''DONE FOR RUNNING JetStream2. Score is'''
         self.feature_speedometer_done = '''DONE FOR RUNNING Speedometer. Result is '''
+        self.feature_3rd_library_done = '''DONE FOR RUNNING 3RD LIBRARY. TIME USAGE is '''
 
         # the information for frames
         self.frame_info = {}  # {'parent': {'url': url, 'domain': domain}, 'frameID': {'url': url, 'domain': domain}}
@@ -43,6 +45,7 @@ class RunUrl(object):
         self._results_for_dromeao = ""
         self._results_for_jetsteam2 = ""
         self._results_for_speedometer = ""
+        self._results_for_3rd_library = ""
 
         self.flag = self.run()  # flag refers to definitions in `globalDefinition`
 
@@ -106,6 +109,15 @@ class RunUrl(object):
             return True
         return False
 
+    # collect the results of 3rd library benchmark
+    def collectResultsFor3rdLibrary(self, logs):
+        feature = self.feature_3rd_library_done
+        if feature in logs:
+            info = logs[logs.find(feature):].strip('\\n').split('\\n')
+            self._results_for_3rd_library = '\n'.join(info)
+            return True
+        return False
+
     def run(self):
         flag = 0  # 0: completed, 1: timeout
         ret_fd = open(self.ret_filename, 'w')
@@ -137,6 +149,9 @@ class RunUrl(object):
         elif self.feature_jetstream2_done in str(stdout):
             print("\t\tweb page [%s] is completed" % self.url)
             flag = CHROME_RUN_FLAG_JETSTREAM2_SUCCESS
+        elif self.feature_3rd_library_done in str(stdout):
+            print("\t\tweb page [%s] is completed" % self.url)
+            flag = CHROME_RUN_FLAG_3RD_LIBRARY_SUCCESS
         elif self.features_completed in str(stdout):
             print("\t\tweb page [%s] is completed!" % self.url)
             flag = CHROME_RUN_FLAG_SUCCESS
@@ -165,6 +180,11 @@ class RunUrl(object):
                 flag = CHROME_RUN_FLAG_SPEEDOMETER_SUCCESS
             else:
                 flag = CHROME_RUN_FLAG_SPEEDOMETER_ERROR
+        elif self.node_filename == _node_run_url_filename_library:
+            if self.collectResultsFor3rdLibrary(str(stdout)):
+                flag = CHROME_RUN_FLAG_3RD_LIBRARY_SUCCESS
+            else:
+                flag = CHROME_RUN_FLAG_3RD_LIBRARY_ERROR
         elif self.node_filename == _node_run_url_filename_jetstream2:
             self.collectResultsForJetStream2(str(stdout))
 

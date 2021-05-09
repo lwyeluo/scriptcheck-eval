@@ -1,1 +1,0 @@
-https://alatgalja.droppages.com/

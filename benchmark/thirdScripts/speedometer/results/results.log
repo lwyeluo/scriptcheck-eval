@@ -1,127 +1,90 @@
 
-DevTools listening on ws://127.0.0.1:9222/devtools/browser/72ea9016-b4da-45b7-90a8-1ced1df60c54
-ATTENTION: default value of option force_s3tc_enable overridden by environment.
-[11395:11395:0110/234057.576379:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
-[11395:11395:0110/234058.949020:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/234101.288411:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/234101.453427:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/234128.559942:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/234304.253499:WARNING:gaia_auth_fetcher.cc(873)] Could not reach Google Accounts servers: errno -118
-[11395:11395:0110/234328.694224:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/234405.659240:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/234405.748306:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/234412.553873:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/234415.026146:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234415.027311:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234415.028310:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234415.029250:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234415.195504:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234415.664618:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234415.667323:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234415.670200:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234415.671145:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234415.853599:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234416.091176:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234416.092319:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234416.093311:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234416.094245:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234416.252343:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234432.472940:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234432.474097:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234432.475204:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234432.476140:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234432.634081:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234457.856281:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234457.857441:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234457.858437:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234457.859373:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234458.012376:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234458.248439:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234458.250168:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234458.251166:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234458.252115:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234458.403702:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234512.381770:WARNING:gaia_auth_fetcher.cc(873)] Could not reach Google Accounts servers: errno -118
-[11395:11395:0110/234527.884498:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/234528.067442:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/234552.416709:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/234603.330425:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234603.331637:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234603.332644:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234603.333584:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234603.490709:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/234722.176996:WARNING:gaia_auth_fetcher.cc(873)] Could not reach Google Accounts servers: errno -118
-[11395:11395:0110/234936.828791:WARNING:gaia_auth_fetcher.cc(873)] Could not reach Google Accounts servers: errno -118
-[11395:11395:0110/234942.845948:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235203.252274:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235205.569961:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235205.620999:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235206.242075:WARNING:gaia_auth_fetcher.cc(873)] Could not reach Google Accounts servers: errno -118
-[11395:11395:0110/235237.433213:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235310.012395:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235310.151715:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235310.230898:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235459.211899:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235459.302534:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235523.964814:WARNING:gaia_auth_fetcher.cc(873)] Could not reach Google Accounts servers: errno -118
-[11395:11395:0110/235534.049169:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235534.127629:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235612.463466:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235612.563066:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235612.676058:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235612.762498:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235612.807433:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235617.626218:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235617.627396:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235617.628402:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235617.629344:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235617.803729:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235618.014170:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235618.015416:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235618.016469:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235618.017415:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235618.175848:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235618.353809:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235618.355506:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235618.356506:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235618.357447:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235618.514402:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235618.691839:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235618.692967:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235618.693954:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235618.694924:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235618.855932:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235619.061113:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235619.062292:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235619.063289:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235619.064232:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235619.221874:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235619.643074:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235619.649014:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235619.650023:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235619.652867:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235619.837987:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235757.288957:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235757.537406:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235757.736886:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235757.877895:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235758.336139:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235758.337894:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235758.338990:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235758.339937:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235758.497960:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
-[11395:11395:0110/235828.773690:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11405:0110/235849.945505:ERROR:ssl_client_socket_impl.cc(1046)] handshake failed; returned -1, SSL error code 1, net_error -100
-[11395:11405:0110/235900.091821:ERROR:ssl_client_socket_impl.cc(1046)] handshake failed; returned -1, SSL error code 1, net_error -100
-[11395:11395:0110/235900.096935:WARNING:gaia_auth_fetcher.cc(873)] Could not reach Google Accounts servers: errno -100
-[11395:11395:0110/235932.292845:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0110/235941.197791:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0111/000435.273376:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0111/000521.568197:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0111/000521.708060:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11395:0111/000802.232491:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
-[11395:11712:0111/001049.470582:WARNING:internal_linux.cc(64)] Failed to read /proc/11427/stat
-[11395:11405:0111/001049.471177:WARNING:discardable_shared_memory_manager.cc(436)] Some MojoDiscardableSharedMemoryManagerImpls are still alive. They will be leaked.
-[11395:11395:0111/001049.477974:WARNING:url_request_context_getter.cc(43)] URLRequestContextGetter leaking due to no owning thread.
-[11395:11395:0111/001049.482598:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
-[11395:11395:0111/001049.482635:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+DevTools listening on ws://127.0.0.1:9222/devtools/browser/0e3c344c-b84e-46e5-96ef-f613b1951ef2
+[1:1:0216/181102.148033:INFO:capability_definition.cc(25)] [SCRIPTCHECKER] Init the CapabilityDefinition::Rules::Rules
+[1:1:0216/181102.148256:INFO:global.cc(18)] [SCRIPTCHECKER] init script checker in renderer process...
+[2992:3020:0216/181102.148487:INFO:global.cc(25)] [SCRIPTCHECKER] init script checker in kernel process...
+[2992:3015:0216/181102.436180:WARNING:simple_synchronous_entry.cc(1255)] Could not open platform files for entry.
+[3026:3026:0216/181102.487081:ERROR:sandbox_linux.cc(379)] InitializeSandbox() called with multiple threads in process gpu-process.
+[2992:2992:0216/181102.495335:ERROR:gpu_process_transport_factory.cc(1017)] Lost UI shared context.
+[2992:2992:0216/181102.607152:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[1:1:0216/181106.122508:INFO:capability_definition.cc(25)] [SCRIPTCHECKER] Init the CapabilityDefinition::Rules::Rules
+[1:1:0216/181106.122699:INFO:global.cc(18)] [SCRIPTCHECKER] init script checker in renderer process...
+[1:1:0216/181106.245994:ERROR:render_process_impl.cc(197)] WebFrame LEAKED 3 TIMES
+[2992:2992:0216/181121.013068:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181208.211556:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181225.589787:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181236.015964:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181236.107252:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181238.890789:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181240.831718:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181240.832239:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181240.832723:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181240.833200:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181240.943857:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181241.095935:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181241.096435:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181241.096917:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181241.097403:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181241.204622:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181247.786961:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181247.787471:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181247.787955:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181247.788432:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181247.894035:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181248.063630:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181248.064128:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181248.064609:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181248.065089:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181248.170025:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181303.672304:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181303.672807:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181303.673290:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181303.673766:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181303.790527:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181309.768060:WARNING:gaia_auth_fetcher.cc(873)] Could not reach Google Accounts servers: errno -118
+[2992:2992:0216/181310.151942:WARNING:one_google_bar_fetcher_impl.cc(315)] Request failed with error: -118: net::ERR_CONNECTION_TIMED_OUT
+[2992:2992:0216/181320.522008:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181320.522513:INFO:CONSOLE(16649)] "DEBUG: Ember  : 2.6.2", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181320.522994:INFO:CONSOLE(16649)] "DEBUG: jQuery : 2.2.4", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181320.523477:INFO:CONSOLE(16649)] "DEBUG: -------------------------------", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181320.629830:INFO:CONSOLE(16649)] "DEBUG: For more advanced debugging, install the Ember Inspector from https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi", source: https://browserbench.org/Speedometer2.0/resources/todomvc/architecture-examples/emberjs-debug/assets/vendor.js (16649)
+[2992:2992:0216/181321.064341:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181321.094473:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181334.634129:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181334.664735:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181344.716727:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181350.928980:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181351.687625:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181351.758516:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181405.024992:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181413.567737:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181416.053857:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181416.456728:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181518.024145:WARNING:gaia_auth_fetcher.cc(873)] Could not reach Google Accounts servers: errno -118
+[2992:2992:0216/181546.420454:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181601.149077:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181618.304011:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181659.971095:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181700.588853:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181714.985797:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181715.011785:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181715.032450:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181716.736282:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181727.815923:WARNING:gaia_auth_fetcher.cc(873)] Could not reach Google Accounts servers: errno -118
+[2992:2992:0216/181732.807233:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181732.834865:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181732.857500:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181732.883197:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181755.528389:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181755.545860:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181819.882321:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181819.950611:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181819.974170:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181829.208995:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181829.246669:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181829.482319:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181830.575453:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181904.123067:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181904.156069:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181904.193171:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory
+[2992:2992:0216/181904.200592:WARNING:render_frame_host_impl.cc(412)] InterfaceRequest was dropped, the document is no longer active: content::mojom::RendererAudioOutputStreamFactory

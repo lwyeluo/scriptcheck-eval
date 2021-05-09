@@ -41,8 +41,11 @@ class Parser(object):
                 round += 1
                 results.append({})
 
-                print("!!! A new round -> ", line.strip("\n"))
+                print("!!! A new round -> ", line.strip("\n"), round - 1)
                 line = f.readline()
+                # strip bad values
+                while line and line.find(">>>") == 0:
+                    line = f.readline()
                 # collect the data for this round
                 while line and line.find(">>>") != 0:
                     for benchmark in self.benchmarkNames:
@@ -60,10 +63,10 @@ class Parser(object):
                                 else:
                                     d_ = d_[i:]
                                     break
-                            print(n, d_)
+                            #print(n, d_)
                             # save the results
                             results[round - 1][benchmark] = d_
-                            print(line.strip("\n"), "\t\t\t>>>>", benchmark, n)
+                            #print(line.strip("\n"), "\t\t\t>>>>", benchmark, n)
                     # read the next line
                     line = f.readline()
             print("end")

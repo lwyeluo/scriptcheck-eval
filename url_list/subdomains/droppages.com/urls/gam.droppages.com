@@ -1,1 +1,0 @@
-https://gam.droppages.com/

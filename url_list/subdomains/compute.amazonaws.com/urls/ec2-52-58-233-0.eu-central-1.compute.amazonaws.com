@@ -1,9 +1,0 @@
-http://ec2-52-58-233-0.eu-central-1.compute.amazonaws.com/elementsProgressButtonStyles
-http://ec2-52-58-233-0.eu-central-1.compute.amazonaws.com/elementsDialogEffects
-http://ec2-52-58-233-0.eu-central-1.compute.amazonaws.com/
-http://ec2-52-58-233-0.eu-central-1.compute.amazonaws.com/elementsHexaFlip
-http://ec2-52-58-233-0.eu-central-1.compute.amazonaws.com/elementsAnimatedBorderMenus
-http://ec2-52-58-233-0.eu-central-1.compute.amazonaws.com/elementsBookBlock
-http://ec2-52-58-233-0.eu-central-1.compute.amazonaws.com/elementsAnimatedOpeningType
-http://ec2-52-58-233-0.eu-central-1.compute.amazonaws.com/elementsInteractive3DMallMap
-http://ec2-52-58-233-0.eu-central-1.compute.amazonaws.com/elementsAnimatedCheckboxes

@@ -1,1 +1,0 @@
-https://waysimpnana.droppages.com/

@@ -1,9 +1,0 @@
-https://www.xue51.com/zt.html
-https://www.xue51.com/youxi.html
-https://www.xue51.com/top.html
-https://www.xue51.com/
-https://www.xue51.com/webmap.html
-https://www.xue51.com/yxtj.html
-https://www.xue51.com/rjtj.html
-https://www.xue51.com/ruanjian.html
-https://www.xue51.com/top_new.html

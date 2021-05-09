@@ -1,0 +1,12 @@
+	chartjs-Baseline	chartjs-Ours	highcharts-Baseline	highcharts-Ours	particlesjs-Baseline	particlesjs-Ours	raphael-Baseline	raphael-Ours	d3-Baseline	d3-Ours	threejs-Baseline	threejs-Ours	mathjax-Baseline	mathjax-Ours	amcharts-Baseline	amcharts-Ours	supersized-Baseline	supersized-Ours	googlecharts-Baseline	googlecharts-Ours
+0	1208.000000	1238.400000	462.600000	493.700000	234.500000	245.700000	727.800000	300.000000	774.000000	687.300000	3208.100000	3728.700000	3087.200000	3105.600000	6077.200000	5994.200000	183.200000	196.000000	2485.700000	2196.900000
+1	1207.400000	1240.000000	484.400000	523.000000	239.900000	250.800000	282.300000	311.600000	667.900000	678.300000	3232.100000	3689.800000	3097.900000	3142.200000	5944.000000	6021.200000	193.900000	196.300000	2244.000000	2224.200000
+
+
+	&	\textbf{chartjs}	&	\textbf{highcharts}	&	\textbf{particlesjs}	&	\textbf{raphael}	&	\textbf{d3} \\ \hline
+Baseline	&	1207.700	&	473.500	&	237.200	&	505.050	&	720.950 \\ \hline
+Ours	&	1239.200 (2.608\%)	&	508.350 (7.360\%)	&	248.250 (4.659\%)	&	305.800 (-39.452\%)	&	682.800 (-5.292\%) \\ \hline
+	&	\textbf{threejs}	&	\textbf{mathjax}	&	\textbf{amcharts}	&	\textbf{supersized}	&	\textbf{googlecharts} \\ \hline
+Baseline	&	3220.100	&	3092.550	&	6010.600	&	188.550	&	2364.850 \\ \hline
+Ours	&	3709.250 (15.191\%)	&	3123.900 (1.014\%)	&	6007.700 (-0.048\%)	&	196.150 (4.031\%)	&	2210.550 (-6.525\%) \\ \hline
+The cost on average is -1.645400

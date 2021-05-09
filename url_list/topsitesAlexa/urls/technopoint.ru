@@ -1,1 +1,0 @@
-https://technopoint.ru/

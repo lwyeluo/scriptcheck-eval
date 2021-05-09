@@ -1,1 +1,0 @@
-https://covers.droppages.com/

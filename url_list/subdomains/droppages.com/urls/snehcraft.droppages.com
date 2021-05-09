@@ -1,1 +1,0 @@
-https://snehcraft.droppages.com/

@@ -1,1 +1,0 @@
-http://www.myshared.ru/

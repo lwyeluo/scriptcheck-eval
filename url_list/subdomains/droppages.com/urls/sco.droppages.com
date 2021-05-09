@@ -1,1 +1,0 @@
-https://sco.droppages.com/

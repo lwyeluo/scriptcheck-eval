@@ -1,9 +1,0 @@
-https://www.2dfan.com/groups/feedback
-https://www.2dfan.com/join
-https://www.2dfan.com/subjects
-https://www.2dfan.com/groups
-https://www.2dfan.com/help
-https://www.2dfan.com/downloads
-https://www.2dfan.com/copyright
-https://www.2dfan.com/activities
-https://www.2dfan.com/

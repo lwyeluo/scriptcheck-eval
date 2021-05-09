@@ -1,1 +1,0 @@
-https://qb.droppages.com/

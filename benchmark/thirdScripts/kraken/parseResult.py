@@ -96,14 +96,20 @@ class Parser(object):
             line = f.readline()
             print(line.strip("\n"))
             while line:
+                print(line)
                 # find for a new round
                 while line.find(">>>") != 0:
+                    line = f.readline()
+                if str(round) not in line:
+                    line = f.readline()
                     continue
-                round += 1
-                results.append({})
 
                 print("!!! A new round -> ", line.strip("\n"))
                 line = f.readline()
+                if line.find(">>>") == 0:
+                    continue
+                round += 1
+                results.append({})
                 # collect the data for this round
                 while line and line.find(">>>") != 0:
                     if ":" not in line:
@@ -126,7 +132,7 @@ class Parser(object):
                     print(line.strip("\n"), '\t->\t', name, time)
                     # read the next line
                     line = f.readline()
-            print("end")
+            print("end. round=%d" % round)
         return results
 
     def printAndRecord(self, data, end="\n"):
@@ -168,7 +174,6 @@ class Parser(object):
                     results_average[benchmark][_NORMAL_] += usage
                     f.write("\t" + str(usage))
                 for benchmark in self.benchmarkNames:
-                    print(">>> error ")
                     usage = float(results_tim[i][benchmark].replace("ms", ""))
                     results_average[benchmark][_TIM_] += usage
                     f.write("\t" + str(usage))

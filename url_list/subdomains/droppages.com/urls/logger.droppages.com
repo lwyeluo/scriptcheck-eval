@@ -1,1 +1,0 @@
-https://logger.droppages.com/

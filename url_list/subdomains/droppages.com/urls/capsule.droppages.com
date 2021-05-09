@@ -1,1 +1,0 @@
-https://capsule.droppages.com/

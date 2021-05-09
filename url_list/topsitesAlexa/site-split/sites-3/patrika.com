@@ -1,1 +1,0 @@
-https://www.patrika.com/

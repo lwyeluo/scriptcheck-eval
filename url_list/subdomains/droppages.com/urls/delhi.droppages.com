@@ -1,1 +1,0 @@
-https://delhi.droppages.com/

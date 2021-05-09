@@ -1,10 +1,0 @@
-http://www.anakbnet.com/p4.html
-http://www.anakbnet.com/video/file.php?f=2128
-http://www.anakbnet.com/video/file.php?f=2132
-http://www.anakbnet.com/video/browse.php?c=2&p=1
-http://www.anakbnet.com/
-http://www.anakbnet.com/video/browse.php?c=11&p=1
-http://www.anakbnet.com
-http://www.anakbnet.com/ÙØ´Ø§ÙØ¯Ø©+ÙÙÙÙ+Mom+and+Dad+2017+DVD+HD+ÙØªØ±Ø¬Ù+Ø§ÙÙ+ÙØ§ÙÙ-artid1653.html
-http://www.anakbnet.com/tv/browse.php?c=15&p=1
-http://www.anakbnet.com/tv/browse.php?c=8&p=1

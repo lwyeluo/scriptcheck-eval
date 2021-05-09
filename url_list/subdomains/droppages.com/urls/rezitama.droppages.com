@@ -1,1 +1,0 @@
-https://rezitama.droppages.com/

@@ -1,1 +1,0 @@
-https://yearbook.droppages.com/

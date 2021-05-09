@@ -1,1 +1,0 @@
-https://sucmegocna.droppages.com/

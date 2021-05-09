@@ -1,1 +1,0 @@
-https://vedisbepa.droppages.com/

@@ -1,1 +1,0 @@
-https://newshop.droppages.com/

@@ -1,1 +1,0 @@
-https://sq.droppages.com/
