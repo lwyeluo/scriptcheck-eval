@@ -81,9 +81,9 @@ class Parse(object):
 
     def run(self):
         self.parse()
-        self.all_results.RecordRawData()
-        self.all_results.Merge()
-        self.all_results.RecordFinalResult()
+        self.all_results.RecordFilteredData()
+        self.all_results.MergeFilteredByTime()
+        self.all_results.RecordFinalResultFilteredByTime()
 
 
 def run():

@@ -82,6 +82,8 @@ class ResultsForAllLogs:
             self.round[case] = 0
         self.output_file = os.path.join(os.path.dirname(__file__), _OUTPUT_FILE_NAME)
 
+        self.filter_scale = 2
+
 
     def Alloc(self):
         _results = {}
@@ -151,9 +153,10 @@ class ResultsForAllLogs:
                             cpu = self.data[monitor][case][task_type][_CPU_CYCLE][i]
                             time = self.data[monitor][case][task_type][_TIME_IN_US][i]
                             f.write("%f\t%f\t" % (cpu, time))
+                            f.write("%f\t" % time)
                 f.write("\n")
 
-    def Merge(self):
+    def MergeCPUAndTime(self):
         _results = self.Alloc()
         for monitor in _KEY_EVENTS_IN_CHROMIUM:
             for case in _CASES:
@@ -163,7 +166,7 @@ class ResultsForAllLogs:
                         _results[monitor][case][task_type][k] = np.mean(d)
         self.data = _results
 
-    def RecordFinalResult(self):
+    def RecordFinalResultWithCPUAndTime(self):
         _round = 0
         for case in _CASES:
             if _round == 0:
@@ -189,6 +192,113 @@ class ResultsForAllLogs:
                     else:
                         s += "NaN\t%f\t%f(%f\\%%)\t" % (d_ours_normal, d_ours_risky,
                                                         (d_ours_risky/d_ours_normal-1)*100)
+                s += "\n"
+            f.write(s)
+            print(s)
+
+    def CalcMedian(self):
+        _median = self.Alloc()
+        for monitor in _KEY_EVENTS_IN_CHROMIUM:
+            for case in _CASES:
+                for task_type in _TASK_TYPE:
+                    d = self.data[monitor][case][task_type][_TIME_IN_US]
+                    _median[monitor][case][task_type] = np.median(d)
+        self._raw_data_median = _median
+
+
+    def RecordFilteredData(self):
+        _round = 0
+        for case in _CASES:
+            if _round == 0:
+                _round = self.round[case]
+            elif _round != self.round[case]:
+                raise Exception("Bad round")
+
+        with open(self.output_file, 'w') as f:
+            f.write("round\t")
+            for monitor in _KEY_EVENTS_IN_CHROMIUM:
+                f.write("%s" % monitor)
+                f.write("\t" * len(_CASES) * len(_TASK_TYPE) * 2)
+            f.write("\n\t")
+            for monitor in _KEY_EVENTS_IN_CHROMIUM:
+                for case in _CASES:
+                    f.write("%s" % case)
+                    f.write("\t" * len(_TASK_TYPE) * 2)
+            f.write("\n\t")
+            for monitor in _KEY_EVENTS_IN_CHROMIUM:
+                for case in _CASES:
+                    for task_type in _TASK_TYPE:
+                        f.write("%s" % task_type)
+                        f.write("\t" * 2)
+            f.write("\n\t")
+
+            f.write("\n")
+
+            self.CalcMedian()
+
+            for i in range(0, _round):
+                f.write("%d\t" % i)
+                for monitor in _KEY_EVENTS_IN_CHROMIUM:
+                    for case in _CASES:
+                        for task_type in _TASK_TYPE:
+                            time = self.data[monitor][case][task_type][_TIME_IN_US][i]
+                            median = self._raw_data_median[monitor][case][task_type]
+                            # filter
+                            if time <= median / self.filter_scale or time >= median * self.filter_scale:
+                                f.write("%f(%f)\t" % (time, median))
+                            else:
+                                f.write("%f\t" % time)
+                f.write("\n")
+
+    '''
+    give a filter_scale, filter data which either <= median / filter_scale or >= median * filter_scale
+    '''
+    def MergeFilteredByTime(self):
+        self.CalcMedian()
+
+        _results = self.Alloc()
+        for monitor in _KEY_EVENTS_IN_CHROMIUM:
+            for case in _CASES:
+                for task_type in _TASK_TYPE:
+                    d = self.data[monitor][case][task_type][_TIME_IN_US]
+                    # _results[monitor][case][task_type] = np.mean(d)
+                    # filter
+                    median = self._raw_data_median[monitor][case][task_type]
+                    filtered_data = []
+                    for x in d:
+                        if x <= median / self.filter_scale or x >= median * self.filter_scale:
+                            continue
+                        filtered_data.append(x)
+                    _results[monitor][case][task_type] = np.mean(filtered_data)
+        self.data = _results
+
+    def RecordFinalResultFilteredByTime(self):
+        _round = 0
+        for case in _CASES:
+            if _round == 0:
+                _round = self.round[case]
+            elif _round != self.round[case]:
+                raise Exception("Bad round")
+
+        with open(self.output_file, 'a') as f:
+            s = "%s\n#\tFinal Result\n%s\n\n" % ('#'*100, '#'*100)
+
+            s += "monitor\t%s\t\t\t%s\n" % (_CPU_CYCLE, _TIME_IN_US)
+            for monitor in _KEY_EVENTS_IN_CHROMIUM:
+                s += "%s\t" % monitor
+
+                d_baseline = self.data[monitor][_CASE_BASELINE][_TASK_NORMAL]
+                d_ours_normal = self.data[monitor][_CASE_OURS][_TASK_NORMAL]
+                d_ours_risky = self.data[monitor][_CASE_OURS][_TASK_RISKY]
+                if monitor in _SECURITY_MONITOR_TYPE_IN_CHROMIUM:
+                    s += "%f\t%f(%f\\%%)\t%f(%f\\%%)\t" % (d_baseline, d_ours_normal,
+                                                         (d_ours_normal/d_baseline-1)*100,
+                                                         d_ours_risky,
+                                                         (d_ours_risky/d_baseline-1)*100)
+                else:
+                    s += "NaN\t%f\t%f(%f\\%%)\t" % (d_ours_normal, d_ours_risky,
+                                                    (d_ours_risky/d_ours_normal-1)*100)
+
                 s += "\n"
             f.write(s)
             print(s)

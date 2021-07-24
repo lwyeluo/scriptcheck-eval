@@ -15,8 +15,12 @@ class Parse(object):
         self._raw_results = {}
         self._results_filepath = os.path.join(_dir, "experiement_data")
 
-        self.top10_cost_ = {}
-        self.str_top10_cost_ = ""  # write the final average cost into the file |self._results_filepath|
+        self.top10_cost_raw_ = {}  # the cost calculated by raw data
+        self.top10_cost_raw_median_ = {}
+        self.top10_cost_fitlered_ = {}  # the cost calculated by filtered data
+        self.top10_cost_filter_scale_ = 2  # filter data either >= median * scale_ or <= median / scale
+
+        self.log_str_ = ""  # write info into the file |self._results_filepath|
 
         self._sites = IN_SITES
 
@@ -46,8 +50,9 @@ class Parse(object):
                 if self._round == 0:
                     self._round = round
                 elif self._round != round:
-                    raise Exception("The cases have different round. %d vs. %d" % (self._round, round))
+                    raise Exception("The cases [%s] have different round. %d vs. %d" % (site, self._round, round))
 
+            # average
             sum_value_normal, sum_value_tim = 0, 0
             for v in self._raw_results[site][_CASE_BASELINE]:
                 sum_value_normal += v
@@ -57,12 +62,21 @@ class Parse(object):
             sum_value_tim /= len(self._raw_results[site][_CASE_OURS])
             print("\toverhead-site: ", site, sum_value_normal, sum_value_tim, sum_value_tim / sum_value_normal)
 
-            self.top10_cost_[site] = {
+            self.top10_cost_raw_[site] = {
                 _CASE_BASELINE: "%.3f" % sum_value_normal,
                 _CASE_OURS: "%.3f" % sum_value_tim
             }
+            # median
+            self.top10_cost_raw_median_[site] = {
+                _CASE_BASELINE: "%.3f" % np.median(self._raw_results[site][_CASE_BASELINE]),
+                _CASE_OURS: "%.3f" % np.median(self._raw_results[site][_CASE_OURS])
+            }
 
-    def recordData(self):
+    def filterAndRecordData(self):
+        sum_filtered_ = {}
+        for site in self._sites:
+            sum_filtered_[site] = {_CASE_BASELINE: 0, _CASE_OURS: 0}
+
         with open(self._results_filepath, 'w') as f:
             data = ""
             for site in self._sites:
@@ -73,18 +87,43 @@ class Parse(object):
                 for site in self._sites:
                     if i >= len(self._raw_results[site][_CASE_BASELINE]):
                         data += "\t-\t-"
+                        continue
+                    # check whether the data to be filtered
+                    base, ours = self._raw_results[site][_CASE_BASELINE][i], self._raw_results[site][_CASE_OURS][i]
+                    b_median, o_median = self.top10_cost_raw_median_[site][_CASE_BASELINE], self.top10_cost_raw_median_[site][_CASE_OURS]
+                    if base >= float(b_median) * self.top10_cost_filter_scale_ or base <= float(b_median) / self.top10_cost_filter_scale_:
+                        # need to be filtered
+                        #data += "\t-"
+                        data += "\t%f(%f)" % (base, float(b_median))
                     else:
-                        data += "\t%f\t%f" % (self._raw_results[site][_CASE_BASELINE][i], self._raw_results[site][_CASE_OURS][i])
+                        data += "\t%f" % base
+                        sum_filtered_[site][_CASE_BASELINE] += base
+
+                    if ours >= float(o_median) * self.top10_cost_filter_scale_ or ours <= float(o_median) / self.top10_cost_filter_scale_:
+                        # need to be filtered
+                        # data += "\t-"
+                        data += "\t%f(%f)" % (ours, float(o_median))
+                    else:
+                        data += "\t%f" % ours
+                        sum_filtered_[site][_CASE_OURS] += ours
+
                 f.write(data + "\n")
 
+        # update filtered data
+        for site in self._sites:
+            self.top10_cost_fitlered_[site] = {
+                _CASE_BASELINE: "%.2f" % (np.mean(sum_filtered_[site][_CASE_BASELINE] / self._round)),
+                _CASE_OURS: "%.2f" % (np.mean(sum_filtered_[site][_CASE_OURS] / self._round))
+            }
+
     def printAndRecord(self, data, end="\n"):
-        self.str_top10_cost_ += data + end
+        self.log_str_ += data + end
         print(data, end=end)
 
     def writeDataIntoFile(self):
         with open(self._results_filepath, 'a') as f:
             f.write("\n\n")
-            f.write(self.str_top10_cost_)
+            f.write(self.log_str_)
 
     def printf(self):
         for i in range(0, 3):
@@ -99,16 +138,16 @@ class Parse(object):
             self.printAndRecord(" \\\\ \\hline")
             self.printAndRecord("Baseline", end="")
             for site in sites:
-                self.printAndRecord("\t&\t%s" % self.top10_cost_[site.replace(".", "").lower()][_CASE_BASELINE], end="")
+                self.printAndRecord("\t&\t%s" % self.top10_cost_fitlered_[site.replace(".", "").lower()][_CASE_BASELINE], end="")
             self.printAndRecord(" \\\\ \\hline")
             self.printAndRecord("Ours", end="")
             for site in sites:
-                o = self.top10_cost_[site.replace(".", "").lower()][_CASE_BASELINE]
-                n = self.top10_cost_[site.replace(".", "").lower()][_CASE_OURS]
+                o = self.top10_cost_fitlered_[site.replace(".", "").lower()][_CASE_BASELINE]
+                n = self.top10_cost_fitlered_[site.replace(".", "").lower()][_CASE_OURS]
                 cost = (float(n) / float(o) - 1) * 100
-                average_cost += float("%.3f" % cost)
+                average_cost += float("%.2f" % cost)
                 self.printAndRecord("\t&\t%s" % n, end="")
-                self.printAndRecord(" (%.3f\\%%)" % cost, end="")
+                self.printAndRecord(" (%.2f\\%%)" % cost, end="")
             self.printAndRecord(" \\\\ \\hline")
             cnt += 5
             if cnt >= len(self._sites):
@@ -118,7 +157,7 @@ class Parse(object):
 
     def run(self):
         self.parse()
-        self.recordData()
+        self.filterAndRecordData()
         self.printf()
 
 def run():

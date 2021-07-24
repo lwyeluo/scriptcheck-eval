@@ -65,19 +65,59 @@ SITE_URL = {
         _CASE_BASELINE: "http://%s:3001/taskPermission/top10/googlecharts/index.1.html" % _HOST_,
         _CASE_OURS: "http://%s:3001/taskPermission/top10/googlecharts/index.1.html" % _HOST_
     },
+
+    # DOMTRIS
+    "domtris": {
+        _CASE_BASELINE: "http://%s:3001/taskPermission/top10/DOM-Tetris/index.html" % _HOST_,
+        _CASE_OURS: "http://%s:3001/taskPermission/top10/DOM-Tetris/index.html" % _HOST_
+    },
+
+    "googleadsense": {
+        _CASE_BASELINE: "http://%s:3001/taskPermission/top10/experiment/AdvertisingNetworks/GoogleAdsense.html" % _HOST_,
+        _CASE_OURS: "http://%s:3001/taskPermission/top10/experiment/AdvertisingNetworks/GoogleAdsense.html" % _HOST_,
+    },
+
+    "lodash": {
+        _CASE_BASELINE: "http://%s:3001/taskPermission/top10/experiment/JavascriptLibraries/Lodash.html" % _HOST_,
+        _CASE_OURS: "http://%s:3001/taskPermission/top10/experiment/JavascriptLibraries/Lodash.html" % _HOST_,
+    },
+    "jquery": {
+        _CASE_BASELINE: "http://%s:3001/taskPermission/top10/experiment/JavascriptLibraries/jquery.html" % _HOST_,
+        _CASE_OURS: "http://%s:3001/taskPermission/top10/experiment/JavascriptLibraries/jquery.html" % _HOST_,
+    },
+    "modernizr": {
+        _CASE_BASELINE: "http://%s:3001/taskPermission/top10/experiment/JavascriptLibraries/Modernizr.html" % _HOST_,
+        _CASE_OURS: "http://%s:3001/taskPermission/top10/experiment/JavascriptLibraries/Modernizr.html" % _HOST_,
+    },
+    "moment": {
+        _CASE_BASELINE: "http://%s:3001/taskPermission/top10/experiment/JavascriptLibraries/moment.js.html" % _HOST_,
+        _CASE_OURS: "http://%s:3001/taskPermission/top10/experiment/JavascriptLibraries/moment.js.html" % _HOST_,
+    },
+    "underscore": {
+        _CASE_BASELINE: "http://%s:3001/taskPermission/top10/experiment/JavascriptLibraries/underscore.html" % _HOST_,
+        _CASE_OURS: "http://%s:3001/taskPermission/top10/experiment/JavascriptLibraries/underscore.html" % _HOST_,
+    },
+
 }
 
 IN_SITE_GRAPHICS = [
-    "chartjs",
-    "highcharts",
-    "particlesjs",
-    "raphael",
-    "d3",
-    "threejs",
-    "mathjax",
-    "amcharts",
-    "supersized",
-    "googlecharts"
+    # "chartjs",
+    # "highcharts",
+    # "particlesjs",
+    # "raphael",
+    # "d3",
+    # "threejs",
+    # "mathjax",
+    # "amcharts",
+    # "supersized",
+    # "googlecharts",
+
+    "domtris",
+    # "jquery",
+    # "lodash",
+    # "modernizr",
+    # "moment",
+    # "underscore"
 ]
 
 IN_SITES = IN_SITE_GRAPHICS
