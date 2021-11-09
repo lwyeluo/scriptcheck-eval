@@ -11,6 +11,7 @@ if __name__ == '__main__':
     parser.add_argument('--domain', '-d', type=str, metavar="DOMAIN", help="The domain.")
     parser.add_argument('--all', action='store_true', help="All possible targets.")
     parser.add_argument('--Alexa', action='store_true', help="For Alexa top sites.")
+    parser.add_argument('--test', action='store_true', help="For the test.")
     parser.add_argument('--Alexa-subdomains', action='store_true', help="For subdomains of Alexa top sites.")
     parser.add_argument('--reverse', action='store_true', help="Reversely run sites.")
     parser.add_argument('--machine-id', type=int, metavar="MACHINE_INDEX",
@@ -42,7 +43,7 @@ if __name__ == '__main__':
 		Parse Log
 	'''
     # --parse-log China|Alexa
-    parser.add_argument('--parse-log', type=str, choices=['Alexa', 'China'],
+    parser.add_argument('--parse-log', action='store_true',
                         help="Parse the Chrome's logs for Alexa|China top sites")
     # -f LOG_FILE -d DOMAIN
     parser.add_argument('--parse-log-with-filename', '-f', type=str, metavar="LOG_FILENAME",
@@ -63,15 +64,6 @@ if __name__ == '__main__':
     # --run-subdomains -d DOMAIN
     parser.add_argument('--run-subdomains', action='store_true',
                         help="Run the subdomain's url-list for a DOMAIN (with -d)")
-
-    '''
-		Test
-	'''
-    # -t DOMAIN
-    parser.add_argument('--test-parse-log', '-t', type=str, const="yahoo.com", nargs="?", metavar="DOMAIN",
-                        help="Test the parser for Chrome's logs.")
-    parser.add_argument('--test-2mdn', type=str, choices=['run', 'parse'],
-                        help="Run | Parse the2mdn")
 
 
     '''
@@ -105,20 +97,17 @@ if __name__ == '__main__':
     #	Handle URL List
     ####################################################
     if args.parse_homepage:
-        # --parse-homepage -d DOMAIN | --parse-homepage -f LIST_FILE | --parse-homepage --Alexa
+        # --parse-homepage -d DOMAIN | --parse-homepage --Alexa
         if args.domain:
             from url_crawler.subdomains import run
 
             run(args.domain)
-        elif args.parse_log_with_filename:
-            # TODO
-            pass
         elif args.Alexa:
             from top_sites.homePageForTopsitesAlexa import run
 
             run()
         else:
-            raise Exception("Please use '--parse-url -d DOMAIN' or '--parse-url -f LIST_FILE' ")
+            raise Exception("Please use '--parse-homepage -d DOMAIN' or '--parse-homepage --Alexa' ")
 
     elif args.crawl_url:
         # --crawl-url -d DOMAIN | --crawl-url --Alexa
@@ -160,17 +149,14 @@ if __name__ == '__main__':
     ####################################################
 
     elif args.parse_log:
-        # --parse-log  China|Alexa
+        # --parse-log --Alexa
+        if args.Alexa:
+            from result_handler.third_js import parseResult
 
-        if args.parse_log in ['Alexa', 'China']:
-            from result_handler import parseResult
-
-            if args.save:
-                parseResult.runAndSaveObject(args.parse_log)
-            elif args.load:
-                parseResult.loadAndParseResult()
+            if args.test:
+                parseResult.test()
             else:
-                parseResult.run(args.parse_log)
+                parseResult.run()
         else:
             raise Exception("Use --parse-log China|Alexa")
 
@@ -230,16 +216,6 @@ if __name__ == '__main__':
         from result_handler.parseLog import test
 
         test(args.test_parse_log)
-
-    elif args.test_2mdn:
-        if args.test_2mdn == "run":
-            from benchmark._2mdn.catchUrl import run
-
-            run()
-        elif args.test_2mdn == "parse":
-            from benchmark._2mdn.parseData import parse
-
-            parse()
 
     ####################################################
     #	Benchmark

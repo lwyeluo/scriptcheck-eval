@@ -11,6 +11,7 @@ from utils.globalDefinition import _node_filename, _node_run_url_filename
 from utils.globalDefinition import _node_run_url_filename_kraken, _node_run_url_filename_dromeao
 from utils.globalDefinition import _node_run_url_filename_jetstream2, _node_run_url_filename_speedometer
 from utils.globalDefinition import _node_run_url_filename_library
+from utils.globalDefinition import _USE_PROXY_, _PROXY_FOR_CHROME_
 from run_script.globalDefinition import *
 
 
@@ -26,6 +27,9 @@ class RunUrl(object):
         self.node_filename = node_filename
         self.timeout = timeout
         self.timeout_for_node = timeout_for_node
+        self.my_timer = ""
+        self.timeout_check_crash = 5
+        self.timer_check_crash_cnt = 0
 
         # some features logged by node
         self.features_completed = '''result: { type: 'string', value: 'complete' }'''
@@ -47,14 +51,36 @@ class RunUrl(object):
         self._results_for_speedometer = ""
         self._results_for_3rd_library = ""
 
+        self.flag = CHROME_RUN_FLAG_SUCCESS
         self.flag = self.run()  # flag refers to definitions in `globalDefinition`
 
     def timeoutCallback(self, process_node):
-        print("\t\tEnter timeoutCallback")
-        try:
-            os.killpg(process_node.pid, signal.SIGKILL)
-        except Exception as error:
-            print(error)
+        # should close
+        self.timer_check_crash_cnt += 1
+        if self.timer_check_crash_cnt * self.timeout_check_crash > self.timeout_for_node:
+            print("\t\tTimeout! kill....")
+            try:
+                os.killpg(process_node.pid, signal.SIGKILL)
+            except Exception as error:
+                print(error)
+
+        # check crash
+        cmd = "ps -ef | grep -v grep | grep %s | grep renderer" % self.chrome_binary_
+        print("\t\tCheck Crash....", cmd)
+        output, status = executeWithoutCheckStatus(cmd)
+        print(output, status)
+        if output.strip("\n") == "":
+            print("\t\tCrash! kill....")
+            try:
+                os.killpg(process_node.pid, signal.SIGKILL)
+            except Exception as error:
+                print(error)
+
+            self.flag = CHROME_RUN_FLAG_CRASH
+        else:
+            self.my_timer.cancel()
+            self.my_timer = Timer(self.timeout_check_crash, self.timeoutCallback, [process_node])
+            self.my_timer.start()
 
     # collect the url and domains for all (same-origin) frames
     def collectInformationForFrames(self, logs):
@@ -118,28 +144,7 @@ class RunUrl(object):
             return True
         return False
 
-    def run(self):
-        flag = 0  # 0: completed, 1: timeout
-        ret_fd = open(self.ret_filename, 'w')
-
-        print(self.chrome_binary_)
-        process_chrome = subprocess.Popen([self.chrome_binary_, '--remote-debugging-port=9222'], stderr=ret_fd,
-                                          stdout=ret_fd)
-        print('>>> START ' + self.url)
-
-        time.sleep(5)
-
-        print(_node_binary, self.node_filename)
-        process_node = subprocess.Popen([_node_binary, self.node_filename, self.url, str(self.timeout_for_node)],
-                                        stdout=subprocess.PIPE,
-                                        stderr=subprocess.PIPE, preexec_fn=os.setsid)
-        # create a timer
-        my_timer = Timer(self.timeout, self.timeoutCallback, [process_node])
-        my_timer.start()
-
-        stdout, _ = process_node.communicate()
-        #print(str(stdout))
-
+    def handleNodeLog(self, stdout):
         if self.feature_telemetry_done in str(stdout):
             print("\t\tweb page [%s] is completed!" % self.url)
             flag = CHROME_RUN_FLAG_TELEMETRY_SUCCESS
@@ -188,9 +193,44 @@ class RunUrl(object):
         elif self.node_filename == _node_run_url_filename_jetstream2:
             self.collectResultsForJetStream2(str(stdout))
 
+        return flag
+
+    def run(self):
+        flag = 0  # 0: completed, 1: timeout
+        ret_fd = open(self.ret_filename, 'w')
+
+        print(self.chrome_binary_)
+        cmd = ""
+        if _USE_PROXY_:
+            cmd = [self.chrome_binary_, '--remote-debugging-port=9222', _PROXY_FOR_CHROME_]
+        else:
+            cmd = [self.chrome_binary_, '--remote-debugging-port=9222']
+        # cmd = [self.chrome_binary_, '--remote-debugging-port=9222']
+        process_chrome = subprocess.Popen(cmd, stderr=ret_fd,
+                                          stdout=ret_fd)
+        print('>>> START ' + self.url)
+        time.sleep(5)
+
+        cmd = [_node_binary, self.node_filename, self.url, str(self.timeout_for_node)]
+        print(' '.join(cmd))
+        process_node = subprocess.Popen(cmd,
+                                        stdout=subprocess.PIPE,
+                                        stderr=subprocess.PIPE, preexec_fn=os.setsid)
+        # create a timer
+        self.my_timer = Timer(self.timeout_check_crash, self.timeoutCallback, [process_node])
+        self.my_timer.start()
+
+        stdout, _ = process_node.communicate()
+        print(str(stdout))
+
+        if self.flag != CHROME_RUN_FLAG_CRASH:
+            flag = self.handleNodeLog(stdout)
+        else:
+            flag = CHROME_RUN_FLAG_CRASH
+
         print('>>> FINISH ' + self.url)
 
-        my_timer.cancel()
+        self.my_timer.cancel()
 
         time.sleep(2)
         # kill chrome

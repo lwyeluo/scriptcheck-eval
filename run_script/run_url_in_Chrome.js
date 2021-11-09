@@ -20,8 +20,10 @@ async function example() {
     var in_timeout = parseInt(argv[3]);
 
 		try {
+		    console.log("prepare to connect")
 			// connect to endpoint
 			client = await CDP();
+			console.log("connected")
 			// extract domains
 			const {Network, Page, Runtime, Target} = client;
 			// setup handlers
@@ -34,9 +36,10 @@ async function example() {
 			await Page.navigate({url: in_url});
 			//await Page.loadEventFired();
 		        result = await Runtime.evaluate({expression: 'document.readyState'});
-			//console.log(result);
+			console.log(result);
 			while (result.result.value == "loading") {
 				result = await Runtime.evaluate({expression: 'document.readyState'});
+				console.log(result);
 			}
 			startTime = process.uptime();
 			while (result.result.value != "complete") {

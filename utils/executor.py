@@ -8,13 +8,13 @@ import time
 def execute(cmd):
 	(status, output) = subprocess.getstatusoutput(cmd)
 	if status != 0:
-		raise Exception("[ERROR] failed to execute " + cmd + " . The status is " + str(status))
+		raise Exception("[ERROR] failed to execute " + cmd + " . The status is " + str(status) + ". output is " + str(output))
 	return output
 
 
 def executeWithoutCheckStatus(cmd):
 	(status, output) = subprocess.getstatusoutput(cmd)
-	return output
+	return output, status
 
 # get the timestamp
 def getTime():

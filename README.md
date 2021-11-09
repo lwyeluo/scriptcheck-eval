@@ -13,6 +13,7 @@ sudo apt-get install zlib1g-dev libbz2-dev libssl-dev libncurses5-dev libsqlite3
 sudo apt-get install python3-pip
 sudo apt-get install python3-matplotlib
 sudo pip3 install threadpool publicsuffix
+sudo pip3 install python-whois
 
 # enter tim-evaluate directory and type the command below 
     npm install chrome-remote-interface
@@ -26,6 +27,7 @@ before running the benchmarks, test it first:
 cd $CHROME_PATH
 # test the chrome binary
 out/Default/chrome https://www.baidu.com
+# ctrl-c close it
 # test nodejs
 out/Default/chrome --remote-debugging-port=9222
 ```
@@ -91,3 +93,33 @@ To parse the results:
 
 	`python3 evaluate.py --jetstream2-benchmark parse`
 		The data is saved in $tim_evaluate/benchmark/thirdScripts/jetstream2/experiement_data
+
+## for Alexa top test
+
+if you need proxy, please configure proxychains4 in your machine, and let `_USE_PROXY_ = True` in `utils/globalDefinition.py`
+
+The domain path is: `url_list/topsitesAlexa/raw_domains`
+
+1. test the homepage whether is reachable
+
+```
+python3 evaluate.py --parse-homepage --Alexa
+```
+
+2. get more pages for each site
+
+```
+python3 evaluate.py --crawl-url --Alexa
+```
+
+3. run pages using our chrome
+
+```
+python3 evaluate.py --run-alexa-top-sites
+```
+
+4. parse logs
+
+```
+python3 evaluate.py --parse-log --Alexa
+```

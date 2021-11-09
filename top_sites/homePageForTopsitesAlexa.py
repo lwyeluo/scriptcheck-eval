@@ -3,7 +3,8 @@
 import os
 import requests
 import threadpool
-from utils.globalDefinition import _topsites_dir
+from utils.globalDefinition import _topsites_dir, _USE_PROXY_
+from utils.executor import execute
 
 
 class CrawlerTopSites(object):
@@ -12,45 +13,41 @@ class CrawlerTopSites(object):
 		self.domain_file = os.path.join(_topsites_dir, "raw_domains")
 		self.domain_reachable_file = os.path.join(_topsites_dir, "reachable_domains")
 
-		self.http_headers = {
-			'pragma': "no-cache",
-			'accept-encoding': "gzip, deflate, br",
-			'accept-language': "zh-CN,zh;q=0.8",
-			'upgrade-insecure-requests': "1",
-			'user-agent': "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36",
-			'accept': "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
-			'cache-control': "no-cache",
-			'connection': "keep-alive",
-		}
-
 		self.thread_num = 40
 
-		self.homepage_list = []  # save the home pages' urls for these domains
+		self.homepage_list = {}  # save the home pages' urls for these domains
 
-	def isReachable(self, domain):
+	def isReachable(self, domain, rank):
+		print(">>>> HANDLE %s" % domain)
 		for url in ["https://www." + domain, "http://www." + domain,
 					"https://" + domain, "http://" + domain]:
 			try:
-				response = requests.request("GET", url, headers=self.http_headers, timeout=10, allow_redirects=False)
-				print(">>> try %s: the status code is %d" % (url, response.status_code))
-				if response.status_code == 200:
-					return url
+				cmd = ""
+				if _USE_PROXY_:
+					cmd = 'proxychains4 wget "%s" --tries=3 -O test.html' % url
+				else:
+					cmd = 'wget "%s" --tries=3 -O test.html' % url
+				output = execute(cmd)
+				print(">>> try %s..." % url)
+				return url, rank
 			except Exception as e:
 				print("Failed to load %s" % url, e)
-		return None
+		return None, None
 
 	def getHomepage(self, request, result):
 		# the subdomain is request.args[0]
 		# record the url
-		if result:
-			self.homepage_list.append(result)
+		print(result)
+		url, rank = result[0], result[1]
+		if url and rank:
+			self.homepage_list[int(rank)] = url
 
 	def writeHomePagesToFile(self):
 		# save urls into self.subdomain_reachable_file
 		if self.homepage_list:
 			with open(self.domain_reachable_file, "w") as f:
-				for homepage in self.homepage_list:
-					f.write("%s\n" % homepage)
+				for rank in sorted(self.homepage_list.keys()):
+					f.write("%s\t%s\n" % (rank, self.homepage_list[rank]))
 				f.close()
 
 
@@ -58,7 +55,6 @@ class CrawlerTopSites(object):
 		# get the url for domains' home pages
 		if not os.path.exists(self.domain_file):
 			raise Exception("%s does not exist" % self.domain_file)
-
 
 		total_subdomains = 0
 
@@ -71,11 +67,18 @@ class CrawlerTopSites(object):
 			content = f.readlines()
 			total_subdomains = len(content)
 			for line in content:
-				domain = line.strip("\n")
+				if line.find("#") == 0:
+					continue
+				data = line.strip("\n").split("\t")
+				print(data)
+				if len(data) != 2:
+					continue
+
+				rank, domain = data[0], data[1]
 
 				# test the domain is reachable using thread pool
 				request_list += threadpool.makeRequests(
-					self.isReachable, [((domain, ), {})], callback=self.getHomepage)
+					self.isReachable, [((domain, rank, ), {})], callback=self.getHomepage)
 
 			f.close()
 

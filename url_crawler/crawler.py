@@ -24,9 +24,14 @@ class Crawler(object):
 
 		# create the directory to save results
 		self.result_dir = os.path.join(os.path.dirname(self.input_file), 'urls')
+		self.store_html_dir = os.path.join(os.path.dirname(self.input_file), 'htmls')
 		if os.path.exists(self.result_dir):
 			execute("rm -rf %s || true" % self.result_dir)
 		execute("mkdir %s || true" % self.result_dir)
+
+		if os.path.exists(self.store_html_dir):
+			execute("rm -rf %s || true" % self.store_html_dir)
+		execute("mkdir %s || true" % self.store_html_dir)
 
 	def run(self):
 
@@ -36,13 +41,16 @@ class Crawler(object):
 		with open(self.input_file, 'r') as f:
 			content = f.readlines()
 			for line in content:
-				url = line.strip('\n') + '/'
+				data = line.strip('\n').split("\t")
+				if len(data) != 2:
+					raise Exception("Bad input data: %s" % line)
+				url = data[1] + '/'
 				domain = matchDomainFromURL(url)
 				if not domain:
 					raise Exception("Bad Domain. url is %s" % url)
 
 				# the args for our crawler task
-				arg = [domain, url, self.result_dir]
+				arg = [domain, url, self.result_dir, self.store_html_dir]
 				task_args.append((arg, None))
 
 			f.close()
@@ -73,7 +81,7 @@ def run(domain, type):
 
 	elif type == 'Alexa':
 		filepath = os.path.join(_topsites_dir, "reachable_domains")
-		max_url_num = 10
+		max_url_num = 5
 
 	elif type == 'China':
 		raise Exception("TO DO it later")

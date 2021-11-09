@@ -1,6 +1,7 @@
 # coding=utf-8
 
 # FLAGS for the result of running a URL with node
+CHROME_RUN_FLAG_CRASH = -100
 CHROME_RUN_FLAG_SUCCESS = 0
 CHROME_RUN_FLAG_TIMEOUT = -1
 CHROME_RUN_FLAG_TELEMETRY_SUCCESS = 1
