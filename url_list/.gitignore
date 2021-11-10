@@ -1,2 +1,5 @@
 subdomains/
-topsitesAlexa/
+topsitesAlexa/*
+!topsitesAlexa/block*
+!topsitesAlexa/raw_domains
+!topsitesAlexa/reachable_domains

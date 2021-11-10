@@ -181,11 +181,40 @@ class Parse(object):
 			self.my_print(fd, info)
 
 	def print_third_info(self, fd):
+		_dict_3rd = {}  # {third_site: {__COOKIE__: {host_site}, __DOM__: {host_site}}
+
+		for rank in sorted(self._rank_site.keys()):
+			site = self._rank_site[rank]
+			if site not in self._total_res.keys():
+				continue
+
+			for host_url in self._total_res[site].keys():
+				for third_url in self._total_res[site][host_url]:
+					third_domain = getSiteFromURL(third_url)
+					if third_domain is None:
+						continue
+
+					cookie = self._total_res[site][host_url][third_url][__COOKIE__]
+					dom = self._total_res[site][host_url][third_url][__DOM__]
+					if not cookie and not dom:
+						continue
+
+					if third_domain not in _dict_3rd.keys():
+						_dict_3rd[third_domain] = {__COOKIE__: set(), __DOM__: set()}
+					if cookie:
+						_dict_3rd[third_domain][__COOKIE__].add(site)
+					if dom:
+						_dict_3rd[third_domain][__DOM__].add(site)
+
 		self.my_print(fd, "#######################################\n")
 		self.my_print(fd, "# Recorded third Info #\n")
 		self.my_print(fd, "#######################################\n")
 
-		self.my_print(fd, "RANK\tSITE\t#THIRD_URL-cookie\t#THIRD_DOMAIN-cookie\t#THIRD_URL-DOM\t#THIRD_DOMAIN-DOM\n")
+		self.my_print(fd, "THIRD_DOMAIN\t#HOST_SITE-cookie\t#HOST_SITE-DOM\n")
+		for third_domain in _dict_3rd.keys():
+			data = "%s\t%d\t%d" % (third_domain, len(_dict_3rd[third_domain][__COOKIE__]),
+								   len(_dict_3rd[third_domain][__DOM__]))
+			self.my_print(fd, "%s\n" % data)
 
 	def finally_compute(self):
 		with open(self._results_raw_file, 'w') as fd:
