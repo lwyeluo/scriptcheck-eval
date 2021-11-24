@@ -8,6 +8,7 @@ _url_list_dir = os.path.join(os.path.dirname(_dir), "url_list")
 
 _subdomains_dir = os.path.join(_url_list_dir, "subdomains")
 _topsites_dir = os.path.join(_url_list_dir, "topsitesAlexa")
+_malicious_set_dir = os.path.join(_url_list_dir, "maliciousSet")
 _topsites_china_dir = os.path.join(_url_list_dir, "topsitesChina")
 
 _topsites_output_domain_dir = os.path.join(_topsites_dir, "suspectedSubDomains")

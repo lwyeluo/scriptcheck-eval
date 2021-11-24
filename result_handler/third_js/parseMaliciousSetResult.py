@@ -9,10 +9,11 @@ from result_handler.finalResultForFrames import FinalResultListForFrames
 from result_handler.finalResult import FinalResultList
 from result_handler.third_js.parseLog import ParseLog
 from result_handler.parseDomain import ParseDomain
-from result_handler import _topsites_dir, _topsites_china_dir
+from result_handler import _malicious_set_dir
 from utils.globalDefinition import _tmp_dir
 from utils.regMatch import matchRawDomainFromURL, getSiteFromURL
 from utils.logger import _logger
+from utils.executor import *
 
 
 __COOKIE__ = "cookie"
@@ -22,10 +23,6 @@ __XHR__ = "xhr"
 
 class Parse(object):
 	def __init__(self, result_dir):
-		self._raw_domains_file = os.path.join(result_dir, "reachable_domains")
-		if not os.path.exists(self._raw_domains_file):
-			raise Exception("SHOULD have %s" % self._raw_domains_file)
-
 		self._results_dir = os.path.join(result_dir, "results")
 		self._results_raw_file = os.path.join(result_dir, "block_results_raw.csv")
 		self._results_host_file = os.path.join(result_dir, "block_results_host.csv")
@@ -35,35 +32,20 @@ class Parse(object):
 		# save the site -> rank
 		self._site_rank = {}  # {site: rank}
 		self._rank_site = {}  # {rank: site}
-		self.get_site_rank()
 
 		# save the results
 		self._total_res = {}  # {domain: {host_url: {third_url: {__COOKIE__: Y/N, __DOM__: Y/N}}}
 
 		self._log = _logger
 
-	def get_site_rank(self):
-		with open(self._raw_domains_file, "r") as fd:
-			lines = fd.readlines()
-			for i, line in enumerate(lines):
-				data = line.strip("\n").split("\t")
-				if len(data) != 2:
-					raise Exception("Bad format for %s" % self._raw_domains_file)
-
-				# rank, url = int(data[0]), data[1]
-				rank, url = i + 1, data[1]
-				site = getSiteFromURL(url)
-				if site is None:
-					raise Exception("Bad format for %s. cannot found site %s"
-									% (self._raw_domains_file, url))
-
-				self._site_rank[site] = rank
-				self._rank_site[rank] = site
+	def my_print(self, fd, data):
+		print(data, end="")
+		fd.write("%s" % data)
 
 	def handle_result_for_cookie(self, res_cookie):
 		for host_url in res_cookie.keys():
-			site = getSiteFromURL(host_url)
-			if site is None or site not in self._site_rank.keys():
+			site = matchRawDomainFromURL(host_url)
+			if site is None:
 				continue
 
 			if site not in self._total_res.keys():
@@ -73,6 +55,9 @@ class Parse(object):
 				self._total_res[site][host_url] = {}
 
 			for third_url in res_cookie[host_url]:
+				if "jquery.min.js" in third_url or third_url.endswith(".html"):
+					continue
+
 				if third_url not in self._total_res[site][host_url].keys():
 					self._total_res[site][host_url][third_url] = {__COOKIE__: False, __DOM__: False, __XHR__: set()}
 
@@ -80,8 +65,8 @@ class Parse(object):
 
 	def handle_result_for_dom(self, res_dom):
 		for host_url in res_dom.keys():
-			site = getSiteFromURL(host_url)
-			if site is None or site not in self._site_rank.keys():
+			site = matchRawDomainFromURL(host_url)
+			if site is None:
 				continue
 
 			if site not in self._total_res.keys():
@@ -91,6 +76,9 @@ class Parse(object):
 				self._total_res[site][host_url] = {}
 
 			for third_url in res_dom[host_url]:
+				if "jquery.min.js" in third_url or third_url.endswith(".html"):
+					continue
+
 				if third_url not in self._total_res[site][host_url].keys():
 					self._total_res[site][host_url][third_url] = {__COOKIE__: False, __DOM__: False, __XHR__: set()}
 
@@ -98,8 +86,8 @@ class Parse(object):
 
 	def handle_result_for_xhr(self, res_xhr):
 		for host_url in res_xhr.keys():
-			site = getSiteFromURL(host_url)
-			if site is None or site not in self._site_rank.keys():
+			site = matchRawDomainFromURL(host_url)
+			if site is None:
 				continue
 
 			if site not in self._total_res.keys():
@@ -109,6 +97,9 @@ class Parse(object):
 				self._total_res[site][host_url] = {}
 
 			for third_url in res_xhr[host_url]:
+				if "jquery.min.js" in third_url or third_url.endswith(".html"):
+					continue
+
 				if third_url not in self._total_res[site][host_url].keys():
 					self._total_res[site][host_url][third_url] = {__COOKIE__: False, __DOM__: False, __XHR__: set()}
 
@@ -128,25 +119,17 @@ class Parse(object):
 		# handle xhr
 		self.handle_result_for_xhr(res_xhr)
 
-	def my_print(self, fd, data):
-		print(data, end="")
-		fd.write("%s" % data)
-
 	def print_raw_data(self, fd):
-		self.my_print(fd, "RANK,SITE,HOST_URL,THIRD_URL,COOKIE,DOM,NET\n")
-		for rank in sorted(self._rank_site.keys()):
-			site = self._rank_site[rank]
-			if site not in self._total_res.keys():
-				continue
-
-			tag = "%d,%s," % (rank, site)
+		self.my_print(fd, "SITE,HOST_URL,THIRD_URL,COOKIE,DOM,NET\n")
+		for site in self._total_res.keys():
+			tag = "%s," % site
 			self.my_print(fd, tag)
 			s_i, s_len = False, len(tag) - 2
 
 			for host_url in self._total_res[site].keys():
 				if s_i:
 					# self.my_print(fd, " " * s_len)
-					self.my_print(fd, "," * 2)
+					self.my_print(fd, ",")
 				s_i = True
 
 				self.my_print(fd, "%s," % host_url)
@@ -155,7 +138,7 @@ class Parse(object):
 				for third_url in self._total_res[site][host_url]:
 					if h_i:
 						# self.my_print(fd, " " * h_s)
-						self.my_print(fd, "," * 3)
+						self.my_print(fd, "," * 2)
 					h_i = True
 					cookie = self._total_res[site][host_url][third_url][__COOKIE__]
 					dom = self._total_res[site][host_url][third_url][__DOM__]
@@ -172,61 +155,23 @@ class Parse(object):
 					data += "\n"
 					self.my_print(fd, data)
 
-	def print_host_info(self, fd):
-		self.my_print(fd, "RANK,SITE,#THIRD_URL-cookie,#THIRD_DOMAIN-cookie,"
-						  "#THIRD_URL-DOM,#THIRD_DOMAIN-DOM,"
-						  "#THIRD_URL-NET,#THIRD_DOMAIN-NET\n")
-		for rank in sorted(self._rank_site.keys()):
-			site = self._rank_site[rank]
-			if site not in self._total_res.keys():
-				continue
-
-			tag = "%d,%s," % (rank, site)
-			self.my_print(fd, tag)
-
-			set_cookie_third_url = set()
-			set_cookie_third_domain = set()
-			set_dom_third_url = set()
-			set_dom_third_domain = set()
-			set_xhr_third_url = set()
-			set_xhr_third_domain = set()
-			for host_url in self._total_res[site].keys():
-				for third_url in self._total_res[site][host_url]:
-					third_domain = getSiteFromURL(third_url)
-					if third_domain is None:
-						continue
-
-					cookie = self._total_res[site][host_url][third_url][__COOKIE__]
-					dom = self._total_res[site][host_url][third_url][__DOM__]
-					xhr = self._total_res[site][host_url][third_url][__XHR__]
-					if cookie:
-						set_cookie_third_url.add(third_url)
-						set_cookie_third_domain.add(third_domain)
-					if dom:
-						set_dom_third_url.add(third_url)
-						set_dom_third_domain.add(third_domain)
-					if xhr:
-						set_xhr_third_url.add(third_url)
-						set_xhr_third_domain.add(third_domain)
-
-			info = "%d,%d,%d,%d,%d,%d\n" % (len(set_cookie_third_url), len(set_cookie_third_domain),
-											len(set_dom_third_url), len(set_dom_third_domain),
-											len(set_xhr_third_url), len(set_xhr_third_domain))
-			self.my_print(fd, info)
-
 	def print_third_info(self, fd):
 		_dict_3rd = {}  # {third_site: {__COOKIE__: {host_site}, __DOM__: {host_site}, __XHR__: {host_site}}
 
-		for rank in sorted(self._rank_site.keys()):
-			site = self._rank_site[rank]
-			if site not in self._total_res.keys():
+		for site in self._total_res.keys():
+			print(">>>> site", site)
+			if site != "host.com:3001":
 				continue
 
 			for host_url in self._total_res[site].keys():
 				for third_url in self._total_res[site][host_url]:
 					third_domain = getSiteFromURL(third_url)
-					if third_domain is None:
+					print(">>>> third", third_domain, third_url)
+					if third_domain is None or not third_domain.endswith("com:3001"):
 						continue
+
+					# get the malicious script name
+					_, _, js_name = third_url.rpartition("/")
 
 					cookie = self._total_res[site][host_url][third_url][__COOKIE__]
 					dom = self._total_res[site][host_url][third_url][__DOM__]
@@ -234,51 +179,62 @@ class Parse(object):
 					if not cookie and not dom:
 						continue
 
-					if third_domain not in _dict_3rd.keys():
-						_dict_3rd[third_domain] = {__COOKIE__: set(), __DOM__: set(), __XHR__: set()}
+					if js_name not in _dict_3rd.keys():
+						_dict_3rd[js_name] = {__COOKIE__: set(), __DOM__: set(), __XHR__: set()}
 					if cookie:
-						_dict_3rd[third_domain][__COOKIE__].add(site)
+						_dict_3rd[js_name][__COOKIE__].add(site)
 					if dom:
-						_dict_3rd[third_domain][__DOM__].add(site)
+						_dict_3rd[js_name][__DOM__].add(site)
 					if xhr:
-						_dict_3rd[third_domain][__XHR__].add(site)
+						_dict_3rd[js_name][__XHR__].add(site)
 
-		self.my_print(fd, "THIRD_DOMAIN,#HOST_SITE-cookie,#HOST_SITE-DOM,#HOST_SITE-NET\n")
-		for third_domain in _dict_3rd.keys():
-			data = "%s,%d,%d,%d" % (third_domain, len(_dict_3rd[third_domain][__COOKIE__]),
-									len(_dict_3rd[third_domain][__DOM__]),
-									len(_dict_3rd[third_domain][__XHR__]))
+		self.my_print(fd, "THIRD_NAME,#HOST_SITE-cookie,#HOST_SITE-DOM,#HOST_SITE-NET\n")
+		found = False
+		for i in range(0, 1000):
+			js_name = "js_%d.txt.js" % i
+			if js_name not in _dict_3rd.keys():
+				continue
+			found = True
+			data = "%s,%d,%d,%d" % (js_name, len(_dict_3rd[js_name][__COOKIE__]),
+									len(_dict_3rd[js_name][__DOM__]),
+									len(_dict_3rd[js_name][__XHR__]))
 			self.my_print(fd, "%s\n" % data)
+
+		if not found:
+			for js_name in sorted(_dict_3rd.keys()):
+				data = "%s,%d,%d,%d" % (js_name, len(_dict_3rd[js_name][__COOKIE__]),
+										len(_dict_3rd[js_name][__DOM__]),
+										len(_dict_3rd[js_name][__XHR__]))
+				self.my_print(fd, "%s\n" % data)
 
 	def finally_compute(self):
 		with open(self._results_raw_file, 'w') as fd:
 			self.print_raw_data(fd)
 
-		with open(self._results_host_file, 'w') as fd:
-			self.print_host_info(fd)
-
 		with open(self._results_third_file, 'w') as fd:
 			self.print_third_info(fd)
 
 	def run(self):
-
 		web_page_data = []  # store the final results for webpage
 		frames_data = []  # store the final results for frame, including the domains and urls for all frames
 
-		domains = os.listdir(self._results_dir)
-		for domain in domains:
-			domain_dir = os.path.join(self._results_dir, domain)
-			if not os.path.isdir(domain_dir):
+		years = os.listdir(self._results_dir)
+		for year in years:
+			p = os.path.join(self._results_dir, year)
+			if not os.path.isdir(p):
 				continue
 
-			print("\n\n\t\t[DOMAIN] = [%s]\n" % domain)
+			cmd = ["find", p, "-name", "*.js"]
+			print(cmd)
+			files = executeByList(cmd)
+			for i, script in enumerate(files.split("\n")):
+				if not os.path.isfile(script):
+					continue
 
-			webpages = os.listdir(domain_dir)
-			for webpage in webpages:
-				webpage_filename = os.path.join(domain_dir, webpage)
+				print("\n\n\t\t[PATH] = [%s]\n" % script)
 
 				# parse that log
-				parser = ParseLog(webpage_filename, domain=domain, url=webpage.replace(",", "/"), need_check=True)
+				parser = ParseLog(script, domain="host.com", need_check=False)
 				# record the parser result
 				self.handle_result(parser.get_result())
 
@@ -286,7 +242,7 @@ class Parse(object):
 
 
 def run():
-	p = Parse(_topsites_dir)
+	p = Parse(_malicious_set_dir)
 	p.run()
 	p.finally_compute()
 

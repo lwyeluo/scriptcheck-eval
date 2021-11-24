@@ -1,15 +1,18 @@
 # coding=utf-8
 
 import os
-import random
+import shutil
 from utils.executor import *
 from run_script.run import RunUrl
 
 from utils.globalDefinition import _topsites_dir, _log_filename
-from utils.globalDefinition import _random_sample
-from utils.globalDefinition import _node_run_url_filename
 from run_script.globalDefinition import *
 from utils.logger import _logger
+
+from utils.globalDefinition import _cache_for_Chrome_filepath, _node_run_url_filename_kraken
+from utils.globalDefinition import _node_run_url_filename, _node_run_url_filename_dromeao
+from utils.globalDefinition import _timeout_for_node_kraken_benchmark, _timeout_for_node
+from utils.globalDefinition import _chrome_binary_normal, _chrome_binary
 
 
 class RunTopSites(object):
@@ -32,6 +35,23 @@ class RunTopSites(object):
         execute("rm -rf " + self._results_dir + " || true")
         execute("mkdir -p " + self._results_dir + " || true")
 
+    '''
+        Some caches for Chrome must be cleared, otherwise the latency for Chrome is too high
+    '''
+    def clearChromeInternal(self):
+        if os.path.exists(_cache_for_Chrome_filepath):
+            shutil.rmtree(_cache_for_Chrome_filepath)
+
+        # run Chrome for the welcome webpage
+        print(">>> Welcome to Chrome")
+        filepath = os.path.join(self._results_dir, "test")
+        r = RunUrl("https://www.baidu.com", filepath, node_filename=_node_run_url_filename,
+                   timeout=_timeout_for_node,
+                   timeout_for_node=_timeout_for_node,
+                   chrome_binary=_chrome_binary)
+        time.sleep(5)
+        return r.flag
+
     def run(self):
         _logger.info(">>> initial file name is " + self._homepage_file)
 
@@ -45,6 +65,7 @@ class RunTopSites(object):
 
         # transvers all domains
         sites = os.listdir(self._urls_dir)
+        page_idx = 0
         for i, site in enumerate(sites):
             print(">>>>>>>>>>>>>>>> HANDLE the %d-th site: %s" % (i, site))
             # if we have run that site last time, we ignore it
@@ -60,6 +81,7 @@ class RunTopSites(object):
 
             with open(filepath, 'r') as f:
                 lines = f.readlines()
+
                 for line in lines:
                     url = line.strip("\n").strip(' ')
 
@@ -69,6 +91,11 @@ class RunTopSites(object):
                         filename = filename[:50]
 
                     _logger.info("[url, filename] = %s, %s" % (url, filename))
+
+                    # whether needs to clear cache
+                    if page_idx % 100 == 0:
+                        self.clearChromeInternal()
+                    page_idx += 1
 
                     # run Chrome with that url
                     r = RunUrl(url, results_dir + "/" + filename, node_filename=_node_run_url_filename,

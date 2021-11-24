@@ -11,6 +11,7 @@ if __name__ == '__main__':
     parser.add_argument('--domain', '-d', type=str, metavar="DOMAIN", help="The domain.")
     parser.add_argument('--all', action='store_true', help="All possible targets.")
     parser.add_argument('--Alexa', action='store_true', help="For Alexa top sites.")
+    parser.add_argument('--Malicious-set', action='store_true', help="For malicious javascript set.")
     parser.add_argument('--test', action='store_true', help="For the test.")
     parser.add_argument('--Alexa-subdomains', action='store_true', help="For subdomains of Alexa top sites.")
     parser.add_argument('--reverse', action='store_true', help="Reversely run sites.")
@@ -61,6 +62,9 @@ if __name__ == '__main__':
                         'For document.domain of top sites. use with --Alexa-subdomains. '
                         'For reversely running top site, use with --reverse. '
                         'For running top site in multiple machines, use with --machine-id MACHINE_ID. ')
+    # --run-malicious-set
+    parser.add_argument('--run-malicious-set', action='store_true',
+                        help='Run the malicious javascript collection. ')
     # --run-subdomains -d DOMAIN
     parser.add_argument('--run-subdomains', action='store_true',
                         help="Run the subdomain's url-list for a DOMAIN (with -d)")
@@ -157,6 +161,14 @@ if __name__ == '__main__':
                 parseResult.test()
             else:
                 parseResult.run()
+        # --parse-log --Malicious-set
+        elif args.Malicious_set:
+            from result_handler.third_js import parseMaliciousSetResult
+
+            if args.test:
+                parseMaliciousSetResult.test()
+            else:
+                parseMaliciousSetResult.run()
         else:
             raise Exception("Use --parse-log China|Alexa")
 
@@ -206,6 +218,12 @@ if __name__ == '__main__':
             from top_sites import runTopSite
 
             runTopSite.run()
+
+    elif args.run_malicious_set:
+        # --run-malicious-set
+        from top_sites import runMaliciousSet
+
+        runMaliciousSet.run()
 
     ####################################################
     #	Test

@@ -20,6 +20,8 @@ _topsites_dir = os.path.join(_url_list_dir, "topsitesAlexa")
 _topsites_split_dir = os.path.join(_topsites_dir, "site-split")
 _topsites_reachable_file = os.path.join(_topsites_dir, "reachable_domains")
 _topsites_urls_dir = os.path.join(_topsites_dir, "urls")
+# for malicious set
+_malicious_set_dir = os.path.join(_url_list_dir, "maliciousSet")
 # for document.domain of Alexa topsites
 _target_subdomains_json_file = os.path.join(_topsites_dir, "suspectedSubDomains")
 
@@ -78,5 +80,5 @@ _NORMAL_ = "NORMAL"
 _TIM_ = "TIM"
 _COST_ = "cost"
 
-_USE_PROXY_ = True
+_USE_PROXY_ = False
 _PROXY_FOR_CHROME_ = '--proxy-server=socks5://127.0.0.1:1080'

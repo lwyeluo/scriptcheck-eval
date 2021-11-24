@@ -12,6 +12,15 @@ def execute(cmd):
 	return output
 
 
+# execute a shell command and block!
+def executeByList(cmd):
+	if not isinstance(cmd, list):
+		raise Exception("Use list!")
+	p = subprocess.Popen(cmd, shell=False, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
+	stdout, _ = p.communicate()
+	return stdout.decode("utf-8")
+
+
 def executeWithoutCheckStatus(cmd):
 	(status, output) = subprocess.getstatusoutput(cmd)
 	return output, status

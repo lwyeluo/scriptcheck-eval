@@ -1,5 +1,7 @@
 subdomains/
 topsitesAlexa/*
+maliciousSet/*
+!maliciousSet/block*
 !topsitesAlexa/block*
 !topsitesAlexa/raw_domains
 !topsitesAlexa/reachable_domains
