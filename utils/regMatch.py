@@ -42,6 +42,9 @@ def matchPrincipal(principal):
 		}
 	return None
 
+def strip_into_csv(s):
+	return '"%s"' % s.replace('"', '""')
+
 if __name__ == '__main__':
 	url = "http://www.chewen.com/"
 	domain = matchDomainFromURL(url)

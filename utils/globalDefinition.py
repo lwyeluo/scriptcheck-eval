@@ -52,6 +52,7 @@ print("Chrome binary is ", _chrome_binary)
 # get the normal chrome binary
 _chrome_binary_normal = _home_dir + "/chromium/init/src/out/Default/chrome"
 print("Chrome normal binary is ", _chrome_binary_normal)
+_chrome_binary_name = {_chrome_binary: "scriptCheck", _chrome_binary_normal: "baseline"}
 # get the node binary
 _node_binary = "node"
 # get the nodejs script, which checks the loading status and gets domains for all same-origin frames

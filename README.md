@@ -127,14 +127,20 @@ python3 evaluate.py --parse-log --Alexa
 ## for malicious data set
 
 ```
-1. run pages using our chrome
+1. run pages using our chrome and baseline
 
 ```
 python3 evaluate.py --run-malicious-set
 ```
 
-2. parse logs
+2. parse logs for our chrome
 
 ```
 python3 evaluate.py --parse-log --Malicious-set
+```
+
+3. parse logs and compare with baseline
+
+```
+python3 evaluate.py --parse-log --Malicious-set --compare
 ```

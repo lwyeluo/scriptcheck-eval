@@ -1,0 +1,23 @@
+{
+    "RIG_ek/2/2016-02-23-Rig-EK-chain-step-1-theprojectgirl.com-jquery.js": "user agent is not matched, the attack is not trigged",
+    "RIG_ek/2/2016-02-23-Rig-EK-chain-step-1-planetside.co.uk-mootools-core.js": "user agent is not matched, the attack is not trigged",
+    "RIG_ek/1/2016-02-07-engeniusforum.com-jquery_injection.js": "user agent is not matched, the attack is not trigged",
+    "RIG_ek/2/2016-02-23-Rig-EK-chain-step-1-cyclocamping.com-jquery.min.js": "user agent is not matched, the attack is not trigged",
+    "legitimate-injected/3/injected.js": "user agent is not matched, the attack is not trigged",
+    "legitimate-injected/3/deobfuscated.js": "user agent is not matched, the attack is not trigged",
+    "RIG_ek/2/2016-02-23-Rig-EK-chain-step-1-ancientbathsny.com-jquery.js": "user agent is not matched, the attack is not trigged",
+    "RIG_ek/2/2016-02-23-Rig-EK-chain-step-1-pavtube.com-jquery.js": "user agent is not matched, the attack is not trigged",
+    "js-droppers/Bruce_Morton_-_documents.js": "attack is triggered and popups, our policy does not catch it",
+    "js-droppers/Invoice_852947.js": "attack is triggered and popups, our policy does not catch it",
+    "js-droppers/documents_and_passport_scans.js": "attack is triggered and popups, our policy does not catch it",
+    "js-droppers/Collin_Richard_-_passport_scans.js": "attack is triggered and popups, our policy does not catch it",
+    "misc/private_exploit_pack_cve.js": "define a func but not run it. when run the func, get Uncaught ReferenceError",
+    "misc/rogue_phonecalls/prototype_deobfuscated.js": "define a func but not run it. when run the func, get Uncaught ReferenceError",
+    "js-droppers/Payment_Confirmation_#358948.js": "filepath include special char '#/^', causing that the script is not loaded. when replace the special char, get Uncaught ReferenceError",
+    "js-droppers/000714113.zip^000714113.doc.js": "filepath include special char '#/^', causing that the script is not loaded. when replace the special char, get Uncaught ReferenceError",
+    "RIG ek/ek_rig_start[.]remax-grandrapidstwp[.]com.js": "filepath include special char '#/^', causing that the script is not loaded. when replace the special char, get Uncaught ReferenceError",
+    "bleeding_life/PluginDetect_deobfuscated.js": "dont understand",
+    "misc/nucleotide.js": "dont understand",
+    "js-droppers/Isiah_Hess_-_My_resume.js": "dont understand",
+    "misc/rogue_phonecalls/prototype.js": "dont understand"
+}
