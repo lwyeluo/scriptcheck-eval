@@ -172,7 +172,7 @@ class Compare(object):
 
         with open(self._results_raw_file, 'w') as f:
             f.write("SCRIPT,BASELINE-COOKIE-GET,BASELINE_COOKIE_SET,BASELINE-DOM,BASELINE-XHR,BASELINE-CNT,"
-                    "OUR-COOKIE-GET,OUR_COOKIE_SET,OUR-DOM,OUR-XHR,OUR_CNR,COMPARE")
+                    "OUR-COOKIE-GET,OUR_COOKIE_SET,OUR-DOM,OUR-XHR,OUR_CNR,COMPARE\n")
 
             for script in scripts:
                 data = strip_into_csv("%s" % script) + ","

@@ -81,5 +81,5 @@ _NORMAL_ = "NORMAL"
 _TIM_ = "TIM"
 _COST_ = "cost"
 
-_USE_PROXY_ = False
+_USE_PROXY_ = True
 _PROXY_FOR_CHROME_ = '--proxy-server=socks5://127.0.0.1:1080'

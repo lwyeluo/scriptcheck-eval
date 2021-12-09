@@ -90,27 +90,33 @@ class Parse(object):
 				self._total_res[site][host_url][third_url][cookie_type] = True
 
 	def get_key_word_for_dom(self, dom_info):
+		print(dom_info)
 		if not isinstance(dom_info, str):
 			return None, None
 		if dom_info == "":
 			return None, None
-		if not dom_info.startswith("<") and dom_info.find("->") > 0:
+
+		# for document::write...
+		if not dom_info.startswith("-") and dom_info.find("->") > 0:
 			return dom_info[:dom_info.find("->")], None
-		if not dom_info.startswith("<") or not dom_info.endswith(">"):
+
+		if not dom_info.startswith("-"):
 			return None, None
+
 		# check type
 		keyword_type = None
 		for t in self.dom_type_:
-			if dom_info.find(t) == 0:
+			if dom_info.find(t.replace("<", "-") + "<") == 0:  # should be "-input<input"
 				keyword_type = t
 				break
 
 		# check word
 		keyword = None
 		for fea in self.dom_feature_:
-			if dom_info.find(fea) > 1:  # should not be "<Fea"
+			if dom_info.find("-%s<" % fea) == 0:  # should not be "-card<"
 				keyword = fea
 				break
+
 		return keyword_type, keyword
 
 	def handle_result_for_dom(self, res_dom):
