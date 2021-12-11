@@ -195,7 +195,7 @@ class Parse(object):
 			self.my_print(fd, tag)
 			s_i, s_len = False, len(tag) - 2
 
-			for host_url in self._total_res[site].keys():
+			for host_url in sorted(self._total_res[site].keys()):
 				if s_i:
 					# self.my_print(fd, " " * s_len)
 					self.my_print(fd, "," * 2)
@@ -204,7 +204,7 @@ class Parse(object):
 				self.my_print(fd, '%s,' % strip_into_csv(host_url))
 				h_i, h_s = False, len(host_url) + len(tag) - 3
 
-				for third_url in self._total_res[site][host_url]:
+				for third_url in sorted(self._total_res[site][host_url]):
 					if h_i:
 						# self.my_print(fd, " " * h_s)
 						self.my_print(fd, "," * 3)
@@ -220,7 +220,7 @@ class Parse(object):
 					data += ","
 					if dom:
 						data += "Y,"
-						for idx, keyword in enumerate(dom.keys()):
+						for idx, keyword in enumerate(sorted(dom.keys())):
 							data += strip_into_csv("%s:" % keyword)
 							data += strip_into_csv('\r\n'.join(dom[keyword]))
 							if idx != len(dom.keys()) - 1:
@@ -253,8 +253,8 @@ class Parse(object):
 			set_cookie_third_url, set_cookie_third_domain = set(), set()
 			set_dom_third_url, set_dom_third_domain = set(), set()
 			set_xhr_third_url, set_xhr_third_domain = set(), set()
-			for host_url in self._total_res[site].keys():
-				for third_url in self._total_res[site][host_url]:
+			for host_url in sorted(self._total_res[site].keys()):
+				for third_url in sorted(self._total_res[site][host_url]):
 					third_domain = getSiteFromURL(third_url)
 					if third_domain is None:
 						continue
@@ -290,8 +290,8 @@ class Parse(object):
 			if site not in self._total_res.keys():
 				continue
 
-			for host_url in self._total_res[site].keys():
-				for third_url in self._total_res[site][host_url]:
+			for host_url in sorted(self._total_res[site].keys()):
+				for third_url in sorted(self._total_res[site][host_url]):
 					third_domain = getSiteFromURL(third_url)
 					if third_domain is None:
 						continue
@@ -347,8 +347,8 @@ class Parse(object):
 				info[dom_word] = 0
 
 			valid_dom = False
-			for host_url in self._total_res[site].keys():
-				for third_url in self._total_res[site][host_url]:
+			for host_url in sorted(self._total_res[site].keys()):
+				for third_url in sorted(self._total_res[site][host_url]):
 					third_domain = getSiteFromURL(third_url)
 					if third_domain is None:
 						continue
@@ -357,7 +357,7 @@ class Parse(object):
 					if not dom:
 						continue
 
-					for k in dom.keys():
+					for k in sorted(dom.keys()):
 						info[k] += 1
 						valid_dom = True
 
@@ -387,8 +387,8 @@ class Parse(object):
 			if site not in self._total_res.keys():
 				continue
 
-			for host_url in self._total_res[site].keys():
-				for third_url in self._total_res[site][host_url]:
+			for host_url in sorted(self._total_res[site].keys()):
+				for third_url in sorted(self._total_res[site][host_url]):
 					third_domain = getSiteFromURL(third_url)
 					if third_domain is None:
 						continue
@@ -397,7 +397,7 @@ class Parse(object):
 					if not dom:
 						continue
 
-					for k in dom.keys():
+					for k in sorted(dom.keys()):
 						info[k][info_key_third].add(third_url)
 						info[k][info_key_host].add(host_url)
 						info[k][info_key_third_domain].add(third_domain)
