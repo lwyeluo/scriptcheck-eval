@@ -222,14 +222,14 @@ class Parse(object):
 						data += "Y,"
 						for idx, keyword in enumerate(sorted(dom.keys())):
 							data += strip_into_csv("%s:" % keyword)
-							data += strip_into_csv('\r\n'.join(dom[keyword]))
+							data += strip_into_csv('\r\n'.join(sorted(dom[keyword])))
 							if idx != len(dom.keys()) - 1:
 								data += strip_into_csv("\r\n")
 					else:
 						data += "N,"
 					data += ","
 					if xhr:
-						data += "Y," + strip_into_csv('\r\n'.join(xhr))
+						data += "Y," + strip_into_csv('\r\n'.join(sorted(xhr)))
 					else:
 						data += "N,"
 					data += "\n"
@@ -317,7 +317,7 @@ class Parse(object):
 						_dict_3rd[third_domain][__XHR__].add(site)
 
 		self.my_print(fd, "THIRD_DOMAIN,#HOST_SITE-cookie-get,#HOST_SITE-cookie-set,#HOST_SITE-DOM,#HOST_SITE-NET\n")
-		for third_domain in _dict_3rd.keys():
+		for third_domain in sorted(_dict_3rd.keys()):
 			data = '%s,%d,%d,%d,%d' % (strip_into_csv(third_domain),
 									   len(_dict_3rd[third_domain][__COOKIE_GET__]),
 									   len(_dict_3rd[third_domain][__COOKIE_SET__]),

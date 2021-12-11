@@ -1,0 +1,5 @@
+https://www.elwatannews.com/
+https://ay5edma.elwatannews.com/Places/Index?form=featureSearch&locationID=&CatID=433&keyword=&locationFilter=&AllCategories=433
+https://honna.elwatannews.com/news/details/2124859/Ø¨Ø§ÙØ¬Ø¨ÙØ©-ÙØ§ÙØ´ÙÙÙÙØ§ØªØ©-Ø·Ø±Ù-ÙØ®ØªÙÙØ©-ÙØªØ­Ø¶ÙØ±-Ø§ÙØ¹Ø¬Ø§Ø¦Ù-ÙÙ-ÙØ¬Ø¨Ø©-Ø¥ÙØ·Ø§Ø±-Ø·ÙÙÙ?s=watan
+https://honna.elwatannews.com/news/details/2124823/ÙØªØ­ØªØ§Ø±ÙØ´-ÙÙØ§-ØªØ´ØªØ±Ù-ÙÙ-Ø¨Ø±Ø©-Ø·Ø±Ù-ÙØ®ØªÙÙØ©-ÙØ¹ÙÙ-ØªÙØ±ØªØ©-Ø¹ÙØ¯-Ø§ÙØ­Ø¨-Ø§ÙÙØµØ±Ù-2021?s=watan
+https://alwan.elwatannews.com/news/details/5784394/Ø±Ø§Ø¶Ù-ÙØªØ­Ø¯Ù-Ø§ÙØ¨Ø·Ø§ÙØ©-Ø¨ØºØ³ÙÙ-Ø§ÙØ³Ø¬Ø§Ø¯-ÙØªÙØ¸ÙÙ-Ø§ÙÙØ·Ø§Ø¨Ø®-Ø¹Ø´Ø§Ù-ÙÙØ¯Ø´-Ø¥ÙØ¯Ù-ÙØ­Ø¯

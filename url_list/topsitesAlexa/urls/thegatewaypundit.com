@@ -1,0 +1,5 @@
+https://www.thegatewaypundit.com/2021/11/pentagon-watchdog-says-biden-drone-strike-killed-10-afghan-civilians-including-7-kids-not-violate-laws-war/#insticator-commenting
+https://app.clouthub.com/share?url=https%3A%2F%2Fwww.thegatewaypundit.com%2F2021%2F11%2Fnew-jersey-gubernatorial-election-worker-let-non-citizen-non-registered-voter-fill-ballot-right-now-video%2F%3Futm_source%3DClouthub%26utm_campaign%3Dwebsitesharingbuttons&text=New%20Jersey%20Gubernatorial%20Election%20Worker%3A%20%22I%27ll%20Let%20You%20%5BNon-Citizen%2FNon-Registered%20Voter%5D%20Fill%20Out%20a%20Ballot%20Right%20Now%22%20%28VIDEO%29
+https://gab.com/compose?url=https%3A%2F%2Fwww.thegatewaypundit.com%2F2021%2F11%2Fflorida-governor-ron-desantis-holds-presser-announces-new-law-enforcement-office-election-integrity%2F%3Futm_source%3DGab%26utm_campaign%3Dwebsitesharingbuttons&text=Florida%20Governor%20Ron%20DeSantis%20Holds%20Presser%20and%20Announces%20New%20Law%20Enforcement%20Office%20for%20Election%20Integrity%20-%20Crowd%20Breaks%20Out%20in%20%27Let%27s%20Go%20Brandon%27%20%28VIDEO%29
+https://www.thegatewaypundit.com/gp-favorite-international-blogs/
+https://www.thegatewaypundit.com/

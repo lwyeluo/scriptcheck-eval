@@ -6,5 +6,6 @@ maliciousSet/*
 !maliciousSet/*.json
 !topsitesAlexa/block*
 !topsitesAlexa/*.csv
+!topsitesAlexa/urls/
 !topsitesAlexa/raw_domains
 !topsitesAlexa/reachable_domains
