@@ -429,7 +429,7 @@ class Parse(object):
 
 	def run(self):
 		domains = os.listdir(self._results_dir)
-		for domain in domains:
+		for domain in sorted(domains):
 			domain_dir = os.path.join(self._results_dir, domain)
 			if not os.path.isdir(domain_dir):
 				continue
@@ -437,7 +437,7 @@ class Parse(object):
 			print("\n\n\t\t[DOMAIN] = [%s]\n" % domain)
 
 			webpages = os.listdir(domain_dir)
-			for webpage in webpages:
+			for webpage in sorted(webpages):
 				webpage_filename = os.path.join(domain_dir, webpage)
 
 				# parse that log

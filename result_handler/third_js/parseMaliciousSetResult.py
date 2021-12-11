@@ -327,7 +327,7 @@ class Parse(object):
 		self.my_print(fd, "Failed to run: %d\n" % len(self._total_failed_js))
 		self.my_print(fd, "Benign: %d\n" % len(self._total_benign_js))
 		self.my_print(fd, "Benign Scripts:")
-		for js in self._total_benign_js:
+		for js in sorted(self._total_benign_js):
 			# get results
 			js_name = self.strip_js_filepath(js)
 			for k in self._manually_results.keys():
@@ -341,13 +341,13 @@ class Parse(object):
 			self.my_print(fd, "\n")
 
 		self.my_print(fd, "No-source-error Scripts:")
-		for js in self._untracked_source_js:
+		for js in sorted(self._untracked_source_js):
 			self.my_print(fd, ",%s\n" % self.strip_js_filepath(js))
 		if len(self._untracked_source_js) == 0:
 			self.my_print(fd, "\n")
 
 		self.my_print(fd, "Failed Scripts:")
-		for js in self._total_failed_js:
+		for js in sorted(self._total_failed_js):
 			self.my_print(fd, ",%s\n" % self.strip_js_filepath(js))
 		pass
 
@@ -380,7 +380,7 @@ class Parse(object):
 		self._total_benign_js = set()
 
 		years = os.listdir(self._results_dir)
-		for year in years:
+		for year in sorted(years):
 			p = os.path.join(self._results_dir, year)
 			if not os.path.isdir(p):
 				continue
@@ -388,7 +388,7 @@ class Parse(object):
 			cmd = ["find", p, "-name", "*.js"]
 			print(cmd)
 			files = executeByList(cmd)
-			for i, script in enumerate(files.split("\n")):
+			for i, script in sorted(enumerate(files.split("\n"))):
 				if not os.path.isfile(script):
 					continue
 

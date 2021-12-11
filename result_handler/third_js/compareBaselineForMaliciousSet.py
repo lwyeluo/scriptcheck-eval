@@ -166,7 +166,7 @@ class Compare(object):
         for script in _total_count_normal.keys():
             scripts.add(script)
 
-        for script in scripts:
+        for script in sorted(scripts):
             if script not in _total_count_normal.keys() or script not in _total_count_our.keys():
                 raise Exception("Does not fit, we cannot find %s" % script)
 
@@ -174,7 +174,7 @@ class Compare(object):
             f.write("SCRIPT,BASELINE-COOKIE-GET,BASELINE_COOKIE_SET,BASELINE-DOM,BASELINE-XHR,BASELINE-CNT,"
                     "OUR-COOKIE-GET,OUR_COOKIE_SET,OUR-DOM,OUR-XHR,OUR_CNR,COMPARE\n")
 
-            for script in scripts:
+            for script in sorted(scripts):
                 data = strip_into_csv("%s" % script) + ","
 
                 cnt_normal = _total_count_normal[script]
