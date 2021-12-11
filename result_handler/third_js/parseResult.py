@@ -17,6 +17,7 @@ from utils.logger import _logger
 
 __COOKIE_GET__ = "cookie_get"
 __COOKIE_SET__ = "cookie_set"
+__COOKIE_ACCESS__ = "cookie_access"
 __DOM__ = "dom"
 __XHR__ = "xhr"
 
@@ -239,6 +240,7 @@ class Parse(object):
 		self.my_print(fd, "RANK,SITE,"
 						  "#THIRD_URL-cookie-get,#THIRD_DOMAIN-cookie-get,"
 						  "#THIRD_URL-cookie-set,#THIRD_DOMAIN-cookie-set,"
+						  "#THIRD_URL-cookie,#THIRD_DOMAIN-cookie,"
 						  "#THIRD_URL-DOM,#THIRD_DOMAIN-DOM,"
 						  "#THIRD_URL-NET,#THIRD_DOMAIN-NET\n")
 		for rank in sorted(self._rank_site.keys()):
@@ -251,6 +253,7 @@ class Parse(object):
 
 			get_cookie_third_url, get_cookie_third_domain = set(), set()
 			set_cookie_third_url, set_cookie_third_domain = set(), set()
+			access_cookie_third_url, access_cookie_third_domain = set(), set()
 			set_dom_third_url, set_dom_third_domain = set(), set()
 			set_xhr_third_url, set_xhr_third_domain = set(), set()
 			for host_url in sorted(self._total_res[site].keys()):
@@ -269,6 +272,9 @@ class Parse(object):
 					if cookie_set:
 						set_cookie_third_url.add(third_url)
 						set_cookie_third_domain.add(third_domain)
+					if cookie_get or cookie_set:
+						access_cookie_third_url.add(third_url)
+						access_cookie_third_domain.add(third_domain)
 					if dom:
 						set_dom_third_url.add(third_url)
 						set_dom_third_domain.add(third_domain)
@@ -276,10 +282,12 @@ class Parse(object):
 						set_xhr_third_url.add(third_url)
 						set_xhr_third_domain.add(third_domain)
 
-			info = "%d,%d,%d,%d,%d,%d,%d,%d\n" % (len(get_cookie_third_url), len(get_cookie_third_domain),
-												  len(set_cookie_third_url), len(set_cookie_third_domain),
-												  len(set_dom_third_url), len(set_dom_third_domain),
-												  len(set_xhr_third_url), len(set_xhr_third_domain))
+			info = "%d,%d,%d,%d,%d,%d,%d,%d,%d,%d\n" % \
+				   (len(get_cookie_third_url), len(get_cookie_third_domain),
+					len(set_cookie_third_url), len(set_cookie_third_domain),
+					len(access_cookie_third_url), len(access_cookie_third_domain),
+					len(set_dom_third_url), len(set_dom_third_domain),
+					len(set_xhr_third_url), len(set_xhr_third_domain))
 			self.my_print(fd, info)
 
 	def print_third_info(self, fd):
@@ -305,24 +313,30 @@ class Parse(object):
 
 					if third_domain not in _dict_3rd.keys():
 						_dict_3rd[third_domain] = {
-							__COOKIE_GET__: set(), __COOKIE_SET__: set(), __DOM__: set(), __XHR__: set()
+							__COOKIE_GET__: set(), __COOKIE_SET__: set(),
+							__COOKIE_ACCESS__: set(),
+							__DOM__: set(), __XHR__: set()
 						}
 					if cookie_get:
 						_dict_3rd[third_domain][__COOKIE_GET__].add(site)
 					if cookie_set:
 						_dict_3rd[third_domain][__COOKIE_SET__].add(site)
+					if cookie_set or cookie_get:
+						_dict_3rd[third_domain][__COOKIE_ACCESS__].add(site)
 					if dom:
 						_dict_3rd[third_domain][__DOM__].add(site)
 					if xhr:
 						_dict_3rd[third_domain][__XHR__].add(site)
 
-		self.my_print(fd, "THIRD_DOMAIN,#HOST_SITE-cookie-get,#HOST_SITE-cookie-set,#HOST_SITE-DOM,#HOST_SITE-NET\n")
+		self.my_print(fd, "THIRD_DOMAIN,#HOST_SITE-cookie-get,#HOST_SITE-cookie-set,#HOST_SITE-Cookie,#HOST_SITE-DOM,#HOST_SITE-NET\n")
 		for third_domain in sorted(_dict_3rd.keys()):
-			data = '%s,%d,%d,%d,%d' % (strip_into_csv(third_domain),
-									   len(_dict_3rd[third_domain][__COOKIE_GET__]),
-									   len(_dict_3rd[third_domain][__COOKIE_SET__]),
-									   len(_dict_3rd[third_domain][__DOM__]),
-									   len(_dict_3rd[third_domain][__XHR__]))
+			data = '%s,%d,%d,%d,%d,%d' % \
+				   (strip_into_csv(third_domain),
+					len(_dict_3rd[third_domain][__COOKIE_GET__]),
+					len(_dict_3rd[third_domain][__COOKIE_SET__]),
+					len(_dict_3rd[third_domain][__COOKIE_ACCESS__]),
+					len(_dict_3rd[third_domain][__DOM__]),
+					len(_dict_3rd[third_domain][__XHR__]))
 			self.my_print(fd, "%s\n" % data)
 
 	def print_host_dom(self, fd):
