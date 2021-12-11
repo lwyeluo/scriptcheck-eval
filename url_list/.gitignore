@@ -1,6 +1,7 @@
 subdomains/
 topsitesAlexa/*
 maliciousSet/*
+!maliciousSet/urls/
 !maliciousSet/block*
 !maliciousSet/*.csv
 !maliciousSet/*.json

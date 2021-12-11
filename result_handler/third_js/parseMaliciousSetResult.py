@@ -239,14 +239,14 @@ class Parse(object):
 						data += "Y,"
 						for idx, keyword in sorted(enumerate(dom.keys())):
 							data += strip_into_csv("%s:" % keyword)
-							data += strip_into_csv('\r\n'.join(dom[keyword]))
+							data += strip_into_csv('\r\n'.join(sorted(dom[keyword])))
 							if idx != len(dom.keys()) - 1:
 								data += strip_into_csv("\r\n")
 					else:
 						data += "N,"
 					data += ","
 					if xhr:
-						data += "Y," + strip_into_csv('\r\n'.join(xhr))
+						data += "Y," + strip_into_csv('\r\n'.join(sorted(xhr)))
 					else:
 						data += "N,"
 					data += "\n"
@@ -388,7 +388,7 @@ class Parse(object):
 			cmd = ["find", p, "-name", "*.js"]
 			print(cmd)
 			files = executeByList(cmd)
-			for i, script in sorted(enumerate(files.split("\n"))):
+			for i, script in enumerate(sorted(files.split("\n"))):
 				if not os.path.isfile(script):
 					continue
 
