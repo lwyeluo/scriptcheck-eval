@@ -124,12 +124,23 @@ python3 evaluate.py --run-alexa-top-sites
 python3 evaluate.py --parse-log --Alexa
 ```
 
+5. run block sites
+
+```
+python3 evaluate.py --run-alexa-top-sites --block-sites
+
+```
+
 ## for malicious data set
 
 ```
 1. run pages using our chrome and baseline
 
 ```
+python3 evaluate.py --run-malicious-set --baseline
+python3 evaluate.py --run-malicious-set --our
+
+# or
 python3 evaluate.py --run-malicious-set
 ```
 

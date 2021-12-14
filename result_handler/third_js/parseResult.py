@@ -29,6 +29,7 @@ class Parse(object):
 			raise Exception("SHOULD have %s" % self._raw_domains_file)
 
 		self._results_dir = os.path.join(result_dir, "results")
+		self._results_host_url_file = os.path.join(result_dir, "block_results_host_url.csv")
 		self._results_raw_file = os.path.join(result_dir, "block_results_raw.csv")
 		self._results_host_file = os.path.join(result_dir, "block_results_host.csv")
 		self._results_third_file = os.path.join(result_dir, "block_results_third.csv")
@@ -184,6 +185,15 @@ class Parse(object):
 	def my_print(self, fd, data):
 		print(data, end="")
 		fd.write("%s" % data)
+
+	def print_host_url_data(self, fd):
+		for rank in sorted(self._rank_site.keys()):
+			site = self._rank_site[rank]
+			if site not in self._total_res.keys():
+				continue
+
+			for host_url in sorted(self._total_res[site].keys()):
+				self.my_print(fd, "%s\n" % host_url)
 
 	def print_raw_data(self, fd):
 		self.my_print(fd, "RANK,SITE,HOST_URL,THIRD_URL,COOKIE_GET,COOKIE_SET,DOM,DOM_INFO,NET,REQUEST_URL\n")
@@ -426,6 +436,9 @@ class Parse(object):
 			self.my_print(fd, "%s\n" % data)
 
 	def finally_compute(self):
+		with open(self._results_host_url_file, 'w') as fd:
+			self.print_host_url_data(fd)
+
 		with open(self._results_raw_file, 'w') as fd:
 			self.print_raw_data(fd)
 

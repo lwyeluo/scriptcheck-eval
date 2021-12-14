@@ -10,7 +10,7 @@ from run_script.globalDefinition import *
 from utils.logger import _logger
 
 from utils.globalDefinition import _cache_for_Chrome_filepath, _node_run_url_filename_kraken
-from utils.globalDefinition import _node_run_url_filename, _node_run_url_filename_dromeao
+from utils.globalDefinition import _node_run_url_filename
 from utils.globalDefinition import _timeout_for_node_kraken_benchmark, _timeout_for_node
 from utils.globalDefinition import _chrome_binary_normal, _chrome_binary
 from utils.globalDefinition import _chrome_binary_name
@@ -118,6 +118,7 @@ class RunMaliciousSet(object):
             for i, script in enumerate(files.split("\n")):
                 if not os.path.isfile(script):
                     continue
+
                 script_url = script.replace(self._web_server_dir, self._web_server_addr)
 
                 script_dir = os.path.dirname(script).replace(self._set_abs_dir, "")
@@ -151,6 +152,14 @@ class RunMaliciousSet(object):
         with open(self._results_crash_filename, 'w') as fp:
             for url in self._crashed_urls:
                 fp.write("%s\n" % url)
+
+
+def run_normal():
+    RunMaliciousSet(chrome_type=_chrome_binary_normal).run()
+
+
+def run_our():
+    RunMaliciousSet(chrome_type=_chrome_binary).run()
 
 
 def run():

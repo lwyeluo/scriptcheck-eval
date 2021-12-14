@@ -21,6 +21,9 @@ if __name__ == '__main__':
     parser.add_argument('--save', action='store_true', help="Save the temporary objects.")
     parser.add_argument('--load', action='store_true', help="Load the temporary objects.")
     parser.add_argument('--script', type=str, metavar="SCRIPT", help="The name of 3rd script.")
+    parser.add_argument('--baseline', action='store_true', help="run the baseline browser.")
+    parser.add_argument('--our', action='store_true', help="run our browser.")
+    parser.add_argument('--block-sites', action='store_true', help="run our browser.")
 
     '''
 		Handle URL List
@@ -166,12 +169,15 @@ if __name__ == '__main__':
         elif args.Malicious_set:
             from result_handler.third_js import parseMaliciousSetResult
 
-            if args.test:
-                parseMaliciousSetResult.test()
-            elif args.compare:
+            if args.compare:
                 from result_handler.third_js import compareBaselineForMaliciousSet
 
-                compareBaselineForMaliciousSet.run()
+                if args.test:
+                    compareBaselineForMaliciousSet.test()
+                else:
+                    compareBaselineForMaliciousSet.run()
+            elif args.test:
+                parseMaliciousSetResult.test()
             else:
                 parseMaliciousSetResult.run()
         else:
@@ -219,16 +225,31 @@ if __name__ == '__main__':
 
             runTopSiteWithMultiMachines.run(args.machine_id)
         else:
-            # --run-alexa-top-sites
-            from top_sites import runTopSite
 
-            runTopSite.run()
+            if args.block_sites:
+                # --run-alexa-top-sites --block-sites
+                from top_sites import runMaliciousTopSite
+
+                runMaliciousTopSite.run()
+                # from top_sites import runMaliciousTopSite_1
+                #
+                # runMaliciousTopSite_1.run()
+            else:
+                # --run-alexa-top-sites
+                from top_sites import runTopSite
+
+                runTopSite.run()
 
     elif args.run_malicious_set:
         # --run-malicious-set
         from top_sites import runMaliciousSet
 
-        runMaliciousSet.run()
+        if args.baseline:
+            runMaliciousSet.run_normal()
+        elif args.our:
+            runMaliciousSet.run_our()
+        else:
+            runMaliciousSet.run()
 
     ####################################################
     #	Test

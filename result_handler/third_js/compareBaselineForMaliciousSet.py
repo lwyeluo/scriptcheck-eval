@@ -84,22 +84,27 @@ class Parse(object):
     def __init__(self, malicious_dir):
         self._results_dir = malicious_dir
 
-        self._total_failed_js = set()
+        self._total_failed_js = {}
         self._total_parsed_js = set()
         self._total_benign_js = set()
 
         self._total_count = {}
 
+        self._feature_console = '''", source: '''
+
     def check_run_error(self, path):
+        err_infos = []
         f = open(path, "r", encoding="ISO-8859-1")
+        print(">>>", path)
         for line in f.readlines():
             if line.find(", source:") > 0:
                 for d in ["Uncaught ReferenceError:", "Uncaught TypeError:", "Uncaught SyntaxError"]:
                     if d in line:
-                        f.close()
-                        return False
+                        err_info, _, _ = line.rpartition(self._feature_console)
+                        err_info = err_info[err_info.find(d):]
+                        err_infos.append(err_info)
         f.close()
-        return True
+        return err_infos
 
     def strip_js_filepath(self, path):
         if not isinstance(path, str):
@@ -110,7 +115,7 @@ class Parse(object):
         return path
 
     def run(self):
-        self._total_failed_js = set()
+        self._total_failed_js = {}
         self._total_parsed_js = set()
         self._total_benign_js = set()
         self._total_count = {}
@@ -128,13 +133,6 @@ class Parse(object):
                 if not os.path.isfile(script):
                     continue
 
-                if not self.check_run_error(script):
-                    self._total_failed_js.add(script)
-                    self._total_count[self.strip_js_filepath(script)] = {}
-                    for k in __KEYS__:
-                        self._total_count[self.strip_js_filepath(script)][k] = -1
-                    continue
-
                 self._total_parsed_js.add(script)
 
                 print("\n\n\t\t[PATH] = [%s]\n" % script)
@@ -146,12 +144,16 @@ class Parse(object):
                     self._total_benign_js.add(script)
                     self._total_count[self.strip_js_filepath(script)] = {}
                     for k in __KEYS__:
-                        self._total_count[self.strip_js_filepath(script)][k] = -1
+                        self._total_count[self.strip_js_filepath(script)][k] = 0
                 else:
                     results = p.get_results()
                     self._total_count[self.strip_js_filepath(script)] = results
 
-        return self._total_count
+                # check error
+                error_infos = self.check_run_error(script)
+                self._total_failed_js[self.strip_js_filepath(script)] = error_infos
+
+        return self._total_count, self._total_failed_js
 
 class Compare(object):
     def __init__(self, results_dir):
@@ -159,7 +161,20 @@ class Compare(object):
 
         self._results_raw_file = os.path.join(self._results_dir, "compare_results_raw.csv")
 
-    def write_results(self, _total_count_normal, _total_count_our):
+    def compare_crash_info(self, _total_fail_js_normal, _total_fail_js_our, script):
+        if script not in _total_fail_js_normal.keys() or \
+            script not in _total_fail_js_our.keys():
+            raise Exception("Something failed")
+
+        base_info, our_info = _total_fail_js_normal[script], _total_fail_js_our[script]
+        ret_base_info = strip_into_csv('\r\n'.join(sorted(base_info)))
+        ret_our_info = strip_into_csv('\r\n'.join(sorted(our_info)))
+        if ret_base_info != ret_our_info:
+            return ret_base_info, ret_our_info, False
+        return ret_base_info, ret_our_info, True
+
+    def write_results(self, _total_count_normal, _total_fail_js_normal,
+                      _total_count_our, _total_fail_js_our):
         scripts = set()
         for script in _total_count_our.keys():
             scripts.add(script)
@@ -172,7 +187,9 @@ class Compare(object):
 
         with open(self._results_raw_file, 'w') as f:
             f.write("SCRIPT,BASELINE-COOKIE-GET,BASELINE_COOKIE_SET,BASELINE-DOM,BASELINE-XHR,BASELINE-CNT,"
-                    "OUR-COOKIE-GET,OUR_COOKIE_SET,OUR-DOM,OUR-XHR,OUR_CNR,COMPARE\n")
+                    "OUR-COOKIE-GET,OUR_COOKIE_SET,OUR-DOM,OUR-XHR,OUR_CNR,"
+                    "BASELINE-CRASH,OUR-CRASH,"
+                    "COMPARE\n")
 
             for script in sorted(scripts):
                 data = strip_into_csv("%s" % script) + ","
@@ -191,11 +208,15 @@ class Compare(object):
                     data += "%d," % cnt_our[k]
                 data += "%d," % num
 
+                base, our, ret = \
+                    self.compare_crash_info(_total_fail_js_normal, _total_fail_js_our, script)
+                data += "%s,%s," % (base, our)
+
                 is_equal = True
                 for d in __KEYS__:
                     if cnt_normal[d] != cnt_our[d]:
                         is_equal = False
-                data += "Y" if is_equal else "N"
+                data += "Y" if is_equal and ret else "N"
                 data += "\n"
 
                 f.write(data)
@@ -206,10 +227,10 @@ class Compare(object):
         if not os.path.exists(dirname_normal) or not os.path.exists(dirname_our):
             raise Exception("cannot found path %s or %s" % (dirname_normal, dirname_our))
 
-        _total_count_normal = Parse(dirname_normal).run()
-        _total_count_our = Parse(dirname_our).run()
+        _total_count_normal, _total_fail_js_normal = Parse(dirname_normal).run()
+        _total_count_our, _total_fail_js_our = Parse(dirname_our).run()
 
-        self.write_results(_total_count_normal, _total_count_our)
+        self.write_results(_total_count_normal, _total_fail_js_normal, _total_count_our, _total_fail_js_our)
 
     def test(self):
         dirname_normal = os.path.join(self._results_dir, "results-" + _chrome_binary_name[_chrome_binary_normal])
